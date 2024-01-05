@@ -1,5 +1,7 @@
 # intermodulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intermodulation.md)
+
 <p><span class="chinese">讨论了互调产物的一般行为特性。</span><span class="english">The general nature of intermodulation products is discussed.</span></p>
 
 <p><span class="chinese">互调失真是影响电视发射机性能的一个重要因素。</span><span class="english">Intermodulation distortion is an important factor affecting the property of television transmitter.</span></p>

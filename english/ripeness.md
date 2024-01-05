@@ -1,5 +1,7 @@
 # ripeness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ripeness.md)
+
 <p><span class="chinese">色泽一般是成熟和败坏的标志。</span><span class="english">Color is commonly an index of ripeness or spoilage.</span></p>
 
 <p><span class="chinese">人，如同我们食用的果实，有他成熟的季节。</span><span class="english">Man, like the fruit he eats, has his period of ripeness.</span></p>

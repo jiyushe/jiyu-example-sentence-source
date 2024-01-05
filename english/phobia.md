@@ -1,5 +1,7 @@
 # phobia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phobia.md)
+
 <p><span class="chinese">社交恐惧症是什么？</span><span class="english">What is social phobia?</span></p>
 
 <p><span class="chinese">这是恐怖症的一种形式。</span><span class="english">The commonest form of phobia.</span></p>

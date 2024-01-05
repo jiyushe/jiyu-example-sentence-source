@@ -1,5 +1,7 @@
 # disparity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disparity.md)
+
 <p><span class="chinese">收入差异能够培育出絔档木赫馐?。</span><span class="english">Income disparity can breed a healthy sense of competition.</span></p>
 
 <p><span class="chinese">在穷人和非穷人间也有类似的差距。</span><span class="english">A similar disparity is found between the poor and non-poor.</span></p>

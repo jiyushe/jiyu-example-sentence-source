@@ -1,5 +1,7 @@
 # umbilicus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/umbilicus.md)
+
 <p><span class="chinese">病灶与脐相连。</span><span class="english">Focus connected with umbilicus.</span></p>
 
 <p><span class="chinese">肚脐发红的情况在手术后逐渐消失。</span><span class="english">The redness of the umbilicus diminished gradually after the operation.</span></p>

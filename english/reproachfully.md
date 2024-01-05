@@ -1,5 +1,7 @@
 # reproachfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reproachfully.md)
+
 <p><span class="chinese">尼古拉责备地说。</span><span class="english">Nikolay said reproachfully.</span></p>
 
 <p><span class="chinese">他用责备的目光看着她。</span><span class="english">And he looked at her reproachfully.</span></p>

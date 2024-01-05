@@ -1,5 +1,7 @@
 # 心愿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinyuan.md)
+
 <p><span class="chinese">还想达成什么未了心愿？</span><span class="english">What wish would you fullfill?</span></p>
 
 <p><span class="chinese">你自己的心愿名单还包括哪些？</span><span class="english">And what's on your own wish list?</span></p>

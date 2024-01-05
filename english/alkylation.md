@@ -1,5 +1,7 @@
 # alkylation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alkylation.md)
+
 <p><span class="chinese">讨论了脱水反应和烷基化反应的机理。</span><span class="english">The reaction mechanisms of the dehydration and alkylation are discussed.</span></p>
 
 <p><span class="chinese">探讨了苯环上烃基化的条件以及查尔酮合成方法和条件。</span><span class="english">The synthesis methods of chalcone and benzene ring alkylation are discussed.</span></p>

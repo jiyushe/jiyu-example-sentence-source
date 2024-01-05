@@ -1,5 +1,7 @@
 # procedure 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/procedure.md)
+
 <p><span class="chinese">抱歉长官，这是例行程序。</span><span class="english">Sorry sir, it’s procedure.</span></p>
 
 <p><span class="chinese">开始程序转弯叫。</span><span class="english">Call starting procedure turn.</span></p>

@@ -1,5 +1,7 @@
 # rifampin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rifampin.md)
+
 <p><span class="chinese">利福平是一种半合成抗生素。</span><span class="english">Rifampin is a semisynthetic antibiotics.</span></p>
 
 <p><span class="chinese">其中美满霉素洗脱时间为1.5分钟，利福平检测时间为13分钟。</span><span class="english">Minocycline was eluted at 1.5 min, and rifampin was detected at 13 min.</span></p>

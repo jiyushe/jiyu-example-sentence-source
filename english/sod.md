@@ -1,5 +1,7 @@
 # sod
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sod.md)
+
 <p><span class="chinese">割裂了绿色的山岗。</span><span class="english">Across the soft green sod.</span></p>
 
 <p><span class="chinese">不过为什么要盖上一层草皮呢？</span><span class="english">But why cover your car in sod?</span></p>

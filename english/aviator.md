@@ -1,5 +1,7 @@
 # aviator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aviator.md)
+
 <p><span class="chinese">与父亲一样，他希望成为海军飞行员。</span><span class="english">Like his father, he hopes to become a naval aviator.</span></p>
 
 <p><span class="chinese">安东尼．圣修伯里是法国作家和飞行员。</span><span class="english">Antoine de Saint-Exupy was a French writer and aviator.</span></p>

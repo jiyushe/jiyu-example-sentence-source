@@ -1,5 +1,7 @@
 # 衣裳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yishang_1.md)
+
 <p><span class="chinese">朝露曾经打湿你的衣裳。</span><span class="english">The dew that used to wet thee.</span></p>
 
 <p><span class="chinese">他们都穿蓝衣裳。</span><span class="english">They were both dressed in blue.</span></p>

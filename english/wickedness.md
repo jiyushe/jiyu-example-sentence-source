@@ -1,5 +1,7 @@
 # wickedness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wickedness.md)
+
 <p><span class="chinese">邪恶以何种方式显形呢?。</span><span class="english">What form does this wickedness take?</span></p>
 
 <p><span class="chinese">以邪恶或者不道德为特点。</span><span class="english">Characterized by wickedness or immorality.</span></p>

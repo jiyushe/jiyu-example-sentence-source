@@ -1,5 +1,7 @@
 # red 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/red_1.md)
+
 <p><span class="chinese">红头发？</span><span class="english">Red hair?</span></p>
 
 <p><span class="chinese">红苹果。</span><span class="english">Red apple.</span></p>

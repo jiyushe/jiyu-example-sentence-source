@@ -1,5 +1,7 @@
 # macroscopical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/macroscopical.md)
+
 <p><span class="chinese">宏观经济的不景气被认为是投资收益减少的主要原因。</span><span class="english">The depression of macroscopical economy is considered as yield reductive main reason.</span></p>
 
 <p><span class="chinese">草案是一个政策指导性规定，是从宏观角度提出的。</span><span class="english">Draft is regulation of directiveness of a policy, put forward from macroscopical angle.</span></p>

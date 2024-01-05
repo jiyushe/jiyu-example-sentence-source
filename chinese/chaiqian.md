@@ -1,5 +1,7 @@
 # 差遣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaiqian.md)
+
 <p><span class="chinese">我辈都听，爱神差遣。</span><span class="english">Cupid he rules us all.</span></p>
 
 <p><span class="chinese">我永远任你差遣！</span><span class="english">I'm always at your service!</span></p>

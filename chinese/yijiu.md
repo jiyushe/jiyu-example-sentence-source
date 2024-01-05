@@ -1,5 +1,7 @@
 # 依旧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yijiu.md)
+
 <p><span class="chinese">比尔依旧是单身。</span><span class="english">Bill's still single.</span></p>
 
 <p><span class="chinese">他们依旧无知。</span><span class="english">They remain ignorant.</span></p>

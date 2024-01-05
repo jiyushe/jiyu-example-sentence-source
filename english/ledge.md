@@ -1,5 +1,7 @@
 # ledge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ledge.md)
+
 <p><span class="chinese">我正从岩架往下转，</span><span class="english">I was swinging off this ledge</span></p>
 
 <p><span class="chinese">壁架凌空伸出几英尺。</span><span class="english">The ledge overhangs by several feet.</span></p>

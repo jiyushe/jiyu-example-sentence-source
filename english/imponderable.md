@@ -1,5 +1,7 @@
 # imponderable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imponderable.md)
+
 <p><span class="chinese">他的新方法所起的作用是无法正确估计的。</span><span class="english">The effect of his new method is imponderable.</span></p>
 
 <p><span class="chinese">我们的技术知识资源是无法估量的。</span><span class="english">Our resources in technical knowledge are imponderable.</span></p>

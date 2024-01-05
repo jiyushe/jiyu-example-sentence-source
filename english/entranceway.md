@@ -1,5 +1,7 @@
 # entranceway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entranceway.md)
+
 <p><span class="chinese">我们开始下山走向大门。</span><span class="english">We start down the hill toward the entranceway.</span></p>
 
 <p><span class="chinese">他们正努力炸开一个入口。</span><span class="english">They were trying to blast to open an entranceway.</span></p>

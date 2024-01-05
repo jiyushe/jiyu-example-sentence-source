@@ -1,5 +1,7 @@
 # 租金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zujin.md)
+
 <p><span class="chinese">我们只象征性地付一点租金。</span><span class="english">We only pay a nominal rent.</span></p>
 
 <p><span class="chinese">你应该先定好租金。</span><span class="english">You should first fix the rent.</span></p>

@@ -1,5 +1,7 @@
 # metasomatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metasomatic.md)
+
 <p><span class="chinese">条纹长石为交代成因。</span><span class="english">The genesis of perthite is metasomatic.</span></p>
 
 <p><span class="chinese">这两种矿体都显示了交代成因的特征。</span><span class="english">All the deposits possess the features of metasomatic origin.</span></p>

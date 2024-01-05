@@ -1,5 +1,7 @@
 # 津贴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jintie.md)
+
 <p><span class="chinese">享受国务院特殊津贴。</span><span class="english">State Department special allowance.</span></p>
 
 <p><span class="chinese">在我国军人享受津贴待遇。</span><span class="english">Soldiers are subsidized in our country.</span></p>

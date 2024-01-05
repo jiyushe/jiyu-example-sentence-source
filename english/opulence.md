@@ -1,5 +1,7 @@
 # opulence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/opulence.md)
+
 <p><span class="chinese">这并不意味着富裕，而是透明度。</span><span class="english">It does not mean opulence but rather transparency.</span></p>
 
 <p><span class="chinese">华舍地理位置优越，物产丰富。</span><span class="english">Huashe enjoys excellent geographical location and is a land of opulence.</span></p>

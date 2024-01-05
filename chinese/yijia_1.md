@@ -1,5 +1,7 @@
 # 衣架
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yijia_1.md)
+
 <p><span class="chinese">我可以多要几个挂衣架吗？</span><span class="english">Can Ihave more clothes hangers?</span></p>
 
 <p><span class="chinese">把挂衣架放在墙角就行。</span><span class="english">Put the on the wall, it will do.</span></p>

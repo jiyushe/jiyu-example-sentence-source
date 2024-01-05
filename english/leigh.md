@@ -1,5 +1,7 @@
 # leigh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leigh.md)
+
 <p><span class="chinese">让我以费雯丽比作你如何?。</span><span class="english">Shall I compare you to Vivien Leigh?</span></p>
 
 <p><span class="chinese">志薄弱的人，一定不会诚实。——拉罗什夫利。</span><span class="english">Weak people, must be honest. -- Laroche J Leigh.</span></p>

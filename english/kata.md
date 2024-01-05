@@ -1,5 +1,7 @@
 # kata
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kata.md)
+
 <p><span class="chinese">參赛者必须在此点之上开始及终结。</span><span class="english">Competitors must start and finish the kata at this point.</span></p>
 
 <p><span class="chinese">它看起来非常完美，有真正的「型」。</span><span class="english">It appeared to be the perfect tuna, a vision of true kata.</span></p>

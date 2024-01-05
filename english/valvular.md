@@ -1,5 +1,7 @@
 # valvular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/valvular.md)
+
 <p><span class="chinese">肺动脉瓣水平膜状闭锁13例，主肺动脉干闭锁1例。</span><span class="english">The atresia was at the valvular level in 13 patients and at the main trunk in 1.</span></p>
 
 <p><span class="chinese">其心脏病变可表现为心包炎，心肌炎、心瓣膜病等。</span><span class="english">The diseases of heart are representing pericarditis, myocarditis and valvular disease.</span></p>

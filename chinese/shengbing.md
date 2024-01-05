@@ -1,5 +1,7 @@
 # 生病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengbing.md)
+
 <p><span class="chinese">他也许生病了吧。</span><span class="english">He might be ill.</span></p>
 
 <p><span class="chinese">你们都生病了吗？</span><span class="english">Are you all sick?</span></p>

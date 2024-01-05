@@ -1,5 +1,7 @@
 # overdo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overdo.md)
+
 <p><span class="chinese">不要做得太过火。</span><span class="english">Don't overdo it.</span></p>
 
 <p><span class="chinese">但不要过分依仗它，灵活运用就是了。</span><span class="english">And don't overdo it.</span></p>

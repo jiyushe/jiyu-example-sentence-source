@@ -1,5 +1,7 @@
 # 苦相
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuxiang.md)
+
 <p><span class="chinese">他一脸苦相，表示怀疑。</span><span class="english">He made a grimace of disbelief.</span></p>
 
 <p><span class="chinese">库马思一脸苦相，表示怀疑。</span><span class="english">Kugelmass made a grimace of disbelief.</span></p>

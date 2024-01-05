@@ -1,5 +1,7 @@
 # 十指
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizhi.md)
+
 <p><span class="chinese">喜欢跟你十指相扣。</span><span class="english">Love with you ten clasp.</span></p>
 
 <p><span class="chinese">十指交叉，双手紧握。</span><span class="english">Interlace your fingers to create a solid grip.</span></p>

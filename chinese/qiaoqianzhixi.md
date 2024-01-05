@@ -1,5 +1,7 @@
 # 乔迁之喜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaoqianzhixi.md)
+
 <p><span class="chinese">为新邻居乔迁之喜买礼物。</span><span class="english">Buy house warming gifts for new neighbors.</span></p>
 
 <p><span class="chinese">第六十九课祝贺你乔迁之喜！</span><span class="english">Lesson 69 Congratulations on moving to your new residence!</span></p>

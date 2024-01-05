@@ -1,5 +1,7 @@
 # 浸水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinshui.md)
+
 <p><span class="chinese">莲叶浸水洗净沥乾。</span><span class="english">Soak, clean and drain lotus leaf.</span></p>
 
 <p><span class="chinese">浸水后，良好的颜色保持性。</span><span class="english">Good colour retention after immersion.</span></p>

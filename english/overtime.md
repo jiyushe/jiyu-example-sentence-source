@@ -1,5 +1,7 @@
 # overtime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overtime.md)
+
 <p><span class="chinese">你们加班多不多?。</span><span class="english">Do you have much overtime?</span></p>
 
 <p><span class="chinese">当你在连击时怎么办。</span><span class="english">What happens is you go overtime?</span></p>

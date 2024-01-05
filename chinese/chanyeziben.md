@@ -1,5 +1,7 @@
 # 产业资本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chanyeziben.md)
+
 <p><span class="chinese">国际产业资本流动已成为世界经济中一个引人注目的现象。</span><span class="english">International industrial capital has been a noticeable phenomenon of the world economy.</span></p>
 
 <p><span class="chinese">产业资本存量结构是区域产业结构系统的直接体现。</span><span class="english">The structure of industry capital stocks is the refection of regional industry structure.</span></p>

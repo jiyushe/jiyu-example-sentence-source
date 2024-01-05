@@ -1,5 +1,7 @@
 # corea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corea.md)
+
 <p><span class="chinese">不，我来自韩国。</span><span class="english">No, ven go dal la Corea.</span></p>
 
 <p><span class="chinese">俄国正通过满洲向朝鲜推进。</span><span class="english">Russia was pushing down through Manchuria to Corea.</span></p>

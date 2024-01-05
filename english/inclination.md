@@ -1,5 +1,7 @@
 # inclination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inclination.md)
+
 <p><span class="chinese">一种倾向掩盖另一种倾向</span><span class="english">An inclination covers the other.</span></p>
 
 <p><span class="chinese">很快，射手座就会倾向去飞离。</span><span class="english">Soon Sagittarius's inclination is to fly.</span></p>

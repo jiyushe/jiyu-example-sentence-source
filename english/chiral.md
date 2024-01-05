@@ -1,5 +1,7 @@
 # chiral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chiral.md)
+
 <p><span class="chinese">这样的碳原子称为手性碳。</span><span class="english">Such a carbon is designated as a chiral carbon.</span></p>
 
 <p><span class="chinese">它们都是手性分子，属于外消旋体。</span><span class="english">They are all chiral molecules and belong in the racemate.</span></p>

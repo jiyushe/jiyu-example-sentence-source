@@ -1,5 +1,7 @@
 # 分道扬镳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fendaoyangbiao.md)
+
 <p><span class="chinese">五年后，两人分道扬镳。</span><span class="english">They divorced five years later.</span></p>
 
 <p><span class="chinese">后来他和马西分道扬镳</span><span class="english">Later he and Massey parted ways.</span></p>

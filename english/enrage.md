@@ -1,5 +1,7 @@
 # enrage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enrage.md)
+
 <p><span class="chinese">有时候作出的决定使我困惑甚至愤怒。</span><span class="english">Sometimes the decisions baffle and enrage me.</span></p>
 
 <p><span class="chinese">那么当别人试图惹恼你时，你怎样？</span><span class="english">What about when people are trying to enrage you?</span></p>

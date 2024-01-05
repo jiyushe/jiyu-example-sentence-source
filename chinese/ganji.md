@@ -1,5 +1,7 @@
 # 感激
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganji.md)
+
 <p><span class="chinese">真的？我太感激了。</span><span class="english">Reall ? I appreciate it.</span></p>
 
 <p><span class="chinese">我对此很感激。</span><span class="english">I really appreciate this.</span></p>

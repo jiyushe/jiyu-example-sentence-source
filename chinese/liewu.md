@@ -1,5 +1,7 @@
 # 猎物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liewu.md)
+
 <p><span class="chinese">他嗅到了猎物。</span><span class="english">He smells blood.</span></p>
 
 <p><span class="chinese">我的狗向猎物扑去。</span><span class="english">My dog sprang at  the game.</span></p>

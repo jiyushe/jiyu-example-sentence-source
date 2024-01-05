@@ -1,5 +1,7 @@
 # 兵种
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingzhong.md)
+
 <p><span class="chinese">兵种造型看起来怎么样？</span><span class="english">So how do they look like?</span></p>
 
 <p><span class="chinese">村庄里可以招募高级兵种。</span><span class="english">Ranked soldiers are now recruitable in villages.</span></p>

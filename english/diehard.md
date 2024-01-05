@@ -1,5 +1,7 @@
 # diehard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diehard.md)
+
 <p><span class="chinese">但是，我是一个顽固后它的球迷。</span><span class="english">But, I'm a diehard Post-Its fan.</span></p>
 
 <p><span class="chinese">芒塔尔班是巴塞罗那的顽固热爱者，他还是一个左派人士。</span><span class="english">Vázquez Montalbán was a diehard Barcelona fan and leftist</span></p>

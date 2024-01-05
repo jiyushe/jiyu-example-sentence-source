@@ -1,5 +1,7 @@
 # joker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/joker.md)
+
 <p><span class="chinese">你喜欢开玩笑吗？</span><span class="english">Are you a joker?</span></p>
 
 <p><span class="chinese">让这么一个窝囊废赢了真丢丑。</span><span class="english">A shame to let a joker like this win.</span></p>

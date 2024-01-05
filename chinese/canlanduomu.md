@@ -1,5 +1,7 @@
 # 灿烂夺目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/canlanduomu.md)
+
 <p><span class="chinese">孔雀展开了它那灿烂夺目的尾巴。</span><span class="english">The peacock spreads his splendid tail.</span></p>
 
 <p><span class="chinese">路边的霓虹灯五彩缤纷，灿烂夺目。</span><span class="english">Roadside neon colors, bright and eye-catching.</span></p>

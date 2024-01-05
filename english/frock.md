@@ -1,5 +1,7 @@
 # frock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frock.md)
+
 <p><span class="chinese">这个和尚穿着灰色的僧袍。</span><span class="english">This monk wears a gray frock.</span></p>
 
 <p><span class="chinese">这种女上衣已不时新了。</span><span class="english">The frock is now out of style.</span></p>

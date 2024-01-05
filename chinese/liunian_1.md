@@ -1,5 +1,7 @@
 # 留念
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liunian_1.md)
+
 <p><span class="chinese">别忘了在我的毕业纪念册上签名留念。</span><span class="english">Don't forget to sign my yearbook.</span></p>
 
 <p><span class="chinese">请题名留念。</span><span class="english">Please give your autograph as a memento.</span></p>

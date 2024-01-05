@@ -1,5 +1,7 @@
 # 折戟沉沙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhejichensha.md)
+
 <p><span class="chinese">然而，就像巴萨，球队在欧洲冠军杯上总是折戟沉沙。</span><span class="english">However, no matter what just like Barca, the Champions League eluded them.</span></p>
 
 <p><span class="chinese">这款手机子发布之始便时运不济，推出的短短几个星期后便折戟沉沙。</span><span class="english">The phone was star-crossed from its released, and a few short weeks after launch.</span></p>

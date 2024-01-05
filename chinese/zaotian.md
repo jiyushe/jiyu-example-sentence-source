@@ -1,5 +1,7 @@
 # 造田
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaotian.md)
+
 <p><span class="chinese">改山造田可是硬碰硬的事。</span><span class="english">To transform hills into fields is an extremely tough job.</span></p>
 
 <p><span class="chinese">多年前围湖造田，遭的报应不少了。</span><span class="english">Years ago, we got our lesson in reclaiming land from lakes.</span></p>

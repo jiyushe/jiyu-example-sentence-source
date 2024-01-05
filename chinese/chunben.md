@@ -1,5 +1,7 @@
 # 蠢笨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chunben.md)
+
 <p><span class="chinese">他是个可笑蠢笨的人。</span><span class="english">He is a funny or stupid person.</span></p>
 
 <p><span class="chinese">我很欣赏我本人，由于我很瘦，不像我蠢笨的父亲。</span><span class="english">I appreciate that I am thin, not clumsy as my dad.</span></p>

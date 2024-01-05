@@ -1,5 +1,7 @@
 # killjoy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/killjoy.md)
+
 <p><span class="chinese">他真是个煞风景的屎蛋。</span><span class="english">What a killjoy shitbag he is.</span></p>
 
 <p><span class="chinese">那个扫兴的傢伙把啤酒拿走了。</span><span class="english">That killjoy ruined the fun by taking our beer away.</span></p>

@@ -1,5 +1,7 @@
 # 装束
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangshu.md)
+
 <p><span class="chinese">她那套装束看起来很可笑。</span><span class="english">She looks ridiculous in that getup.</span></p>
 
 <p><span class="chinese">我的这身装束总让店主对我爱理不理。</span><span class="english">This outfit does not endear me to shopkeepers.</span></p>

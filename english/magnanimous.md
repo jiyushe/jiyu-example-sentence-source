@@ -1,5 +1,7 @@
 # magnanimous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magnanimous.md)
+
 <p><span class="chinese">尊严啊，请对我宽大为怀。</span><span class="english">Dignity, please be magnanimous.</span></p>
 
 <p><span class="chinese">贝佐斯对乔布斯十分宽宏大量。</span><span class="english">Bezos is magnanimous toward Jobs.</span></p>

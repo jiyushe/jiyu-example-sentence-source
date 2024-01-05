@@ -1,5 +1,7 @@
 # dialectic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dialectic.md)
+
 <p><span class="chinese">这是一个新的辩证观。</span><span class="english">There is a new dialectic.</span></p>
 
 <p><span class="chinese">爱美之心人皆有之，只不过如何辩证的去看待而已罢了！</span><span class="english">The love of beauty, but how to dialectic to see it!</span></p>

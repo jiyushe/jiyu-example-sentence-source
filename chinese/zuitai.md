@@ -1,5 +1,7 @@
 # 醉态
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuitai.md)
+
 <p><span class="chinese">她错误地判断了他的醉态。</span><span class="english">She had misjudged his drunkenness.</span></p>
 
 <p><span class="chinese">婚礼之后罗伯特已是醉态百出。</span><span class="english">Robert was well away after the wedding.</span></p>

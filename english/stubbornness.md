@@ -1,5 +1,7 @@
 # stubbornness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stubbornness.md)
+
 <p><span class="chinese">主啊，赦免我们，赦免我们的顽梗！</span><span class="english">Lord, forgive us for our stubbornness.</span></p>
 
 <p><span class="chinese">我爱你的勇气，你的固执。</span><span class="english">I love your courage and your stubbornness.</span></p>

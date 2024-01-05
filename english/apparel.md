@@ -1,5 +1,7 @@
 # apparel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apparel.md)
+
 <p><span class="chinese">服装业是金坛市最大的工业产业。</span><span class="english">Apparel is the biggest industry in JinTan.</span></p>
 
 <p><span class="chinese">服装过时的多，穿破的少。</span><span class="english">Fashion wears out more apparel than the man.</span></p>

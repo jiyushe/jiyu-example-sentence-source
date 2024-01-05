@@ -1,5 +1,7 @@
 # hardwood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hardwood.md)
+
 <p><span class="chinese">地面铺着硬木地板或石板瓷砖。</span><span class="english">Floors are either hardwood or slate tile.</span></p>
 
 <p><span class="chinese">闪闪发光的硬木地板在主&2楼。</span><span class="english">Gleaming Hardwood Floors On Main & 2nd Flr.</span></p>

@@ -1,5 +1,7 @@
 # separatism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/separatism.md)
+
 <p><span class="chinese">他反对分裂主义。</span><span class="english">He disavowed separatism.</span></p>
 
 <p><span class="chinese">在新疆，控告和审讯分离主义者仍在继续。</span><span class="english">In the XUAR, trials of Uighurs charged with separatism continued.</span></p>

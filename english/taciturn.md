@@ -1,5 +1,7 @@
 # taciturn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taciturn.md)
+
 <p><span class="chinese">他总是沉默寡言，不喜欢跟人交流。</span><span class="english">The child is always taciturn like this.</span></p>
 
 <p><span class="chinese">不，不，我宁可不善交际而且沉默。</span><span class="english">No. No, I prefer to be unsociable and taciturn.</span></p>

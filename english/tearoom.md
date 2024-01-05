@@ -1,5 +1,7 @@
 # tearoom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tearoom.md)
+
 <p><span class="chinese">起居室则划分为茶室与客房。</span><span class="english">Living room divides into tearoom and guestroom.</span></p>
 
 <p><span class="chinese">茶室的背景音乐太吵了。</span><span class="english">The background music is too noisy in the tearoom.</span></p>

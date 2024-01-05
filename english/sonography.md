@@ -1,5 +1,7 @@
 # sonography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sonography.md)
+
 <p><span class="chinese">那这会成为糖尿病人临床治疗的首选吗？</span><span class="english">Therefore the sonography should be the first choice for the diagnosis of NLM.</span></p>
 
 <p><span class="chinese">一般情况下，就是通过B超或CT定位下做治疗就可以了。</span><span class="english">In general, the therapy is performed under the localization of B- sonography or CT.</span></p>

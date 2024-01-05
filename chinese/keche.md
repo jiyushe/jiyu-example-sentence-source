@@ -1,5 +1,7 @@
 # 客车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/keche.md)
+
 <p><span class="chinese">让我们乘坐这趟长途客车旅游一次吧！</span><span class="english">Let's go on this coach tour!</span></p>
 
 <p><span class="chinese">这辆长途客车在此停留多久呢?。</span><span class="english">How long does the coach stop here?</span></p>

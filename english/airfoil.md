@@ -1,5 +1,7 @@
 # airfoil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/airfoil.md)
+
 <p><span class="chinese">翼型会员包括。</span><span class="english">An airfoil member comprising.</span></p>
 
 <p><span class="chinese">刹车是如何作用于滑翔伞的翼型？</span><span class="english">How does the brake act on the paraglider airfoil?</span></p>

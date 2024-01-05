@@ -1,5 +1,7 @@
 # 订货
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dinghuo_1.md)
+
 <p><span class="chinese">订货货单编号是0018。</span><span class="english">It 's number 0018.</span></p>
 
 <p><span class="chinese">小酒吧物品的订货工作。</span><span class="english">Ordering of mini-bar items.</span></p>

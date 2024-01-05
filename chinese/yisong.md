@@ -1,5 +1,7 @@
 # 移送
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yisong.md)
+
 <p><span class="chinese">比利被移送到托管人家，加入了流氓团伙。</span><span class="english">Billy removed to foster care and joins a gang.</span></p>
 
 <p><span class="chinese">当投书遭留置移送裁决时是否要通知寄信人？</span><span class="english">Send mail to poster when their posting is held for approval?</span></p>

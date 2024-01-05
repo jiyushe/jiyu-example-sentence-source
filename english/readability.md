@@ -1,5 +1,7 @@
 # readability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/readability.md)
+
 <p><span class="chinese">添加换行符是为了增加可读性。</span><span class="english">Line breaks added for readability.</span></p>
 
 <p><span class="chinese">多用缩进来提高语句的可读性。</span><span class="english">Indents are used to enhance readability.</span></p>

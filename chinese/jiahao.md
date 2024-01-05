@@ -1,5 +1,7 @@
 # 加号
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiahao.md)
+
 <p><span class="chinese">如果这是加号，这是减号。</span><span class="english">If this is a plus, this is a minus.</span></p>
 
 <p><span class="chinese">注意，这里你们只会看到加号。</span><span class="english">Notice you only see plus signs here.</span></p>

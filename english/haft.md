@@ -1,5 +1,7 @@
 # haft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haft.md)
+
 <p><span class="chinese">大约半小时前。</span><span class="english">About haft an hour ago.</span></p>
 
 <p><span class="chinese">我把它完整的利用在刀柄上了。</span><span class="english">I is on the haft the exploitation of its integrity.</span></p>

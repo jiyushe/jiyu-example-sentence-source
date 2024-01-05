@@ -1,5 +1,7 @@
 # stodgy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stodgy.md)
+
 <p><span class="chinese">看门人是个六十岁的矮胖子。</span><span class="english">The gateman was a stodgy fellow of60.</span></p>
 
 <p><span class="chinese">利物浦的中场看起来慢吞吞的，很平凡。</span><span class="english">Liverpool's midfield looked slow and stodgy.</span></p>

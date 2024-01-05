@@ -1,5 +1,7 @@
 # arthrodesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arthrodesis.md)
+
 <p><span class="chinese">目的研究一种新的用于四角融合的内固定器械和方法。</span><span class="english">To develop a new internal fixator and new method for four-corner arthrodesis.</span></p>
 
 <p><span class="chinese">所有的患者均取得颈椎关节固定术的坚强骨融合。</span><span class="english">Solid bony fusion of the cervical arthrodesis was achieved in all of the patients.</span></p>

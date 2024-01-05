@@ -1,5 +1,7 @@
 # briquette
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/briquette.md)
+
 <p><span class="chinese">将机器压成蜂窝煤，能烧得着吗？</span><span class="english">Honeycomb briquette made of this machine?</span></p>
 
 <p><span class="chinese">本文对工业型煤机的设计具有一定的参考价值。</span><span class="english">This paper will be of some value in design of industrial briquette.</span></p>

@@ -1,5 +1,7 @@
 # sojourn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sojourn.md)
+
 <p><span class="chinese">每个人都只在这世界上作短暂的逗留。</span><span class="english">Each of us is here for a brief sojourn.</span></p>
 
 <p><span class="chinese">他应该在乡村小住数日。</span><span class="english">He must sojourn in villages and hamlets.</span></p>

@@ -1,5 +1,7 @@
 # 陈列品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenliepin.md)
+
 <p><span class="chinese">橱柜陈列品吸引她的眼球。</span><span class="english">The window display caught her eye.</span></p>
 
 <p><span class="chinese">陈列品包括地毯、披巾、腰带和纱丽服等。</span><span class="english">She covered up the baby with a shawl.</span></p>

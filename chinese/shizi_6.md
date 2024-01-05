@@ -1,5 +1,7 @@
 # 虱子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizi_6.md)
+
 <p><span class="chinese">必须除掉家畜身上的虱子。</span><span class="english">The livestocks must be deticked.</span></p>
 
 <p><span class="chinese">他的衣服上爬满了虱子。</span><span class="english">His clothes were crawling with lice.</span></p>

@@ -1,5 +1,7 @@
 # bergen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bergen.md)
+
 <p><span class="chinese">第二天，挪威人也到了卑尔根。</span><span class="english">The next day, the Norwegian made it to Bergen.</span></p>
 
 <p><span class="chinese">奥拉德尔是美国新泽西州卑尔根县中的小镇。</span><span class="english">Oradell is a borough in Bergen County, New Jersey, United States.</span></p>

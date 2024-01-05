@@ -1,5 +1,7 @@
 # enlightened
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enlightened.md)
+
 <p><span class="chinese">河神逐渐有些开窍了。</span><span class="english">River God was enlightened somewhat.</span></p>
 
 <p><span class="chinese">觉者只指引我们方向。</span><span class="english">Enlightened Ones will only show the way.</span></p>

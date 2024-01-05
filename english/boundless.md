@@ -1,5 +1,7 @@
 # boundless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boundless.md)
+
 <p><span class="chinese">以无量的功德和智慧。</span><span class="english">with boundless merits and wisdom.</span></p>
 
 <p><span class="chinese">一个小核桃里有自然大美。</span><span class="english">A walnut is a boundless landscape.</span></p>

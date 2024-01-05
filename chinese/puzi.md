@@ -1,5 +1,7 @@
 # 谱子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/puzi.md)
+
 <p><span class="chinese">这一次我们只唱谱子。</span><span class="english">Let's sing the music only this time.</span></p>
 
 <p><span class="chinese">好的,到这里来,看一下谱子</span><span class="english">Okay. Come on up here. Take a look at this.</span></p>

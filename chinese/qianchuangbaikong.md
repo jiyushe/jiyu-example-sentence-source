@@ -1,5 +1,7 @@
 # 千疮百孔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianchuangbaikong.md)
+
 <p><span class="chinese">啊哈，看呀，这南瓜已千疮百孔了！</span><span class="english">Bha, look, the pumpkin has holes here and there!</span></p>
 
 <p><span class="chinese">比起千疮百孔，一无所有才更加不幸。</span><span class="english">Compared with holes, has nothing to more unfortunate.</span></p>

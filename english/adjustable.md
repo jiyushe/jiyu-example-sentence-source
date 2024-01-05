@@ -1,5 +1,7 @@
 # adjustable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adjustable.md)
+
 <p><span class="chinese">可调节的束带的下摆。</span><span class="english">Adjustable drawstring at hem.</span></p>
 
 <p><span class="chinese">导轨可调节的吉布斯。</span><span class="english">Adjustable gibs for slideways.</span></p>

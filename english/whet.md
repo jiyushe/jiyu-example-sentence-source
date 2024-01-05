@@ -1,5 +1,7 @@
 # whet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whet.md)
+
 <p><span class="chinese">这口井的钻具结构是什么？</span><span class="english">Whet is the BHA of this well.</span></p>
 
 <p><span class="chinese">高浓磨浆前的浆料浓缩。</span><span class="english">Pulp condense before H. C. whet syrup.</span></p>

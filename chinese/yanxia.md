@@ -1,5 +1,7 @@
 # 烟霞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanxia.md)
+
 <p><span class="chinese">我国独立似乎消失在烟霞。</span><span class="english">My independence seems to vanish in the haze.</span></p>
 
 <p><span class="chinese">烟霞，你知道，它也会很快消失。</span><span class="english">Or haze, you know, it'll go away pretty quickly.</span></p>

@@ -1,5 +1,7 @@
 # respecting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/respecting.md)
+
 <p><span class="chinese">一言以蔽之，尊重用户方能实现多赢。</span><span class="english">By respecting our users, everyone wins.</span></p>
 
 <p><span class="chinese">他的勇气不禁令人肃然起敬。</span><span class="english">His courage make me respecting for him.</span></p>

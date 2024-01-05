@@ -1,5 +1,7 @@
 # 腰杆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaogan.md)
+
 <p><span class="chinese">当那只脚回到家，它又把腰杆直起。</span><span class="english">And grows erect as that comes home.</span></p>
 
 <p><span class="chinese">他虽然已78岁了，但依然个头高挺，腰杆笔直。</span><span class="english">He's very tall and erect for his 78 years.</span></p>

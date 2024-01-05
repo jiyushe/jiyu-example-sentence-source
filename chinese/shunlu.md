@@ -1,5 +1,7 @@
 # 顺路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shunlu.md)
+
 <p><span class="chinese">请顺路到我的办公室来一下。</span><span class="english">Please stop by my office.</span></p>
 
 <p><span class="chinese">何不顺路到我家坐坐？</span><span class="english">Why don't you come by the house?</span></p>

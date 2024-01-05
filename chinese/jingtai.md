@@ -1,5 +1,7 @@
 # 景泰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingtai.md)
+
 <p><span class="chinese">景泰，我的家乡。</span><span class="english">I love my hometown forever.</span></p>
 
 <p><span class="chinese">景泰有许多名胜古迹。</span><span class="english">There are many places of interesting in Jing tai.</span></p>

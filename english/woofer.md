@@ -1,5 +1,7 @@
 # woofer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/woofer.md)
+
 <p><span class="chinese">那为什么它是一个移植的一个30.5厘米的低音低音反射内阁。</span><span class="english">That it why it was given a ported bass-reflex cabinet with a 30,5cm woofer.</span></p>
 
 <p><span class="chinese">这种罕有的大悬浮设计使低音能够执行大膜移动。</span><span class="english">The unusually big suspension allows the woofer to perform big membrane movements.</span></p>

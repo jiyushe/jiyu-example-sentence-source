@@ -1,5 +1,7 @@
 # airy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/airy.md)
+
 <p><span class="chinese">天秤座是风相星座。</span><span class="english">Libra is an airy sign.</span></p>
 
 <p><span class="chinese">水瓶座是风相星座。</span><span class="english">Aquarius is an airy sign.</span></p>

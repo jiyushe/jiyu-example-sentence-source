@@ -1,5 +1,7 @@
 # tyro
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tyro.md)
+
 <p><span class="chinese">我是学英语的新手。</span><span class="english">I am a tyro in English.</span></p>
 
 <p><span class="chinese">孩子的初学者是一个能够为孩子们挑选。</span><span class="english">The Kid's Tyro is an able pick for kids.</span></p>

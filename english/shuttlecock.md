@@ -1,5 +1,7 @@
 # shuttlecock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shuttlecock.md)
+
 <p><span class="chinese">我们还踢毽子。</span><span class="english">OK! We kick shuttlecock.</span></p>
 
 <p><span class="chinese">让我们来踢毽子吧！</span><span class="english">Let's kick the shuttlecock and.</span></p>

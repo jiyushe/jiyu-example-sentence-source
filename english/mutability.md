@@ -1,5 +1,7 @@
 # mutability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mutability.md)
+
 <p><span class="chinese">窜改过去是英社的中心原则。</span><span class="english">The mutability of the past is the central tenet of Ingsoc.</span></p>
 
 <p><span class="chinese">属性的可变性是使用控制模型的一个重要特征。</span><span class="english">Mutability of attributes is an important property of usage control model.</span></p>

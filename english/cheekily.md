@@ -1,5 +1,7 @@
 # cheekily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cheekily.md)
+
 <p><span class="chinese">他亦是一个厚脸皮的煽动家。</span><span class="english">He is also cheekily provocative.</span></p>
 
 <p><span class="chinese">她厚着脸提醒自己说，“一定要穿鞋去。”</span><span class="english">"Must wear shoes, " she reminds herself cheekily.</span></p>

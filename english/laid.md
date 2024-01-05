@@ -1,5 +1,7 @@
 # laid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laid.md)
+
 <p><span class="chinese">它们也是卵生的。</span><span class="english">They laid eggs too.</span></p>
 
 <p><span class="chinese">阵雨涤荡了空中飞扬的灰尘。</span><span class="english">The shower laid the dust.</span></p>

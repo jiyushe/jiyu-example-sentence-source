@@ -1,5 +1,7 @@
 # 选址
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanzhi_1.md)
+
 <p><span class="chinese">高尔夫球场选址仪式。</span><span class="english">What is the yardage of this golf course?</span></p>
 
 <p><span class="chinese">第二部分——研究商业零售口岸选址的意义。</span><span class="english">The second part---- the significance of BRLC.</span></p>

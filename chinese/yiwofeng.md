@@ -1,5 +1,7 @@
 # 一窝蜂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiwofeng.md)
+
 <p><span class="chinese">公共汽车到站时，人们都一窝蜂地往上挤。</span><span class="english">People rushed into the bus when it came.</span></p>
 
 <p><span class="chinese">小鼬子一窝蜂似地跑向壁炉。</span><span class="english">The ferrets rush wildly for the fireplace.</span></p>

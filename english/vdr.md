@@ -1,5 +1,7 @@
 # vdr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vdr.md)
+
 <p><span class="chinese">这就是人声识别在VDR中起到的作用。</span><span class="english">This is the role Man-voice Recognition played in VDR.</span></p>
 
 <p><span class="chinese">我可以执行恢复的预演吗？就像我在VDR中使用时的一样？</span><span class="english">Can I perform a Restore Rehearsal, as I used to do in VDR?</span></p>

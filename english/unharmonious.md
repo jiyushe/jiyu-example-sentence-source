@@ -1,5 +1,7 @@
 # unharmonious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unharmonious.md)
+
 <p><span class="chinese">随着社会经济的发展，也产生了诸多不和谐因素。</span><span class="english">However, many unharmonious factors have arisen along with the development of social economy.</span></p>
 
 <p><span class="chinese">夫妻话语冲突在我国普遍存在，它是造成婚姻家庭成员之间不和谐的主要因素。</span><span class="english">Couple talk's conflict exits widely in china, and it is the main reason to unharmonious family.</span></p>

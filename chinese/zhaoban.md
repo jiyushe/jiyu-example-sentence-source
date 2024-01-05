@@ -1,5 +1,7 @@
 # 照办
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoban.md)
+
 <p><span class="chinese">他冲着我喊‘快跑’，我照办了。</span><span class="english">When he yelled 'run', I did.</span></p>
 
 <p><span class="chinese">她的要求你应照办。</span><span class="english">You must comply with her request.</span></p>

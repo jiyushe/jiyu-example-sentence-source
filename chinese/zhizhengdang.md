@@ -1,5 +1,7 @@
 # 执政党
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizhengdang.md)
+
 <p><span class="chinese">哈马斯击败了执政党法塔赫。</span><span class="english">Hamas defeated the ruling Fateh party.</span></p>
 
 <p><span class="chinese">一时一刻都不要以为执政党认输了。</span><span class="english">Do not think for a minute that power concedes.</span></p>

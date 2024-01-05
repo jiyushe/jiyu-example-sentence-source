@@ -1,5 +1,7 @@
 # 进款
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinkuan.md)
+
 <p><span class="chinese">出纳员偷走了当天的进款。</span><span class="english">A cashier ran away with the day 's takings.</span></p>
 
 <p><span class="chinese">收入少而守正义，胜于进款多而行不义。</span><span class="english">Better is a little with justice, than great revenues with iniquity.</span></p>

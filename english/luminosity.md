@@ -1,5 +1,7 @@
 # luminosity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luminosity.md)
+
 <p><span class="chinese">耀眼的光芒透射着苍白的幕墙。</span><span class="english">Luminosity glows through pale velum walls.</span></p>
 
 <p><span class="chinese">光照度和光功率是基本的光度指标。</span><span class="english">Illuminance and light power are basic luminosity indexes.</span></p>

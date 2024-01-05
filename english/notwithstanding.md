@@ -1,5 +1,7 @@
 # notwithstanding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/notwithstanding.md)
+
 <p><span class="chinese">尽管下雨他仍来了。</span><span class="english">He came notwithstanding the rain.</span></p>
 
 <p><span class="chinese">尽管下雨，各队仍然比赛。</span><span class="english">The teams played on, notwithstanding the rain.</span></p>

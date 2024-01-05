@@ -1,5 +1,7 @@
 # badass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/badass.md)
+
 <p><span class="chinese">那个坏蛋昨天受到了教训。</span><span class="english">The badass was schooled yesterday.</span></p>
 
 <p><span class="chinese">呜哇！我是古往今来最浑的半身人！</span><span class="english">Woot! I am the most badass halfling EVER!</span></p>

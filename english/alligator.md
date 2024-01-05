@@ -1,5 +1,7 @@
 # alligator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alligator.md)
+
 <p><span class="chinese">这是一只鳄鱼。</span><span class="english">This is an alligator.</span></p>
 
 <p><span class="chinese">那是炒的鳄鱼肉。</span><span class="english">It's fried alligator meat.</span></p>

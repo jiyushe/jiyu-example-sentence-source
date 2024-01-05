@@ -1,5 +1,7 @@
 # osteomalacia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/osteomalacia.md)
+
 <p><span class="chinese">他们这种状况存在骨软化症的风险。</span><span class="english">They are at risk for a condition called osteomalacia.</span></p>
 
 <p><span class="chinese">在成年人，缺钙可导致骨软化症。</span><span class="english">In adults, calcium deficiency may lead to osteomalacia.</span></p>

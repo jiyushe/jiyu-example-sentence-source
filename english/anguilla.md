@@ -1,5 +1,7 @@
 # anguilla
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anguilla.md)
+
 <p><span class="chinese">安圭拉岛度假村外的校园美丽的等待。</span><span class="english">The beautiful island of Anguilla awaits outside the resort campus.</span></p>
 
 <p><span class="chinese">牙买加、圣卢西亚、安圭拉岛也有类似被搁置的大型发展项目。</span><span class="english">Other large developments are on hold in Jamaica , St Lucia and Anguilla.</span></p>

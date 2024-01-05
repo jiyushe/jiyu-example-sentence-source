@@ -1,5 +1,7 @@
 # 放大镜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangdajing.md)
+
 <p><span class="chinese">我需要哪种类型的双目放大镜？</span><span class="english">Which model loupe do I need ?</span></p>
 
 <p><span class="chinese">然后我把放大镜放在上面。</span><span class="english">Then I put the magnifier in place.</span></p>

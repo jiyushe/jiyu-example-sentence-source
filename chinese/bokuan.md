@@ -1,5 +1,7 @@
 # 拨款
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bokuan.md)
+
 <p><span class="chinese">这是一种冒险的拨款。</span><span class="english">This is an exploration grant.</span></p>
 
 <p><span class="chinese">预算案中包含8570项专项拨款。</span><span class="english">The budget contains 8,570 of them.</span></p>

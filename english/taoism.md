@@ -1,5 +1,7 @@
 # taoism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taoism.md)
+
 <p><span class="chinese">掘完井，道士就离开了。</span><span class="english">Dig a well, taoism priest left.</span></p>
 
 <p><span class="chinese">槎山是道教的重要发祥地。</span><span class="english">Cha Shan is the birthplace of Taoism.</span></p>

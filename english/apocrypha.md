@@ -1,5 +1,7 @@
 # apocrypha
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apocrypha.md)
+
 <p><span class="chinese">一个圣经的现代英语版本，新约外传。</span><span class="english">A modern english version of the bible and apocrypha.</span></p>
 
 <p><span class="chinese">大多数是世界末日的预言伪经的形式。</span><span class="english">Most of the prophetical Apocrypha are apocalyptic in form.</span></p>

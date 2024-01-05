@@ -1,5 +1,7 @@
 # corporation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corporation.md)
+
 <p><span class="chinese">力劲公司在这方面已经获得成功。</span><span class="english">LK Corporation have success on it.</span></p>
 
 <p><span class="chinese">我经营一家成立于1944年的公司。</span><span class="english">I had a corporation founded in 1944.</span></p>

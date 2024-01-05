@@ -1,5 +1,7 @@
 # 暑假
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shujia_1.md)
+
 <p><span class="chinese">暑假补习班？</span><span class="english">Summer school?</span></p>
 
 <p><span class="chinese">这是我的暑假作业。</span><span class="english">It is my homework.</span></p>

@@ -1,5 +1,7 @@
 # samp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/samp.md)
+
 <p><span class="chinese">唯一在客场赢球的是桑普多利亚。</span><span class="english">First away win for Samp at Reggio.</span></p>
 
 <p><span class="chinese">桑普放慢了节奏，场面开始被动。</span><span class="english">Samp decreased the rhythm and started to lose ground.</span></p>

@@ -1,5 +1,7 @@
 # plan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plan.md)
+
 <p><span class="chinese">谨慎计划。</span><span class="english">Plan prudently.</span></p>
 
 <p><span class="chinese">计划你的休息。</span><span class="english">Plan your rest.</span></p>

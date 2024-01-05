@@ -1,5 +1,7 @@
 # microhardness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microhardness.md)
+
 <p><span class="chinese">用微硬度测定仪检测根管牙本质的微硬度。</span><span class="english">The roots were sliced and root-dentin microhardness was measured.</span></p>
 
 <p><span class="chinese">激光重熔后材料表面的显微硬度有所降低。</span><span class="english">After laser-remelting the microhardness of laser cladding coating decreases.</span></p>

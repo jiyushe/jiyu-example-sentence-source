@@ -1,5 +1,7 @@
 # 酌定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuoding.md)
+
 <p><span class="chinese">此外，笔者还对酌定量刑情节的功能进行了介绍。</span><span class="english">Also, the writer introduces the function of discretionary circumstances of sentencing.</span></p>
 
 <p><span class="chinese">这样可以避免审判人员适用酌定量刑情节随意性。</span><span class="english">This applies to the discretion of sentencing judges to avoid arbitrariness in the plot.</span></p>

@@ -1,5 +1,7 @@
 # 低迷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dimi.md)
+
 <p><span class="chinese">美国和欧洲遭遇夏季中期的低迷。</span><span class="english">US &Europe suffering mid-summer blues.</span></p>
 
 <p><span class="chinese">2010下半年，中国社交网站进入低迷时期，许多小型网站关闭了。</span><span class="english">with many small-size sites being closed.</span></p>

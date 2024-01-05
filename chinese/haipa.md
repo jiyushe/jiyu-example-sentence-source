@@ -1,5 +1,7 @@
 # 害怕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haipa.md)
+
 <p><span class="chinese">害怕垂死。</span><span class="english">Of dying.</span></p>
 
 <p><span class="chinese">我很害怕。</span><span class="english">I'm scared.</span></p>

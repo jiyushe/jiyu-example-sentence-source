@@ -1,5 +1,7 @@
 # 稳稳当当
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenwendangdang.md)
+
 <p><span class="chinese">妈妈，我可以稳稳当当地骑自行车了。</span><span class="english">Mom, I rode my bike without falling off.</span></p>
 
 <p><span class="chinese">他稳稳当当地坐在最高的树枝中间。</span><span class="english">He was firmly seated among the highest boughs.</span></p>

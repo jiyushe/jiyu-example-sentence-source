@@ -1,5 +1,7 @@
 # calcaneal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calcaneal.md)
+
 <p><span class="chinese">谁知道怎么治脚后跟疼？</span><span class="english">Who knows how to treat calcaneal to ache?</span></p>
 
 <p><span class="chinese">跟骨关节内骨折是常见的足损伤。</span><span class="english">Intraarticular calcaneal fracture is a kind of common injury of foot.</span></p>

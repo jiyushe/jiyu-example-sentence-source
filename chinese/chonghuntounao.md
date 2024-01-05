@@ -1,5 +1,7 @@
 # 冲昏头脑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chonghuntounao.md)
+
 <p><span class="chinese">先生，您被权力冲昏头脑了。</span><span class="english">Sir, you've gone mad with power!</span></p>
 
 <p><span class="chinese">因为你可能会被它冲昏头脑。</span><span class="english">Because you might get carried away.</span></p>

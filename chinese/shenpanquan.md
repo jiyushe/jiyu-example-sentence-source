@@ -1,5 +1,7 @@
 # 审判权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenpanquan.md)
+
 <p><span class="chinese">审理案件的权力称为审判权。</span><span class="english">The power to hear cases is called jurisdiction.</span></p>
 
 <p><span class="chinese">这种审判权和力量是留给警察的。</span><span class="english">The power and jurisdiction rest upon the Police.</span></p>

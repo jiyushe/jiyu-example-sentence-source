@@ -1,5 +1,7 @@
 # website
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/website.md)
+
 <p><span class="chinese">访问作者的站网。</span><span class="english">Visit the author’s website.</span></p>
 
 <p><span class="chinese">登录到你的网站cpanel。</span><span class="english">Login to your website cpanel.</span></p>

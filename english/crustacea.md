@@ -1,5 +1,7 @@
 # crustacea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crustacea.md)
+
 <p><span class="chinese">甲壳纲的主要特征是什么？</span><span class="english">What are the main characteristics of Class Crustacea?</span></p>
 
 <p><span class="chinese">小龙虾和虾或龙虾一样，在科学上属于甲壳纲动物。</span><span class="english">Crawfish, like shrimp or lobsters, belong to the scientific Crustacea.</span></p>

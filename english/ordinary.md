@@ -1,5 +1,7 @@
 # ordinary 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ordinary.md)
+
 <p><span class="chinese">普通的电烫就行。</span><span class="english">An ordinary perm will do.</span></p>
 
 <p><span class="chinese">不仅仅是一个普通人。</span><span class="english">Not just an ordinary man.</span></p>

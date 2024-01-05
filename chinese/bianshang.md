@@ -1,5 +1,7 @@
 # 边上
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianshang.md)
+
 <p><span class="chinese">爸爸在边上看着我。</span><span class="english">Dad looked at me.</span></p>
 
 <p><span class="chinese">我把她放在窗户边上。</span><span class="english">I put her by the window.</span></p>

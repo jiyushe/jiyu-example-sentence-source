@@ -1,5 +1,7 @@
 # 霓裳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nichang.md)
+
 <p><span class="chinese">闲暇是霓裳，不宜常穿用。</span><span class="english">Leisure is a house, not often wear.</span></p>
 
 <p><span class="chinese">我要在那儿欣喜地缝制，来世出嫁的霓裳。</span><span class="english">I'll sew my bridal dress for next life with delight.</span></p>

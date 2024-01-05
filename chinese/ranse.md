@@ -1,5 +1,7 @@
 # 染色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ranse.md)
+
 <p><span class="chinese">染色染得不错。</span><span class="english">The dye takes well.</span></p>
 
 <p><span class="chinese">这种布很容易染色。</span><span class="english">This cloth takes dye well.</span></p>

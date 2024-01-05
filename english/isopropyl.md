@@ -1,5 +1,7 @@
 # isopropyl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isopropyl.md)
+
 <p><span class="chinese">其中部分异丙醇。</span><span class="english">One part isopropyl alcohol.</span></p>
 
 <p><span class="chinese">待样品冷却后用干净的异丙醇清洗残留助焊剂。</span><span class="english">Stay samples with clean after cooling isopropyl alcohol cleaning residue flux.</span></p>

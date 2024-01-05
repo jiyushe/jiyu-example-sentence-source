@@ -1,5 +1,7 @@
 # 转悠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanyou_1.md)
+
 <p><span class="chinese">这个人常在我家周围转悠。</span><span class="english">This man does hang about the house.</span></p>
 
 <p><span class="chinese">他老在旅馆这儿转悠，想要干什么?</span><span class="english">What's he sucking around the hotel for?</span></p>

@@ -1,5 +1,7 @@
 # superiorly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superiorly.md)
+
 <p><span class="chinese">电动自行车有很多优点。</span><span class="english">E-bike have superiorly.</span></p>
 
 <p><span class="chinese">四是把品牌做优。</span><span class="english">Fourth, makes superiorly the brand.</span></p>

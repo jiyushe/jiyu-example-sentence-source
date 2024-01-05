@@ -1,5 +1,7 @@
 # 星宿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingxiu_1.md)
+
 <p><span class="chinese">孩子们似灿烂的星宿。</span><span class="english">Children of a sunnier star.</span></p>
 
 <p><span class="chinese">你是自己的上帝，自己的星宿，命运的回音。</span><span class="english">Yourself your god, your star, Fate's overtone.</span></p>

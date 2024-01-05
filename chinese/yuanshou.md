@@ -1,5 +1,7 @@
 # 元首
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanshou.md)
+
 <p><span class="chinese">这是一个国家元首的问题。</span><span class="english">It's a head of state issue.</span></p>
 
 <p><span class="chinese">对准元首的脸。这是我的秘密哟！</span><span class="english">Right in the Fuhrer's face.</span></p>

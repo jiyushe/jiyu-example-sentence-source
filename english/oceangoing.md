@@ -1,5 +1,7 @@
 # oceangoing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oceangoing.md)
+
 <p><span class="chinese">这一海港曾经有繁盛的海外贸易。</span><span class="english">This harbour teemed with oceangoing commerce.</span></p>
 
 <p><span class="chinese">许多远洋船只在这条运河上航行。</span><span class="english">Many oceangoing ships are sailing on the canal.</span></p>

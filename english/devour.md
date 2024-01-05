@@ -1,5 +1,7 @@
 # devour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/devour.md)
+
 <p><span class="chinese">恩佐斯将吞噬你们所有人。</span><span class="english">N'zoth will devour you all.</span></p>
 
 <p><span class="chinese">山里住着个虔诚的老和尚。</span><span class="english">In the mountain lived an old devour monk.</span></p>

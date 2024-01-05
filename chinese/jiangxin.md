@@ -1,5 +1,7 @@
 # 江心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangxin.md)
+
 <p><span class="chinese">因为江心屿的名气很大。</span><span class="english">Because of its fame.</span></p>
 
 <p><span class="chinese">我想去看看江心屿。</span><span class="english">I want to see jiangxin islet.</span></p>

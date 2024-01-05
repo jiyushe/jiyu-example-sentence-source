@@ -1,5 +1,7 @@
 # pinon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pinon.md)
+
 <p><span class="chinese">在高高的山顶有一块被杜松和矮松覆盖的平地。</span><span class="english">The high, flat mountaintop is covered with many green juniper and pinon pine trees.</span></p>
 
 <p><span class="chinese">沿路都是杜松和矮松，这些树让梅沙而第绿意盎然。</span><span class="english">Also along the path are the juniper and pinon pine trees that make Mesa Verde green.</span></p>

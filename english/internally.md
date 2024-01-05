@@ -1,5 +1,7 @@
 # internally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/internally.md)
+
 <p><span class="chinese">果岭坪床内部排水系统是否良好？</span><span class="english">Do the greens drain well internally?</span></p>
 
 <p><span class="chinese">进水口是安装在里面的。</span><span class="english">The water intake is internally mounted.</span></p>

@@ -1,5 +1,7 @@
 # remanufacture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remanufacture.md)
+
 <p><span class="chinese">对专利产品的再制造是否会侵犯专利权?。</span><span class="english">Will remanufacture of patented products infringe on the patents?</span></p>
 
 <p><span class="chinese">绿色再制造工程是一个具有广泛发展前景的新兴的研究领域。</span><span class="english">Green remanufacture engineering is a new research field with fascinating prospects.</span></p>

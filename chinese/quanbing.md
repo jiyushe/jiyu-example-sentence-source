@@ -1,5 +1,7 @@
 # 权柄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanbing.md)
+
 <p><span class="chinese">给你这权柄的是谁呢？</span><span class="english">Who gave you this authority?</span></p>
 
 <p><span class="chinese">他是作为有权柄之人来教训的。</span><span class="english">He teaches as one with authority.</span></p>

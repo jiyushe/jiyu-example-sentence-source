@@ -1,5 +1,7 @@
 # shute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shute.md)
+
 <p><span class="chinese">舒特先生和舒特太太非常难过。</span><span class="english">Mr and Mrs Shute were very sad.</span></p>
 
 <p><span class="chinese">舒特夫妇有一个女儿叫简。</span><span class="english">Mr and Mrs Shute had a daughter called Jane.</span></p>

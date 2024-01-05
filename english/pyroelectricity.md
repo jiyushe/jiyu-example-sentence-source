@@ -1,5 +1,7 @@
 # pyroelectricity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pyroelectricity.md)
+
 <p><span class="chinese">这些现象可能与热释电效应引起的电催化作用相关。</span><span class="english">These phenomenons may root in the electrical catalysis induced by pyroelectricity.</span></p>
 
 <p><span class="chinese">该载体材料具有良好的抗热振性能，并表现出明显的热释电效应。</span><span class="english">The carrier exhibits its good resistance to thermal shock and remarkable pyroelectricity.</span></p>

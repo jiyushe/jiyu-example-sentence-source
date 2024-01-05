@@ -1,5 +1,7 @@
 # 依山傍水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yishanbangshui.md)
+
 <p><span class="chinese">昭陵不依山傍水，而是直接建在平地上。</span><span class="english">Zhaoling no yard, but directly built on flat ground.</span></p>
 
 <p><span class="chinese">一面临山，三面环水，依山傍水，湖光山色。</span><span class="english">It faces the mountain in one side, and the water in three sides.</span></p>

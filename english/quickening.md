@@ -1,5 +1,7 @@
 # quickening
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quickening.md)
+
 <p><span class="chinese">她能感到胎儿有时在动。</span><span class="english">She can feel the child quickening at times.</span></p>
 
 <p><span class="chinese">治怀胎蕴热，胎动不安。</span><span class="english">Indicated for quickening due to heat-stagnation.</span></p>

@@ -1,5 +1,7 @@
 # guzzle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guzzle.md)
+
 <p><span class="chinese">看客们或啜饮美酒、或豪饮冰啤。</span><span class="english">Onlookers sip wine and guzzle beer.</span></p>
 
 <p><span class="chinese">交替性厌食暴食症有治吗?。</span><span class="english">Does guzzle disease have alternant sex anorexia treat?</span></p>

@@ -1,5 +1,7 @@
 # 乡愁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangchou.md)
+
 <p><span class="chinese">类似乡愁的语气。</span><span class="english">It had the ring of nostalgia to it.</span></p>
 
 <p><span class="chinese">故事情节跟乡愁联系起来。</span><span class="english">The plot connects us with nostalgia.</span></p>

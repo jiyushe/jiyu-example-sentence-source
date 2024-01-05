@@ -1,5 +1,7 @@
 # gathering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gathering.md)
+
 <p><span class="chinese">这是雄鹰们的聚会。</span><span class="english">A gathering of eagles.</span></p>
 
 <p><span class="chinese">他在搜集情报。</span><span class="english">He is gathering information.</span></p>

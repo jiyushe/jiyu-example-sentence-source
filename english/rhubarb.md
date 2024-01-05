@@ -1,5 +1,7 @@
 # rhubarb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhubarb.md)
+
 <p><span class="chinese">“大黄”是我一同上岛的一条狗。</span><span class="english">"Rhubarb" is a dog on the island with me.</span></p>
 
 <p><span class="chinese">如果将大黄浸泡进去的话，水果就会其中分解掉。</span><span class="english">If you just dunk the rhubarb in, the fruitfalls apart.</span></p>

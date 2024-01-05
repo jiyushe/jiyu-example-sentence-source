@@ -1,5 +1,7 @@
 # streetlamp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/streetlamp.md)
+
 <p><span class="chinese">街灯渗出苍白的光。</span><span class="english">Streetlamp is leaking pale light.</span></p>
 
 <p><span class="chinese">他在修路灯时因公殉职。</span><span class="english">He died on the job while repairing a streetlamp.</span></p>

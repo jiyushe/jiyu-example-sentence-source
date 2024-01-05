@@ -1,5 +1,7 @@
 # delicious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/delicious.md)
+
 <p><span class="chinese">既快速又美味可口。</span><span class="english">Fast and delicious.</span></p>
 
 <p><span class="chinese">那是一种甘旨的红酒。</span><span class="english">It was a delicious wine.</span></p>

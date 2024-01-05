@@ -1,5 +1,7 @@
 # bromide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bromide.md)
+
 <p><span class="chinese">目的合成罗库溴铵。</span><span class="english">Aim To study the synthesis of rocuronium bromide.</span></p>
 
 <p><span class="chinese">目的合成维库溴铵。</span><span class="english">Aim To study the synthesis of vecuronium bromide.</span></p>

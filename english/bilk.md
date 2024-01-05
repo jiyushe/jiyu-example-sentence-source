@@ -1,5 +1,7 @@
 # bilk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bilk.md)
+
 <p><span class="chinese">真的，假的，蒙骗的，夸大的我都说过。</span><span class="english">True of, false, bilk of, exaggerative of I say.</span></p>
 
 <p><span class="chinese">用户点击后就会被引导到诈骗网站。</span><span class="english">After the user is clicked, can be guided bilk website.</span></p>

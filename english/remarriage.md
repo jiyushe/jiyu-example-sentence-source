@@ -1,5 +1,7 @@
 # remarriage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remarriage.md)
+
 <p><span class="chinese">他再婚前是两个孩子的爸爸了。</span><span class="english">He has fathered two children before his remarriage.</span></p>
 
 <p><span class="chinese">他的朋友都在议论他的再婚。</span><span class="english">His remarriage was remarked upon by all his friends.</span></p>

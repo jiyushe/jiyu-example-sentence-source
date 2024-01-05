@@ -1,5 +1,7 @@
 # grillage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grillage.md)
+
 <p><span class="chinese">在研究的基础上，提出了保温砌模现浇承重墙体系的抗震设计建议。</span><span class="english">Based on the study the seismic design recommendations of grillage walls are presented.</span></p>
 
 <p><span class="chinese">因此对板架结构的穿甲过程进行研究具有重要的意义。</span><span class="english">Therefore, it is of great significance that researching on penetrating grillage structure.</span></p>

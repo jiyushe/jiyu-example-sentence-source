@@ -1,5 +1,7 @@
 # thankful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thankful.md)
+
 <p><span class="chinese">但是我们应该感恩的。</span><span class="english">But we should be thankful.</span></p>
 
 <p><span class="chinese">所以我指明thankful是true值。</span><span class="english">So I said thankful to true.</span></p>

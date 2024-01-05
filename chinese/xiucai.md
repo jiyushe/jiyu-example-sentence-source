@@ -1,5 +1,7 @@
 # 秀才
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiucai.md)
+
 <p><span class="chinese">秀才无言以对。</span><span class="english">Scholar without made with the matter.</span></p>
 
 <p><span class="chinese">张秀才在梁家住了一个月。</span><span class="english">Zhang stayed at the Liang's for a month.</span></p>

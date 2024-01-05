@@ -1,5 +1,7 @@
 # 伙伴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoban.md)
+
 <p><span class="chinese">有一个伙伴。</span><span class="english">Have a partner.</span></p>
 
 <p><span class="chinese">谁是你的伙伴？</span><span class="english">Who are your peers?</span></p>

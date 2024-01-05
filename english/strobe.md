@@ -1,5 +1,7 @@
 # strobe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strobe.md)
+
 <p><span class="chinese">如果可能的话，使用闪光灯，这通常会拍出好照片</span><span class="english">If possible, use strobe lights. They always give better results</span></p>
 
 <p><span class="chinese">这也是为什么体育摄影师们都使用大功率闪光灯的原因。</span><span class="english">That’s why sports photographers use high-powered strobe lights.</span></p>

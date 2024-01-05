@@ -1,5 +1,7 @@
 # 跳绳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaosheng_1.md)
+
 <p><span class="chinese">金一遍又一遍地跳绳。</span><span class="english">Kim jumps the rope again and again.</span></p>
 
 <p><span class="chinese">跳绳也有可能折断胳膊。</span><span class="english">You could break your arm jumping rope.</span></p>

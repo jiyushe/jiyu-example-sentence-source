@@ -1,5 +1,7 @@
 # apple 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apple.md)
+
 <p><span class="chinese">红苹果。</span><span class="english">Red apple.</span></p>
 
 <p><span class="chinese">没错儿，苹果。</span><span class="english">Yes, Apple.</span></p>

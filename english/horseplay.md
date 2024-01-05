@@ -1,5 +1,7 @@
 # horseplay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horseplay.md)
+
 <p><span class="chinese">在候车的时候不要嬉戏打闹。</span><span class="english">No horseplay while waiting for the bus.</span></p>
 
 <p><span class="chinese">马球是只要你的工作确定的关闭时钟。</span><span class="english">Horseplay is OK at work as long as are off the clock.</span></p>

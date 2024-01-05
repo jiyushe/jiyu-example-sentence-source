@@ -1,5 +1,7 @@
 # 雀麦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quemai.md)
+
 <p><span class="chinese">对无芒雀麦叶组织物质周转进行了研究。</span><span class="english">Studying on the leaf tissue turnover of Smooth bromegrass was reported.</span></p>
 
 <p><span class="chinese">夏季是混播草地中无芒雀麦种群衰退的关键时期。</span><span class="english">Summer was the pivotal period of awnless brome when it declined in the mixture.</span></p>

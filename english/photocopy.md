@@ -1,5 +1,7 @@
 # photocopy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photocopy.md)
+
 <p><span class="chinese">你能影印。</span><span class="english">You can photocopy.</span></p>
 
 <p><span class="chinese">你需要复印还是扫描？</span><span class="english">Do you need just a photocopy or a scan?</span></p>

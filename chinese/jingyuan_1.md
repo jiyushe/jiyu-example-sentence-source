@@ -1,5 +1,7 @@
 # 警员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingyuan_1.md)
+
 <p><span class="chinese">也许那个警员是对的。</span><span class="english">Perhaps the constable was right.</span></p>
 
 <p><span class="chinese">让交通警员戴上黑色的棉手袜。</span><span class="english">Let traffic policemen wear black cotton gloves.</span></p>

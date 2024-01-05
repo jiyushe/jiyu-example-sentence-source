@@ -1,5 +1,7 @@
 # 愈加
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yujia.md)
+
 <p><span class="chinese">这里音乐声愈加响了。</span><span class="english">The music was louder here.</span></p>
 
 <p><span class="chinese">这下子小马就愈加积极了。</span><span class="english">Now the colt could increasingly positive.</span></p>

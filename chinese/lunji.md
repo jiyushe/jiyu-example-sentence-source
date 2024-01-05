@@ -1,5 +1,7 @@
 # 轮机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lunji.md)
+
 <p><span class="chinese">建设轮机间。</span><span class="english">Turbine room construction.</span></p>
 
 <p><span class="chinese">部长的儿子当上了轮机员。</span><span class="english">The minister's son became an engineer.</span></p>

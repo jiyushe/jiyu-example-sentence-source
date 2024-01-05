@@ -1,5 +1,7 @@
 # unschooled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unschooled.md)
+
 <p><span class="chinese">她是个敏感的艺术家。</span><span class="english">An artist of unschooled talents.</span></p>
 
 <p><span class="chinese">数百万儿童仍然失学。</span><span class="english">Millions of children are still unschooled.</span></p>

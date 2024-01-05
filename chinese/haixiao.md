@@ -1,5 +1,7 @@
 # 海啸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haixiao.md)
+
 <p><span class="chinese">海涛聚集后就是海啸了。</span><span class="english">Tsunami is fit for you!</span></p>
 
 <p><span class="chinese">2004年印度洋海啸那会儿，美国撤侨派出了第七舰队，而中国，只派出了一艘货轮。</span><span class="english">China sent a cargo ship.</span></p>

@@ -1,5 +1,7 @@
 # bingle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bingle.md)
+
 <p><span class="chinese">短发还是长发好看？</span><span class="english">Are bingle or long hair good-looking?</span></p>
 
 <p><span class="chinese">好久没留短发了，有点不习惯啊！</span><span class="english">I don't bingle for long, no habit a little!</span></p>

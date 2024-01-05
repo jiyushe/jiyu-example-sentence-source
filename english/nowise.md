@@ -1,5 +1,7 @@
 # nowise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nowise.md)
+
 <p><span class="chinese">“这毫不奇怪，所有的狗都会这样。”我说。</span><span class="english">"This nowise oddness, all dog would so. "I say.</span></p>
 
 <p><span class="chinese">最后现场一名少女毫不费力地获得胜利。</span><span class="english">Most Hou the spot a young girl nowise and hard to tacklely become champion.</span></p>

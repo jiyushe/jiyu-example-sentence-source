@@ -1,5 +1,7 @@
 # 深重
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenzhong.md)
+
 <p><span class="chinese">呈深重的红宝石色。</span><span class="english">Intense ruby-red color.</span></p>
 
 <p><span class="chinese">不论罪业有多深重。</span><span class="english">However deep your karmic evil may be.</span></p>

@@ -1,5 +1,7 @@
 # suspect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suspect.md)
+
 <p><span class="chinese">我觉得是</span><span class="english">I suspect we are.</span></p>
 
 <p><span class="chinese">我对他的动机表示怀疑。</span><span class="english">I suspect his motives.</span></p>

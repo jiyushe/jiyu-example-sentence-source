@@ -1,5 +1,7 @@
 # 蓬勃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pengbo.md)
+
 <p><span class="chinese">这也是蓬勃发展的市场。</span><span class="english">It’s also a booming market.</span></p>
 
 <p><span class="chinese">你想拥有一个尽显奢华，豪气蓬勃的领域吗？</span><span class="english">Do you want to have a luxury area?</span></p>

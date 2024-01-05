@@ -1,5 +1,7 @@
 # 属地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shudi_1.md)
+
 <p><span class="chinese">萨克岛是根西岛的属地。</span><span class="english">Sark is a dependency of Guernscy.</span></p>
 
 <p><span class="chinese">在903年被组建为一属地。</span><span class="english">It was organized as a territory in 903.</span></p>

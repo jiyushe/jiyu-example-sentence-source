@@ -1,5 +1,7 @@
 # service
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/service.md)
+
 <p><span class="chinese">服务区?。</span><span class="english">Service Area?</span></p>
 
 <p><span class="chinese">一条龙服务。</span><span class="english">A dragon service.</span></p>

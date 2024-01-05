@@ -1,5 +1,7 @@
 # 一泻千里
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yixieqianli.md)
+
 <p><span class="chinese">生活费扶摇直上，而收入则一泻千里。</span><span class="english">The cost of living has skyrocketed. Income levels have plummeted.</span></p>
 
 <p><span class="chinese">高科技行业一泻千里，思科、英特尔及戴尔公司都放慢了大学生招聘的步骤。</span><span class="english">Companies in the battered tech sector like Cisco, Intel and Dell have slowed college recruiting.</span></p>

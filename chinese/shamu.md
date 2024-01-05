@@ -1,5 +1,7 @@
 # 杉木
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shamu.md)
+
 <p><span class="chinese">埋伏在乱石堆里杉木看见黄鸣锋等人。</span><span class="english">Ambush fir in ci to see huang feng, etc.</span></p>
 
 <p><span class="chinese">他们用杉木板装设了卧室的天花板。</span><span class="english">They ceiled their bedroom with cedar boards.</span></p>

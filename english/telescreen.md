@@ -1,5 +1,7 @@
 # telescreen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/telescreen.md)
+
 <p><span class="chinese">电幕能够同时接收和放送。</span><span class="english">The telescreen received and transmitted simultaneously.</span></p>
 
 <p><span class="chinese">他是标语牌上的一张脸，电幕上的一个声音。</span><span class="english">He is a face on the hoardings, a voice on the telescreen.</span></p>

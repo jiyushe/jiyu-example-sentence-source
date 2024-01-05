@@ -1,5 +1,7 @@
 # 颠倒黑白
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diandaoheibai.md)
+
 <p><span class="chinese">颠倒黑白。</span><span class="english">Call black white.</span></p>
 
 <p><span class="chinese">颠倒黑白，颠倒是非。</span><span class="english">Talk black into white.</span></p>

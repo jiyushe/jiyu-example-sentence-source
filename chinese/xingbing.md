@@ -1,5 +1,7 @@
 # 性病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingbing.md)
+
 <p><span class="chinese">得了性病怎么解决啊。</span><span class="english">Got venereal how be solved.</span></p>
 
 <p><span class="chinese">所有天平都死于性病。</span><span class="english">All Libras die of venereal disease.</span></p>

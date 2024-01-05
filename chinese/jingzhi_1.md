@@ -1,5 +1,7 @@
 # 景致
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingzhi_1.md)
+
 <p><span class="chinese">公园的景致非常幽美、洁净。</span><span class="english">Park scenery is very beautiful, clean.</span></p>
 
 <p><span class="chinese">那么那些增长缓慢的富裕国家又是何等景致呢？</span><span class="english">What about the slow-growth rich world?</span></p>

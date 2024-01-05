@@ -1,5 +1,7 @@
 # wort
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wort.md)
+
 <p><span class="chinese">服用圣约翰草或抗惊厥</span><span class="english">Are taking St. John's wort or anticonvulsants</span></p>
 
 <p><span class="chinese">产生的麦芽糊会被过滤掉并制成麦芽汁。</span><span class="english">Resulted mash is filtered and turned into wort.</span></p>

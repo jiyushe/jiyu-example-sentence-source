@@ -1,5 +1,7 @@
 # fascicular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fascicular.md)
+
 <p><span class="chinese">肿瘤细胞有波浪或逗点状细胞核并排列成涡纹状或束状形式，高核染质和非典型有丝分裂非常显著。</span><span class="english">These tumor cells were all with wavy or comma-shaped nuclei arranged in storiform or fascicular pattern.</span></p>
 
 <p><span class="chinese">神奇的海底世界丛生着五彩斑谰。形态各异的珊瑚。</span><span class="english">Magical marine world is fascicular multicoloured spot calumniate, configuration the coral of each different.</span></p>

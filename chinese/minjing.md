@@ -1,5 +1,7 @@
 # 民警
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minjing.md)
+
 <p><span class="chinese">嫌疑人吴某的供述还让民警出了身冷汗。</span><span class="english">Wu suspects gave police the statement of the cold body.</span></p>
 
 <p><span class="chinese">蒋晓娟是江油市公安局的一名普通民警。</span><span class="english">Jiang Xiaojuan is a Jiangyou Police station's ordinary police.</span></p>

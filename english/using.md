@@ -1,5 +1,7 @@
 # using
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/using.md)
+
 <p><span class="chinese">使用iwork？</span><span class="english">Using iWork?</span></p>
 
 <p><span class="chinese">使用停顿。</span><span class="english">Using pauses.</span></p>

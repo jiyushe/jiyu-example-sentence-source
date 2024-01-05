@@ -1,5 +1,7 @@
 # 停放
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingfang.md)
+
 <p><span class="chinese">不需要开瓶停放过程。</span><span class="english">No need to decant.</span></p>
 
 <p><span class="chinese">要把车辆停放在明亮的区域。</span><span class="english">Park in a well-lighted area.</span></p>

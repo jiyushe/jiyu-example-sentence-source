@@ -1,5 +1,7 @@
 # postpartum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/postpartum.md)
+
 <p><span class="chinese">怎样治疗产后荨麻疹？</span><span class="english">How to treat postpartum urticaria?</span></p>
 
 <p><span class="chinese">产后修复也有黄金期，你知道吗？</span><span class="english">Postpartum repair also has golden period, do you know?</span></p>

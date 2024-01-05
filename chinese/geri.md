@@ -1,5 +1,7 @@
 # 隔日
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/geri.md)
+
 <p><span class="chinese">她隔日工作。</span><span class="english">She works on alternate days.</span></p>
 
 <p><span class="chinese">他隔日来这里一次。</span><span class="english">He comes here on alternate days.</span></p>

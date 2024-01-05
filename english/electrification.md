@@ -1,5 +1,7 @@
 # electrification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electrification.md)
+
 <p><span class="chinese">本文对雷暴云的起电机制进行了研究。</span><span class="english">The mechanism of thundercloud electrification is studied.</span></p>
 
 <p><span class="chinese">本文作者提出了一个新的油流带电模型。</span><span class="english">A new model for oil flow electrification is proposed in this paper.</span></p>

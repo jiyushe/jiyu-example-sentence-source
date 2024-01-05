@@ -1,5 +1,7 @@
 # 户主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huzhu.md)
+
 <p><span class="chinese">我可以请户主听电话吗？</span><span class="english">Can I speak to the householder.</span></p>
 
 <p><span class="chinese">每家户主都必须同意协议接受审查。</span><span class="english">Every homeowner must agree for the deal to go through.</span></p>

@@ -1,5 +1,7 @@
 # glulam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glulam.md)
+
 <p><span class="chinese">安装前妥善的储存和处理是必要的，以保护集成胶合木梁材。</span><span class="english">Proper storage and handling are necessary in order to protect glulam beams prior to installation.</span></p>
 
 <p><span class="chinese">设计时胶合木梁集成材构件外观是需要考虑的一个问题时，必须指定外观等级。</span><span class="english">One of the first specification requirements considered should be the stress class of the glulam member.</span></p>

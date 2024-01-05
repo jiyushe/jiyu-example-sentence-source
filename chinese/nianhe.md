@@ -1,5 +1,7 @@
 # 粘合
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianhe.md)
+
 <p><span class="chinese">灰泥把砖粘合在一起。</span><span class="english">Mortar knits bricks together.</span></p>
 
 <p><span class="chinese">我需要一些水泥来粘合天花板。</span><span class="english">I want some cement to cement the celling.</span></p>

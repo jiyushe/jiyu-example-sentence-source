@@ -1,5 +1,7 @@
 # dysphonia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dysphonia.md)
+
 <p><span class="chinese">未发现任何开放性鼻音、吞咽困难和发音困难。</span><span class="english">We did not notice any open rhinolalia, dysphagia and dysphonia.</span></p>
 
 <p><span class="chinese">如果你发声困难，你就会明白什么是发音障碍了。</span><span class="english">If using your voice is difficult, then you know what dysphonia is.</span></p>

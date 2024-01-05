@@ -1,5 +1,7 @@
 # 魔芋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moyu_1.md)
+
 <p><span class="chinese">魔芋具有较高的食用、药用价值。</span><span class="english">Konjac has higher food and medical value.</span></p>
 
 <p><span class="chinese">魔芋是埃及的神与羊的头。</span><span class="english">Arum was an Egyptian god with a Ram's head.</span></p>

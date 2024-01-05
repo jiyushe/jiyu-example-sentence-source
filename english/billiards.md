@@ -1,5 +1,7 @@
 # billiards
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/billiards.md)
+
 <p><span class="chinese">或者它更像台球？</span><span class="english">Or is it more like billiards?</span></p>
 
 <p><span class="chinese">我要和你打台球。</span><span class="english">I'll take you on at billiards.</span></p>

@@ -1,5 +1,7 @@
 # 出狱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuyu.md)
+
 <p><span class="chinese">我该保释她出狱吗?</span><span class="english">Shall I bail her out?</span></p>
 
 <p><span class="chinese">玛丽·温克勒现已获释出狱。</span><span class="english">Mary Winkler is out of jail.</span></p>

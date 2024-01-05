@@ -1,5 +1,7 @@
 # 家徒四壁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiatusibi.md)
+
 <p><span class="chinese">穷得像教堂里得耗子一样。/家徒四壁。</span><span class="english">As poor as the church mouse.</span></p>
 
 <p><span class="chinese">可是，下一分钟，你很有可能就是家徒四壁了啦！</span><span class="english">The next minute, however, you can be in debt with an empty house!</span></p>

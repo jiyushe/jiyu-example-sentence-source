@@ -1,5 +1,7 @@
 # 言之有物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanzhiyouwu.md)
+
 <p><span class="chinese">不要只是谈话，要言之有物。</span><span class="english">Do more than talk, say something.</span></p>
 
 <p><span class="chinese">最好的赞美该是言之有物的。</span><span class="english">The best compliments are specific.</span></p>

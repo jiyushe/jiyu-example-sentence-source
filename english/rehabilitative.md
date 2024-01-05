@@ -1,5 +1,7 @@
 # rehabilitative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rehabilitative.md)
+
 <p><span class="chinese">它可以大大增加临床医疗和康复的应用范围。</span><span class="english">It can expand considerably the range of clinical and rehabilitative applications.</span></p>
 
 <p><span class="chinese">结论对急性脑卒中后吞咽障碍患者进行早期康复训练具有明显效果。</span><span class="english">Conclusion Early rehabilitative training is effective on dysphagia for patients with acute stroke.</span></p>

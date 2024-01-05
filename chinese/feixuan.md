@@ -1,5 +1,7 @@
 # 飞旋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feixuan.md)
+
 <p><span class="chinese">它就像一个有生命的飞盘，在天空飞旋着。</span><span class="english">It FLIES OFF, a living Frisbee.</span></p>
 
 <p><span class="chinese">所有的盘子都在飞旋。</span><span class="english">Keep all those plates spinning.</span></p>

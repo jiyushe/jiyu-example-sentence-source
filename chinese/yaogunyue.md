@@ -1,5 +1,7 @@
 # 摇滚乐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaogunyue.md)
+
 <p><span class="chinese">乐队不停地演奏着摇滚乐曲。</span><span class="english">The band rocked away.</span></p>
 
 <p><span class="chinese">你喜欢摇滚乐吗？</span><span class="english">Do you like rock music?</span></p>

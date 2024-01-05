@@ -1,5 +1,7 @@
 # 委实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weishi_3.md)
+
 <p><span class="chinese">委实使我吃惊!</span><span class="english">That really astonishes me!</span></p>
 
 <p><span class="chinese">这花园委实漂亮。</span><span class="english">The garden is indeed beautiful.</span></p>

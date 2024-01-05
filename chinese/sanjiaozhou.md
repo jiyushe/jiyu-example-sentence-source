@@ -1,5 +1,7 @@
 # 三角洲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanjiaozhou.md)
+
 <p><span class="chinese">泥沙把这条河的三角洲淤塞了。</span><span class="english">Sand has silted up the river delta.</span></p>
 
 <p><span class="chinese">石炭系塔北三角洲。</span><span class="english">Tabei delta in Carboniferous system.</span></p>

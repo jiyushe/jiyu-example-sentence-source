@@ -1,5 +1,7 @@
 # algal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/algal.md)
+
 <p><span class="chinese">藻类是形容词形式的藻类，一个单一的植物。</span><span class="english">Algal is the adjective form of alga , a single plant.</span></p>
 
 <p><span class="chinese">为了生存，藻细胞开始合成虾青素。</span><span class="english">For survival, the algal cell begins to synthesize astaxanthin.</span></p>

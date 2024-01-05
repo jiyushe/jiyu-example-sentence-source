@@ -1,5 +1,7 @@
 # adulterate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adulterate.md)
+
 <p><span class="chinese">奶中脱水。</span><span class="english">Adulterate milk with water.</span></p>
 
 <p><span class="chinese">他丑恶心肠的私生野种！</span><span class="english">And bastards of his foul adulterate heart.</span></p>

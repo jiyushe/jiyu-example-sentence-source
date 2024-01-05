@@ -1,5 +1,7 @@
 # syncline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/syncline.md)
+
 <p><span class="chinese">晏家广场是晏家人民的骄傲！</span><span class="english">Home is home square syncline syncline people of proud!</span></p>
 
 <p><span class="chinese">这匹骏马象征我们晏家明天更加美好！</span><span class="english">The horses symbolize our syncline home more beautiful tomorrow!</span></p>

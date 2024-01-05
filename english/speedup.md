@@ -1,5 +1,7 @@
 # speedup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/speedup.md)
+
 <p><span class="chinese">我如何能加速数据传输到CPU从存储器？</span><span class="english">How can I speedup data transfer from memory to CPU?</span></p>
 
 <p><span class="chinese">不要让我知道如果您使用任何其他的调整，以加速您的博客。</span><span class="english">Do let me know if you use any other tweaks to speedup your blog.</span></p>

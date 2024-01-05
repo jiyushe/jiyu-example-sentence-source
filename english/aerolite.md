@@ -1,5 +1,7 @@
 # aerolite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aerolite.md)
+
 <p><span class="chinese">小细胞肺癌，化石还是陨石?。</span><span class="english">Small Cell Lung Cancer, Fossil or Aerolite?</span></p>
 
 <p><span class="chinese">陨石的研究和收藏等若干章节。</span><span class="english">Investigation and collection of the Aerolite.</span></p>

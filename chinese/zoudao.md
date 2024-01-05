@@ -1,5 +1,7 @@
 # 走道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zoudao.md)
+
 <p><span class="chinese">我们想买一些酱油，酱油在哪一个走道？</span><span class="english">Which aisle is the soy sauce in?</span></p>
 
 <p><span class="chinese">我可以坐在靠走道的座位吗？</span><span class="english">Let me check. Yes, you can – Seat 12C.</span></p>

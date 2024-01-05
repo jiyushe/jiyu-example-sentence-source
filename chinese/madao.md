@@ -1,5 +1,7 @@
 # 马刀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/madao.md)
+
 <p><span class="chinese">他用马刀刮去树皮。</span><span class="english">He stripped a tree with his sabre.</span></p>
 
 <p><span class="chinese">他的脸上留有马刀砍下的伤痕。</span><span class="english">His face was seamed with sabre cuts.</span></p>

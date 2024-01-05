@@ -1,5 +1,7 @@
 # snobbish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snobbish.md)
+
 <p><span class="chinese">我的室友王楠非常势利。</span><span class="english">My roommate Wang Nan is very snobbish.</span></p>
 
 <p><span class="chinese">我认为，人人生来势利。</span><span class="english">I think everyone's inherently snobbish.</span></p>

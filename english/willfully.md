@@ -1,5 +1,7 @@
 # willfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/willfully.md)
+
 <p><span class="chinese">如果你一意孤行，那可能弊多利少。</span><span class="english">If you act willfully , it may do more harm than good.</span></p>
 
 <p><span class="chinese">和一些科技术语一样，这个词是故意拼错的。</span><span class="english">And like many techy terms, it is willfully misspelled.</span></p>

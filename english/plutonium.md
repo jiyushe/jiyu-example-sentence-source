@@ -1,5 +1,7 @@
 # plutonium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plutonium.md)
+
 <p><span class="chinese">物从钚放散出来。</span><span class="english">Dangerous emissions radiate from plutonium.</span></p>
 
 <p><span class="chinese">钚会不会存在于饮用水里呢？</span><span class="english">What about plutonium in the drinking water?</span></p>

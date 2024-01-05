@@ -1,5 +1,7 @@
 # 深深
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenshen_3.md)
+
 <p><span class="chinese">我深深地爱着他。</span><span class="english">I loved him deeply.</span></p>
 
 <p><span class="chinese">深深缓慢地吸气。</span><span class="english">Deep, slow inhalation.</span></p>

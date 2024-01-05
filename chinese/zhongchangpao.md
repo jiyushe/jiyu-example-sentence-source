@@ -1,5 +1,7 @@
 # 中长跑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongchangpao.md)
+
 <p><span class="chinese">中长跑是一项需要耐力的运动。</span><span class="english">Mid-long run is a movement that need endurance.</span></p>
 
 <p><span class="chinese">在中长跑比赛中，非洲选手囊括了所有的奖牌。</span><span class="english">African runners swept the medals in the distance events.</span></p>

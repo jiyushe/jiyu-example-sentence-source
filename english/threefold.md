@@ -1,5 +1,7 @@
 # threefold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/threefold.md)
+
 <p><span class="chinese">再循环领域的三倍增长</span><span class="english">THREEFOLD INCREASE IN RECYCLING</span></p>
 
 <p><span class="chinese">三股拧成的绳子不易断。</span><span class="english">A threefold cord is not quickly broken.</span></p>

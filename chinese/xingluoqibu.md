@@ -1,5 +1,7 @@
 # 星罗棋布
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingluoqibu.md)
+
 <p><span class="chinese">好多的电脑公司星罗棋布于内湖到新竹的通道。</span><span class="english">Dozens more companies dot the Neihu-Hsinchu corridor.</span></p>
 
 <p><span class="chinese">中国的河流湖泊星罗棋布，游泳健儿辈出。</span><span class="english">With abundant rivers and lakes, China boasts many good swimmers.</span></p>

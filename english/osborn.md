@@ -1,5 +1,7 @@
 # osborn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/osborn.md)
+
 <p><span class="chinese">“该系统非常有利于大规模生产，”奥斯本说。</span><span class="english">The system is very conducive to mass production, " said Osborn ."</span></p>
 
 <p><span class="chinese">好心的奥斯本先生愿意把矮脚柜送到我家，再远就不行了。</span><span class="english">Osborn was willing to take the lowboy as far as my house but no farther.</span></p>

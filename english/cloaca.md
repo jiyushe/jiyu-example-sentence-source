@@ -1,5 +1,7 @@
 # cloaca
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cloaca.md)
+
 <p><span class="chinese">泄殖腔或有或无。</span><span class="english">Cloaca , or with or without.</span></p>
 
 <p><span class="chinese">我们从排水道带回的那个男子也是如此。</span><span class="english">We took the man from the cloaca such as this.</span></p>

@@ -1,5 +1,7 @@
 # 通水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongshui.md)
+
 <p><span class="chinese">不知道这个新住宅社区什麽时候才能通水呀？</span><span class="english">When will the water system be working in this new residential district?</span></p>
 
 <p><span class="chinese">目前唯一能采取的方法是输卵管通水，不过效果并不理想。</span><span class="english">The only way is to take tubal water, but the results are unsatisfactory.</span></p>

@@ -1,5 +1,7 @@
 # frostbitten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frostbitten.md)
+
 <p><span class="chinese">她手都冻了。</span><span class="english">Her hands were frostbitten.</span></p>
 
 <p><span class="chinese">不可揉搓冻伤区域或直接加热。</span><span class="english">Do not rub frostbitten areas or apply direct heat.</span></p>

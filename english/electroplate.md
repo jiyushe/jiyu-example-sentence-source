@@ -1,5 +1,7 @@
 # electroplate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electroplate.md)
+
 <p><span class="chinese">把底面电镀成古铜色。</span><span class="english">To electroplate the color of underside into bronze.</span></p>
 
 <p><span class="chinese">传统干式电流互感器的镀锡工艺是采用槽镀镀锡技术。</span><span class="english">The tinning process of dry type current transformer is Electroplate Technology.</span></p>

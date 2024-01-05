@@ -1,5 +1,7 @@
 # 设立
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sheli_1.md)
+
 <p><span class="chinese">你会设立一个信托基金吗？</span><span class="english">Should you set up a trust?</span></p>
 
 <p><span class="chinese">他们在纽约设立了总部。</span><span class="english">They head-quartered in New York.</span></p>

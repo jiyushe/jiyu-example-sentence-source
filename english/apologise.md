@@ -1,5 +1,7 @@
 # apologise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apologise.md)
+
 <p><span class="chinese">我对此表示歉意。</span><span class="english">On this I apologise.</span></p>
 
 <p><span class="chinese">不要为这样的需求辩解。</span><span class="english">Do not apologise for these needs.</span></p>

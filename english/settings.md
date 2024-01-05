@@ -1,5 +1,7 @@
 # settings
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/settings.md)
+
 <p><span class="chinese">保存这些设置。</span><span class="english">Save these settings.</span></p>
 
 <p><span class="chinese">睡眠和韧度设置。</span><span class="english">The sleep and tenacity settings.</span></p>

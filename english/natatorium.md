@@ -1,5 +1,7 @@
 # natatorium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/natatorium.md)
+
 <p><span class="chinese">我去游泳池了。</span><span class="english">I went to natatorium.</span></p>
 
 <p><span class="chinese">他们在游泳池游泳。</span><span class="english">They are swimming in the natatorium.</span></p>

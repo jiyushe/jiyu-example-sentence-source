@@ -1,5 +1,7 @@
 # 大无畏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dawuwei.md)
+
 <p><span class="chinese">林州人真有一股大无畏的气概。</span><span class="english">The people of Linzhou displayed a fearless spirit.</span></p>
 
 <p><span class="chinese">但是我忽然这样大无畏的似乎只有我一个。</span><span class="english">But I am abrupt so undaunted be like to have me only.</span></p>

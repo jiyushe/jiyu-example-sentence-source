@@ -1,5 +1,7 @@
 # otp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/otp.md)
+
 <p><span class="chinese">不过，在下次上电时，需要对OTP设置进行重新存储。</span><span class="english">However, the OTP setting is restored during subsequent power-up conditions.</span></p>
 
 <p><span class="chinese">冲浪者和海洋科技能源的工程师都在寻找能量巨大的海浪。</span><span class="english">Both a surfer and an OTP engineer are looking for a wave with a lot of energy to them.</span></p>

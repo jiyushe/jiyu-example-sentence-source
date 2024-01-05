@@ -1,5 +1,7 @@
 # 凉爽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangshuang.md)
+
 <p><span class="chinese">保持凉爽。</span><span class="english">Stay cool.</span></p>
 
 <p><span class="chinese">夜深了，很凉爽。</span><span class="english">It is night out and cool.</span></p>

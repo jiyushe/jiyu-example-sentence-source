@@ -1,5 +1,7 @@
 # 订正
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingzheng.md)
+
 <p><span class="chinese">订正练习册1-55页需要订正的错误处。</span><span class="english">Correct pages 1-55 in your workbook.</span></p>
 
 <p><span class="chinese">我让她将每个写错了的单词订正了十遍。</span><span class="english">I let her to correct them each for ten times.</span></p>

@@ -1,5 +1,7 @@
 # 例外
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liwai_1.md)
+
 <p><span class="chinese">绝无例外！</span><span class="english">No exception!</span></p>
 
 <p><span class="chinese">没有例外。</span><span class="english">Without exception.</span></p>

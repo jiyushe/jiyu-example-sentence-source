@@ -1,5 +1,7 @@
 # 会客室
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huikeshi.md)
+
 <p><span class="chinese">再往外一圈有36个会客室。</span><span class="english">The next ring has 36 meeting rooms.</span></p>
 
 <p><span class="chinese">他在会客室里踱来踱去。</span><span class="english">He paced up and down the sitting room.</span></p>

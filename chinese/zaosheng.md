@@ -1,5 +1,7 @@
 # 噪声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaosheng.md)
+
 <p><span class="chinese">但随机噪声的效果是一样的。</span><span class="english">But the effect is the same.</span></p>
 
 <p><span class="chinese">露娜公园传来得噪声真是糟糕透了。</span><span class="english">Noise from Luna Park was awful.</span></p>

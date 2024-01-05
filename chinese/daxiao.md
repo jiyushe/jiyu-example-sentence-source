@@ -1,5 +1,7 @@
 # 大小
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daxiao.md)
+
 <p><span class="chinese">大小对比。</span><span class="english">Size contrast.</span></p>
 
 <p><span class="chinese">核装置的大小。</span><span class="english">Size of the device.</span></p>

@@ -1,5 +1,7 @@
 # 姨丈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizhang_2.md)
+
 <p><span class="chinese">姨妈、姨丈都好吗？</span><span class="english">Uncle, aunt are all right?</span></p>
 
 <p><span class="chinese">维能姨丈那天没有去上班。</span><span class="english">Uncle Vernon didn't go to work that day.</span></p>

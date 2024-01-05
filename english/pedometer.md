@@ -1,5 +1,7 @@
 # pedometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pedometer.md)
+
 <p><span class="chinese">买一个计步器一家体育用品商店。</span><span class="english">Buy a pedometer at a sporting goods store.</span></p>
 
 <p><span class="chinese">或者，戴上计步器记录你的步数，也是不错的选择。</span><span class="english">Or wear a pedometer and keep track of your steps.</span></p>

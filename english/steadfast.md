@@ -1,5 +1,7 @@
 # steadfast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/steadfast.md)
+
 <p><span class="chinese">你是不变的星座。</span><span class="english">You-the stars that are steadfast.</span></p>
 
 <p><span class="chinese">我们的国家是强大坚定的。</span><span class="english">Our nation is strong and steadfast.</span></p>

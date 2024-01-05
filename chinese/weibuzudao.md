@@ -1,5 +1,7 @@
 # 微不足道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weibuzudao.md)
+
 <p><span class="chinese">宇宙的微不足道打击了我们。</span><span class="english">Cosmic two-by-fours whack us.</span></p>
 
 <p><span class="chinese">何博士说，”那是微不足道的”。</span><span class="english">“That's negligible,” says Dr Herr.</span></p>

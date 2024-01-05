@@ -1,5 +1,7 @@
 # mica
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mica.md)
+
 <p><span class="chinese">换向片之间的云母。</span><span class="english">The mica between the segments.</span></p>
 
 <p><span class="chinese">有些管有一块薄的云母窗。</span><span class="english">Some tubes have a thin mica window.</span></p>

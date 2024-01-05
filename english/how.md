@@ -1,5 +1,7 @@
 # how
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/how.md)
+
 <p><span class="chinese">真是个会偷懒的家伙！</span><span class="english">How lazy.</span></p>
 
 <p><span class="chinese">味道怎么样</span><span class="english">How is it?</span></p>

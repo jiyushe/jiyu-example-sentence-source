@@ -1,5 +1,7 @@
 # 备注
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beizhu.md)
+
 <p><span class="chinese">备注Remarks电线切割器和剥线器内藏。</span><span class="english">The cutter and stripped wire inside a thread.</span></p>
 
 <p><span class="chinese">请參阅下页之套票备注。</span><span class="english">Please refer to next page for package remarks.</span></p>

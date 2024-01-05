@@ -1,5 +1,7 @@
 # climatology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/climatology.md)
+
 <p><span class="chinese">气候学方法是另一种制作天气预报的简单方法。</span><span class="english">The climatology method is another simple way of producing a forecast.</span></p>
 
 <p><span class="chinese">与此同时，全国平均年降水量较常年略偏少。</span><span class="english">Meanwhile, the annual precipitation of China is slightly less than the climatology.</span></p>

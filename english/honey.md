@@ -1,5 +1,7 @@
 # honey 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/honey.md)
+
 <p><span class="chinese">蜜蜂酿蜜。</span><span class="english">Bees make honey.</span></p>
 
 <p><span class="chinese">宝贝儿，要坚强！</span><span class="english">Be strong, honey.</span></p>

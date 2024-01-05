@@ -1,5 +1,7 @@
 # 屋脊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuji_1.md)
+
 <p><span class="chinese">那个顽皮的男孩跨坐在屋脊上。</span><span class="english">The naughty boy was sitting astride of the house-roof.</span></p>
 
 <p><span class="chinese">它的正面高二十一米，到屋脊高度为二十四米。</span><span class="english">The facades are 21 metres high, rising to 24 metres at the ridge.</span></p>

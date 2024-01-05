@@ -1,5 +1,7 @@
 # tanner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tanner.md)
+
 <p><span class="chinese">没有试过。可是鲍勃·唐纳试过。</span><span class="english">No, I hain 't. But Bob Tanner did.</span></p>
 
 <p><span class="chinese">坦纳把枪从阿拉伯人手中扯过来。</span><span class="english">Tanner yanked the gun free of the Arab.</span></p>

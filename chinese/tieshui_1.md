@@ -1,5 +1,7 @@
 # 铁水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tieshui_1.md)
+
 <p><span class="chinese">你必须让铁水继续加热半个小时。</span><span class="english">You must keep the liquid iron heated for another half hour.</span></p>
 
 <p><span class="chinese">铸造起重机主要用于吊运钢水或铁水。</span><span class="english">Foundry crane is mainly used to carry melting steel and iron.</span></p>

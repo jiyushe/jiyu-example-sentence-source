@@ -1,5 +1,7 @@
 # consolatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consolatory.md)
+
 <p><span class="chinese">行动是可以慰藉的。</span><span class="english">Action is consolatory.</span></p>
 
 <p><span class="chinese">友谊，是我痛苦灵魂的温柔的安慰者。</span><span class="english">Friendship is a soft consolatory person on my miserable spirit.</span></p>

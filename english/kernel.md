@@ -1,5 +1,7 @@
 # kernel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kernel.md)
+
 <p><span class="chinese">内核实模式代码。</span><span class="english">The kernel real-mode code.</span></p>
 
 <p><span class="chinese">核仁坚果的可食的仁。</span><span class="english">The edible kernel of a nut.</span></p>

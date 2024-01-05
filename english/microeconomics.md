@@ -1,5 +1,7 @@
 # microeconomics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microeconomics.md)
+
 <p><span class="chinese">我依家要去复习微经了…</span><span class="english">I must go to review the microeconomics now!</span></p>
 
 <p><span class="chinese">在第一学期乔。怀特的微观经济学课程上我得了个“良”。</span><span class="english">I made a C in Joe Whites microeconomics class first semester.</span></p>

@@ -1,5 +1,7 @@
 # cray
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cray.md)
+
 <p><span class="chinese">你可以试试李阳疯狂英语。</span><span class="english">You can try Li Yang Cray English.</span></p>
 
 <p><span class="chinese">当然，克雷同样运行Linux操作系统。</span><span class="english">The Cray also, of course, runs Linux.</span></p>

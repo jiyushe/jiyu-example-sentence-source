@@ -1,5 +1,7 @@
 # consistent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consistent.md)
+
 <p><span class="chinese">神是言行一致的，不变的神。</span><span class="english">God is consistent.</span></p>
 
 <p><span class="chinese">有没有过表里一致的信仰生活？</span><span class="english">Am I consistent in my life?</span></p>

@@ -1,5 +1,7 @@
 # belongings
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/belongings.md)
+
 <p><span class="chinese">请看管好随身物品。</span><span class="english">Please mind your belongings.</span></p>
 
 <p><span class="chinese">我需要的把我的财产分类。</span><span class="english">I needed to sort my belongings.</span></p>

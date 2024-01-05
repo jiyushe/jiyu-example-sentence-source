@@ -1,5 +1,7 @@
 # 笔头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bitou.md)
+
 <p><span class="chinese">教员给我们一小时做笔头作业。</span><span class="english">The teacher allowed us an hour for written work.</span></p>
 
 <p><span class="chinese">教师们评我的笔头作文不及格。</span><span class="english">The teachers failed me on the written composition.</span></p>

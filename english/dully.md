@@ -1,5 +1,7 @@
 # dully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dully.md)
+
 <p><span class="chinese">鼓声沉闷的响着。</span><span class="english">The drum beat dully.</span></p>
 
 <p><span class="chinese">我呆呆地盯着壁炉。</span><span class="english">I stare dully at the fireplace.</span></p>

@@ -1,5 +1,7 @@
 # blanket
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blanket.md)
+
 <p><span class="chinese">请给我加一条毯子。</span><span class="english">Pls. get me a blanket.</span></p>
 
 <p><span class="chinese">我会和你分享毛毯。</span><span class="english">I will share the blanket.</span></p>

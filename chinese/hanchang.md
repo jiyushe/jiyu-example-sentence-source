@@ -1,5 +1,7 @@
 # 酣畅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanchang.md)
+
 <p><span class="chinese">心里也酣畅了。</span><span class="english">Earned the heart also.</span></p>
 
 <p><span class="chinese">给他挣来了一夜的酣畅。</span><span class="english">Has as earned a night's repose.</span></p>

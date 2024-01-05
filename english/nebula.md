@@ -1,5 +1,7 @@
 # nebula
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nebula.md)
+
 <p><span class="chinese">鹈鹕星云。</span><span class="english">The Pelican Nebula.</span></p>
 
 <p><span class="chinese">天蝎座里巨大的猫爪星云。</span><span class="english">The vast Cat's Paw Nebula in Scorpius.</span></p>

@@ -1,5 +1,7 @@
 # footage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/footage.md)
+
 <p><span class="chinese">该政府称录像是“捏造”的。</span><span class="english">It says the footage was "fabricated".</span></p>
 
 <p><span class="chinese">半小时的片花相当有趣，让人兴奋不已。</span><span class="english">The half-hour of footage is funny and thrilling.</span></p>

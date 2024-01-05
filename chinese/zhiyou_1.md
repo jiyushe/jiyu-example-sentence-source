@@ -1,5 +1,7 @@
 # 挚友
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiyou_1.md)
+
 <p><span class="chinese">我们是长期的挚友。</span><span class="english">We are long-time friends.</span></p>
 
 <p><span class="chinese">我会接受所有我能得到的“终身挚友”。</span><span class="english">I’ll take all the New BFFs I can get.</span></p>

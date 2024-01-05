@@ -1,5 +1,7 @@
 # 领导
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingdao.md)
+
 <p><span class="chinese">我领导？</span><span class="english">Me leading?</span></p>
 
 <p><span class="chinese">我听从他的领导。</span><span class="english">I followed his lead.</span></p>

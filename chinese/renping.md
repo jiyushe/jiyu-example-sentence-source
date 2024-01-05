@@ -1,5 +1,7 @@
 # 人平
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renping.md)
+
 <p><span class="chinese">香提醒人平和。</span><span class="english">Incense reminds one to be peaceful.</span></p>
 
 <p><span class="chinese">使得湖人平了太阳的战绩为西部最佳。</span><span class="english">It tied them with Phoenix for the best in the Western Conference.</span></p>

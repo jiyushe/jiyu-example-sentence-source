@@ -1,5 +1,7 @@
 # alveoli
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alveoli.md)
+
 <p><span class="chinese">肺泡是空气相互交换的地方。</span><span class="english">The alveoli are where the crucial gas exchange takes place.</span></p>
 
 <p><span class="chinese">上下颌磨牙段牙槽骨高度三组无差异，基本处于参考范围内。</span><span class="english">The alveoli dentales height of upper and lower molar shows no significant difference.</span></p>

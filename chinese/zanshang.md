@@ -1,5 +1,7 @@
 # 赞赏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zanshang.md)
+
 <p><span class="chinese">我赞赏这种承诺。</span><span class="english">I applaud this commitment.</span></p>
 
 <p><span class="chinese">他是个令人赞赏的主人。</span><span class="english">He does the host admirably.</span></p>

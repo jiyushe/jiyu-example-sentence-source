@@ -1,5 +1,7 @@
 # gutless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gutless.md)
+
 <p><span class="chinese">亦或只是没有勇气?</span><span class="english">Or Just Gutless?</span></p>
 
 <p><span class="chinese">你太忙?亦或只是没有勇气?。</span><span class="english">Are You Too Busy? Or Just Gutless?</span></p>

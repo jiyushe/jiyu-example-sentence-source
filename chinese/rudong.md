@@ -1,5 +1,7 @@
 # 蠕动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rudong.md)
+
 <p><span class="chinese">我看见一只蠕动的虫子。</span><span class="english">I see a wiggly worm.</span></p>
 
 <p><span class="chinese">它们不停地蠕动着。</span><span class="english">They wriggled and squirmed.</span></p>

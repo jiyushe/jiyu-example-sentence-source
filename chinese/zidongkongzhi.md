@@ -1,5 +1,7 @@
 # 自动控制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zidongkongzhi.md)
+
 <p><span class="chinese">这机器是自动控制的。</span><span class="english">The machine is automatically controlled.</span></p>
 
 <p><span class="chinese">有两种类型的键用于自动控制。</span><span class="english">Two types of keys are used for automation.</span></p>

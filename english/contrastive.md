@@ -1,5 +1,7 @@
 # contrastive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contrastive.md)
+
 <p><span class="chinese">语篇开始成为对比研究新的着眼点。</span><span class="english">Text has become the new emphasis of contrastive study.</span></p>
 
 <p><span class="chinese">这论难可以通过对比分析来预测。</span><span class="english">These difficulties can be predicted by contrastive analysis.</span></p>

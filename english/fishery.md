@@ -1,5 +1,7 @@
 # fishery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fishery.md)
+
 <p><span class="chinese">利用异狄氏剂的渔业管理。</span><span class="english">Use of endrin in fishery management.</span></p>
 
 <p><span class="chinese">这艘船从事远洋渔业。</span><span class="english">The ship is engaged in pelagic fishery.</span></p>

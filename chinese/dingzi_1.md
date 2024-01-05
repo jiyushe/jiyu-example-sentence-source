@@ -1,5 +1,7 @@
 # 定子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingzi_1.md)
+
 <p><span class="chinese">圆锥形定子具有小端和大端。</span><span class="english">The conical stator has a small end and a big end.</span></p>
 
 <p><span class="chinese">我们提供胶合剂定子铁芯或TIG焊接的钉子铁芯。</span><span class="english">We offer glue bonding or TIG welded stator cores.</span></p>

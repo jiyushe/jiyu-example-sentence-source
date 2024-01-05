@@ -1,5 +1,7 @@
 # fiberglass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fiberglass.md)
+
 <p><span class="chinese">玻璃纤维椅子是modernica的产品。</span><span class="english">the fiberglass chair is from modernica.</span></p>
 
 <p><span class="chinese">车身材料为玻璃纤维和碳纤维。</span><span class="english">The body is fiberglass and carbon fiber.</span></p>

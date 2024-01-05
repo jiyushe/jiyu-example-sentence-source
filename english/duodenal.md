@@ -1,5 +1,7 @@
 # duodenal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duodenal.md)
+
 <p><span class="chinese">溃疡使十二指肠壁穿孔。</span><span class="english">An ulcer perforates the duodenal wall.</span></p>
 
 <p><span class="chinese">有症状的十二指肠憩室炎罕见。</span><span class="english">Symptomatic duodenal diverticulitis is rare.</span></p>

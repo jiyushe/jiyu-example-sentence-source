@@ -1,5 +1,7 @@
 # silvery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/silvery.md)
+
 <p><span class="chinese">一堆银白色的鱼。</span><span class="english">a silvery pile of fish.</span></p>
 
 <p><span class="chinese">白亮的月儿出来了。</span><span class="english">The silvery moon has peeped out.</span></p>

@@ -1,5 +1,7 @@
 # 潜水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianshui.md)
+
 <p><span class="chinese">他潜水采了珍珠。</span><span class="english">He dived for pearls.</span></p>
 
 <p><span class="chinese">那潜水镜上究竟说什么？</span><span class="english">What did the mask say?</span></p>

@@ -1,5 +1,7 @@
 # antic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antic.md)
+
 <p><span class="chinese">小丑上场表演许多滑稽动作。</span><span class="english">The clown came on with many antic gestures.</span></p>
 
 <p><span class="chinese">你用嬉笑的无心来躲避我的赠与。</span><span class="english">With antic absent-mindedness you shun my ability.</span></p>

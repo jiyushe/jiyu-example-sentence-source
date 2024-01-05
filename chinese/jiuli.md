@@ -1,5 +1,7 @@
 # 旧历
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuli.md)
+
 <p><span class="chinese">我的旧历生日…</span><span class="english">Happy birthday to my Mum!</span></p>
 
 <p><span class="chinese">这一天是我的旧历生日。</span><span class="english">Let me remember this day.</span></p>

@@ -1,5 +1,7 @@
 # exportation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exportation.md)
+
 <p><span class="chinese">请问机场出口在哪里？</span><span class="english">Asks the airport exportation in where?</span></p>
 
 <p><span class="chinese">大量供应出口苏铁种子。</span><span class="english">Sell Cycas revoluta seeds for exportation.</span></p>

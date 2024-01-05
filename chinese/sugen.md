@@ -1,5 +1,7 @@
 # 宿根
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sugen.md)
+
 <p><span class="chinese">甘蔗根茬破坏情况影响到宿根质量。</span><span class="english">The damage of stubble influences the quality of its biennial root.</span></p>
 
 <p><span class="chinese">宿根系4020正用作主要亲本进一步选育宿根栽培稻。</span><span class="english">The 4020 is being used as major parent to develop perennial rice cultivars.</span></p>

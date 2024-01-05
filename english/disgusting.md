@@ -1,5 +1,7 @@
 # disgusting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disgusting.md)
+
 <p><span class="chinese">他真讨厌。</span><span class="english">He is disgusting.</span></p>
 
 <p><span class="chinese">真是恶心。</span><span class="english">That's disgusting.</span></p>

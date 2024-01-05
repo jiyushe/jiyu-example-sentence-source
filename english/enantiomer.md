@@ -1,5 +1,7 @@
 # enantiomer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enantiomer.md)
+
 <p><span class="chinese">手性拆分是手性技术的重要研究方向。</span><span class="english">Enantiomer separation is one of the most important research fields of chiral technology.</span></p>
 
 <p><span class="chinese">主要包括一种对映异构体的1，1，1-三氟异丙醇的制备方法。</span><span class="english">Process for preparing 1,1,1-trifluoroisopropanol predominantly comprising one enantiomer.</span></p>

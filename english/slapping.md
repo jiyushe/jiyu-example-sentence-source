@@ -1,5 +1,7 @@
 # slapping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slapping.md)
+
 <p><span class="chinese">我真的觉得自己打耳光她！</span><span class="english">I really felt like slapping her!</span></p>
 
 <p><span class="chinese">无跟拖鞋在石头上啪啪作响。</span><span class="english">Heelless slippers were slapping on the stones.</span></p>

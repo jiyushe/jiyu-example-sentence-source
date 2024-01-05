@@ -1,5 +1,7 @@
 # holographic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/holographic.md)
+
 <p><span class="chinese">全息摄影将得到普及。</span><span class="english">Holographic cameras will become widespread.</span></p>
 
 <p><span class="chinese">需要我唤醒全息精神病学医师吗？</span><span class="english">Should I call up the holographic psychiatrist?</span></p>

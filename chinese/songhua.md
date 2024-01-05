@@ -1,5 +1,7 @@
 # 松花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songhua.md)
+
 <p><span class="chinese">网上直销中国松花粉、竹康宁。</span><span class="english">Sells pine pollen and lophatherum essence.</span></p>
 
 <p><span class="chinese">石脉水流泉滴沙，鬼灯如漆点松花。</span><span class="english">Stone pulse water springs drop of sand, ghost light such as Chatham river.</span></p>

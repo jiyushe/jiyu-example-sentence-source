@@ -1,5 +1,7 @@
 # coolness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coolness.md)
+
 <p><span class="chinese">尽可能地保持冷静。</span><span class="english">Keep your coolness as much as possible.</span></p>
 
 <p><span class="chinese">他安静的笑了，吸入一口夜的凉意。</span><span class="english">He smiled, savoring the coolness of the evening.</span></p>

@@ -1,5 +1,7 @@
 # 故国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guguo_1.md)
+
 <p><span class="chinese">心里思潮起伏，又想到故国了。</span><span class="english">The same heart, think again of motherland.</span></p>
 
 <p><span class="chinese">行人莫问当年事，故国东来渭水流。</span><span class="english">Don't ask the pedestrians, to the east country flow.</span></p>

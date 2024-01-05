@@ -1,5 +1,7 @@
 # botulism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/botulism.md)
+
 <p><span class="chinese">它们亦用于杀菌以及防止肉毒中毒。</span><span class="english">They're also used to kill bacteria and prevent botulism.</span></p>
 
 <p><span class="chinese">蜂蜜对于宝宝来说同样是有害的食品，因为你的孩子可能会有腊肠杆菌中毒的危险。</span><span class="english">Honey is also dangerous because your child is at risk for botulism.</span></p>

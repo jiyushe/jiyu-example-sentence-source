@@ -1,5 +1,7 @@
 # 随心所欲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suixinsuoyu.md)
+
 <p><span class="chinese">我办事随心所欲。</span><span class="english">I've gone off on my own.</span></p>
 
 <p><span class="chinese">他能随心所欲</span><span class="english">He can do what he damn well pleases.</span></p>

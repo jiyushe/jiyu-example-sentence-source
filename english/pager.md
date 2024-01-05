@@ -1,5 +1,7 @@
 # pager
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pager.md)
+
 <p><span class="chinese">史密斯先生带有传呼机吗？</span><span class="english">Does Mr. Smith carry a pager?</span></p>
 
 <p><span class="chinese">你的呼叫器上面说“我是维克。</span><span class="english">Your pager says, "This is Vic."</span></p>

@@ -1,5 +1,7 @@
 # adder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adder.md)
+
 <p><span class="chinese">在英国最常见的蛇是蝰蛇。</span><span class="english">By far the most common snake in Britain is the adder.</span></p>
 
 <p><span class="chinese">我从石头下面捉出一条长角的毒蝰蛇来，让它咬我。</span><span class="english">I took a horned adder from beneath a stone and let it sting me.</span></p>

@@ -1,5 +1,7 @@
 # smash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smash.md)
+
 <p><span class="chinese">别把茶杯揍了。</span><span class="english">Don't smash the teacup.</span></p>
 
 <p><span class="chinese">花瓶落在地上，哗啦一声碎了。</span><span class="english">The vase fell with a smash.</span></p>

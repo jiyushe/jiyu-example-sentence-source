@@ -1,5 +1,7 @@
 # toilsome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toilsome.md)
+
 <p><span class="chinese">探险家的工作是很艰苦的。</span><span class="english">It's toilsome of explorer to work.</span></p>
 
 <p><span class="chinese">劳累时想起弗吉尼亚森林。</span><span class="english">As toilsome I wander'd Virginia's woods.</span></p>

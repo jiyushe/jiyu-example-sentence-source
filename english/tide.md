@@ -1,5 +1,7 @@
 # tide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tide.md)
+
 <p><span class="chinese">潮女很多。</span><span class="english">So many tide girls.</span></p>
 
 <p><span class="chinese">潮水退下去了。</span><span class="english">The tide ebbed away.</span></p>

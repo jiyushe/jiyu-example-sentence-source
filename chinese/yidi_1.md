@@ -1,5 +1,7 @@
 # 易地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yidi_1.md)
+
 <p><span class="chinese">易地疗养使她恢复了健康。</span><span class="english">The change of air brought her back to health.</span></p>
 
 <p><span class="chinese">只恐我太轻易地认得你，你对我耍花招。</span><span class="english">Lest I should know you too easily, you play with me.</span></p>

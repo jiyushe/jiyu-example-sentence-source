@@ -1,5 +1,7 @@
 # actuarial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/actuarial.md)
+
 <p><span class="chinese">没有精算学前课程的工作是必需的。</span><span class="english">No previous course work in Actuarial Science is required.</span></p>
 
 <p><span class="chinese">采用荟萃分析精确计算了患者的生存率。</span><span class="english">Patient actuarial survival was determined by Kaplan-Meier analysis.</span></p>

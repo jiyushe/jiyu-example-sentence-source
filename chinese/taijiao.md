@@ -1,5 +1,7 @@
 # 胎教
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taijiao.md)
+
 <p><span class="chinese">天才宝宝胎教仪和照片及网上的描述完全一样。</span><span class="english">The Ritmo is exactly as described and pictured.</span></p>
 
 <p><span class="chinese">现在音乐胎教正日益为人们所接受。</span><span class="english">Music prenatal education is now increasingly accepted.</span></p>

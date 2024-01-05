@@ -1,5 +1,7 @@
 # cooker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cooker.md)
+
 <p><span class="chinese">电灶是蓝色。</span><span class="english">The cooker is blue.</span></p>
 
 <p><span class="chinese">电灶的色彩是蓝的。</span><span class="english">the cooker is blue.</span></p>

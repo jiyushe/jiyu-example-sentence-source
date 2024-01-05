@@ -1,5 +1,7 @@
 # precautionary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/precautionary.md)
+
 <p><span class="chinese">在此期间，应当采取防范措施。</span><span class="english">In the meantime, precautionary measures should be taken.</span></p>
 
 <p><span class="chinese">被猫爪抓到了要打预防针么?。</span><span class="english">Was caught by feline claw should hit precautionary needle?</span></p>

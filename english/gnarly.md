@@ -1,5 +1,7 @@
 # gnarly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gnarly.md)
+
 <p><span class="chinese">呃！看呐！一个香熟美味的热狗！</span><span class="english">EEEW! Look! A gnarly old hot dog!</span></p>
 
 <p><span class="chinese">我的刀可不止精确，而简直是暴力。</span><span class="english">My blade is not only precise, but totally gnarly.</span></p>

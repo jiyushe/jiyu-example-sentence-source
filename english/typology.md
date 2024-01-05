@@ -1,5 +1,7 @@
 # typology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/typology.md)
+
 <p><span class="chinese">什么是语言类型学？</span><span class="english">What is linguistic typology?</span></p>
 
 <p><span class="chinese">名词的非范畴化还有类型学上的意义。</span><span class="english">The noun decategorization has the typology significance.</span></p>

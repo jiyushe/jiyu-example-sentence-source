@@ -1,5 +1,7 @@
 # manifestly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manifestly.md)
+
 <p><span class="chinese">简直是荒唐至极。</span><span class="english">That is manifestly absurd.</span></p>
 
 <p><span class="chinese">这显然是不可能做到的。</span><span class="english">This manifestly could not be done.</span></p>

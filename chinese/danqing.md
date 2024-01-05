@@ -1,5 +1,7 @@
 # 丹青
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danqing.md)
+
 <p><span class="chinese">我可以把这张丹青拿走吗?。</span><span class="english">May I take this picture?</span></p>
 
 <p><span class="chinese">我的名字是陈丹青。</span><span class="english">My name is Chen Danqing.</span></p>

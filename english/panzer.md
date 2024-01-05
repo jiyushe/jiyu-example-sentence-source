@@ -1,5 +1,7 @@
 # panzer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/panzer.md)
+
 <p><span class="chinese">很快，装甲先头部队就从周围接近了他们的猎物。</span><span class="english">Soon, panzer spearheads were closing around their prey.</span></p>
 
 <p><span class="chinese">装甲精英侦查车生命值从220增加到260。</span><span class="english">Panzer Elite Scout car health increased from 220 to 260.</span></p>

@@ -1,5 +1,7 @@
 # feckless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feckless.md)
+
 <p><span class="chinese">那些日子里，他是一个无精打采的穷困的退学生。</span><span class="english">In those days he was a feckless and poverty-stricken young drop-out.</span></p>
 
 <p><span class="chinese">鸠山由纪夫一事无成，他于6月2日宣布辞职，在任共259天。</span><span class="english">The feckless Yukio Hatoyama, who stepped down on June 2nd, managed a grand total of 259 days.</span></p>

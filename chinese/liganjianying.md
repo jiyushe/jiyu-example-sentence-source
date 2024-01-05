@@ -1,5 +1,7 @@
 # 立竿见影
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liganjianying.md)
+
 <p><span class="chinese">音乐疗法并不能立竿见影。</span><span class="english">Music therapy does not cure at once.</span></p>
 
 <p><span class="chinese">对于购买的广告，他寻求立竿见影的回报。</span><span class="english">He looks for an immediate return on that ad buy.</span></p>

@@ -1,5 +1,7 @@
 # 认证
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renzheng_1.md)
+
 <p><span class="chinese">我已经获得了微软系统工程师认证。</span><span class="english">I have got MCSE certified.</span></p>
 
 <p><span class="chinese">目前已经通过3C认证。</span><span class="english">Has passed 3C certification.</span></p>

@@ -1,5 +1,7 @@
 # 掩护
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanhu.md)
+
 <p><span class="chinese">好，火力掩护。</span><span class="english">Okey, covering fire.</span></p>
 
 <p><span class="chinese">金姆同意为他作掩护。</span><span class="english">Kim agrees to cover for him.</span></p>

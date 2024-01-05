@@ -1,5 +1,7 @@
 # 一息尚存
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yixishangcun.md)
+
 <p><span class="chinese">只要一息尚存，我就要跟他们斗。</span><span class="english">I breathe, I will fight them.</span></p>
 
 <p><span class="chinese">只要我一息尚存就会爱你。</span><span class="english">My love to you endures to the end.</span></p>

@@ -1,5 +1,7 @@
 # foil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foil.md)
+
 <p><span class="chinese">用箔纸盖严。</span><span class="english">Cover tightly with foil.</span></p>
 
 <p><span class="chinese">用箔纸把鱼包起来。</span><span class="english">Wrap the foil over the fish.</span></p>

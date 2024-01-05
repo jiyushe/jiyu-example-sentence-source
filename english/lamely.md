@@ -1,5 +1,7 @@
 # lamely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lamely.md)
+
 <p><span class="chinese">“哦，好”，他一瘸一拐地说。</span><span class="english">Oh, okay, " he says lamely ."</span></p>
 
 <p><span class="chinese">否则，便是跛了脚的“法治”。</span><span class="english">Otherwise, rule of law will go lamely.</span></p>

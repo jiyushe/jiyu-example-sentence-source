@@ -1,5 +1,7 @@
 # carder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carder.md)
+
 <p><span class="chinese">后来委员会辞退了卡利亚。</span><span class="english">Carder was later removed by the Committee.</span></p>
 
 <p><span class="chinese">最初我们认为你的账户涉嫌信用卡欺诈。</span><span class="english">Your account was initially thought to be involved in carder activity.</span></p>

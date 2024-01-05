@@ -1,5 +1,7 @@
 # phe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phe.md)
+
 <p><span class="chinese">为我们只有恐怖和陷阱，破坏和灭亡。</span><span class="english">Phe. Prophecy is become to us a fear, and a snare, and destruction.</span></p>
 
 <p><span class="chinese">实践证明，实行“参与式”健康教育方式可以大大提高健康教育效果。</span><span class="english">Practice has proved that implementing PHE can improve the effect of health education.</span></p>

@@ -1,5 +1,7 @@
 # peacetime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peacetime.md)
+
 <p><span class="chinese">平时还喜欢收藏艺术品、字画。</span><span class="english">Crafts collection also like to peacetime.</span></p>
 
 <p><span class="chinese">不能以和平时期的心态参战。</span><span class="english">It cannot be at war with a peacetime mind-set.</span></p>

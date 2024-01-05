@@ -1,5 +1,7 @@
 # 门生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mensheng.md)
+
 <p><span class="chinese">本日是昨天的门生。</span><span class="english">Today is Yesterday's pupil.</span></p>
 
 <p><span class="chinese">这就是仲成，一个仁慈、乐于助人的门生。</span><span class="english">Such is Zhong Cheng, a kind and helpful student.</span></p>

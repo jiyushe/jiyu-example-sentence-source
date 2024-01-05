@@ -1,5 +1,7 @@
 # algonquian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/algonquian.md)
+
 <p><span class="chinese">马萨诸塞人说的阿尔冈昆语。</span><span class="english">The Algonquian language of the Massachuset people.</span></p>
 
 <p><span class="chinese">他们说一种阿尔冈琴语，称作因努爱蒙语或蒙格塔尼语。</span><span class="english">They speak an Algonquian language known as Innu-aimun or Montagnais.</span></p>

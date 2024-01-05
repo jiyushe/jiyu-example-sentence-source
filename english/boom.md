@@ -1,5 +1,7 @@
 # boom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boom.md)
+
 <p><span class="chinese">吊杆麦克风！</span><span class="english">Boom mike!</span></p>
 
 <p><span class="chinese">为什么如此繁荣？</span><span class="english">So why the boom?</span></p>

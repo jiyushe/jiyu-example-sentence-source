@@ -1,5 +1,7 @@
 # 外屋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waiwu_2.md)
+
 <p><span class="chinese">我们建了一间外屋，里面包括一个储存肉的房间和一个储藏食物的地窖。</span><span class="english">We built an outbuilding with a meat room and a food-storage cellar.</span></p>
 
 <p><span class="chinese">一天晚上，他被腹泻弄醒，跌跌撞撞地去外屋公厕。</span><span class="english">One night he awoke with diarrhea and stumbled to the public outhouse.</span></p>

@@ -1,5 +1,7 @@
 # witness 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/witness.md)
+
 <p><span class="chinese">您要出庭作证吗？</span><span class="english">Are you a witness?</span></p>
 
 <p><span class="chinese">这个见证是真的。</span><span class="english">This witness is true.</span></p>

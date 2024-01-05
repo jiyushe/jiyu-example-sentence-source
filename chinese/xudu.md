@@ -1,5 +1,7 @@
 # 虚度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xudu.md)
+
 <p><span class="chinese">就是虚度光阴。</span><span class="english">When trifled away.</span></p>
 
 <p><span class="chinese">彼得虚度了一生。</span><span class="english">Peter is a teacher.</span></p>

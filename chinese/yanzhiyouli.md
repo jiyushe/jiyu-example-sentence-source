@@ -1,5 +1,7 @@
 # 言之有理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanzhiyouli.md)
+
 <p><span class="chinese">把这篇转出去，假如你认为它言之有理的话。</span><span class="english">Pass it on if you think it has merit.</span></p>
 
 <p><span class="chinese">祖母的劝告永远言之有理。</span><span class="english">Grandmother's advice always made sense.</span></p>

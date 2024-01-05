@@ -1,5 +1,7 @@
 # 义肢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizhi_2.md)
+
 <p><span class="chinese">大多数人的手机就像是他们的义肢。</span><span class="english">Most people's cell phones are prosthetics.</span></p>
 
 <p><span class="chinese">我们给他买了一个轻便的义肢，非常适合他。</span><span class="english">We bought him a light prosthesis that fit well.</span></p>

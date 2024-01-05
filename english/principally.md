@@ -1,5 +1,7 @@
 # principally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/principally.md)
+
 <p><span class="chinese">韦茅斯主要来说是个度假胜地。</span><span class="english">Weymouth is principally a holiday resort.</span></p>
 
 <p><span class="chinese">圣经主要的教导为何？</span><span class="english">Q. 3. What do the scriptures principally teach?</span></p>

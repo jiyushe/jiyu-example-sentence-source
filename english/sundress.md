@@ -1,5 +1,7 @@
 # sundress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sundress.md)
+
 <p><span class="chinese">在你最喜爱的太阳裙上添加深色的腰带。</span><span class="english">Add a dark belt and cardi to your favorite sundress.</span></p>
 
 <p><span class="chinese">她穿着黄色背心裙，看上去轻松活泼。</span><span class="english">She looked very bright and breezy in her yellow sundress.</span></p>

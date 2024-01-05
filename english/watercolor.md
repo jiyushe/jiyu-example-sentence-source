@@ -1,5 +1,7 @@
 # watercolor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/watercolor.md)
+
 <p><span class="chinese">由胶水协调的不透光水彩。</span><span class="english">An opaque watercolor bound with gum.</span></p>
 
 <p><span class="chinese">水彩农村房子标识。</span><span class="english">Watercolor countryside house logotype.</span></p>

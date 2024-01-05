@@ -1,5 +1,7 @@
 # chloramphenicol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chloramphenicol.md)
+
 <p><span class="chinese">硝基呋喃类和氯霉素等是广泛使用在虾生产中的物质。</span><span class="english">Nitrofurans and chloramphenicol are substances widely used in shrimp production.</span></p>
 
 <p><span class="chinese">建立羊肠衣中氯霉素残留含量的分析方法。</span><span class="english">A method for analysis of Chloramphenicol residues in sheep casing has been developed.</span></p>

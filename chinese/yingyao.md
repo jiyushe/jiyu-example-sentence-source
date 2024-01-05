@@ -1,5 +1,7 @@
 # 应邀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingyao.md)
+
 <p><span class="chinese">我应邀参加了音乐会。</span><span class="english">I was invited to the concert.</span></p>
 
 <p><span class="chinese">第二章记述耶稣应邀参加一个婚筵。</span><span class="english">In chapter 2, Jesus attended a wedding.</span></p>

@@ -1,5 +1,7 @@
 # 主业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuye.md)
+
 <p><span class="chinese">那是她真正的主业。</span><span class="english">That was her real, main job.</span></p>
 
 <p><span class="chinese">福顺集团是一家以房地产为主业的集团公司。</span><span class="english">FuShun group is mainly in the real estate industry.</span></p>

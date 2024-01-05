@@ -1,5 +1,7 @@
 # demonstrable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demonstrable.md)
+
 <p><span class="chinese">知识一定要被证明是有价值的？</span><span class="english">Must knowledge be demonstrable to be valuable?</span></p>
 
 <p><span class="chinese">我是否有明摆的后援团支持我的变革？</span><span class="english">Do I have demonstrable backing to support my change?</span></p>

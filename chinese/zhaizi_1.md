@@ -1,5 +1,7 @@
 # 寨子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaizi_1.md)
+
 <p><span class="chinese">既然叫石寨子。</span><span class="english">Since it's called Stone Village.</span></p>
 
 <p><span class="chinese">我们的寨子也特别好玩。</span><span class="english">Our village is also very interesting.</span></p>

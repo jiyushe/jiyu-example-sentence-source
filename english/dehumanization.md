@@ -1,5 +1,7 @@
 # dehumanization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dehumanization.md)
+
 <p><span class="chinese">我们应该对一致性和失去独特性做些什麽？</span><span class="english">What shall we do about conformity and dehumanization?</span></p>
 
 <p><span class="chinese">但是，如果说话受到限制，“那几乎构成了剥夺人权的问题。”</span><span class="english">But when conversations are restricted, “ there's almost an issue of dehumanization.</span></p>

@@ -1,5 +1,7 @@
 # analytic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/analytic.md)
+
 <p><span class="chinese">有更多现代化的术语用来分析这个命题。</span><span class="english">The more modern term is analytic propositions.</span></p>
 
 <p><span class="chinese">一类单叶解析函数族。</span><span class="english">Univalent analytic functions of a class family.</span></p>

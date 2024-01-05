@@ -1,5 +1,7 @@
 # sigmoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sigmoid.md)
+
 <p><span class="chinese">单纯右位乙状结肠本身不需处理。</span><span class="english">Simple right sigmoid colon needn t to manage.</span></p>
 
 <p><span class="chinese">取出包埋粪便以上乙状结肠区。</span><span class="english">Dislodging entrapped fecal matter above the sigmoid colon area.</span></p>

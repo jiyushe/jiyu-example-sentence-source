@@ -1,5 +1,7 @@
 # same 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/same.md)
+
 <p><span class="chinese">完全相同。</span><span class="english">Exactly the same.</span></p>
 
 <p><span class="chinese">对丙酮是一样的。</span><span class="english">Same for acetone.</span></p>

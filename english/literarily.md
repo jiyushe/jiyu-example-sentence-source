@@ -1,5 +1,7 @@
 # literarily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/literarily.md)
+
 <p><span class="chinese">文采飞扬的美国哥伦比亚广播公司新闻编辑室的一半员工被裁掉的一天。</span><span class="english">Literarily half of the CBS newsroom got laid off one day.</span></p>
 
 <p><span class="chinese">相侮从字面上来讲就是依强欺弱之意。</span><span class="english">Counter-restriction literarily means that the strong one bullies the weak one.</span></p>

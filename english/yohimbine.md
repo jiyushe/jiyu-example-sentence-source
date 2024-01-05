@@ -1,5 +1,7 @@
 # yohimbine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yohimbine.md)
+
 <p><span class="chinese">育亨宾是什么？</span><span class="english">What is yohimbine?</span></p>
 
 <p><span class="chinese">育亨宾的功效？</span><span class="english">What are the effects of yohimbine?</span></p>

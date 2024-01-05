@@ -1,5 +1,7 @@
 # creativity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/creativity.md)
+
 <p><span class="chinese">比如,创造力</span><span class="english">Consider creativity.</span></p>
 
 <p><span class="chinese">新年新创意。</span><span class="english">New Year's creativity.</span></p>

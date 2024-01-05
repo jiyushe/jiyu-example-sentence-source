@@ -1,5 +1,7 @@
 # mowing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mowing.md)
+
 <p><span class="chinese">这草坪的草该割了。</span><span class="english">The lawn needs mowing.</span></p>
 
 <p><span class="chinese">他们今天正在割草。</span><span class="english">They are mowing today.</span></p>

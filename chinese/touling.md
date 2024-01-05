@@ -1,5 +1,7 @@
 # 头领
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touling.md)
+
 <p><span class="chinese">狼的族群一般都会有个头领。</span><span class="english">The groups usually had a leader.</span></p>
 
 <p><span class="chinese">他们为了争作头领而激烈地争吵。</span><span class="english">They were hassling over who would be the head.</span></p>

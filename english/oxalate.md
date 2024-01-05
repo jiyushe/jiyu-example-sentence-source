@@ -1,5 +1,7 @@
 # oxalate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oxalate.md)
+
 <p><span class="chinese">避免高草酸盐饮食。</span><span class="english">Avoid food high in oxalate.</span></p>
 
 <p><span class="chinese">草酸盐是从哪里来的？</span><span class="english">Where does oxalate come from?</span></p>

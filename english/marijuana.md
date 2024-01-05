@@ -1,5 +1,7 @@
 # marijuana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marijuana.md)
+
 <p><span class="chinese">空气中弥漫着大麻烟的味道。</span><span class="english">The air smelled distinctively like marijuana.</span></p>
 
 <p><span class="chinese">你是说你吸过大麻了？</span><span class="english">You mean – have you actually smoked marijuana?</span></p>

@@ -1,5 +1,7 @@
 # 救护车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuhuche.md)
+
 <p><span class="chinese">我会打电话叫救护车。</span><span class="english">I'll call an ambulance.</span></p>
 
 <p><span class="chinese">我这里需要救护车，10-18区。</span><span class="english">I need an ambulance 10-18.</span></p>

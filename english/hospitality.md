@@ -1,5 +1,7 @@
 # hospitality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hospitality.md)
+
 <p><span class="chinese">叨扰，叨扰。</span><span class="english">Thank you for your hospitality.</span></p>
 
 <p><span class="chinese">他硬要我们款待他。</span><span class="english">He intrudes upon our hospitality.</span></p>

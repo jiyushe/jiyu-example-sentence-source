@@ -1,5 +1,7 @@
 # evangelist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evangelist.md)
+
 <p><span class="chinese">在1880年一个著名的传教士的布道会上，美国的传福音者W。</span><span class="english">In a famous missionary sermon in 1880, the American evangelist W. E.</span></p>
 
 <p><span class="chinese">他开始宣传私人投资对加速增长的影响。</span><span class="english">He became an evangelist for the power of private investment to turbocharge growth.</span></p>

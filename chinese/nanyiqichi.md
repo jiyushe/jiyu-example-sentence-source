@@ -1,5 +1,7 @@
 # 难以启齿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanyiqichi.md)
+
 <p><span class="chinese">这可能是个难以启齿的话题。</span><span class="english">It can be a difficult subject to talk about.</span></p>
 
 <p><span class="chinese">这件难以启齿的事还是让胖嫂先说穿了。</span><span class="english">It was Fatso who first spoke of the unspeakable thing.</span></p>

@@ -1,5 +1,7 @@
 # 方式
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangshi.md)
+
 <p><span class="chinese">纸卷方式。</span><span class="english">Scroll Mode.</span></p>
 
 <p><span class="chinese">为什么有这么多方式呢</span><span class="english">Why do this?</span></p>

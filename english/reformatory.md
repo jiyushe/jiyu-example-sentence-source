@@ -1,5 +1,7 @@
 # reformatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reformatory.md)
+
 <p><span class="chinese">该少年违者被关进教养院改造。</span><span class="english">The juvenile delinquent was sent to the reformatory.</span></p>
 
 <p><span class="chinese">这样的文化中，本质上没有可改革的东西。</span><span class="english">There is in culture as such nothing of a reformatory nature.</span></p>

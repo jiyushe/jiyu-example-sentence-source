@@ -1,5 +1,7 @@
 # 质量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiliang.md)
+
 <p><span class="chinese">质量是分形的。</span><span class="english">Quality is fractal.</span></p>
 
 <p><span class="chinese">我想要质量好的。</span><span class="english">I want good quality.</span></p>

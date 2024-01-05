@@ -1,5 +1,7 @@
 # 泼冷水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/polengshui.md)
+
 <p><span class="chinese">所以这一数据就像是朝这些乐观因素上大泼冷水。</span><span class="english">So this throws a bit of cold water on that.</span></p>
 
 <p><span class="chinese">此类举动有泼冷水效应，亚洲协会的报告称。</span><span class="english">Such moves have a chilling effect, the Asia Society report says.</span></p>

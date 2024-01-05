@@ -1,5 +1,7 @@
 # 词条
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/citiao.md)
+
 <p><span class="chinese">代表一个自动图文集词条。</span><span class="english">Represents a single AutoText entry.</span></p>
 
 <p><span class="chinese">先说词条的准确性问题。</span><span class="english">Start with the question of accuracy.</span></p>

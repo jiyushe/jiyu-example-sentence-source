@@ -1,5 +1,7 @@
 # judges
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/judges.md)
+
 <p><span class="chinese">没有人评判他的工作。</span><span class="english">No one judges his job.</span></p>
 
 <p><span class="chinese">那谁是这些法官</span><span class="english">Well, who are these judges?</span></p>

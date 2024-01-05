@@ -1,5 +1,7 @@
 # ohms
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ohms.md)
+
 <p><span class="chinese">每一盏灯泡有120欧姆的电阻。</span><span class="english">Each of the bulbs has a resistance of 120 ohms.</span></p>
 
 <p><span class="chinese">欧姆表的电阻值应该超过300，000欧姆。</span><span class="english">Measured resistance should exceed 300,000 ohms.</span></p>

@@ -1,5 +1,7 @@
 # perceivable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perceivable.md)
+
 <p><span class="chinese">它反映的是一个超越我们可见的世界。</span><span class="english">It reveals a realm beyond our perceivable world.</span></p>
 
 <p><span class="chinese">同可视世界分开的是一个理念世界。</span><span class="english">There is a world of ideas that is separated from our perceivable world.</span></p>

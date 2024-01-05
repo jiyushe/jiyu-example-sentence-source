@@ -1,5 +1,7 @@
 # ceramic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ceramic.md)
+
 <p><span class="chinese">陶瓷纤维纸。</span><span class="english">Ceramic fiber paper.</span></p>
 
 <p><span class="chinese">青花瓷笔纯陶瓷烧制的笔。</span><span class="english">Pure ceramic firing the pen.</span></p>

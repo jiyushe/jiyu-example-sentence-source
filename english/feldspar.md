@@ -1,5 +1,7 @@
 # feldspar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feldspar.md)
+
 <p><span class="chinese">这种砂岩的成份以石英为主，长石次之。</span><span class="english">This sandstone consists of quartz primarily and feldspar secondly.</span></p>
 
 <p><span class="chinese">翡翠由辉石族、角闪石族、长石族矿物组成。</span><span class="english">Jadeite jade consists of minerals of pyroxene, amphibole and feldspar groups.</span></p>

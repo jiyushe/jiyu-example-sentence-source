@@ -1,5 +1,7 @@
 # lam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lam.md)
+
 <p><span class="chinese">林俊杰是我的偶像。</span><span class="english">JJ Lam is my idol.</span></p>
 
 <p><span class="chinese">我是林俊杰的粉丝。</span><span class="english">I'm a fan of JJ Lam.</span></p>

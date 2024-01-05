@@ -1,5 +1,7 @@
 # 出庭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuting.md)
+
 <p><span class="chinese">此人要出庭受审。</span><span class="english">The man is up in court.</span></p>
 
 <p><span class="chinese">我也会陪她们一起出庭。</span><span class="english">I go with them to court.</span></p>

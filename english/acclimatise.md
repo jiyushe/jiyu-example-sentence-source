@@ -1,5 +1,7 @@
 # acclimatise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acclimatise.md)
+
 <p><span class="chinese">今年他早早地前往圣路易斯以便适应新环境。</span><span class="english">This year he has left for St Louis early to acclimatise himself.</span></p>
 
 <p><span class="chinese">如果坐火车，我就能在路上逐渐适应那里的海拔了。</span><span class="english">If I went by train I could acclimatise to the altitude on the way there.</span></p>

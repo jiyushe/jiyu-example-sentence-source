@@ -1,5 +1,7 @@
 # bracing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bracing.md)
+
 <p><span class="chinese">你使用托雷士吉他的扇形力木系统吗？</span><span class="english">Do you use the Torres bracing pattern?</span></p>
 
 <p><span class="chinese">半挂车2辆，省内拉货。</span><span class="english">Semitrailer 2, save the internal bracing goods.</span></p>

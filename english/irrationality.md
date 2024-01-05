@@ -1,5 +1,7 @@
 # irrationality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irrationality.md)
+
 <p><span class="chinese">要实行这样的逻辑。</span><span class="english">Well, it may be a kind of irrationality.</span></p>
 
 <p><span class="chinese">非理性主义试图切近传统理性生长之根而施与消解式疗治。</span><span class="english">Irrationality attempts to offer a cure by coming to its root.</span></p>

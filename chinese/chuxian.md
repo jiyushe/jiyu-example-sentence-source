@@ -1,5 +1,7 @@
 # 出现
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuxian.md)
+
 <p><span class="chinese">然后你出现了。</span><span class="english">Then you appeared.</span></p>
 
 <p><span class="chinese">它们为什么会出现？</span><span class="english">Why do they occur?</span></p>

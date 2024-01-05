@@ -1,5 +1,7 @@
 # hmd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hmd.md)
+
 <p><span class="chinese">HMD光学系统的设计非常具有挑战性。</span><span class="english">The design of HMD optical system is very challenging.</span></p>
 
 <p><span class="chinese">理想的HMD光学系统应该重量轻、体积小。</span><span class="english">A perfect HMD optical system should be light weight and compact.</span></p>

@@ -1,5 +1,7 @@
 # global 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/global.md)
+
 <p><span class="chinese">全球气候变冷了么？</span><span class="english">Global cooling?</span></p>
 
 <p><span class="chinese">全球火山活动计划。</span><span class="english">Global Volcanism Program.</span></p>

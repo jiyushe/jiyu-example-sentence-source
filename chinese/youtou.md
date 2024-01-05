@@ -1,5 +1,7 @@
 # 由头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youtou.md)
+
 <p><span class="chinese">函数由头部分和体部分组成。</span><span class="english">Functions consist of a header and a body.</span></p>
 
 <p><span class="chinese">它没有假定消息中一定有路由头标记。</span><span class="english">It does not assume that there is a routing header in the message.</span></p>

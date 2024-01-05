@@ -1,5 +1,7 @@
 # habitude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/habitude.md)
+
 <p><span class="chinese">妈妈说，这是这里的民风。</span><span class="english">Mum said it is the local folkway and habitude.</span></p>
 
 <p><span class="chinese">它变的更成熟美丽，连气质也变的很有小女生的感觉。</span><span class="english">She became more mature and beautiful, and her habitude became more girlish.</span></p>

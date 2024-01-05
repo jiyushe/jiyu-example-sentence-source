@@ -1,5 +1,7 @@
 # restriction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/restriction.md)
+
 <p><span class="chinese">哪种限制性内切酶可以做到</span><span class="english">What restriction will do that?</span></p>
 
 <p><span class="chinese">限制热量就是解决方案吗？</span><span class="english">Is caloric restriction the solution?</span></p>

@@ -1,5 +1,7 @@
 # lesbian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lesbian.md)
+
 <p><span class="chinese">参加女同性爱派对？</span><span class="english">Attending a lesbian sex party?</span></p>
 
 <p><span class="chinese">年度最佳女同性恋？但，有反对票！</span><span class="english">Lesbian of the Year? Mais, non!</span></p>

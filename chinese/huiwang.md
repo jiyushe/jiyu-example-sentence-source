@@ -1,5 +1,7 @@
 # 回望
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huiwang.md)
+
 <p><span class="chinese">二十码开外，他回望了。</span><span class="english">Twenty yards away, he glanced back.</span></p>
 
 <p><span class="chinese">这只“了不起的鸟”回望了她一眼。</span><span class="english">The wonderful bird stares back at her.</span></p>

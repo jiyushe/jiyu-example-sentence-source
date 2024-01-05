@@ -1,5 +1,7 @@
 # biochemist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biochemist.md)
+
 <p><span class="chinese">迈克尔·肯伦是阿拉伯联合大公国大学的一名生化学家。</span><span class="english">J. Michael Conlon is a biochemist at the United Arab Emirates University.</span></p>
 
 <p><span class="chinese">尚永丰院士是我国著名生物化学与分子生物学家。</span><span class="english">Academician Shang Yongfeng is a famous biochemist and molecular biologist.</span></p>

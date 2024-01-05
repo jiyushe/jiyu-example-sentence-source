@@ -1,5 +1,7 @@
 # 摄像管
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shexiangguan.md)
+
 <p><span class="chinese">光导摄像管摄像系统?。</span><span class="english">VCS? Vidicon Camera System?</span></p>
 
 <p><span class="chinese">硅靶摄像管的光谱特性延伸至红外区域。</span><span class="english">The Spectral response of a Si-vidicon extends to infrared region.</span></p>

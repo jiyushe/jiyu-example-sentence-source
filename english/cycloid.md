@@ -1,5 +1,7 @@
 # cycloid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cycloid.md)
+
 <p><span class="chinese">摆线具有严格的等时摆。</span><span class="english">The cycloid has an isochronal pendulum.</span></p>
 
 <p><span class="chinese">这就是摆线了。</span><span class="english">OK, so that's what the cycloid looks like.</span></p>

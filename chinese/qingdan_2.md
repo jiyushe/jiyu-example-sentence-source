@@ -1,5 +1,7 @@
 # 清淡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingdan_2.md)
+
 <p><span class="chinese">这是一种清淡食物。</span><span class="english">They are a light victuals.</span></p>
 
 <p><span class="chinese">生意极为清淡。</span><span class="english">Business is deplorably dull.</span></p>

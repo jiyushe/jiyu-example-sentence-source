@@ -1,5 +1,7 @@
 # 营造
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingzao.md)
+
 <p><span class="chinese">建筑者司职营造。</span><span class="english">A builder is one who builds.</span></p>
 
 <p><span class="chinese">打个电话，发封邮件，写封信，营造一种慷慨的生活。</span><span class="english">Send an e-mail. Write a letter.</span></p>

@@ -1,5 +1,7 @@
 # 就近
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiujin.md)
+
 <p><span class="chinese">就近没有洗手池？</span><span class="english">No sink nearby?</span></p>
 
 <p><span class="chinese">他们就近前来。</span><span class="english">And they came near.</span></p>

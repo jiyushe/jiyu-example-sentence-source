@@ -1,5 +1,7 @@
 # 广袤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guangmao.md)
+
 <p><span class="chinese">从未踏进这个广袤渊深的宇宙。</span><span class="english">Never stepped into such a cavernous space.</span></p>
 
 <p><span class="chinese">广袤的森林有着清新的翠绿色。</span><span class="english">Vast forests with pure and fresh and green.</span></p>

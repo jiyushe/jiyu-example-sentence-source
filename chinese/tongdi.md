@@ -1,5 +1,7 @@
 # 通敌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongdi.md)
+
 <p><span class="chinese">但是泰因为艾伦与赛昂通敌而杀了她！</span><span class="english">And he had killed her for collaborating with the Cylons!</span></p>
 
 <p><span class="chinese">这一具有重大象征意义的事件结束了法国傀儡政府和纳粹当局通敌协作的四年。</span><span class="english">It was a hugely symbolic event after four years of collaboration with the Nazis.</span></p>

@@ -1,5 +1,7 @@
 # ardently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ardently.md)
+
 <p><span class="chinese">他热切地爱着妻子。</span><span class="english">He is ardently attached to his wife.</span></p>
 
 <p><span class="chinese">德昂人酷爱饮茶。</span><span class="english">The Deangs like to drink tea ardently.</span></p>

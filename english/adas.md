@@ -1,5 +1,7 @@
 # adas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adas.md)
+
 <p><span class="chinese">在目前ADAS市场上，是无需质疑的最佳系统。</span><span class="english">Without a doubt, it is the best ADAS system on the market.</span></p>
 
 <p><span class="chinese">公司官员说，陆军创建ADAS计划，帮助飞行员在较低水平飞行。</span><span class="english">The Army established the ADAS program to help pilots flying at low levels.</span></p>

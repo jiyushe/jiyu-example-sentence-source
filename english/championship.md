@@ -1,5 +1,7 @@
 # championship 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/championship.md)
+
 <p><span class="chinese">我在这里赢得了一次冠军赛。</span><span class="english">I won a championship here.</span></p>
 
 <p><span class="chinese">中国女子排球队在哪届奥运会上获得冠军？</span><span class="english">Team win the championship?</span></p>

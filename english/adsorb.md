@@ -1,5 +1,7 @@
 # adsorb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adsorb.md)
+
 <p><span class="chinese">吸附一词在这里很重要。</span><span class="english">The word adsorb is important here.</span></p>
 
 <p><span class="chinese">木炭可以吸附有色的液体。</span><span class="english">Charcoal can adsorb colored liquids.</span></p>

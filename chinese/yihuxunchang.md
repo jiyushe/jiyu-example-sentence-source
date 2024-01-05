@@ -1,5 +1,7 @@
 # 异乎寻常
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yihuxunchang.md)
+
 <p><span class="chinese">窗户是个炮眼，墙壁异乎寻常的厚。</span><span class="english">The window was an embrasure in an enormously thick wall.</span></p>
 
 <p><span class="chinese">我们可以让我们的就业成本异乎寻常的高。</span><span class="english">We could make our employment costs unrealistically high.</span></p>

@@ -1,5 +1,7 @@
 # 前赴后继
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianfuhouji.md)
+
 <p><span class="chinese">我亲眼目睹了许多竞争者前赴后继地步入这个市场，结局却大都以失败告终。</span><span class="english">I’ve seen numerous competitors enter the market, only to fail.</span></p>
 
 <p><span class="chinese">他们前赴后继和殖民主义者作斗争，取得了辉煌的胜利。</span><span class="english">They rose wave upon wave against the colonialists, winning splendid victories.</span></p>

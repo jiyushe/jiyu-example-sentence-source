@@ -1,5 +1,7 @@
 # motivate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/motivate.md)
+
 <p><span class="chinese">他们激励他人。</span><span class="english">They motivate others.</span></p>
 
 <p><span class="chinese">什么会激发他们？</span><span class="english">What will motivate them?</span></p>

@@ -1,5 +1,7 @@
 # 听阈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingyu.md)
+
 <p><span class="chinese">听阈和音量对有特殊需要的孩子的重要性</span><span class="english">Importance of Listening Range and Volume for Special Needs Child</span></p>
 
 <p><span class="chinese">听觉障碍儿童的听阈是在一个安静的地方测试出的。</span><span class="english">The range of an impaired child’s hearing ability is well defined in a quiet space.</span></p>

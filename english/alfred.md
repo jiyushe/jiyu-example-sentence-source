@@ -1,5 +1,7 @@
 # alfred
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alfred.md)
+
 <p><span class="chinese">艾尔弗雷德闯祸了吗？</span><span class="english">Is Alfred in trouble?</span></p>
 
 <p><span class="chinese">阿尔弗雷德是威塞克斯的国王。</span><span class="english">Alfred was a king of Wes.</span></p>

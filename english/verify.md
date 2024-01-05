@@ -1,5 +1,7 @@
 # verify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/verify.md)
+
 <p><span class="chinese">信任他人，但别忘了核实。</span><span class="english">Trust, but verify.</span></p>
 
 <p><span class="chinese">计算、汇报及核实。</span><span class="english">Measure, report and verify.</span></p>

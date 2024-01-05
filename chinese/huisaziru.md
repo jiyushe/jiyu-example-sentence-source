@@ -1,5 +1,7 @@
 # 挥洒自如
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huisaziru.md)
+
 <p><span class="chinese">他将自己的气质秉性挥洒自如，如行云流水。</span><span class="english">He swims easily in the stream of his own temperament.</span></p>
 
 <p><span class="chinese">英国广播公司交响乐团演奏起来挥洒自如。</span><span class="english">The BBC Symphony Orchestra played with great panache.</span></p>

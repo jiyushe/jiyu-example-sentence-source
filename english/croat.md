@@ -1,5 +1,7 @@
 # croat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/croat.md)
+
 <p><span class="chinese">在最后对决中，我还是不看好克罗地亚人。</span><span class="english">And in the final, I’m not going with the Croat just yet.</span></p>
 
 <p><span class="chinese">在仅仅只有17岁的时候，这个年轻的克罗地亚人就是萨各勒布迪纳摩的队长了。</span><span class="english">At the age of just 17 the young Croat was captain of Dinamo Zagreb.</span></p>

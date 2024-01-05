@@ -1,5 +1,7 @@
 # 党旗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangqi.md)
+
 <p><span class="chinese">赵的遗体被盖上党旗。</span><span class="english">Zhao's body was draped in the party flag.</span></p>
 
 <p><span class="chinese">紫金绣庄目前正准备为这面党旗申报吉尼斯世界纪录。</span><span class="english">They are now preparing to apply for a Guinness record.</span></p>

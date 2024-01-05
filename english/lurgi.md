@@ -1,5 +1,7 @@
 # lurgi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lurgi.md)
+
 <p><span class="chinese">建立了鲁奇式甲醇合成塔完整的双速率一维模型。</span><span class="english">The one-dimensional model of Lurgi tude-shell type methanol synthesis reactor has been established.</span></p>
 
 <p><span class="chinese">在中国，正在建设两个使用鲁奇公司MTP技术的世界级煤基化学品联合企业。</span><span class="english">Two world-class coal based chemical complexes using Lurgi MTP technology are under construction in China.</span></p>

@@ -1,5 +1,7 @@
 # embodiment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/embodiment.md)
+
 <p><span class="chinese">肯尼迪就是这一光环的化身。</span><span class="english">JFK was the embodiment of this.</span></p>
 
 <p><span class="chinese">成为了长尾的体现者。</span><span class="english">Become the embodiment of the long tail.</span></p>

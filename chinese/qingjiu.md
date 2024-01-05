@@ -1,5 +1,7 @@
 # 清酒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingjiu.md)
+
 <p><span class="chinese">清酒的销售会带来更多的税收。</span><span class="english">Sake sales lead to more tax income.</span></p>
 
 <p><span class="chinese">噢，服务员，我们还需要一壶小清酒，谢谢。</span><span class="english">Oh, attendant, we still need small sake and thank.</span></p>

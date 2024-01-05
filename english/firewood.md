@@ -1,5 +1,7 @@
 # firewood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/firewood.md)
+
 <p><span class="chinese">我去收集柴火。</span><span class="english">I'll go gather firewood.</span></p>
 
 <p><span class="chinese">湿柴冒烟冒得厉害。</span><span class="english">The wet firewood smokes badly.</span></p>

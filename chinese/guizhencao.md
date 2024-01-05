@@ -1,5 +1,7 @@
 # 鬼针草
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guizhencao.md)
+
 <p><span class="chinese">北美的一种鬼针草属植物，花大。</span><span class="english">North American bur marigold with large flowers.</span></p>
 
 <p><span class="chinese">窗前的鬼针草属植物长到1.5米高，远超过我对它以前的认识。</span><span class="english">One sticktight facing my dorm window can grow to 1.5m high!</span></p>

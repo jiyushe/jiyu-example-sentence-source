@@ -1,5 +1,7 @@
 # 气质
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qizhi_4.md)
+
 <p><span class="chinese">外貌好，气质佳。</span><span class="english">Good looks, good temperament.</span></p>
 
 <p><span class="chinese">他有艺术家的气质。</span><span class="english">He has an artistic temperament.</span></p>

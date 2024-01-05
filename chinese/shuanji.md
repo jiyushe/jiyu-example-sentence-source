@@ -1,5 +1,7 @@
 # 栓剂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuanji.md)
+
 <p><span class="chinese">我怎样用这栓剂？</span><span class="english">How do I use this suppository?</span></p>
 
 <p><span class="chinese">我怎样用这些栓剂呢？</span><span class="english">How do I use this suppositories?</span></p>

@@ -1,5 +1,7 @@
 # 智囊团
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhinangtuan.md)
+
 <p><span class="chinese">六月初他的智囊团将会公开亮相。</span><span class="english">In early June he will unveil his new team.</span></p>
 
 <p><span class="chinese">“是大胆的,”他告诉他的外交智囊团。</span><span class="english">"Be bold," he told his foreign brain trust.</span></p>

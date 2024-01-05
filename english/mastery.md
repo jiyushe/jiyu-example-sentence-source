@@ -1,5 +1,7 @@
 # mastery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mastery.md)
+
 <p><span class="chinese">找寻自我控制、管理之道。</span><span class="english">Seek the path of self mastery.</span></p>
 
 <p><span class="chinese">龙骑士增加了矛术掌握。</span><span class="english">Wyrmslayer now grants Spear Mastery.</span></p>

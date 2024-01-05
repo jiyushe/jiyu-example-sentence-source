@@ -1,5 +1,7 @@
 # 骄矜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaojin.md)
+
 <p><span class="chinese">边疆啊，你应该骄矜！</span><span class="english">Frontier, you should be proud!</span></p>
 
 <p><span class="chinese">我喜欢夏天，可它过于骄矜。</span><span class="english">I like summer, but it is too proud.</span></p>

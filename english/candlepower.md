@@ -1,5 +1,7 @@
 # candlepower
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/candlepower.md)
+
 <p><span class="chinese">用标准烛光测量发光的强度。</span><span class="english">Light is measured by candlepower.</span></p>
 
 <p><span class="chinese">最大发射光线的垂直角。</span><span class="english">Vertical angle of maximum candlepower emission.</span></p>

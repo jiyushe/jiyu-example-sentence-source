@@ -1,5 +1,7 @@
 # 官僚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guanliao.md)
+
 <p><span class="chinese">官僚又开始搞破坏。</span><span class="english">Bureaucratic vandals strike again.</span></p>
 
 <p><span class="chinese">工会使得劳动关系官僚化了。</span><span class="english">Unions bureaucratize labor relations.</span></p>

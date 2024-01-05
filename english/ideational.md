@@ -1,5 +1,7 @@
 # ideational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ideational.md)
+
 <p><span class="chinese">第二章是从概念功能角度探讨语篇分析。</span><span class="english">Chapter two discusses discourse analysis through the ideational function.</span></p>
 
 <p><span class="chinese">在功能语法的框架中，信息功能也被称为概念功能。</span><span class="english">Informative function is also called ideational function in the framework of functional grammar.</span></p>

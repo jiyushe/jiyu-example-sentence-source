@@ -1,5 +1,7 @@
 # maunder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maunder.md)
+
 <p><span class="chinese">Hathaway确信，2008年的宁静活动并非第二次蒙德极小期。</span><span class="english">The quiet of 2008 is not the second coming of the Maunder Minimum, believes Hathaway.</span></p>
 
 <p><span class="chinese">最后，我要特别感谢克里斯蒙德，一个很轻，简单和可靠的网格的作者。</span><span class="english">Finally big thanks to Chris Maunder , author of a very light, simple and reliable grid.</span></p>

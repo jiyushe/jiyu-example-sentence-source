@@ -1,5 +1,7 @@
 # 爽朗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuanglang.md)
+
 <p><span class="chinese">我爽朗的告诉他。</span><span class="english">I told him brightly.</span></p>
 
 <p><span class="chinese">我曾经是个直率而爽朗的人。</span><span class="english">I was downright chipper.</span></p>

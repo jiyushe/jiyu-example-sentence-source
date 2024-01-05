@@ -1,5 +1,7 @@
 # solely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solely.md)
+
 <p><span class="chinese">他只屈身于利润之前。</span><span class="english">He bent solely upon profit.</span></p>
 
 <p><span class="chinese">所以我仅凭思想内容给分。</span><span class="english">so they're graded solely on content.</span></p>

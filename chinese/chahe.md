@@ -1,5 +1,7 @@
 # 查核
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chahe.md)
+
 <p><span class="chinese">我得进行查核。</span><span class="english">I had to check.</span></p>
 
 <p><span class="chinese">我将查核此事。</span><span class="english">I will check up on the matter.</span></p>

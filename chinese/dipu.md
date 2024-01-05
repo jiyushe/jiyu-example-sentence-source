@@ -1,5 +1,7 @@
 # 地铺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dipu.md)
+
 <p><span class="chinese">在蛋糕顶上均匀地铺一层糖霜。</span><span class="english">I need a top to go with these slacks.</span></p>
 
 <p><span class="chinese">她的衣服散乱地铺满了双人床。</span><span class="english">Her clothes spread out on the double bed.</span></p>

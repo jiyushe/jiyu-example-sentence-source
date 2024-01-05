@@ -1,5 +1,7 @@
 # possessed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/possessed.md)
+
 <p><span class="chinese">她着了魔。</span><span class="english">She was possessed by a devil.</span></p>
 
 <p><span class="chinese">他行为举止像是魔怔了。</span><span class="english">He behaved like someone possessed.</span></p>

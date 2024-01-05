@@ -1,5 +1,7 @@
 # 到头来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daotoulai.md)
+
 <p><span class="chinese">所以到头来只能胡猜。</span><span class="english">And so they wind up by guess and by gaily.</span></p>
 
 <p><span class="chinese">这还不算，到头来我还得面对那个同事。</span><span class="english">And I still had to deal with her in the end!</span></p>

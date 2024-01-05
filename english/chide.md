@@ -1,5 +1,7 @@
 # chide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chide.md)
+
 <p><span class="chinese">要把事情提出来吗？要责骂他？</span><span class="english">Do I bring it up, do I chide him?</span></p>
 
 <p><span class="chinese">哦，请为我把命运的女神诟让。</span><span class="english">O for my sake do you with Fortune chide.</span></p>

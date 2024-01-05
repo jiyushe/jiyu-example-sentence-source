@@ -1,5 +1,7 @@
 # heartthrob
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heartthrob.md)
+
 <p><span class="chinese">布莱德。彼特是令许多年轻女性倾心的男子。</span><span class="english">Brad Pitt is a heartthrob for many young women.</span></p>
 
 <p><span class="chinese">布拉德·皮特是好莱坞最令人心跳的英俊小生，是吗？我想是的。</span><span class="english">Is that Brad Pitt, the Hollywood heartthrob? I believe so.</span></p>

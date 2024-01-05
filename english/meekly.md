@@ -1,5 +1,7 @@
 # meekly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meekly.md)
+
 <p><span class="chinese">谁能卑微地背起十字架</span><span class="english">Who here his cross can meekly bear</span></p>
 
 <p><span class="chinese">“是‘P’，”布朗先生谦恭地回答。</span><span class="english">‘It’s ‘P’, ’ Mr. Brown replied meekly.</span></p>

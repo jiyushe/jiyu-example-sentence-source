@@ -1,5 +1,7 @@
 # gabby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gabby.md)
+
 <p><span class="chinese">我最喜欢的是盖比那性感饱满的双唇！</span><span class="english">What I like most about Gabby is her luscious lips!</span></p>
 
 <p><span class="chinese">卢骗子和饶舌头奔了出来，跳到了大龟的背上。</span><span class="english">Then Lying Lou and Gabby darted into sight, leaped up on the mossback's hump.</span></p>

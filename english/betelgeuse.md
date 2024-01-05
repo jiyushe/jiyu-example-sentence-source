@@ -1,5 +1,7 @@
 # betelgeuse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/betelgeuse.md)
+
 <p><span class="chinese">2012年，参宿四会爆炸吗？</span><span class="english">Will Betelgeuse explode in 2012 ?</span></p>
 
 <p><span class="chinese">参宿四是一颗红色的超巨星。</span><span class="english">A red supergiant, Betelgeuse is no slouch of a star either.</span></p>

@@ -1,5 +1,7 @@
 # acquire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acquire.md)
+
 <p><span class="chinese">他的财富是怎样得来的？</span><span class="english">How did he acquire his wealth?</span></p>
 
 <p><span class="chinese">机器人能捕获该物体。</span><span class="english">The robot can acquire the object.</span></p>

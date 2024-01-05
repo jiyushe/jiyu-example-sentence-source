@@ -1,5 +1,7 @@
 # yeh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yeh.md)
+
 <p><span class="chinese">谢谢，查理先生。</span><span class="english">Thank yeh Mr. Charlie.</span></p>
 
 <p><span class="chinese">是的，要学会保护自己。</span><span class="english">Yeh , just learn to protect yourself.</span></p>

@@ -1,5 +1,7 @@
 # leninism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leninism.md)
+
 <p><span class="chinese">马克思列宁主义到底赞成哪一个呢？</span><span class="english">Which indeed is approved by Marxism- Leninism?</span></p>
 
 <p><span class="chinese">列宁主义学说发展了马克思主义。</span><span class="english">The doctrine of Leninism has developed Marxism.</span></p>

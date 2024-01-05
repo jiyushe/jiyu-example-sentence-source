@@ -1,5 +1,7 @@
 # 同路人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongluren.md)
+
 <p><span class="chinese">在日本他已经有许多｢同路人｣。</span><span class="english">In Japan he has many "fellow traveler."</span></p>
 
 <p><span class="chinese">伟大与至善并非同路人。</span><span class="english">Greatness and goodness go not always together.</span></p>

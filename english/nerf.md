@@ -1,5 +1,7 @@
 # nerf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nerf.md)
+
 <p><span class="chinese">据说，每个家族都会出败家子。</span><span class="english">They say every family has its black nerf.</span></p>
 
 <p><span class="chinese">我猜这两艘船都在勒夫枪的射程之外。</span><span class="english">I guess both ships were out of nerf gun range.</span></p>

@@ -1,5 +1,7 @@
 # turpan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turpan.md)
+
 <p><span class="chinese">你听说过吐鲁番吗？</span><span class="english">Have you heard of Turpan ?</span></p>
 
 <p><span class="chinese">经过36小时他到了吐鲁番。</span><span class="english">After 36 hours he had to Turpan.</span></p>

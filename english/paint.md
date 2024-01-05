@@ -1,5 +1,7 @@
 # paint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paint.md)
+
 <p><span class="chinese">油漆和涂料。</span><span class="english">Paint and stain.</span></p>
 
 <p><span class="chinese">刷吃水标记。</span><span class="english">Paint draft marks.</span></p>

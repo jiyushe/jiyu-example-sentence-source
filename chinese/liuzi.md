@@ -1,5 +1,7 @@
 # 瘤子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liuzi.md)
+
 <p><span class="chinese">你觉得那瘤子有多重?。</span><span class="english">How much do you think it weighs?</span></p>
 
 <p><span class="chinese">为什么你要让这个瘤子变得这么糟?。</span><span class="english">Why did you lwt it get this bad?</span></p>

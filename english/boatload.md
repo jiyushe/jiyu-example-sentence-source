@@ -1,5 +1,7 @@
 # boatload
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boatload.md)
+
 <p><span class="chinese">一条船的载货量很难用确切数字表示。</span><span class="english">He imported wine by the boatload.</span></p>
 
 <p><span class="chinese">他进口了一满船酒。</span><span class="english">He imported wine by the boatload.</span></p>

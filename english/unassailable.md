@@ -1,5 +1,7 @@
 # unassailable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unassailable.md)
+
 <p><span class="chinese">他的判决是至高无上的、他的权力是不容置疑的。</span><span class="english">His judgment was sovereign, his power unassailable.</span></p>
 
 <p><span class="chinese">中国的论点是不可攻破的。</span><span class="english">The substance of the Chinese argument is unassailable.</span></p>

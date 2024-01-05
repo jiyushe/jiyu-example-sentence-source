@@ -1,5 +1,7 @@
 # transplantable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transplantable.md)
+
 <p><span class="chinese">该垂度控制系统具有通用性和可移植性。</span><span class="english">This catenary control sys-tem is universal and transplantable.</span></p>
 
 <p><span class="chinese">基于DVB-SI标准设计和开发了具有可移植性的EPG应用软件。</span><span class="english">Transplantable EPG software based on DVB-SI is designed and developed.</span></p>

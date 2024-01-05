@@ -1,5 +1,7 @@
 # stanch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stanch.md)
+
 <p><span class="chinese">你可以尝试着在一段时期内止住你的欲望之流。</span><span class="english">Try, for a moment, to stanch the flow of desire.</span></p>
 
 <p><span class="chinese">海螵蛸可以入药，用来止血。</span><span class="english">Cuttlebone can be used as a medicine to stanch bleeding.</span></p>

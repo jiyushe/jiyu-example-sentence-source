@@ -1,5 +1,7 @@
 # hierophant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hierophant.md)
+
 <p><span class="chinese">马克思不仅是我们做学问的导师，也是我们做人的导师。</span><span class="english">Karl Marx is our hierophant both in study and in conducting-oneself.</span></p>
 
 <p><span class="chinese">罗师不仅是我论文的导师，更是我精神的导师。</span><span class="english">Prof. Luo is not only the tutor of my paper, but also the hierophant of my spirit.</span></p>

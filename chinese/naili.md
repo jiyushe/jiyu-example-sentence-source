@@ -1,5 +1,7 @@
 # 耐力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naili.md)
+
 <p><span class="chinese">但是他在耐力上比我强。</span><span class="english">But he outstays me.</span></p>
 
 <p><span class="chinese">神经生长液可增强小鼠的耐力。</span><span class="english">NGD can raise stamina of mice.</span></p>

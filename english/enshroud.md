@@ -1,5 +1,7 @@
 # enshroud
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enshroud.md)
+
 <p><span class="chinese">雾笼罩着山峦。</span><span class="english">Fog enshroud the hills.</span></p>
 
 <p><span class="chinese">我和覆盖在其皮肤的烟雾。</span><span class="english">And enshroud me in its skin of smoke.</span></p>

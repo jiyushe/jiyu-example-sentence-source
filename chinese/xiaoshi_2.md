@@ -1,5 +1,7 @@
 # 小试
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoshi_2.md)
+
 <p><span class="chinese">约翰决定在节目中小试身手。</span><span class="english">John decided to try out for the show.</span></p>
 
 <p><span class="chinese">解放军空军小试身手，在前线站稳了脚跟。</span><span class="english">The PLA Air Force small test their skills in front of a firm footing.</span></p>

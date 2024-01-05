@@ -1,5 +1,7 @@
 # caddy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caddy.md)
+
 <p><span class="chinese">我是你的球童。</span><span class="english">I ' m your caddy.</span></p>
 
 <p><span class="chinese">我今天的杆弟很棒。</span><span class="english">I had a great caddy today.</span></p>

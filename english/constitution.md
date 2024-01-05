@@ -1,5 +1,7 @@
 # constitution
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/constitution.md)
+
 <p><span class="chinese">他有一副钢筋铁骨。</span><span class="english">He has an iron constitution.</span></p>
 
 <p><span class="chinese">而且这是在宪法中明文规定的。</span><span class="english">It's in "The Constitution. ""</span></p>

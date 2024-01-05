@@ -1,5 +1,7 @@
 # cheesed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cheesed.md)
+
 <p><span class="chinese">他厌倦了他的工作。</span><span class="english">He's cheesed off with his job.</span></p>
 
 <p><span class="chinese">该死！我的飞机快成筛子了！</span><span class="english">Damn! My plane's been Swiss- cheesed !</span></p>

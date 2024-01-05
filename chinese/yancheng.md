@@ -1,5 +1,7 @@
 # 严惩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yancheng.md)
+
 <p><span class="chinese">因此，我们要对他们依法进行严惩。</span><span class="english">If so, punish them according to law.</span></p>
 
 <p><span class="chinese">他因犯罪而受到严惩。</span><span class="english">He was scourged for committing a crime.</span></p>

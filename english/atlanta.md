@@ -1,5 +1,7 @@
 # atlanta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atlanta.md)
+
 <p><span class="chinese">安•卡兰从亚特兰大报道。</span><span class="english">Ann Calan, CNN, Atlanta.</span></p>
 
 <p><span class="chinese">亚特兰大比华盛顿更靠南。</span><span class="english">Atlanta is below Washington.</span></p>

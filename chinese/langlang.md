@@ -1,5 +1,7 @@
 # 朗朗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/langlang.md)
+
 <p><span class="chinese">黑昼茫茫，白夜朗朗。</span><span class="english">In blackest day, in brightest night.</span></p>
 
 <p><span class="chinese">朗朗是满族，郎平是满族。</span><span class="english">Lang Lang is Manchu. Lang Ping is Manchu.</span></p>

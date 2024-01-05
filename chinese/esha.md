@@ -1,5 +1,7 @@
 # 扼杀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/esha.md)
+
 <p><span class="chinese">这也就扼杀了互联网。</span><span class="english">And that kills the Internet.</span></p>
 
 <p><span class="chinese">那出戏被贬斥的评论扼杀了。</span><span class="english">The play was killed by bad reviews.</span></p>

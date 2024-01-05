@@ -1,5 +1,7 @@
 # 喷泉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/penquan.md)
+
 <p><span class="chinese">这叫做“间歇喷泉”。</span><span class="english">This is called a geyser.</span></p>
 
 <p><span class="chinese">喷泉和火山均能喷发。</span><span class="english">Geysers and volcanoes erupt.</span></p>

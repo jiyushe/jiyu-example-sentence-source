@@ -1,5 +1,7 @@
 # 洗钱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiqian.md)
+
 <p><span class="chinese">说到这里，洗钱游戏又有新玩家进来掺和一脚。</span><span class="english">Enter here a new player.</span></p>
 
 <p><span class="chinese">其中九人还被控洗钱罪。</span><span class="english">Nine of them are also charged with money laundering.</span></p>

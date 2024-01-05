@@ -1,5 +1,7 @@
 # palpable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palpable.md)
+
 <p><span class="chinese">形势的竟争性是显而易见的。</span><span class="english">The competitive nature of the situation was palpable.</span></p>
 
 <p><span class="chinese">脾尖可以在左肋缘处触知。</span><span class="english">The spleen tip was palpable at the left costal margin.</span></p>

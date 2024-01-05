@@ -1,5 +1,7 @@
 # 入土
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rutu.md)
+
 <p><span class="chinese">倒入土制派的外壳。</span><span class="english">Pour into unbaked pie shell.</span></p>
 
 <p><span class="chinese">这灰落尘入土，成泥成尘。</span><span class="english">This ash soil, the fallout mud dust.</span></p>

@@ -1,5 +1,7 @@
 # 欲念
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunian.md)
+
 <p><span class="chinese">你是我的生命之火，我的欲念之光。</span><span class="english">You are my fire, you are my desire.</span></p>
 
 <p><span class="chinese">审慎的顾虑几乎被猖狂的欲念窒息。</span><span class="english">Is almost choked by unresisted lust.</span></p>

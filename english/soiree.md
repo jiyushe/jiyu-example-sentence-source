@@ -1,5 +1,7 @@
 # soiree
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soiree.md)
+
 <p><span class="chinese">晚会由我们准备。</span><span class="english">The soiree will be prepared by us.</span></p>
 
 <p><span class="chinese">经过大家的商量，同意由他安排晚会。</span><span class="english">We agree the soiree was arranged by him.</span></p>

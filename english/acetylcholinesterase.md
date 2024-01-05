@@ -1,5 +1,7 @@
 # acetylcholinesterase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acetylcholinesterase.md)
+
 <p><span class="chinese">它已被认为是抑制乙酰胆碱酯酶的酶。</span><span class="english">It has been found to be an inhibitor of the enzyme acetylcholinesterase.</span></p>
 
 <p><span class="chinese">本文研究了V类毒剂与乙酰胆碱酯酶的作用方式。</span><span class="english">The mode of action of V-type organophosphate poisons on acetylcholinesterase has been studied.</span></p>

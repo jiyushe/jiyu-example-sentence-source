@@ -1,5 +1,7 @@
 # bender
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bender.md)
+
 <p><span class="chinese">快来吧，本德。不管谁赢。</span><span class="english">Come on, Bender. Whoever wins.</span></p>
 
 <p><span class="chinese">为什么喝酒会皮肤过敏?。</span><span class="english">Why to drink bender skin allergy ?</span></p>

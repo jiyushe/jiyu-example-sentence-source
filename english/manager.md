@@ -1,5 +1,7 @@
 # manager
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manager.md)
+
 <p><span class="chinese">是他的经理打来的。</span><span class="english">It was his manager.</span></p>
 
 <p><span class="chinese">我是一名贩卖司理。</span><span class="english">I'm a sales manager.</span></p>

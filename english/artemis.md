@@ -1,5 +1,7 @@
 # artemis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/artemis.md)
+
 <p><span class="chinese">艾西斯有点像阿尔忒弥斯。</span><span class="english">But Isis is sort of like Artemis.</span></p>
 
 <p><span class="chinese">有时她身边会有一道盈月，月亮是阿尔忒弥斯的象征。</span><span class="english">The moon is the symbol of Artemis.</span></p>

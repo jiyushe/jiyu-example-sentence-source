@@ -1,5 +1,7 @@
 # 库仑定律
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kulundinglv.md)
+
 <p><span class="chinese">为什么符合库仑定律？</span><span class="english">Why meet the Coulomb's law?</span></p>
 
 <p><span class="chinese">这时再引入库仑定律。</span><span class="english">I just plug into the Coulomb's Law.</span></p>

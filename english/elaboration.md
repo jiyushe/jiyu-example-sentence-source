@@ -1,5 +1,7 @@
 # elaboration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elaboration.md)
+
 <p><span class="chinese">她的文风倾向于雕琢。</span><span class="english">Her style tends to elaboration.</span></p>
 
 <p><span class="chinese">这一论点有待进一步发挥。</span><span class="english">This point needs further elaboration.</span></p>

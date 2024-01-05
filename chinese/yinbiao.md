@@ -1,5 +1,7 @@
 # 音标
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinbiao.md)
+
 <p><span class="chinese">标上音标后我就能朗读它了</span><span class="english">Oh, I got it so I can read it.</span></p>
 
 <p><span class="chinese">标上音标后我就能朗读它了“</span><span class="english">Oh, I got it so I can read it."</span></p>

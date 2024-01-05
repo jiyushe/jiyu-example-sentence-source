@@ -1,5 +1,7 @@
 # 重氢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongqing_1.md)
+
 <p><span class="chinese">它的质量是等于重氢的质量。</span><span class="english">It has an atomic mass of two deuterium.</span></p>
 
 <p><span class="chinese">基于重氢的聚变反应堆在地球上被广泛使用。</span><span class="english">Deuterium-based fusion reactors enter widespread use on Earth.</span></p>

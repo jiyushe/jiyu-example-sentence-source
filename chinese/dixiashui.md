@@ -1,5 +1,7 @@
 # 地下水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dixiashui.md)
+
 <p><span class="chinese">根据一项新的全球性地下水研究结果，世界的蓄水层正在枯竭。</span><span class="english">The world's aquifers are draining.</span></p>
 
 <p><span class="chinese">本区水资源匮乏，地下水超采严重。</span><span class="english">Water resources in the area are deficient.</span></p>

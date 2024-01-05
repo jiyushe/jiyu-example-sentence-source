@@ -1,5 +1,7 @@
 # 口信
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kouxin.md)
+
 <p><span class="chinese">我可以请你捎口信吗？</span><span class="english">May I leave a message?</span></p>
 
 <p><span class="chinese">我能留个口信儿吗？</span><span class="english">Could I leave a message?</span></p>

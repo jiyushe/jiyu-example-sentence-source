@@ -1,5 +1,7 @@
 # foster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foster.md)
+
 <p><span class="chinese">培养你的这些资质。</span><span class="english">Foster these aptitudes.</span></p>
 
 <p><span class="chinese">想鼓励团队合作？</span><span class="english">Want to foster teamwork?</span></p>

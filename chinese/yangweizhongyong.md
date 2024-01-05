@@ -1,5 +1,7 @@
 # 洋为中用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangweizhongyong.md)
+
 <p><span class="chinese">中国要做到古为今用，洋为中用。</span><span class="english">Make the past serve the present and the foreign serve China.</span></p>
 
 <p><span class="chinese">始发西方古典文化，融汇东方精华，是“美勒斯顿”洋为中用，去芜存真的美的感知。</span><span class="english">MORESTORM could let you feel the beauty by combining the west classical culture and the east culture.</span></p>

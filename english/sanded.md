@@ -1,5 +1,7 @@
 # sanded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sanded.md)
+
 <p><span class="chinese">同时，坦克，但用砂纸皆大欢喜。</span><span class="english">The same tank but sanded nicely.</span></p>
 
 <p><span class="chinese">道路在暴风雪之后铺上了沙子。</span><span class="english">The roads were sanded after the snowstorm.</span></p>

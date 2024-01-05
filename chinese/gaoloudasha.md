@@ -1,5 +1,7 @@
 # 高楼大厦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaoloudasha.md)
+
 <p><span class="chinese">这栋小房子被一些高楼大厦包围起来了。</span><span class="english">The small house was fenced in by high buildings.</span></p>
 
 <p><span class="chinese">但是，高楼大厦并非浦东的全部。</span><span class="english">But high-rise buildings are not all that Pudong has.</span></p>

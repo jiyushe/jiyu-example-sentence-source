@@ -1,5 +1,7 @@
 # devastating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/devastating.md)
+
 <p><span class="chinese">结果一般只能是砸个稀烂。</span><span class="english">The results could be devastating.</span></p>
 
 <p><span class="chinese">你穿那套新衣服看上去漂亮极了。</span><span class="english">You look devastating in that new dress.</span></p>

@@ -1,5 +1,7 @@
 # 盲文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mangwen.md)
+
 <p><span class="chinese">这就是所谓的盲文文盲。</span><span class="english">It is called Braille illiteracy.</span></p>
 
 <p><span class="chinese">我的手指扫描着一本盲文书。</span><span class="english">My fingers scan a book in braille.</span></p>

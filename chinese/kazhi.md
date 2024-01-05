@@ -1,5 +1,7 @@
 # 卡纸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kazhi.md)
+
 <p><span class="chinese">我来看看。打印机卡纸了。</span><span class="english">Let me check. It has a paper jam.</span></p>
 
 <p><span class="chinese">相纸收纸错误，相纸已卡纸在转向导轨1。</span><span class="english">NO. 069 Paper rewinding error, Paper is jammed at tum guide 1.</span></p>

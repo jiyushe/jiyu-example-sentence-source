@@ -1,5 +1,7 @@
 # 祸根
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huogen.md)
+
 <p><span class="chinese">贪婪是损毁幸福的祸根。</span><span class="english">Avarice is the bane to happiness.</span></p>
 
 <p><span class="chinese">他的财富成了祸根。</span><span class="english">His wealth proved a curse to him.</span></p>

@@ -1,5 +1,7 @@
 # laudable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laudable.md)
+
 <p><span class="chinese">他这种精神还是非常可嘉的。</span><span class="english">He this kind of spirit is very laudable still.</span></p>
 
 <p><span class="chinese">如果Laudable少付点钱我就可以节约更多钱了。</span><span class="english">Laudable could save some money by paying me less.</span></p>

@@ -1,5 +1,7 @@
 # 递送
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/disong.md)
+
 <p><span class="chinese">递送货物税款未付。</span><span class="english">DDU Delivered Duty unpaid.</span></p>
 
 <p><span class="chinese">下批邮件什麽时候递送？</span><span class="english">When does the next mail leave?</span></p>

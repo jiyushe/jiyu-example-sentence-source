@@ -1,5 +1,7 @@
 # beautify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beautify.md)
+
 <p><span class="chinese">本园花木不得攀折。</span><span class="english">Flowers beautify a garden.</span></p>
 
 <p><span class="chinese">举手之劳，美化校园。</span><span class="english">No, to beautify the campus.</span></p>

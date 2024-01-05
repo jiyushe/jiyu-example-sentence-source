@@ -1,5 +1,7 @@
 # scalpel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scalpel.md)
+
 <p><span class="chinese">和手术刀形成的刀口一致。</span><span class="english">It's consistent with a scalpel.</span></p>
 
 <p><span class="chinese">眼科显微外科手术刀的系列。</span><span class="english">Micro scalpel for ophthalmic surgery introduced.</span></p>

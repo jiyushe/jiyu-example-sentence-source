@@ -1,5 +1,7 @@
 # befell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/befell.md)
+
 <p><span class="chinese">如同已降临的这两次。</span><span class="english">As these that twice befell.</span></p>
 
 <p><span class="chinese">35岁时，不幸又一次降临到他的头上。</span><span class="english">When he was thirty-five, misfortune again befell on him.</span></p>

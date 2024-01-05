@@ -1,5 +1,7 @@
 # cryolite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cryolite.md)
+
 <p><span class="chinese">她手腕上戴着一串水晶石的手链。</span><span class="english">She wears a hand chain made of cryolite around her wrist.</span></p>
 
 <p><span class="chinese">根据测量结果，讨论了氧化铝在冰晶石熔体中的溶解机理。</span><span class="english">From the results, solution mechanism of alumina in molten cryolite was discussed.</span></p>

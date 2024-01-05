@@ -1,5 +1,7 @@
 # 地老天荒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dilaotianhuang.md)
+
 <p><span class="chinese">这也不过是我一个人的地老天荒。</span><span class="english">This is just my personal R &B.</span></p>
 
 <p><span class="chinese">原来，我还是来不及我们的地老天荒。</span><span class="english">Originally, I still not our the end of life.</span></p>

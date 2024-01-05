@@ -1,5 +1,7 @@
 # stimulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stimulation.md)
+
 <p><span class="chinese">这种刺激持续时间并不长。</span><span class="english">The stimulation does not last long.</span></p>
 
 <p><span class="chinese">有必要刺激一下他的冷漠。</span><span class="english">His apathy necessitates stimulation.</span></p>

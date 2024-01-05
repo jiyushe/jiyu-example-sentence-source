@@ -1,5 +1,7 @@
 # teacup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teacup.md)
+
 <p><span class="chinese">别把茶杯揍了。</span><span class="english">Don't smash the teacup.</span></p>
 
 <p><span class="chinese">茶碗缺了个口儿。</span><span class="english">The rim of the teacup is chipped.</span></p>

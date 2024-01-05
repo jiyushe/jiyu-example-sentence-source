@@ -1,5 +1,7 @@
 # isoparametric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isoparametric.md)
+
 <p><span class="chinese">该算法适用于三角形线性等参元。</span><span class="english">The algorithm is available for linear triangular isoparametric elements.</span></p>
 
 <p><span class="chinese">本文研究洛兹空间型中的等参超曲面。</span><span class="english">In this thesis, isoparametric hypersurfaces in Lorentzian space forms are studied.</span></p>

@@ -1,5 +1,7 @@
 # mystique
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mystique.md)
+
 <p><span class="chinese">魔型女最近被捕了-这毛球是谁?。</span><span class="english">Mystique was recently apprehended. -Who is the fur ball?</span></p>
 
 <p><span class="chinese">这样一来他还有她都保有了一定的神秘性。</span><span class="english">In that way he maintains a certain mystique.And she, too.</span></p>

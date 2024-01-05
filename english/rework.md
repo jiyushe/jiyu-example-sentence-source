@@ -1,5 +1,7 @@
 # rework
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rework.md)
+
 <p><span class="chinese">我可以重新设计我的产品包装吗？</span><span class="english">Can I rework packaging design?</span></p>
 
 <p><span class="chinese">大量不需要的返工都可以省去。</span><span class="english">A lot of unnecessary rework would be cut away.</span></p>

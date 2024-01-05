@@ -1,5 +1,7 @@
 # rag
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rag.md)
+
 <p><span class="chinese">他把抹布拧干了。</span><span class="english">He wrung out the rag.</span></p>
 
 <p><span class="chinese">她用一块破布包住我的手。</span><span class="english">She twisted a rag round my hand.</span></p>

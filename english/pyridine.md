@@ -1,5 +1,7 @@
 # pyridine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pyridine.md)
+
 <p><span class="chinese">两个吡啶配体是以顺式络合的。</span><span class="english">The two pyridine molecules are cis-coordinated.</span></p>
 
 <p><span class="chinese">每个不对称单位还包含有半个溶剂吡啶分子。</span><span class="english">Besides, there is one half solvent pyridine molecule in a asymmetric unit.</span></p>

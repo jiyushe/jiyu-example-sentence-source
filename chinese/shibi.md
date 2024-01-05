@@ -1,5 +1,7 @@
 # 势必
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shibi.md)
+
 <p><span class="chinese">但1.0000势必提供稳固的支撑。</span><span class="english">But 1.0000 should provide steady support.</span></p>
 
 <p><span class="chinese">过分成熟的甜果势必掉下树枝。</span><span class="english">So luscious fruit must fall when over-ripe.</span></p>

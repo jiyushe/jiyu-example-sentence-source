@@ -1,5 +1,7 @@
 # skewer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skewer.md)
+
 <p><span class="chinese">烹饪前先把鸡肉串起来。</span><span class="english">Skewer the chicken before cooking.</span></p>
 
 <p><span class="chinese">北京街头，一个正在啃肉串的小孩。</span><span class="english">A child enjoys a meat skewer in Beijing.</span></p>

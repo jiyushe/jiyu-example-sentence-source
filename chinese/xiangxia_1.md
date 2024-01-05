@@ -1,5 +1,7 @@
 # 向下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangxia_1.md)
+
 <p><span class="chinese">向下滚动。</span><span class="english">Scroll down.</span></p>
 
 <p><span class="chinese">她向下看了看。</span><span class="english">Then she looked down.</span></p>

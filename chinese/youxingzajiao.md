@@ -1,5 +1,7 @@
 # 有性杂交
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youxingzajiao.md)
+
 <p><span class="chinese">用有性杂交的菠萝种子为材科，使用组织培养的手段诱导愈伤组织并进行分化培养。</span><span class="english">Seeds of hybrid pineapple were cultured in vitro to induce callus and then differentiated.</span></p>
 
 <p><span class="chinese">采用有性杂交的手段是培育优质谷子品种最有成效的育种方法之一。</span><span class="english">Sexual hybridization is the most effective breeding method for cultivating the high-quality millet varieties.</span></p>

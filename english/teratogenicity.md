@@ -1,5 +1,7 @@
 # teratogenicity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teratogenicity.md)
+
 <p><span class="chinese">精子畸形试验阴性。</span><span class="english">The sperm teratogenicity test was negative.</span></p>
 
 <p><span class="chinese">就说你看到书上写着抽烟对胎儿不好，容易致畸。</span><span class="english">Say, read the book you see smoke on the fetal well, easy to teratogenicity.</span></p>

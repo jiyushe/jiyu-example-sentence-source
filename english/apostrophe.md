@@ -1,5 +1,7 @@
 # apostrophe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apostrophe.md)
+
 <p><span class="chinese">17世纪以前，撇号很少被运用。</span><span class="english">Before the seventeenth century the apostrophe was rare.</span></p>
 
 <p><span class="chinese">我在纸上写下那个词，但他加了那一撇。</span><span class="english">I put that word on the page, but he added the apostrophe.</span></p>

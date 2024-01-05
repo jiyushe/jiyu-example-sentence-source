@@ -1,5 +1,7 @@
 # camellia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/camellia.md)
+
 <p><span class="chinese">它是有机茶花油。</span><span class="english">It is organic camellia oil.</span></p>
 
 <p><span class="chinese">想看茶花，正是好时候。</span><span class="english">This was the camellia season.</span></p>

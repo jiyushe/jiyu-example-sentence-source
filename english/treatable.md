@@ -1,5 +1,7 @@
 # treatable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/treatable.md)
+
 <p><span class="chinese">睡眠呼吸暂停是可以治疗的。</span><span class="english">It is treatable.</span></p>
 
 <p><span class="chinese">甲状腺功能减退是可以通过药物治疗好的。</span><span class="english">Hypothyroidism is treatable with medication.</span></p>

@@ -1,5 +1,7 @@
 # upwind
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upwind.md)
+
 <p><span class="chinese">因此方帆船无法逆风航行。</span><span class="english">Therefore square-riggers cannot sail upwind.</span></p>
 
 <p><span class="chinese">不吸烟的老是坐在吸烟的下风口。</span><span class="english">A non-smoker among smokers will always be upwind.</span></p>

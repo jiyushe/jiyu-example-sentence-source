@@ -1,5 +1,7 @@
 # unequally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unequally.md)
+
 <p><span class="chinese">盐不平等地被分布在行星周围。</span><span class="english">Salt is unequally distributed around the planet.</span></p>
 
 <p><span class="chinese">暴力和污染的扩散也是不平等的。</span><span class="english">Violence and pollution are spread even more unequally.</span></p>

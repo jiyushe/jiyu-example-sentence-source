@@ -1,5 +1,7 @@
 # antiepileptic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antiepileptic.md)
+
 <p><span class="chinese">EES的抗癫痫作用机制尚需进一步研究。</span><span class="english">The mechanisms of EES's antiepileptic effect remains to be further investigated.</span></p>
 
 <p><span class="chinese">在孕期，不服用任何抗癫痫药物的妇女不在研究之列。</span><span class="english">Women who were not taking any antiepileptic drugs during pregnancywere not included.</span></p>

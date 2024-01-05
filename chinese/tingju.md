@@ -1,5 +1,7 @@
 # 挺举
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingju.md)
+
 <p><span class="chinese">战斗旗在远处挺举关于发狂地。</span><span class="english">The battle flag in the distance jerked about madly.</span></p>
 
 <p><span class="chinese">亲爱的观众，挺举比赛现在结束。</span><span class="english">Dear spectators, the clean and jerk competition has concluded.</span></p>

@@ -1,5 +1,7 @@
 # petal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/petal.md)
+
 <p><span class="chinese">我叫花瓣儿。</span><span class="english">I'm called Petal.</span></p>
 
 <p><span class="chinese">最后告诉所有的花瓣。</span><span class="english">The last petal tells all.</span></p>

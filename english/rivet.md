@@ -1,5 +1,7 @@
 # rivet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rivet.md)
+
 <p><span class="chinese">螺丝，螺帽及铆钉制造业“，”</span><span class="english">Screw, Nut and Rivet Manufacturing.</span></p>
 
 <p><span class="chinese">每个铆钉只需要一两分钟的事。</span><span class="english">Each rivet only takes a minute or two to do.</span></p>

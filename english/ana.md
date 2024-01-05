@@ -1,5 +1,7 @@
 # ana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ana.md)
+
 <p><span class="chinese">联系离场，全日空121，再见。</span><span class="english">Contact Departure, ANA 121, Good-day.</span></p>
 
 <p><span class="chinese">圣达那大军随后转向萨姆.休斯顿。</span><span class="english">Santa Ana then moved against Sam Houston.</span></p>

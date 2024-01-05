@@ -1,5 +1,7 @@
 # 圆雕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuandiao.md)
+
 <p><span class="chinese">龙眼木雕以圆雕为主，也有浮雕、镂透雕。</span><span class="english">Longan woodcarving Yuandiao, relief, Toudiao, also have.</span></p>
 
 <p><span class="chinese">莆田的石雕以圆雕、浮雕、透雕著称于世。</span><span class="english">Putian stone Yuandiao relief Toudiao as known to the world.</span></p>

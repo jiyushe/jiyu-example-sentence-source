@@ -1,5 +1,7 @@
 # obliquity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obliquity.md)
+
 <p><span class="chinese">黄道面与赤道面的夹角是黄道的倾角。</span><span class="english">The obliquity of ecliptic is the fundamental cause of the seasons.</span></p>
 
 <p><span class="chinese">黄道面与赤道面的夹角是黄道的倾角。</span><span class="english">The obliquity of the ecliptic is the fundamental cause of the seasons.</span></p>

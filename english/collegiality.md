@@ -1,5 +1,7 @@
 # collegiality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collegiality.md)
+
 <p><span class="chinese">我们应该感谢你们的耐心、努力和分享成果。</span><span class="english">We want to thank you for your patience, hard work, and collegiality.</span></p>
 
 <p><span class="chinese">而现在是时候前进了，有一个方法可以保持这种积极的气氛。</span><span class="english">And now its time to move on, there is a way to leave with the same collegiality and positive atmosphere.</span></p>

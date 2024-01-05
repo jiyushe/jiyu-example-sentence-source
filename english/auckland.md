@@ -1,5 +1,7 @@
 # auckland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/auckland.md)
+
 <p><span class="chinese">酒店附近分布有一些商店和娱乐场所。</span><span class="english">Auckland Airport is a 20-minute drive away.</span></p>
 
 <p><span class="chinese">你能否改变奥克兰酒店不夜城吗？</span><span class="english">Could you change the Auckland hotel to Skycity ?</span></p>

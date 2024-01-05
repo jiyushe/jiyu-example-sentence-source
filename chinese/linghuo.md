@@ -1,5 +1,7 @@
 # 灵活
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linghuo.md)
+
 <p><span class="chinese">但不要过分依仗它，灵活运用就是了。</span><span class="english">And don't overdo it.</span></p>
 
 <p><span class="chinese">豁达一点，灵活一点。</span><span class="english">Be open, be flexible.</span></p>

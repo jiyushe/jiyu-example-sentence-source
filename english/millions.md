@@ -1,5 +1,7 @@
 # millions
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/millions.md)
+
 <p><span class="chinese">亿万人民团结起来</span><span class="english">The millions be embraced.</span></p>
 
 <p><span class="chinese">全世界有数以百万计说过“我愿意”的新人有血缘关系。</span><span class="english">So have millions worldwide.</span></p>

@@ -1,5 +1,7 @@
 # 属下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuxia.md)
+
 <p><span class="chinese">他命令他的属下把我赶出利国。</span><span class="english">He ordered his men to drive me out of the country.</span></p>
 
 <p><span class="chinese">他的属下有个叫杨戏的，性格孤僻，讷于言语。</span><span class="english">His staff play a man named Yang, withdrawn, Ne in words.</span></p>

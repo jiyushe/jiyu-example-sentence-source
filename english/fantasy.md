@@ -1,5 +1,7 @@
 # fantasy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fantasy.md)
+
 <p><span class="chinese">远景还是幻想?</span><span class="english">Future or Fantasy?</span></p>
 
 <p><span class="chinese">多么疯狂的幻想！</span><span class="english">What a crazy fantasy.</span></p>

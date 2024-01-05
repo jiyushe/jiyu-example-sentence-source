@@ -1,5 +1,7 @@
 # 土地税
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tudishui.md)
+
 <p><span class="chinese">教堂的土地通常免征土地税。</span><span class="english">Church land is usually exempt from real estate tax.</span></p>
 
 <p><span class="chinese">期望立法能批准基于价值的土地税。</span><span class="english">Expectation that legislation will authorize value-based land tax.</span></p>

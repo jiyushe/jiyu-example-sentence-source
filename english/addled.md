@@ -1,5 +1,7 @@
 # addled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/addled.md)
+
 <p><span class="chinese">这些蛋没一个坏的。</span><span class="english">Not one of these eggs ever addled.</span></p>
 
 <p><span class="chinese">威士忌搞得我头晕脑胀的。</span><span class="english">My brain is a bit addled by whiskey.</span></p>

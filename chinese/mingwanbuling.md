@@ -1,5 +1,7 @@
 # 冥顽不灵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingwanbuling.md)
+
 <p><span class="chinese">如我们仍冥顽不灵，他就会使用电钻了。</span><span class="english">If we're really stubborn, he uses a jackhammer.</span></p>
 
 <p><span class="chinese">他很容易厌烦，非常容易，那些冥顽不灵的人总使他受不了。</span><span class="english">He was easily bored, too easily, and dull people always put him out.</span></p>

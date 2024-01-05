@@ -1,5 +1,7 @@
 # regeneration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regeneration.md)
+
 <p><span class="chinese">香石竹再生体系的建立。</span><span class="english">Regeneration systems of carnation.</span></p>
 
 <p><span class="chinese">加速神经再生。</span><span class="english">Acceleration of nerve regeneration.</span></p>

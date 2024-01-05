@@ -1,5 +1,7 @@
 # virial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/virial.md)
+
 <p><span class="chinese">高次维里方程。</span><span class="english">High-order virial equation.</span></p>
 
 <p><span class="chinese">需要。</span><span class="english">Another one is the virial expansion.</span></p>

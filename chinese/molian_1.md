@@ -1,5 +1,7 @@
 # 磨练
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/molian_1.md)
+
 <p><span class="chinese">磨练你的分析技能。</span><span class="english">Hone your analytical skills.</span></p>
 
 <p><span class="chinese">困难可以磨练人的意志。</span><span class="english">Difficulties can anneal will.</span></p>

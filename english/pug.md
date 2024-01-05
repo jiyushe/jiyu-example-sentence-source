@@ -1,5 +1,7 @@
 # pug
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pug.md)
+
 <p><span class="chinese">这浴缸是给哈巴狗的。</span><span class="english">The tub is for the pug.</span></p>
 
 <p><span class="chinese">帕格发现没有理由不去马上接替希克曼。</span><span class="english">Pug saw no reason not to relieve Hickman straight off.</span></p>

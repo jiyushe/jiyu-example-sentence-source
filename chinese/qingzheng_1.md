@@ -1,5 +1,7 @@
 # 清蒸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingzheng_1.md)
+
 <p><span class="chinese">清蒸冷水鱼。</span><span class="english">Steamed cold-water fish.</span></p>
 
 <p><span class="chinese">再就是清蒸桂鱼？</span><span class="english">And Steamed Mandarin Fish?</span></p>

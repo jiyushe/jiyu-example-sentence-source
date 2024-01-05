@@ -1,5 +1,7 @@
 # unfriendly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unfriendly.md)
+
 <p><span class="chinese">我觉得她不友好。</span><span class="english">I felt that she wets unfriendly.</span></p>
 
 <p><span class="chinese">“它太生硬了，”她说，“并且非常不友好。</span><span class="english">It s so abrupt, she said, and it s very unfriendly.</span></p>

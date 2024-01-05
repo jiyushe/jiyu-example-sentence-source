@@ -1,5 +1,7 @@
 # 争分夺秒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengfenduomiao.md)
+
 <p><span class="chinese">举个例子来说，创作小说是十分争分夺秒的一件事。</span><span class="english">For example, sitting down and creating a novel is intimidating.</span></p>
 
 <p><span class="chinese">或者我们会争分夺秒的完成一些任务而牺牲了它们的质量。</span><span class="english">Or we’re so rushed with the tasks we do complete that quality suffers.</span></p>

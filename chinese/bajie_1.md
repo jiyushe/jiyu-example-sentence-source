@@ -1,5 +1,7 @@
 # 八节
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bajie_1.md)
+
 <p><span class="chinese">我们一周有八节英语课。</span><span class="english">We have eight English classes a week.</span></p>
 
 <p><span class="chinese">第八节中耳的神经，血管，黏膜。</span><span class="english">Innervations, blood vessel. mucosa of the middle ear.</span></p>

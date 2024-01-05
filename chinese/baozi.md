@@ -1,5 +1,7 @@
 # 刨子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baozi.md)
+
 <p><span class="chinese">用在木头的尾齿上的小刨子。</span><span class="english">A small plane used on end grains of wood.</span></p>
 
 <p><span class="chinese">说着，他就用刨子在一块木板上刨了几下。</span><span class="english">So saying, he was on board with the spores in a plane a few times.</span></p>

@@ -1,5 +1,7 @@
 # kruger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kruger.md)
+
 <p><span class="chinese">由谢历·克鲁格写作。</span><span class="english">Post written by Sherri Kruger.</span></p>
 
 <p><span class="chinese">普玛兰加主要旅游热点就是克鲁格国家公园。</span><span class="english">A major drawcard to Mpumalanga is the Kruger National Park.</span></p>

@@ -1,5 +1,7 @@
 # rumen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rumen.md)
+
 <p><span class="chinese">瘤胃上皮组织DNA含量略有增加。</span><span class="english">The DNA content of rumen epithelium was increased a little.</span></p>
 
 <p><span class="chinese">日粮中添加硒对山羊瘤胃消化代谢的影响。</span><span class="english">Effects of vitamine and selenium on some rumen parameters in lambs.</span></p>

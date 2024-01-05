@@ -1,5 +1,7 @@
 # effluence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/effluence.md)
+
 <p><span class="chinese">耗费和富裕往往是联系在一起的。</span><span class="english">Effluence and affluence have a way of going together.</span></p>
 
 <p><span class="chinese">总之，他们有一个流动的问题-问题的流出。</span><span class="english">In short they have a flow problem – a problem of effluence.</span></p>

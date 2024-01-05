@@ -1,5 +1,7 @@
 # gradation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gradation.md)
+
 <p><span class="chinese">通过试验分析确定最佳的级配及油石比。</span><span class="english">It confirms gradation and asphalt-aggregate ratio by test.</span></p>
 
 <p><span class="chinese">民事法益具有不明确性、层级性的特点。</span><span class="english">Civil legal interest is characterized with obscurity and gradation.</span></p>

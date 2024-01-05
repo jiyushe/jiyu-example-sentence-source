@@ -1,5 +1,7 @@
 # aconitine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aconitine.md)
+
 <p><span class="chinese">哈哈，还有一对乌头放到鸟笼里。</span><span class="english">Haha, there are a pair of aconitine into the cage.</span></p>
 
 <p><span class="chinese">而临床治疗上尚无特效解毒药治疗乌头碱中毒。</span><span class="english">But there is no effective medicine treat the aconitine poisoning.</span></p>

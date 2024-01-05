@@ -1,5 +1,7 @@
 # pressing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pressing.md)
+
 <p><span class="chinese">任务火急。</span><span class="english">The task is pressing.</span></p>
 
 <p><span class="chinese">马丁逼刘易斯逼得很紧。</span><span class="english">Martin's pressing Lewis.</span></p>

@@ -1,5 +1,7 @@
 # 目中无人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muzhongwuren.md)
+
 <p><span class="chinese">有时唱歌到了目中无人的地步！</span><span class="english">Sometimes I'm overweening to sing!</span></p>
 
 <p><span class="chinese">那贼人说他目中无人，只有黄金。</span><span class="english">The thief said he saw nobody but the gold.</span></p>

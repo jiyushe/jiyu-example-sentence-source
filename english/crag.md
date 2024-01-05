@@ -1,5 +1,7 @@
 # crag
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crag.md)
+
 <p><span class="chinese">这个峭壁非常危险。</span><span class="english">The crag is very dangerous.</span></p>
 
 <p><span class="chinese">他们登上一块又一块的峭壁。</span><span class="english">They surmount one crag after another.</span></p>

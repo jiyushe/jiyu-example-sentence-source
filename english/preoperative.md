@@ -1,5 +1,7 @@
 # preoperative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preoperative.md)
+
 <p><span class="chinese">在术前指导流程表上作好记录。</span><span class="english">Record on preoperative instruction flow sheet.</span></p>
 
 <p><span class="chinese">我们检测了微血管浸润的作用。</span><span class="english">We investigated preoperative predictors of microvascular invasion.</span></p>

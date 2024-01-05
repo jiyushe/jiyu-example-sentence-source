@@ -1,5 +1,7 @@
 # typographical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/typographical.md)
+
 <p><span class="chinese">基于几个排印上的原因。</span><span class="english">Because of several typographical reasons.</span></p>
 
 <p><span class="chinese">明显的排印错误已经纠正。</span><span class="english">Obvious typographical errors are corrected.</span></p>

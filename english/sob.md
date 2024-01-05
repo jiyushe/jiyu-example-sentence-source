@@ -1,5 +1,7 @@
 # sob
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sob.md)
+
 <p><span class="chinese">他经常忍气吞声地生活。</span><span class="english">He often gulps down a sob.</span></p>
 
 <p><span class="chinese">敲打着，呜咽着，奏出一支美妙的老调子</span><span class="english">Beat and sob to the old refrain</span></p>

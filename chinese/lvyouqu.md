@@ -1,5 +1,7 @@
 # 旅游区
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvyouqu.md)
+
 <p><span class="chinese">它就是盐池县的哈巴湖旅游区。</span><span class="english">It is Yanchi County Haba Lake tourist area.</span></p>
 
 <p><span class="chinese">在旅游区的许多街道上，都有着排成一行行的销售摊点。</span><span class="english">Markets line many streets in tourist areas.</span></p>

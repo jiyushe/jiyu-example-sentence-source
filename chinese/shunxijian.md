@@ -1,5 +1,7 @@
 # 瞬息间
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shunxijian.md)
+
 <p><span class="chinese">尽管破晓前云层很低，天气转阴，伊藤上将还是在瞬息间发现了美军舰队。</span><span class="english">Through the breaks in the low overcast, Admiral Ito caught glimpses of the enemy.</span></p>
 
 <p><span class="chinese">瞬息间，一头牧羊狗抓住我这位警员朋友的腿，把他制服了。</span><span class="english">Seconds later, a German Shepherd seized my friend the policeman's leg and brought him down.</span></p>

@@ -1,5 +1,7 @@
 # 节节败退
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiejiebaitui.md)
+
 <p><span class="chinese">抵抗这个同盟的国家在节节败退。</span><span class="english">The nations that resist that alliance are in retreat.</span></p>
 
 <p><span class="chinese">但友情却一直绚丽在时光节节败退后。</span><span class="english">But the friendship has been brilliant at times after losing ground.</span></p>

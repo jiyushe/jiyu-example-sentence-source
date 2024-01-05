@@ -1,5 +1,7 @@
 # daredevil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/daredevil.md)
+
 <p><span class="chinese">不要耍那些不怕死的绝招。</span><span class="english">Do not try any of those daredevil stunts.</span></p>
 
 <p><span class="chinese">冒失鬼夫妇决定远出旅游度假。</span><span class="english">Daredevil couple decided to vacation far out.</span></p>

@@ -1,5 +1,7 @@
 # hindrance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hindrance.md)
+
 <p><span class="chinese">我想帮忙的，但却越帮越忙。</span><span class="english">I wanted to help but I gave more hindrance.</span></p>
 
 <p><span class="chinese">这可以在所有法律方面的障碍。</span><span class="english">This can be hindrance in all the legalities.</span></p>

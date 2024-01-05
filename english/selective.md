@@ -1,5 +1,7 @@
 # selective
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/selective.md)
+
 <p><span class="chinese">我对角色比较挑剔。</span><span class="english">I'm a little bit more selective with that</span></p>
 
 <p><span class="chinese">什么是后应急选择性除草剂？。</span><span class="english">What is Post-Emergent Selective Herbicide?</span></p>

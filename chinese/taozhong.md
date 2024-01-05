@@ -1,5 +1,7 @@
 # 套种
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taozhong.md)
+
 <p><span class="chinese">增加套种和禽畜-作物一体化。</span><span class="english">Step up double cropping and livestock-crop integration.</span></p>
 
 <p><span class="chinese">对玉米套种作业和幼苗生长也有好处。</span><span class="english">It is also good for maize interplanting operation, as well as seedlings growth.</span></p>

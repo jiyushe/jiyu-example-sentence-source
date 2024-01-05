@@ -1,5 +1,7 @@
 # 见天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiantian.md)
+
 <p><span class="chinese">听见天军唱哈利路亚。</span><span class="english">Heavenly hosts sing Alleluia.</span></p>
 
 <p><span class="chinese">他可能生病了，因为他见天缺席了。</span><span class="english">He is probably ill, for he is absent today.</span></p>

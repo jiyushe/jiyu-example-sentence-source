@@ -1,5 +1,7 @@
 # broadside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/broadside.md)
+
 <p><span class="chinese">没什么去干扰你。</span><span class="english">Nothing to broadside you.</span></p>
 
 <p><span class="chinese">小汽车撞了卡车的侧面。</span><span class="english">The car hit the truck broadside on.</span></p>

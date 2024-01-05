@@ -1,5 +1,7 @@
 # 活血
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoxue.md)
+
 <p><span class="chinese">具有补血活血，调经止痛，润肠通便。</span><span class="english">With the blood Huoxue, Tiaojing pain, Run will be smooth.</span></p>
 
 <p><span class="chinese">李时珍认为，黄豆能“活血，解诸毒”。</span><span class="english">Li Shi Zhen believed that soybean energy "blood circulation, Xie Zhudu".</span></p>

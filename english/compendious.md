@@ -1,5 +1,7 @@
 # compendious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compendious.md)
+
 <p><span class="chinese">最后对此次设计进行了简明，扼要的总结。</span><span class="english">Finally, a simple and compendious summary is presented.</span></p>
 
 <p><span class="chinese">提出一种具有普遍意义的简明判据。</span><span class="english">In the end, we brought forward a general and compendious criterion.</span></p>

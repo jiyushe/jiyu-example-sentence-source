@@ -1,5 +1,7 @@
 # hellfire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hellfire.md)
+
 <p><span class="chinese">掠夺者能装载两枚地狱之火导弹。</span><span class="english">Predators can pack two Hellfire missiles.</span></p>
 
 <p><span class="chinese">但愿罪人都被罚受永久的地狱之火。</span><span class="english">Sinners may be damned to everlasting hellfire.</span></p>

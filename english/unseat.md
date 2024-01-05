@@ -1,5 +1,7 @@
 # unseat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unseat.md)
+
 <p><span class="chinese">一旦公司成为技术的引领人物，想就革除很难了。</span><span class="english">Once firms become technology leaders, it is harder to unseat them.</span></p>
 
 <p><span class="chinese">他说道，“这些人想让领袖下台，维护以往古旧的体系。</span><span class="english">These people wanted to unseat the leader and preserve the old system.</span></p>

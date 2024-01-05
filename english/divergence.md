@@ -1,5 +1,7 @@
 # divergence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/divergence.md)
+
 <p><span class="chinese">现在，我们遇到了一个有分歧的话题。</span><span class="english">Now we come to a point of divergence.</span></p>
 
 <p><span class="chinese">那么散度定理究竟讲的是什么？</span><span class="english">So, what does the divergence theorem say?</span></p>

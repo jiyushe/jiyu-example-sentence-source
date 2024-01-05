@@ -1,5 +1,7 @@
 # nightlife
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nightlife.md)
+
 <p><span class="chinese">是的。那儿的夜生活很有趣。</span><span class="english">Yeah. The nightlife is so much fun.</span></p>
 
 <p><span class="chinese">所以这里夜生活是非常昂贵的。</span><span class="english">so the nightlife is very expensive.</span></p>

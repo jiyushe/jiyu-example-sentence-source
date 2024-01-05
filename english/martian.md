@@ -1,5 +1,7 @@
 # martian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/martian.md)
+
 <p><span class="chinese">火星人的耳机已经造出来了。</span><span class="english">The Martian headphones are already made.</span></p>
 
 <p><span class="chinese">基吉，火星电台的摇滚明星，唱出了这则新闻。</span><span class="english">Ziggy is a Martian rock star who sings the news.</span></p>

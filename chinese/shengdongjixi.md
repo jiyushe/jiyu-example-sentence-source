@@ -1,5 +1,7 @@
 # 声东击西
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengdongjixi.md)
+
 <p><span class="chinese">他一会儿声东击西，一会儿笑而不语。</span><span class="english">Moment he diversion, while laughing off the language.</span></p>
 
 <p><span class="chinese">诺曼底登陆只是声东击西的阳动。</span><span class="english">The landing in Normandy is merely a diversionary maneuver.</span></p>

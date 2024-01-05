@@ -1,5 +1,7 @@
 # flabbiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flabbiness.md)
+
 <p><span class="chinese">布朗的悲剧在于他的动摇与软弱。</span><span class="english">Brown' s tragedy is due to his fluctuation and flabbiness.</span></p>
 
 <p><span class="chinese">能把松驰且端面不整齐的卷料重卷为紧实整齐的卷料。</span><span class="english">This machine can rewind the web from flabbiness to firmness and neatness.</span></p>

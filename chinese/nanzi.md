@@ -1,5 +1,7 @@
 # 男子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanzi.md)
+
 <p><span class="chinese">这个失踪男子的名字叫刘小平。</span><span class="english">He was Liu Xiaoping.</span></p>
 
 <p><span class="chinese">我是说男子双打。</span><span class="english">I mean men's double.</span></p>

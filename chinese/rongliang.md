@@ -1,5 +1,7 @@
 # 容量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongliang.md)
+
 <p><span class="chinese">公交车路线容量?。</span><span class="english">Capacity of Bus Line?</span></p>
 
 <p><span class="chinese">高容量的问题。</span><span class="english">High volume problems.</span></p>

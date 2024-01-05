@@ -1,5 +1,7 @@
 # 丹参
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danshen.md)
+
 <p><span class="chinese">本文进行了丹参有效部位的研究。</span><span class="english">The effective-part of Danshen was studied in this article.</span></p>
 
 <p><span class="chinese">复方丹参片为临床常用药物，生产厂家众多。</span><span class="english">Danshen tablets used for clinical medicine, many manufacturers.</span></p>

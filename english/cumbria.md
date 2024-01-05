@@ -1,5 +1,7 @@
 # cumbria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cumbria.md)
+
 <p><span class="chinese">地跨北约克郡、西约克郡与坎布里亚郡。</span><span class="english">It spans North Yorkshire, West Yorkshire, and Cumbria.</span></p>
 
 <p><span class="chinese">英国肖像画家乔治·罗姆尼在坎布里亚郡的肯达尔…</span><span class="english">George Romney, English portrait painter, died at Kendal in Cumbria.</span></p>

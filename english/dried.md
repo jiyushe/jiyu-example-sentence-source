@@ -1,5 +1,7 @@
 # dried
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dried.md)
+
 <p><span class="chinese">干果.</span><span class="english">Dried fruit.</span></p>
 
 <p><span class="chinese">湖水涸竭。</span><span class="english">The lake dried up.</span></p>

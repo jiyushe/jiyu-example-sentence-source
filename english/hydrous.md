@@ -1,5 +1,7 @@
 # hydrous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrous.md)
+
 <p><span class="chinese">TFS的表面是由底层的金属铬层和上层的水合氧化物两部分组成。</span><span class="english">The surface of TFS is made up of Cr and hydrous oxide.</span></p>
 
 <p><span class="chinese">一族常见的矽酸盐类造岩矿物。</span><span class="english">Any of a group of common rock-forming hydrous silicate minerals.</span></p>

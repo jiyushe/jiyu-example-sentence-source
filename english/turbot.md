@@ -1,5 +1,7 @@
 # turbot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turbot.md)
+
 <p><span class="chinese">影响大菱鲆市场的原因有哪些？</span><span class="english">What are the reasons to influence the turbot market?</span></p>
 
 <p><span class="chinese">但无论是野生的大菱鲆还是养殖大菱鲆，价格下降的都主要是小规格鱼。</span><span class="english">Both wild and farmed turbot prices are expected to decrease mainly in the smallest sizes.</span></p>

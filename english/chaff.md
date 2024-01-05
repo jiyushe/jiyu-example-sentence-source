@@ -1,5 +1,7 @@
 # chaff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chaff.md)
+
 <p><span class="chinese">我的工作是抛撒干扰片。</span><span class="english">My job was to drop chaff.</span></p>
 
 <p><span class="chinese">那些燕麦已打掉谷壳。</span><span class="english">To separate grain from chaff.</span></p>

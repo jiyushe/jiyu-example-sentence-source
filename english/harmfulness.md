@@ -1,5 +1,7 @@
 # harmfulness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harmfulness.md)
+
 <p><span class="chinese">欺骗式的距离拖引干扰是一种常用的危害性较大的有源干扰方式。</span><span class="english">RGPO is a kind of widely used active jamming with greater harmfulness.</span></p>
 
 <p><span class="chinese">坚持行为杜会危害性判断的客观性，意义重大。</span><span class="english">It is significant to objectively judge the actions' social harmfulness.</span></p>

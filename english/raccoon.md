@@ -1,5 +1,7 @@
 # raccoon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/raccoon.md)
+
 <p><span class="chinese">没有更多貉的眼睛！</span><span class="english">No more raccoon eyes!</span></p>
 
 <p><span class="chinese">浣熊市?。</span><span class="english">Raccoon city? biohazard?</span></p>

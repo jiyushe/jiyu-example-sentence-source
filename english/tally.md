@@ -1,5 +1,7 @@
 # tally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tally.md)
+
 <p><span class="chinese">盘点下你的性伴侣。</span><span class="english">Tally up your sexual partners.</span></p>
 
 <p><span class="chinese">她和他的口径不一致。</span><span class="english">Her story doesn't tally with his.</span></p>

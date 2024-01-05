@@ -1,5 +1,7 @@
 # resource
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resource.md)
+
 <p><span class="chinese">还是资源共享？</span><span class="english">Is it resource sharing?</span></p>
 
 <p><span class="chinese">人力资源验核。</span><span class="english">Human Resource Auditing.</span></p>

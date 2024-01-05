@@ -1,5 +1,7 @@
 # internationally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/internationally.md)
+
 <p><span class="chinese">在国际上还是很有名气的。</span><span class="english">It's supposed to be very famous internationally.</span></p>
 
 <p><span class="chinese">我们见过这种菌株在国际上传播。</span><span class="english">We have seen such strains spread internationally.</span></p>

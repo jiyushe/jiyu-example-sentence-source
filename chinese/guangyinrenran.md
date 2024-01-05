@@ -1,5 +1,7 @@
 # 光阴荏苒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guangyinrenran.md)
+
 <p><span class="chinese">光阴荏苒，又到冬天了。</span><span class="english">Time went by, and winter came back again.</span></p>
 
 <p><span class="chinese">光阴荏苒，我已经称为棋迷。</span><span class="english">As time goes on, I have become a chess fan.</span></p>

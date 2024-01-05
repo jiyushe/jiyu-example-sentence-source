@@ -1,5 +1,7 @@
 # procure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/procure.md)
+
 <p><span class="chinese">你能替我弄到一些票吗?</span><span class="english">Can you procure some tickets for me?</span></p>
 
 <p><span class="chinese">你能获得那本珍本古书吗?。</span><span class="english">Can you procure that rare old book ?</span></p>

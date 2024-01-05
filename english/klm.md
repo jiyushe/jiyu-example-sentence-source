@@ -1,5 +1,7 @@
 # klm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/klm.md)
+
 <p><span class="chinese">KLM航空公司有一架MD-82飞机星期日上午起飞。</span><span class="english">KLM has got an MD-82 leaving Sunday morning.</span></p>
 
 <p><span class="chinese">法国航空公司和荷兰航空公司在2004年合并了。</span><span class="english">Air France and KLM led the way, merging in 2004.</span></p>

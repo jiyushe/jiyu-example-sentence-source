@@ -1,5 +1,7 @@
 # lulu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lulu.md)
+
 <p><span class="chinese">她叫那个狗卢卢。</span><span class="english">She calls the dog Lulu.</span></p>
 
 <p><span class="chinese">爸爸、露露和阳阳在家里。</span><span class="english">Dad lulu and yang yang are at home.</span></p>

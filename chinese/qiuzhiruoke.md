@@ -1,5 +1,7 @@
 # 求知若渴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiuzhiruoke.md)
+
 <p><span class="chinese">我相信了他的话。我的团队很年轻，求知若渴。</span><span class="english">I took him at his word. My team were young.</span></p>
 
 <p><span class="chinese">他们求知若渴、对人脉和想法也同样饥渴。</span><span class="english">They were hungry for knowledge, connections, and ideas.</span></p>

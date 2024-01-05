@@ -1,5 +1,7 @@
 # hypoplastic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypoplastic.md)
+
 <p><span class="chinese">目的再造外伤后畸形或发育不良的尺骨鹰嘴窝。</span><span class="english">Objective To reconstruct traumatic or hypoplastic olecranon fossa.</span></p>
 
 <p><span class="chinese">发育不全左心综合症造成的主动脉闭锁患者一般不能生存。</span><span class="english">Aortic atresia is not compatible with continued survival as seen in hypoplastic left heart syndrome.</span></p>

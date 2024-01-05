@@ -1,5 +1,7 @@
 # iridescent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iridescent.md)
+
 <p><span class="chinese">闪亮的彩色光团在他的眼皮底下浮游。</span><span class="english">Broad disks of iridescent brightness swam under his lids.</span></p>
 
 <p><span class="chinese">磨光和发亮的材料，色丁和薄纱。</span><span class="english">Polish and bright materials iridescent satin and organza.</span></p>

@@ -1,5 +1,7 @@
 # interferometric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interferometric.md)
+
 <p><span class="chinese">因此而产生的干涉信号具有交流耦合的外观。</span><span class="english">The resulting interferometric signal has an ac-coupled appearance.</span></p>
 
 <p><span class="chinese">用中值滤波消除干涉图像中的干扰。</span><span class="english">Interference in interferometric image is removed by mid-value filtering method.</span></p>

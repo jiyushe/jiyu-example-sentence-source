@@ -1,5 +1,7 @@
 # up 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/up.md)
+
 <p><span class="chinese">向上看？</span><span class="english">Look up?</span></p>
 
 <p><span class="chinese">醒一醒。</span><span class="english">Wake up.</span></p>

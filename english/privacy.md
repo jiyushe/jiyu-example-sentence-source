@@ -1,5 +1,7 @@
 # privacy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/privacy.md)
+
 <p><span class="chinese">金拓尊重您的隐私。</span><span class="english">Kitco respects your privacy.</span></p>
 
 <p><span class="chinese">隐私权就是所有的权利。</span><span class="english">Privacy is the right of all.</span></p>

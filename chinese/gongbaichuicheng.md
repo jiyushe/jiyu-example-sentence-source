@@ -1,5 +1,7 @@
 # 功败垂成
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongbaichuicheng.md)
+
 <p><span class="chinese">他本不应该做这项事情时功败垂成。</span><span class="english">He ought not to have stopped his work halfway.</span></p>
 
 <p><span class="chinese">事情往往功败垂成，谁知道将会发生什么。</span><span class="english">There's many a slip between the cup and the lip! Who knows what may happen.</span></p>

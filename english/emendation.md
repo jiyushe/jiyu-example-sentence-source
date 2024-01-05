@@ -1,5 +1,7 @@
 # emendation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emendation.md)
+
 <p><span class="chinese">第四章是校勘部分。</span><span class="english">Chapter Four is the emendation part.</span></p>
 
 <p><span class="chinese">讨论了半导体发光薄膜的光致发光谱修正要点。</span><span class="english">This paper discussed the emendation of the luminescent spectra of semiconductor films.</span></p>

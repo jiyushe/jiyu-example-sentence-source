@@ -1,5 +1,7 @@
 # cottonwood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cottonwood.md)
+
 <p><span class="chinese">河流的两岸被棉花树和红木树遮蔽住了。</span><span class="english">Its banks were shaded by cottonwood and redwood trees.</span></p>
 
 <p><span class="chinese">新年这一天，我们把它葬在了一棵枝繁叶茂的黑杨树下。</span><span class="english">We buried him on New Year's Day under a spreading cottonwood tree.</span></p>

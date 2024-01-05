@@ -1,5 +1,7 @@
 # amphoteric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amphoteric.md)
+
 <p><span class="chinese">两性物质，既与酸也与碱发生反应生成盐。</span><span class="english">An amphoteric compound reacts with both acids and bases to form salts.</span></p>
 
 <p><span class="chinese">蛋白质习性又像酸又像碱，因此说它是两性的。</span><span class="english">Proteins behave either as acids or bases and are said to be amphoteric.</span></p>

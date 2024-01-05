@@ -1,5 +1,7 @@
 # animistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/animistic.md)
+
 <p><span class="chinese">童话里的隐喻思维和泛灵主义思维导致了童话里的范畴边界模糊化。</span><span class="english">Metaphoric thinking and animistic thinking enable the fuzzy boundaries of categories in fairy tales.</span></p>
 
 <p><span class="chinese">爱沙尼亚神话是以远古的万物有灵论为基础的，和芬兰神话有很大关联。</span><span class="english">Estonian mythology is based on primitive animistic beliefs and is closely related to Finnish mythology.</span></p>

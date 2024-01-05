@@ -1,5 +1,7 @@
 # billboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/billboard.md)
+
 <p><span class="chinese">小区广告牌收益应归谁所有？</span><span class="english">Small billboard proceeds shall may be owned?</span></p>
 
 <p><span class="chinese">今年标志着美国公告牌音乐奖的重生。</span><span class="english">This year marks the Billboard Awards' rebirth.</span></p>

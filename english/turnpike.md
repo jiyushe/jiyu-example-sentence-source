@@ -1,5 +1,7 @@
 # turnpike
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turnpike.md)
+
 <p><span class="chinese">很多汽车旅馆都位于付费公路旁边。</span><span class="english">A lot of motels lie beside the turnpike.</span></p>
 
 <p><span class="chinese">你呼我的时候，我还在缅因州的收费公路上呢。</span><span class="english">I was on the Maine Turnpike when you beeped me.</span></p>

@@ -1,5 +1,7 @@
 # thyroxine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thyroxine.md)
+
 <p><span class="chinese">结论该征宜以甲状腺素终生替代治疗。</span><span class="english">Conclusion The patients should be managed by maintenance of thyroxine therapy.</span></p>
 
 <p><span class="chinese">目的观察甲状腺素治疗新生儿硬肿症的疗效。</span><span class="english">Objective To explore the therapeutic effect of sclerema neonatorum with thyroxine.</span></p>

@@ -1,5 +1,7 @@
 # lintel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lintel.md)
+
 <p><span class="chinese">过梁主要用在砖混结构的建筑中。</span><span class="english">Mainly used in brick lintel structure of buildings.</span></p>
 
 <p><span class="chinese">置于大门门头的瓦猫，有门神的作用。</span><span class="english">Wamao placed on the lintel is regarded as Door-God.</span></p>

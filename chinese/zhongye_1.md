@@ -1,5 +1,7 @@
 # 终夜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongye_1.md)
+
 <p><span class="chinese">终夜听到大雨打在屋顶上的声音。</span><span class="english">The drumming on the roof is heard all night.</span></p>
 
 <p><span class="chinese">但是东想西想，急躁地翻来覆去终夜不能入眠。</span><span class="english">He tossed fretfully and could not get to sleep.</span></p>

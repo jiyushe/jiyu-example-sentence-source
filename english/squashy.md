@@ -1,5 +1,7 @@
 # squashy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/squashy.md)
+
 <p><span class="chinese">这种水果怕压。</span><span class="english">The fruit is rather squashy.</span></p>
 
 <p><span class="chinese">球是由柔软的凝胶制成，而球心的聚和物稍重一些。</span><span class="english">It's a squashy gel ball with a slightly heavier polymer core.</span></p>

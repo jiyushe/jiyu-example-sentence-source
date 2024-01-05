@@ -1,5 +1,7 @@
 # delaney
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/delaney.md)
+
 <p><span class="chinese">我们发现老吉姆•德莱尼死了。</span><span class="english">We found old Jim Delaney dead.</span></p>
 
 <p><span class="chinese">我们刚从德莱尼家回来。</span><span class="english">We just got back from the Delaney house.</span></p>

@@ -1,5 +1,7 @@
 # metal 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metal.md)
+
 <p><span class="chinese">一种美洲金属。</span><span class="english">An American metal.</span></p>
 
 <p><span class="chinese">瑞典黑金属。</span><span class="english">Swedish Black Metal.</span></p>

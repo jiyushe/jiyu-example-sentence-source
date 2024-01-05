@@ -1,5 +1,7 @@
 # 树干
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shugan.md)
+
 <p><span class="chinese">它的树干是大的。</span><span class="english">Its trunk is big.</span></p>
 
 <p><span class="chinese">考拉在树干上休息。</span><span class="english">A kola is resting on the trunk.</span></p>

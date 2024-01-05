@@ -1,5 +1,7 @@
 # 畏怯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiqie.md)
+
 <p><span class="chinese">畏怯如一只鸟！</span><span class="english">Timid as a Bird!</span></p>
 
 <p><span class="chinese">那个孩子默默无言，以畏怯的目光凝视着他。</span><span class="english">They gazed in awe at their hero.</span></p>

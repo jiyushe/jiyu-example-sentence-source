@@ -1,5 +1,7 @@
 # kev
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kev.md)
+
 <p><span class="chinese">你是个温柔的男人，凯。</span><span class="english">You're a sweet guy, Kev.</span></p>
 
 <p><span class="chinese">——你正在变成一个十足的充满怨气的小男人，凯文。</span><span class="english">You’re becoming a very bitter little man, Kev.</span></p>

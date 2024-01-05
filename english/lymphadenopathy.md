@@ -1,5 +1,7 @@
 # lymphadenopathy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lymphadenopathy.md)
+
 <p><span class="chinese">他们都患一种叫做淋巴结核的疾病。</span><span class="english">All were suffering a condition called lymphadenopathy.</span></p>
 
 <p><span class="chinese">下面就谈一谈淋巴结肿大的常见原因。</span><span class="english">Here's to talk about the common causes of lymphadenopathy.</span></p>

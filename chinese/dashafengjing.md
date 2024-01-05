@@ -1,5 +1,7 @@
 # 大煞风景
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dashafengjing.md)
+
 <p><span class="chinese">我不愿意描绘出一副大煞风景、十分令人不快的画面。</span><span class="english">I do not want to paint too unpleasant a picture.</span></p>
 
 <p><span class="chinese">旅游景点遍地垃圾，总会让人觉得大煞风景。</span><span class="english">A tourist spot covered with trash is a real eyesore.</span></p>

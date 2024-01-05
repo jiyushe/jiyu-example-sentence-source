@@ -1,5 +1,7 @@
 # chanticleer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chanticleer.md)
+
 <p><span class="chinese">强啼克利尔吃惊地跳了起来。</span><span class="english">Chanticleer jumped up in surprise.</span></p>
 
 <p><span class="chinese">安静地睡吧，不用管雄鸡向你们报晓！</span><span class="english">And softly sleep. Let Chanticleer announce the morn in vain!</span></p>

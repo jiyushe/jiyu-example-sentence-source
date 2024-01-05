@@ -1,5 +1,7 @@
 # mutuality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mutuality.md)
+
 <p><span class="chinese">而存在于这种体验之中的相互关系正是我们每一个人所渴求的。</span><span class="english">It is the mutuality of this experience that we each crave.</span></p>
 
 <p><span class="chinese">通过例子阐明狭义相对论中钟慢效应是相互的道理。</span><span class="english">The mutuality of the time dilation effect is elaborated by example.</span></p>

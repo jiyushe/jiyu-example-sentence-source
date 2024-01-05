@@ -1,5 +1,7 @@
 # dispatcher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dispatcher.md)
+
 <p><span class="chinese">选择调度程序链接。</span><span class="english">Select the dispatcher link.</span></p>
 
 <p><span class="chinese">调度程序流程检查间隔</span><span class="english">Dispatcher process check interval</span></p>

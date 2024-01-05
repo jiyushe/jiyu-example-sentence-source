@@ -1,5 +1,7 @@
 # pentosan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pentosan.md)
+
 <p><span class="chinese">图3聚戊醣分析法流程图—醋酸苯胺比色法。</span><span class="english">Fig. 3 Flow chart of pentosan analysis – aniline acetate colorimetric method.</span></p>
 
 <p><span class="chinese">而面粉中的水不溶戊聚糖则对面团特性及面包烘焙品质影响不大。</span><span class="english">Wheat flour water soluble pentosan has little influence on dough and bread-making quality.</span></p>

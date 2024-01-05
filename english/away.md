@@ -1,5 +1,7 @@
 # away
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/away.md)
+
 <p><span class="chinese">移开。</span><span class="english">Move away.</span></p>
 
 <p><span class="chinese">我看向了一边。</span><span class="english">I glanced away.</span></p>

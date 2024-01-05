@@ -1,5 +1,7 @@
 # london
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/london.md)
+
 <p><span class="chinese">我乘火车到伦敦。</span><span class="english">I trained to London.</span></p>
 
 <p><span class="chinese">莪们动裑到伦敦。</span><span class="english">We set off for London.</span></p>

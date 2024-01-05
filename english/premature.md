@@ -1,5 +1,7 @@
 # premature
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/premature.md)
+
 <p><span class="chinese">这个孩子是提早五周生下来的。</span><span class="english">The baby was five weeks premature.</span></p>
 
 <p><span class="chinese">阳光能导致未老先衰。</span><span class="english">The sun can cause premature ageing.</span></p>

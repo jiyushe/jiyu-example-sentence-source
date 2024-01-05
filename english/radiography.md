@@ -1,5 +1,7 @@
 # radiography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radiography.md)
+
 <p><span class="chinese">此应用程序被称为放射诊断。</span><span class="english">This application is known as diagnostic radiography.</span></p>
 
 <p><span class="chinese">光影像仪的光采集系统是X光影像仪的核心。</span><span class="english">Opto-collection system is a core of X-ray Computed Radiography.</span></p>

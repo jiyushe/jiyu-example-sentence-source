@@ -1,5 +1,7 @@
 # 中锋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongfeng_1.md)
+
 <p><span class="chinese">我盯他们的中锋。</span><span class="english">I mark the center.</span></p>
 
 <p><span class="chinese">教练叫他担任中锋。</span><span class="english">The coach played him at centre.</span></p>

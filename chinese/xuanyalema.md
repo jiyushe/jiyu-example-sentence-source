@@ -1,5 +1,7 @@
 # 悬崖勒马
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanyalema.md)
+
 <p><span class="chinese">我们需要悬崖勒马的用户。</span><span class="english">We need consumers who will hold their feet to the fire.</span></p>
 
 <p><span class="chinese">印象中的蝶舞天涯，现实中成了悬崖勒马。</span><span class="english">The impression of the splendour of Tianya, reality into the brink.</span></p>

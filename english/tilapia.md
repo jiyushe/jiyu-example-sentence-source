@@ -1,5 +1,7 @@
 # tilapia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tilapia.md)
+
 <p><span class="chinese">罗非鱼也很重要。</span><span class="english">Tilapia is also very important.</span></p>
 
 <p><span class="chinese">十年以前，美国人很少吃罗非鱼。</span><span class="english">A decade ago, few Americans ate tilapia.</span></p>

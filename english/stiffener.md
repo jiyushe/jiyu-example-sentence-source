@@ -1,5 +1,7 @@
 # stiffener
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stiffener.md)
+
 <p><span class="chinese">这表明，加劲粘到光盘上。</span><span class="english">This shows the stiffener glued to the disc.</span></p>
 
 <p><span class="chinese">这表明，小砌块胶合板向加劲。</span><span class="english">This shows the small blocks glued to the stiffener.</span></p>

@@ -1,5 +1,7 @@
 # vientiane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vientiane.md)
+
 <p><span class="chinese">从此人间一切和美，万象更新。</span><span class="english">From now on all the and beauty, vientiane update.</span></p>
 
 <p><span class="chinese">律回春晖渐，万象始更新。</span><span class="english">Law gradually back Chunhui, Vientiane before updating.</span></p>

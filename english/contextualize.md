@@ -1,5 +1,7 @@
 # contextualize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contextualize.md)
+
 <p><span class="chinese">文字使我们的世界生动且具体，并赋予了意义。</span><span class="english">Words contextualize our world and lend it meaning.</span></p>
 
 <p><span class="chinese">但是我们仍然需要把部分信息联系上下文考虑。</span><span class="english">But there’s still a need to contextualize some of this information.</span></p>

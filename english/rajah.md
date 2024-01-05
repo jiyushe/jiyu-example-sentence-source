@@ -1,5 +1,7 @@
 # rajah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rajah.md)
+
 <p><span class="chinese">茉莉照顾让佳。</span><span class="english">Jasmine took good care of Rajah.</span></p>
 
 <p><span class="chinese">让佳太大了，玩不成穿衣服了。</span><span class="english">Rajah is too big to play dress-up.</span></p>

@@ -1,5 +1,7 @@
 # volatility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/volatility.md)
+
 <p><span class="chinese">让波幅对你有利。</span><span class="english">Use the volatility to your advantage.</span></p>
 
 <p><span class="chinese">那些稳定的受益是从何尔来的呢？</span><span class="english">Where is that low volatility coming from?</span></p>

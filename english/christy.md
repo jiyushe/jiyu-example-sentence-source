@@ -1,5 +1,7 @@
 # christy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/christy.md)
+
 <p><span class="chinese">谢谢，Christy，我终于写完了。</span><span class="english">Thank you, Christy. I'll get it eventually.</span></p>
 
 <p><span class="chinese">比如说克里斯蒂，完全和游戏人物对不上号，我几乎都没认出来。</span><span class="english">Like Christy could have been called anyone else and I wouldn't know.</span></p>

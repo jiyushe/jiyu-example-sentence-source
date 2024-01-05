@@ -1,5 +1,7 @@
 # paratactic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paratactic.md)
+
 <p><span class="chinese">“二”字式也叫走廊式或并列式。</span><span class="english">"2"word type also calls corridor type or paratactic type.</span></p>
 
 <p><span class="chinese">巴山与米仓山被聚为并列的两组。</span><span class="english">Bashan Mountain and Micang Mountain are clustered into two paratactic groups.</span></p>

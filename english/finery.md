@@ -1,5 +1,7 @@
 # finery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/finery.md)
+
 <p><span class="chinese">买得到饰物，但买不到美丽。</span><span class="english">Finery but not beauty.</span></p>
 
 <p><span class="chinese">她穿著她最华丽的服饰。</span><span class="english">She's rigged out in her best finery.</span></p>

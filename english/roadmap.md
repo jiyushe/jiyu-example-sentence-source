@@ -1,5 +1,7 @@
 # roadmap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roadmap.md)
+
 <p><span class="chinese">我们的愿景和路线图是完整无缺的。</span><span class="english">The vision and the roadmap is intact.</span></p>
 
 <p><span class="chinese">点击这里可以查看产品线路图。</span><span class="english">The product roadmap is available  here.</span></p>

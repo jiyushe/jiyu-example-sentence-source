@@ -1,5 +1,7 @@
 # 求婚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiuhun.md)
+
 <p><span class="chinese">他就向我求婚。</span><span class="english">He proposed to me.</span></p>
 
 <p><span class="chinese">今天是求婚。</span><span class="english">Today is a mistery.</span></p>

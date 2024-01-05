@@ -1,5 +1,7 @@
 # teething
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teething.md)
+
 <p><span class="chinese">婴儿正在生牙。</span><span class="english">The baby is teething.</span></p>
 
 <p><span class="chinese">“万事开头难嘛，”NTC委员说道。</span><span class="english">Teething problems, say NTC members.</span></p>

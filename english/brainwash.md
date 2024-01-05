@@ -1,5 +1,7 @@
 # brainwash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brainwash.md)
+
 <p><span class="chinese">他只是要把你洗脑罢了。</span><span class="english">He was trying to brainwash you.</span></p>
 
 <p><span class="chinese">他们会洗脑，教会你仇恨</span><span class="english">They brainwash and teach you hate.</span></p>

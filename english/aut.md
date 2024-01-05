@@ -1,5 +1,7 @@
 # aut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aut.md)
+
 <p><span class="chinese">咱们今晚出去吃饭吧。</span><span class="english">Let's eat aut tonight.</span></p>
 
 <p><span class="chinese">我们认为，平等管理是知识管理发展的必然。</span><span class="english">The aut hors believe equality management is a necessary development of knowledge management.</span></p>

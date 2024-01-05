@@ -1,5 +1,7 @@
 # successional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/successional.md)
+
 <p><span class="chinese">网站的风格，一定要有连续性，不能太过于跳跃。</span><span class="english">The style of the website, must have successional , cannot too too bouncing.</span></p>
 
 <p><span class="chinese">不同演替群落中种群空间分布格局总体上仍是集群分布。</span><span class="english">Aggregated pattern is prevalent at different successional stages of communities.</span></p>

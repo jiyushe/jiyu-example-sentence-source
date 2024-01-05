@@ -1,5 +1,7 @@
 # peppery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peppery.md)
+
 <p><span class="chinese">他那辛辣的文笔是麻辣味的。</span><span class="english">His spice blend is a peppery one.</span></p>
 
 <p><span class="chinese">来了一个火辣辣的舌吻。</span><span class="english">Come to one peppery tongue to kiss.</span></p>

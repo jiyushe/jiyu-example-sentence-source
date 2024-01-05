@@ -1,5 +1,7 @@
 # dig
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dig.md)
+
 <p><span class="chinese">挖得深一些。</span><span class="english">Dig Deep.</span></p>
 
 <p><span class="chinese">你喜爱跳舞吗?</span><span class="english">Do you dig dancing?</span></p>

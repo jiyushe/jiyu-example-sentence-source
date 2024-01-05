@@ -1,5 +1,7 @@
 # nearness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nearness.md)
+
 <p><span class="chinese">并沉醉于结局的临近。</span><span class="english">And are drunk on nearness of the end.</span></p>
 
 <p><span class="chinese">主要是因为邻近中央公园。</span><span class="english">Its nearness to Central Park was key.</span></p>

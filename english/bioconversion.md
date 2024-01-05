@@ -1,5 +1,7 @@
 # bioconversion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bioconversion.md)
+
 <p><span class="chinese">煤的微生物转化是煤炭综合利用研究中的新领域。</span><span class="english">Bioconversion of coal is a new way to utilize coal.</span></p>
 
 <p><span class="chinese">记述了由特定底物的生物转化合成香精香料。</span><span class="english">Flavour and fragrance biosynthesis via bioconversion of specific substrates are described.</span></p>

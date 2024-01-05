@@ -1,5 +1,7 @@
 # demobilization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demobilization.md)
+
 <p><span class="chinese">他复员以前是一名炊事员。</span><span class="english">He was a cook before his demobilization.</span></p>
 
 <p><span class="chinese">为最终解散民兵组织做出规划并提供资金。</span><span class="english">Plan and fund eventual demobilization program for militias.</span></p>

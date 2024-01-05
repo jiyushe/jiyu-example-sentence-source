@@ -1,5 +1,7 @@
 # measurable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/measurable.md)
+
 <p><span class="chinese">剩余的时间是可以测量的。</span><span class="english">The remnant time was measurable.</span></p>
 
 <p><span class="chinese">它确实会起作用，它是可以测量的。</span><span class="english">Well it matters. It's measurable.</span></p>

@@ -1,5 +1,7 @@
 # 风扇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengshan_2.md)
+
 <p><span class="chinese">风扇是什么颜色的呢？</span><span class="english">What color are the fans?</span></p>
 
 <p><span class="chinese">我张床，我个乾衣机连风扇。</span><span class="english">My bed, my dryer and fan.</span></p>

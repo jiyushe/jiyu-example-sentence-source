@@ -1,5 +1,7 @@
 # 闲居
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianju_1.md)
+
 <p><span class="chinese">这家店闲居是早上9点开门吗？</span><span class="english">Does the shop open at 9 feel on weekdays?</span></p>
 
 <p><span class="chinese">用我父亲的话说，他在闲居。</span><span class="english">He is kicking his heel, as my father would say.</span></p>

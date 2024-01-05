@@ -1,5 +1,7 @@
 # definable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/definable.md)
+
 <p><span class="chinese">颜色词是否有可分析、可定义的意义?。</span><span class="english">Do color words have analyzable, definable meaning?</span></p>
 
 <p><span class="chinese">所有这些事情都是可知的、确定的，但又是模糊而朦胧的。</span><span class="english">All of these things are knowable and definable and yet obscured and opaque.</span></p>

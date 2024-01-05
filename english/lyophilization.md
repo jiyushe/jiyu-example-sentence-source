@@ -1,5 +1,7 @@
 # lyophilization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lyophilization.md)
+
 <p><span class="chinese">可以实现U盘导出冻干工艺数据。</span><span class="english">U disk can export the lyophilization process data.</span></p>
 
 <p><span class="chinese">用户可以根据需要设定2-36段冻干工艺。</span><span class="english">Users can set the lyophilization process as required in paragraph 2-36.</span></p>

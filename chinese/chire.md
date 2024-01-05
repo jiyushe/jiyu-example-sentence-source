@@ -1,5 +1,7 @@
 # 炽热
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chire.md)
+
 <p><span class="chinese">它一定感到那炽热的召唤</span><span class="english">It must have felt that fervid call</span></p>
 
 <p><span class="chinese">哼！灵魂里曾经有过的那份炽热。</span><span class="english">Humph! The soul that has been a hot.</span></p>

@@ -1,5 +1,7 @@
 # shaman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shaman.md)
+
 <p><span class="chinese">巫师把她抬回了房间。</span><span class="english">Shaman Bata Tai back to the room.</span></p>
 
 <p><span class="chinese">许多萨满的威能都有著精魂关键字。</span><span class="english">Many shaman powers have the spirit keyword.</span></p>

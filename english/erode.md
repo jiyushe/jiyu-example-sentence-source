@@ -1,5 +1,7 @@
 # erode
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/erode.md)
+
 <p><span class="chinese">泰晤士河在默默消蚀着游船。</span><span class="english">Thames erode ships be silent.</span></p>
 
 <p><span class="chinese">进食紊乱症腐蚀牙釉质</span><span class="english">Eating Disorders Erode Tooth Enamel</span></p>

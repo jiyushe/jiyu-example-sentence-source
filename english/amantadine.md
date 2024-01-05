@@ -1,5 +1,7 @@
 # amantadine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amantadine.md)
+
 <p><span class="chinese">他没有透露金刚胺的使用地在哪里。</span><span class="english">He did not say where amantadine was being used.</span></p>
 
 <p><span class="chinese">金刚烷胺和金刚乙胺两种药物，从这个阶层。</span><span class="english">Amantadine and Rimantadine are two drugs from this class.</span></p>

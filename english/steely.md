@@ -1,5 +1,7 @@
 # steely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/steely.md)
+
 <p><span class="chinese">他们彼此间用钢刀相互挥刺。</span><span class="english">They stab it with their steely knives.</span></p>
 
 <p><span class="chinese">在球场上，王建民是钢铁般的坚强和沉著冷静。</span><span class="english">On the field his demeanour is steely and calm.</span></p>

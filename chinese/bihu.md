@@ -1,5 +1,7 @@
 # 壁虎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bihu.md)
+
 <p><span class="chinese">有时候人们会把飞行壁虎当作宠物。</span><span class="english">Flying geckos are sometimes keptas pets.</span></p>
 
 <p><span class="chinese">这些力加在一起足以保证壁虎粘在墙上。</span><span class="english">These forces are enough to make it stick.</span></p>

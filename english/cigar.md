@@ -1,5 +1,7 @@
 # cigar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cigar.md)
+
 <p><span class="chinese">我的雪茄在哪?。</span><span class="english">Wheres my cigar?</span></p>
 
 <p><span class="chinese">喜欢抽高级雪茄烟。</span><span class="english">Likes a good cigar.</span></p>

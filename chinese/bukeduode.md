@@ -1,5 +1,7 @@
 # 不可多得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bukeduode.md)
+
 <p><span class="chinese">这是一本不可多得的珍本。</span><span class="english">It's a rare book.</span></p>
 
 <p><span class="chinese">他是该队不可多得的新队员。</span><span class="english">He is the best new teamer.</span></p>

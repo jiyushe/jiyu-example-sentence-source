@@ -1,5 +1,7 @@
 # validate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/validate.md)
+
 <p><span class="chinese">验证邮政区码。</span><span class="english">Validate the ZIP code.</span></p>
 
 <p><span class="chinese">你认可你自己。</span><span class="english">You validate yourself.</span></p>

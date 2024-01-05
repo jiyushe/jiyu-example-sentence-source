@@ -1,5 +1,7 @@
 # 地空导弹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dikongdaodan.md)
+
 <p><span class="chinese">阅兵式上展示了米格-29战机、地空导弹、T-72坦克等。</span><span class="english">During the military parade, the Mig -29 aircraft, surface-, T-72 tanks were displayed.</span></p>
 
 <p><span class="chinese">仿真法是进行地空导弹武器系统可靠性研究的有效途径。</span><span class="english">Simulation is an efficient approach to reliability research for missile weapon systems.</span></p>

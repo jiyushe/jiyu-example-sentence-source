@@ -1,5 +1,7 @@
 # temporomandibular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/temporomandibular.md)
+
 <p><span class="chinese">目的探讨治疗颞颌关节综合征的较好的物理疗法。</span><span class="english">Objective serching for better therapy of temporomandibular joint syndrome.</span></p>
 
 <p><span class="chinese">目的探讨颞下颌关节真性强直的手术治疗和避免术后复发。</span><span class="english">Objective To study the surgical treatment of ankylosis of the temporomandibular joint.</span></p>

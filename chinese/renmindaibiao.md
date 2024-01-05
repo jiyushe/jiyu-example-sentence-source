@@ -1,5 +1,7 @@
 # 人民代表
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renmindaibiao.md)
+
 <p><span class="chinese">制定新法律的权利被赋予人民代表。</span><span class="english">The right to make new laws is vested in the representatives of the people.</span></p>
 
 <p><span class="chinese">此为人民代表之一部分职责，早已在一九四一年履行。</span><span class="english">That part of the duty of the people's representatives was discharged in 1941.</span></p>

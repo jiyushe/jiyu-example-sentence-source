@@ -1,5 +1,7 @@
 # 吸吮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xishun.md)
+
 <p><span class="chinese">吸吮的亲吻。</span><span class="english">The lip-sucking kiss.</span></p>
 
 <p><span class="chinese">不要用吸管吸吮。</span><span class="english">Never pipette by mouth.</span></p>

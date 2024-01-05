@@ -1,5 +1,7 @@
 # 愚不可及
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yubukeji.md)
+
 <p><span class="chinese">那简直是愚不可及。</span><span class="english">That is just plain stupid.</span></p>
 
 <p><span class="chinese">我曾经放荡不羁，愚不可及。</span><span class="english">I have been wild and foolish.</span></p>

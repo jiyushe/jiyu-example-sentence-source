@@ -1,5 +1,7 @@
 # 无名小卒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wumingxiaozu.md)
+
 <p><span class="chinese">汤姆是个无名小卒。</span><span class="english">Tom is a mere nobody.</span></p>
 
 <p><span class="chinese">他只是个无名小卒，”布劳恩说。</span><span class="english">He's a nobody, " says Braun.</span></p>

@@ -1,5 +1,7 @@
 # umt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/umt.md)
+
 <p><span class="chinese">该城市轨道交通1是一个测量传感器的真有效值的价值观。</span><span class="english">The UMT 1 is a measuring transducer for true RMS values.</span></p>
 
 <p><span class="chinese">结果UMT能反映机体接触镉时镉负荷的变化。</span><span class="english">Results UMT can reflect the change of cadmium body burden.</span></p>

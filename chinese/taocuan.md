@@ -1,5 +1,7 @@
 # 逃窜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taocuan.md)
+
 <p><span class="chinese">敌人已在我军逼近时逃窜了。</span><span class="english">The enemy ran away at our approach.</span></p>
 
 <p><span class="chinese">骑士们和妇人们惶恐逃窜。</span><span class="english">With terror the knights and ladie flee.</span></p>

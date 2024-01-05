@@ -1,5 +1,7 @@
 # 生死观
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengsiguan.md)
+
 <p><span class="chinese">对人的生与死的看法即生死观，古往今来与时俱变。</span><span class="english">There have been various views about life and death through the ages.</span></p>
 
 <p><span class="chinese">老子的生死观追求的是效法天长地久之道，生死任其自然，从而做到“死而不亡者寿”。</span><span class="english">Laozi s outlook on life and death is closely related to his Tao theory.</span></p>

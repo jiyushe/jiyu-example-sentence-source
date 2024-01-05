@@ -1,5 +1,7 @@
 # 犀牛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiniu.md)
+
 <p><span class="chinese">犀牛甲虫？</span><span class="english">rhinoceros beetle?</span></p>
 
 <p><span class="chinese">犀牛甲虫？</span><span class="english">The rhinoceros beetle?</span></p>

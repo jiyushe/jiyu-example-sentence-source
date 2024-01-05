@@ -1,5 +1,7 @@
 # gymnastics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gymnastics.md)
+
 <p><span class="chinese">体操垫。</span><span class="english">Gymnastics mats.</span></p>
 
 <p><span class="chinese">这孩子练习做操。</span><span class="english">The boy practises gymnastics.</span></p>

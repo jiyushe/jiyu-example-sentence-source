@@ -1,5 +1,7 @@
 # russell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/russell.md)
+
 <p><span class="chinese">拉塞尔·贝克，康乃迪克学院，1995。</span><span class="english">Russell Baker, Connecticut College, 1995</span></p>
 
 <p><span class="chinese">劳伦斯·拉塞尔·布鲁尔21日被处死。</span><span class="english">Lawrence Russell Brewer, 21, was executed.</span></p>

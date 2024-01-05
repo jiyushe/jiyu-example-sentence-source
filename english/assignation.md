@@ -1,5 +1,7 @@
 # assignation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assignation.md)
+
 <p><span class="chinese">网格工作流中角色分配的Norm方法。</span><span class="english">Norm approach for role assignation in grid workflow.</span></p>
 
 <p><span class="chinese">它包括这一期间内除业主投资和派给业主款以外权益的一切变动。</span><span class="english">It includes all change except investing of owner and assignation to owners.</span></p>

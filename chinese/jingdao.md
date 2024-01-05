@@ -1,5 +1,7 @@
 # 粳稻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingdao.md)
+
 <p><span class="chinese">无论籼粳稻，色稻品种出糙率比对照品种低。</span><span class="english">Compared with the general rice, the roughness ratio of colored rice were much lower.</span></p>
 
 <p><span class="chinese">引导农民扩大粳稻、玉米、杂粮等农作物生产。</span><span class="english">Guide farmers to expand rice and corn production as well as to increase grain variety.</span></p>

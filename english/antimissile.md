@@ -1,5 +1,7 @@
 # antimissile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antimissile.md)
+
 <p><span class="chinese">威慑而非反导拦截仍是最佳的防御手段。</span><span class="english">Deterrence, not antimissile interceptors, is still the best defense.</span></p>
 
 <p><span class="chinese">最后对智能科学技术在反导系统中的应用与发展进行了展望。</span><span class="english">At last, the prospect of the application of IST in the area of antimissile system is given.</span></p>

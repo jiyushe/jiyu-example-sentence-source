@@ -1,5 +1,7 @@
 # curvaceous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curvaceous.md)
+
 <p><span class="chinese">好莱坞似乎充满了曲线动人的金发女郎。</span><span class="english">Hollywood seems full of curvaceous blondes.</span></p>
 
 <p><span class="chinese">其婀娜多姿的身体首位的是一轿跑车般的车顶。</span><span class="english">Its curvaceous body is topped by a coupe-like roofline.</span></p>

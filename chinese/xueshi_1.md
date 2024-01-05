@@ -1,5 +1,7 @@
 # 学士
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueshi_1.md)
+
 <p><span class="chinese">我拿到了学士学位。</span><span class="english">I get the bachelor's degree.</span></p>
 
 <p><span class="chinese">我拿到了学士学位。</span><span class="english">I get the bachelor’s degree.</span></p>

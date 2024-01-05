@@ -1,5 +1,7 @@
 # verticillium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/verticillium.md)
+
 <p><span class="chinese">黄萎病严重危害棉花生产。</span><span class="english">Verticillium dahliae Kleb. harms seriously production of cotton.</span></p>
 
 <p><span class="chinese">黄萎病、灰霉病和炭疽病是草莓上发病较严重的病害。</span><span class="english">Verticillium wilt, gray mold and anthracnose are major diseases on strawberry.</span></p>

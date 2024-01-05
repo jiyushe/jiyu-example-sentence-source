@@ -1,5 +1,7 @@
 # 颠扑不破
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dianpubupo.md)
+
 <p><span class="chinese">这真是一个颠扑不破的实例。</span><span class="english">This was really irrefutable evidence.</span></p>
 
 <p><span class="chinese">没有冲突就没有戏剧，这是颠扑不破的艺术规律。</span><span class="english">It is an irrefutable law of art that there is no drama without conflicts.</span></p>

@@ -1,5 +1,7 @@
 # ammonia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ammonia.md)
+
 <p><span class="chinese">为了制造氨。</span><span class="english">To make ammonia.</span></p>
 
 <p><span class="chinese">漂白剂和氨水?。</span><span class="english">Bleach and ammonia?</span></p>

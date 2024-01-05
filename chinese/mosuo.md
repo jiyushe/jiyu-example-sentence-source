@@ -1,5 +1,7 @@
 # 摸索
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mosuo.md)
+
 <p><span class="chinese">我是怎样工作的？我摸索�往前走。</span><span class="english">How do I work? I grope.</span></p>
 
 <p><span class="chinese">他们在黑暗中摸索。</span><span class="english">They groped in the dark.</span></p>

@@ -1,5 +1,7 @@
 # 掩盖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangai.md)
+
 <p><span class="chinese">她的美貌掩盖了她的邪恶。</span><span class="english">Her beauty gilds her vice.</span></p>
 
 <p><span class="chinese">一种倾向掩盖另一种倾向</span><span class="english">An inclination covers the other.</span></p>

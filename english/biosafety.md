@@ -1,5 +1,7 @@
 # biosafety
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biosafety.md)
+
 <p><span class="chinese">而卡特赫纳生物安全议定书的功能与以上二者完全不同。</span><span class="english">The Cartagena protocol on biosafety has a wholly different function.</span></p>
 
 <p><span class="chinese">生物安全实验室洗手池设置在实验室的入口处。</span><span class="english">Hand washing sink should be set at the entrance of biosafety laboratories.</span></p>

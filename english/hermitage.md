@@ -1,5 +1,7 @@
 # hermitage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hermitage.md)
+
 <p><span class="chinese">圣彼得堡爱尔米塔什博物馆</span><span class="english">Hermitage Museum, St. Petersburg</span></p>
 
 <p><span class="chinese">庐屋博物馆的内部。</span><span class="english">Interior of the Hermitage Museum.</span></p>

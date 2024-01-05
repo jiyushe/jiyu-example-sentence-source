@@ -1,5 +1,7 @@
 # thee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thee.md)
+
 <p><span class="chinese">主是常与你同在的。</span><span class="english">Jesus is with thee.</span></p>
 
 <p><span class="chinese">有什么使人不安吗？</span><span class="english">What unsettles thee?</span></p>

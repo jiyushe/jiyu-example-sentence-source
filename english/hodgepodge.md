@@ -1,5 +1,7 @@
 # hodgepodge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hodgepodge.md)
+
 <p><span class="chinese">与之相比，大叙利亚更像是一盘散沙。</span><span class="english">But Greater Syria is more of a hodgepodge.</span></p>
 
 <p><span class="chinese">但是这种展览也容易做成大杂烩。</span><span class="english">But this kind of exhibition is easyly to be made into hodgepodge.</span></p>

@@ -1,5 +1,7 @@
 # fictive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fictive.md)
+
 <p><span class="chinese">那作家有创作的才能。</span><span class="english">The writer has fictive talent.</span></p>
 
 <p><span class="chinese">再设想一组情景。</span><span class="english">Consider another fictive scenario.</span></p>

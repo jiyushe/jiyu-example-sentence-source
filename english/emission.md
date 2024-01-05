@@ -1,5 +1,7 @@
 # emission
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emission.md)
+
 <p><span class="chinese">辐射会发出能量。</span><span class="english">Radiation is the emission of energy.</span></p>
 
 <p><span class="chinese">理论上预言发光区将随形成时间加宽。</span><span class="english">The broadening of emission region is predicted.</span></p>

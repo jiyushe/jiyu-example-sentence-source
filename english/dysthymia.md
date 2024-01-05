@@ -1,5 +1,7 @@
 # dysthymia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dysthymia.md)
+
 <p><span class="chinese">情绪障碍是轻度，长期的抑郁。</span><span class="english">Dysthymia is mild, chronic depression.</span></p>
 
 <p><span class="chinese">心境恶劣障碍，也叫做恶劣心境。</span><span class="english">Dysthymic disorder, also called dysthymia.</span></p>

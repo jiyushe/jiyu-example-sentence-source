@@ -1,5 +1,7 @@
 # Arab
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arab.md)
+
 <p><span class="chinese">你是阿拉伯人？</span><span class="english">Are you Arab?</span></p>
 
 <p><span class="chinese">他曾尝试创立阿拉伯军团。</span><span class="english">He tried to create an Arab Legion.</span></p>

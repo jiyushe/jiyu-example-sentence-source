@@ -1,5 +1,7 @@
 # 堂上
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tangshang.md)
+
 <p><span class="chinese">读书周期间禁止在堂上讲话。</span><span class="english">Don't the Reading Week.</span></p>
 
 <p><span class="chinese">老师跟我们讲课堂上不要讲话。</span><span class="english">The teacher told us not to speak in class.</span></p>

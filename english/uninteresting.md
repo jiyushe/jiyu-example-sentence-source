@@ -1,5 +1,7 @@
 # uninteresting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uninteresting.md)
+
 <p><span class="chinese">不要使传奇地说这个没有兴趣而且艰苦的工作！</span><span class="english">Don't romanticize this uninteresting and hard work!</span></p>
 
 <p><span class="chinese">“跳读”，指忽略不需要的部分或章节而看。</span><span class="english">He skipped some uninteresting chapters of the book.</span></p>

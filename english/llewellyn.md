@@ -1,5 +1,7 @@
 # llewellyn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/llewellyn.md)
+
 <p><span class="chinese">你还记得卢埃林的故事吗？</span><span class="english">Do you remember the story of Llewellyn?</span></p>
 
 <p><span class="chinese">朱莉亚·勒维林，记者、小说家，目前居住在伦敦。</span><span class="english">Julia Llewellyn lives in London and works as a journalist.</span></p>

@@ -1,5 +1,7 @@
 # melbourne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/melbourne.md)
+
 <p><span class="chinese">我能扒车放在墨尔本吗？</span><span class="english">Can I drop it off in Melbourne?</span></p>
 
 <p><span class="chinese">拂晓时分，墨尔本遭受再次震颤。</span><span class="english">At dawn, two tremors shook Melbourne.</span></p>

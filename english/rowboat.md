@@ -1,5 +1,7 @@
 # rowboat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rowboat.md)
+
 <p><span class="chinese">汹涌的波涛掀翻了划艇。</span><span class="english">The rough waves capsized the rowboat.</span></p>
 
 <p><span class="chinese">我们必须把游艇的洞堵上。</span><span class="english">We must plug the hole in the rowboat.</span></p>

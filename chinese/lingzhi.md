@@ -1,5 +1,7 @@
 # 灵芝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingzhi.md)
+
 <p><span class="chinese">配合灵芝排毒茶瘦身功效加倍。</span><span class="english">Lingzhi Detox Tea slimming effect with the double.</span></p>
 
 <p><span class="chinese">灵芝孢子有破壁和不破壁的两种。</span><span class="english">Lingzhi Spores Powde include cracked and uncracked.</span></p>

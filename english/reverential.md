@@ -1,5 +1,7 @@
 # reverential
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reverential.md)
+
 <p><span class="chinese">他显得并不严肃。</span><span class="english">He did not seem reverential.</span></p>
 
 <p><span class="chinese">品格高尚的人也是尊重他人的。</span><span class="english">The man of character is also reverential.</span></p>

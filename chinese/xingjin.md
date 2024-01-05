@@ -1,5 +1,7 @@
 # 行进
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingjin.md)
+
 <p><span class="chinese">一个蓝色的行进小鼓。</span><span class="english">A Blue Marching Snare Drum.</span></p>
 
 <p><span class="chinese">他们正往遵义行进。</span><span class="english">They were headed for Zunyi.</span></p>

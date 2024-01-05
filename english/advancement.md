@@ -1,5 +1,7 @@
 # advancement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/advancement.md)
+
 <p><span class="chinese">所以他一直没能升官。</span><span class="english">So he had got none of any advancement.</span></p>
 
 <p><span class="chinese">党的先进性是历史的和具体的。</span><span class="english">Our Party's advancement is historical and concrete.</span></p>

@@ -1,5 +1,7 @@
 # comer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comer.md)
+
 <p><span class="chinese">我比较喜欢在家吃饭。</span><span class="english">Me gusta más comer en casa.</span></p>
 
 <p><span class="chinese">“组织发展”在中国还是一门新崛起的学科。</span><span class="english">O. D. is a late comer to China.</span></p>

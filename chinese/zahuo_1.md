@@ -1,5 +1,7 @@
 # 杂货
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zahuo_1.md)
+
 <p><span class="chinese">杂货商笑了。</span><span class="english">The grocer smiled.</span></p>
 
 <p><span class="chinese">把杂货账单加起来。</span><span class="english">Add up the grocery bills.</span></p>

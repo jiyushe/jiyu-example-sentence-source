@@ -1,5 +1,7 @@
 # stridden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stridden.md)
+
 <p><span class="chinese">万事开头难，第一步迈出去之后，剩下的就比较好做了。</span><span class="english">All things start is bad, after the first pace is stridden , those who remain is better did.</span></p>
 
 <p><span class="chinese">跨越卡夫丁峡谷后的社会主义，必须是建立在现代生产力基础之上的社会主义。</span><span class="english">The socialism having stridden across the Cafdin Canyon must be the socialism established on the basis of modern productivity.</span></p>

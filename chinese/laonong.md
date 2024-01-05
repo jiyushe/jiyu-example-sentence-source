@@ -1,5 +1,7 @@
 # 老农
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laonong.md)
+
 <p><span class="chinese">老农给他的马放了点血。</span><span class="english">The old farmer bled his horse.</span></p>
 
 <p><span class="chinese">夜晚投宿在一个老农家里。</span><span class="english">Stay the night at a farmer's House.</span></p>

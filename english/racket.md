@@ -1,5 +1,7 @@
 # racket
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/racket.md)
+
 <p><span class="chinese">那是一块乒乓球拍。</span><span class="english">That is a table tennis racket.</span></p>
 
 <p><span class="chinese">赛后，戴门蒂耶娃仍然心有余悸，“我不能为澳网比赛继续热身，甚至我都很难再挥动球拍”。</span><span class="english">I couldn't even hold my racket.</span></p>

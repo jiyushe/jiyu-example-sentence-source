@@ -1,5 +1,7 @@
 # 试问
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiwen_1.md)
+
 <p><span class="chinese">试问这样一份丧权辱国的条约谁给接受?。</span><span class="english">How can such a treaty be accepted?</span></p>
 
 <p><span class="chinese">试问，有多少作家能如此彻底呢？</span><span class="english">About how many writers can this be said?</span></p>

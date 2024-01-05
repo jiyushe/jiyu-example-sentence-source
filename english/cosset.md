@@ -1,5 +1,7 @@
 # cosset
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cosset.md)
+
 <p><span class="chinese">我会是你永远的宠儿吗？</span><span class="english">Am I you cosset for ever?</span></p>
 
 <p><span class="chinese">她坐起来，看到床边有个小的宠物游戏机。</span><span class="english">She sat up and saw a little cosset player beside her bed.</span></p>

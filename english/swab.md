@@ -1,5 +1,7 @@
 # swab
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swab.md)
+
 <p><span class="chinese">不要把拭子插入耳道。</span><span class="english">Do not insert swab into ear canal.</span></p>
 
 <p><span class="chinese">利用棉花棒刮去微小的污垢。</span><span class="english">Use cotton-tipped swab for tiny dirt.</span></p>

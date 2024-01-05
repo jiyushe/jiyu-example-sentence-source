@@ -1,5 +1,7 @@
 # 备足
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beizu.md)
+
 <p><span class="chinese">下星期用的木柴我们已备足了吗？</span><span class="english">Have we enough firewood in for the coming week?</span></p>
 
 <p><span class="chinese">这家商店备足食品和饮料了吗?</span><span class="english">Is the shop well stocked up with food and drinks?</span></p>

@@ -1,5 +1,7 @@
 # zephyr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zephyr.md)
+
 <p><span class="chinese">一定，是嫉妒的西风。</span><span class="english">A jealous zephyr , not a doubt.</span></p>
 
 <p><span class="chinese">和风怎能骑在驴身上？</span><span class="english">How could a zephyr ride an ass?</span></p>

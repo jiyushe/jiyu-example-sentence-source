@@ -1,5 +1,7 @@
 # referential
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/referential.md)
+
 <p><span class="chinese">普通话水平测试属于标准参照性考试。</span><span class="english">Putonghua test is a kind of standard referential test.</span></p>
 
 <p><span class="chinese">这样就保证了表间的引用完整性。</span><span class="english">That ensures referential integrity between the tables.</span></p>

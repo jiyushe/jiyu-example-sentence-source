@@ -1,5 +1,7 @@
 # satiric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/satiric.md)
+
 <p><span class="chinese">她说的话充满了讽刺。</span><span class="english">What she said is really satiric.</span></p>
 
 <p><span class="chinese">我不怎么喜欢讽刺文学。</span><span class="english">I don't quite into satiric literature.</span></p>

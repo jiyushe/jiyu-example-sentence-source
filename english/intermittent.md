@@ -1,5 +1,7 @@
 # intermittent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intermittent.md)
+
 <p><span class="chinese">有过断断续续的辩论。</span><span class="english">There was intermittent debate about.</span></p>
 
 <p><span class="chinese">间歇的桔黄色是无法避免的</span><span class="english">intermittent oranges are unavoidable</span></p>

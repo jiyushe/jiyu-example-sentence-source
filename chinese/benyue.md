@@ -1,5 +1,7 @@
 # 奔月
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benyue.md)
+
 <p><span class="chinese">你听过嫦娥奔月的传说吗？</span><span class="english">Have you heard tales of change?</span></p>
 
 <p><span class="chinese">届时，你会看到那一“奔月”的壮举。</span><span class="english">Then you will see the moon shot.</span></p>

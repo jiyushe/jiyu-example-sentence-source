@@ -1,5 +1,7 @@
 # 模式
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moshi_1.md)
+
 <p><span class="chinese">这是一个赢输的模式。</span><span class="english">A win-lose mode.</span></p>
 
 <p><span class="chinese">单用户模式。</span><span class="english">Single-user mode.</span></p>

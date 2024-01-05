@@ -1,5 +1,7 @@
 # plasterboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plasterboard.md)
+
 <p><span class="chinese">内墙是纸面石膏板，或者部分护壁板。</span><span class="english">The wall is paper face plasterboard inside, or partial baseboard.</span></p>
 
 <p><span class="chinese">腿部骨折，打了石膏板以后还是肿痛不止！</span><span class="english">Leg ministry fracture, gall still is after hitting plasterboard more than!</span></p>

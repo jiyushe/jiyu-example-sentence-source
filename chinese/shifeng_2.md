@@ -1,5 +1,7 @@
 # 师风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shifeng_2.md)
+
 <p><span class="chinese">教师、师德、师风是一个永恒的话题。</span><span class="english">Teachers, teachers' morals and teachers' morale are an eternal theme.</span></p>
 
 <p><span class="chinese">师德师风建设是教师队伍最根本的建设。</span><span class="english">The basic building of a teaching body is the teachers moral building.</span></p>

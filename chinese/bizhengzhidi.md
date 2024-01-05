@@ -1,5 +1,7 @@
 # 必争之地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bizhengzhidi.md)
+
 <p><span class="chinese">万圣节前夜也成为好莱坞和沃尔玛的兵家必争之地。</span><span class="english">Hallows Eve has been possessed by Hollywood and Walmart.</span></p>
 
 <p><span class="chinese">此处人口聚集，是商家必争之地。</span><span class="english">This is populous area, and a crucial market for business.</span></p>

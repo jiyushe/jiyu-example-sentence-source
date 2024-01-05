@@ -1,5 +1,7 @@
 # waste 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waste.md)
+
 <p><span class="chinese">浪费还是节约？</span><span class="english">Waste or Save?</span></p>
 
 <p><span class="chinese">别浪费时间了。</span><span class="english">Don-t waste time.</span></p>

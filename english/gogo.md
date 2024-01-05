@@ -1,5 +1,7 @@
 # gogo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gogo.md)
+
 <p><span class="chinese">果果，你喜欢什么科目？</span><span class="english">What subjects do you like, Gogo?</span></p>
 
 <p><span class="chinese">不，Gogo。我说是一外衣在树上！</span><span class="english">No, Gogo. I said a coat in a tree!</span></p>

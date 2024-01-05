@@ -1,5 +1,7 @@
 # white 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/white.md)
+
 <p><span class="chinese">白棋时限。</span><span class="english">White time.</span></p>
 
 <p><span class="chinese">白面包。</span><span class="english">White bread.</span></p>

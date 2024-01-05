@@ -1,5 +1,7 @@
 # paternal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paternal.md)
+
 <p><span class="chinese">第一个姓氏必须是父亲的姓氏。</span><span class="english">The first surname is the paternal.</span></p>
 
 <p><span class="chinese">我是姑姑扶养大的。</span><span class="english">I was brought up by my paternal aunt.</span></p>

@@ -1,5 +1,7 @@
 # superficies
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superficies.md)
+
 <p><span class="chinese">永恒之水从表面看都是活的。</span><span class="english">Immortal water, alive even to the superficies.</span></p>
 
 <p><span class="chinese">近现代地上权肇端于罗马法。</span><span class="english">The modern superficies systems stem from Roman Law.</span></p>

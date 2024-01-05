@@ -1,5 +1,7 @@
 # suite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suite.md)
+
 <p><span class="chinese">套房配有蒸汽浴室。</span><span class="english">Steam suite with a bathroom.</span></p>
 
 <p><span class="chinese">他买了三件一套的家具。</span><span class="english">He brought a three- piece suite.</span></p>

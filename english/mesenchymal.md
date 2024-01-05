@@ -1,5 +1,7 @@
 # mesenchymal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mesenchymal.md)
+
 <p><span class="chinese">这是一例少见的子宫间叶性肿瘤。</span><span class="english">This is an unusual case of uterine mesenchymal neoplasm.</span></p>
 
 <p><span class="chinese">从而建立了永生化的人骨髓间充质干细胞。</span><span class="english">Thereby establishing the immortalization of human mesenchymal stem cells.</span></p>

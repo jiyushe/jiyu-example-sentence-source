@@ -1,5 +1,7 @@
 # cronyism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cronyism.md)
+
 <p><span class="chinese">“复杂”是有钱人的朋友，也是朋党营私的朋友。</span><span class="english">It is the friend of the deep pocket. It is the friend of cronyism.</span></p>
 
 <p><span class="chinese">商人进入政界后，随之而来的可能还有腐败和任人唯亲。</span><span class="english">Bringing businesspeople into politics can also produce corruption and cronyism.</span></p>

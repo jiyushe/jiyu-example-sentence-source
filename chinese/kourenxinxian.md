@@ -1,5 +1,7 @@
 # 扣人心弦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kourenxinxian.md)
+
 <p><span class="chinese">今天就要梦想成真。那真是扣人心弦！</span><span class="english">Your dream will come true.It's really breathtaking.</span></p>
 
 <p><span class="chinese">扣人心弦的电视节目使我们不停地发出“喔”“啊”的喊叫声。</span><span class="english">We kept oohing and aahing over the exciting TV programme.</span></p>

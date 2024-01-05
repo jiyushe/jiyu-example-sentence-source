@@ -1,5 +1,7 @@
 # implication 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/implication.md)
+
 <p><span class="chinese">而这是一个暗示。</span><span class="english">That was an implication.</span></p>
 
 <p><span class="chinese">沉默意味着同意。</span><span class="english">The implication of silence infers consent.</span></p>

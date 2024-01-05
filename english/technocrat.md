@@ -1,5 +1,7 @@
 # technocrat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/technocrat.md)
+
 <p><span class="chinese">总之，他是一个专业的政客。</span><span class="english">In short, he is a technocrat.</span></p>
 
 <p><span class="chinese">他没接见他们，而去见了政论家。</span><span class="english">He did not receive them. A technocrat met them instead.</span></p>

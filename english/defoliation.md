@@ -1,5 +1,7 @@
 # defoliation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defoliation.md)
+
 <p><span class="chinese">小兴安岭森林落叶分解与土壤动物的作用。</span><span class="english">Decomposition of forest defoliation and role of soil animals in Xiao Hinggan Mountains.</span></p>
 
 <p><span class="chinese">我喜欢秋天的萧条，能满足一下自己看到落叶的悲伤。</span><span class="english">I like the recession of autumn, can satisfy oneself to see the sorrow of defoliation once.</span></p>

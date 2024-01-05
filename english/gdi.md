@@ -1,5 +1,7 @@
 # gdi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gdi.md)
+
 <p><span class="chinese">GDI越是抵赖，看起来就越有罪。</span><span class="english">The more GDI denies, the guiltier they look.</span></p>
 
 <p><span class="chinese">幸运的是，GDI还配有锤头鲨。</span><span class="english">Luckily for you, GDI also comes equipped with Hammerheads.</span></p>

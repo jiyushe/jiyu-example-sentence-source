@@ -1,5 +1,7 @@
 # sandakan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sandakan.md)
+
 <p><span class="chinese">我们是代表山打根和巴都沙必人民以表达他们的意愿。</span><span class="english">We are representing the hope of the people in Batu Sapi and in Sandakan.</span></p>
 
 <p><span class="chinese">他们不必太担心谁将会在山打根参选了。</span><span class="english">They don't have to worry too much about who will be contesting in Sandakan.</span></p>

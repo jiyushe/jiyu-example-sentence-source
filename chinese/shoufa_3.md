@@ -1,5 +1,7 @@
 # 收发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoufa_3.md)
+
 <p><span class="chinese">有些人可能会把它收发，扫描。</span><span class="english">Someone might mail it and scan it.</span></p>
 
 <p><span class="chinese">我们称之为智能收发。</span><span class="english">So we call this the Smarter Mailroom.</span></p>

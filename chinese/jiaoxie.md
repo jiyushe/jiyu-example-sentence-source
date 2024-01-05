@@ -1,5 +1,7 @@
 # 缴械
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoxie.md)
+
 <p><span class="chinese">她丈夫当时试图让嫌犯缴械。</span><span class="english">Her husband had tried to disarm his killer.</span></p>
 
 <p><span class="chinese">将军告诉士兵缴械投降。</span><span class="english">The general told the troops to lay down their arms.</span></p>

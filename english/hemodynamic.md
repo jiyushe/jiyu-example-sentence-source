@@ -1,5 +1,7 @@
 # hemodynamic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hemodynamic.md)
+
 <p><span class="chinese">依托咪酯诱导后各参数无进一步明显变化。</span><span class="english">Etomidate did not cause significant change of hemodynamic parameters.</span></p>
 
 <p><span class="chinese">普遍的观点认为血流动力学因素在其中起着重要作用。</span><span class="english">Hemodynamic factors have been suggested to be important in atherogenesis.</span></p>

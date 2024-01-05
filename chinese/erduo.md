@@ -1,5 +1,7 @@
 # 耳朵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/erduo.md)
+
 <p><span class="chinese">耳朵轰隆作响。</span><span class="english">My ears ring.</span></p>
 
 <p><span class="chinese">折出耳朵。</span><span class="english">Fold the ears.</span></p>

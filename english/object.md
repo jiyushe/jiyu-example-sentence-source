@@ -1,5 +1,7 @@
 # object
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/object.md)
+
 <p><span class="chinese">像对象一样运行。</span><span class="english">Behave like an object.</span></p>
 
 <p><span class="chinese">这是一个不明物体。</span><span class="english">It’s an unknown object.</span></p>

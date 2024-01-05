@@ -1,5 +1,7 @@
 # analytics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/analytics.md)
+
 <p><span class="chinese">什么是门户分析？</span><span class="english">What is portal analytics?</span></p>
 
 <p><span class="chinese">什么是个人分析？</span><span class="english">What is personal analytics?</span></p>

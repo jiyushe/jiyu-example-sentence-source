@@ -1,5 +1,7 @@
 # 热烈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/relie.md)
+
 <p><span class="chinese">咱们热烈地爱咱们的党。</span><span class="english">We love our Party.</span></p>
 
 <p><span class="chinese">感谢各位的热烈欢迎！</span><span class="english">Thank you for your welcome.</span></p>

@@ -1,5 +1,7 @@
 # profusion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/profusion.md)
+
 <p><span class="chinese">百花怒放。</span><span class="english">Hundreds of flowers are blooming in profusion.</span></p>
 
 <p><span class="chinese">春天许许多多的叶子从树上冒出来。</span><span class="english">A profusion of leaves bursts out on trees in the springtime.</span></p>

@@ -1,5 +1,7 @@
 # icj
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/icj.md)
+
 <p><span class="chinese">好吧，那你现在再告诉我，为什么其他国家应该跟着日本上国际法院？</span><span class="english">Now tell me again why any country should go to the ICJ with Japan???</span></p>
 
 <p><span class="chinese">国际社会应该给予国际法院更多表现其公正的机会。</span><span class="english">The international community should give ICJ more opportunity to display its justice.</span></p>

@@ -1,5 +1,7 @@
 # 强行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangxing.md)
+
 <p><span class="chinese">他被强行推进一辆车里。</span><span class="english">He was thrust into a car.</span></p>
 
 <p><span class="chinese">强行分裂就是叛国。</span><span class="english">Disunion by force was treason.</span></p>

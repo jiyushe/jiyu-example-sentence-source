@@ -1,5 +1,7 @@
 # geordie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geordie.md)
+
 <p><span class="chinese">因为我不能赦免你的乔迪。</span><span class="english">For I can not pardon Geordie"."</span></p>
 
 <p><span class="chinese">还是仅仅因为他是个著名的高地人？</span><span class="english">Or is it just that he is a famous Geordie ?</span></p>

@@ -1,5 +1,7 @@
 # 比武
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biwu.md)
+
 <p><span class="chinese">骑士们骑马比武，嬉戏作乐。</span><span class="english">Knights joust and frolic.</span></p>
 
 <p><span class="chinese">美智子与何记者比武，双双死去。</span><span class="english">Michiko jousting with any reporter, both die.</span></p>

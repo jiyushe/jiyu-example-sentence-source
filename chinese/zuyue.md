@@ -1,5 +1,7 @@
 # 租约
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuyue.md)
+
 <p><span class="chinese">租约下个月满期。</span><span class="english">The lease runs out next month.</span></p>
 
 <p><span class="chinese">她以九十九年的租约买下这种房子。</span><span class="english">She bought the house on a 99-year lease.</span></p>

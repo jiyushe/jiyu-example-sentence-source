@@ -1,5 +1,7 @@
 # neostigmine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neostigmine.md)
+
 <p><span class="chinese">新斯的明增强小肠和大肠的运动功能。</span><span class="english">Neostigmine augments the motor activity of the small and large bowel.</span></p>
 
 <p><span class="chinese">阶段II确定新斯的明硬膜外腔注射的镇痛浓度。</span><span class="english">Phrase II, to determine the concentration of neostigmine for pain relief.</span></p>

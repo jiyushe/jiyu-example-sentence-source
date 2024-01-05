@@ -1,5 +1,7 @@
 # CFC
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cfc.md)
+
 <p><span class="chinese">必须将所有的氟录化炭冷却液从冰箱中去除。</span><span class="english">All CFC coolants must be removed from fridges.</span></p>
 
 <p><span class="chinese">必须将所有的氟氯化碳冷却液从冰箱中去除。</span><span class="english">All cfc coolants must be removed from fridges.</span></p>

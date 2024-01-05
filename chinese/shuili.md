@@ -1,5 +1,7 @@
 # 水利
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuili.md)
+
 <p><span class="chinese">这种机器叫水利启闭机。</span><span class="english">This machine is called water Hoist.</span></p>
 
 <p><span class="chinese">水利建设成就显著。</span><span class="english">Notable achievements made in water conservancy.</span></p>

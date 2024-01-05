@@ -1,5 +1,7 @@
 # 红娘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongniang.md)
+
 <p><span class="chinese">莺莺又犹豫一阵，才跟着红娘悄悄走出闰房。</span><span class="english">After another pause, Ying-ying followed Hung Niang out.</span></p>
 
 <p><span class="chinese">现在他们又开始为未婚子女当起了“红娘”，还“红”遍了全国。</span><span class="english">Now, they're playing matchmakers, and on a nationwide level.</span></p>

@@ -1,5 +1,7 @@
 # 赔钱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peiqian.md)
+
 <p><span class="chinese">连锁店赔钱了。</span><span class="english">The chain lost money.</span></p>
 
 <p><span class="chinese">他们认为我们会赔钱。</span><span class="english">They thought we would lose money.</span></p>

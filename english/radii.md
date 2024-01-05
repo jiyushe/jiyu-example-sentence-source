@@ -1,5 +1,7 @@
 # radii
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radii.md)
+
 <p><span class="chinese">我们还学了能量，学了半径。</span><span class="english">We have energies. We have radii.</span></p>
 
 <p><span class="chinese">半径不同，材料不同。</span><span class="english">Radii are different, masses are different.</span></p>

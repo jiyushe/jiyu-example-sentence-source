@@ -1,5 +1,7 @@
 # 逐个
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuge_1.md)
+
 <p><span class="chinese">要测试故障转移，逐个地停止克隆。</span><span class="english">To test failover, stop the clones one by one.</span></p>
 
 <p><span class="chinese">下面是最佳雇主前50，为您逐个倒数。</span><span class="english">Here are the top 50 employers, in reverse order.</span></p>

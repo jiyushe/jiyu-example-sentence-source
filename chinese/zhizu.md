@@ -1,5 +1,7 @@
 # 知足
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizu.md)
+
 <p><span class="chinese">还是知足长乐？</span><span class="english">Changle or Contentment?</span></p>
 
 <p><span class="chinese">浅薄无聊和朴素知足的真正价值。</span><span class="english">of simplicity and contentment.</span></p>

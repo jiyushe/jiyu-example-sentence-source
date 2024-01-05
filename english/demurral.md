@@ -1,5 +1,7 @@
 # demurral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demurral.md)
+
 <p><span class="chinese">提案毫无异议地通过了。</span><span class="english">The bill was passed without any demurral.</span></p>
 
 <p><span class="chinese">其次是异议登记被滥用的危险。</span><span class="english">Second is the danger of abusing the demurral registration.</span></p>

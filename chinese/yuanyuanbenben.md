@@ -1,5 +1,7 @@
 # 原原本本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanyuanbenben.md)
+
 <p><span class="chinese">他原原本本地复述了那段对话。</span><span class="english">He repeated the conversation word for word.</span></p>
 
 <p><span class="chinese">该模型实际上很少被原原本本地实现。</span><span class="english">This model is seldom actually implemented as is.</span></p>

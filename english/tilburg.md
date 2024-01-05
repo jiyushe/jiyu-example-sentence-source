@@ -1,5 +1,7 @@
 # tilburg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tilburg.md)
+
 <p><span class="chinese">此前的纪录是在英国巨石阵70人同时喷火创造。</span><span class="english">Tilburg set the new record with 110 people spitting fire simultaneously.</span></p>
 
 <p><span class="chinese">荷兰蒂尔堡大学奖学金信息！</span><span class="english">Scholarship opportunities to study at Tilburg University, the Netherlands!</span></p>

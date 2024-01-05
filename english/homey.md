@@ -1,5 +1,7 @@
 # homey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homey.md)
+
 <p><span class="chinese">你的公寓有家的感觉。</span><span class="english">Your apartment feels homey.</span></p>
 
 <p><span class="chinese">它是多么美好，温馨的一个名字啊。</span><span class="english">It's such a nice, homey name.</span></p>

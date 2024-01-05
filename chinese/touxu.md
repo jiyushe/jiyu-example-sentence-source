@@ -1,5 +1,7 @@
 # 头绪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touxu.md)
+
 <p><span class="chinese">我一点头绪都没有。</span><span class="english">I haven’t a clue.</span></p>
 
 <p><span class="chinese">现在我们毫无头绪。</span><span class="english">Now we haven’t a clue.</span></p>

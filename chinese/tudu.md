@@ -1,5 +1,7 @@
 # 荼毒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tudu.md)
+
 <p><span class="chinese">不要荼毒俘虏。</span><span class="english">Don't ill-treat captives.</span></p>
 
 <p><span class="chinese">特殊的自卫武器还使蠋蝽免遭鸟类的荼毒。</span><span class="english">The stinkbug has a special weapon for self-defense.</span></p>

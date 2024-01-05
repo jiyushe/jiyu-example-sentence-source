@@ -1,5 +1,7 @@
 # publishable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/publishable.md)
+
 <p><span class="chinese">在我们国家，虐待儿童是犯罪行为应该受到惩罚。</span><span class="english">Child abuse is a publishable offence in our country.</span></p>
 
 <p><span class="chinese">语法仍然没有达到发表文章的标准。</span><span class="english">The grammar is still not up to the standard of a publishable paper.</span></p>

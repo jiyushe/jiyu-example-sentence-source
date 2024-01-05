@@ -1,5 +1,7 @@
 # 别无选择
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biewuxuanze.md)
+
 <p><span class="chinese">别无选择？</span><span class="english">What's the mix?</span></p>
 
 <p><span class="chinese">我除了同意以外别无选择。</span><span class="english">I had no option but to agree.</span></p>

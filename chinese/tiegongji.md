@@ -1,5 +1,7 @@
 # 铁公鸡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiegongji.md)
+
 <p><span class="chinese">希拉的父亲真是个一毛不拔的铁公鸡。</span><span class="english">Sheila's dad is a real tight wad.</span></p>
 
 <p><span class="chinese">铁公鸡在汉语中的意思是一毛不拔。</span><span class="english">An iron rooster in Chinese means miserly.</span></p>

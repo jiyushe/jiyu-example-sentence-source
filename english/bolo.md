@@ -1,5 +1,7 @@
 # bolo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bolo.md)
+
 <p><span class="chinese">博洛长官，你也参加吧？</span><span class="english">Bolo Executive, you also participated in?</span></p>
 
 <p><span class="chinese">博洛唯恐别人不知道他的头衔。</span><span class="english">Bolo afraid of people not knowing his title.</span></p>

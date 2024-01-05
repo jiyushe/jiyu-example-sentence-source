@@ -1,5 +1,7 @@
 # louver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/louver.md)
+
 <p><span class="chinese">检测烟囱百叶窗的闭合性。</span><span class="english">Inspect the closing of louver of funnel.</span></p>
 
 <p><span class="chinese">诱导风机空气在整个百叶窗面对横流塔。</span><span class="english">The fan induces air through the entire louver face of a crossflow tower.</span></p>

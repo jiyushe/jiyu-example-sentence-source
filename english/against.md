@@ -1,5 +1,7 @@
 # against
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/against.md)
+
 <p><span class="chinese">我是在顶风作战。</span><span class="english">I was against wind.</span></p>
 
 <p><span class="chinese">混战对抗米格！</span><span class="english">Dogfight against MiGs!</span></p>

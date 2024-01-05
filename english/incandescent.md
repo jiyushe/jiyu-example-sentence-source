@@ -1,5 +1,7 @@
 # incandescent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incandescent.md)
+
 <p><span class="chinese">可配装白炽灯、汞灯、金卤灯。</span><span class="english">Suitable for incandescent lamp, mercury vapor lamp.</span></p>
 
 <p><span class="chinese">一个好看的60瓦白炽灯还不到1美元。</span><span class="english">A decent 60-watt incandescent costs less than a dollar.</span></p>

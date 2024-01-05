@@ -1,5 +1,7 @@
 # ashore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ashore.md)
+
 <p><span class="chinese">那水手离船上岸。</span><span class="english">The sailor went ashore.</span></p>
 
 <p><span class="chinese">他快速地划向岸边。</span><span class="english">He quickly rowed ashore.</span></p>

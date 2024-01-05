@@ -1,5 +1,7 @@
 # farm 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/farm.md)
+
 <p><span class="chinese">我们在农村，一个农场里。</span><span class="english">We're on a farm.</span></p>
 
 <p><span class="chinese">请问，这里是种马场吗？</span><span class="english">Is this a stud farm?</span></p>

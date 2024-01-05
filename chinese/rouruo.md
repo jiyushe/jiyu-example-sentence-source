@@ -1,5 +1,7 @@
 # 柔弱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rouruo.md)
+
 <p><span class="chinese">它不会使这男孩的心灵柔弱。</span><span class="english">It will not effeminate the boy's mind.</span></p>
 
 <p><span class="chinese">柔弱的木质藤本植物，茎四棱。</span><span class="english">Effeminate woodiness liana, bine 4 arris.</span></p>

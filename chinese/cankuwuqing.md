@@ -1,5 +1,7 @@
 # 残酷无情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cankuwuqing.md)
+
 <p><span class="chinese">战争是残酷无情的。</span><span class="english">War is cruel.</span></p>
 
 <p><span class="chinese">但唐古拉又是残酷无情的。</span><span class="english">But Tanggula is brutal callosity.</span></p>

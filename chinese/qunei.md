@@ -1,5 +1,7 @@
 # 区内
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qunei.md)
+
 <p><span class="chinese">我们应该坐在他的服务区内。</span><span class="english">We should sit in his section.</span></p>
 
 <p><span class="chinese">在区内划设通风廊。</span><span class="english">Designate air corridors in the area.</span></p>

@@ -1,5 +1,7 @@
 # punish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/punish.md)
+
 <p><span class="chinese">要惩罚我吗？</span><span class="english">Or punish me?</span></p>
 
 <p><span class="chinese">申斥、惩罚或骚扰某人。</span><span class="english">Scold, punish or harass sb.</span></p>

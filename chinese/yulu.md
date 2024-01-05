@@ -1,5 +1,7 @@
 # 雨露
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yulu.md)
+
 <p><span class="chinese">禾苗长三尺，雨露昨夜功。</span><span class="english">Three feet seedlings, rain last night.</span></p>
 
 <p><span class="chinese">阳光雨露抚育我成长。</span><span class="english">Raised by the sunshine, rains and dews.</span></p>

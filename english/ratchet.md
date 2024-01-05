@@ -1,5 +1,7 @@
 # ratchet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ratchet.md)
+
 <p><span class="chinese">棘轮机构式宽口型。</span><span class="english">Wide- type formula ratchet mechanism.</span></p>
 
 <p><span class="chinese">棘轮滚刀是常用的定装滚刀。</span><span class="english">Ratchet hob is commonly used it is, hob.</span></p>

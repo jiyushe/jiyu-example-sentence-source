@@ -1,5 +1,7 @@
 # lyricist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lyricist.md)
+
 <p><span class="chinese">他是一位伟大的作词人。</span><span class="english">He is a great lyricist.</span></p>
 
 <p><span class="chinese">我认为你天生就是个作曲家。</span><span class="english">I think you may be a born lyricist.</span></p>

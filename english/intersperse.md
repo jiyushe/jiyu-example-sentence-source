@@ -1,5 +1,7 @@
 # intersperse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intersperse.md)
+
 <p><span class="chinese">最初是想用现代景观点缀历史景观。</span><span class="english">Originally the intention was to intersperse the historical scenes with modern ones.</span></p>
 
 <p><span class="chinese">抽象的线条，大胆的颜色和夸张的点缀尽显致奢华。</span><span class="english">Taking advantage of abstract line, brilliant color and high-sounding intersperse reveals luxurious feature.</span></p>

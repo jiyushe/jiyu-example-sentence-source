@@ -1,5 +1,7 @@
 # expensive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expensive.md)
+
 <p><span class="chinese">这似乎太贵了。</span><span class="english">It seems too expensive.</span></p>
 
 <p><span class="chinese">为什么它这么贵呢？</span><span class="english">Why is it so expensive?</span></p>

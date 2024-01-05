@@ -1,5 +1,7 @@
 # ryan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ryan.md)
+
 <p><span class="chinese">你选了22吗</span><span class="english">Ryan You chose 22?</span></p>
 
 <p><span class="chinese">你是瑞恩?洛吗,-是的</span><span class="english">You are Ryan Lowe? -Yeah.</span></p>

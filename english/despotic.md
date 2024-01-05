@@ -1,5 +1,7 @@
 # despotic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/despotic.md)
+
 <p><span class="chinese">她被他的淫威镇住了。</span><span class="english">She was smothered by his despotic power.</span></p>
 
 <p><span class="chinese">默罕默德瞧不起萨达姆侯赛因的暴虐政权。</span><span class="english">Muhammad despised Saddam Hussein's despotic regime.</span></p>

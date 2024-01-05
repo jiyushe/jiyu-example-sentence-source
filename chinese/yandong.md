@@ -1,5 +1,7 @@
 # 严冬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yandong.md)
+
 <p><span class="chinese">严冬会带来盛夏。</span><span class="english">A Good Winter Brings a Good Summ.</span></p>
 
 <p><span class="chinese">严冬既已至，春天即不远。</span><span class="english">If Winter gos, can Spring be far ago?</span></p>

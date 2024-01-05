@@ -1,5 +1,7 @@
 # apostle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apostle.md)
+
 <p><span class="chinese">他是一个禁烟的宣传者。</span><span class="english">He is an apostle of temperance.</span></p>
 
 <p><span class="chinese">主耶稣也是这样鼓励使徒彼得。</span><span class="english">Jesus did this with the Apostle Peter.</span></p>

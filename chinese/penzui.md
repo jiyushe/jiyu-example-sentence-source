@@ -1,5 +1,7 @@
 # 喷嘴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/penzui.md)
+
 <p><span class="chinese">“壶口”在中文里的意思是水壶的喷嘴。</span><span class="english">Hukou means "kettle spout" in Chinese.</span></p>
 
 <p><span class="chinese">拉出侧脚坑出口喷嘴。</span><span class="english">Pull out side footwell outlet nozzles.</span></p>

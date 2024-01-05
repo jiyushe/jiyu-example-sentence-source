@@ -1,5 +1,7 @@
 # 转脸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanlian.md)
+
 <p><span class="chinese">哈利转脸又看了看湖水。</span><span class="english">Harry looked back at the water.</span></p>
 
 <p><span class="chinese">电视上播手术过程时，我只能转脸不看。</span><span class="english">When they show an operation on TV, I have to turn away.</span></p>

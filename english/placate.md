@@ -1,5 +1,7 @@
 # placate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/placate.md)
+
 <p><span class="chinese">他不满地说，“我没法讨得左派的欢心”。</span><span class="english">"I cannot placate the Left, " he grumbles.</span></p>
 
 <p><span class="chinese">新西兰元的下跌也不会令奶农感到欣慰。</span><span class="english">A falling New Zealand dollar may not placate producers.</span></p>

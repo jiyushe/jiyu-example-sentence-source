@@ -1,5 +1,7 @@
 # 中等
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongdeng.md)
+
 <p><span class="chinese">我要中等熟就好了。</span><span class="english">I want medium well.</span></p>
 
 <p><span class="chinese">中等硬度铸铁。</span><span class="english">Smithing cast iron.</span></p>

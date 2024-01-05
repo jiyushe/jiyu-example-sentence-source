@@ -1,5 +1,7 @@
 # epicure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epicure.md)
+
 <p><span class="chinese">这本食谱是由一位真正的美食家写的。</span><span class="english">This cookery book is writes by a real epicure.</span></p>
 
 <p><span class="chinese">名副其实的美食家了。</span><span class="english">He researches diets carefully, and is a true epicure.</span></p>

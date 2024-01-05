@@ -1,5 +1,7 @@
 # 古色古香
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guseguxiang.md)
+
 <p><span class="chinese">古色古香的亭子。</span><span class="english">The old-timey gloriette.</span></p>
 
 <p><span class="chinese">我在一家西塘的小商店里，古色古香。</span><span class="english">I am in a small shop in Xitang.</span></p>

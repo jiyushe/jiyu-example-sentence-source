@@ -1,5 +1,7 @@
 # 违约金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiyuejin.md)
+
 <p><span class="chinese">违约金将是一个更大的数目。</span><span class="english">A default would be an ever bigger damage.</span></p>
 
 <p><span class="chinese">劳动合同违约金的性质如何？</span><span class="english">What is the nature of the liquidated damages?</span></p>

@@ -1,5 +1,7 @@
 # coordinative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coordinative.md)
+
 <p><span class="chinese">“适度不平衡的协调发展”的模式是较好的选择。</span><span class="english">The pattern of " the coordinative development of appropriate disequilibria's " is better option.</span></p>
 
 <p><span class="chinese">第二部分对经济与生态保护协调发展模式进行了理论上的研究。</span><span class="english">In part two, the theory of coordinative development modes of economy and environment was explored.</span></p>

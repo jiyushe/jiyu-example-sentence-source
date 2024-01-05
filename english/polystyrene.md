@@ -1,5 +1,7 @@
 # polystyrene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polystyrene.md)
+
 <p><span class="chinese">目前，保温材料用的聚苯板。</span><span class="english">At present, thermal insulation material used is polystyrene board.</span></p>
 
 <p><span class="chinese">一名妇女骑着一辆载满塑料泡沫箱的三轮车。</span><span class="english">A woman rides a tricycle loaded up with many polystyrene foam boxes.</span></p>

@@ -1,5 +1,7 @@
 # 阴雨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinyu_3.md)
+
 <p><span class="chinese">乡村客栈一个阴雨的星期天!</span><span class="english">A wet Sunday in a country inn!</span></p>
 
 <p><span class="chinese">阴雨天使我心灰意懒。</span><span class="english">Eg. The wet weather depresses me.</span></p>

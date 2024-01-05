@@ -1,5 +1,7 @@
 # waterproof
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waterproof.md)
+
 <p><span class="chinese">我的帐篷是防水的。</span><span class="english">My tent is waterproof.</span></p>
 
 <p><span class="chinese">你的表是防水的吗？</span><span class="english">Is your watch waterproof?</span></p>

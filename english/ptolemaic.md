@@ -1,5 +1,7 @@
 # ptolemaic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ptolemaic.md)
+
 <p><span class="chinese">他扶植了一连串的托勒密领导人，这些人统治埃及长达三百年之久。</span><span class="english">He established a line of Ptolemaic leaders that ruled for three hundred years.</span></p>
 
 <p><span class="chinese">她在罗马人攻陷埃及之后自杀了，这也意味着托勒密在埃及统治的结束。</span><span class="english">Her suicide at the conquest by Rome marked the end of Ptolemaic rule in Egypt.</span></p>

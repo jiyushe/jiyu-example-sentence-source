@@ -1,5 +1,7 @@
 # drove
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drove.md)
+
 <p><span class="chinese">然后我开车走了。</span><span class="english">Then I drove on.</span></p>
 
 <p><span class="chinese">我们的车开进去了。</span><span class="english">Our car drove in.</span></p>

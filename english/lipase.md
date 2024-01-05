@@ -1,5 +1,7 @@
 # lipase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lipase.md)
+
 <p><span class="chinese">脂肪酶仅在碱溶液中才起作用。</span><span class="english">Lipase acts only in an alkaline solution.</span></p>
 
 <p><span class="chinese">脂肪酶仅在碱溶液中才起作用。</span><span class="english">Lipase acts only in an alkaline solution.</span></p>

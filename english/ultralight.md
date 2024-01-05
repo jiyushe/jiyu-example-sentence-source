@@ -1,5 +1,7 @@
 # ultralight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ultralight.md)
+
 <p><span class="chinese">代表所有非动力超轻型飞机。</span><span class="english">Represents all aspects of non-powered ultralight flight.</span></p>
 
 <p><span class="chinese">这意味着应当在相当靠近太阳的空间位置部署一艘超轻型太阳帆飞船。</span><span class="english">That means deploying an ultralight solar sail really close to the sun.</span></p>

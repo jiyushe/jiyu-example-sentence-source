@@ -1,5 +1,7 @@
 # 审定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shending.md)
+
 <p><span class="chinese">您打算在您的银行帐户审定期存放多少钱？</span><span class="english">How much money do you wint placed tO your credit?</span></p>
 
 <p><span class="chinese">负责公司航空产品适航审定事务。</span><span class="english">In charge of aero-products related airworthiness certification affairs.</span></p>

@@ -1,5 +1,7 @@
 # infertile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infertile.md)
+
 <p><span class="chinese">帮你妆点贫瘠的土地。</span><span class="english">To fertilize the infertile land.</span></p>
 
 <p><span class="chinese">我们皮肤就是角质层薄的原因。</span><span class="english">Our skin is infertile cause of cuticle.</span></p>

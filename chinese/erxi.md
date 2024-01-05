@@ -1,5 +1,7 @@
 # 儿媳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/erxi.md)
+
 <p><span class="chinese">另外二位儿媳是会计。</span><span class="english">Other 2 daughter-in-laws are an accountant.</span></p>
 
 <p><span class="chinese">田边与他的第五个儿子和儿媳生活。</span><span class="english">Tanabe lived with his fifth son and daughter-in-law.</span></p>

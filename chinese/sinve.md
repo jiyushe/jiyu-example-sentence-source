@@ -1,5 +1,7 @@
 # 肆虐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sinve.md)
+
 <p><span class="chinese">如今，饥荒再次肆虐这个国家。</span><span class="english">Now famine again stalks the land.</span></p>
 
 <p><span class="chinese">即使这样，衰退正四下肆虐。</span><span class="english">Even so, a recession is under way.</span></p>

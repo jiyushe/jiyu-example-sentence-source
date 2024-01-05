@@ -1,5 +1,7 @@
 # collocate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collocate.md)
+
 <p><span class="chinese">如何配置预应混凝土？</span><span class="english">How to collocate the pre-stressed concrete?</span></p>
 
 <p><span class="chinese">理想情况下，还应该并置频繁合并的表。</span><span class="english">Ideally, you should collocate frequently joined tables.</span></p>

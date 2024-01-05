@@ -1,5 +1,7 @@
 # barrister
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barrister.md)
+
 <p><span class="chinese">“她真是个火爆性子，”大律师心中想道。</span><span class="english">"What a spit-fire she is, " thought the barrister.</span></p>
 
 <p><span class="chinese">我的目的是学习法律，以后回去当一个律师。</span><span class="english">The idea was that I should study Law and come back a barrister.</span></p>

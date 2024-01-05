@@ -1,5 +1,7 @@
 # margin 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/margin.md)
+
 <p><span class="chinese">沿着湖湾的边沿。</span><span class="english">Along the margin of a bay.</span></p>
 
 <p><span class="chinese">缩少字型和页边空白处。</span><span class="english">Reduce font size and margin.</span></p>

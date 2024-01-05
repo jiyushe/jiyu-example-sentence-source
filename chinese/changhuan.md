@@ -1,5 +1,7 @@
 # 偿还
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/changhuan.md)
+
 <p><span class="chinese">你有一笔债务要偿还。</span><span class="english">You have a debt to pay.</span></p>
 
 <p><span class="chinese">他在十字架上已经为你偿还。</span><span class="english">He paid for it on the cross.</span></p>

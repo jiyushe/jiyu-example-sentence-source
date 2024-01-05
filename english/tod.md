@@ -1,5 +1,7 @@
 # tod
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tod.md)
+
 <p><span class="chinese">现在，托托不伤心了。</span><span class="english">Tod is not sad now.</span></p>
 
 <p><span class="chinese">死亡大约如是？</span><span class="english">Is dies etwa der Tod?</span></p>

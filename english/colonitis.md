@@ -1,5 +1,7 @@
 # colonitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colonitis.md)
+
 <p><span class="chinese">结肠炎有哪些症状？</span><span class="english">What symptom does colonitis have?</span></p>
 
 <p><span class="chinese">结肠炎可以喝羊奶吗？</span><span class="english">Can colonitis drink a sheep to suckle?</span></p>

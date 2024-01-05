@@ -1,5 +1,7 @@
 # chasten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chasten.md)
+
 <p><span class="chinese">再次，出台明确的惩戒标准。</span><span class="english">Again, publish specific chasten standard.</span></p>
 
 <p><span class="chinese">然后让神来象对儿女一样洁净你，管教你。</span><span class="english">And then having Him chasten and correct you as His child.</span></p>

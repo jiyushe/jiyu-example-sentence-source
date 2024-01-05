@@ -1,5 +1,7 @@
 # 凌空
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingkong.md)
+
 <p><span class="chinese">或者凌空飞起，将这一切慢慢地转动</span><span class="english">Or fly up, and revolve it all slowly</span></p>
 
 <p><span class="chinese">壁架凌空伸出几英尺。</span><span class="english">The ledge overhangs by several feet.</span></p>

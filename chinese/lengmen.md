@@ -1,5 +1,7 @@
 # 冷门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lengmen.md)
+
 <p><span class="chinese">获胜的马是一匹完全不起眼儿的冷门马。</span><span class="english">The winning horse was a rank outsider.</span></p>
 
 <p><span class="chinese">哈，我可是年年失望年年盼，真希望爆出个大冷门！</span><span class="english">I really hoped to see a great surprise.</span></p>

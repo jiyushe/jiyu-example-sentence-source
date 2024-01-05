@@ -1,5 +1,7 @@
 # venerate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/venerate.md)
+
 <p><span class="chinese">我为什么要恭顺守礼呢？</span><span class="english">Why should I venerate and be ceremonious?</span></p>
 
 <p><span class="chinese">青年人啊，热爱理想吧，崇敬理想吧。</span><span class="english">And love, young men, and venerate the ideal.</span></p>

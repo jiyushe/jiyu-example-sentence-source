@@ -1,5 +1,7 @@
 # axil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/axil.md)
+
 <p><span class="chinese">叶在茎上的着生处称为叶腋。</span><span class="english">Axil the upper angle between leaf and stem.</span></p>
 
 <p><span class="chinese">雄花在幼嫩小枝的下部的叶腋里。</span><span class="english">Male flowers are in proximal leaf axil of young branchlets.</span></p>

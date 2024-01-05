@@ -1,5 +1,7 @@
 # promising
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/promising.md)
+
 <p><span class="chinese">姜黄素，也非常有前途。</span><span class="english">Curcumin is also very promising.</span></p>
 
 <p><span class="chinese">认为是优良芽变新株系。</span><span class="english">It seems to be a new promising strain.</span></p>

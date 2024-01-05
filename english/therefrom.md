@@ -1,5 +1,7 @@
 # therefrom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/therefrom.md)
+
 <p><span class="chinese">他打开提袋从里面拿出一个苹果。</span><span class="english">He opened his bag and took therefrom an apple.</span></p>
 
 <p><span class="chinese">我相信从那里将会产生很大利润。</span><span class="english">I believe that big profits will result therefrom.</span></p>

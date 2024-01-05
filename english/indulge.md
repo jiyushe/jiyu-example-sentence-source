@@ -1,5 +1,7 @@
 # indulge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indulge.md)
+
 <p><span class="chinese">沉浸在音乐的美妙里吧。</span><span class="english">Indulge in the joys of music.</span></p>
 
 <p><span class="chinese">喜欢被宠幸，容易沉迷甜言蜜语。</span><span class="english">Easy to indulge in sweet talk.</span></p>

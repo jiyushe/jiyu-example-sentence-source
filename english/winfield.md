@@ -1,5 +1,7 @@
 # winfield
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/winfield.md)
+
 <p><span class="chinese">温菲尔德·斯科特将军被派去攻占墨西哥城。</span><span class="english">General Winfield Scott was sent to capture Mexico City.</span></p>
 
 <p><span class="chinese">林肯要求他在温菲尔德.斯科特将军退休后担任美国陆军最高指挥官。</span><span class="english">Lincoln asked him to be head of the army when General Winfield Scott retired.</span></p>

@@ -1,5 +1,7 @@
 # prescript
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prescript.md)
+
 <p><span class="chinese">陕西省根据这一规定，开始构建全省治超工作长效机制。</span><span class="english">Shan'xi started to design the permanent mechanism according to the above prescript in 2008.</span></p>
 
 <p><span class="chinese">实践理性出于自身的规定性而要求实现自己。</span><span class="english">Proceed from the prescript of practical reason, it demand that this reason should realize itself.</span></p>

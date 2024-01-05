@@ -1,5 +1,7 @@
 # nephogram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nephogram.md)
+
 <p><span class="chinese">基于卫星云图的聚类分析。</span><span class="english">The clustering analysis of satellite nephogram.</span></p>
 
 <p><span class="chinese">在后处理中，有限元计算结果可以通过彩色云图和等值线两种方法表达。</span><span class="english">In the post-processing, the computed results can be expressed by the isograms and color nephogram.</span></p>

@@ -1,5 +1,7 @@
 # myopic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/myopic.md)
+
 <p><span class="chinese">你是精明还是“糊涂虫”？</span><span class="english">Are You Sophisticated or Myopic?</span></p>
 
 <p><span class="chinese">沙眼能做近视手术吗?。</span><span class="english">Can trachoma become myopic operation?</span></p>

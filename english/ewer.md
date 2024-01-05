@@ -1,5 +1,7 @@
 # ewer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ewer.md)
+
 <p><span class="chinese">她将水罐注满了清水。</span><span class="english">She filled the ewer with fresh water.</span></p>
 
 <p><span class="chinese">茶壶在非常优良条件与被恢复的喷口。</span><span class="english">Ewer isin very good condition with spout restored.</span></p>

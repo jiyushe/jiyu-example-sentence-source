@@ -1,5 +1,7 @@
 # bloodlust
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bloodlust.md)
+
 <p><span class="chinese">你可以将机械部队缓慢下来，但是你不可以将他放逐。</span><span class="english">You can slow a mechanical unit , but you cannot bloodlust.</span></p>
 
 <p><span class="chinese">冰脉的施法加速效果不再和嗜血叠加。</span><span class="english">Icy Veins spell haste bonus no longer stacks with Bloodlust.</span></p>

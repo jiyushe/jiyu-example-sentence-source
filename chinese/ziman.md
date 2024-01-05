@@ -1,5 +1,7 @@
 # 自满
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziman.md)
+
 <p><span class="chinese">若有自满心，就是愚痴。</span><span class="english">Being complacent is stupid.</span></p>
 
 <p><span class="chinese">我认为自满，就是心之凶德。</span><span class="english">I argue that it is complacence.</span></p>

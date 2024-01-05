@@ -1,5 +1,7 @@
 # 温差
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wencha.md)
+
 <p><span class="chinese">冬季温差大、干燥，夏季潮湿多雨。</span><span class="english">Winter temperature, dry, wet and humid summer.</span></p>
 
 <p><span class="chinese">风是由空气的温差引起的。</span><span class="english">Wind is caused by differences in the temperature of air.</span></p>

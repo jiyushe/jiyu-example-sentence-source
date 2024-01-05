@@ -1,5 +1,7 @@
 # nonparametric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonparametric.md)
+
 <p><span class="chinese">最简单的非参数检验是符号检验。</span><span class="english">One of the easiest nonparametric tests to use is the sign test.</span></p>
 
 <p><span class="chinese">方法主要应用秩和比法并结合参数和非参数检验。</span><span class="english">Methods Mainly used RSR combining parameter test with nonparametric test.</span></p>

@@ -1,5 +1,7 @@
 # irremediable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irremediable.md)
+
 <p><span class="chinese">但是英军的困惫看来是无可救药的。</span><span class="english">But the weakening of the English seemed irremediable.</span></p>
 
 <p><span class="chinese">自此喜欢上了网络并一发不可收拾。</span><span class="english">Liked to go up from this the network sends irremediable.</span></p>

@@ -1,5 +1,7 @@
 # collaborator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collaborator.md)
+
 <p><span class="chinese">让一位合作者站在出口处。</span><span class="english">Have a collaborator stand at the exit.</span></p>
 
 <p><span class="chinese">相反的，薛博士是一名很差劲合作者。</span><span class="english">On the contrary, Dr. Xue was a very weak collaborator.</span></p>

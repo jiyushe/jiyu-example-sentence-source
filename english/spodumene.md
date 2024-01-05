@@ -1,5 +1,7 @@
 # spodumene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spodumene.md)
+
 <p><span class="chinese">一种透明的绿色锂辉石，用作宝石。</span><span class="english">a green transparent form of the mineral spodumene used as a gemstone.</span></p>
 
 <p><span class="chinese">工业有用矿物主要为钽铌铁矿、锂辉石、绿柱石等。</span><span class="english">Nb-Ta-Fe ore, spodumene and aquamarine are useful industrial minerals.</span></p>

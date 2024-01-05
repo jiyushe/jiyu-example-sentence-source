@@ -1,5 +1,7 @@
 # dopant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dopant.md)
+
 <p><span class="chinese">采用大体积的掺杂离子能增加保护时间。</span><span class="english">Large size dopant could prolong the protection time of the coating.</span></p>
 
 <p><span class="chinese">所注入的掺杂剂在硅层中具有第一掺杂剂分布。</span><span class="english">The implanted dopant has a first dopant profile in the silicon layer.</span></p>

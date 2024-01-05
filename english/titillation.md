@@ -1,5 +1,7 @@
 # titillation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/titillation.md)
+
 <p><span class="chinese">我希望你是随便开玩笑的意思。</span><span class="english">I hope you're lying for the sake of titillation.</span></p>
 
 <p><span class="chinese">那个电视节目只会哗众取宠，没有任何内容可言。</span><span class="english">That TV show is nothing but titillation . It's got no substance.</span></p>

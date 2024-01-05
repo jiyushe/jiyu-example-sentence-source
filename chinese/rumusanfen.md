@@ -1,5 +1,7 @@
 # 入木三分
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rumusanfen.md)
+
 <p><span class="chinese">他的分析真是入木三分。</span><span class="english">His analysis was really penetrating.</span></p>
 
 <p><span class="chinese">老王的分析真是入木三分。</span><span class="english">Lao Wang's analysis was really penetrating.</span></p>

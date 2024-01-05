@@ -1,5 +1,7 @@
 # subliminal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subliminal.md)
+
 <p><span class="chinese">哎吆！那是个潜意识的暗示吗？不！</span><span class="english">WHOOPS ! Is that a subliminal hint? NO!</span></p>
 
 <p><span class="chinese">阈下死亡意念的促发是这样进行的。</span><span class="english">The idea of subliminal death primes is this.</span></p>

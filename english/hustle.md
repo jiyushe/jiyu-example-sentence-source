@@ -1,5 +1,7 @@
 # hustle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hustle.md)
+
 <p><span class="chinese">没有设备，只是忙碌和流汗。</span><span class="english">No equipment, just hustle and sweat.</span></p>
 
 <p><span class="chinese">赶紧给老子上药？</span><span class="english">Hustle forward a medicine to Lao Tze?</span></p>

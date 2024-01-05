@@ -1,5 +1,7 @@
 # 标准时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaozhunshi.md)
+
 <p><span class="chinese">当函数不满足这些标准时就会出现问题。</span><span class="english">The issues come in when the functions don't meet these criteria.</span></p>
 
 <p><span class="chinese">在选择标准时，要记住考虑组织所在的行业。</span><span class="english">When choosing standards, remember to consider the organization's industry.</span></p>

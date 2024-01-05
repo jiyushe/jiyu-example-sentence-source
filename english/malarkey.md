@@ -1,5 +1,7 @@
 # malarkey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malarkey.md)
+
 <p><span class="chinese">你们大多数的教育是说大话。</span><span class="english">Most of what you are taught is malarkey.</span></p>
 
 <p><span class="chinese">你觉得会有人愿意听你那些假大空的话吗？</span><span class="english">Do you think anyone is willing to listen to that malarkey?</span></p>

@@ -1,5 +1,7 @@
 # basis 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/basis.md)
+
 <p><span class="chinese">所收到的基准。</span><span class="english">ARB As Received Basis.</span></p>
 
 <p><span class="chinese">现在，设计基础事故。</span><span class="english">Now, design basis accidents.</span></p>

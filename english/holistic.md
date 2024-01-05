@@ -1,5 +1,7 @@
 # holistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/holistic.md)
+
 <p><span class="chinese">什么是整体医疗？</span><span class="english">What Is Holistic Medicine?</span></p>
 
 <p><span class="chinese">那是一种整体性的药物。</span><span class="english">It's a type of holistic medicine.</span></p>

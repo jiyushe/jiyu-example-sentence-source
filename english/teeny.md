@@ -1,5 +1,7 @@
 # teeny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teeny.md)
+
 <p><span class="chinese">哦，我忘记告诉你一件细小的事情了。</span><span class="english">Oops, I forgot to mention one teeny wittle item.</span></p>
 
 <p><span class="chinese">事实上，这对中石油来说是一笔很小的交易。</span><span class="english">In fact this is a teeny tiny deal for Petrochina.</span></p>

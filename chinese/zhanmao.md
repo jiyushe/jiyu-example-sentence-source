@@ -1,5 +1,7 @@
 # 毡帽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanmao.md)
+
 <p><span class="chinese">他把毡帽打了个草样。</span><span class="english">He blocked out the felt hat.</span></p>
 
 <p><span class="chinese">有一个灵活的宽边的软毡帽。</span><span class="english">A soft felt hat with a wide flexible brim.</span></p>

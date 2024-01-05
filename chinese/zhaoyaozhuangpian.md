@@ -1,5 +1,7 @@
 # 招摇撞骗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoyaozhuangpian.md)
+
 <p><span class="chinese">他是伟大的招摇撞骗。</span><span class="english">He is the great trickster.</span></p>
 
 <p><span class="chinese">他经常假借公司的名义来招摇撞骗。</span><span class="english">AND swindled under the guise of the company's name.</span></p>

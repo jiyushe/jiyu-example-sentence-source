@@ -1,5 +1,7 @@
 # 山盟海誓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanmenghaishi.md)
+
 <p><span class="chinese">所有的山盟海誓。</span><span class="english">All the solemn pledges of love.</span></p>
 
 <p><span class="chinese">一切山盟海誓都不能完全相信。</span><span class="english">Any oath Can NOT be totally trusted.</span></p>

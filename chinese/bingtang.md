@@ -1,5 +1,7 @@
 # 冰糖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingtang.md)
+
 <p><span class="chinese">不到大大的冰糖山来？</span><span class="english">To that big rock candy mountain?</span></p>
 
 <p><span class="chinese">水，冰糖，雪蛤，琼脂。</span><span class="english">Aqua, Hashima, Sucrosum, Agar Agar.</span></p>

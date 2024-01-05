@@ -1,5 +1,7 @@
 # 整改
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenggai.md)
+
 <p><span class="chinese">并且采取相应的整改措施。</span><span class="english">Corresponding measures are then taken to tackle the problem.</span></p>
 
 <p><span class="chinese">供应商新格已将整改措施及证据回传给过来。</span><span class="english">Supplier Xinge has sent its corrective measures and proofs back.</span></p>

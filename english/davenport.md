@@ -1,5 +1,7 @@
 # davenport
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/davenport.md)
+
 <p><span class="chinese">达文波特说。</span><span class="english">“Bloody hell!” said Davenport.</span></p>
 
 <p><span class="chinese">加根由克莱尔·达文波特扮演。</span><span class="english">Gargan was played by Claire Davenport.</span></p>

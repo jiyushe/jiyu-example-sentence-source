@@ -1,5 +1,7 @@
 # fossa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fossa.md)
+
 <p><span class="chinese">颞下窝咽旁间隙区。</span><span class="english">Infratemporal Fossa and Paraphyrngeal Space.</span></p>
 
 <p><span class="chinese">踝状突位于核后端的植入窝中。</span><span class="english">The capitulum is inside the implantation fossa.</span></p>

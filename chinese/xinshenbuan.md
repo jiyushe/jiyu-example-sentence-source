@@ -1,5 +1,7 @@
 # 心神不安
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinshenbuan.md)
+
 <p><span class="chinese">我今天心神不安。</span><span class="english">I’m not myself today.</span></p>
 
 <p><span class="chinese">对于这坏消息，我感到心神不安。</span><span class="english">I was disturbed about the bad news.</span></p>

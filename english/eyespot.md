@@ -1,5 +1,7 @@
 # eyespot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eyespot.md)
+
 <p><span class="chinese">那片棕色让它的眼睛看起来十分大。</span><span class="english">That big brown makes his eyespot very big.</span></p>
 
 <p><span class="chinese">在线使用eyespot混合器来编辑并整和你的录象，音乐和图片。</span><span class="english">Use the eyespot Mixer to edit and combine your videos, music and photos online!</span></p>

@@ -1,5 +1,7 @@
 # zeaxanthin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zeaxanthin.md)
+
 <p><span class="chinese">玉米黄质为黄橘色色素。</span><span class="english">Zeaxanthin is the orange-yellow pigment.</span></p>
 
 <p><span class="chinese">黄体素、玉米黄质可预防老年性黄斑病的发生。</span><span class="english">Lutein, zeaxanthin can prevent age-related macular disease.</span></p>

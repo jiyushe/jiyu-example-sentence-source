@@ -1,5 +1,7 @@
 # cutback
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cutback.md)
+
 <p><span class="chinese">您可以减少这种变性过程照顾你的骨头在年轻的日子。</span><span class="english">You can cutback this degeneration process by taking care of your bones in youthful days.</span></p>
 
 <p><span class="chinese">为使从每个削减面开始最小长度都是100毫米，应通过喷砂处理的方式对聚乙烯材料的表面进行粗糙化。</span><span class="english">The polyethylene surface shall be roughened by abrasive blast cleaning for a minimum length of 100mm from each cutback area.</span></p>

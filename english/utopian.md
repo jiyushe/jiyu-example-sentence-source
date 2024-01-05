@@ -1,5 +1,7 @@
 # utopian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/utopian.md)
+
 <p><span class="chinese">这有许多简直是乌托帮的空想。</span><span class="english">Much of it is simply Utopian fiction.</span></p>
 
 <p><span class="chinese">但这仅是孟京辉的一个乌托邦似的理想。</span><span class="english">But this is Meng Jinghui's utopian ideal.</span></p>

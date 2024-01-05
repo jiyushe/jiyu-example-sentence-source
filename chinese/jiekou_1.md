@@ -1,5 +1,7 @@
 # 接口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiekou_1.md)
+
 <p><span class="chinese">什么，没有接口？</span><span class="english">What, no interfaces?</span></p>
 
 <p><span class="chinese">带外接警号接口。</span><span class="english">No. band Alarm interface.</span></p>

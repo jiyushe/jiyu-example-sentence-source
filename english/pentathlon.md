@@ -1,5 +1,7 @@
 # pentathlon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pentathlon.md)
+
 <p><span class="chinese">你知道五项全能比赛包括哪五个项目吗？</span><span class="english">Do you know which five items pentathlon included?</span></p>
 
 <p><span class="chinese">现代五项在1912年被列为奥运会项目。</span><span class="english">Modern pentathlon became an Olympic event in 1912.</span></p>

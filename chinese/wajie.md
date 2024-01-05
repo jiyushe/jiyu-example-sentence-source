@@ -1,5 +1,7 @@
 # 瓦解
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wajie.md)
+
 <p><span class="chinese">敌人的战线已经瓦解了。</span><span class="english">The enemy front has crumbled.</span></p>
 
 <p><span class="chinese">冰山和冰川在瓦解。</span><span class="english">The icebergs and glaciers calve.</span></p>

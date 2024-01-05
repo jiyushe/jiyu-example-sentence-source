@@ -1,5 +1,7 @@
 # dodgy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dodgy.md)
+
 <p><span class="chinese">希腊的会计记录并不不可靠。</span><span class="english">It has a record of dodgy accounting.</span></p>
 
 <p><span class="chinese">他是个诡计多端家伙，我一点都不相信他。</span><span class="english">He's a dodgy bloke, I wouldn't trust him an inch.</span></p>

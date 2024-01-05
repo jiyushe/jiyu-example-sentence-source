@@ -1,5 +1,7 @@
 # 震惊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenjing_2.md)
+
 <p><span class="chinese">我彻底震惊了。</span><span class="english">I was in shock.</span></p>
 
 <p><span class="chinese">我们很震惊。</span><span class="english">We were both shocked.</span></p>

@@ -1,5 +1,7 @@
 # perdue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perdue.md)
+
 <p><span class="chinese">高总与珀杜州长还就其他共同关心的问题交换了看法。</span><span class="english">Consul General Gao and Governor Perdue also exchanged views on issues of common concern.</span></p>
 
 <p><span class="chinese">乔治亚州州长桑尼·普度也正在访问其第二大贸易伙伴-中国。</span><span class="english">Governor Sonny Perdue of Georgia was also visiting China, its second-largest trading partner.</span></p>

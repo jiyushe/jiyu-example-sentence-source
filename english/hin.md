@@ -1,5 +1,7 @@
 # hin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hin.md)
+
 <p><span class="chinese">抑或她就是欣桐自己？</span><span class="english">Or she is at my hin?</span></p>
 
 <p><span class="chinese">我们是翰轩棋社的受害人。</span><span class="english">We are the victims of John Hin Qishe.</span></p>

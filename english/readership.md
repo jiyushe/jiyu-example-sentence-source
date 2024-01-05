@@ -1,5 +1,7 @@
 # readership
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/readership.md)
+
 <p><span class="chinese">他们喜欢我自己就是读者群中的一员。</span><span class="english">They like that I am my readership.</span></p>
 
 <p><span class="chinese">这是读者们的原始模型吗？</span><span class="english">Is that the primary model of readership?</span></p>

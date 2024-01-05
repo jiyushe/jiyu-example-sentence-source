@@ -1,5 +1,7 @@
 # 蒸笼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenglong.md)
+
 <p><span class="chinese">我的房间像蒸笼一样。我只有赤裸着。</span><span class="english">My house is so baking that I am naked.</span></p>
 
 <p><span class="chinese">蒸笼很便宜，最多几美元。</span><span class="english">They're cheap, a few bucks at the most.</span></p>

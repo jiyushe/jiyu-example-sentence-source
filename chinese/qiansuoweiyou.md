@@ -1,5 +1,7 @@
 # 前所未有
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiansuoweiyou.md)
+
 <p><span class="chinese">我们现在站在商业变革之路上前所未有的十字路口处。</span><span class="english">We are not yet at such a crossroads.</span></p>
 
 <p><span class="chinese">这个成长率是前所未有的。</span><span class="english">The rate of growth was unprecedented.</span></p>

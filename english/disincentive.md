@@ -1,5 +1,7 @@
 # disincentive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disincentive.md)
+
 <p><span class="chinese">再加上一些超级大盘低价入市的策略，也会对房价有抑制作用。</span><span class="english">Plus some super-market sales strategy, but also a disincentive for housing.</span></p>
 
 <p><span class="chinese">廉价的HFC-23额度妨碍了对于低碳发电厂的投资。</span><span class="english">Cheap HFC-23 credits are a disincentive to investing in low-carbon electricity plants.</span></p>

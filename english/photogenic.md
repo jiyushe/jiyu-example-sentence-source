@@ -1,5 +1,7 @@
 # photogenic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photogenic.md)
+
 <p><span class="chinese">你非常上相。</span><span class="english">You are very photogenic.</span></p>
 
 <p><span class="chinese">这个风景很上镜头。</span><span class="english">This landscape is photogenic.</span></p>

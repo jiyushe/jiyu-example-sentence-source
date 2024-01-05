@@ -1,5 +1,7 @@
 # clumsy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clumsy.md)
+
 <p><span class="chinese">他不善于玩板球。</span><span class="english">He is clumsy at cricket.</span></p>
 
 <p><span class="chinese">他的一双手很笨。</span><span class="english">He is clumsy with his hands.</span></p>

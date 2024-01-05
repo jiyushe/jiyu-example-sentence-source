@@ -1,5 +1,7 @@
 # nope 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nope.md)
+
 <p><span class="chinese">不，错了。</span><span class="english">Um nope. Wrong.</span></p>
 
 <p><span class="chinese">你是他儿子？</span><span class="english">You're his son?- Nope.</span></p>

@@ -1,5 +1,7 @@
 # reader
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reader.md)
+
 <p><span class="chinese">SD读卡器。</span><span class="english">SD card reader.</span></p>
 
 <p><span class="chinese">你可以是强者！你可以成为强大的读者。</span><span class="english">You can be the strong reader.</span></p>

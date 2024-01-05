@@ -1,5 +1,7 @@
 # 缤纷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/binfen.md)
+
 <p><span class="chinese">缤纷的爬满了山坡。</span><span class="english">caper along the hill.</span></p>
 
 <p><span class="chinese">缤纷的色彩与自然之美围绕着你。</span><span class="english">Color and beauty surround you.</span></p>

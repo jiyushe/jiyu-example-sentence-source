@@ -1,5 +1,7 @@
 # 试题
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiti_4.md)
+
 <p><span class="chinese">用这些试题去考考你的熟人吧。</span><span class="english">Try these tests on your acquaintances.</span></p>
 
 <p><span class="chinese">这些试题真令我困惑。</span><span class="english">These test questions really buffaloed me.</span></p>

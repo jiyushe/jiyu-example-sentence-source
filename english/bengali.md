@@ -1,5 +1,7 @@
 # bengali
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bengali.md)
+
 <p><span class="chinese">向新科冠军本·贾利·达阿尔布雷致敬。</span><span class="english">Hail to the new champion Bengali D'Albret.</span></p>
 
 <p><span class="chinese">这个地区由孟加拉人控制。</span><span class="english">The region is dominated by the Bengali people.</span></p>

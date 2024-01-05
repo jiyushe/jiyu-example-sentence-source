@@ -1,5 +1,7 @@
 # parole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parole.md)
+
 <p><span class="chinese">你的假释官是谁？</span><span class="english">Who's your parole officer?</span></p>
 
 <p><span class="chinese">你知道他还在假释期间吗？</span><span class="english">Do you know that he was on parole?</span></p>

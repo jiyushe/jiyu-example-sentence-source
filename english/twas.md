@@ -1,5 +1,7 @@
 # twas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/twas.md)
+
 <p><span class="chinese">TWAS奖还帮助科学家构建网络。</span><span class="english">TWAS awards and fellowships also help scientists to network.</span></p>
 
 <p><span class="chinese">特瓦圣诞前的一天晚上，整橦房子充满了节日气氛。</span><span class="english">Twas the night before Christmas, When all through the house.</span></p>

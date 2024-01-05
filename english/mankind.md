@@ -1,5 +1,7 @@
 # mankind
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mankind.md)
+
 <p><span class="chinese">人类靠食物生活。</span><span class="english">Mankind exists on food.</span></p>
 
 <p><span class="chinese">我要奴役全人类！</span><span class="english">I will enslave all mankind.</span></p>

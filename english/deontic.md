@@ -1,5 +1,7 @@
 # deontic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deontic.md)
+
 <p><span class="chinese">我们队道义逻辑知之甚少。</span><span class="english">We know very little of deontic logic.</span></p>
 
 <p><span class="chinese">道义逻辑，这是个前沿问题。</span><span class="english">Deontic logic, now this is cutting edge stuff.</span></p>

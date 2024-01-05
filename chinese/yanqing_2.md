@@ -1,5 +1,7 @@
 # 艳情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanqing_2.md)
+
 <p><span class="chinese">凯特和艾丽丝工作艳情呼叫中心。</span><span class="english">Kate and Alice work at the Erotic Call Center.</span></p>
 
 <p><span class="chinese">但是，长期以来彭孙遹被人们定位为“艳情专家”，其作品也没有得到充分的研究。</span><span class="english">However, he has long been labelled as "an adept at pornography", and his works were not treated properly.</span></p>

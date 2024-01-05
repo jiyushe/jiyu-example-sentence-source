@@ -1,5 +1,7 @@
 # liturgy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liturgy.md)
+
 <p><span class="chinese">一名牧师照着祈祷书念祷文。</span><span class="english">A clergyman read the liturgy from the prayer-book.</span></p>
 
 <p><span class="chinese">因此有些教会鼓励敬拜者在礼仪中跪下，以示尊敬。</span><span class="english">Thus some churches encourage worshipers to kneel as part of the liturgy.</span></p>

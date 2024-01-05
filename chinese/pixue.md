@@ -1,5 +1,7 @@
 # 皮靴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pixue.md)
+
 <p><span class="chinese">擦鞋匠擦亮你的皮靴。</span><span class="english">The bootblack shines your boots.</span></p>
 
 <p><span class="chinese">这有义大利制造的皮靴吗？</span><span class="english">Do you have Italian leather boots?</span></p>

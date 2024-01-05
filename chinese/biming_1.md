@@ -1,5 +1,7 @@
 # 笔名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biming_1.md)
+
 <p><span class="chinese">我没有笔名。</span><span class="english">I have no pen name.</span></p>
 
 <p><span class="chinese">他的笔名叫狮子。</span><span class="english">His penname was Lion.</span></p>

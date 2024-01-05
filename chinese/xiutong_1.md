@@ -1,5 +1,7 @@
 # 袖筒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiutong_1.md)
+
 <p><span class="chinese">通过拖动添加袖筒长度可变的手。</span><span class="english">Drag to add a hand with variable length sleeve.</span></p>
 
 <p><span class="chinese">我这个人你也知道，说话向来是“袖筒里的棒槌——直出直入！”</span><span class="english">You know me – I speak frankly and to the point.</span></p>

@@ -1,5 +1,7 @@
 # plumage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plumage.md)
+
 <p><span class="chinese">小鸟已经长的羽毛丰满了。</span><span class="english">The baby bird has already grown its full plumage.</span></p>
 
 <p><span class="chinese">它们明艳的羽毛和优美的叫声给我们视听上的享受。</span><span class="english">Their bright plumage and beautiful songs delight us.</span></p>

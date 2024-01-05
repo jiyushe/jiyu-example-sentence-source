@@ -1,5 +1,7 @@
 # league 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/league.md)
+
 <p><span class="chinese">我们是共青团员。</span><span class="english">We are League mem'bers.</span></p>
 
 <p><span class="chinese">这是个后卫的联盟。</span><span class="english">This is a guard's league.</span></p>

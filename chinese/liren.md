@@ -1,5 +1,7 @@
 # 丽人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liren.md)
+
 <p><span class="chinese">据说，她是一名城市丽人冠军。</span><span class="english">It was said she was a City Beauty champion.</span></p>
 
 <p><span class="chinese">李昂为丽人挑了一件红色洋装连衣裙。</span><span class="english">Leon for beauty picked out a red dress dress.</span></p>

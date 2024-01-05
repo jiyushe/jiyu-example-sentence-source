@@ -1,5 +1,7 @@
 # glial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glial.md)
+
 <p><span class="chinese">讨论神经和神经胶质细胞通常的类型。</span><span class="english">Discuss the common types of nerve and glial cells.</span></p>
 
 <p><span class="chinese">猪蹄部的生物胶质才会消融在汤里。</span><span class="english">Department of Biological glial trotters will melt in the soup.</span></p>

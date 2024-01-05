@@ -1,5 +1,7 @@
 # overseer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overseer.md)
+
 <p><span class="chinese">为什么初入教的不可做监督?。</span><span class="english">Q. 3 Why recent convert is not suitable to be overseer?</span></p>
 
 <p><span class="chinese">杀死口水监督员在业亏损不再结果。</span><span class="english">Killing the slaver overseer no longer results in karma loss.</span></p>

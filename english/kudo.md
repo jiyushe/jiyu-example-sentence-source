@@ -1,5 +1,7 @@
 # kudo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kudo.md)
+
 <p><span class="chinese">大家都很怀念工藤老师和仲村老师。</span><span class="english">We all miss teacher Kudo and teacher SIN.</span></p>
 
 <p><span class="chinese">从工藤到江户川，新一开始达到他生活的顶峰。</span><span class="english">From Kudo to Edogawa, Shinichi is reaching the top of his life.</span></p>

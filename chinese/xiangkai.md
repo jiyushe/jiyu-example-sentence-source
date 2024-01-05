@@ -1,5 +1,7 @@
 # 想开
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangkai.md)
+
 <p><span class="chinese">想开个诊所？</span><span class="english">Want to start a health clinic?</span></p>
 
 <p><span class="chinese">我现在想开一个私人支票账户。</span><span class="english">We can not handle post-dated checks at the moment.</span></p>

@@ -1,5 +1,7 @@
 # 自由
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziyou.md)
+
 <p><span class="chinese">而你是自由的。</span><span class="english">But you are free.</span></p>
 
 <p><span class="chinese">我有我的自由！</span><span class="english">I had my freedom!</span></p>

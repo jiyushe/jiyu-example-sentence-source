@@ -1,5 +1,7 @@
 # 干将
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganjiang_1.md)
+
 <p><span class="chinese">安来到我们队给我们增加了一员干将。</span><span class="english">Ann will be a very useful addition to our team.</span></p>
 
 <p><span class="chinese">于是银行决定在办公室保留一批“得力干将”。</span><span class="english">So banks chose to keep a skeleton staff in the office instead.</span></p>

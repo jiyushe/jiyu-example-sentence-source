@@ -1,5 +1,7 @@
 # 验尸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanshi_5.md)
+
 <p><span class="chinese">他们得到充足的时间来开棺验尸。</span><span class="english">He wanted to get enough time to exhume the body.</span></p>
 
 <p><span class="chinese">验尸判定她死于水中毒。</span><span class="english">A postmortem found she had died of water intoxication.</span></p>

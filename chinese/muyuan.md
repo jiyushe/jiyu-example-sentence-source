@@ -1,5 +1,7 @@
 # 墓园
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muyuan.md)
+
 <p><span class="chinese">一个在墓园里的小丑。</span><span class="english">A clown in a cemetery.</span></p>
 
 <p><span class="chinese">济慈被埋葬于罗马的一处古墓园。</span><span class="english">Keats sleeps in an old cemetery in Rome.</span></p>

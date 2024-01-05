@@ -1,5 +1,7 @@
 # banana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/banana.md)
+
 <p><span class="chinese">香蕉、坚果。</span><span class="english">Banana nut.</span></p>
 
 <p><span class="chinese">那是一棵香蕉树。</span><span class="english">It's a banana tree.</span></p>

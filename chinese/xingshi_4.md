@@ -1,5 +1,7 @@
 # 形势
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingshi_4.md)
+
 <p><span class="chinese">事实上，LBS已经取得了大好形势。</span><span class="english">In fact, it already is.</span></p>
 
 <p><span class="chinese">形势逼人。</span><span class="english">The situation spurs us on.</span></p>

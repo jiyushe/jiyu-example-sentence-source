@@ -1,5 +1,7 @@
 # arsenical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arsenical.md)
+
 <p><span class="chinese">砷金矿石属于难处理金矿石之一。</span><span class="english">Arsenical gld ore is one kind of the most refractory ores.</span></p>
 
 <p><span class="chinese">含砷金矿属难选矿石。</span><span class="english">It is difficult to concentrate for Arsenical gold Mineral.</span></p>

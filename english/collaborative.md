@@ -1,5 +1,7 @@
 # collaborative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collaborative.md)
+
 <p><span class="chinese">公开和协作。</span><span class="english">Open and collaborative.</span></p>
 
 <p><span class="chinese">如何开发一个协作的团队文化？</span><span class="english">How to develop a collaborative team culture?</span></p>

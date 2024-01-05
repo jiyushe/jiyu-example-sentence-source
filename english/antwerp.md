@@ -1,5 +1,7 @@
 # antwerp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antwerp.md)
+
 <p><span class="chinese">梵谷在1885年搬到安特卫普。</span><span class="english">Van Gogh moved to Antwerp in 1885.</span></p>
 
 <p><span class="chinese">安特卫普市里有着很多富丽堂皇的石造古老建筑物。</span><span class="english">There were a lot of majestic old stone buildings in Antwerp.</span></p>

@@ -1,5 +1,7 @@
 # insensibly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insensibly.md)
+
 <p><span class="chinese">但一些人渐渐地认为这是次要的。</span><span class="english">But some people insensibly consider it secondary.</span></p>
 
 <p><span class="chinese">他唱歌时自我陶醉的样子真可笑。</span><span class="english">To revel in conceit or self-importance, usually insensibly.</span></p>

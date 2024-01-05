@@ -1,5 +1,7 @@
 # shopper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shopper.md)
+
 <p><span class="chinese">你是一个冲动型消费者吗？</span><span class="english">Are you an impulse shopper?</span></p>
 
 <p><span class="chinese">与此同时，是一个聪明的购物者。</span><span class="english">In the mean time, be a smart shopper.</span></p>

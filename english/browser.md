@@ -1,5 +1,7 @@
 # browser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/browser.md)
+
 <p><span class="chinese">人们为了拯救太阳，便会敲响器以救之。</span><span class="english">It is to save the sun, will be sounded to save the browser.</span></p>
 
 <p><span class="chinese">刷新你的游览器，剩余的就由你的代理人处理。</span><span class="english">Refresh your browser and let your delegate handle the rest.</span></p>

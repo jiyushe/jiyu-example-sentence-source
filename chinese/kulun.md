@@ -1,5 +1,7 @@
 # 库仑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kulun.md)
+
 <p><span class="chinese">库仑力就是这个故事的结尾。</span><span class="english">They're Coulombic forces, end of story.</span></p>
 
 <p><span class="chinese">国际单位制中的电荷单位是什么，库仑。</span><span class="english">What is the unit of charge in SI? Coulomb.</span></p>

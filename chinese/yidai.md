@@ -1,5 +1,7 @@
 # 一带
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yidai.md)
+
 <p><span class="chinese">其次，中国需要一带一路。</span><span class="english">Next, China needs OBOR.</span></p>
 
 <p><span class="chinese">这一带的环境不错。</span><span class="english">This is a nice neigborhood.</span></p>

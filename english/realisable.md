@@ -1,5 +1,7 @@
 # realisable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/realisable.md)
+
 <p><span class="chinese">这种状态可能实现么？</span><span class="english">Is such a state realisable?</span></p>
 
 <p><span class="chinese">经济实力的内容包括存款和可变现资产两大部分。</span><span class="english">Economic strength include deposits and realisable assets of the two.</span></p>

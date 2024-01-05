@@ -1,5 +1,7 @@
 # 转卖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanmai_1.md)
+
 <p><span class="chinese">一旦家被封死了，我们的目标是迅速转卖。</span><span class="english">Once the home is foreclosed , the goal is to resell it quickly.</span></p>
 
 <p><span class="chinese">人们讨厌这些外来者，他们把换来的牲畜再次转卖换取了可观的利润。</span><span class="english">Some are resentful of the outsiders, who resell the livestock at a substantial profit.</span></p>

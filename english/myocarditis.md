@@ -1,5 +1,7 @@
 # myocarditis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/myocarditis.md)
+
 <p><span class="chinese">目的探讨益心饮对病毒性心肌炎的影响。</span><span class="english">Objective To study the effects of Yixinyin on viral myocarditis.</span></p>
 
 <p><span class="chinese">心肌炎应绝对卧床休息6周以上。</span><span class="english">The I. myocarditis should have bedrest absolutely above for 6 weeks.</span></p>

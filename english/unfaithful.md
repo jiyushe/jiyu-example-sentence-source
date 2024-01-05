@@ -1,5 +1,7 @@
 # unfaithful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unfaithful.md)
+
 <p><span class="chinese">她的丈夫对她不忠实。</span><span class="english">Her husband is unfaithful to her.</span></p>
 
 <p><span class="chinese">那人牺牲了一个不忠的妻子。</span><span class="english">The man sacrifices an unfaithful wife.</span></p>

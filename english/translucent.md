@@ -1,5 +1,7 @@
 # translucent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/translucent.md)
+
 <p><span class="chinese">毛玻璃是半透明的。</span><span class="english">Frosted glass is translucent.</span></p>
 
 <p><span class="chinese">莲子清如水。</span><span class="english">Seeds as translucent as water.</span></p>

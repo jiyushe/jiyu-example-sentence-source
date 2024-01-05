@@ -1,5 +1,7 @@
 # megaspore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/megaspore.md)
+
 <p><span class="chinese">合点端大孢子发育为胚囊母细胞。</span><span class="english">The chalazal end megaspore develops into the embryo sac mother cell.</span></p>
 
 <p><span class="chinese">大孢子母细胞减数分裂产生直线形大孢子四分体。</span><span class="english">The megaspore mother cell meiosis to form a linear megaspore tetrad.</span></p>

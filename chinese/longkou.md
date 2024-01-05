@@ -1,5 +1,7 @@
 # 龙口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/longkou.md)
+
 <p><span class="chinese">对，龙口粉丝。</span><span class="english">Right, Longkou bean starch vermicelli.</span></p>
 
 <p><span class="chinese">龙口婚庆网又称结婚网。</span><span class="english">The Longkou wedding net calls the marriage network.</span></p>

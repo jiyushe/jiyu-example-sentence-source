@@ -1,5 +1,7 @@
 # covetously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/covetously.md)
+
 <p><span class="chinese">吴国一直雄视着赵国，虎视眈眈。</span><span class="english">The State of Wu always covetously eyed the State of Zhao.</span></p>
 
 <p><span class="chinese">但“虎视眈眈”的微软显然不甘心。</span><span class="english">But " eye covetously " Microsoft is apparent not reconciled to.</span></p>

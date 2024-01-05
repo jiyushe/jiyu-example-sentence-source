@@ -1,5 +1,7 @@
 # disco
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disco.md)
+
 <p><span class="chinese">是迪斯科。</span><span class="english">It was disco.</span></p>
 
 <p><span class="chinese">山姆的士高怎么样？</span><span class="english">How about Sam's Disco?</span></p>

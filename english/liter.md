@@ -1,5 +1,7 @@
 # liter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liter.md)
+
 <p><span class="chinese">一柳条箱可容纳的量。</span><span class="english">This jug will contain a liter.</span></p>
 
 <p><span class="chinese">每耗一千卡，饮一升水。</span><span class="english">Drink 1 liter per 1000 calories you expend.</span></p>

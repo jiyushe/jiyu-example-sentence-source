@@ -1,5 +1,7 @@
 # 木料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muliao_1.md)
+
 <p><span class="chinese">他把那块木料刨得挺平的。</span><span class="english">He smoothed down the wood.</span></p>
 
 <p><span class="chinese">这所房子是用木料造的。</span><span class="english">This house was built of wood.</span></p>

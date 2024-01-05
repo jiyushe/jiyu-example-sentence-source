@@ -1,5 +1,7 @@
 # 险情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianqing_2.md)
+
 <p><span class="chinese">和孩子预演可能出现的险情。</span><span class="english">Role-play possible situations with the child.</span></p>
 
 <p><span class="chinese">出现险情时，这支部队总是首当其冲。</span><span class="english">This unit always bears the brunt of any danger.</span></p>

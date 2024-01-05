@@ -1,5 +1,7 @@
 # arrest 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arrest.md)
+
 <p><span class="chinese">你现在被逮捕了。</span><span class="english">You are under arrest.</span></p>
 
 <p><span class="chinese">如果你被要求逮捕。</span><span class="english">Ask if you are under arrest.</span></p>

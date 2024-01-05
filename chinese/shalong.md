@@ -1,5 +1,7 @@
 # 沙龙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shalong.md)
+
 <p><span class="chinese">“沙龙”还是“纱笼”?。</span><span class="english">Salon or Sarong?</span></p>
 
 <p><span class="chinese">沙龙，蜂蜜，放下手中的菜单。</span><span class="english">Ariel, honey, put down the menu.</span></p>

@@ -1,5 +1,7 @@
 # stooge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stooge.md)
+
 <p><span class="chinese">我知道你，你是木发沙的小助手。</span><span class="english">I know you. you're Mufasa's little stooge.</span></p>
 
 <p><span class="chinese">她再也不愿意当丈夫的附属品了。</span><span class="english">She's fed up with being her husband's stooge.</span></p>

@@ -1,5 +1,7 @@
 # 贪心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanxin_1.md)
+
 <p><span class="chinese">我是否太贪心了？</span><span class="english">Was I being greedy?</span></p>
 
 <p><span class="chinese">她叫做贪心。</span><span class="english">She is called gimme.</span></p>

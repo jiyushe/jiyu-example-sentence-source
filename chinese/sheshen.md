@@ -1,5 +1,7 @@
 # 舍身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sheshen.md)
+
 <p><span class="chinese">她舍身救孩子。</span><span class="english">She gave her life to save her child.</span></p>
 
 <p><span class="chinese">残心和舍身不可分割的联系在一起。</span><span class="english">Zanshin and sutemi are inextricably linked.</span></p>

@@ -1,5 +1,7 @@
 # antler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antler.md)
+
 <p><span class="chinese">那头鹿的角被灌木钩断了。</span><span class="english">The deer had his antler broken by the bush.</span></p>
 
 <p><span class="chinese">在阿尔泰山，人们大面积地养殖这种有角的鹿。</span><span class="english">On the Altai the antler deer breeding has become widespread.</span></p>

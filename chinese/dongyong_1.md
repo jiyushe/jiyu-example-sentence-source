@@ -1,5 +1,7 @@
 # 动用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongyong_1.md)
+
 <p><span class="chinese">是时候动用原力了。</span><span class="english">It’s time to use the force for good.</span></p>
 
 <p><span class="chinese">电动机起动用电抗器或电阻器“，”</span><span class="english">Motor Starting Reactor and Resistor.</span></p>

@@ -1,5 +1,7 @@
 # inactivity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inactivity.md)
+
 <p><span class="chinese">灵命的停滞会锈蚀心灵。</span><span class="english">Spiritual inactivity corrodes the soul.</span></p>
 
 <p><span class="chinese">死气沉沉，慵懒和沉默已经不行了。</span><span class="english">Lethargy, laziness, and inactivity is not okay.</span></p>

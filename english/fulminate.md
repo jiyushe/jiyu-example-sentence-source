@@ -1,5 +1,7 @@
 # fulminate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fulminate.md)
+
 <p><span class="chinese">报纸严厉谴责这个罪行。</span><span class="english">The newspapers fulminate against the crime.</span></p>
 
 <p><span class="chinese">杜伦试剂能转化生成雷酸银吗?。</span><span class="english">Can Tollens' reagent convert to silver fulminate?</span></p>

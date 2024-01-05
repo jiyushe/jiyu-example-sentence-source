@@ -1,5 +1,7 @@
 # nonrefundable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonrefundable.md)
+
 <p><span class="chinese">所有费用、税金和收费都是不可归还的。</span><span class="english">All fees, taxes and charges are nonrefundable.</span></p>
 
 <p><span class="chinese">打折的票不退款也不可以转到别的班次。</span><span class="english">Discounted tickets are usually nonrefundable and non-transferable.</span></p>

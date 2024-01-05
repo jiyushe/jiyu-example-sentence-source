@@ -1,5 +1,7 @@
 # discharge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discharge.md)
+
 <p><span class="chinese">放电加工机“，”</span><span class="english">Electric Discharge Machine.</span></p>
 
 <p><span class="chinese">这里是个气体放电管。</span><span class="english">Here is the gas discharge tube.</span></p>

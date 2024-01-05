@@ -1,5 +1,7 @@
 # thrace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thrace.md)
+
 <p><span class="chinese">你想让我去营救色雷斯上尉？</span><span class="english">You want me to rescue captain thrace ?</span></p>
 
 <p><span class="chinese">“农场”那集中，治疗卡拉·瑟瑞丝的医生的名字是?。</span><span class="english">Name the doctor who treated Kara Thrace in "The Farm".</span></p>

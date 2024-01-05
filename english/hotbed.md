@@ -1,5 +1,7 @@
 # hotbed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hotbed.md)
+
 <p><span class="chinese">堪萨斯州算不上生态主义的热土。</span><span class="english">Kansas is hardly a hotbed of eco-activism.</span></p>
 
 <p><span class="chinese">摩苏尔是叛军暴力的最新温床。</span><span class="english">Mosul is the latest hotbed of insurgent violence.</span></p>

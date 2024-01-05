@@ -1,5 +1,7 @@
 # 下不了台
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiabuliaotai.md)
+
 <p><span class="chinese">您的小孩试过让您下不了台吗?。</span><span class="english">Does Your Child Ever Emfridgerbum You?</span></p>
 
 <p><span class="chinese">了。你是怕遭到她的拒绝，让你下不了台呀！</span><span class="english">Exactly. Nobody likes to get turned down.</span></p>

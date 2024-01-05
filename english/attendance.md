@@ -1,5 +1,7 @@
 # attendance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attendance.md)
+
 <p><span class="chinese">他殷勤地侍候她。</span><span class="english">He danced attendance on her.</span></p>
 
 <p><span class="chinese">与会者一一散去。</span><span class="english">The attendance gradually dropped off.</span></p>

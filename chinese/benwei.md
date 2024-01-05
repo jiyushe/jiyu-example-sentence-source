@@ -1,5 +1,7 @@
 # 本位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benwei.md)
+
 <p><span class="chinese">在X所设定的本位币为人民币。</span><span class="english">The base currency set in X is RMB.</span></p>
 
 <p><span class="chinese">这一和弦中有两个本位音。</span><span class="english">There are two naturals in this chord.</span></p>

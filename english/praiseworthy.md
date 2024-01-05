@@ -1,5 +1,7 @@
 # praiseworthy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/praiseworthy.md)
+
 <p><span class="chinese">他的目的是高尚的，值得称赞的。</span><span class="english">His aim is honorable and praiseworthy.</span></p>
 
 <p><span class="chinese">他的道德品质和性情值得称道。</span><span class="english">His moral character and habits are praiseworthy.</span></p>

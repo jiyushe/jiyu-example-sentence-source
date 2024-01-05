@@ -1,5 +1,7 @@
 # refractor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refractor.md)
+
 <p><span class="chinese">步枪范围，是一个折射望远镜使用步枪。</span><span class="english">A rifle scope is a refractor telescope used on a rifle.</span></p>
 
 <p><span class="chinese">啊，这款折射望远镜可称得上是一款设计完美的望远镜了。</span><span class="english">Ah, the refractor . It's quite possibly the perfect design for a telescope.</span></p>

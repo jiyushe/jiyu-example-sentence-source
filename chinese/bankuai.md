@@ -1,5 +1,7 @@
 # 板块
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bankuai.md)
+
 <p><span class="chinese">您好，欢迎来到烩饭小组板块。</span><span class="english">Hello , Welcome to Huifans Group.</span></p>
 
 <p><span class="chinese">在伦敦金融时报100指数各个股票里矿业和金融股板块涨幅最大。</span><span class="english">Miners and financial stocks led the risers.</span></p>

@@ -1,5 +1,7 @@
 # 容留
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongliu.md)
+
 <p><span class="chinese">我们不能容留他这样不老实的人。</span><span class="english">We can't keep a dishonest man like him here.</span></p>
 
 <p><span class="chinese">我们将把这部分内容留到本系列的最后一部分讨论。</span><span class="english">We will leave this to the last part of our series.</span></p>

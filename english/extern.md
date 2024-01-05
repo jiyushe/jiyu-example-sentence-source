@@ -1,5 +1,7 @@
 # extern
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extern.md)
+
 <p><span class="chinese">一个外来的变量位于一个函数?。</span><span class="english">An extern variable located in a function?</span></p>
 
 <p><span class="chinese">VLA不能是静态或外部存储类型。</span><span class="english">VLA cannot have static or extern storage class.</span></p>

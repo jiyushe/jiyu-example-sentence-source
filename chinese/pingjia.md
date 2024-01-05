@@ -1,5 +1,7 @@
 # 平价
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingjia.md)
+
 <p><span class="chinese">这些货币平价兑换。</span><span class="english">This currency exchanges at par.</span></p>
 
 <p><span class="chinese">这届会议是所谓的厕所平价。</span><span class="english">That session is called Potty Parity.</span></p>

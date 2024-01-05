@@ -1,5 +1,7 @@
 # arc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arc.md)
+
 <p><span class="chinese">在主教处所下方的弧线。</span><span class="english">The arc under the Bishop's Chambers.</span></p>
 
 <p><span class="chinese">弧光灯应该马上更换掉。</span><span class="english">The arc lamps should be replaced soon.</span></p>

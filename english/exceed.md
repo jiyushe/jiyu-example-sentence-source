@@ -1,5 +1,7 @@
 # exceed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exceed.md)
+
 <p><span class="chinese">不要超越行车速度限制。</span><span class="english">Don't exceed the speed limit.</span></p>
 
 <p><span class="chinese">千万不要超过三个星号。</span><span class="english">Do not exceed three asterisks.</span></p>

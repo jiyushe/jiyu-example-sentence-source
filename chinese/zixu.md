@@ -1,5 +1,7 @@
 # 自叙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zixu.md)
+
 <p><span class="chinese">元稹自叙“艳诗”定义，以“干教化”相标榜。</span><span class="english">YUAN Zhen gave definition of erotic poetry.</span></p>
 
 <p><span class="chinese">郁达夫作品的突出特色之一，就是自叙传的文体。</span><span class="english">One feature of YU Dafus works is the autobiographic style.</span></p>

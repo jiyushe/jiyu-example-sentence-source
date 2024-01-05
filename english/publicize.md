@@ -1,5 +1,7 @@
 # publicize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/publicize.md)
+
 <p><span class="chinese">关于威客宣传的。</span><span class="english">Publicize about power guest.</span></p>
 
 <p><span class="chinese">我们必须广泛地宣扬这次会议。</span><span class="english">We must publicize the meeting widely.</span></p>

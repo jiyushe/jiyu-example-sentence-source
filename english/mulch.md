@@ -1,5 +1,7 @@
 # mulch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mulch.md)
+
 <p><span class="chinese">你知道什么是复盖？</span><span class="english">Do you know what mulch is?</span></p>
 
 <p><span class="chinese">覆盖物太多使植物窒息。</span><span class="english">Smother plants with mulch.</span></p>

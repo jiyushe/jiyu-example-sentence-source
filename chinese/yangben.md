@@ -1,5 +1,7 @@
 # 样本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangben.md)
+
 <p><span class="chinese">我得找个更好的样本了</span><span class="english">I got to get a better demo.</span></p>
 
 <p><span class="chinese">这就是样本方差</span><span class="english">That is the sample variance.</span></p>

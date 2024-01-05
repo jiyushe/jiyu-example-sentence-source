@@ -1,5 +1,7 @@
 # rapt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rapt.md)
+
 <p><span class="chinese">有些粉丝们会全神贯注地持续坐上10个小时。</span><span class="english">Some sit rapt for ten hours straight.</span></p>
 
 <p><span class="chinese">特雷诺太太全神贯注地望着她。</span><span class="english">Mrs. Trenor fixed a rapt eye upon her.</span></p>

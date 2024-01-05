@@ -1,5 +1,7 @@
 # 索桥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suoqiao.md)
+
 <p><span class="chinese">这里有很长很长的索桥。</span><span class="english">There was a long and long rope bridge.</span></p>
 
 <p><span class="chinese">他们怎样才能在17分钟内全部走过索桥？</span><span class="english">How do the campers make it across in 17 minutes?</span></p>

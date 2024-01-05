@@ -1,5 +1,7 @@
 # whoever
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whoever.md)
+
 <p><span class="chinese">人们走过她的帐房。</span><span class="english">Whoever passes her yurt.</span></p>
 
 <p><span class="chinese">谁说过我们穷的滴沥耷拉？</span><span class="english">So whoever said we were poor?</span></p>

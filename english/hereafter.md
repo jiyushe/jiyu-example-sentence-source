@@ -1,5 +1,7 @@
 # hereafter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hereafter.md)
+
 <p><span class="chinese">以后再说吧！</span><span class="english">The hereafter says agains!</span></p>
 
 <p><span class="chinese">在以后长长徳路上。</span><span class="english">On the way growing in hereafter.</span></p>

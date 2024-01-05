@@ -1,5 +1,7 @@
 # decedent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decedent.md)
+
 <p><span class="chinese">让我们为生者祝福，为死者祈祷。</span><span class="english">Wish for the Victims , Prey for the Decedent.</span></p>
 
 <p><span class="chinese">美国足球直接来源于拉格比足球。</span><span class="english">American Football is a direct decedent of Rugby Football.</span></p>

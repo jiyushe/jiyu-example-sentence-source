@@ -1,5 +1,7 @@
 # serfdom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/serfdom.md)
+
 <p><span class="chinese">我反对的存在农奴制。</span><span class="english">I am opposed to the existence of serfdom.</span></p>
 
 <p><span class="chinese">农奴制度随着俄帝国的扩张而扩张</span><span class="english">Serfdom expands along with the Russian empire.</span></p>

@@ -1,5 +1,7 @@
 # 诱捕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youbu_1.md)
+
 <p><span class="chinese">在摩耶的诱捕下，我差点儿死去。</span><span class="english">Ensnared in maya, I am all but dead.</span></p>
 
 <p><span class="chinese">他用了些乳酪诱捕耗子。</span><span class="english">He used some cheese to trap the rat.</span></p>

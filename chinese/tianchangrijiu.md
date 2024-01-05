@@ -1,5 +1,7 @@
 # 天长日久
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianchangrijiu.md)
+
 <p><span class="chinese">一个一个地学，一曲一曲地学，日积月累，天长日久，定会成功。</span><span class="english">Learn day by day and then you will be successful.</span></p>
 
 <p><span class="chinese">天长日久，即形成踩鼓节的定俗。</span><span class="english">Namely, the formation of foot drum set custom section.</span></p>

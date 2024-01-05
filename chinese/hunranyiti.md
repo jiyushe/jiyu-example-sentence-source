@@ -1,5 +1,7 @@
 # 浑然一体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hunranyiti.md)
+
 <p><span class="chinese">在孔子那里，两者是浑然一体的。</span><span class="english">Confucius, where the two are seamless.</span></p>
 
 <p><span class="chinese">没有浑然一体的伴侣。</span><span class="english">A friend without faults will never be found.</span></p>

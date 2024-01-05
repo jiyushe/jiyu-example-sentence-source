@@ -1,5 +1,7 @@
 # backward
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backward.md)
+
 <p><span class="chinese">他做了一个后空翻。</span><span class="english">He did a backward flip.</span></p>
 
 <p><span class="chinese">我对这本书是倒背如流。</span><span class="english">I know this book backward.</span></p>

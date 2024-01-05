@@ -1,5 +1,7 @@
 # faultless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faultless.md)
+
 <p><span class="chinese">费加罗报称赞这部电影“完美无瑕”。</span><span class="english">Le Figaro newspaper called the film "faultless".</span></p>
 
 <p><span class="chinese">达什伍德太太同玛丽安一样，也认为他是完美无缺的。</span><span class="english">In mrs. dashwood's estimation he was as faultless as in marianne's.</span></p>

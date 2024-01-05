@@ -1,5 +1,7 @@
 # binuclear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/binuclear.md)
+
 <p><span class="chinese">结果全部病变角膜片均发现有不同数量的双核和多核内皮细胞。</span><span class="english">Results Binuclear and polynuclear endothelial cells were found in every buttons.</span></p>
 
 <p><span class="chinese">绝大部分花粉败育发生在单核小孢子期和二胞花粉晚期。</span><span class="english">Most pollen abortion occurred at mononuclear pollen stage and late binuclear pollen stage.</span></p>

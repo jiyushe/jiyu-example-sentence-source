@@ -1,5 +1,7 @@
 # 真相
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenxiang.md)
+
 <p><span class="chinese">事实真相是怎样的?</span><span class="english">What are the facts?</span></p>
 
 <p><span class="chinese">真相是虚构小说。</span><span class="english">Truths are fictions.</span></p>

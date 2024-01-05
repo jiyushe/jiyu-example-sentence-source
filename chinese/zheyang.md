@@ -1,5 +1,7 @@
 # 这样
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zheyang.md)
+
 <p><span class="chinese">就算这样。</span><span class="english">So be it.</span></p>
 
 <p><span class="chinese">我选择这样做。</span><span class="english">I chose to.</span></p>

@@ -1,5 +1,7 @@
 # pellagra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pellagra.md)
+
 <p><span class="chinese">糙皮病则是另一种形式的红斑。</span><span class="english">Another form of erythema is pellagra.</span></p>
 
 <p><span class="chinese">第一组的成员开发的糙皮病。</span><span class="english">Members of the first group developed pellagra.</span></p>

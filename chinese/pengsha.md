@@ -1,5 +1,7 @@
 # 硼砂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pengsha.md)
+
 <p><span class="chinese">硼砂必须研成细粉才能供婴儿使用。</span><span class="english">Borax must be reduced to powder for infants.</span></p>
 
 <p><span class="chinese">向污渍上面洒一层厚厚的硼砂。</span><span class="english">Sprinkle a thick layer of borax over the stain.</span></p>

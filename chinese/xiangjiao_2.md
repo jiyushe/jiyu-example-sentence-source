@@ -1,5 +1,7 @@
 # 香蕉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangjiao_2.md)
+
 <p><span class="chinese">香蕉、坚果。</span><span class="english">Banana nut.</span></p>
 
 <p><span class="chinese">香蕉是肉吗?。</span><span class="english">Bannanas are meat?</span></p>

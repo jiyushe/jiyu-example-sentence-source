@@ -1,5 +1,7 @@
 # 斗拱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dougong.md)
+
 <p><span class="chinese">檐下有斗拱，脊檐皆饰有图纹。</span><span class="english">Under the eaves brackets, ridge eaves are decorated with patterns.</span></p>
 
 <p><span class="chinese">其建筑物的门楣、斗拱、梁拄，均有精美木雕。</span><span class="english">Its lintels, brackets and roofs all have artistic engravings on them.</span></p>

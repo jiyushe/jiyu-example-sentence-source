@@ -1,5 +1,7 @@
 # ind
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ind.md)
+
 <p><span class="chinese">请给我五张二十元的稻十张一元的。</span><span class="english">Five twenties ind ten singles, p! errse.</span></p>
 
 <p><span class="chinese">思维习惯让你以独特的视角去看待现实。</span><span class="english">ind habits let you see the reality in a particular way.</span></p>

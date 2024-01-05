@@ -1,5 +1,7 @@
 # occurrent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/occurrent.md)
+
 <p><span class="chinese">然而事情正在发生着一些变化。</span><span class="english">However the thing is occurrent a few change.</span></p>
 
 <p><span class="chinese">这种情况正在发生改变。</span><span class="english">This kind of circumstance is occurrent change.</span></p>

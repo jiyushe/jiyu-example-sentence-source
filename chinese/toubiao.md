@@ -1,5 +1,7 @@
 # 投标
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toubiao.md)
+
 <p><span class="chinese">中国信托投标与否？</span><span class="english">Chinatrust Bid?</span></p>
 
 <p><span class="chinese">这是我们的投标书。</span><span class="english">This is our tender bidding.</span></p>

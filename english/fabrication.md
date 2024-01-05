@@ -1,5 +1,7 @@
 # fabrication
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fabrication.md)
+
 <p><span class="chinese">纯粹是假造事实。</span><span class="english">It is a pure fabrication.</span></p>
 
 <p><span class="chinese">这完全是凭空捏造。</span><span class="english">This is a sheer fabrication.</span></p>

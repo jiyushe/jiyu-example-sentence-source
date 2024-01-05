@@ -1,5 +1,7 @@
 # 共同体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongtongti.md)
+
 <p><span class="chinese">城邦、政治共同体</span><span class="english">that the polis,the political community</span></p>
 
 <p><span class="chinese">这个国家是欧洲经济共同体的成员国。</span><span class="english">The country is a member country of EEC.</span></p>

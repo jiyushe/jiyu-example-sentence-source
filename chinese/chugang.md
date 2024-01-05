@@ -1,5 +1,7 @@
 # 出港
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chugang.md)
+
 <p><span class="chinese">允许我船出港吗？</span><span class="english">Am I permitted outward?</span></p>
 
 <p><span class="chinese">飞机什么时候出港？</span><span class="english">When does the plane depart?</span></p>

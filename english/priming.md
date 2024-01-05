@@ -1,5 +1,7 @@
 # priming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/priming.md)
+
 <p><span class="chinese">他检查了一下他枪膛里的火药。</span><span class="english">He looked to the priming of his gun.</span></p>
 
 <p><span class="chinese">赫尔启动完成后，在甲板的进展。</span><span class="english">Hull priming complete, deck in progress.</span></p>

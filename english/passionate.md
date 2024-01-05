@@ -1,5 +1,7 @@
 # passionate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/passionate.md)
+
 <p><span class="chinese">充满热情，理想化。</span><span class="english">Passionate. Idealistic.</span></p>
 
 <p><span class="chinese">听起来够不够决绝？</span><span class="english">Sound passionate enough?</span></p>

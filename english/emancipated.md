@@ -1,5 +1,7 @@
 # emancipated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emancipated.md)
+
 <p><span class="chinese">我们解放了中国的生产力。</span><span class="english">We emancipated productivity in China.</span></p>
 
 <p><span class="chinese">她留着一头短发，而且还是一双“解放脚”。</span><span class="english">She was young, had bobbed hair and emancipated feet.</span></p>

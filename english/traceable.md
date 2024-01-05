@@ -1,5 +1,7 @@
 # traceable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/traceable.md)
+
 <p><span class="chinese">特征能追溯到最初的用户需要吗？</span><span class="english">Is the feature traceable to an original customer need?</span></p>
 
 <p><span class="chinese">可追踪到业务需求的技术需求</span><span class="english">Technical requirements traceable to business requirements</span></p>

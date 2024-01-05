@@ -1,5 +1,7 @@
 # 威猛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weimeng.md)
+
 <p><span class="chinese">威猛五侠。</span><span class="english">The Furious Five!</span></p>
 
 <p><span class="chinese">他强壮，威猛，最重要的是他很诚实。</span><span class="english">He is strong, brave and, above all honest.</span></p>

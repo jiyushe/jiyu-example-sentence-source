@@ -1,5 +1,7 @@
 # 同屋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongwu.md)
+
 <p><span class="chinese">他被同屋住的人痛揍了一顿。</span><span class="english">He was hided by his roommates.</span></p>
 
 <p><span class="chinese">我的同屋比我起得晚。</span><span class="english">Myroommate gets up later than I do.</span></p>

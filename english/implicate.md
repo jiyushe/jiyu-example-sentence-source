@@ -1,5 +1,7 @@
 # implicate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/implicate.md)
+
 <p><span class="chinese">李荇帮忙也就算了，又怎能拖累了他？</span><span class="english">Li Xing helps also even if, how can implicate him anew?</span></p>
 
 <p><span class="chinese">这严重带累了墨西哥湾沿岸的旅游业。</span><span class="english">This seriously implicate the Gulf Coast's tourism industry.</span></p>

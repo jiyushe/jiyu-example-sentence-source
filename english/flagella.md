@@ -1,5 +1,7 @@
 # flagella
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flagella.md)
+
 <p><span class="chinese">鞭毛摆动迟缓或停止运动。</span><span class="english">Movement of the flagella became slow or stopped.</span></p>
 
 <p><span class="chinese">鞭毛的旋转可以推动细菌在水中行进。</span><span class="english">The rotation of flagella pushes the bacteria through the water.</span></p>

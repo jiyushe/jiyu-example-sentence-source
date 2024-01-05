@@ -1,5 +1,7 @@
 # quasar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quasar.md)
+
 <p><span class="chinese">那就是，究竟是什么造就了一个类星体。</span><span class="english">That is what makes a quasar.</span></p>
 
 <p><span class="chinese">类星体和星系哪一个形成在前呢？</span><span class="english">Which came first, the quasar or the galaxy?</span></p>

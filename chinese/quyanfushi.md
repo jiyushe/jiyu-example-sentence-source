@@ -1,5 +1,7 @@
 # 趋炎附势
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quyanfushi.md)
+
 <p><span class="chinese">我们拒绝像往常一样趋炎附势商业发展！</span><span class="english">We have refused to go along with business as usual.</span></p>
 
 <p><span class="chinese">朋友不能趋炎附势。休闲小游戏下载。</span><span class="english">I cannot be your friend and that means your flatterer too.</span></p>

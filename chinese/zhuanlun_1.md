@@ -1,5 +1,7 @@
 # 转轮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanlun_1.md)
+
 <p><span class="chinese">棘轮，棘爪，棘条这种机械装置中的爪状物，转轮或。</span><span class="english">The pawl, wheel, or bar of this mechanism.</span></p>
 
 <p><span class="chinese">记住这个原理后，让我们设置转轮。</span><span class="english">With this in mind, let's set up the wheels.</span></p>

@@ -1,5 +1,7 @@
 # ringing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ringing.md)
+
 <p><span class="chinese">我的耳朵在嗡嗡响。</span><span class="english">My ears are ringing.</span></p>
 
 <p><span class="chinese">铃声正响。</span><span class="english">The bell is ringing.</span></p>

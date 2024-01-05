@@ -1,5 +1,7 @@
 # exclamatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exclamatory.md)
+
 <p><span class="chinese">把这句话变成感叹句。</span><span class="english">Change it to an exclamatory sentence.</span></p>
 
 <p><span class="chinese">掌握它的搭配，即掌握了感叹句的重点。</span><span class="english">Mix master it, that is mastered exclamatory point.</span></p>

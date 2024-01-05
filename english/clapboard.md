@@ -1,5 +1,7 @@
 # clapboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clapboard.md)
+
 <p><span class="chinese">把钱扔到水里了。他说，踢了隔板一脚，我也踢了。</span><span class="english">Throwing good money after bad, he said, and kicked the clapboard.</span></p>
 
 <p><span class="chinese">泰留在他和妻子曾住过的白色隔板平房。</span><span class="english">Ty stayed in the white clapboard bungalow he'd lived in with his wife.</span></p>

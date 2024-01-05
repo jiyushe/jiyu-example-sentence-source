@@ -1,5 +1,7 @@
 # prying
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prying.md)
+
 <p><span class="chinese">你这个好奇的潘多拉，你这个小恶魔！</span><span class="english">You little prying Pandora, you little demon!</span></p>
 
 <p><span class="chinese">咱们不肯别人窥察咱们的事情。</span><span class="english">We don't want people prying into our affairs.</span></p>

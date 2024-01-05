@@ -1,5 +1,7 @@
 # battlefront
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/battlefront.md)
+
 <p><span class="chinese">他们迅速赶到了战斗的前线并且发现战争正在进行。</span><span class="english">They rode to the battlefront and found that the war was well underway.</span></p>
 
 <p><span class="chinese">他在谈到美国与捆绑游戏和星球大战前线。</span><span class="english">He's talking about the US bundles with Daxter and Star Wars Battlefront.</span></p>

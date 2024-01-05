@@ -1,5 +1,7 @@
 # 货机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoji_3.md)
+
 <p><span class="chinese">即使是40吨重的安通娜12型货机也一样。</span><span class="english">Even 40 ton Atona 12 cargo plane.</span></p>
 
 <p><span class="chinese">我们经常在甲板上修理起货机。</span><span class="english">We often repair the cargo winches on deck.</span></p>

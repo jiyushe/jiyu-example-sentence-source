@@ -1,5 +1,7 @@
 # shah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shah.md)
+
 <p><span class="chinese">在1612年，沙贾汉娶了墨姆塔兹为妻。</span><span class="english">In 1612, Shah Jehan married Mumtaz Mahal.</span></p>
 
 <p><span class="chinese">感谢上帝，礼萨王把那些都废止了。</span><span class="english">Thank God Reza Shah put an end to all that.</span></p>

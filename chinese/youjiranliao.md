@@ -1,5 +1,7 @@
 # 有机染料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youjiranliao.md)
+
 <p><span class="chinese">有机染料的颜色非常丰富。</span><span class="english">Organic dye-stuffs contain very rich and varied colours.</span></p>
 
 <p><span class="chinese">研究探明了有机染料的荧光发射波长的位移机制。</span><span class="english">The shift mechanisms of emission bands of organic dyes were investigated.</span></p>

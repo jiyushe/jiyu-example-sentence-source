@@ -1,5 +1,7 @@
 # harm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harm.md)
+
 <p><span class="chinese">我说不出她有什么坏处。</span><span class="english">I know no harm of her.</span></p>
 
 <p><span class="chinese">坏书有极大害处。</span><span class="english">Bad books do great harm.</span></p>

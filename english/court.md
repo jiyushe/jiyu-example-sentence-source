@@ -1,5 +1,7 @@
 # court 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/court.md)
+
 <p><span class="chinese">你找死！</span><span class="english">You court death!</span></p>
 
 <p><span class="chinese">排球场。</span><span class="english">Volleyball court.</span></p>

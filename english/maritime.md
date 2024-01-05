@@ -1,5 +1,7 @@
 # maritime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maritime.md)
+
 <p><span class="chinese">一个是国家海洋博物馆。</span><span class="english">One is the National Maritime Museum.</span></p>
 
 <p><span class="chinese">填写航海健康申报书。</span><span class="english">Fill up Maritime Declaration of Health.</span></p>

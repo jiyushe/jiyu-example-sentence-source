@@ -1,5 +1,7 @@
 # snicker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snicker.md)
+
 <p><span class="chinese">我听到有人窃笑。</span><span class="english">I heard someone snicker.</span></p>
 
 <p><span class="chinese">“连偷笑都没有？”他问道。</span><span class="english">"Not even a snicker?" he asked.</span></p>

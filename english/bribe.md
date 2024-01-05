@@ -1,5 +1,7 @@
 # bribe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bribe.md)
+
 <p><span class="chinese">他贿赂一个政府官员。</span><span class="english">He bribe a goverment official.</span></p>
 
 <p><span class="chinese">那位法官拒受贿赂。</span><span class="english">The judge scorned to take a bribe.</span></p>

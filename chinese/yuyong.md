@@ -1,5 +1,7 @@
 # 御用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuyong.md)
+
 <p><span class="chinese">如今是御用侍从卫士在管理。</span><span class="english">The yeoman warders manage it now.</span></p>
 
 <p><span class="chinese">下奥地利慕尔斯泰格的御用马群。</span><span class="english">Emperor's horses at Mürzsteg, lower Austria.</span></p>

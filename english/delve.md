@@ -1,5 +1,7 @@
 # delve
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/delve.md)
+
 <p><span class="chinese">所以我们必须不懈地探索深究。</span><span class="english">So we must dig and delve unceasingly.</span></p>
 
 <p><span class="chinese">现在我们来更详细地研究一下上述的每个方面。</span><span class="english">We'll now delve into each of these in more detail.</span></p>

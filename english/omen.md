@@ -1,5 +1,7 @@
 # omen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/omen.md)
+
 <p><span class="chinese">又或者说是一种不祥的预兆？</span><span class="english">Or is it an ominous omen?</span></p>
 
 <p><span class="chinese">一种不详的预兆萦绕着他。</span><span class="english">He was netted by an ill omen.</span></p>

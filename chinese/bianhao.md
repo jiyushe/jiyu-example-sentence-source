@@ -1,5 +1,7 @@
 # 编号
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianhao.md)
+
 <p><span class="chinese">订货货单编号是0018。</span><span class="english">It 's number 0018.</span></p>
 
 <p><span class="chinese">第一项产品编号是2456。</span><span class="english">The first item is 2456.</span></p>

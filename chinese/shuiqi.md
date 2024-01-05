@@ -1,5 +1,7 @@
 # 水汽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiqi.md)
+
 <p><span class="chinese">她的眼镜蒙上了一层水汽。</span><span class="english">Her glasses have misted up.</span></p>
 
 <p><span class="chinese">从总的收支看．南海地区是一个水汽汇区。</span><span class="english">The SCS is a moisture sink area.</span></p>

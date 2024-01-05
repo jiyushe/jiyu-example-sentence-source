@@ -1,5 +1,7 @@
 # 漂白
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaobai.md)
+
 <p><span class="chinese">使用碘递体或漂白。</span><span class="english">Use iodophor or bleach instead.</span></p>
 
 <p><span class="chinese">他正在阳光下漂白亚麻布。</span><span class="english">He is blanching linen in the sun.</span></p>

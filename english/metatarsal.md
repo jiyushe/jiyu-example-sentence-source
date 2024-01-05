@@ -1,5 +1,7 @@
 # metatarsal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metatarsal.md)
+
 <p><span class="chinese">无论是正常足还是外翻足，无一例第一跖骨长于第二跖骨。</span><span class="english">A longer first metatarsal than the second was seen in none.</span></p>
 
 <p><span class="chinese">小小的跖骨损坏可能会造成严重的后果。</span><span class="english">A small damage to the metatarsal bones may have serious consequences.</span></p>

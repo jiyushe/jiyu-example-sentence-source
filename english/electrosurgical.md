@@ -1,5 +1,7 @@
 # electrosurgical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electrosurgical.md)
+
 <p><span class="chinese">运动或寒战，外科电装置的使用和粘膜或皮肤的色素沉着。</span><span class="english">Motion or shivering, use of electrosurgical equipment and mucosal or skin pigmentation.</span></p>
 
 <p><span class="chinese">这里使用的是一把黄柄的电动外科器具，在切除组织的同时还可以封凝血管。</span><span class="english">He uses a yellow-handled electrosurgical device, which both cuts tissue and coagulates blood vessels.</span></p>

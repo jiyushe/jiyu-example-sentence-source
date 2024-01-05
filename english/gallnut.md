@@ -1,5 +1,7 @@
 # gallnut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gallnut.md)
+
 <p><span class="chinese">从五倍子中提取单宁酸，通过正交实验优化筛选出最佳工艺。</span><span class="english">To study the optimal process of the extraction of tannic acid from Chinese gallnut.</span></p>
 
 <p><span class="chinese">该方法用于测定中药没食子中没食子酸的含量，结果令人满意。</span><span class="english">The method has been used to determine the content of gallic acid in Chinese medicine gallnut with satisfaction.</span></p>

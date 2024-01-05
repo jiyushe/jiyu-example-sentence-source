@@ -1,5 +1,7 @@
 # ferromagnetism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ferromagnetism.md)
+
 <p><span class="chinese">对材料产生铁磁性和反铁磁性的物理根源进行解释。</span><span class="english">The physical origin of the ferromagnetism and antiferromagnetism was explained.</span></p>
 
 <p><span class="chinese">对于样品铁磁性来源，排除了磁性离子团簇及金属氧化物的可能性。</span><span class="english">Metal clusters and metal oxides also have been excluded for the origin of the ferromagnetism in samples.</span></p>

@@ -1,5 +1,7 @@
 # strategist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strategist.md)
+
 <p><span class="chinese">他与其说是个战术家，不如说是个战略家。</span><span class="english">He  is  more  of a  strategist than  of a tactician.</span></p>
 
 <p><span class="chinese">中国明代文学家、书画家、军事家。</span><span class="english">Chinese Ming Dynasty writer, art, military strategist.</span></p>

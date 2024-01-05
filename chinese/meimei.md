@@ -1,5 +1,7 @@
 # 妹妹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meimei.md)
+
 <p><span class="chinese">我的妹妹八岁。</span><span class="english">My sister is eight.</span></p>
 
 <p><span class="chinese">我漂亮的妹妹。</span><span class="english">My beautiful sister.</span></p>

@@ -1,5 +1,7 @@
 # aardvark
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aardvark.md)
+
 <p><span class="chinese">食蚁兽先生是一种蓝而小的哺乳动物。</span><span class="english">Aardvark is a blue, small mammal.</span></p>
 
 <p><span class="chinese">食蚁兽先生是一种蓝色的小型哺乳动物。</span><span class="english">Aardvark is a blue and small mammal.</span></p>

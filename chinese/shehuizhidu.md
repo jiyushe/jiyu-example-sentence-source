@@ -1,5 +1,7 @@
 # 社会制度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shehuizhidu.md)
+
 <p><span class="chinese">真理就是市场不过是一种社会制度。</span><span class="english">The truth is that markets are a social institution.</span></p>
 
 <p><span class="chinese">在我看来，这是社会制度失序，并非某个人。</span><span class="english">Seem to me that something is out of whack, not someone.</span></p>

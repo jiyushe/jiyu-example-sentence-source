@@ -1,5 +1,7 @@
 # 担惊受怕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danjingshoupa.md)
+
 <p><span class="chinese">不用担惊受怕。</span><span class="english">You didn't have to worry.</span></p>
 
 <p><span class="chinese">这就是人们担惊受怕的原因</span><span class="english">So,that's the reason for it.</span></p>

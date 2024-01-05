@@ -1,5 +1,7 @@
 # 圆钢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuangang.md)
+
 <p><span class="chinese">原材料是圆钢棒，优质合金钢，美标。</span><span class="english">Steel bars for raw material, good alloy AISI 5140.</span></p>
 
 <p><span class="chinese">主刚架间的交叉支撑可采用张紧的圆钢。</span><span class="english">Cross braces between rigid frames may be tension round steel.</span></p>

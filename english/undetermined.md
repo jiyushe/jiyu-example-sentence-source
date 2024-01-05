@@ -1,5 +1,7 @@
 # undetermined
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undetermined.md)
+
 <p><span class="chinese">哈，我就把这点定义为未确定的事。</span><span class="english">You know what? I’m moving this one to UNDETERMINED.</span></p>
 
 <p><span class="chinese">他的疾病和死亡原因仍未确定。</span><span class="english">The cause of his illness and death remain undetermined.</span></p>

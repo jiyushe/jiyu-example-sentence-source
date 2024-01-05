@@ -1,5 +1,7 @@
 # vandalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vandalism.md)
+
 <p><span class="chinese">人为破坏的迹象。</span><span class="english">Some signs of vandalism.</span></p>
 
 <p><span class="chinese">但它容易为故意捣乱所伤。</span><span class="english">But it is vulnerable to vandalism.</span></p>

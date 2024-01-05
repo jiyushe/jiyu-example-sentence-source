@@ -1,5 +1,7 @@
 # reaffirmation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reaffirmation.md)
+
 <p><span class="chinese">一个是对教条不顾一切地重新肯定。</span><span class="english">One is the defiant reaffirmation of dogma.</span></p>
 
 <p><span class="chinese">第二，西方价值的重申。</span><span class="english">Second is a reaffirmation of Western values.</span></p>

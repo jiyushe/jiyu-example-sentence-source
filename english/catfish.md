@@ -1,5 +1,7 @@
 # catfish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catfish.md)
+
 <p><span class="chinese">这是一条鲇鱼。</span><span class="english">This is a catfish.</span></p>
 
 <p><span class="chinese">人们吃不吃蓝鲶？</span><span class="english">Do people eat blue catfish?</span></p>

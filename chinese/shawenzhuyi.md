@@ -1,5 +1,7 @@
 # 沙文主义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shawenzhuyi.md)
+
 <p><span class="chinese">杰克是个彻头彻尾的沙文主义者。</span><span class="english">Jack is a real chauvinist pig.</span></p>
 
 <p><span class="chinese">沙文主义者的或与其有关的。</span><span class="english">Of or relating to a chauvinistic patriot.</span></p>

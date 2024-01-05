@@ -1,5 +1,7 @@
 # 本息
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benxi_1.md)
+
 <p><span class="chinese">银行持有抵押权，你必须归还贷款的本息。</span><span class="english">The bank would hold that mortgage and you would pay it off, with interest.</span></p>
 
 <p><span class="chinese">美国政府在8月2日的截止日期仍将无力偿还美国国债本息。</span><span class="english">Come August 2, the U.S. government will be unable to pay its bond obligations.</span></p>

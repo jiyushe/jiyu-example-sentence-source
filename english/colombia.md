@@ -1,5 +1,7 @@
 # colombia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colombia.md)
+
 <p><span class="chinese">卡利是哥伦比亚西部城市。</span><span class="english">Cali is a city of western Colombia.</span></p>
 
 <p><span class="chinese">世界上的可卡大部分种植在哥伦比亚。</span><span class="english">Colombia grows most of the world's coca.</span></p>

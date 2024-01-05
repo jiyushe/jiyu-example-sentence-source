@@ -1,5 +1,7 @@
 # 逞能
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengneng.md)
+
 <p><span class="chinese">现在看你还怎么逞能？</span><span class="english">Not so tough now, are you?</span></p>
 
 <p><span class="chinese">指在某一方面略有知识就逞能的人。</span><span class="english">Refers to in one way or a little?</span></p>

@@ -1,5 +1,7 @@
 # brochure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brochure.md)
+
 <p><span class="chinese">我给你一份小册子。</span><span class="english">I’ll send you a brochure.</span></p>
 
 <p><span class="chinese">这是我们的旅游小册子。</span><span class="english">Here is our trival brochure.</span></p>

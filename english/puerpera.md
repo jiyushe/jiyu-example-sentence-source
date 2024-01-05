@@ -1,5 +1,7 @@
 # puerpera
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/puerpera.md)
+
 <p><span class="chinese">所以，孕产妇应慎用风油精。</span><span class="english">So, pregnant puerpera Ying Shen uses wind oily energy.</span></p>
 
 <p><span class="chinese">孕产妇发生出血性脑血管病的机制还不十分清楚。</span><span class="english">It is very not clear still that pregnant puerpera produces a mechanism.</span></p>

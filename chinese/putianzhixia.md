@@ -1,5 +1,7 @@
 # 普天之下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/putianzhixia.md)
+
 <p><span class="chinese">不论怎样，普天之下没有人比他更像一个苏格兰人了。</span><span class="english">Anyway, there never was any one more Scotch in this wide world.</span></p>
 
 <p><span class="chinese">注重外表的衣冠禽兽，普天之下到处都是。</span><span class="english">The well-dressed men of beastly temper are ubiquitous in every where.</span></p>

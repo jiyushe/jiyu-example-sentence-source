@@ -1,5 +1,7 @@
 # inkling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inkling.md)
+
 <p><span class="chinese">至于我，我开始有点开窍了。</span><span class="english">As for me, I began to have an inkling.</span></p>
 
 <p><span class="chinese">哪里有哪怕只一点外来生物的端倪呢？</span><span class="english">Where was the barest inkling of alien biology?</span></p>

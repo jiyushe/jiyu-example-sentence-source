@@ -1,5 +1,7 @@
 # neoteric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neoteric.md)
+
 <p><span class="chinese">仿古建筑是近代一种集体无意识的现象。</span><span class="english">Archaize building is a neoteric unconscious phenomenon.</span></p>
 
 <p><span class="chinese">我相信每个孩子都会探索出很多新鲜的方式。</span><span class="english">I believe that every child will explore out many neoteric ways.</span></p>

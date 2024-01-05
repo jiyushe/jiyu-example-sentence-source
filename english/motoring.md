@@ -1,5 +1,7 @@
 # motoring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/motoring.md)
+
 <p><span class="chinese">是的，至少在汽车方面是这样的。</span><span class="english">Yes, as far as motoring is concerned.</span></p>
 
 <p><span class="chinese">大雪加上灯火管制使得车辆行驶成了危险的事。</span><span class="english">The snow and the blackout combined to make motoring perilous.</span></p>

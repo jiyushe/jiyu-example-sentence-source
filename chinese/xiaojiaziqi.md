@@ -1,5 +1,7 @@
 # 小家子气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaojiaziqi.md)
+
 <p><span class="chinese">别这麽小家子气吗，考虑一下我们的意见呀！</span><span class="english">Don't be so parochial. Consider our opinions please.</span></p>
 
 <p><span class="chinese">那样你会看上去很小家子气，而听众也早就不想听了。</span><span class="english">You look petty and people have stopped listening long ago.</span></p>

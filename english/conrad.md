@@ -1,5 +1,7 @@
 # conrad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conrad.md)
+
 <p><span class="chinese">康拉德.里弗斯，那位男演员吗？</span><span class="english">Conrad Reeves,the actor?</span></p>
 
 <p><span class="chinese">康瑞德是同性恋，你不知道吗？</span><span class="english">Conrad is gay. Didn't you know?</span></p>

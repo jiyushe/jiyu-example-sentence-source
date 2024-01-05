@@ -1,5 +1,7 @@
 # imperishable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imperishable.md)
+
 <p><span class="chinese">以及死而不朽的羽翼所鼓荡的风流？</span><span class="english">The wind of Death's imperishable wing?</span></p>
 
 <p><span class="chinese">能源，一个不朽的力量，我必须坐。</span><span class="english">Energy, an imperishable force I must ride.</span></p>

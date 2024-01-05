@@ -1,5 +1,7 @@
 # quadrilateral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quadrilateral.md)
+
 <p><span class="chinese">正方形是四边形的一种。</span><span class="english">A square is a quadrilateral.</span></p>
 
 <p><span class="chinese">风筝是个有一条对称线的四边形。</span><span class="english">A kite is a quadrilateral with one line of symmetry.</span></p>

@@ -1,5 +1,7 @@
 # 全音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanyin.md)
+
 <p><span class="chinese">好了,现在要一个全音级</span><span class="english">Well, I need a whole step.</span></p>
 
 <p><span class="chinese">上面一全音级是什么</span><span class="english">What's a whole step above C?</span></p>

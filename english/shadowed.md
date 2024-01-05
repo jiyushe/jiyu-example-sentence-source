@@ -1,5 +1,7 @@
 # shadowed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shadowed.md)
+
 <p><span class="chinese">他被警察盯梢。</span><span class="english">He was shadowed by the police.</span></p>
 
 <p><span class="chinese">这间小屋被棕榈树的阴影遮蔽着。</span><span class="english">The cottage was shadowed by palm trees.</span></p>

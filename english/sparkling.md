@@ -1,5 +1,7 @@
 # sparkling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sparkling.md)
+
 <p><span class="chinese">明星煌煌。</span><span class="english">The stars are sparkling.</span></p>
 
 <p><span class="chinese">是一款令人愉悦的起泡酒。</span><span class="english">It is an enjoyable sparkling wine.</span></p>

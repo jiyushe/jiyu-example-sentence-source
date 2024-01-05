@@ -1,5 +1,7 @@
 # 栽跟头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaigentou.md)
+
 <p><span class="chinese">人都有栽跟头的时候，这就是生活。</span><span class="english">People fuck up. That's life.</span></p>
 
 <p><span class="chinese">天啊，小鬼子这次是要栽跟头了。</span><span class="english">Good heavens, the impish son is falling this time.</span></p>

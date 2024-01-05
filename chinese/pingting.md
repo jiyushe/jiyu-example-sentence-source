@@ -1,5 +1,7 @@
 # 娉婷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingting.md)
+
 <p><span class="chinese">远处还有一位身披白纱的贵妇，娉婷而来。</span><span class="english">A lady wears white yarn tippet, svelte coming from a distance.</span></p>
 
 <p><span class="chinese">记忆的梗上，谁不有两三朵娉婷，披着情绪的花。</span><span class="english">Memory of the terrier, who don't have two or three roses have a graceful demeanour, covered with flowers.</span></p>

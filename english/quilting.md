@@ -1,5 +1,7 @@
 # quilting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quilting.md)
+
 <p><span class="chinese">华康牌绗缝设备，为您的产品增添实力！</span><span class="english">Huakang Quilting Machine-Increasing Strength for Your Products !</span></p>
 
 <p><span class="chinese">在玛乔里·库本的建议下，她报名参加了一个缝被子班。</span><span class="english">So at Coburn's suggestion, the woman signed up for a quilting class.</span></p>

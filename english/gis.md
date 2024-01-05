@@ -1,5 +1,7 @@
 # gis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gis.md)
+
 <p><span class="chinese">福鼎是一个现代的城市。</span><span class="english">Fuding gis a modern city.</span></p>
 
 <p><span class="chinese">第二章基于GIS的城市管理。</span><span class="english">Chapter 2-The city management of GIS.</span></p>

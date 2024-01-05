@@ -1,5 +1,7 @@
 # morale
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/morale.md)
+
 <p><span class="chinese">现在大家的斗志也很低。</span><span class="english">Morale is so low right now.</span></p>
 
 <p><span class="chinese">改善员工士气“</span><span class="english">to improve employee morale."</span></p>

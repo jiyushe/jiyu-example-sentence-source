@@ -1,5 +1,7 @@
 # 猥亵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weixie_1.md)
+
 <p><span class="chinese">那本书与其说是猥亵的，倒不如说是活泼地。</span><span class="english">The book is racy rather than obscene.</span></p>
 
 <p><span class="chinese">猥亵的思想将导致渎神之举。</span><span class="english">Impure thoughts lead to profane actions.</span></p>

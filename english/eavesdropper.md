@@ -1,5 +1,7 @@
 # eavesdropper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eavesdropper.md)
+
 <p><span class="chinese">我承认，我是个偷听者。</span><span class="english">I admit , i ' m an eavesdropper.</span></p>
 
 <p><span class="chinese">在传输过程，对该信息进行编码，使窃听者无法获知真正的内容。</span><span class="english">In transit, this information is scrambled and unintelligible to any eavesdropper.</span></p>

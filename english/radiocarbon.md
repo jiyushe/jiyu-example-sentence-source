@@ -1,5 +1,7 @@
 # radiocarbon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radiocarbon.md)
+
 <p><span class="chinese">它使用于放射性碳年代测定法。</span><span class="english">And its use in radiocarbon dating.</span></p>
 
 <p><span class="chinese">所有生物都含有放射性碳。</span><span class="english">All living things contain radiocarbon.</span></p>

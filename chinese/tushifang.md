@@ -1,5 +1,7 @@
 # 土石方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tushifang.md)
+
 <p><span class="chinese">路基土石方施工采用机械化作业。</span><span class="english">Subgrade's earthwork construction is carried out by machine.</span></p>
 
 <p><span class="chinese">深圳某土石方开挖工程采用中深孔爆破方式。</span><span class="english">Deep-hole blasting was used to excavate soil-rock in some project in Shenzhen.</span></p>

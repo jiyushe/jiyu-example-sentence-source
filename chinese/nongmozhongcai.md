@@ -1,5 +1,7 @@
 # 浓墨重彩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongmozhongcai.md)
+
 <p><span class="chinese">过去的几年中，奥菱人留下了许多浓墨重彩的篇章。</span><span class="english">In the past several years, OLY people made many colourful cantos.</span></p>
 
 <p><span class="chinese">现在，他带着浓墨重彩的人工新闻报道再次涉足僵尸类型的小说。</span><span class="english">Now he revisits the zombie genre with hits much weightier faux- reportage.</span></p>

@@ -1,5 +1,7 @@
 # thermotherapy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thermotherapy.md)
+
 <p><span class="chinese">局部热疗是治疗肿瘤的一种辅助性手段。</span><span class="english">The local thermotherapy is one of adjuvanticity means to cure tumor.</span></p>
 
 <p><span class="chinese">局部可作热敷、坐浴或其他热疗法。</span><span class="english">May make the hot compress, the sitz bath or other thermotherapy law partially.</span></p>

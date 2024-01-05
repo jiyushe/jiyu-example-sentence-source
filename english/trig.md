@@ -1,5 +1,7 @@
 # trig
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trig.md)
+
 <p><span class="chinese">制动和英语测试。</span><span class="english">Trig , and the English test.</span></p>
 
 <p><span class="chinese">好吧你来教我三角学？</span><span class="english">Right, you're gonna teach me trig ?</span></p>

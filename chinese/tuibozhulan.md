@@ -1,5 +1,7 @@
 # 推波助澜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuibozhulan.md)
+
 <p><span class="chinese">媒体也在一旁对这种非现实感推波助澜。</span><span class="english">The media have also abetted the feeling of unreality.</span></p>
 
 <p><span class="chinese">张教授说，全球化也对这种转变推波助澜。</span><span class="english">Globalization has also contributed to the shift, said Zhang.</span></p>

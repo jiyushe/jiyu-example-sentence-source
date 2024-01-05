@@ -1,5 +1,7 @@
 # horribly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horribly.md)
+
 <p><span class="chinese">我特怵拍照。</span><span class="english">I'm horribly camera shy.</span></p>
 
 <p><span class="chinese">这小孩拼命嚎哭。</span><span class="english">The child howled horribly.</span></p>

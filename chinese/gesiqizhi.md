@@ -1,5 +1,7 @@
 # 各司其职
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gesiqizhi.md)
+
 <p><span class="chinese">胥吏的职能分工细致，各司其职。</span><span class="english">The Xuli, describing the function division meticulous.</span></p>
 
 <p><span class="chinese">但这幅画营造出一种安静祥和且各司其职的家庭生活。</span><span class="english">Rather, it conjures up a quiet and dutiful domesticity.</span></p>

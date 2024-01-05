@@ -1,5 +1,7 @@
 # varicose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/varicose.md)
+
 <p><span class="chinese">膝盖酸痛，腿上静脉曲张。</span><span class="english">Knee pain and varicose veins.</span></p>
 
 <p><span class="chinese">这可能导致疝气或静脉曲张。</span><span class="english">This can lead to hernias or varicose veins.</span></p>

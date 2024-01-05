@@ -1,5 +1,7 @@
 # hydroscopicity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydroscopicity.md)
+
 <p><span class="chinese">结果表明，该树脂吸水性能好，并具有良好加压保水能力。</span><span class="english">The result indicates the hydroscopicity of this resin is good and has good pressor absorbent power.</span></p>
 
 <p><span class="chinese">针对涤纶纤维的表面能较低导致其吸湿性差的现状，采用空气等离子体对涤纶非织造布进行处理。</span><span class="english">The effects of treatment time, power and the discharge distance on the hydroscopicity of the nonwoven fabric were determined through experiments.</span></p>

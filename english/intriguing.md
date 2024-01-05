@@ -1,5 +1,7 @@
 # intriguing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intriguing.md)
+
 <p><span class="chinese">但是木琴却是如此让人着迷。</span><span class="english">But the marimba was so intriguing.</span></p>
 
 <p><span class="chinese">梦游是个有趣的现象。</span><span class="english">Sleepwalking is an intriguing phenomenon.</span></p>

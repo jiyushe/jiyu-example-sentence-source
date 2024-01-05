@@ -1,5 +1,7 @@
 # arrive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arrive.md)
+
 <p><span class="chinese">请准时入馆。</span><span class="english">Please arrive on time.</span></p>
 
 <p><span class="chinese">未来果真会来到吗？</span><span class="english">Will the future arrive?</span></p>

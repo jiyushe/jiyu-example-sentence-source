@@ -1,5 +1,7 @@
 # 板凳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bandeng.md)
+
 <p><span class="chinese">他应该坐板凳！！！</span><span class="english">He should be BENCHED ! ! ! !</span></p>
 
 <p><span class="chinese">我不怀疑他板凳三八五英镑。</span><span class="english">I don't doubt that he benched 385 lbs.</span></p>

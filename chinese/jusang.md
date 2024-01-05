@@ -1,5 +1,7 @@
 # 沮丧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jusang.md)
+
 <p><span class="chinese">他显得神情沮丧。</span><span class="english">He looks blue.</span></p>
 
 <p><span class="chinese">还会沮丧消沉</span><span class="english">We get depressed.</span></p>

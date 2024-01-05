@@ -1,5 +1,7 @@
 # 精明能干
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingmingnenggan.md)
+
 <p><span class="chinese">他是精明能干的人。</span><span class="english">He is capable man.</span></p>
 
 <p><span class="chinese">她思想成熟、精明能干、为人诚实。</span><span class="english">She's mature, dynamic and honest.</span></p>

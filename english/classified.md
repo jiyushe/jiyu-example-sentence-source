@@ -1,5 +1,7 @@
 # classified
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/classified.md)
+
 <p><span class="chinese">分类广告。</span><span class="english">Classified Ads.</span></p>
 
 <p><span class="chinese">闪击是如何分类的？</span><span class="english">How Are Strokes Classified?</span></p>

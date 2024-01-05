@@ -1,5 +1,7 @@
 # tripe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tripe.md)
+
 <p><span class="chinese">牛的肚子里！</span><span class="english">Tripe of the cow.</span></p>
 
 <p><span class="chinese">常常废话使一切人精神上倒胃口。</span><span class="english">A constant diet of tripe will make anyone spiritually sick.</span></p>

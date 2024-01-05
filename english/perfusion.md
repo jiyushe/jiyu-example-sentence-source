@@ -1,5 +1,7 @@
 # perfusion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perfusion.md)
+
 <p><span class="chinese">变径灌注柱是一种新的制极方法。</span><span class="english">Diameter-transformed perfusion piling is a kind of new technics.</span></p>
 
 <p><span class="chinese">在融合前的温育时间里许多断裂已经修复。</span><span class="english">Many breaks had been repaired during the perfusion incubation time.</span></p>

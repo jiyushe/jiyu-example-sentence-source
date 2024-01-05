@@ -1,5 +1,7 @@
 # 雄踞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongju.md)
+
 <p><span class="chinese">哦，这个雄踞全世界的巨人！</span><span class="english">The colossus that bestrode the world!</span></p>
 
 <p><span class="chinese">这张唱片雄踞排行榜之冠长达六周之久。</span><span class="english">This record topped the charts for six weeks.</span></p>

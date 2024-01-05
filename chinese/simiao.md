@@ -1,5 +1,7 @@
 # 寺庙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/simiao.md)
+
 <p><span class="chinese">你是否常去寺庙？</span><span class="english">Do you frequent any temples?</span></p>
 
 <p><span class="chinese">高达500公斤到寺庙。</span><span class="english">Upto 500 kilograms to temples.</span></p>

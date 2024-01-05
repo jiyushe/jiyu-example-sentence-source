@@ -1,5 +1,7 @@
 # pagoda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pagoda.md)
+
 <p><span class="chinese">宜宾七星山黑塔。</span><span class="english">Black Pagoda on Mt.</span></p>
 
 <p><span class="chinese">所以命名为栖灵塔。</span><span class="english">So we named it Qiling pagoda.</span></p>

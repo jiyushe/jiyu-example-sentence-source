@@ -1,5 +1,7 @@
 # 公立
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongli_2.md)
+
 <p><span class="chinese">你现在的学校是公立的吗？</span><span class="english">Is your school public?</span></p>
 
 <p><span class="chinese">公立学校是免费的。</span><span class="english">For state school, it's free.</span></p>

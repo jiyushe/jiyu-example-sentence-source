@@ -1,5 +1,7 @@
 # instability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/instability.md)
+
 <p><span class="chinese">但同时他又扰乱安定。</span><span class="english">But he also fomented instability.</span></p>
 
 <p><span class="chinese">水可以作为不稳定性的象征。</span><span class="english">Water may serve as a type of instability.</span></p>

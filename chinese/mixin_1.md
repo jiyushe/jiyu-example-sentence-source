@@ -1,5 +1,7 @@
 # 迷信
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mixin_1.md)
+
 <p><span class="chinese">对魔法的迷信仍存在着。</span><span class="english">Belief in magic still exists.</span></p>
 
 <p><span class="chinese">活动的迷信化。</span><span class="english">Superstition of the activity.</span></p>

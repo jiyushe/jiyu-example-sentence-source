@@ -1,5 +1,7 @@
 # lacrosse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lacrosse.md)
+
 <p><span class="chinese">长曲棍球运动中使用的球。</span><span class="english">The stick used in lacrosse.</span></p>
 
 <p><span class="chinese">你什么时候起会关注曲棍球赛了？</span><span class="english">Since when do you care about lacrosse ?</span></p>

@@ -1,5 +1,7 @@
 # evolving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evolving.md)
+
 <p><span class="chinese">想想地球上正在进化的。</span><span class="english">Consider what’s evolving on earth.</span></p>
 
 <p><span class="chinese">达尔文的生命进化之树也处在进化之中。</span><span class="english">Darwin's tree of life is evolving.</span></p>

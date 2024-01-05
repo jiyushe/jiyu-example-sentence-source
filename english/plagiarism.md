@@ -1,5 +1,7 @@
 # plagiarism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plagiarism.md)
+
 <p><span class="chinese">论文抄袭。</span><span class="english">Thesis plagiarism.</span></p>
 
 <p><span class="chinese">剽窃节约时间。</span><span class="english">Plagiarism saves time.</span></p>

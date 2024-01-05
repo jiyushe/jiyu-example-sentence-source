@@ -1,5 +1,7 @@
 # sf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sf.md)
+
 <p><span class="chinese">这套书也让我开始寻找更多的中国科幻小说。</span><span class="english">It's made me go looking for more Chinese SF too.</span></p>
 
 <p><span class="chinese">与此同时，在建的旧金山湾大桥东边部分长2。</span><span class="english">Meanwhile the new SF Bay Bridge eastern span is 2.</span></p>

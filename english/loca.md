@@ -1,5 +1,7 @@
 # loca
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loca.md)
+
 <p><span class="chinese">并给出连续与离散模型的走势分析。</span><span class="english">The loca of continuous models and discrete models are presented and analysed.</span></p>
 
 <p><span class="chinese">我的一位学生曾面带笑容地将西班牙式英语称为“奇异的语言”。</span><span class="english">With a smile on his face, a student of mine calls Spanglish “la lengua loca.”</span></p>

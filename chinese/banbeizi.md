@@ -1,5 +1,7 @@
 # 半辈子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banbeizi.md)
+
 <p><span class="chinese">真爱，半辈子了，终于找到了。</span><span class="english">True love, mid-life. At last.</span></p>
 
 <p><span class="chinese">你要有了这些纹身，你下半辈子都会后悔的。</span><span class="english">Something tells us you’ll live to regret it.</span></p>

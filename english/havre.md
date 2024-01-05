@@ -1,5 +1,7 @@
 # havre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/havre.md)
+
 <p><span class="chinese">勒阿弗尔有权对Fifa的裁决提起上诉。</span><span class="english">Le Havre have the right to appeal FIFA's decision.</span></p>
 
 <p><span class="chinese">安托万•戈巴克建议沿塞纳河直到勒阿弗尔港建设大巴黎。</span><span class="english">Antoine Grumbach proposes to build the Greater Paris along the Seine right up to the harbour of Le Havre.</span></p>

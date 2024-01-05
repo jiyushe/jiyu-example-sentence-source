@@ -1,5 +1,7 @@
 # lawfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lawfully.md)
+
 <p><span class="chinese">至夜，果依法而行。</span><span class="english">To night, if really lawfully and row.</span></p>
 
 <p><span class="chinese">这是一个合法注册商标的公司正准备在日本。</span><span class="english">It is a lawfully registered mark of the Nikoli Company in Japan.</span></p>

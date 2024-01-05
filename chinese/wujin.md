@@ -1,5 +1,7 @@
 # 五金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wujin.md)
+
 <p><span class="chinese">我对你们的五金产品感兴趣。</span><span class="english">I'm interested in your hardware.</span></p>
 
 <p><span class="chinese">我们是一家五金冲压件厂。</span><span class="english">We are a metal stamping factory.</span></p>

@@ -1,5 +1,7 @@
 # earliness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/earliness.md)
+
 <p><span class="chinese">小麦的早熟性为隐性遗传。</span><span class="english">The character of Earliness in wheat is a recessive inheritance.</span></p>
 
 <p><span class="chinese">当前世界主要产棉地区，都十分重视早熟性。</span><span class="english">The earliness of cotton has become an important subject interested by people of most cotton rowing countries.</span></p>

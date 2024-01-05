@@ -1,5 +1,7 @@
 # 夫妻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuqi.md)
+
 <p><span class="chinese">这对夫妻是近亲结婚。</span><span class="english">The couple is relatives.</span></p>
 
 <p><span class="chinese">夫妻之间也是。</span><span class="english">So do husbands and wives.</span></p>

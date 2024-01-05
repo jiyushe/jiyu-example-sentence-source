@@ -1,5 +1,7 @@
 # blender
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blender.md)
+
 <p><span class="chinese">果菜榨汁机马达“，”</span><span class="english">Juicer, Blender Motor.</span></p>
 
 <p><span class="chinese">现在把蛋清调匀。</span><span class="english">Now blender the whites.</span></p>

@@ -1,5 +1,7 @@
 # 浑圆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hunyuan.md)
+
 <p><span class="chinese">她珍藏着一颗浑圆的珍珠。</span><span class="english">She has a perfectly round pearl.</span></p>
 
 <p><span class="chinese">那就是它们，浑圆，丰满。</span><span class="english">There they were, full and rounded.</span></p>

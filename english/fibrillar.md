@@ -1,5 +1,7 @@
 # fibrillar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fibrillar.md)
+
 <p><span class="chinese">经过纤溶酶消化后，玻璃体胶原纤维的网状结构破坏。</span><span class="english">After digestion by plasmin, the collagen fibrillar network was destructed.</span></p>
 
 <p><span class="chinese">观察玻璃体胶原纤维的空间结构及纤溶酶对其空间结构的影响。</span><span class="english">To reveal the fibrillar network in vitreous and the effect of plasmin on this network.</span></p>

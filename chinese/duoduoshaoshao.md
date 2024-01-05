@@ -1,5 +1,7 @@
 # 多多少少
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duoduoshaoshao.md)
+
 <p><span class="chinese">我们每一个人，多多少少的，是一个蛋。</span><span class="english">Each of us is, more or less, an egg.</span></p>
 
 <p><span class="chinese">母鸡可以多多少少地装出公鸡的自信。</span><span class="english">She can more or less assume his cocksureness.</span></p>

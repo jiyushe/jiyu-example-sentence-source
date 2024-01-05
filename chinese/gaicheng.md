@@ -1,5 +1,7 @@
 # 改称
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaicheng.md)
+
 <p><span class="chinese">到了清代改称为太和殿。</span><span class="english">Has renamed to the Qing Dynasty as too with the palace.</span></p>
 
 <p><span class="chinese">但宋朝忌讳玄字，因而改称真武。</span><span class="english">However, Hyun Song taboo words, which was renamed Zhenwu.</span></p>

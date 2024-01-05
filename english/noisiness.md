@@ -1,5 +1,7 @@
 # noisiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noisiness.md)
+
 <p><span class="chinese">我受够这里的喧闹了。</span><span class="english">I've had enough of the noisiness here.</span></p>
 
 <p><span class="chinese">街上的嘈杂声使我不能专心读书。</span><span class="english">The street noisiness makes me reading without concentration.</span></p>

@@ -1,5 +1,7 @@
 # 吞咽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tunyan.md)
+
 <p><span class="chinese">嗳呀，多么荒唐！吞咽了一只鸟！</span><span class="english">Now, how absurd! To swallow a bird!</span></p>
 
 <p><span class="chinese">我不知道她为什么吞咽了一只苍绳。</span><span class="english">I don't know why she swallowed a fly.</span></p>

@@ -1,5 +1,7 @@
 # sicilian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sicilian.md)
+
 <p><span class="chinese">我们，我们听到了这个美好的小西西里餐厅。</span><span class="english">We, we heard about this wonderful little Sicilian restaurant.</span></p>
 
 <p><span class="chinese">清晨柠檬色的阳光充满了迈克尔的卧室。</span><span class="english">The Sicilian sun, early-morning lemon-colored, filled Michael's bedroom.</span></p>

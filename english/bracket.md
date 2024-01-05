@@ -1,5 +1,7 @@
 # bracket
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bracket.md)
+
 <p><span class="chinese">但还是让我们先把疑惑放到一边。</span><span class="english">But just bracket that.</span></p>
 
 <p><span class="chinese">托架松了。</span><span class="english">The bracket came loose.</span></p>

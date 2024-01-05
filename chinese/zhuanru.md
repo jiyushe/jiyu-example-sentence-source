@@ -1,5 +1,7 @@
 # 转入
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanru.md)
+
 <p><span class="chinese">他离开医界而转入法界。</span><span class="english">He left medicine for the law.</span></p>
 
 <p><span class="chinese">被去除的铬主要转入塘底沉积物中。</span><span class="english">Most of the Cr removed deposits.</span></p>

@@ -1,5 +1,7 @@
 # fistula
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fistula.md)
+
 <p><span class="chinese">查理先生，我能检查你的洗肾瘘管吗？</span><span class="english">Mr. Charles, can I examine your dialysis fistula?</span></p>
 
 <p><span class="chinese">未发生肠瘘，无死亡病例。</span><span class="english">No postoperative intestine fistula and death occurred.</span></p>

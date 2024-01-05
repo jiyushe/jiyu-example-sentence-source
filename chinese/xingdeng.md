@@ -1,5 +1,7 @@
 # 星等
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingdeng.md)
+
 <p><span class="chinese">附加星等标签到光亮恒星？</span><span class="english">Attach magnitude labels to bright stars?</span></p>
 
 <p><span class="chinese">而木星、土星等因为太热而没有生命，库罗斯说。</span><span class="english">They are much too hot to support life, Queloz said.</span></p>

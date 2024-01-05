@@ -1,5 +1,7 @@
 # display
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/display.md)
+
 <p><span class="chinese">音频数据显示器?。</span><span class="english">VDD? Voice Data Display?</span></p>
 
 <p><span class="chinese">视频显示器?。</span><span class="english">VDU? Video Display Unit?</span></p>

@@ -1,5 +1,7 @@
 # 天才
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiancai.md)
+
 <p><span class="chinese">他是个天才</span><span class="english">He is a genius.</span></p>
 
 <p><span class="chinese">阿尔西是个天才猎人。</span><span class="english">Arcee is a born hunter.</span></p>

@@ -1,5 +1,7 @@
 # hearing 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hearing.md)
+
 <p><span class="chinese">你就等我的倌吧。</span><span class="english">You'll Be hearing from me.</span></p>
 
 <p><span class="chinese">我听不太清。</span><span class="english">I'm having trouble hearing.</span></p>

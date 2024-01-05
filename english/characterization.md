@@ -1,5 +1,7 @@
 # characterization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/characterization.md)
+
 <p><span class="chinese">这是这些酶首次特征性描述。</span><span class="english">This is the first characterization of these enzymes.</span></p>
 
 <p><span class="chinese">其他转座突变体还在研究中。</span><span class="english">The other transposition mutants are under characterization.</span></p>

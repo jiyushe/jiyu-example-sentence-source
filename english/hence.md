@@ -1,5 +1,7 @@
 # hence 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hence.md)
+
 <p><span class="chinese">我爰读书、旅游。</span><span class="english">I hence reading, travel.</span></p>
 
 <p><span class="chinese">冬虫夏草因此得名。</span><span class="english">Cordyceps hence the name.</span></p>

@@ -1,5 +1,7 @@
 # nurturance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nurturance.md)
+
 <p><span class="chinese">养成每日定时排便的习惯。</span><span class="english">Nurturance is daily and time the habit of defecate.</span></p>
 
 <p><span class="chinese">应养成晨起定时大便的习惯。</span><span class="english">Should time since nurturance morning the habit of defecate.</span></p>

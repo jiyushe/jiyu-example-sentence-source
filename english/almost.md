@@ -1,5 +1,7 @@
 # almost 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/almost.md)
+
 <p><span class="chinese">肯定不能。</span><span class="english">Almost certainly not.</span></p>
 
 <p><span class="chinese">我几乎什么也没做。</span><span class="english">I did almost nothing.</span></p>

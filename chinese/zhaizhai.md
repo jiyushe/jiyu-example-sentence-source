@@ -1,5 +1,7 @@
 # 窄窄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaizhai.md)
+
 <p><span class="chinese">有一座窄窄的桥跨在上面。</span><span class="english">There was a narrow bridge across it.</span></p>
 
 <p><span class="chinese">窄窄的肩膀上也可以睡的那么香…</span><span class="english">So you sleeped deeply on my narrow shoulder.</span></p>

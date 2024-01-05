@@ -1,5 +1,7 @@
 # 拼劲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinjin.md)
+
 <p><span class="chinese">每支球队都在联赛中拼劲十足，想要赢得冠军。</span><span class="english">Every team will fight hard to win La Liga.</span></p>
 
 <p><span class="chinese">所有人都拼劲全力，我不能批评这支球队。</span><span class="english">Everyone gave their all, I can't say anything against the team.</span></p>

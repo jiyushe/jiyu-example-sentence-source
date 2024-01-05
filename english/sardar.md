@@ -1,5 +1,7 @@
 # sardar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sardar.md)
+
 <p><span class="chinese">沙特人说要一件叉子。</span><span class="english">The Sardar asks for a fork.</span></p>
 
 <p><span class="chinese">二十年后，萨达要跟她的太太离婚。</span><span class="english">After twenty years the same sardar wanted to divorce his wife.</span></p>

@@ -1,5 +1,7 @@
 # 丧事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sangshi.md)
+
 <p><span class="chinese">他是主持丧事的大师。</span><span class="english">He is the Master of Mourning.</span></p>
 
 <p><span class="chinese">丧事唱一天，一个人才分几十块钱。</span><span class="english">That only pays a few dollars per day.</span></p>

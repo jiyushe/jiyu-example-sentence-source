@@ -1,5 +1,7 @@
 # lampoon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lampoon.md)
+
 <p><span class="chinese">他很快产生了制作一部讽刺短片的想法。</span><span class="english">But he quickly got an idea for a lampoon.</span></p>
 
 <p><span class="chinese">嘲讽用讽刺作品或好象用讽刺作品嘲弄或讽刺。</span><span class="english">To ridicule or satirize in or as if in a lampoon.</span></p>

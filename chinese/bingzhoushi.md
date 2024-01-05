@@ -1,5 +1,7 @@
 # 冰洲石
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingzhoushi.md)
+
 <p><span class="chinese">从研究冰洲石材料的几何关系出发推导了一套公式。</span><span class="english">A set of formulas are deduced form the geometrical relationship of iceland spar.</span></p>
 
 <p><span class="chinese">他和他的同事们一直在试验一种叫做冰洲石的矿物。</span><span class="english">He and his colleagues have been experimenting with a mineral called Iceland spar.</span></p>

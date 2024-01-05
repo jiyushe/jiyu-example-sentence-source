@@ -1,5 +1,7 @@
 # 轻松
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingsong.md)
+
 <p><span class="chinese">他们都十分轻松自如。</span><span class="english">They relaxed.</span></p>
 
 <p><span class="chinese">说点题外话，保持轻松！</span><span class="english">Take my word for it.</span></p>

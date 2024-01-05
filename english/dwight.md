@@ -1,5 +1,7 @@
 # dwight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dwight.md)
+
 <p><span class="chinese">那，德怀特·艾森豪威尔呢？</span><span class="english">How about Dwight Eisenhower?</span></p>
 
 <p><span class="chinese">难道是“这位警官是德威特·D·艾森豪威尔军队的”？</span><span class="english">The sergeant is the Army Dwight D. Eisenhower.</span></p>

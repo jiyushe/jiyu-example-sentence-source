@@ -1,5 +1,7 @@
 # addicted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/addicted.md)
+
 <p><span class="chinese">我迷上“织”微博了。</span><span class="english">I'm addicted to updates.</span></p>
 
 <p><span class="chinese">我对网上聊天上瘾。</span><span class="english">I'm addicted to net-chat.</span></p>

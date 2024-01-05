@@ -1,5 +1,7 @@
 # fifi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fifi.md)
+
 <p><span class="chinese">菲菲拉平兔子是一个非常时髦。</span><span class="english">Fifi Lapin is an extremely stylish rabbit.</span></p>
 
 <p><span class="chinese">难道你没有看见我的小菲菲在座位上吗？</span><span class="english">Can't you see my little Fifi is using that seat?</span></p>

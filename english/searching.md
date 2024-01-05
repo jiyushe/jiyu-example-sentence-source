@@ -1,5 +1,7 @@
 # searching
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/searching.md)
+
 <p><span class="chinese">一位姓李的人在找你。</span><span class="english">A Li is searching for you.</span></p>
 
 <p><span class="chinese">我可以让他们搜索。</span><span class="english">I could set them searching.</span></p>

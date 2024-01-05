@@ -1,5 +1,7 @@
 # 物质
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuzhi_2.md)
+
 <p><span class="chinese">什么是反物质？</span><span class="english">What Is Antimatter?</span></p>
 
 <p><span class="chinese">我们有一种工作物质。</span><span class="english">We have a substance.</span></p>

@@ -1,5 +1,7 @@
 # headboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/headboard.md)
+
 <p><span class="chinese">只见她背靠着床头板。</span><span class="english">Her back rested against the headboard.</span></p>
 
 <p><span class="chinese">董事会或小组形式的头部，作为一个床。</span><span class="english">Headboard – A board or panel that forms the head, as of a bed.</span></p>

@@ -1,5 +1,7 @@
 # oleoresin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oleoresin.md)
+
 <p><span class="chinese">采用HPLC法研究了番茄油树脂中番茄红素的测定方法。</span><span class="english">The content of lycopene in tomato oleoresin was determined by HPLC.</span></p>
 
 <p><span class="chinese">因此，番茄红素油树脂需隔氧、避光、低温保存。</span><span class="english">So the storage of lycopene oleoresin needs avoiding light and oxygen, cryopreservation.</span></p>

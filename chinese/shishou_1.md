@@ -1,5 +1,7 @@
 # 实收
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishou_1.md)
+
 <p><span class="chinese">我这一生唯一赢过的一样东西，而且是确确实实收到了手的，是一辆装甲运钞车。</span><span class="english">The only thing I ever won in my life and actually received was an armored car.</span></p>
 
 <p><span class="chinese">研究了焙烧时硫酸盐的实收率和挥发分的排出量。</span><span class="english">The reclamation of sulphate and output of vola-tirnatter in baking have been researched.</span></p>

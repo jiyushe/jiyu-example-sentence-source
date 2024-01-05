@@ -1,5 +1,7 @@
 # 丝织品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sizhipin.md)
+
 <p><span class="chinese">我们也做各类丝织品生意</span><span class="english">We also take on a variety of silk piece goods</span></p>
 
 <p><span class="chinese">所有的丝织品都是从杭州来的，而且都是真丝的。</span><span class="english">All the silk comes from Hangzhou and it is pure.</span></p>

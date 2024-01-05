@@ -1,5 +1,7 @@
 # triaxial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/triaxial.md)
+
 <p><span class="chinese">单轴和三轴压缩试验。</span><span class="english">Uniaxial and Triaxial Compress Experiment.</span></p>
 
 <p><span class="chinese">本文对砂土和淤泥质粘土做了室内三轴试验。</span><span class="english">The triaxial tests of sand and mucky soil have been done.</span></p>

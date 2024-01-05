@@ -1,5 +1,7 @@
 # nightshade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nightshade.md)
+
 <p><span class="chinese">所有的茄属植物都有毒吗？</span><span class="english">Are all plants in the nightshade family poisonous?</span></p>
 
 <p><span class="chinese">一片黄色和紫色的龙葵正开得很盛。</span><span class="english">The nightshade was in its yellow and purple glory.</span></p>

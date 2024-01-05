@@ -1,5 +1,7 @@
 # 苟延残喘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gouyancanchuan.md)
+
 <p><span class="chinese">他被关进监牢任其苟延残喘。</span><span class="english">He was thrown into prison and left to rot.</span></p>
 
 <p><span class="chinese">华灯初上的城市，谁在看不见的角落苟延残喘？</span><span class="english">At night, the city, who in the invisible corner alive?</span></p>

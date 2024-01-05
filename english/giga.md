@@ -1,5 +1,7 @@
 # giga
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/giga.md)
+
 <p><span class="chinese">在GIGA，任何事情都始于态度。</span><span class="english">At GIGA everything starts with Attitude.</span></p>
 
 <p><span class="chinese">你怎样才能按时赶到米嘉-技嘉公司上班呢？</span><span class="english">How will you get to your office at Mega Giga Industries on time?</span></p>

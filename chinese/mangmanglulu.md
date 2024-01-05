@@ -1,5 +1,7 @@
 # 忙忙碌碌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mangmanglulu.md)
+
 <p><span class="chinese">对这些忙忙碌碌的失落者，我有最好的两句话相赠。</span><span class="english">I've saved the best two for the lost.</span></p>
 
 <p><span class="chinese">它不会整天喋喋不休的讲话、或忙忙碌碌地工作。</span><span class="english">It no longer chatters and bustles for work every day.</span></p>

@@ -1,5 +1,7 @@
 # implicit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/implicit.md)
+
 <p><span class="chinese">橡实是橡树固有的。</span><span class="english">The oak is implicit in the acorn.</span></p>
 
 <p><span class="chinese">内隐记忆的神经基质。</span><span class="english">Neural substrates for implicit memory.</span></p>

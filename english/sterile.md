@@ -1,5 +1,7 @@
 # sterile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sterile.md)
+
 <p><span class="chinese">在三通开关上塞上无菌塞子。</span><span class="english">Plug stopcocks with sterile plugs.</span></p>
 
 <p><span class="chinese">子宫是个无菌的环境。</span><span class="english">The uterus is a sterile environment.</span></p>

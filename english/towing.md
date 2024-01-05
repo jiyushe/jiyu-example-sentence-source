@@ -1,5 +1,7 @@
 # towing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/towing.md)
+
 <p><span class="chinese">把拖船拖缆降低。</span><span class="english">Lower towing line to tug.</span></p>
 
 <p><span class="chinese">拖缆回收到甲板上。</span><span class="english">Receive towing line on deck.</span></p>

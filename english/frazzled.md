@@ -1,5 +1,7 @@
 # frazzled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frazzled.md)
+
 <p><span class="chinese">你的神经已疲惫不堪。</span><span class="english">Your nerves are frazzled.</span></p>
 
 <p><span class="chinese">当你疲惫时就听听。</span><span class="english">Listen to it whenever you start feeling frazzled.</span></p>

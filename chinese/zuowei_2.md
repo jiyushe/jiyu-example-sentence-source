@@ -1,5 +1,7 @@
 # 坐位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuowei_2.md)
+
 <p><span class="chinese">请给他搬个坐位来。</span><span class="english">Please get her a seat.</span></p>
 
 <p><span class="chinese">你能不能给我一个前面的坐位？</span><span class="english">Can you get me a seat in the front ?</span></p>

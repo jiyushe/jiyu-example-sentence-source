@@ -1,5 +1,7 @@
 # 效劳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaolao.md)
+
 <p><span class="chinese">你们好，可以效劳吗？</span><span class="english">Hello,can I help you?</span></p>
 
 <p><span class="chinese">愿为我最好的顾客效劳。</span><span class="english">Anything for my best customer.</span></p>

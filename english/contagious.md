@@ -1,5 +1,7 @@
 # contagious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contagious.md)
+
 <p><span class="chinese">笑是感染的。</span><span class="english">It's contagious.</span></p>
 
 <p><span class="chinese">什么是炭疽热？</span><span class="english">Is anthrax contagious?</span></p>

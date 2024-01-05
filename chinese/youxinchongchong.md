@@ -1,5 +1,7 @@
 # 忧心忡忡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youxinchongchong.md)
+
 <p><span class="chinese">谨慎小心会导致忧心忡忡。</span><span class="english">Wise care begets care.</span></p>
 
 <p><span class="chinese">庞弗雷夫人看起来忧心忡忡。</span><span class="english">Madam Pomfrey looked worried.</span></p>

@@ -1,5 +1,7 @@
 # 美言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meiyan_2.md)
+
 <p><span class="chinese">请在校长那里为我美言几句。</span><span class="english">Please speak for me to the president.</span></p>
 
 <p><span class="chinese">别担心，我会帮你美言几句的。</span><span class="english">Don't worry. I put in a good word for you.</span></p>

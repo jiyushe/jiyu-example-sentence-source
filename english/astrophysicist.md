@@ -1,5 +1,7 @@
 # astrophysicist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/astrophysicist.md)
+
 <p><span class="chinese">长大之后，我成了一名职业的天体物理学家。</span><span class="english">When I grew up, I became a professional astrophysicist.</span></p>
 
 <p><span class="chinese">您正在收听斯坦福大学天体物理学家彼得`迈克尔逊的讲话。</span><span class="english">You're listening to astrophysicist Peter Michelson of Stanford.</span></p>

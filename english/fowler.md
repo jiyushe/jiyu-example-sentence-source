@@ -1,5 +1,7 @@
 # fowler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fowler.md)
+
 <p><span class="chinese">福勒僵硬地站在附近奥塞布尔。</span><span class="english">Fowler was standing stiffly near Ausable.</span></p>
 
 <p><span class="chinese">进球的分别是博格与福勒。</span><span class="english">Patrik Berger and Robbie Fowler were on target.</span></p>

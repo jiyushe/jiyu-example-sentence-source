@@ -1,5 +1,7 @@
 # charlatan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/charlatan.md)
+
 <p><span class="chinese">庸医杀人不用刀。</span><span class="english">A charlatan murders without a knife.</span></p>
 
 <p><span class="chinese">一个骗子，一个吹牛者，还是一个贼。</span><span class="english">A fraudster a charlatan and a thief.</span></p>

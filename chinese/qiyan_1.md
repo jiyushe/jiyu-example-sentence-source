@@ -1,5 +1,7 @@
 # 气焰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiyan_1.md)
+
 <p><span class="chinese">我们必须压压那个家伙的气焰。</span><span class="english">We must take  that guy down a bit.</span></p>
 
 <p><span class="chinese">报复只会升高施霸凌者的侵犯气焰。</span><span class="english">Retaliation only escalates a bully's aggression.</span></p>

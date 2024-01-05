@@ -1,5 +1,7 @@
 # 真情实感
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenqingshigan.md)
+
 <p><span class="chinese">这可是我的真情实感呀。</span><span class="english">It reveals my true feelings.</span></p>
 
 <p><span class="chinese">他的话传达了他的真情实感。</span><span class="english">His words conveyed his real feeling.</span></p>

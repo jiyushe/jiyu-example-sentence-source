@@ -1,5 +1,7 @@
 # 情韵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingyun.md)
+
 <p><span class="chinese">雍容华丽的服装，使中年女子更富情韵。</span><span class="english">Rich and magnificent dresses make middle-aged women more elegant.</span></p>
 
 <p><span class="chinese">或名流汇聚，或文化情韵，在上海的老房子里都保留着旧日的痕迹。</span><span class="english">Gathering of celebrities or cultural sentiments have left an old trace in the old houses in Shanghai.</span></p>

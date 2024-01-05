@@ -1,5 +1,7 @@
 # witchcraft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/witchcraft.md)
+
 <p><span class="chinese">玩世恭玩具——我是我自己！</span><span class="english">Witchcraft Toys, Truly be myself!</span></p>
 
 <p><span class="chinese">巫是一种异常古老的文化。</span><span class="english">Witchcraft is an extraordinary ancient culture.</span></p>

@@ -1,5 +1,7 @@
 # 开进
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaijin_1.md)
+
 <p><span class="chinese">开进去按这个按钮。</span><span class="english">Drive in and push this button.</span></p>
 
 <p><span class="chinese">他把车子开进了停车区。</span><span class="english">He steered into the parking area.</span></p>

@@ -1,5 +1,7 @@
 # 植树造林
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhishuzaolin.md)
+
 <p><span class="chinese">但我对仅仅植树造林就能解决问题表示怀疑。</span><span class="english">But I doubt whether forestation alone will solve the problem.</span></p>
 
 <p><span class="chinese">通过植树造林和避免乱砍滥伐减少碳排放。</span><span class="english">Carbon reduction through reforestation and avoided deforestation.</span></p>

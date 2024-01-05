@@ -1,5 +1,7 @@
 # 旭日东升
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuridongsheng.md)
+
 <p><span class="chinese">不再有旭日东升，不再有日日时时，也不再有一分一秒。</span><span class="english">There will be no more sunrises, no days, no hours or minutes.</span></p>
 
 <p><span class="chinese">对旭日东升的描绘，来自于Nodjmet的纸莎草纸，约公元前1050年</span><span class="english">A depiction of the rising sun. Papyrus of Nodjmet, c. 1050 BC.</span></p>

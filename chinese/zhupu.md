@@ -1,5 +1,7 @@
 # 主仆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhupu.md)
+
 <p><span class="chinese">别扯女人，打架只是我们两家主仆男人之间事情。</span><span class="english">The quarrel is between our masters and us their men.</span></p>
 
 <p><span class="chinese">用他们的话说是，不平等的关系会变成主仆关系。</span><span class="english">As they say, any relationship of unequals will lead to a mster-slave relationship!</span></p>

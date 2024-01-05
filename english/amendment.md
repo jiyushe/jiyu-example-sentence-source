@@ -1,5 +1,7 @@
 # amendment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amendment.md)
+
 <p><span class="chinese">通过民主修正案。</span><span class="english">Pass the democracy amendment.</span></p>
 
 <p><span class="chinese">这修正案遭到异议。</span><span class="english">The amendment was disagreed to.</span></p>

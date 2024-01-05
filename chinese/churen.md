@@ -1,5 +1,7 @@
 # 出任
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/churen.md)
+
 <p><span class="chinese">她将在一部新影片中出任主角。</span><span class="english">She is to star in a new film.</span></p>
 
 <p><span class="chinese">他将出任那个各党议员小组会议的主席。</span><span class="english">He will chair the all-party group meeting.</span></p>

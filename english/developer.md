@@ -1,5 +1,7 @@
 # developer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/developer.md)
+
 <p><span class="chinese">下载开发人员工具箱。</span><span class="english">Download the developer kit.</span></p>
 
 <p><span class="chinese">苹果抛弃了错误的开发者。</span><span class="english">Apple jilted the wrong developer.</span></p>

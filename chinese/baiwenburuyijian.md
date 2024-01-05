@@ -1,5 +1,7 @@
 # 百闻不如一见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baiwenburuyijian.md)
+
 <p><span class="chinese">百闻不如一见。</span><span class="english">It is better to see once than hear a hundred times.</span></p>
 
 <p><span class="chinese">百闻不如一见。用于否定句中可表示“获准”。</span><span class="english">To see one time is better than to hear a hundred times.</span></p>

@@ -1,5 +1,7 @@
 # 称心如意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenxinruyi.md)
+
 <p><span class="chinese">充实度过的星期天带来称心如意的一周。</span><span class="english">Sunday well-spent brings a week of content.</span></p>
 
 <p><span class="chinese">我把它们看作是我最称心如意的伴侣。</span><span class="english">I regard them as my most agreeable companion.</span></p>

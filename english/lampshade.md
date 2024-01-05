@@ -1,5 +1,7 @@
 # lampshade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lampshade.md)
+
 <p><span class="chinese">它有一个白色的灯泡和一个白色的灯罩。</span><span class="english">It has a white bulb and a white lampshade.</span></p>
 
 <p><span class="chinese">灯罩和灯泡用同一种软性材料制作。</span><span class="english">Lampshade and bulb made of the same flexible material.</span></p>

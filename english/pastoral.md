@@ -1,5 +1,7 @@
 # pastoral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pastoral.md)
+
 <p><span class="chinese">他已经做完了他该做的。</span><span class="english">He's finished with his pastoral.</span></p>
 
 <p><span class="chinese">是教牧书信的作者。</span><span class="english">It's the writer of the Pastoral Epistles.</span></p>

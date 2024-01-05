@@ -1,5 +1,7 @@
 # 上首
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangshou_1.md)
+
 <p><span class="chinese">辛苦老半天，就为上首页！</span><span class="english">All the hard work feels for this home page on!</span></p>
 
 <p><span class="chinese">我今天早晨起得非常早，以便能赶上首班车。</span><span class="english">This morning, I get up very early to catch the first bus.</span></p>

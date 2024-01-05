@@ -1,5 +1,7 @@
 # subscriber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subscriber.md)
+
 <p><span class="chinese">由ALC板提供模拟用户接口。</span><span class="english">The ALC board provide analog subscriber interfaces.</span></p>
 
 <p><span class="chinese">对不起，您拔叫的用户已撑死。</span><span class="english">Sorry. The subscriber you dialed was stuffed to death.</span></p>

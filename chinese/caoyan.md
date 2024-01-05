@@ -1,5 +1,7 @@
 # 操演
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caoyan.md)
+
 <p><span class="chinese">能用女子来操演吗？</span><span class="english">Can you try them out on some women?</span></p>
 
 <p><span class="chinese">让我先给你们操演一下如何驾驶这部车子。</span><span class="english">Let me demonstrate this car to you.</span></p>

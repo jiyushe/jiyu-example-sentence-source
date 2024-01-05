@@ -1,5 +1,7 @@
 # oligarch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oligarch.md)
+
 <p><span class="chinese">Oligarch是一只大而且粗鲁的熊。</span><span class="english">Oligarch is a big and robust bear.</span></p>
 
 <p><span class="chinese">普京已经表示他无意于会见这位寡头政治支持者。</span><span class="english">Putin already signaled that he has no intention to meet with the oligarch.</span></p>

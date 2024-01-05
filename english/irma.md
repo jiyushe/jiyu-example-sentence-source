@@ -1,5 +1,7 @@
 # irma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irma.md)
+
 <p><span class="chinese">厄玛向我们致了欢迎词。</span><span class="english">Irma made an address of welcome to us.</span></p>
 
 <p><span class="chinese">阿诺德意味深长地看了艾尔玛一眼。</span><span class="english">Arnold directed a meaningful look at Irma.</span></p>

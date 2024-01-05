@@ -1,5 +1,7 @@
 # 蒙蒙亮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mengmengliang.md)
+
 <p><span class="chinese">天蒙蒙亮他们就叫士兵们起床。</span><span class="english">They got the soldiers up well before dawn.</span></p>
 
 <p><span class="chinese">当天蒙蒙亮时，我喂了狗。</span><span class="english">When there is a little light I feed the dogs.</span></p>

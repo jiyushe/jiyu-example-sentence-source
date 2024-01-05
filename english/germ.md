@@ -1,5 +1,7 @@
 # germ
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/germ.md)
+
 <p><span class="chinese">小麦的胚芽对增进健康很有好处。</span><span class="english">Wheat germ is very health-giving.</span></p>
 
 <p><span class="chinese">于是，逃跑的计划萌发了。</span><span class="english">The germ of an escape plan formed.</span></p>

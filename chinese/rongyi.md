@@ -1,5 +1,7 @@
 # 容易
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongyi.md)
+
 <p><span class="chinese">不容易呀。</span><span class="english">Not easy.</span></p>
 
 <p><span class="chinese">非常容易赢.</span><span class="english">Very easy win.</span></p>

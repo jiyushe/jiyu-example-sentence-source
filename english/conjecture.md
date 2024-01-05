@@ -1,5 +1,7 @@
 # conjecture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conjecture.md)
+
 <p><span class="chinese">人们只能猜测。</span><span class="english">One can only conjecture.</span></p>
 
 <p><span class="chinese">那最少是一个推测。</span><span class="english">That's one conjecture at least.</span></p>

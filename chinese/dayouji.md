@@ -1,5 +1,7 @@
 # 打游击
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dayouji.md)
+
 <p><span class="chinese">尽管如此，人们还继续在附近“打游击”，继续种植玉米，精神可嘉。</span><span class="english">Despite this, the people stuck around and, amazingly, continued to grow their crops.</span></p>
 
 <p><span class="chinese">政变失败后，许多反叛的人上山打游击去了。</span><span class="english">After the failure of the coup many of the rebels took to the hills and became guerillas.</span></p>

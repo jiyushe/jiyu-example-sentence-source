@@ -1,5 +1,7 @@
 # 三令五申
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanlingwushen.md)
+
 <p><span class="chinese">你们必须都知道，三令五申的法令要遵守。</span><span class="english">All of you must know that the repeated injunctions must be obeyed.</span></p>
 
 <p><span class="chinese">县里曾三令五申，干什么都得按法律办事。</span><span class="english">The county repeatedly enjoined that everything must be done according to law.</span></p>

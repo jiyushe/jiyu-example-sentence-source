@@ -1,5 +1,7 @@
 # 马驹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maju.md)
+
 <p><span class="chinese">犊牛，羔羊，仔猪和马驹。</span><span class="english">Calf, Lamb, Piglet and Foal.</span></p>
 
 <p><span class="chinese">那匹马驹跳着跑过牧场。</span><span class="english">The colt bounded through the meadow.</span></p>

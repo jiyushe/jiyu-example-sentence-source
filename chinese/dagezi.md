@@ -1,5 +1,7 @@
 # 大个子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dagezi.md)
+
 <p><span class="chinese">大个子，一小步。</span><span class="english">Big man, small steps.</span></p>
 
 <p><span class="chinese">我经常碰到那个帅气的大个子男孩。</span><span class="english">I often meet the handsome big boy.</span></p>

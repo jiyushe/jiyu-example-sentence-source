@@ -1,5 +1,7 @@
 # ibis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ibis.md)
+
 <p><span class="chinese">事实上，当时在陕西也只发现了7只野生朱鹮。</span><span class="english">In fact, 7 wild crested ibis were found that time.</span></p>
 
 <p><span class="chinese">二十世纪70年代在日本，朱鹮已被宣布濒绝。</span><span class="english">The crested ibis was declared extinct in Japan in the 1970s.</span></p>

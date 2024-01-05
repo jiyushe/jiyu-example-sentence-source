@@ -1,5 +1,7 @@
 # paramedic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paramedic.md)
+
 <p><span class="chinese">他叫那个护理员走了。</span><span class="english">He let the paramedic go.</span></p>
 
 <p><span class="chinese">我只有感谢上帝，还有在那里的救护人员。</span><span class="english">I just thank God and the paramedic that was there.</span></p>

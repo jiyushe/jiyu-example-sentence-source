@@ -1,5 +1,7 @@
 # 别扭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bieniu.md)
+
 <p><span class="chinese">这茶壶把儿的形状真别扭。</span><span class="english">The teapot just came apart in my hands.</span></p>
 
 <p><span class="chinese">我期望咱们之间的联系无所不能很别扭。</span><span class="english">I hope tITe's no bad waterdrop in dawn us.</span></p>

@@ -1,5 +1,7 @@
 # outrigger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outrigger.md)
+
 <p><span class="chinese">五支腿！</span><span class="english">Outrigger five!</span></p>
 
 <p><span class="chinese">确保外伸支架全部伸出并稳固于地面上。</span><span class="english">Make sure outrigger were fully extended and installed on firm pad.</span></p>

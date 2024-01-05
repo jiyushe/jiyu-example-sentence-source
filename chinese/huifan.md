@@ -1,5 +1,7 @@
 # 回返
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huifan.md)
+
 <p><span class="chinese">傍晚回返亚庇市酒店休息。</span><span class="english">Evening return to Kota Kinabalu hotel.</span></p>
 
 <p><span class="chinese">为那些快乐和忧伤回返。</span><span class="english">Reach back for the joy and the sorrow.</span></p>

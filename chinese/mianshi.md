@@ -1,5 +1,7 @@
 # 免试
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianshi.md)
+
 <p><span class="chinese">许多海外的资格可以获得AIA的免试。</span><span class="english">Many overseas qualifications attract AIA exemptions.</span></p>
 
 <p><span class="chinese">凡是通过第一次测试的人，第二次可以免试。</span><span class="english">Those who passed the first test are excused from the second one.</span></p>

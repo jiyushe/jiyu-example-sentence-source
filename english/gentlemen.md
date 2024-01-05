@@ -1,5 +1,7 @@
 # gentlemen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gentlemen.md)
+
 <p><span class="chinese">天给你，先生们。</span><span class="english">Good-day to you, gentlemen.</span></p>
 
 <p><span class="chinese">我求见那两位先生。</span><span class="english">I asked for those gentlemen.</span></p>

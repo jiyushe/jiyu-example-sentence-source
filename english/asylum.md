@@ -1,5 +1,7 @@
 # asylum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asylum.md)
+
 <p><span class="chinese">天蛾人在缅因州的一家精神病院里面。</span><span class="english">Mothman's in a asylum up in a Maine.</span></p>
 
 <p><span class="chinese">人们央求政治避难。</span><span class="english">The people ask for political asylum.</span></p>

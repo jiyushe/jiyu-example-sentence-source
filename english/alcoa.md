@@ -1,5 +1,7 @@
 # alcoa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alcoa.md)
+
 <p><span class="chinese">美国铝业也于2007年退出了。</span><span class="english">Alcoa got out in 2007.</span></p>
 
 <p><span class="chinese">美国铝业是在股票市场收市后发布业绩消息的。</span><span class="english">Alcoa released earnings after the market closed.</span></p>

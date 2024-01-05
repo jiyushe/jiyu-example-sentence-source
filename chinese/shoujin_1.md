@@ -1,5 +1,7 @@
 # 手紧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoujin_1.md)
+
 <p><span class="chinese">第二、如果电梯内有手把，请一只手紧握手把。</span><span class="english">If there is handle in the lift, hold tightly with one hand.</span></p>
 
 <p><span class="chinese">孩子把这手紧抱在怀里，感到心宽了。</span><span class="english">The child pressed the hand close to him, and felt reassured.</span></p>

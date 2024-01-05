@@ -1,5 +1,7 @@
 # taihang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taihang.md)
+
 <p><span class="chinese">在这雄伟粗犷的太行山中。</span><span class="english">In the craggy Taihang Mountains.</span></p>
 
 <p><span class="chinese">这里是太行山观日台。</span><span class="english">Here is Taihang Sun -Watching Spot.</span></p>

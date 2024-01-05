@@ -1,5 +1,7 @@
 # 早晚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaowan.md)
+
 <p><span class="chinese">你早晚得把我假了！</span><span class="english">You'll be the ruination of me!</span></p>
 
 <p><span class="chinese">我早晚要找你算帐的。</span><span class="english">I'll sort you out sooner or later.</span></p>

@@ -1,5 +1,7 @@
 # voluntarism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/voluntarism.md)
+
 <p><span class="chinese">遵循互相尊重，平等互利，协商一致，自主自愿的原则。</span><span class="english">On the basis of respect, equality, consensus, and voluntarism.</span></p>
 
 <p><span class="chinese">不论如何，唯意志论者的核心观点的确与她的话有所共鸣。</span><span class="english">However, the key principles of voluntarism do echo with her words.</span></p>

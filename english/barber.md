@@ -1,5 +1,7 @@
 # barber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barber.md)
+
 <p><span class="chinese">理发师有一个大宝宝。</span><span class="english">The barber has a big baby.</span></p>
 
 <p><span class="chinese">我叫理发师把头发修剪一下。</span><span class="english">I asked the barber for a trim.</span></p>

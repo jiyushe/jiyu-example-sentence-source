@@ -1,5 +1,7 @@
 # 什么
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenme.md)
+
 <p><span class="chinese">什么？</span><span class="english">Pardon?</span></p>
 
 <p><span class="chinese">什么神气？</span><span class="english">What air?</span></p>

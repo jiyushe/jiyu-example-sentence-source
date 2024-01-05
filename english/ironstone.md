@@ -1,5 +1,7 @@
 # ironstone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ironstone.md)
+
 <p><span class="chinese">如何控制铁矿石市场风险?。</span><span class="english">How to Control the Risks of Ironstone Market?</span></p>
 
 <p><span class="chinese">葡萄选自上了年纪的老葡萄树，生长在含铁矿石的红壤中。</span><span class="english">Selected from old vines planted on red loam with ironstone.</span></p>

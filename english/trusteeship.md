@@ -1,5 +1,7 @@
 # trusteeship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trusteeship.md)
+
 <p><span class="chinese">本网站提供了托管理事会信息。</span><span class="english">This site provides information on the Trusteeship Council.</span></p>
 
 <p><span class="chinese">美国在1944年占领了密克罗尼西亚，在1947年成为其讬管国。</span><span class="english">The U. S. occupied Micronesia in 1944 and received a trusteeship mandate in 1947.</span></p>

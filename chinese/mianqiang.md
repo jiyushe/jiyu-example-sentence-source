@@ -1,5 +1,7 @@
 # 勉强
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianqiang.md)
+
 <p><span class="chinese">她勉强获准留在这里。</span><span class="english">I'm here on sufferance.</span></p>
 
 <p><span class="chinese">他的托福考试勉强通过了。</span><span class="english">His TOEFL has squeezed in.</span></p>

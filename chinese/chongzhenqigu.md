@@ -1,5 +1,7 @@
 # 重振旗鼓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongzhenqigu.md)
+
 <p><span class="chinese">引发这场危机的房地产泡沫已然破灭，短期内不大可能重振旗鼓。</span><span class="english">The burst real estate bubble that kicked off this crisis is unlikely to reinflate quickly.</span></p>
 
 <p><span class="chinese">在一场收购变故之后，AOL一直在时代华纳的旗下度过了惨淡的10年，现在AOL试图重振旗鼓。</span><span class="english">AOL is trying to rejigger after a disastrous 10 years under Time Warner in a failed merger.</span></p>

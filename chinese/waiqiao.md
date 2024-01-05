@@ -1,5 +1,7 @@
 # 外侨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waiqiao.md)
+
 <p><span class="chinese">杰克是一个机灵的外侨。</span><span class="english">Jack was an alert alien.</span></p>
 
 <p><span class="chinese">所有外侨都必须填写这个表格。</span><span class="english">All aliens have to fill out this form.</span></p>

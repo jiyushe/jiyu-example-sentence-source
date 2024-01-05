@@ -1,5 +1,7 @@
 # 哀婉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aiwan.md)
+
 <p><span class="chinese">这是一个哀婉的爱情故事。</span><span class="english">It is a sad love story.</span></p>
 
 <p><span class="chinese">让人无限哀婉。</span><span class="english">and make people feel infinite pathos.</span></p>

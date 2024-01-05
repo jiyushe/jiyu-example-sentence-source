@@ -1,5 +1,7 @@
 # 本轮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benlun.md)
+
 <p><span class="chinese">这个模型远远要比托勒密的本轮要成功得多。</span><span class="english">That model is far more successful than Ptolemy's epicycles.</span></p>
 
 <p><span class="chinese">我们的目标是在本轮结束战斗，确保晋级。</span><span class="english">Our object is to close the round and seal the qualification.</span></p>

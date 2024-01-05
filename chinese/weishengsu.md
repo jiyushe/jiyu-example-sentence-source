@@ -1,5 +1,7 @@
 # 维生素
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weishengsu.md)
+
 <p><span class="chinese">柳丁含有维生素C。</span><span class="english">Oranges contain vitamin C.</span></p>
 
 <p><span class="chinese">另一种维生素B是烟酸。</span><span class="english">Another B-vitamin is niacin.</span></p>

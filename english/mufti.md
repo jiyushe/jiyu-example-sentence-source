@@ -1,5 +1,7 @@
 # mufti
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mufti.md)
+
 <p><span class="chinese">常服紧急避孕药有没有负作用？</span><span class="english">Does urgent prophylactic lose mufti action?</span></p>
 
 <p><span class="chinese">这场战争揭示了世界的伪善。</span><span class="english">"This war shows the hypocrisy of the world, " Mufti Selim said.</span></p>

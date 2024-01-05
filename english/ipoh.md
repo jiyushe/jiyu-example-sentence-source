@@ -1,5 +1,7 @@
 # ipoh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ipoh.md)
+
 <p><span class="chinese">我在现在马来西亚。</span><span class="english">I am in Malaysian Ipoh now.</span></p>
 
 <p><span class="chinese">早餐后前往参观怡保霹雳洞。</span><span class="english">After breakfast processed to Perak Tong Cave Temple at Ipoh.</span></p>

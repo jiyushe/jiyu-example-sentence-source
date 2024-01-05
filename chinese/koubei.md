@@ -1,5 +1,7 @@
 # 口碑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/koubei.md)
+
 <p><span class="chinese">口碑好的销售是最好的销售。</span><span class="english">Word of mouth marketing is the best marketing.</span></p>
 
 <p><span class="chinese">新市长在市民中口碑很好。</span><span class="english">The new mayor is well spoken of by the citizens.</span></p>

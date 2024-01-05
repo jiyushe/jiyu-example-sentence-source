@@ -1,5 +1,7 @@
 # 当心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangxin.md)
+
 <p><span class="chinese">谨防恶犬!当心狗!</span><span class="english">Beware of the dog!</span></p>
 
 <p><span class="chinese">当心扒手。</span><span class="english">Beware of pickpockets.</span></p>

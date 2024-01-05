@@ -1,5 +1,7 @@
 # austenitic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/austenitic.md)
+
 <p><span class="chinese">金属中奥氏体的意义是什么?。</span><span class="english">What does Austenitic state mean in metal?</span></p>
 
 <p><span class="chinese">不得使用奥氏体填充材料。</span><span class="english">Austenitic filler materials are not permissible.</span></p>

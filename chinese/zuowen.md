@@ -1,5 +1,7 @@
 # 作文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuowen.md)
+
 <p><span class="chinese">又是作文题？</span><span class="english">An essay question again?</span></p>
 
 <p><span class="chinese">那是一节作文课。</span><span class="english">It was a composition class.</span></p>

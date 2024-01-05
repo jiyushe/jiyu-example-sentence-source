@@ -1,5 +1,7 @@
 # 年级
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianji.md)
+
 <p><span class="chinese">现在几年级了？</span><span class="english">What year are you?</span></p>
 
 <p><span class="chinese">请问你是几年级？</span><span class="english">What grade are you in?</span></p>

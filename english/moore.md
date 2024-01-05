@@ -1,5 +1,7 @@
 # moore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moore.md)
+
 <p><span class="chinese">迈克尔·摩尔。</span><span class="english">Michael Moore.</span></p>
 
 <p><span class="chinese">黛咪摩儿是哪一个？</span><span class="english">Which one is Demi Moore?</span></p>

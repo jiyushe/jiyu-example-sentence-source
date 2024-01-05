@@ -1,5 +1,7 @@
 # 元月
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanyue.md)
+
 <p><span class="chinese">协定自元月一日起生效。</span><span class="english">The agreement tooks effect as of January.</span></p>
 
 <p><span class="chinese">这份婚约在元月初宣告无效。</span><span class="english">The marriage was annulled in early January.</span></p>

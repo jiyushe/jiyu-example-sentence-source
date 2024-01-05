@@ -1,5 +1,7 @@
 # 个人主义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gerenzhuyi.md)
+
 <p><span class="chinese">X一代倾向于个人主义。</span><span class="english">Generation X tends to individualism.</span></p>
 
 <p><span class="chinese">我是这屋里唯一的个人主义者。</span><span class="english">I am the only individualist in this room.</span></p>

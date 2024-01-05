@@ -1,5 +1,7 @@
 # 浮云
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuyun.md)
+
 <p><span class="chinese">浮云飘然而过。</span><span class="english">Fleecy clouds floated past.</span></p>
 
 <p><span class="chinese">其他一切都是浮云。</span><span class="english">Everything else is just hype.</span></p>

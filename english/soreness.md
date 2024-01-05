@@ -1,5 +1,7 @@
 # soreness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soreness.md)
+
 <p><span class="chinese">肉毒碱，减缓肉疼痛。</span><span class="english">Carnitine appears to decrease muscle soreness.</span></p>
 
 <p><span class="chinese">性爱后，第二天膝盖酸软是肾虚吗？</span><span class="english">After sex, knee soreness the next day the kidney do?</span></p>

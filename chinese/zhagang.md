@@ -1,5 +1,7 @@
 # 轧钢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhagang.md)
+
 <p><span class="chinese">所有筒槽和与之相连接的水槽为平轧钢板制造。</span><span class="english">C. All tankage and connecting flumes are boiler plate.</span></p>
 
 <p><span class="chinese">这里是工厂的核心--加热轧钢车间。</span><span class="english">It is the very heart of the plant – heat rolling mill.</span></p>

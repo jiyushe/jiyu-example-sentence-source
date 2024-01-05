@@ -1,5 +1,7 @@
 # bre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bre.md)
+
 <p><span class="chinese">你伤患上厉害吗?。</span><span class="english">Bre you badly hurt?</span></p>
 
 <p><span class="chinese">这些个是你的袜子吗？</span><span class="english">Bre these your socks?</span></p>

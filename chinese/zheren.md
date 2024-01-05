@@ -1,5 +1,7 @@
 # 哲人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zheren.md)
+
 <p><span class="chinese">明哲人却以智慧为乐。</span><span class="english">Mingzhe but a man of wisdom.</span></p>
 
 <p><span class="chinese">放荡的哲人、腐败的孩子。</span><span class="english">Wanton philosophers, children of putrescence.</span></p>

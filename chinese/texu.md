@@ -1,5 +1,7 @@
 # 特许
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/texu.md)
+
 <p><span class="chinese">自由并非特许证。</span><span class="english">Liberty is not licence.</span></p>
 
 <p><span class="chinese">他取消我们的许多特许状。</span><span class="english">For taking away our Charters.</span></p>

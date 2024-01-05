@@ -1,5 +1,7 @@
 # 成风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengfeng.md)
+
 <p><span class="chinese">如果我不在，你把我当成风。</span><span class="english">I love you Molly. I always have.</span></p>
 
 <p><span class="chinese">这是个腐败成风的国家。</span><span class="english">It is a country where corruption is rife.</span></p>

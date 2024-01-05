@@ -1,5 +1,7 @@
 # politic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/politic.md)
+
 <p><span class="chinese">记住你的罪名是“危害国家安全”罪。</span><span class="english">The accusal is "harm the security of body politic".</span></p>
 
 <p><span class="chinese">刚一打起来他就想到还是走为上策。</span><span class="english">When the fight begin, he think it politic to leave.</span></p>

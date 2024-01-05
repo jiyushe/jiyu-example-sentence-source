@@ -1,5 +1,7 @@
 # indivisibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indivisibility.md)
+
 <p><span class="chinese">日本自古以来就是中国神圣领土不可分割的一部分！</span><span class="english">Japan is China sacred territory indivisibility of a part!</span></p>
 
 <p><span class="chinese">所以其特点与贸易自由化不可分割。</span><span class="english">So its characteristics and the trade liberalism indivisibility.</span></p>

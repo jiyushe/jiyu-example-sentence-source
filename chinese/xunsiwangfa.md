@@ -1,5 +1,7 @@
 # 徇私枉法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xunsiwangfa.md)
+
 <p><span class="chinese">腐败，裙带关系，徇私枉法以及贪污都将土崩瓦解。</span><span class="english">The corruption, nepotism, favoritism, moneyembezzlement, all and all will fall apart.</span></p>
 
 <p><span class="chinese">再次，除作为外，不作为可以构成徇私枉法罪。</span><span class="english">Finally, except conduction, the omission may also constitute the crime of bending the law for selfish ends.</span></p>

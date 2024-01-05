@@ -1,5 +1,7 @@
 # bookable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bookable.md)
+
 <p><span class="chinese">证可在售票处提前预定。</span><span class="english">Bookable in advance at the box office only with ID.</span></p>
 
 <p><span class="chinese">其他设施包括一个大阳台、自行车租赁和一个会议室。</span><span class="english">Facilities include a terrace and 2 bookable private saunas.</span></p>

@@ -1,5 +1,7 @@
 # starchy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/starchy.md)
+
 <p><span class="chinese">硫胺将淀粉类食物转变为能量。</span><span class="english">Thiamine changes starchy foods into energy.</span></p>
 
 <p><span class="chinese">多买绿色蔬菜，少买淀粉类蔬菜。</span><span class="english">Buy green vegetables more often than starchy vegetables.</span></p>

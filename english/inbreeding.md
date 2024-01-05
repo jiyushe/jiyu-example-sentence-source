@@ -1,5 +1,7 @@
 # inbreeding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inbreeding.md)
+
 <p><span class="chinese">参见近交系数。</span><span class="english">See coefficient of inbreeding.</span></p>
 
 <p><span class="chinese">近亲交配增长了灭绝的机会。</span><span class="english">Inbreeding increases the chance of extinction.</span></p>

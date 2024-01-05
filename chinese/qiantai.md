@@ -1,5 +1,7 @@
 # 前台
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiantai.md)
+
 <p><span class="chinese">都去前台，谁在幕后？</span><span class="english">Proscenium , whom do play in backstage?</span></p>
 
 <p><span class="chinese">也许前台能给我破开。</span><span class="english">Maybe the front desk can break it for me.</span></p>

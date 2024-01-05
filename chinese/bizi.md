@@ -1,5 +1,7 @@
 # 鼻子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bizi.md)
+
 <p><span class="chinese">捏着你的鼻子。</span><span class="english">Hold your nose.</span></p>
 
 <p><span class="chinese">我的鼻子乾乾的。</span><span class="english">My nose is dry.</span></p>

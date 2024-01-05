@@ -1,5 +1,7 @@
 # sanctified
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sanctified.md)
+
 <p><span class="chinese">该项提案已获得了批准。</span><span class="english">This proposal has been sanctified.</span></p>
 
 <p><span class="chinese">基督以祂的血使我们成圣。</span><span class="english">Christ sanctified us with His blood.</span></p>

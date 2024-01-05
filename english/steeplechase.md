@@ -1,5 +1,7 @@
 # steeplechase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/steeplechase.md)
+
 <p><span class="chinese">三天后，他在障碍跑比赛中以近75米的优势夺冠。</span><span class="english">Three days later, he won the steeplechase by 75 metres.</span></p>
 
 <p><span class="chinese">栏板中部刻有“弘济桥”三个大字。</span><span class="english">Engraved with the central steeplechase "Philip Bridge, " the three characters.</span></p>

@@ -1,5 +1,7 @@
 # 楼层
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/louceng.md)
+
 <p><span class="chinese">设有非吸烟楼层。</span><span class="english">Non-smoking rooms are available.</span></p>
 
 <p><span class="chinese">请问你比较喜欢哪些楼层？</span><span class="english">May I ask which floor you prefer?</span></p>

@@ -1,5 +1,7 @@
 # sootiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sootiness.md)
+
 <p><span class="chinese">画黑色的烟熏妆。</span><span class="english">Draw black sootiness makeup.</span></p>
 
 <p><span class="chinese">如此一来，漂亮刺眼的烟熏妆就诞生了。</span><span class="english">Come so, beautiful and dazzling sootiness makeup was born.</span></p>

@@ -1,5 +1,7 @@
 # 凉风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangfeng.md)
+
 <p><span class="chinese">迎面吹来阵阵凉风。</span><span class="english">The cool wind blown head on.</span></p>
 
 <p><span class="chinese">凉风掠面。</span><span class="english">A cool breeze brushed my face.</span></p>

@@ -1,5 +1,7 @@
 # excrete
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/excrete.md)
+
 <p><span class="chinese">通过皮肤上的毛孔排泄汗液。</span><span class="english">To excrete perspiration through the pores of the skin.</span></p>
 
 <p><span class="chinese">受感染家禽将病毒分泌或排泄到它们的唾液或粪便中。</span><span class="english">Infected poultry excrete virus in their secretions and faeces.</span></p>

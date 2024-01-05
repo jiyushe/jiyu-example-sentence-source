@@ -1,5 +1,7 @@
 # 旁门左道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pangmenzuodao.md)
+
 <p><span class="chinese">这种工法怎麽能说是旁门左道呢？</span><span class="english">Can you tell me where it is available?</span></p>
 
 <p><span class="chinese">走旁门左道的企业，最终会成为自己的受害者。</span><span class="english">Take the company of heterodoxy, final meeting becomes his victim.</span></p>

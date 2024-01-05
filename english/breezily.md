@@ -1,5 +1,7 @@
 # breezily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/breezily.md)
+
 <p><span class="chinese">卸掉包袱，轻松上步。</span><span class="english">Drop your burden, walk breezily.</span></p>
 
 <p><span class="chinese">轻松缔造全新的居厨生活标准。</span><span class="english">Creating the Brandnew Kitchen and Life Standard Breezily.</span></p>

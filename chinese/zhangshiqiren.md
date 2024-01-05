@@ -1,5 +1,7 @@
 # 仗势欺人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangshiqiren.md)
+
 <p><span class="chinese">仗势欺人就算不上是真正的朋友。</span><span class="english">And a friend who bullies us is no longer a friend.</span></p>
 
 <p><span class="chinese">别仗势欺人，你这一套对我行不通。</span><span class="english">Don't try to throw weight around. It won't work with me.</span></p>

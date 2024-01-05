@@ -1,5 +1,7 @@
 # 惴惴不安
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuizhuibuan.md)
+
 <p><span class="chinese">但是今天，我惴惴不安。</span><span class="english">But today I was restless.</span></p>
 
 <p><span class="chinese">她担心其后果而惴惴不安。</span><span class="english">Fear of the consequences preyed on her mind.</span></p>

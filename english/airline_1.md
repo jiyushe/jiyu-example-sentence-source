@@ -1,5 +1,7 @@
 # airline 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/airline_1.md)
+
 <p><span class="chinese">这取决于航空公司。</span><span class="english">It depends on the airline.</span></p>
 
 <p><span class="chinese">试想一下飞机票。</span><span class="english">Consider an airline ticket.</span></p>

@@ -1,5 +1,7 @@
 # 水玻璃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiboli.md)
+
 <p><span class="chinese">挡水玻璃刮水器现在动作不协调。</span><span class="english">The windshield wipers are out of phase now.</span></p>
 
 <p><span class="chinese">他们把所有的蛋都涂上了水玻璃。</span><span class="english">They have laid down all the eggs in waterglass.</span></p>

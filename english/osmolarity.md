@@ -1,5 +1,7 @@
 # osmolarity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/osmolarity.md)
+
 <p><span class="chinese">落叶松材改性处理的关键是研究它的渗透性。</span><span class="english">Osmolarity is the key in modified treatment for larch wood.</span></p>
 
 <p><span class="chinese">大肠杆菌DH42突变株碱性条件下对高渗透压敏感。</span><span class="english">The Escherichia coli strain DH42 is sensitive to high osmolarity in an alkaline medium.</span></p>

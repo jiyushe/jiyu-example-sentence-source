@@ -1,5 +1,7 @@
 # undoable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undoable.md)
+
 <p><span class="chinese">这种更改无法被撤消和复原。</span><span class="english">This change is not undoable.</span></p>
 
 <p><span class="chinese">并且最重要的一件事是refactorings是可以撤销的。</span><span class="english">And the best thing is that refactorings are undoable.</span></p>

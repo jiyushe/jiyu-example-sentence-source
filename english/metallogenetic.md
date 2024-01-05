@@ -1,5 +1,7 @@
 # metallogenetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metallogenetic.md)
+
 <p><span class="chinese">晋宁晚期的岩浆活动强烈，黑云二长花岗岩是矿区主要成矿岩体。</span><span class="english">The biotite adamellite is the main metallogenetic rock body in the orefield.</span></p>
 
 <p><span class="chinese">在砂金成矿过程中，氧化还原反应起着积极作用。</span><span class="english">In the metallogenetic process of gold placers, oxidation-reduction played an important role.</span></p>

@@ -1,5 +1,7 @@
 # 倒叙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daoxu.md)
+
 <p><span class="chinese">即使实在要用，倒叙法也该用得节制。</span><span class="english">Flashbacks should be used sparingly, if at all.</span></p>
 
 <p><span class="chinese">他童年的故事是用倒叙法来表现的。</span><span class="english">The events of his boyhood are shown in a flashback.</span></p>

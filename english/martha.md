@@ -1,5 +1,7 @@
 # martha
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/martha.md)
+
 <p><span class="chinese">马耳塔是做什么工作的?。</span><span class="english">What does Martha do?</span></p>
 
 <p><span class="chinese">“好吧，”玛莎说。</span><span class="english">“Alright, ” Martha said.</span></p>

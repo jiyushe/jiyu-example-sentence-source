@@ -1,5 +1,7 @@
 # 圣徒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengtu.md)
+
 <p><span class="chinese">噢，瘸腿的圣徒！</span><span class="english">Oh, lame saint!</span></p>
 
 <p><span class="chinese">并非所有人都能像圣徒那样生活。</span><span class="english">Not all could saint.</span></p>

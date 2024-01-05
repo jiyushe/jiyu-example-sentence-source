@@ -1,5 +1,7 @@
 # bacterium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bacterium.md)
+
 <p><span class="chinese">淋球菌是一种细菌。</span><span class="english">Drench coccus is a kind of bacterium.</span></p>
 
 <p><span class="chinese">细菌通过呼出的飞沫传播。</span><span class="english">The bacterium is spread by exhaled droplets.</span></p>

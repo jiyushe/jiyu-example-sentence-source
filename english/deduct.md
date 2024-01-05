@@ -1,5 +1,7 @@
 # deduct
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deduct.md)
+
 <p><span class="chinese">为什么要扣日费？</span><span class="english">Why to deduct our day rate?</span></p>
 
 <p><span class="chinese">从所得款项中扣除付予上述代理人。</span><span class="english">From Proceeds deduct to be paid to above Agent.</span></p>

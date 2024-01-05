@@ -1,5 +1,7 @@
 # 头球
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touqiu.md)
+
 <p><span class="chinese">我从来没顶过这么多头球！</span><span class="english">I've never headed the ball as much before!</span></p>
 
 <p><span class="chinese">这右边锋顶了一个非常好的头球。</span><span class="english">The outside-tight headed a very nice ball.</span></p>

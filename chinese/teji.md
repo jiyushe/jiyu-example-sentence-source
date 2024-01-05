@@ -1,5 +1,7 @@
 # 特技
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/teji.md)
+
 <p><span class="chinese">他是一个特技替身演员?。</span><span class="english">He was a stuntman?</span></p>
 
 <p><span class="chinese">一个特技。</span><span class="english">An acrobatic etude.</span></p>

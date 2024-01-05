@@ -1,5 +1,7 @@
 # repulsion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repulsion.md)
+
 <p><span class="chinese">我们不需要在r等于2r圈处的Born力。</span><span class="english">You don't need Born repulsion at 2 r naught.</span></p>
 
 <p><span class="chinese">电子间的斥力是什么样子呢？</span><span class="english">Now, how about this repulsion between electrons?</span></p>

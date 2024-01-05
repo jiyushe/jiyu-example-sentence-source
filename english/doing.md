@@ -1,5 +1,7 @@
 # doing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doing.md)
+
 <p><span class="chinese">做有氧运动吗？</span><span class="english">Doing aerobics?</span></p>
 
 <p><span class="chinese">那是你的功劳吗？</span><span class="english">Is it your doing?</span></p>

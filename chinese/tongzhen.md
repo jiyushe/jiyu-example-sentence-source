@@ -1,5 +1,7 @@
 # 童真
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongzhen.md)
+
 <p><span class="chinese">那份童真至今仍让她怀念。</span><span class="english">Share of innocence still miss her.</span></p>
 
 <p><span class="chinese">儿童节快乐，永远童真的你！</span><span class="english">Children's happiness, the innocence you forever!</span></p>

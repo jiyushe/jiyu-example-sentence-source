@@ -1,5 +1,7 @@
 # 清漆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingqi_1.md)
+
 <p><span class="chinese">把清漆涂在表面。</span><span class="english">Apply varnish to the surface.</span></p>
 
 <p><span class="chinese">地板上涂了一层清漆。</span><span class="english">The floor is coated with varnish.</span></p>

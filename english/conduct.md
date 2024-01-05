@@ -1,5 +1,7 @@
 # conduct 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conduct.md)
+
 <p><span class="chinese">你们能指挥这个吗</span><span class="english">Can you conduct this?</span></p>
 
 <p><span class="chinese">他的作为是无可非议的。</span><span class="english">His conduct was blameless.</span></p>

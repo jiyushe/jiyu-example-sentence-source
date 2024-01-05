@@ -1,5 +1,7 @@
 # aeronautics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aeronautics.md)
+
 <p><span class="chinese">他把他所有多余的时间用在航空学上。</span><span class="english">He devoted every spare moment to aeronautics.</span></p>
 
 <p><span class="chinese">航空学使我们能征服远距离。</span><span class="english">Aeronautics enables us to overcome great distances.</span></p>

@@ -1,5 +1,7 @@
 # stomatitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stomatitis.md)
+
 <p><span class="chinese">结论扶济复对治疗急性放射性口腔炎有明显疗效。</span><span class="english">CONCLUSION rhbFGF is effective in treatment of radiation stomatitis.</span></p>
 
 <p><span class="chinese">怎样最有效地治疗复发性口腔溃疡？</span><span class="english">What Offers the Most Effective Relief for Severe Aphthous Stomatitis ?</span></p>

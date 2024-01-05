@@ -1,5 +1,7 @@
 # picosecond
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/picosecond.md)
+
 <p><span class="chinese">研究了某些光学玻璃在皮秒和飞秒激光照射下产生的暗化特性。</span><span class="english">Picosecond and femtosecond laser induced darking in some optical glass were studied.</span></p>
 
 <p><span class="chinese">康指出在2000年，我们显示单个DNA碱基能在少于一皮秒时间内转移能量。</span><span class="english">In 2000, we showed that single DNA bases can dissipate U energy in less than one picosecond.</span></p>

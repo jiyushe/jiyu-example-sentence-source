@@ -1,5 +1,7 @@
 # boric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boric.md)
+
 <p><span class="chinese">氟硼酸形成的一种盐。</span><span class="english">A salt or an ester of boric acid.</span></p>
 
 <p><span class="chinese">硼酸是一种“液体控制棒”。</span><span class="english">Boric acid is "liquid control rod".</span></p>

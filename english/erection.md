@@ -1,5 +1,7 @@
 # erection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/erection.md)
+
 <p><span class="chinese">我的JJ石更了，而且我穿的是很宽松的裤子。</span><span class="english">I was wearing pants and had an erection.</span></p>
 
 <p><span class="chinese">你看这项安装使命如何？</span><span class="english">Whin do you think of this erection work?</span></p>

@@ -1,5 +1,7 @@
 # frown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frown.md)
+
 <p><span class="chinese">皱眉头。</span><span class="english">Frown.</span></p>
 
 <p><span class="chinese">你可以皱眉。</span><span class="english">You can frown.</span></p>

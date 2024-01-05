@@ -1,5 +1,7 @@
 # 猛犸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mengma.md)
+
 <p><span class="chinese">两个猛犸象博物馆中的一个。</span><span class="english">One of the two mammoth museums.</span></p>
 
 <p><span class="chinese">我多么希望我也能做一头猛犸啊。</span><span class="english">I wish I coulda been an Ultralisk.</span></p>

@@ -1,5 +1,7 @@
 # terroristic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/terroristic.md)
+
 <p><span class="chinese">爆炸恐怖犯罪是恐怖犯罪的主要表现形式。</span><span class="english">Terroristic explosion is the main form of terroristic crime.</span></p>
 
 <p><span class="chinese">在这个恐怖的系统里，害怕本身就足够限制女性的自由了。</span><span class="english">In this terroristic system, the fear alone is enough to limit women's freedom.</span></p>

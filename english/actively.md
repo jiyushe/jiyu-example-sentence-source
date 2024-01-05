@@ -1,5 +1,7 @@
 # actively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/actively.md)
+
 <p><span class="chinese">或积极寻找快乐？</span><span class="english">Or actively seeking pleasure?</span></p>
 
 <p><span class="chinese">安第斯山脉正在拔高。</span><span class="english">The Andes are actively growing.</span></p>

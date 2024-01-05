@@ -1,5 +1,7 @@
 # 风雨无阻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengyuwuzu.md)
+
 <p><span class="chinese">但玩足球可以风雨无阻。</span><span class="english">But teams play football rain or shine.</span></p>
 
 <p><span class="chinese">可是，美式足球却是风雨无阻的。</span><span class="english">But teams play football rain or shine.</span></p>

@@ -1,5 +1,7 @@
 # luftwaffe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luftwaffe.md)
+
 <p><span class="chinese">在这张资料图片中，纳粹德国空军使用恩尼格玛密码机。</span><span class="english">In this file photo, Luftwaffe troops use an Enigma machine.</span></p>
 
 <p><span class="chinese">他就是德国空军各次败绩的替罪羊。</span><span class="english">He had been made the scapegoat for all the failures of the Luftwaffe.</span></p>

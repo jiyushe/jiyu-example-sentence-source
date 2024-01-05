@@ -1,5 +1,7 @@
 # 有线广播
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youxianguangbo.md)
+
 <p><span class="chinese">差不多所有商店都播放有线广播的音乐。</span><span class="english">Nearly all the shops have piped music.</span></p>
 
 <p><span class="chinese">有线广播电视系统经营者。</span><span class="english">Cable broadcasting and television system operator.</span></p>

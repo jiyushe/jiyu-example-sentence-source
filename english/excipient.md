@@ -1,5 +1,7 @@
 # excipient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/excipient.md)
+
 <p><span class="chinese">方法采用减少赋形剂的方法。</span><span class="english">Methods By using less excipient.</span></p>
 
 <p><span class="chinese">该法简便，样液稳定，赋形剂对测定无干扰。</span><span class="english">The method was simple, stable and undisturbed with excipient.</span></p>

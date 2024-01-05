@@ -1,5 +1,7 @@
 # rockman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rockman.md)
+
 <p><span class="chinese">作为一个孩子，亚历克西斯洛克人经常去美国自然史博物馆。</span><span class="english">As a child, Alexis Rockman often visited the American Museum of Natural History.</span></p>
 
 <p><span class="chinese">另边厢，乐民儿子离奇死亡，死因怪异，妻子更吓至魂飞魄散。</span><span class="english">On the other hand, Rockman 's wife broke down after their son died mysteriously.</span></p>

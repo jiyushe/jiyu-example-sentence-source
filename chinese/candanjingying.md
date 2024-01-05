@@ -1,5 +1,7 @@
 # 惨淡经营
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/candanjingying.md)
+
 <p><span class="chinese">那年冬天，很多房地产商惨淡经营。</span><span class="english">That winter was a hard time for most property developers.</span></p>
 
 <p><span class="chinese">旅游业在走下坡路，许多酒店惨淡经营，入不敷出。</span><span class="english">Tourism are down and many hotels are operating in the red.</span></p>

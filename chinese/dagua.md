@@ -1,5 +1,7 @@
 # 大褂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dagua.md)
+
 <p><span class="chinese">但一定会有一件白色的大褂。</span><span class="english">And almost certainly a white lab coat.</span></p>
 
 <p><span class="chinese">把这件大褂给孩子们做两件上衣。</span><span class="english">Make two children's jackets out of this gown.</span></p>

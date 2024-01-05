@@ -1,5 +1,7 @@
 # futurism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/futurism.md)
+
 <p><span class="chinese">如果现在拥抱未来主义、它也拒绝了过去。</span><span class="english">If Futurism embraced the present, it also rejected the past.</span></p>
 
 <p><span class="chinese">“未来主义”将是一大流行趋势，诸如波鞋的产生。</span><span class="english">"Futurism" will be a trend, such as the wave shoes production.</span></p>

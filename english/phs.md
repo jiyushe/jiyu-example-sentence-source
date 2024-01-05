@@ -1,5 +1,7 @@
 # phs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phs.md)
+
 <p><span class="chinese">无线市话业务发展将面临新的选择。</span><span class="english">The PHS development will face the new choice.</span></p>
 
 <p><span class="chinese">然而，低迷的手机价格很快取代了小灵通的位置。</span><span class="english">However low priced mobile phones are rapidly replacing PHS.</span></p>

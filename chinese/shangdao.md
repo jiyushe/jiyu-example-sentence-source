@@ -1,5 +1,7 @@
 # 商道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangdao.md)
+
 <p><span class="chinese">食盐通常经由自然商道运销各地。</span><span class="english">Salt was usually shipped along natural trade routes.</span></p>
 
 <p><span class="chinese">因此，对洪江古商道文化遗产应进行有效的保护。</span><span class="english">It is necessary to protect its cultural heritage effectively.</span></p>

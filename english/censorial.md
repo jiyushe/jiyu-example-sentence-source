@@ -1,5 +1,7 @@
 # censorial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/censorial.md)
+
 <p><span class="chinese">监察部网站发布公告，公布国家预防腐败局网站正式开通。</span><span class="english">Censorial ministry website issues announcement, announce the country prevents corrupt bureau website to debut formally.</span></p>
 
 <p><span class="chinese">昨日，鞍山市公安局网络监察支队向记者介绍了整个案情。</span><span class="english">Yesterday, network of public security bureau of saddle hill city is censorial detachment introduced whole details of a case to the reporter.</span></p>

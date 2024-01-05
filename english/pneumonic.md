@@ -1,5 +1,7 @@
 # pneumonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pneumonic.md)
+
 <p><span class="chinese">狼疮肺炎的治疗方法有哪些？</span><span class="english">What does the remedial method with pneumonic lupus have?</span></p>
 
 <p><span class="chinese">感冒引起肺炎的症状是什么样的状况？</span><span class="english">What kind of state is the cold causes pneumonic symptom?</span></p>

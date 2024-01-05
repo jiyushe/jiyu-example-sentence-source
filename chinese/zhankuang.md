@@ -1,5 +1,7 @@
 # 战况
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhankuang.md)
+
 <p><span class="chinese">第一天战况如何？</span><span class="english">What happenedthe first day of battle Father?</span></p>
 
 <p><span class="chinese">在日本，丰臣秀吉了解了日军在朝鲜的战况。</span><span class="english">In Japan, hideyoshi understand Japanese situation in north Korea.</span></p>

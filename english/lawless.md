@@ -1,5 +1,7 @@
 # lawless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lawless.md)
+
 <p><span class="chinese">现在的西部简直无法无天。</span><span class="english">It is lawless right now in the Wild West.</span></p>
 
 <p><span class="chinese">要狠打，打得不法分子灵魂出窍、骨头发酥。</span><span class="english">To Henda, forcing the lawless SOUL, bones and hair crisp.</span></p>

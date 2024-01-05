@@ -1,5 +1,7 @@
 # 酚酞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fentai.md)
+
 <p><span class="chinese">酸度的酚酞法测定。</span><span class="english">Determination of acidity to phenolphthalein.</span></p>
 
 <p><span class="chinese">本发明还可加入酚酞或酚酞类酸碱指示剂作显色指示。</span><span class="english">Phenolphthalein or indicator of such a kind is used as colour indicator.</span></p>

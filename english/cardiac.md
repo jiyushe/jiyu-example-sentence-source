@@ -1,5 +1,7 @@
 # cardiac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cardiac.md)
+
 <p><span class="chinese">他是个心脏外科医生。</span><span class="english">He is a cardiac surgeon.</span></p>
 
 <p><span class="chinese">是横纹肌瘤。</span><span class="english">This is a cardiac rhabdomyoma.</span></p>

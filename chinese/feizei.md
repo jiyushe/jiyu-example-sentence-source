@@ -1,5 +1,7 @@
 # 飞贼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feizei.md)
+
 <p><span class="chinese">我认为你是我的金色飞贼。</span><span class="english">I think you're my snitch.</span></p>
 
 <p><span class="chinese">一个非常非常好的歌曲飞贼！</span><span class="english">One very very good song from Irma!</span></p>

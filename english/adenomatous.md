@@ -1,5 +1,7 @@
 # adenomatous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adenomatous.md)
+
 <p><span class="chinese">嗜酸性结晶体还可见于非典型性腺瘤样增生、PIN和其他情况下。</span><span class="english">They can also be seen in atypical adenomatous hyperplasia, PIN, and other conditions.</span></p>
 
 <p><span class="chinese">结肠息肉状小腺瘤可以明确分化的概念。</span><span class="english">The concept of differentiation is demonstrated by this small adenomatous polyp of the colon.</span></p>

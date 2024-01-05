@@ -1,5 +1,7 @@
 # 圆锥曲线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanzhuiquxian.md)
+
 <p><span class="chinese">设有一组平行线与圆锥曲线相交。</span><span class="english">Consider a family of parallel lines that cut the conic.</span></p>
 
 <p><span class="chinese">亚婆罗尼主要地是以他对于圆锥曲线的研究而闻名的。</span><span class="english">Apollonius is chiefly noted for his work on conic sections.</span></p>

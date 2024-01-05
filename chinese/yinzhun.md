@@ -1,5 +1,7 @@
 # 音准
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinzhun.md)
+
 <p><span class="chinese">因此，解决合唱中的音准问题势在必行。</span><span class="english">So, it is imperative to solve the intonation problem in chorus.</span></p>
 
 <p><span class="chinese">钢琴比大多数弦乐乐器音准。</span><span class="english">Pianos stay in tune much better than most stringed  instruments.</span></p>

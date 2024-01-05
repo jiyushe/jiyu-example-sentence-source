@@ -1,5 +1,7 @@
 # trivially
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trivially.md)
+
 <p><span class="chinese">信用卡让人们贷款异常便利。</span><span class="english">Credit cards make it trivially easy for people to take loans.</span></p>
 
 <p><span class="chinese">温夫人那你“讨论”人生为什么这么不正不经呢？</span><span class="english">LADY WINDERMERE. Why do you TALK so trivially about life, then?</span></p>

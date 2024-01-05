@@ -1,5 +1,7 @@
 # nyc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nyc.md)
+
 <p><span class="chinese">在纽约有很多街头艺术家。</span><span class="english">Many street-artist in NYC.</span></p>
 
 <p><span class="chinese">嗨，我是在纽约市的一名摄影师。</span><span class="english">Hi, I am a photographer based in NYC.</span></p>

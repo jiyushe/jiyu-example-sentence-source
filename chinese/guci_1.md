@@ -1,5 +1,7 @@
 # 骨刺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guci_1.md)
+
 <p><span class="chinese">我没有长骨刺。</span><span class="english">I had no bone spurs.</span></p>
 
 <p><span class="chinese">我从来没有长过骨刺。</span><span class="english">I never had a bone spur.</span></p>

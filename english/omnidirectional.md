@@ -1,5 +1,7 @@
 # omnidirectional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/omnidirectional.md)
+
 <p><span class="chinese">首先，是无方向性。</span><span class="english">First of all, it is omnidirectional.</span></p>
 
 <p><span class="chinese">一个好的全向麦克风是必须的。</span><span class="english">A good omnidirectional microphone is a must.</span></p>

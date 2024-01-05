@@ -1,5 +1,7 @@
 # tatiana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tatiana.md)
+
 <p><span class="chinese">即使是去健身房，Tatiana也不会忘记化妆。</span><span class="english">Even going to a gym, Tatiana does not forget about makeup.</span></p>
 
 <p><span class="chinese">令人尴尬的第一次经历没有吓退Tatiana。</span><span class="english">The embarrassing first experience did not scare Tatiana off.</span></p>

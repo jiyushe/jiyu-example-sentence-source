@@ -1,5 +1,7 @@
 # twit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/twit.md)
+
 <p><span class="chinese">少刷手机多睡觉！</span><span class="english">Twit Less, Sleep More!</span></p>
 
 <p><span class="chinese">我傻乎乎地笑了笑。</span><span class="english">I just smiled like a twit.</span></p>

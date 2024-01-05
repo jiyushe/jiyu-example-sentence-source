@@ -1,5 +1,7 @@
 # 溶溶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongrong.md)
+
 <p><span class="chinese">江水溶溶。</span><span class="english">The river is broad and gentle.</span></p>
 
 <p><span class="chinese">增溶溶解对于任何要纯化的蛋白质都是必需的。</span><span class="english">Solubilization is required of any protein to be purified.</span></p>

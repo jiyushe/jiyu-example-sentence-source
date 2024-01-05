@@ -1,5 +1,7 @@
 # 作客
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoke.md)
+
 <p><span class="chinese">你随时都可以到我家来作客。</span><span class="english">Visit us whenever you can.</span></p>
 
 <p><span class="chinese">能否赏光来敝处作客？</span><span class="english">Would you honor us with a visit?</span></p>

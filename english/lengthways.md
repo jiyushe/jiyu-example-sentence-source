@@ -1,5 +1,7 @@
 # lengthways
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lengthways.md)
+
 <p><span class="chinese">把小胡瓜纵切成两半。</span><span class="english">Cut the courgette in half lengthways.</span></p>
 
 <p><span class="chinese">清洗羊莴苣叶，萝卜纵向切薄片。</span><span class="english">Wash the lambs lettuce leaves and thinly slice the radishes lengthways.</span></p>

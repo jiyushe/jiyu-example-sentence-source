@@ -1,5 +1,7 @@
 # slapdash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slapdash.md)
+
 <p><span class="chinese">我不喜欢他那粗线条的工作方法。</span><span class="english">I do not like his slapdash way of doing things.</span></p>
 
 <p><span class="chinese">但是很多人认为节流计算并不仔细。</span><span class="english">But many think the savings calculations are slapdash.</span></p>

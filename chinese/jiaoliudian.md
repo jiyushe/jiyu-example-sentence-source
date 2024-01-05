@@ -1,5 +1,7 @@
 # 交流电
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoliudian.md)
+
 <p><span class="chinese">我尝试使用交流电源，没有电池。</span><span class="english">I try to use AC power, no battery.</span></p>
 
 <p><span class="chinese">英国的电压是交流电240伏。</span><span class="english">Electricity in Britain is 240 volts, AC.</span></p>

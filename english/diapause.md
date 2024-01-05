@@ -1,5 +1,7 @@
 # diapause
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diapause.md)
+
 <p><span class="chinese">低温可以促进夏卵滞育的解除。</span><span class="english">Low temperature can terminate diapause of eggs in summer.</span></p>
 
 <p><span class="chinese">但随着海拔高度上升，冬季滞育开始出现。</span><span class="english">But winter diapause comes into existence at high altitudes.</span></p>

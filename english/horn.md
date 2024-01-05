@@ -1,5 +1,7 @@
 # horn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horn.md)
+
 <p><span class="chinese">这里法国号加入了。</span><span class="english">Here comes the horn.</span></p>
 
 <p><span class="chinese">喇叭吹得很响。</span><span class="english">The horn blew loudly.</span></p>

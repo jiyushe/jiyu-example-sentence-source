@@ -1,5 +1,7 @@
 # stripline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stripline.md)
+
 <p><span class="chinese">一种带状定向耦合器场分布的求解。</span><span class="english">Solution of field distribution in stripline directional coupler.</span></p>
 
 <p><span class="chinese">建立了设计悬置带线及其带通滤波器的计算机通用程序。</span><span class="english">The computer programs for design of suspended stripline and bandpass filter are established.</span></p>

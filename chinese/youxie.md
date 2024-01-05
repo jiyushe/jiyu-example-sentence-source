@@ -1,5 +1,7 @@
 # 有些
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youxie.md)
+
 <p><span class="chinese">有些是有毒的。</span><span class="english">Some is toxic.</span></p>
 
 <p><span class="chinese">他有些鹤发了。</span><span class="english">He has grey hairs.</span></p>

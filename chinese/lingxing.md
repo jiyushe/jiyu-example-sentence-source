@@ -1,5 +1,7 @@
 # 另行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingxing.md)
+
 <p><span class="chinese">特殊规格另行设计承造。</span><span class="english">Special design upon request.</span></p>
 
 <p><span class="chinese">若有未尽事宜另行协商解决。</span><span class="english">If not separate can issue to resolve.</span></p>

@@ -1,5 +1,7 @@
 # 定编
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingbian.md)
+
 <p><span class="chinese">乡镇级没有定编的体育干部，只有兼任。</span><span class="english">The villages and towns don' t have the formal sport managers.</span></p>
 
 <p><span class="chinese">使用角色可以更容易地指定编校的数据类型。</span><span class="english">The data types for redaction can be more easily specified by using roles.</span></p>

@@ -1,5 +1,7 @@
 # electromagnet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electromagnet.md)
+
 <p><span class="chinese">扔掉电磁铁。</span><span class="english">Discard the electromagnet.</span></p>
 
 <p><span class="chinese">在家做一块电磁铁是既简单又有趣的。</span><span class="english">Making an electromagnet at home is fun and easy.</span></p>

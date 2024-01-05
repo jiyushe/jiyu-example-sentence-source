@@ -1,5 +1,7 @@
 # slothful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slothful.md)
+
 <p><span class="chinese">他是一个懒惰的仆人。</span><span class="english">He is a slothful servant.</span></p>
 
 <p><span class="chinese">人们使用诸如“慢吞吞的”、“懒洋洋的”这类词汇。</span><span class="english">They used words like lazy or slothful.</span></p>

@@ -1,5 +1,7 @@
 # 肖像
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoxiang_2.md)
+
 <p><span class="chinese">焚烧某人的肖像以泄恨。</span><span class="english">Burn a person in effigy.</span></p>
 
 <p><span class="chinese">他的肖像比他本人漂亮。</span><span class="english">His portrait flatters him.</span></p>

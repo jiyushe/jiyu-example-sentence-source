@@ -1,5 +1,7 @@
 # 立即
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liji.md)
+
 <p><span class="chinese">我们必须立即行动起来”。</span><span class="english">We must act now.</span></p>
 
 <p><span class="chinese">我立即认出了他。</span><span class="english">I knew him at once.</span></p>

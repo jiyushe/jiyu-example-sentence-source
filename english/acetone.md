@@ -1,5 +1,7 @@
 # acetone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acetone.md)
+
 <p><span class="chinese">对丙酮是一样的。</span><span class="english">Same for acetone.</span></p>
 
 <p><span class="chinese">而丙酮是溶剂。</span><span class="english">And the acetone is the solvent.</span></p>

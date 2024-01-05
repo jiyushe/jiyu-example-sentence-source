@@ -1,5 +1,7 @@
 # 评判
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingpan_1.md)
+
 <p><span class="chinese">他要去评判谁呢？</span><span class="english">Who is he to judge?</span></p>
 
 <p><span class="chinese">谁是谁非，谁来评判？</span><span class="english">And who can be judge?</span></p>

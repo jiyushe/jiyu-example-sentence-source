@@ -1,5 +1,7 @@
 # bezier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bezier.md)
+
 <p><span class="chinese">在场景视图的贝塞尔曲线。</span><span class="english">Bezier Line in the Scene View.</span></p>
 
 <p><span class="chinese">贝兹娃娃是芭比娃娃的对立面。</span><span class="english">Bézier Barbie doll is the opposite.</span></p>

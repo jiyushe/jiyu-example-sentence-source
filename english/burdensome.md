@@ -1,5 +1,7 @@
 # burdensome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burdensome.md)
+
 <p><span class="chinese">基础结构变得如此繁重以至于人们都避免使用它</span><span class="english">The infrastructure becomes so burdensome that people avoid using it</span></p>
 
 <p><span class="chinese">他望了望屋子，一想起收拾行李他就心烦。</span><span class="english">He glanced about the room, and the thought of packing was burdensome.</span></p>

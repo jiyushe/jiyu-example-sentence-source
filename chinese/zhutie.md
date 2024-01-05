@@ -1,5 +1,7 @@
 # 铸铁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhutie.md)
+
 <p><span class="chinese">中等硬度铸铁。</span><span class="english">Smithing cast iron.</span></p>
 
 <p><span class="chinese">灰口铸铁的热处理。</span><span class="english">Gray cast iron heat treatment.</span></p>

@@ -1,5 +1,7 @@
 # 视死如归
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shisirugui.md)
+
 <p><span class="chinese">视死如归，就在今天！</span><span class="english">Today is a good day to die!</span></p>
 
 <p><span class="chinese">神兵战士从天而降，他们临难无惧、视死如归。</span><span class="english">Fighting soldiers from the sky, Fearless men who jump and die.</span></p>

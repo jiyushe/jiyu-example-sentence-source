@@ -1,5 +1,7 @@
 # vividly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vividly.md)
+
 <p><span class="chinese">谁是最鲜明的例外？</span><span class="english">Who comes to mind most vividly?</span></p>
 
 <p><span class="chinese">快乐，悲伤，全都历历在目。</span><span class="english">Happiness, sadness, all vividly.</span></p>

@@ -1,5 +1,7 @@
 # 作壁上观
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuobishangguan.md)
+
 <p><span class="chinese">这给了大众一种印象，警方仅仅满足于作壁上观。</span><span class="english">This gave the impression that the police were content simply to look on.</span></p>
 
 <p><span class="chinese">此战麦蒂依然作壁上观，瓦佛尔取而代之获得了首发的位置。</span><span class="english">This war is still sidelined McGrady, Dover tile was replaced by the first place.</span></p>

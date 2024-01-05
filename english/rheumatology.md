@@ -1,5 +1,7 @@
 # rheumatology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rheumatology.md)
+
 <p><span class="chinese">贝勒临床风湿病学最佳实践。</span><span class="english">Bailliere's Best Practice in Clinical Rheumatology.</span></p>
 
 <p><span class="chinese">贝勒临床风湿病学最佳实践与研究。</span><span class="english">Bailliere's Best Practice & Research in Clinical Rheumatology.</span></p>

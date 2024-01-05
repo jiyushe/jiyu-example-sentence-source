@@ -1,5 +1,7 @@
 # 温馨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenxin.md)
+
 <p><span class="chinese">比过圣诞节温馨。</span><span class="english">Warmer than Christmas.</span></p>
 
 <p><span class="chinese">它是多么美好，温馨的一个名字啊。</span><span class="english">It's such a nice, homey name.</span></p>

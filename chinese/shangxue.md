@@ -1,5 +1,7 @@
 # 上学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangxue.md)
+
 <p><span class="chinese">我们去上学。</span><span class="english">We go to scholl.</span></p>
 
 <p><span class="chinese">你喜不喜欢上学?。</span><span class="english">Do you enjoy shool?</span></p>

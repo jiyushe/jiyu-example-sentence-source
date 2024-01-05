@@ -1,5 +1,7 @@
 # 工料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongliao.md)
+
 <p><span class="chinese">估价人员被给以不受干扰的时间进行工料估计。</span><span class="english">Estimators are given uninterrupted time for quantity take-off.</span></p>
 
 <p><span class="chinese">这套座椅工料精良，色泽韭深，厚重典雅，可谓精美绝伦。</span><span class="english">The set of chairs and tables are of good material, leek color, massiness and elegance.</span></p>

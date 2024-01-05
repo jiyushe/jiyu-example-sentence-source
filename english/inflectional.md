@@ -1,5 +1,7 @@
 # inflectional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inflectional.md)
+
 <p><span class="chinese">形态学有屈折形态学和词汇形态学之分。</span><span class="english">Morphology consists of inflectional morphology and lexical morphology.</span></p>
 
 <p><span class="chinese">孔的大小在屈曲时增加，伸展时减少。</span><span class="english">The size of aperture is in inflectional when increase, decrease when extend.</span></p>

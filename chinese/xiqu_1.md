@@ -1,5 +1,7 @@
 # 戏曲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiqu_1.md)
+
 <p><span class="chinese">我在湖北省地方戏曲剧院工作。</span><span class="english">I am working in a drama showplace.</span></p>
 
 <p><span class="chinese">河南曲剧是一门综合性戏曲艺术。</span><span class="english">Henan Opera is a comprehensive art.</span></p>

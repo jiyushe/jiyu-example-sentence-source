@@ -1,5 +1,7 @@
 # 自然选择
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziranxuanze.md)
+
 <p><span class="chinese">与自然选择不同。</span><span class="english">In natural selection, certain things happen.</span></p>
 
 <p><span class="chinese">大自然选择不再进入到「无统一」的舞蹈中。</span><span class="english">Nature chose not to enter the dance of non- unity.</span></p>

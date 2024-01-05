@@ -1,5 +1,7 @@
 # 武工队
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wugongdui.md)
+
 <p><span class="chinese">他就是这样以极大的耐心建立了一支武工队。</span><span class="english">By dint of great patience, he built up an Armed Working Team.</span></p>
 
 <p><span class="chinese">然后我们派遣武工队到群众中去进行活动。</span><span class="english">Then we sent our armed work teams to operate among the masses.</span></p>

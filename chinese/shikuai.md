@@ -1,5 +1,7 @@
 # 市侩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shikuai.md)
+
 <p><span class="chinese">时间限制了艺术家的骄傲和市侩的鄙俗。</span><span class="english">Time curbed the artist's pride and the philistine's vulgarity.</span></p>
 
 <p><span class="chinese">特别是他“玩儿”艺术，不求功名，不问市侩。</span><span class="english">Particularly he play with arts, and don't pursuit fame and secular.</span></p>

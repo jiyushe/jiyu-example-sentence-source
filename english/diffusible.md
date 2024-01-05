@@ -1,5 +1,7 @@
 # diffusible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diffusible.md)
+
 <p><span class="chinese">提出了预报和控制扩散氢的方法，这对焊条设计具有指导意义。</span><span class="english">The methods of forecasting and controlling the diffusible hydrogen are presented.</span></p>
 
 <p><span class="chinese">按照甘油法测定焊缝金属扩散氢的含量。</span><span class="english">The content of diffusible hydrogen in welded metal was determined according to the Glycerine method.</span></p>

@@ -1,5 +1,7 @@
 # rout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rout.md)
+
 <p><span class="chinese">猪总是用鼻子拱土。</span><span class="english">Pigs always rout in the earth.</span></p>
 
 <p><span class="chinese">敌人已全线崩溃。正在加载用户记忆法…</span><span class="english">The enemy was put to rout all along the line.</span></p>

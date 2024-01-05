@@ -1,5 +1,7 @@
 # 投机倒把
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toujidaoba.md)
+
 <p><span class="chinese">他跟投机倒把分子有瓜葛。</span><span class="english">He's got mixed up with speculators.</span></p>
 
 <p><span class="chinese">正如艾伯特丁尼生所说的，投机倒把里出现了裂罅。</span><span class="english">There was a rift within the loot, as albert tennyson says.</span></p>

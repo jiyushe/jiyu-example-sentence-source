@@ -1,5 +1,7 @@
 # sledge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sledge.md)
+
 <p><span class="chinese">雪橇沿著山坡向下滑行。</span><span class="english">The sledge coasted down the slope.</span></p>
 
 <p><span class="chinese">我们再来看下雪橇在光滑冰面上滑行的例子。</span><span class="english">Well , a sledge sliding on flat ice.</span></p>

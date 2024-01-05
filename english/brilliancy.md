@@ -1,5 +1,7 @@
 # brilliancy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brilliancy.md)
+
 <p><span class="chinese">她的钻戒闪耀夺目。</span><span class="english">Her diamond ring dazzled with brilliancy.</span></p>
 
 <p><span class="chinese">她那容光焕发的微笑似乎是残酷的。</span><span class="english">Smile seemed heartless in its brilliancy.</span></p>

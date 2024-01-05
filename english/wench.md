@@ -1,5 +1,7 @@
 # wench
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wench.md)
+
 <p><span class="chinese">一个女仆给我们端来麦芽酒。</span><span class="english">A serving wench brought us our ale.</span></p>
 
 <p><span class="chinese">这丫头到底打得什么鬼主意？</span><span class="english">This wench exactly knocks what crafty fancy?</span></p>

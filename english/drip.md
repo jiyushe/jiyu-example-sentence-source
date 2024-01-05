@@ -1,5 +1,7 @@
 # drip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drip.md)
+
 <p><span class="chinese">雨从树间滴下。</span><span class="english">The trees drip rain.</span></p>
 
 <p><span class="chinese">这就是鼻后滴涕。</span><span class="english">This is post-nasal drip.</span></p>

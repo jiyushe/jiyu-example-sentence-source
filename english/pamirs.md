@@ -1,5 +1,7 @@
 # pamirs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pamirs.md)
+
 <p><span class="chinese">从那里去的道路跨越帕米尔高原，并继续中国。</span><span class="english">From there, the road went across the Pamirs and continued to China.</span></p>
 
 <p><span class="chinese">当西部的帕米尔高原还是沉沉黑夜时，而东方早已是旭日初升的黎明。</span><span class="english">When the Pamirs are cloaked in night, the morning sun is shining brightly over east China.</span></p>

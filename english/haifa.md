@@ -1,5 +1,7 @@
 # haifa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haifa.md)
+
 <p><span class="chinese">三年前，海法街是由叛乱者统治的。</span><span class="english">Haifa Street was in the hands of insurgents three years ago.</span></p>
 
 <p><span class="chinese">当时，海法街上的尸体堆积得像捆捆干草。</span><span class="english">At the time, bodies were stacked up like bales of hay on Haifa Street.</span></p>

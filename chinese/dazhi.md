@@ -1,5 +1,7 @@
 # 大致
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dazhi.md)
+
 <p><span class="chinese">大致是这个意思。</span><span class="english">that's paraphrasing.</span></p>
 
 <p><span class="chinese">他大致的意思是这样的</span><span class="english">That's a rough translation.</span></p>

@@ -1,5 +1,7 @@
 # estuarine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/estuarine.md)
+
 <p><span class="chinese">开放型河口海水养殖主要有</span><span class="english">The main types of open-water estuarine mariculture include</span></p>
 
 <p><span class="chinese">温暖气候下沿海或河口的木本沼泽以红树林为主。</span><span class="english">Coastal and estuarine swamps in warm climates are dominated by MANGROVES.</span></p>

@@ -1,5 +1,7 @@
 # 感化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganhua_1.md)
+
 <p><span class="chinese">音乐可以感化兽心。</span><span class="english">Music can reform heart of beast.</span></p>
 
 <p><span class="chinese">你将要受到感化与改造。</span><span class="english">You will be reclaimed and formed.</span></p>

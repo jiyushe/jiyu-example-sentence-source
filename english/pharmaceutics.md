@@ -1,5 +1,7 @@
 # pharmaceutics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pharmaceutics.md)
+
 <p><span class="chinese">药学与药剂学的区别？</span><span class="english">Does medicine learn the distinction with pharmaceutics?</span></p>
 
 <p><span class="chinese">欧洲制药学与生物制药学杂志。</span><span class="english">European Journal of Pharmaceutics and Biopharmaceutics.</span></p>

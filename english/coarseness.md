@@ -1,5 +1,7 @@
 # coarseness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coarseness.md)
+
 <p><span class="chinese">蓝色有时象征沉闷悲哀，有时又象征淫秽。</span><span class="english">Blue symbols sadness and sometimes coarseness.</span></p>
 
 <p><span class="chinese">被毛中等长度，粗硬。</span><span class="english">He has a coat of moderate length and coarseness.</span></p>

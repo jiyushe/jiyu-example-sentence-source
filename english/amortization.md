@@ -1,5 +1,7 @@
 # amortization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amortization.md)
+
 <p><span class="chinese">摊销期限不得少于一年。</span><span class="english">The amortization period shall not be less than one year.</span></p>
 
 <p><span class="chinese">但是对于其他的长期待摊费用，你必须根据使用年限进行摊销。</span><span class="english">Other expenses that shall be treated as long-term amortization fees.</span></p>

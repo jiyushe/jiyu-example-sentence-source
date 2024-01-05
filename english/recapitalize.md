@@ -1,5 +1,7 @@
 # recapitalize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recapitalize.md)
+
 <p><span class="chinese">相反，政府处于不利的地位去调整资金。</span><span class="english">Governments, in turn, are in bad shape to recapitalize them.</span></p>
 
 <p><span class="chinese">坏账将迫使政府介入，并对银行进行资本重组。</span><span class="english">Bad loans could force the government to step in and recapitalize banks.</span></p>

@@ -1,5 +1,7 @@
 # tablespoon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tablespoon.md)
+
 <p><span class="chinese">平底锅里加入2汤匙油。</span><span class="english">Add 2 tablespoon oil to pan.</span></p>
 
 <p><span class="chinese">睡前要喝满满一大勺。</span><span class="english">One tablespoon to be taken at bed-time.</span></p>

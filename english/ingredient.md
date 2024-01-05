@@ -1,5 +1,7 @@
 # ingredient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ingredient.md)
+
 <p><span class="chinese">一种酸性成分。</span><span class="english">An acidic ingredient.</span></p>
 
 <p><span class="chinese">在购买时要阅读成分表。</span><span class="english">Read the ingredient list.</span></p>

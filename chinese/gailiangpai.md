@@ -1,5 +1,7 @@
 # 改良派
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gailiangpai.md)
+
 <p><span class="chinese">他们不在乎被别人叫做土匪或改良派。</span><span class="english">They do not care whether they are called bandits or reformers.</span></p>
 
 <p><span class="chinese">康有为既为资产阶级改良派领导人，亦是“诗界革命”派诗人。</span><span class="english">Kang Youwei is the bourgeoisie reformist leader, also a poet of "the poem revolution".</span></p>

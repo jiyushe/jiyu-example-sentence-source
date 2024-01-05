@@ -1,5 +1,7 @@
 # 元勋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanxun.md)
+
 <p><span class="chinese">美国的开国元勋们相信共同价值。</span><span class="english">Our founders believed in universal values.</span></p>
 
 <p><span class="chinese">刘能成了村里的元勋，在村里摆起谱来。</span><span class="english">Liu can become the village in the village of hero, swing-up spectrum.</span></p>

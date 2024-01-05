@@ -1,5 +1,7 @@
 # 慵懒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yonglan.md)
+
 <p><span class="chinese">我们是金贵的，也是慵懒的。</span><span class="english">We are precious and lazy.</span></p>
 
 <p><span class="chinese">他喜欢戴着慵懒感觉的帽子来体现他的风格。</span><span class="english">He likes to wear slouchy hat for style.</span></p>

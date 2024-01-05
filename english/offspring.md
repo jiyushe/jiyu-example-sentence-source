@@ -1,5 +1,7 @@
 # offspring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/offspring.md)
+
 <p><span class="chinese">杰克是她唯一的后代。</span><span class="english">Jack is her only offspring.</span></p>
 
 <p><span class="chinese">乃是他愿人得虔诚的后裔。</span><span class="english">Because he was seeking godly offspring.</span></p>

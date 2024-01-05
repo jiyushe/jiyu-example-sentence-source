@@ -1,5 +1,7 @@
 # italia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/italia.md)
+
 <p><span class="chinese">不，他们都在意大利。</span><span class="english">No, loro stanno tutti in Italia.</span></p>
 
 <p><span class="chinese">出去为意大利吹吧，为意大利人吹吧。</span><span class="english">Go out there and lie for Italy. Lie for Italia.</span></p>

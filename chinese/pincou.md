@@ -1,5 +1,7 @@
 # 拼凑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pincou.md)
+
 <p><span class="chinese">我们想把他们拼凑在一起。</span><span class="english">We want to put pieces together.</span></p>
 
 <p><span class="chinese">哈拉比勉强拼凑了一场庆祝会。</span><span class="english">Halaby hoked up a special ceremony.</span></p>

@@ -1,5 +1,7 @@
 # gorilla
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gorilla.md)
+
 <p><span class="chinese">你会给一只猿挠痒痒吗？</span><span class="english">Would you tickle a gorilla?</span></p>
 
 <p><span class="chinese">就像你是这间房间里的一只800磅的大猩猩一样。</span><span class="english">Looks are an 800-pound gorilla in the room.</span></p>

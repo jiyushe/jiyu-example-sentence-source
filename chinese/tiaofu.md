@@ -1,5 +1,7 @@
 # 挑夫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaofu.md)
+
 <p><span class="chinese">我需要找一个挑夫。</span><span class="english">I need a porter.</span></p>
 
 <p><span class="chinese">在车站他请一个挑夫把行李放进火车里。</span><span class="english">There he asked a porter to put it into the train.</span></p>

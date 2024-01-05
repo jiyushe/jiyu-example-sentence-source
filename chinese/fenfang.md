@@ -1,5 +1,7 @@
 # 分房
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenfang.md)
+
 <p><span class="chinese">轻松处理团队客人分房。</span><span class="english">Easy handle rooming list of group.</span></p>
 
 <p><span class="chinese">有些情形下夫妻必须分房睡。</span><span class="english">In some cases, couples have to sleep in separate bedrooms.</span></p>

@@ -1,5 +1,7 @@
 # attendant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attendant.md)
+
 <p><span class="chinese">谁是技术熟练的接生员？</span><span class="english">Who is a skilled birth attendant?</span></p>
 
 <p><span class="chinese">内侍罗马教皇的名誉侍从。</span><span class="english">An often honorary papal attendant.</span></p>

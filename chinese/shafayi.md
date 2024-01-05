@@ -1,5 +1,7 @@
 # 沙发椅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shafayi.md)
+
 <p><span class="chinese">那边，沙发椅旁边。?。</span><span class="english">Over there, by the couch.</span></p>
 
 <p><span class="chinese">你会在他的沙发椅上做吗?。</span><span class="english">Think you'll do it on his couch.</span></p>

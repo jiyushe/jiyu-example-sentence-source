@@ -1,5 +1,7 @@
 # allowance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allowance.md)
+
 <p><span class="chinese">对要求权的允准。</span><span class="english">The allowance of a claim.</span></p>
 
 <p><span class="chinese">给你自己一个限额。</span><span class="english">Give yourself an allowance.</span></p>

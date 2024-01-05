@@ -1,5 +1,7 @@
 # agreeably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agreeably.md)
+
 <p><span class="chinese">我欣然地说好的，然后就挂断了。</span><span class="english">I said yes agreeably , and hanged off.</span></p>
 
 <p><span class="chinese">“我也这么想，”嘉莉附和着说。</span><span class="english">"I expect so, " said Carrie, agreeably.</span></p>

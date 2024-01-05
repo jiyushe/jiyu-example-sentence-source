@@ -1,5 +1,7 @@
 # deterministic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deterministic.md)
+
 <p><span class="chinese">短暂的确定性响应时间</span><span class="english">Short deterministic response latencies</span></p>
 
 <p><span class="chinese">它是如何实现确定性终结的。</span><span class="english">How does it support deterministic finalization?</span></p>

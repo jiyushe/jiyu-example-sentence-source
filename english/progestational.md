@@ -1,5 +1,7 @@
 # progestational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/progestational.md)
+
 <p><span class="chinese">孕激素。雌激素都很低，这能治好吗？</span><span class="english">Progestational hormone. Estrogen is very low, can be this treated?</span></p>
 
 <p><span class="chinese">孕激素与雌激素对宫颈黏液的分泌作用是完全相反的。</span><span class="english">The exudation of progestational hormone and estrogen to palace neck mucus action is completely contrary.</span></p>

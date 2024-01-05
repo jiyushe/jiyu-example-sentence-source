@@ -1,5 +1,7 @@
 # 门当户对
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mendanghudui.md)
+
 <p><span class="chinese">我不反对“门当户对”，但也不支持。</span><span class="english">I do not oppose it, and don't support also.</span></p>
 
 <p><span class="chinese">她那么漂亮，我们根本就不门当户对。</span><span class="english">She is so cute that I think she is out of my league.</span></p>

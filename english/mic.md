@@ -1,5 +1,7 @@
 # mic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mic.md)
+
 <p><span class="chinese">你想和我语聊吗？</span><span class="english">Do you wanna talk to me on mic?</span></p>
 
 <p><span class="chinese">麦克风开了吗，好，这样可以。</span><span class="english">Is the mic on? Oh. This is fine.</span></p>

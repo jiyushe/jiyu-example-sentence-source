@@ -1,5 +1,7 @@
 # usga
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/usga.md)
+
 <p><span class="chinese">我认为我们能完成美高协需要的一切东西。</span><span class="english">I think we were able to accomplish everything that the USGA wanted.</span></p>
 
 <p><span class="chinese">该样品归美国高尔夫球协会所有并用于参考目的。</span><span class="english">The sample becomes the property of the USGA for reference purposes.</span></p>

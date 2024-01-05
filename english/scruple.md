@@ -1,5 +1,7 @@
 # scruple
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scruple.md)
+
 <p><span class="chinese">完全没有一点道德顾虑。</span><span class="english">There's no moral scruple.</span></p>
 
 <p><span class="chinese">他满不在乎地打算用这笔钱。</span><span class="english">He did not scruple to use it.</span></p>

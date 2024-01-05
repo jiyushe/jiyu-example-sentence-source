@@ -1,5 +1,7 @@
 # keratitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/keratitis.md)
+
 <p><span class="chinese">过敏性角膜炎上怎么治疗？</span><span class="english">How to treat on irritability keratitis?</span></p>
 
 <p><span class="chinese">柯根化综合症包括间质性角膜炎。</span><span class="english">Cogan's syndrome consists of an interstitial keratitis.</span></p>

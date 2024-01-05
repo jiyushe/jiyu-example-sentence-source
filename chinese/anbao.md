@@ -1,5 +1,7 @@
 # 安保
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/anbao.md)
+
 <p><span class="chinese">瑞思考勒，这位62岁退休的授勋陆军上校，多年前就开始关注世界贸易中心的安保问题。</span><span class="english">World Trade Center for years.</span></p>
 
 <p><span class="chinese">安保人员和和谐之钟。</span><span class="english">Security guard with the Harmony Bell.</span></p>

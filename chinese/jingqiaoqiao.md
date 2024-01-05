@@ -1,5 +1,7 @@
 # 静悄悄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingqiaoqiao.md)
+
 <p><span class="chinese">这个星期，嘎纳静悄悄。</span><span class="english">CANNES was quiet this week.</span></p>
 
 <p><span class="chinese">屋子里静悄悄的。</span><span class="english">It was very quiet in the room.</span></p>

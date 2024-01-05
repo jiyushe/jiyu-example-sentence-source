@@ -1,5 +1,7 @@
 # ovariectomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ovariectomy.md)
+
 <p><span class="chinese">结论卵巢切除后，胫骨骨折愈合缓慢。</span><span class="english">Conclusion Tibia fracture healing delays after ovariectomy.</span></p>
 
 <p><span class="chinese">结论切除大鼠双侧卵巢后4周即可制备大鼠的骨质疏松动物模型。</span><span class="english">Conclusions Osteoporosis in the rats begins to occur at the end of 4 weeks after ovariectomy.</span></p>

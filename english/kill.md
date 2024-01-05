@@ -1,5 +1,7 @@
 # kill 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kill.md)
+
 <p><span class="chinese">杀死它！</span><span class="english">Kill it!</span></p>
 
 <p><span class="chinese">狮子我都杀过！</span><span class="english">I kill lion.</span></p>

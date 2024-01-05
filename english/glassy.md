@@ -1,5 +1,7 @@
 # glassy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glassy.md)
+
 <p><span class="chinese">地上薄薄地铺了一层雪。</span><span class="english">A thin, glassy coating of ice.</span></p>
 
 <p><span class="chinese">她给我看了装满几个托盘的透明的美味珍品。</span><span class="english">She revealed some trays of glassy titbits.</span></p>

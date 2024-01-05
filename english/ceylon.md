@@ -1,5 +1,7 @@
 # ceylon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ceylon.md)
+
 <p><span class="chinese">石墨开采自锡兰。</span><span class="english">The graphite is mined in Ceylon.</span></p>
 
 <p><span class="chinese">锡兰是印度南边的一个岛。</span><span class="english">Ceylon is an island at the south of India.</span></p>

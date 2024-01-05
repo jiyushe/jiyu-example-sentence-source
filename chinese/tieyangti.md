@@ -1,5 +1,7 @@
 # 铁氧体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tieyangti.md)
+
 <p><span class="chinese">叠层片式铁氧体大电流磁珠—PB系列。</span><span class="english">Multilayer Chip Ferrite Large Current Bead – PB Series.</span></p>
 
 <p><span class="chinese">磁导率是软磁铁氧体材料的基本参数之一。</span><span class="english">Permeability is an important parameter of soft magnetic.</span></p>

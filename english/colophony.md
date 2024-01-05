@@ -1,5 +1,7 @@
 # colophony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colophony.md)
+
 <p><span class="chinese">门厅小桌，茶几，镜子都是树脂材料的。</span><span class="english">Vestibular teapoy, tea table, the mirror is colophony material.</span></p>
 
 <p><span class="chinese">另外，以天然树脂装饰的家具也是较好选择。</span><span class="english">Additional, with furniture of natural colophony illuminative also be better choice.</span></p>

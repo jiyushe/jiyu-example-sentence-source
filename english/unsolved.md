@@ -1,5 +1,7 @@
 # unsolved
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsolved.md)
+
 <p><span class="chinese">在神没有查不出的罪或秘密。</span><span class="english">There are no unsolved mysteries or crimes with God.</span></p>
 
 <p><span class="chinese">这宗谜案也可能和许多其他网络悬案一样，成为人们心中永远的问号。</span><span class="english">That hacking mystery, like so many others, may go unsolved.</span></p>

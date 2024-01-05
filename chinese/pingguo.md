@@ -1,5 +1,7 @@
 # 苹果
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingguo.md)
+
 <p><span class="chinese">没错儿，苹果。</span><span class="english">Yes, Apple.</span></p>
 
 <p><span class="chinese">除了对苹果。</span><span class="english">Except for Apple.</span></p>

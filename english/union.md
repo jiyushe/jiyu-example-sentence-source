@@ -1,5 +1,7 @@
 # union 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/union.md)
+
 <p><span class="chinese">病证结合。</span><span class="english">Sickness card union.</span></p>
 
 <p><span class="chinese">这是一个精神联盟。</span><span class="english">It was a spirit union.</span></p>

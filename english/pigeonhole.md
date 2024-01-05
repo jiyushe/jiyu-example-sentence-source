@@ -1,5 +1,7 @@
 # pigeonhole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pigeonhole.md)
+
 <p><span class="chinese">把人分类。</span><span class="english">Pigeonhole people.</span></p>
 
 <p><span class="chinese">这是一个抑压的时代。</span><span class="english">These it is one that restrain era that pigeonhole.</span></p>

@@ -1,5 +1,7 @@
 # sock 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sock.md)
+
 <p><span class="chinese">这些是约翰的短袜子。</span><span class="english">These is john's sock.</span></p>
 
 <p><span class="chinese">找相匹配的袜子。</span><span class="english">Look for matching sock.</span></p>

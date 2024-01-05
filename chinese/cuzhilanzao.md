@@ -1,5 +1,7 @@
 # 粗制滥造
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuzhilanzao.md)
+
 <p><span class="chinese">这是一部粗制滥造的电影片子。</span><span class="english">The film is a piece of schlock.</span></p>
 
 <p><span class="chinese">有些电视剧是粗制滥造的。</span><span class="english">Some TV plays are made in a rough and slipshod way.</span></p>

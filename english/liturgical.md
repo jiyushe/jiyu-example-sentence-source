@@ -1,5 +1,7 @@
 # liturgical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liturgical.md)
+
 <p><span class="chinese">将临期的开始，标志著新一礼仪年的来临。</span><span class="english">With the beginning of the season of Advent we begin a new liturgical year.</span></p>
 
 <p><span class="chinese">霍夫曼有限公司成立于1923年，起初是从事礼仪图书的出版商。</span><span class="english">The company Hofmann, S. L. , was founded in 1923 as a publisher of liturgical books.</span></p>

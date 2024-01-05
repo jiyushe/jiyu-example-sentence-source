@@ -1,5 +1,7 @@
 # sportsman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sportsman.md)
+
 <p><span class="chinese">书呆子问运动员。</span><span class="english">Bookworm asked Sportsman.</span></p>
 
 <p><span class="chinese">那运动员掷标枪。</span><span class="english">The sportsman hurled the javelin.</span></p>

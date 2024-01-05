@@ -1,5 +1,7 @@
 # seismometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seismometer.md)
+
 <p><span class="chinese">我怎样才能做一个我自己的测震仪？</span><span class="english">How can I make my own seismometer?</span></p>
 
 <p><span class="chinese">地震仪是由张衡发明的。</span><span class="english">The seismometer was invented by Zhang Heng.</span></p>

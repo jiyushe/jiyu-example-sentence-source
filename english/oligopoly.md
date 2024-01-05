@@ -1,5 +1,7 @@
 # oligopoly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oligopoly.md)
+
 <p><span class="chinese">汽油市郴垄断。</span><span class="english">The petrol market is an oligopoly.</span></p>
 
 <p><span class="chinese">我国成品油市场是一个寡头垄断市场。</span><span class="english">The refined oil market is an oligopoly market in our country.</span></p>

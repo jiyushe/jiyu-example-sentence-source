@@ -1,5 +1,7 @@
 # aplenty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aplenty.md)
+
 <p><span class="chinese">这是有机械加工新干事实在不少。</span><span class="english">Here is the new stem with machining work aplenty.</span></p>
 
 <p><span class="chinese">周末在这个地区这种机会是很丰富的哦。</span><span class="english">Well, this weekend, the choices are aplenty throughout the region.</span></p>

@@ -1,5 +1,7 @@
 # shackle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shackle.md)
+
 <p><span class="chinese">迷信是人们思想的一大桎梏。</span><span class="english">Superstition is a great shackle on men's minds.</span></p>
 
 <p><span class="chinese">她看起来也对她的左手腕桎梏。</span><span class="english">She also appears to have a shackle on her left wrist.</span></p>

@@ -1,5 +1,7 @@
 # 曾祖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zengzu.md)
+
 <p><span class="chinese">那是我曾祖彭取的花园。</span><span class="english">The garden of my ancestor, Ts'ui Pen.</span></p>
 
 <p><span class="chinese">而波阿斯与路得，便是大卫王的曾祖父母。</span><span class="english">Boaz and Ruth were the great-grandparents of king David.</span></p>

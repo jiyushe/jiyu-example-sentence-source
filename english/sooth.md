@@ -1,5 +1,7 @@
 # sooth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sooth.md)
+
 <p><span class="chinese">以抚慰和减轻你一次次悸动着的苦痛</span><span class="english">to sooth and lessen the throbbing painful bout.</span></p>
 
 <p><span class="chinese">一个重新发现财富人生的雪维平皱密码！</span><span class="english">A rediscovery of fortune life sooth wrinkle code!</span></p>

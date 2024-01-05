@@ -1,5 +1,7 @@
 # pylon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pylon.md)
+
 <p><span class="chinese">如今高压线塔被认为是一道亮丽的风景。</span><span class="english">A PYLON is supposed to be a beautiful thing.</span></p>
 
 <p><span class="chinese">拉索连续跨过塔架内的索鞍。</span><span class="english">Stays are continuous over saddles in the pylon.</span></p>

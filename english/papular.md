@@ -1,5 +1,7 @@
 # papular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/papular.md)
+
 <p><span class="chinese">学习诊断丘及结节之皮肤病变。</span><span class="english">Demonstrate ability to diagnose papular and nodular skin lesions.</span></p>
 
 <p><span class="chinese">分析比较了当前主要的三种异步电机速度辨识方法。</span><span class="english">Three papular approaches to IM speed identification are compared in simulation.</span></p>

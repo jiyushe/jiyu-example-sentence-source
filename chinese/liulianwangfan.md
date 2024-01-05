@@ -1,5 +1,7 @@
 # 流连忘返
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liulianwangfan.md)
+
 <p><span class="chinese">猴群与鹿群流连忘返。</span><span class="english">Haunted by monkeys and by deer.</span></p>
 
 <p><span class="chinese">梦想萦绕身边流连忘返。</span><span class="english">Dreams lingered by my side long.</span></p>

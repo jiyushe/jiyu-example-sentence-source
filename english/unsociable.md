@@ -1,5 +1,7 @@
 # unsociable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsociable.md)
+
 <p><span class="chinese">不，不，我宁可不善交际而且沉默。</span><span class="english">No. No, I prefer to be unsociable and taciturn.</span></p>
 
 <p><span class="chinese">不擅社交的人几乎不适合做外交家。</span><span class="english">The unsociable person is hardly fit for a diplomat.</span></p>

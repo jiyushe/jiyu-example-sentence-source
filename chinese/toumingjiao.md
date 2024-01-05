@@ -1,5 +1,7 @@
 # 透明胶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toumingjiao.md)
+
 <p><span class="chinese">附送透明胶手袋1个！</span><span class="english">Comes with 1 lovely Jelly Bag!</span></p>
 
 <p><span class="chinese">这个旋钮只是用透明胶带固定住的。</span><span class="english">This knob is only held on by sellotape.</span></p>

@@ -1,5 +1,7 @@
 # 溜冰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liubing.md)
+
 <p><span class="chinese">我们去溜冰刀吧！</span><span class="english">Let's go ice skating!</span></p>
 
 <p><span class="chinese">尝试下溜冰吧。</span><span class="english">Try going ice skating.</span></p>

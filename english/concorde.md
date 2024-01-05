@@ -1,5 +1,7 @@
 # concorde
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concorde.md)
+
 <p><span class="chinese">一架协和式超音速客机正降落在跑道上。</span><span class="english">Touching down on the runway is a Concorde supersonic jet.</span></p>
 
 <p><span class="chinese">协和和拿破仑饭店都没有游泳池。</span><span class="english">Neither the Concorde nor the Napoléon has a swimming pool.</span></p>

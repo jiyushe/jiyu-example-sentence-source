@@ -1,5 +1,7 @@
 # recondite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recondite.md)
+
 <p><span class="chinese">但是人渣的问题通常都问得太深奥。</span><span class="english">But Mr Dregs always asks recondite questions.</span></p>
 
 <p><span class="chinese">这篇深奥的论文很费解。</span><span class="english">The recondite treatise is hard to understand.</span></p>

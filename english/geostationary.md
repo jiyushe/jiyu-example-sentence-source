@@ -1,5 +1,7 @@
 # geostationary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geostationary.md)
+
 <p><span class="chinese">这张作品显示了近地轨道和地球同步轨道上的太空碎片。</span><span class="english">Artwork showing space debris in low and geostationary Earth orbit.</span></p>
 
 <p><span class="chinese">比如，通讯卫星有一个对地静止轨道。</span><span class="english">Communications satellites, for example, have a geostationary orbit.</span></p>

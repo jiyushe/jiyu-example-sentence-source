@@ -1,5 +1,7 @@
 # phenology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phenology.md)
+
 <p><span class="chinese">在生长速度和物候学上的差异是大的。</span><span class="english">The differences in growth rate and phenology are large.</span></p>
 
 <p><span class="chinese">物候变化是比物种分布更为清晰的信号。</span><span class="english">Phenology signals are clearer than changes in species distribution.</span></p>

@@ -1,5 +1,7 @@
 # minnow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minnow.md)
+
 <p><span class="chinese">华君武画的一个人，与这条鲦鱼很相似。</span><span class="english">Hua Junwu painting of a person, and this is very similar to minnow.</span></p>
 
 <p><span class="chinese">即使是蓝鲸宝宝，相较之下也能让一名成年人看起来给小鲤鱼一样。</span><span class="english">Even as a baby, a blue whale can make a grown man look like a minnow.</span></p>

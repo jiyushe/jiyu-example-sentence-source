@@ -1,5 +1,7 @@
 # 反动派
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fandongpai.md)
+
 <p><span class="chinese">反动派必定失败。</span><span class="english">Reactionaries are bound to fail.</span></p>
 
 <p><span class="chinese">一切反动派都没有好下场。</span><span class="english">All reactionaries will come to no good.</span></p>

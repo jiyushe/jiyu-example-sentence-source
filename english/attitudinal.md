@@ -1,5 +1,7 @@
 # attitudinal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attitudinal.md)
+
 <p><span class="chinese">所以转变态度才是关键。</span><span class="english">So really the change has to be attitudinal.</span></p>
 
 <p><span class="chinese">而态度热情在汉语文化中被认为是非常有礼貌的。</span><span class="english">Attitudinal warmth is considered very polite in the Chinese culture.</span></p>

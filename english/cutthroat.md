@@ -1,5 +1,7 @@
 # cutthroat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cutthroat.md)
+
 <p><span class="chinese">因此，竞争是你死我活的。</span><span class="english">So it is cutthroat competition.</span></p>
 
 <p><span class="chinese">他在这产业遇到割喉战。</span><span class="english">He encountered cutthroat competition in that industry.</span></p>

@@ -1,5 +1,7 @@
 # bellow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bellow.md)
+
 <p><span class="chinese">甲、乙双方如有特殊约定将在下列另行规定。</span><span class="english">Other special terms will be listed bellow.</span></p>
 
 <p><span class="chinese">更详细的关于入侵者的解释，贝娄。</span><span class="english">More details about the intruders are explained bellow.</span></p>

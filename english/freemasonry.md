@@ -1,5 +1,7 @@
 # freemasonry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freemasonry.md)
+
 <p><span class="chinese">他是共济会中非常活跃的分子。</span><span class="english">He was very active in Freemasonry.</span></p>
 
 <p><span class="chinese">光明会和共济会是否同样的事情？</span><span class="english">Is the Illuminati the same thing as Freemasonry?</span></p>

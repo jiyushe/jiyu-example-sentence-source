@@ -1,5 +1,7 @@
 # 一席之地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yixizhidi.md)
+
 <p><span class="chinese">你在我心中总有一席之地.</span><span class="english">You are here in my heart.</span></p>
 
 <p><span class="chinese">如今也能在民间音乐里站得一席之地</span><span class="english">It has some legs today, used in folk music.</span></p>

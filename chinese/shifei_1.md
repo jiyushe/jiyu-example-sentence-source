@@ -1,5 +1,7 @@
 # 试飞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shifei_1.md)
+
 <p><span class="chinese">整个试飞过程持续了约25分钟。</span><span class="english">The entire test flight lasted about 25 minutes.</span></p>
 
 <p><span class="chinese">正是新型战机的试飞让中国走进了精英俱乐部。</span><span class="english">The test flight puts China in a very elite club.</span></p>

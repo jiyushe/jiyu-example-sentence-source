@@ -1,5 +1,7 @@
 # nevertheless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nevertheless.md)
+
 <p><span class="chinese">两分钟以还你会上电视。</span><span class="english">You'll nevertheless be on air in two minutes.</span></p>
 
 <p><span class="chinese">小麻雀实在看不过去了。</span><span class="english">Small spadger looked to go nevertheless really.</span></p>

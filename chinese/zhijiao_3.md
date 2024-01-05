@@ -1,5 +1,7 @@
 # 直角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhijiao_3.md)
+
 <p><span class="chinese">变成直角三角形。</span><span class="english">To right-angled triangles.</span></p>
 
 <p><span class="chinese">你就得到一个直角三角形。</span><span class="english">You have a right triangle.</span></p>

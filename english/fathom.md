@@ -1,5 +1,7 @@
 # fathom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fathom.md)
+
 <p><span class="chinese">我不能充分理解他的话。</span><span class="english">I cannot fathom his remarks.</span></p>
 
 <p><span class="chinese">我不能完全猜透你的意思。</span><span class="english">I can't fathom what you mean.</span></p>

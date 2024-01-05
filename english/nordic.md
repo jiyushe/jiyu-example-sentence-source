@@ -1,5 +1,7 @@
 # Nordic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nordic.md)
+
 <p><span class="chinese">在你家也开始学一次北欧传统吧。</span><span class="english">Start a Nordic tradition in your house.</span></p>
 
 <p><span class="chinese">北欧的侦探经常疲惫而不修边幅。</span><span class="english">The Nordic detective is often careworn and rumpled.</span></p>

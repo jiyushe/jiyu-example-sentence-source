@@ -1,5 +1,7 @@
 # amalgam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amalgam.md)
+
 <p><span class="chinese">银汞合金被用作牙的填料。</span><span class="english">Silver amalgam is used as a dental filling.</span></p>
 
 <p><span class="chinese">高铜银汞合金表现为中度细胞毒性。</span><span class="english">The high-copper amalgam showed medium cytotoxicity.</span></p>

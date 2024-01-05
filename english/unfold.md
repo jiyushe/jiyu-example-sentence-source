@@ -1,5 +1,7 @@
 # unfold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unfold.md)
+
 <p><span class="chinese">蓓蕾开成花朵。</span><span class="english">Buds unfold into flowers.</span></p>
 
 <p><span class="chinese">莉兹，打开你的餐巾。</span><span class="english">Liz unfold your table napkin.</span></p>

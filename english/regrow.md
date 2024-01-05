@@ -1,5 +1,7 @@
 # regrow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regrow.md)
+
 <p><span class="chinese">有些爬行动物的尾巴被割掉后可以重新长出来。</span><span class="english">Some reptiles can regrow their tails when they are cut away.</span></p>
 
 <p><span class="chinese">他可以看到神经是否可以再生，而老鼠仍在笼子里四处跑。</span><span class="english">He can see if it can regrow and the rat can still run around its cage.</span></p>

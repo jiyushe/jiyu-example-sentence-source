@@ -1,5 +1,7 @@
 # 口若悬河
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kouruoxuanhe.md)
+
 <p><span class="chinese">口若悬河，无所不能证明真有才智。</span><span class="english">A flow of phrases is no proof of wisdom.</span></p>
 
 <p><span class="chinese">有没有人质疑过那些口若悬河的家伙？</span><span class="english">Did anybody question any of that clap-trap then?</span></p>

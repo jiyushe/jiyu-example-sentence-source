@@ -1,5 +1,7 @@
 # nutrimental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nutrimental.md)
+
 <p><span class="chinese">对青螺肉的营养成分进行了检测和分析。</span><span class="english">The nutrimental composition of snail was detected and analyzed in this paper.</span></p>
 
 <p><span class="chinese">本文研究了清洗、搅拌等培养条件以及碳源、氮源和无机盐等营养元素对开菲尔粒增殖的影响。</span><span class="english">In this paper, the effect of kefir grains increase with different incubations and nutrimental resource was studied.</span></p>

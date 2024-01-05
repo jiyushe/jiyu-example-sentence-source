@@ -1,5 +1,7 @@
 # apropos
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apropos.md)
+
 <p><span class="chinese">你说话很恰当。</span><span class="english">You speak quite apropos.</span></p>
 
 <p><span class="chinese">我认为他说得很中肯。</span><span class="english">I thought he spoke very apropos.</span></p>

@@ -1,5 +1,7 @@
 # 稚拙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizhuo.md)
+
 <p><span class="chinese">稚拙美艺术由来已久、源远流长。</span><span class="english">Natural beauty art has a long history.</span></p>
 
 <p><span class="chinese">文章从原始绘画、儿童绘画两个方面来阐明什么是稚拙美。</span><span class="english">The essay tries to analyses what the immature beauty is by original and children painting.</span></p>

@@ -1,5 +1,7 @@
 # adriatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adriatic.md)
+
 <p><span class="chinese">城堡遗迹以及远处的亚的里亚海，希玛拉。</span><span class="english">Castle ruins with Adriatic Sea beyond, Himara.</span></p>
 
 <p><span class="chinese">布林迪西意大利南部一城市，位于巴里东南的亚得里亚海岸。</span><span class="english">A city of southern Italy Adriatic Sea southeast of Bari.</span></p>

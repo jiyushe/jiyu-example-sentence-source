@@ -1,5 +1,7 @@
 # 瓣膜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banmo.md)
+
 <p><span class="chinese">所有所需要的瓣膜也包括在内。</span><span class="english">All necessary valving is included also.</span></p>
 
 <p><span class="chinese">共植入人工机械瓣膜719例。</span><span class="english">There were 719 prosthetic heart valves implanted.</span></p>

@@ -1,5 +1,7 @@
 # maimed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maimed.md)
+
 <p><span class="chinese">他在一次车祸中残废了。</span><span class="english">He was maimed in the car accident.</span></p>
 
 <p><span class="chinese">汤姆在战争中受重伤而残废。</span><span class="english">Tom was seriously maimed in the war.</span></p>

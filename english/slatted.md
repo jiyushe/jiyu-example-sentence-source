@@ -1,5 +1,7 @@
 # slatted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slatted.md)
+
 <p><span class="chinese">旗子在风中啪啪作响。</span><span class="english">The flag slatted in the wind.</span></p>
 
 <p><span class="chinese">他摔下我的手稿就走了。</span><span class="english">He slatted my manuscript and went out.</span></p>

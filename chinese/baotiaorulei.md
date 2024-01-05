@@ -1,5 +1,7 @@
 # 暴跳如雷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baotiaorulei.md)
+
 <p><span class="chinese">她拒绝接受我的劝告，暴跳如雷地离开了房子。</span><span class="english">She refused my advice and flounced out of the house.</span></p>
 
 <p><span class="chinese">他们像一群被围困的野兽，张牙舞爪，暴跳如雷。</span><span class="english">They ramped and raged like a pack of trapped beasts.</span></p>

@@ -1,5 +1,7 @@
 # crucifix
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crucifix.md)
+
 <p><span class="chinese">那个十字架呢?。</span><span class="english">And the crucifix?</span></p>
 
 <p><span class="chinese">她看见一座十字架伫立在花园中央。</span><span class="english">She saw a crucifix in the garden.</span></p>

@@ -1,5 +1,7 @@
 # 本色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bense.md)
+
 <p><span class="chinese">到科比展现终结者本色的时候了。</span><span class="english">Time for Kobe to go Kyra.</span></p>
 
 <p><span class="chinese">喊出淋漓尽致的英雄本色！</span><span class="english">Shout out your inner-hero!</span></p>

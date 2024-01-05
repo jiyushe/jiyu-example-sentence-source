@@ -1,5 +1,7 @@
 # scape
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scape.md)
+
 <p><span class="chinese">旱田是该区域的主要景观。</span><span class="english">Dry land is a main land- scape in this area.</span></p>
 
 <p><span class="chinese">我们所有人都知道，我们永远不能逃离现实。</span><span class="english">We all know that we can never scape the reality.</span></p>

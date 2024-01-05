@@ -1,5 +1,7 @@
 # rubus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rubus.md)
+
 <p><span class="chinese">我国悬钩子属植物的研究。</span><span class="english">A study on the genus Rubus of China.</span></p>
 
 <p><span class="chinese">研究所采用的树莓试材种子均不存在胚性休眠。</span><span class="english">There was no embryonic dormancy of the Rubus seeds used in this study.</span></p>

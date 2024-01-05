@@ -1,5 +1,7 @@
 # besought
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/besought.md)
+
 <p><span class="chinese">他们恳求他肮话。</span><span class="english">He besought me for help.</span></p>
 
 <p><span class="chinese">他恳求她马上去。</span><span class="english">He besought her to go at once.</span></p>

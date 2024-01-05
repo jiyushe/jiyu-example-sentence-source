@@ -1,5 +1,7 @@
 # crusty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crusty.md)
+
 <p><span class="chinese">我最喜欢硬皮全麦面包。</span><span class="english">Crusty whole wheat bread is my favorite.</span></p>
 
 <p><span class="chinese">他老是用一根杆子探测硬雪。</span><span class="english">He kept probing the crusty snow with a pole.</span></p>

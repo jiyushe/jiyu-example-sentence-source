@@ -1,5 +1,7 @@
 # paleoenvironment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paleoenvironment.md)
+
 <p><span class="chinese">重建古气候、古环境已成为当今全球变化研究的热点。</span><span class="english">Reconstruct the paleoclimate and paleoenvironment has been the hotspot of the word.</span></p>
 
 <p><span class="chinese">古盐度的恢复是对古环境和古气候研究的重要方法之一。</span><span class="english">Paleosalinity recovery is one of the important methods for paleoenvironment and paleoclimate study.</span></p>

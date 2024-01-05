@@ -1,5 +1,7 @@
 # 争斗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengdou.md)
+
 <p><span class="chinese">谁有争斗？</span><span class="english">Who has contentions?</span></p>
 
 <p><span class="chinese">于是一场争斗不可避免地爆发了。</span><span class="english">So a combat broke out unavoidably.</span></p>

@@ -1,5 +1,7 @@
 # 风云突变
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengyuntubian.md)
+
 <p><span class="chinese">然而，一入秋天便风云突变。</span><span class="english">By autumn, however, clouds appeared unexpectedly.</span></p>
 
 <p><span class="chinese">然而，比赛最后10分钟风云突变。</span><span class="english">However, the final 10 minutes mutation situation.</span></p>

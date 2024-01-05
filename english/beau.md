@@ -1,5 +1,7 @@
 # beau
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beau.md)
+
 <p><span class="chinese">那她这位老情人现在怎么样了？</span><span class="english">So how is her old beau doing now?</span></p>
 
 <p><span class="chinese">玛丽告诉男友说，她俩关系就此结束。</span><span class="english">Mary told her beau she was through with him.</span></p>

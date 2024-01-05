@@ -1,5 +1,7 @@
 # 阵痛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhentong_1.md)
+
 <p><span class="chinese">卢旺达陷于种族灭绝的阵痛。</span><span class="english">Rwanda was in the throes of genocide.</span></p>
 
 <p><span class="chinese">你可能想知道什么时候开始阵痛？</span><span class="english">When will labor start, you’re likely wondering?</span></p>

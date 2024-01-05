@@ -1,5 +1,7 @@
 # 标准
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaozhun.md)
+
 <p><span class="chinese">标准轨距?。</span><span class="english">Standard Gauge?</span></p>
 
 <p><span class="chinese">基线标准。</span><span class="english">Standard-based.</span></p>

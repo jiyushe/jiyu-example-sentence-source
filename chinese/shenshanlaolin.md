@@ -1,5 +1,7 @@
 # 深山老林
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenshanlaolin.md)
+
 <p><span class="chinese">两个学生走在深山老林里。</span><span class="english">Two students were walking in a wild forest.</span></p>
 
 <p><span class="chinese">这只老虎已把拉于带入深山老林。</span><span class="english">The tiger carried Mr Raju deep into the woods.</span></p>

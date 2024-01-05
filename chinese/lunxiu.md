@@ -1,5 +1,7 @@
 # 轮休
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lunxiu.md)
+
 <p><span class="chinese">有几位球员将轮休，不过贝拉回来了。</span><span class="english">One or two will be rested. Vela is back.</span></p>
 
 <p><span class="chinese">一个球队决定摆烂，轮休他最好的球员。</span><span class="english">A team decides to tank and rests its best players.</span></p>

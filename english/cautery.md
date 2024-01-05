@@ -1,5 +1,7 @@
 # cautery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cautery.md)
+
 <p><span class="chinese">烧灼燃烧器必须消毒。</span><span class="english">Cautery burners need to be sterilized.</span></p>
 
 <p><span class="chinese">仿佛它已经被炮烙心上，融进血液和骨骼。</span><span class="english">As if it had been cautery heart, into the blood and bones.</span></p>

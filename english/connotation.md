@@ -1,5 +1,7 @@
 # connotation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/connotation.md)
+
 <p><span class="chinese">赋予了华亿崭新的内涵。</span><span class="english">Given the connotation of the new Asian.</span></p>
 
 <p><span class="chinese">第二章是基本内涵的界定。</span><span class="english">Chapter two definate the basic connotation.</span></p>

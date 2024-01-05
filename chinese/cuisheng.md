@@ -1,5 +1,7 @@
 # 催生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuisheng.md)
+
 <p><span class="chinese">又催生了什么？</span><span class="english">What does that produce?</span></p>
 
 <p><span class="chinese">在19世纪，那催生了这个港口。</span><span class="english">That midwifed the port in the19th century.</span></p>

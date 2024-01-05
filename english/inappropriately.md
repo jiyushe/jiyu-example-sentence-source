@@ -1,5 +1,7 @@
 # inappropriately
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inappropriately.md)
+
 <p><span class="chinese">但如果某一个标准定义得不恰当会发生什么情况呢？</span><span class="english">But what happens when you realize that one standard is inappropriately defined?</span></p>
 
 <p><span class="chinese">或者，假定某些东西是共享的，则入侵者是否可以不正当地共享某些东西呢？</span><span class="english">Or, given that something is shared, can intruders share something inappropriately?</span></p>

@@ -1,5 +1,7 @@
 # anaheim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anaheim.md)
+
 <p><span class="chinese">阿纳海姆会议中心只有9英里远。</span><span class="english">Anaheim Convention Center is just 9 miles away.</span></p>
 
 <p><span class="chinese">根本没人喜欢天使队，他们的主场也在阿纳海姆。</span><span class="english">No one really likes the Angels, so play at Anaheim.</span></p>

@@ -1,5 +1,7 @@
 # 金行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinxing.md)
+
 <p><span class="chinese">您怎样认识以上的珠宝金行?。</span><span class="english">How did you know the above jewelry shop?</span></p>
 
 <p><span class="chinese">而金行长则坐下来接受英国广播公司的采访解释定量宽松政策。</span><span class="english">Mr King sat for an interview with the BBC to explain quantitative easing.</span></p>

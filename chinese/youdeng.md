@@ -1,5 +1,7 @@
 # 油灯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youdeng.md)
+
 <p><span class="chinese">油灯把天花板熏黑了。</span><span class="english">The lamp smoked the ceiling.</span></p>
 
 <p><span class="chinese">那盏油灯把墙壁熏黑了。</span><span class="english">The lamp has smoked the wall.</span></p>

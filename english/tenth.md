@@ -1,5 +1,7 @@
 # tenth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tenth.md)
+
 <p><span class="chinese">我的生日是十月十日。</span><span class="english">My birthday is October tenth.</span></p>
 
 <p><span class="chinese">在我十岁时，我母亲就去世了。</span><span class="english">My mother died in my tenth year.</span></p>

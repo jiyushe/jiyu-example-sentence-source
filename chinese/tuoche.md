@@ -1,5 +1,7 @@
 # 拖车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuoche.md)
+
 <p><span class="chinese">其他的则生活在拖车里。</span><span class="english">Others live in trailers.</span></p>
 
 <p><span class="chinese">我们乘拖车式活动房屋在乡间旅行。</span><span class="english">We trailered about the country.</span></p>

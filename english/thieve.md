@@ -1,5 +1,7 @@
 # thieve
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thieve.md)
+
 <p><span class="chinese">James指控Johnny偷了他的的车子。</span><span class="english">James charged Johnny thieve his cars.</span></p>
 
 <p><span class="chinese">个小偷总是害怕被抓住。</span><span class="english">This thieve always fear of being catched.</span></p>

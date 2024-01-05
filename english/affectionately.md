@@ -1,5 +1,7 @@
 # affectionately
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/affectionately.md)
+
 <p><span class="chinese">克罗塞特先生慈爱地拍了拍他的头。</span><span class="english">Mr. Crosette patted him affectionately on the head.</span></p>
 
 <p><span class="chinese">奶奶总是爱怜地称她为“小东西”。</span><span class="english">Her grandmother always calls her "tiny thing" affectionately.</span></p>

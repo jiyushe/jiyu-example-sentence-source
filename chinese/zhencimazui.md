@@ -1,5 +1,7 @@
 # 针刺麻醉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhencimazui.md)
+
 <p><span class="chinese">针刺麻醉在外科手术上正在得到广泛应用。</span><span class="english">Acupuncture anesthesia is rapidly gaining ground in surgical operations.</span></p>
 
 <p><span class="chinese">他的学术报告打算重点谈针刺麻醉在脑外科方面的应用。</span><span class="english">His lecture is intended to bear down on the application of acupuncture anesthesia in brain surgery.</span></p>

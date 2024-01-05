@@ -1,5 +1,7 @@
 # meritorious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meritorious.md)
+
 <p><span class="chinese">不但无过，而且还是有功的。</span><span class="english">Not only never, but also meritorious.</span></p>
 
 <p><span class="chinese">斯卡拉是一个能干的国民公仆。</span><span class="english">Scala was a meritorious public servant.</span></p>

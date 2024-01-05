@@ -1,5 +1,7 @@
 # reversing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reversing.md)
+
 <p><span class="chinese">冷身---热身的逆顺序。</span><span class="english">Cool down by reversing the warm-up.</span></p>
 
 <p><span class="chinese">拧下倒车灯开关。</span><span class="english">Unscrew switch for reversing light.</span></p>

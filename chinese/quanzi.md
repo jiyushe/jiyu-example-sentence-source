@@ -1,5 +1,7 @@
 # 圈子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanzi.md)
+
 <p><span class="chinese">我们兜了个圈子又回到原处。</span><span class="english">We have come full circle.</span></p>
 
 <p><span class="chinese">他们把他排除在他们的圈子外。</span><span class="english">They shut him from their circle.</span></p>

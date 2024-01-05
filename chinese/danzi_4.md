@@ -1,5 +1,7 @@
 # 单字
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danzi_4.md)
+
 <p><span class="chinese">预习我们的第一个单字小测。</span><span class="english">Prepare for our first vocab quiz.</span></p>
 
 <p><span class="chinese">他教过我如何拼这个单字。</span><span class="english">He taught me how to spell the word.</span></p>

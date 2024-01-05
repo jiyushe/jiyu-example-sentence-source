@@ -1,5 +1,7 @@
 # 没精打采
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meijingdacai.md)
+
 <p><span class="chinese">“你何时才能结束这工作?”他没精打采地问道。</span><span class="english">"When will you finish the job?" he asked dully.</span></p>
 
 <p><span class="chinese">有几个学生没精打采地倚在墙上。</span><span class="english">Several students wereslouching against the wall.</span></p>

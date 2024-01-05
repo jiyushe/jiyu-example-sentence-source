@@ -1,5 +1,7 @@
 # 定额
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dinge.md)
+
 <p><span class="chinese">内部生产定额与“精细化管理”</span><span class="english">Inner production quota and "fine management""</span></p>
 
 <p><span class="chinese">公司用定额指标的方法生产产品。</span><span class="english">Company uses VERS to produce consistent ratings.</span></p>

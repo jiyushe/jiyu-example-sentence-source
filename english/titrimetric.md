@@ -1,5 +1,7 @@
 # titrimetric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/titrimetric.md)
+
 <p><span class="chinese">目的建立高碘酸滴定法测定肌苷的含量。</span><span class="english">OBJECTIVE To establish titrimetric method of periodic acid to determine contents of Inosine.</span></p>
 
 <p><span class="chinese">以百里酚兰为滴定终点指示剂可用于植物油酸价的测定。</span><span class="english">Thymol Blue can be used as the titrimetric terminal point indicator to determine vegetable oil acid value.</span></p>

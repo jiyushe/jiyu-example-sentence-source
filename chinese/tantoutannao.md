@@ -1,5 +1,7 @@
 # 探头探脑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tantoutannao.md)
+
 <p><span class="chinese">一天她帮我杀死了一只老在我家探头探脑的大老鼠。</span><span class="english">One day she helped me kill a huge rat that was hanging around our house.</span></p>
 
 <p><span class="chinese">他从不探头探脑，问东问西，也从来不会把有钱寡妇们列成名单。</span><span class="english">He never poked around, never asked questions, never made a list of wealthy widows.</span></p>

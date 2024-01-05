@@ -1,5 +1,7 @@
 # microeconomic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microeconomic.md)
+
 <p><span class="chinese">个体经济是一种具有悠久历史的经济形式。</span><span class="english">Microeconomic is a kind of economy form that has long history.</span></p>
 
 <p><span class="chinese">利用微观经济学手段，对林分生长过程进行了经济分析。</span><span class="english">To make an economic analyse to stand growth course by microeconomic technique.</span></p>

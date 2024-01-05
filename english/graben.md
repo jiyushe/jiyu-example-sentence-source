@@ -1,5 +1,7 @@
 # graben
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/graben.md)
+
 <p><span class="chinese">地堑成为铀矿沉积的有利部位。</span><span class="english">A graben creates a favourable setting for uranium deposition.</span></p>
 
 <p><span class="chinese">地堑成为铀矿沉积的有利部位。</span><span class="english">A graben creates a favourable setting for uranium deposition.</span></p>

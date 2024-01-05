@@ -1,5 +1,7 @@
 # insatiable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insatiable.md)
+
 <p><span class="chinese">公众对丑闻总是喜闻乐道。</span><span class="english">The public have an insatiable appetite for scandal.</span></p>
 
 <p><span class="chinese">现在他们漫游地球，跟随一个永不知足的旅行热潮。</span><span class="english">Now they roam the Earth, following an insatiable wanderlust.</span></p>

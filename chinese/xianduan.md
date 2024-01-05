@@ -1,5 +1,7 @@
 # 先端
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianduan.md)
+
 <p><span class="chinese">萼片并非具芒的在先端，宿存。</span><span class="english">Sepals not aristate at apex, persistent.</span></p>
 
 <p><span class="chinese">先端锐尖的叶，短渐尖，或钝。</span><span class="english">Leaf apex acute, shortly acuminate, or obtuse.</span></p>

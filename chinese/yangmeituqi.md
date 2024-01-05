@@ -1,5 +1,7 @@
 # 扬眉吐气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangmeituqi.md)
+
 <p><span class="chinese">这是最让中国人扬眉吐气的单词！</span><span class="english">Im proud of being a Chinese.</span></p>
 
 <p><span class="chinese">今天的中国扬眉吐气。</span><span class="english">Today China is proud and elated.</span></p>

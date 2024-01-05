@@ -1,5 +1,7 @@
 # getaway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/getaway.md)
+
 <p><span class="chinese">他们周末刚度假回来。</span><span class="english">They just got back from a weekend getaway.</span></p>
 
 <p><span class="chinese">试试最价廉物美的去处--拉斯维加斯吧。</span><span class="english">Try the best bargain getaway -- Las Vegas.</span></p>

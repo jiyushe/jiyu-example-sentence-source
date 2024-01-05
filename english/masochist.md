@@ -1,5 +1,7 @@
 # masochist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/masochist.md)
+
 <p><span class="chinese">还是被虐待狂？</span><span class="english">Or a masochist?</span></p>
 
 <p><span class="chinese">你在关系中习惯受虐么？</span><span class="english">Are You a Relationship Masochist?</span></p>

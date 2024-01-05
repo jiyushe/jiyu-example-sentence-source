@@ -1,5 +1,7 @@
 # sour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sour.md)
+
 <p><span class="chinese">是吃不着葡萄就说葡萄酸吗？</span><span class="english">Sour grapes?</span></p>
 
 <p><span class="chinese">这个婴儿的衣服有酸味。</span><span class="english">He has a sour face.</span></p>

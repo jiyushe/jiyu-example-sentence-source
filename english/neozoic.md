@@ -1,5 +1,7 @@
 # neozoic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neozoic.md)
+
 <p><span class="chinese">油页岩主要赋存于新近系邕宁群，与褐煤伴生。</span><span class="english">The oil shale associating with lignite formed in Yongning Series of Neozoic.</span></p>
 
 <p><span class="chinese">近年来，贵州省的新生界研究取得了显著的进展。</span><span class="english">In recent years, the obvious progress have been held in neozoic study of Guizhou.</span></p>

@@ -1,5 +1,7 @@
 # 簌簌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/susu.md)
+
 <p><span class="chinese">忆想起那一簇长发簌簌抖开</span><span class="english">When looking on their shaken hair</span></p>
 
 <p><span class="chinese">风吹树叶簌簌响。</span><span class="english">The leaves are rustling in the wind.</span></p>

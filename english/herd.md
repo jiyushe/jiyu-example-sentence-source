@@ -1,5 +1,7 @@
 # herd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/herd.md)
+
 <p><span class="chinese">这里的鹿群并不大。</span><span class="english">The herd is not big.</span></p>
 
 <p><span class="chinese">他使他的牛与良种牛交配。</span><span class="english">He graded up his herd.</span></p>

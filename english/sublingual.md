@@ -1,5 +1,7 @@
 # sublingual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sublingual.md)
+
 <p><span class="chinese">腮腺，下颌腺，舌下腺，结肠。</span><span class="english">Parotid, submandibular and sublingual gland, and colon.</span></p>
 
 <p><span class="chinese">建立了G-0268舌下片的稳定性分析方法。</span><span class="english">Thirdly, the stability of G-0268 sublingual tablet was investigated.</span></p>

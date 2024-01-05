@@ -1,5 +1,7 @@
 # 集大成
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jidacheng.md)
+
 <p><span class="chinese">他是这一学派思想的集大成者。</span><span class="english">He epitomized the thought of this school.</span></p>
 
 <p><span class="chinese">总之，它是民族聪明才智的集大成者。</span><span class="english">In short, it is a master of national intelligence.</span></p>

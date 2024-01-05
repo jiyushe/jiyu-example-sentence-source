@@ -1,5 +1,7 @@
 # 险恶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiane_1.md)
+
 <p><span class="chinese">“我们陷入了一个险恶的循环”。</span><span class="english">We're in a very vicious cycle.</span></p>
 
 <p><span class="chinese">发展趋势清晰而险恶。</span><span class="english">The trends are clear and ominous.</span></p>

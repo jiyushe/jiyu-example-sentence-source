@@ -1,5 +1,7 @@
 # 割据
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/geju.md)
+
 <p><span class="chinese">所谓割据，必须是武装的。</span><span class="english">An independent regime must be an armed one.</span></p>
 
 <p><span class="chinese">封建式的割据局面在中国大地上也一去不复返了。</span><span class="english">Of the country has gone forever on this land of China.</span></p>

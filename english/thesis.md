@@ -1,5 +1,7 @@
 # thesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thesis.md)
+
 <p><span class="chinese">论文抄袭。</span><span class="english">Thesis plagiarism.</span></p>
 
 <p><span class="chinese">怎样才能写好作文？</span><span class="english">How can write the thesis?</span></p>

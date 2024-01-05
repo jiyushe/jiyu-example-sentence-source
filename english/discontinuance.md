@@ -1,5 +1,7 @@
 # discontinuance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discontinuance.md)
+
 <p><span class="chinese">由于所服务的公司解散，只好去职。</span><span class="english">I left the office on acount of the discontinuance of the business.</span></p>
 
 <p><span class="chinese">小的离职的原因，系因该公司即将倒闭。</span><span class="english">I left the office on account of the discontinuance of the business.</span></p>

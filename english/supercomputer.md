@@ -1,5 +1,7 @@
 # supercomputer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supercomputer.md)
+
 <p><span class="chinese">大脑就是一台三磅重的超级计算机。</span><span class="english">The brain is a three-pound supercomputer.</span></p>
 
 <p><span class="chinese">天河-1A超级计算机，天津，中国</span><span class="english">The Tianhe-1A supercomputer in Tianjin, China.</span></p>

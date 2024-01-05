@@ -1,5 +1,7 @@
 # 男低音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nandiyin.md)
+
 <p><span class="chinese">我是男低音。</span><span class="english">I am a bass.</span></p>
 
 <p><span class="chinese">他有一副深沈的男低音歌喉。</span><span class="english">He has a rich bass voice.</span></p>

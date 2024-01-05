@@ -1,5 +1,7 @@
 # nonsensical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonsensical.md)
+
 <p><span class="chinese">约翰的谈话有几分瞎吹胡说。</span><span class="english">What John talks is boastful and nonsensical in a fashion.</span></p>
 
 <p><span class="chinese">在我看来，罗伯特爵士的争辩纯属瞎说。</span><span class="english">It seemed to me that Sir Robert's arguments were nonsensical.</span></p>

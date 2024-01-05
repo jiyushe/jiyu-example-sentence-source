@@ -1,5 +1,7 @@
 # 稍稍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaoshao.md)
+
 <p><span class="chinese">玛丽稍稍涂了一点脂粉。</span><span class="english">Mary was slightly made up.</span></p>
 
 <p><span class="chinese">他稍稍一瞥，景物尽收眼底。</span><span class="english">His glance embraced the scene.</span></p>

@@ -1,5 +1,7 @@
 # concertina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concertina.md)
+
 <p><span class="chinese">通常会被制成更长的盘或者是拧成所谓的“六角网”。</span><span class="english">It is formed into long coils or entanglements called concertina wire.</span></p>
 
 <p><span class="chinese">新收集的所有从血液流，它具有三维手风琴的背景。</span><span class="english">The all new collection from Blood Stream, with a 3D concertina background.</span></p>

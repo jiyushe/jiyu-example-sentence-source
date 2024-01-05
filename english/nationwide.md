@@ -1,5 +1,7 @@
 # nationwide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nationwide.md)
+
 <p><span class="chinese">冰上溜石是国际冰上运动。</span><span class="english">Curling is a nationwide ice sport.</span></p>
 
 <p><span class="chinese">要一张全国通用的帐户卡</span><span class="english">Get a Nationwide Flex Account card</span></p>

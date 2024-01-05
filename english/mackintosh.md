@@ -1,5 +1,7 @@
 # mackintosh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mackintosh.md)
+
 <p><span class="chinese">我们不能让这类事再次发生。</span><span class="english">We can’t allow this to happen again,” Mackintosh said.</span></p>
 
 <p><span class="chinese">麦金托什是否就此采取法律行动仍有待观察。</span><span class="english">Whether Mackintosh takes legal action remains to be seen.</span></p>

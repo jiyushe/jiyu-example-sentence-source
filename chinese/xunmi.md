@@ -1,5 +1,7 @@
 # 寻觅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xunmi.md)
+
 <p><span class="chinese">采珠者潜水寻觅珍珠。</span><span class="english">Pearl-fishers dive for pearls.</span></p>
 
 <p><span class="chinese">泰山还在寻寻觅觅找珍妮呢。</span><span class="english">Tarzan is looking for his Jane.</span></p>

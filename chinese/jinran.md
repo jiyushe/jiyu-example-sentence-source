@@ -1,5 +1,7 @@
 # 浸染
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinran.md)
+
 <p><span class="chinese">它浸染在五彩缤纷的秋色里</span><span class="english">See it in the colors of autumn</span></p>
 
 <p><span class="chinese">他们在染缸中浸染织品。</span><span class="english">They dipped the fabric in a vat of dye.</span></p>

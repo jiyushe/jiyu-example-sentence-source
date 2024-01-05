@@ -1,5 +1,7 @@
 # wastepaper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wastepaper.md)
+
 <p><span class="chinese">不要乱扔废纸。</span><span class="english">Don't litter the place with wastepaper.</span></p>
 
 <p><span class="chinese">拾起的是纸屑，树立却是榜样！</span><span class="english">Wastepaper you pick, yet model you set!</span></p>

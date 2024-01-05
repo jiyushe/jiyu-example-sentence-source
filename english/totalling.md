@@ -1,5 +1,7 @@
 # totalling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/totalling.md)
+
 <p><span class="chinese">已经确定的含油层总计达到416英尺。</span><span class="english">Gross oil-bearing intervals totalling 416 feet meters have been identified.</span></p>
 
 <p><span class="chinese">中国拥有世界上最大的高铁网络，总长约4690英里。</span><span class="english">China has the biggest network of high-speed rails in the world, totalling 4, 690 miles.</span></p>

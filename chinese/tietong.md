@@ -1,5 +1,7 @@
 # 铁桶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tietong.md)
+
 <p><span class="chinese">铁桶装，每桶净重25公斤。</span><span class="english">In iron drum of 25kg net each.</span></p>
 
 <p><span class="chinese">铁桶装，每桶净重50千克。</span><span class="english">In iron drums of 50KG net each.</span></p>

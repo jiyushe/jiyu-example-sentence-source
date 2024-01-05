@@ -1,5 +1,7 @@
 # aforesaid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aforesaid.md)
+
 <p><span class="chinese">上述的每一数量都能被等于或不等于表述。</span><span class="english">Each of the aforesaid quantities is said to be equal or unequal.</span></p>
 
 <p><span class="chinese">这一系列研究表明银屑病是典型的心身疾病。</span><span class="english">The aforesaid series of studies shows that psoriasis is a psychosomatic disease.</span></p>

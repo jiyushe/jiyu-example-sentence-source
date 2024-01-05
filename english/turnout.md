@@ -1,5 +1,7 @@
 # turnout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turnout.md)
+
 <p><span class="chinese">好,这里涉及到名额的问题</span><span class="english">Good, so there's an issue of turnout.</span></p>
 
 <p><span class="chinese">道岔是磁悬浮线路的重要部件。</span><span class="english">Turnout is an important part of maglev.</span></p>

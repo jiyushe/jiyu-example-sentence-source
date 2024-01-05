@@ -1,5 +1,7 @@
 # 疯长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengchang.md)
+
 <p><span class="chinese">蔓生的牵牛花藤越过了雨林的天蓬，疯长开去。</span><span class="english">Weedy morning-glory vines overran the rainforest canopy.</span></p>
 
 <p><span class="chinese">由于我们的后院朝北，所以苔藓总是疯长。</span><span class="english">Our backyard is facing the north, so there is always moss growing madly.</span></p>

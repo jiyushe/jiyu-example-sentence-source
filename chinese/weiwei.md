@@ -1,5 +1,7 @@
 # 娓娓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiwei.md)
+
 <p><span class="chinese">特雷福闭着眼，娓娓背诵，“维基百科如是说。”</span><span class="english">Trevor closed his eyes and recited. “Wikipedia.”</span></p>
 
 <p><span class="chinese">她似乎受过教育，直接就将自己的故事娓娓道来了。</span><span class="english">She seemed educated and told her story in a straightforward way.</span></p>

@@ -1,5 +1,7 @@
 # 坚定不移
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiandingbuyi.md)
+
 <p><span class="chinese">它代表坚定不移，勇气及希望。</span><span class="english">It is steadfastness and courage and hope.</span></p>
 
 <p><span class="chinese">指出必须坚定不移地坚持举国体制。</span><span class="english">We should stick to the Whole-nation System.</span></p>

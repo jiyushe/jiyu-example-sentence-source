@@ -1,5 +1,7 @@
 # hua
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hua.md)
+
 <p><span class="chinese">我是花木兰！</span><span class="english">I am Hua Mulan!</span></p>
 
 <p><span class="chinese">你是魏华吗？</span><span class="english">Are you Wei Hua?</span></p>

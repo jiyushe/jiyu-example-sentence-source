@@ -1,5 +1,7 @@
 # 料及
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liaoji.md)
+
 <p><span class="chinese">由于未料及的风暴，他晚到了。</span><span class="english">He arrived late due to the unexpected storm.</span></p>
 
 <p><span class="chinese">鸡髀去骨，用腌料及露丝玛莉香草略腌。</span><span class="english">Bone chicken thigh. Marinate with marinade and rosemary.</span></p>

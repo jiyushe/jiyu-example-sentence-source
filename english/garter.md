@@ -1,5 +1,7 @@
 # garter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/garter.md)
+
 <p><span class="chinese">你的吊袜带里仍旧还有那把勾刀吗？</span><span class="english">Still got that knife in your garter?</span></p>
 
 <p><span class="chinese">海伦让帕里斯拿走了她的袜带。</span><span class="english">Helen allowed Paris to take her garter.</span></p>

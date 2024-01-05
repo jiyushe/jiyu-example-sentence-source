@@ -1,5 +1,7 @@
 # 终归
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhonggui.md)
+
 <p><span class="chinese">她终归会明白的。</span><span class="english">She will understand eventually.</span></p>
 
 <p><span class="chinese">他终归是个小学生。</span><span class="english">After all he is still a schoolboy.</span></p>

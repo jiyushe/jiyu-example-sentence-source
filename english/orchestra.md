@@ -1,5 +1,7 @@
 # orchestra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orchestra.md)
+
 <p><span class="chinese">这是一个爵士乐团。</span><span class="english">It was a jazz orchestra.</span></p>
 
 <p><span class="chinese">他指挥一个管弦乐队。</span><span class="english">He directed an orchestra.</span></p>

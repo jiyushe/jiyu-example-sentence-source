@@ -1,5 +1,7 @@
 # 临床
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linchuang.md)
+
 <p><span class="chinese">临床证明温和。</span><span class="english">Clinically proven mildness.</span></p>
 
 <p><span class="chinese">收集分析125例NEC的临床资料。</span><span class="english">We analyzed 125 cases of NEC.</span></p>

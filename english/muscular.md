@@ -1,5 +1,7 @@
 # muscular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/muscular.md)
+
 <p><span class="chinese">他肌肉过劳。</span><span class="english">He had a muscular strain.</span></p>
 
 <p><span class="chinese">他肌肉发达。</span><span class="english">He developed a muscular body.</span></p>

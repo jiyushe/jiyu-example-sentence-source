@@ -1,5 +1,7 @@
 # paperboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paperboard.md)
+
 <p><span class="chinese">灰板纸包装是对审美的追求。</span><span class="english">Paperboard packaging is the aesthetic pursuit.</span></p>
 
 <p><span class="chinese">可用于皮夹，布料，厚纸，书类。</span><span class="english">Can use in the billfold , woof, paperboard & book.</span></p>

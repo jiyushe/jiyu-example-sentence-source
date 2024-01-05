@@ -1,5 +1,7 @@
 # soybean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soybean.md)
+
 <p><span class="chinese">大豆害虫，螟蛾科。</span><span class="english">Soybean pests, pest moth division.</span></p>
 
 <p><span class="chinese">我早上喝了些豆浆。</span><span class="english">I had some soybean milk for breakfast.</span></p>

@@ -1,5 +1,7 @@
 # 人造卫星
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renzaoweixing.md)
+
 <p><span class="chinese">何谓人造卫星?</span><span class="english">What is meant by a man-made satellite?</span></p>
 
 <p><span class="chinese">人造卫星轨道的能量消减了。</span><span class="english">The orbit of a space satellite decayed.</span></p>

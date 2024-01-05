@@ -1,5 +1,7 @@
 # glycine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glycine.md)
+
 <p><span class="chinese">中有甘氨酸甜菜碱的积累。</span><span class="english">The accumulation of glycine betaine in E.</span></p>
 
 <p><span class="chinese">甘氨酸甜菜碱是一种非常有效的渗透调节剂。</span><span class="english">Glycine betaine is a very effective osmotic regulator.</span></p>

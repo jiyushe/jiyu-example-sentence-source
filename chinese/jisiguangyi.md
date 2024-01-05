@@ -1,5 +1,7 @@
 # 集思广益
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jisiguangyi.md)
+
 <p><span class="chinese">开头脑风暴会议，集思广益。</span><span class="english">Have brainstorming sessions.</span></p>
 
 <p><span class="chinese">我们确实认为集思广益是个巨大的机会。</span><span class="english">We really think it is a huge opportunity to brainstorm.</span></p>

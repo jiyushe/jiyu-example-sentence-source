@@ -1,5 +1,7 @@
 # 没用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meiyong.md)
+
 <p><span class="chinese">他们完全没用。</span><span class="english">they're of no use.</span></p>
 
 <p><span class="chinese">我想打针也没用。</span><span class="english">I think it is no use.</span></p>

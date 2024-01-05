@@ -1,5 +1,7 @@
 # clerk 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clerk.md)
+
 <p><span class="chinese">我是译名公司职员。</span><span class="english">I am an office clerk.</span></p>
 
 <p><span class="chinese">她是一个前堂接待员。</span><span class="english">She is a floor clerk.</span></p>

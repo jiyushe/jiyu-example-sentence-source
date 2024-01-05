@@ -1,5 +1,7 @@
 # assert
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assert.md)
+
 <p><span class="chinese">正义必将得到申张。</span><span class="english">Justice will assert itself.</span></p>
 
 <p><span class="chinese">该令牌仅仅断言用户的特权。</span><span class="english">The tokens simply assert user privileges.</span></p>

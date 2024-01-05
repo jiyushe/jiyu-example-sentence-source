@@ -1,5 +1,7 @@
 # persephone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/persephone.md)
+
 <p><span class="chinese">一天，他看见帕尔塞福涅。</span><span class="english">One day he saw Persephone.</span></p>
 
 <p><span class="chinese">帕尔塞福涅已经吃了一半石榴种子。</span><span class="english">Persephone had eaten half the seeds.</span></p>

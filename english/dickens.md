@@ -1,5 +1,7 @@
 # dickens
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dickens.md)
+
 <p><span class="chinese">他看一部由狄更斯写的小说。</span><span class="english">He read a novel by Chales Dickens.</span></p>
 
 <p><span class="chinese">睡前读读易卜生和狄更斯。</span><span class="english">Read Ibsen and Dickens before bedtime.</span></p>

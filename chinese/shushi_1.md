@@ -1,5 +1,7 @@
 # 塾师
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shushi_1.md)
+
 <p><span class="chinese">这个塾师从书本上抄了一篇，就把祭文给了富人。</span><span class="english">The tutor copied one from the book and gave it to the rich man.</span></p>
 
 <p><span class="chinese">通过各种途径培训塾师，提高塾师素质。</span><span class="english">To improve the quality of teacher by private teacher training through various channels.</span></p>

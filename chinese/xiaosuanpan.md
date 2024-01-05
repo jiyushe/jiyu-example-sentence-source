@@ -1,5 +1,7 @@
 # 小算盘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaosuanpan.md)
+
 <p><span class="chinese">他老打个人小算盘。</span><span class="english">He is always calculating.</span></p>
 
 <p><span class="chinese">然而，每个人都可能打着自己的如意小算盘。</span><span class="english">However, all may have ambitions of their own.</span></p>

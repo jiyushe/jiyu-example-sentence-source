@@ -1,5 +1,7 @@
 # 真善美
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenshanmei.md)
+
 <p><span class="chinese">真善美教育的实施有两条途径。</span><span class="english">Th ere are two ways to carry out the TGB Education.</span></p>
 
 <p><span class="chinese">偶然觅得真善美，洗心涤肺出凡尘。</span><span class="english">Beauty, find a chance to wash out heart lungs polyester traveling.</span></p>

@@ -1,5 +1,7 @@
 # resupply
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resupply.md)
+
 <p><span class="chinese">在补给后，进展比开始要好。</span><span class="english">Progress since the resupply has been better than at first.</span></p>
 
 <p><span class="chinese">其次，再补给任务的运输空间就只有这么大。</span><span class="english">And second, there's only so much room aboard the resupply missions.</span></p>

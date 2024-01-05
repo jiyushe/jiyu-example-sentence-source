@@ -1,5 +1,7 @@
 # entrainment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entrainment.md)
+
 <p><span class="chinese">蒸发器的蒸汽线装有雾沫分离器。</span><span class="english">The evaporator vapor lines are fitted with an entrainment separator.</span></p>
 
 <p><span class="chinese">讨论雾沫夹带及沟流对塔板效率的影响。</span><span class="english">The effects on plate efficiency with entrainment and channeling are discussed.</span></p>

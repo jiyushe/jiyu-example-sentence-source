@@ -1,5 +1,7 @@
 # chuffed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chuffed.md)
+
 <p><span class="chinese">听得出来她非常高兴。</span><span class="english">I hear she was pretty chuffed.</span></p>
 
 <p><span class="chinese">我对一点儿非常高兴的并且非常减少。</span><span class="english">I was chuffed to bits and very relieved.</span></p>

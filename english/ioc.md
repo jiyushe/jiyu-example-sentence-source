@@ -1,5 +1,7 @@
 # ioc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ioc.md)
+
 <p><span class="chinese">国际奥委患啬第一位中国成员是谁？</span><span class="english">Who is the first Chinese member of IOC?</span></p>
 
 <p><span class="chinese">我是北京奥组委体育部的项目主管李明。很高兴认识您。</span><span class="english">Nice to meet you too. I'm Tony Smith from the IOC.</span></p>

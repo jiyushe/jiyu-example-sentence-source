@@ -1,5 +1,7 @@
 # quadrillion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quadrillion.md)
+
 <p><span class="chinese">神奇的数字是6.3万亿电子伏。</span><span class="english">The magic number is 6.3 quadrillion electron-volts.</span></p>
 
 <p><span class="chinese">该地区的天然气储量可能达2千万亿立方英尺。</span><span class="english">The region may hold 2 quadrillion cubic feet of natural gas.</span></p>

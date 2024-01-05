@@ -1,5 +1,7 @@
 # 树影
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuying.md)
+
 <p><span class="chinese">树影映在墙上。</span><span class="english">The tree cast its shadow on the wall.</span></p>
 
 <p><span class="chinese">椴树的树影投身在草坪上。</span><span class="english">The lawn was shadowed by a linden tree.</span></p>

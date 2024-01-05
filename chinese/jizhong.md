@@ -1,5 +1,7 @@
 # 集中
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jizhong.md)
+
 <p><span class="chinese">然后集中在那儿。</span><span class="english">and hone in.</span></p>
 
 <p><span class="chinese">他是一个注意力不集中的人。</span><span class="english">He is a scatterbrain.</span></p>

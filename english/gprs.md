@@ -1,5 +1,7 @@
 # gprs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gprs.md)
+
 <p><span class="chinese">现地存贮的数据由GPRS传输通道进行远程提取。</span><span class="english">Field stored data are picked up by GPRS transmission channel.</span></p>
 
 <p><span class="chinese">网络侧不会向处于就绪状态的移动台发起寻呼。</span><span class="english">The network initiates no GPRS pages for an MS in READY state.</span></p>

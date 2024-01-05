@@ -1,5 +1,7 @@
 # cuticular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cuticular.md)
+
 <p><span class="chinese">角质膜为颗粒状、网状或乳突状。</span><span class="english">Leaf cuticular membrane was granular, reticulate, or papilliform.</span></p>
 
 <p><span class="chinese">消除表皮层的蜂窝状组织和粗糙干裂的角质层。</span><span class="english">Eliminates areolar tissue on cuticular layer and roughness of horny layer.</span></p>

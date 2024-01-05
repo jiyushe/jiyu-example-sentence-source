@@ -1,5 +1,7 @@
 # splendour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/splendour.md)
+
 <p><span class="chinese">她们打扮得华丽耀眼。</span><span class="english">They dressed out in their splendour.</span></p>
 
 <p><span class="chinese">但我不愿意高悬夜空，独自</span><span class="english">Not in lone splendour hung aloft the night</span></p>

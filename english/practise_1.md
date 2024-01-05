@@ -1,5 +1,7 @@
 # practise 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/practise_1.md)
+
 <p><span class="chinese">课后进行练习。</span><span class="english">Practise after class.</span></p>
 
 <p><span class="chinese">我每周都练习。</span><span class="english">I practise every week.</span></p>

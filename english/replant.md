@@ -1,5 +1,7 @@
 # replant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/replant.md)
+
 <p><span class="chinese">有些农民可能补种玉米。</span><span class="english">Some farmers may replant corn.</span></p>
 
 <p><span class="chinese">旱灾之后我们只得重新再种。</span><span class="english">We had to replant after the drought.</span></p>

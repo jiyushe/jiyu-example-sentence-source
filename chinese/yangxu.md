@@ -1,5 +1,7 @@
 # 阳虚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangxu.md)
+
 <p><span class="chinese">只要掌握住血虚感寒、或阳虚生寒、或瘀阻疼痛，皆可应用。</span><span class="english">It can be applied for Blood Deficient, Yang Deficient or blood stasis.</span></p>
 
 <p><span class="chinese">急性心急梗死患者随着年龄的增长以痰浊、阳虚证候更为显著。</span><span class="english">With the growth of the age, the syndrome of phlegm-dampness and deficiency of YANG is obvious.</span></p>

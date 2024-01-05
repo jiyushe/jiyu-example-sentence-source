@@ -1,5 +1,7 @@
 # ise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ise.md)
+
 <p><span class="chinese">对于ISE测量，离子强度常数与GLP数据一同存储。</span><span class="english">For ISE measurements, an ionic strength constant value is stored with GLP data.</span></p>
 
 <p><span class="chinese">未生效的指令。除非用户激活此指令递交给市场否则为不可交易指令。</span><span class="english">An inactive order. It ise not a tradable order unless user activates the order, place to the market.</span></p>

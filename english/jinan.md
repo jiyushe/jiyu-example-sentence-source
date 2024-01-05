@@ -1,5 +1,7 @@
 # jinan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jinan.md)
+
 <p><span class="chinese">这是八月在济南。</span><span class="english">It is August in Jinan.</span></p>
 
 <p><span class="chinese">济南租草皮?。</span><span class="english">Does Jinan rent a sward?</span></p>

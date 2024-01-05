@@ -1,5 +1,7 @@
 # allegorically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allegorically.md)
+
 <p><span class="chinese">所以他用寓言化的方式去解读经文。</span><span class="english">And so he interprets allegorically to say scripture.</span></p>
 
 <p><span class="chinese">您许多的作品种都直接或以寓言方式地反映出政治色彩。</span><span class="english">Many of your works are either directly or allegorically political.</span></p>

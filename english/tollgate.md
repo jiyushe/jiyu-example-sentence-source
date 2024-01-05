@@ -1,5 +1,7 @@
 # tollgate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tollgate.md)
+
 <p><span class="chinese">就在进入江苏省收费站之前。</span><span class="english">It is right before tollgate entering Jiangsu Province.</span></p>
 
 <p><span class="chinese">安亭出口。就在进入江苏省收费站之前。</span><span class="english">Exit Anting. It is right before tollgate entering Jiangsu Province.</span></p>

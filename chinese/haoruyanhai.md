@@ -1,5 +1,7 @@
 # 浩如烟海
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haoruyanhai.md)
+
 <p><span class="chinese">关于这个问题,有浩如烟海的书。</span><span class="english">There are reams and reams and reams of books on this problem.</span></p>
 
 <p><span class="chinese">因此，它被用来在浩如烟海的日本音响设备。</span><span class="english">As such, it was used in huge volumes of Japanese audio equipment.</span></p>

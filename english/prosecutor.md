@@ -1,5 +1,7 @@
 # prosecutor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prosecutor.md)
+
 <p><span class="chinese">检察官德鲁罗宾逊惊呆了。</span><span class="english">Prosecutor Drew Robinson was stunned.</span></p>
 
 <p><span class="chinese">巴西亚马孙州检察官若昂？</span><span class="english">Brazil's Amazon state prosecutor Joao?</span></p>

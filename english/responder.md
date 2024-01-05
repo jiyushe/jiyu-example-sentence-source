@@ -1,5 +1,7 @@
 # responder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/responder.md)
+
 <p><span class="chinese">该抢答器可作为智力竞赛的评判装置。</span><span class="english">The responder can be used as quiz judged device.</span></p>
 
 <p><span class="chinese">然后响应者将响应发送到这个目的地。</span><span class="english">The responder then sends the response to that destination.</span></p>

@@ -1,5 +1,7 @@
 # 科学社会主义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kexueshehuizhuyi.md)
+
 <p><span class="chinese">科学社会主义创始于19世纪中叶。</span><span class="english">Scientific socialism originated in the middle of the nineteenth century.</span></p>
 
 <p><span class="chinese">马克思劳动和劳动价值论是科学社会主义的理论基石之一。</span><span class="english">Marx labor and labor theory of value are one of academic cornerstone of scientific socialism.</span></p>

@@ -1,5 +1,7 @@
 # 只见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhijian_1.md)
+
 <p><span class="chinese">我醒来时只见阳光灿烂。</span><span class="english">I awoke to bright sun-light.</span></p>
 
 <p><span class="chinese">只见神秘学向着数学飞舞。</span><span class="english">See Mystery to Mathematics fly!</span></p>

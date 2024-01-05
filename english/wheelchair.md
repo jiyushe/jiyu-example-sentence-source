@@ -1,5 +1,7 @@
 # wheelchair
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wheelchair.md)
+
 <p><span class="chinese">参加者是否坐轮椅出席?。</span><span class="english">Are you a wheelchair user?</span></p>
 
 <p><span class="chinese">我的轮椅是电动的。</span><span class="english">My wheelchair is electric.</span></p>

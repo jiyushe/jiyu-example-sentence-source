@@ -1,5 +1,7 @@
 # wrongful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wrongful.md)
+
 <p><span class="chinese">同时，这也会防止错误判决。</span><span class="english">It would also help prevent wrongful convictions.</span></p>
 
 <p><span class="chinese">抄袭就是不正当的盗用别人的成果。</span><span class="english">Plagiarism is the wrongful appropriation or purloining.</span></p>

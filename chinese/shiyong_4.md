@@ -1,5 +1,7 @@
 # 适用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyong_4.md)
+
 <p><span class="chinese">这招女性也适用哦。</span><span class="english">And women also notice.</span></p>
 
 <p><span class="chinese">这个方法是适用的。</span><span class="english">The way was applicable.</span></p>

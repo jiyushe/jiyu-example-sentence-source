@@ -1,5 +1,7 @@
 # refulgent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refulgent.md)
+
 <p><span class="chinese">想象着它当年辉煌的样子。</span><span class="english">I can image the refulgent look at that time.</span></p>
 
 <p><span class="chinese">如果爱情黯淡，就让回忆灿烂。</span><span class="english">If love is sadden then let the memory be refulgent.</span></p>

@@ -1,5 +1,7 @@
 # staves
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/staves.md)
+
 <p><span class="chinese">鼠皮，鸦革，交叉棍杖</span><span class="english">Rat’s coat, crowskin, crossed staves</span></p>
 
 <p><span class="chinese">随后，钢琴谱上再次出现三十二分音符。</span><span class="english">The piano is, again, noted in three staves.</span></p>

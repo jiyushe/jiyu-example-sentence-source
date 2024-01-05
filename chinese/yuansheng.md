@@ -1,5 +1,7 @@
 # 原生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuansheng.md)
+
 <p><span class="chinese">原生岩浆是高镁拉斑玄武岩浆。</span><span class="english">Its primary magma is high MgO tholeiite.</span></p>
 
 <p><span class="chinese">头颈部的恶性脂肪瘤非常少见，尤其是头皮原生的。</span><span class="english">Liposarcoma of the head and neck is quite rare.</span></p>

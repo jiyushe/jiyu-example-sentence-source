@@ -1,5 +1,7 @@
 # betoken
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/betoken.md)
+
 <p><span class="chinese">乌云予示著暴风雨的来临。</span><span class="english">Dark clouds betoken a storm.</span></p>
 
 <p><span class="chinese">那些乌云预示有雨。</span><span class="english">Those black clouds betoken rain.</span></p>

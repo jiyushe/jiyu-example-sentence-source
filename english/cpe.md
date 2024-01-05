@@ -1,5 +1,7 @@
 # cpe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cpe.md)
+
 <p><span class="chinese">香加皮作为抗肿瘤药物有待进一步开发研究。</span><span class="english">For CPE to be used as an anti_tumor agent awaits further studies.</span></p>
 
 <p><span class="chinese">弗里克补充说，Cpe和人类的焦虑、记忆和繁殖有关。</span><span class="english">He adds that Cpe is involved in anxiety, memory and reproduction in humans.</span></p>

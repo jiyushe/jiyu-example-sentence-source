@@ -1,5 +1,7 @@
 # chimp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chimp.md)
+
 <p><span class="chinese">我在黑猩猩研究中融入了感情。</span><span class="english">I have mixed feelings on chimp studies.</span></p>
 
 <p><span class="chinese">她给这只老黑猩猩起名叫灰胡子大卫。</span><span class="english">She named the old chimp David Greybeard.</span></p>

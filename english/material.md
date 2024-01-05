@@ -1,5 +1,7 @@
 # material
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/material.md)
+
 <p><span class="chinese">她是个拜金女。</span><span class="english">She is a material girl.</span></p>
 
 <p><span class="chinese">这块料子是麻的。</span><span class="english">This material is linen.</span></p>

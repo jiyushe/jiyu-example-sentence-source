@@ -1,5 +1,7 @@
 # 混血儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hunxueer.md)
+
 <p><span class="chinese">他们都是美亚混血儿。</span><span class="english">They were Amerasians.</span></p>
 
 <p><span class="chinese">卢平是混血儿?。</span><span class="english">Lupin is a half-blood.</span></p>

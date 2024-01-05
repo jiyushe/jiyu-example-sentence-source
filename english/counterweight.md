@@ -1,5 +1,7 @@
 # counterweight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/counterweight.md)
+
 <p><span class="chinese">世界希望美国依旧可以是中国的制衡力量。</span><span class="english">The world hopes the U.S. will remain a counterweight to China.</span></p>
 
 <p><span class="chinese">如何认识电动吊篮的配重问题？</span><span class="english">How to know the electrically operated hanging basket's counterweight question?</span></p>

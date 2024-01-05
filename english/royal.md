@@ -1,5 +1,7 @@
 # royal 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/royal.md)
+
 <p><span class="chinese">公主殿下。</span><span class="english">Her Royal  Highness.</span></p>
 
 <p><span class="chinese">那个包箱是空的。</span><span class="english">The royal box was empty.</span></p>

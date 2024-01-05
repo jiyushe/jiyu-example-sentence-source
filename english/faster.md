@@ -1,5 +1,7 @@
 # faster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faster.md)
+
 <p><span class="chinese">现在速度快一点。</span><span class="english">Now,moving faster.</span></p>
 
 <p><span class="chinese">比傅里叶更快？</span><span class="english">Faster than Fourier?</span></p>

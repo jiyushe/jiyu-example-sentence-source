@@ -1,5 +1,7 @@
 # 开火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaihuo.md)
+
 <p><span class="chinese">但是没有人开火。</span><span class="english">But no one fired!</span></p>
 
 <p><span class="chinese">枪炮向敌人猛烈开火。</span><span class="english">The guns belched at the enemy.</span></p>

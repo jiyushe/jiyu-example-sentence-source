@@ -1,5 +1,7 @@
 # 感人肺腑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganrenfeifu.md)
+
 <p><span class="chinese">这是多么深沉、多少感人肺腑的爱啊！</span><span class="english">This is how deep and how many moving love ah!</span></p>
 
 <p><span class="chinese">这就是俗话说的，“感人肺腑的一家团圆”吗？</span><span class="english">So this is what they call a heartwarming family reunion, eh?</span></p>

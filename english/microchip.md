@@ -1,5 +1,7 @@
 # microchip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microchip.md)
+
 <p><span class="chinese">我刚去注册了她的晶片资料，也加入妳的名字与电话。</span><span class="english">I just registered her microchip and included your name and phone number.</span></p>
 
 <p><span class="chinese">一个消过毒的涂药器被注射进微型晶片在表皮之下。</span><span class="english">A sterile applicator is used to inject the microchip just under the skin.</span></p>

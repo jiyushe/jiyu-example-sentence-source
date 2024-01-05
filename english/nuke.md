@@ -1,5 +1,7 @@
 # nuke
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nuke.md)
+
 <p><span class="chinese">他想用核弹轰掉那个地区。</span><span class="english">He wanted to nuke the area.</span></p>
 
 <p><span class="chinese">伊朗没有必要用核武器攻击以色列。</span><span class="english">Iran has no need to nuke Israel.</span></p>

@@ -1,5 +1,7 @@
 # 阳春白雪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangchunbaixue.md)
+
 <p><span class="chinese">中国北京动物园，在三月阳春白雪。</span><span class="english">China Beijing Zoo, spring snow in March. Bear. Photo by KaKa.</span></p>
 
 <p><span class="chinese">中国北京动物园，在三月阳春白雪。</span><span class="english">China Beijing Zoo, spring snow in March. Wolf. Photo by KaKa.</span></p>

@@ -1,5 +1,7 @@
 # 不屑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buxie.md)
+
 <p><span class="chinese">他不屑阿谀奉承。</span><span class="english">He is above flattery.</span></p>
 
 <p><span class="chinese">她不屑回答。</span><span class="english">She deigned no reply.</span></p>

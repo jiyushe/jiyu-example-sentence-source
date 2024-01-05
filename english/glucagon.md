@@ -1,5 +1,7 @@
 # glucagon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glucagon.md)
+
 <p><span class="chinese">护士能教他们如何进行葡萄蛋白注射。</span><span class="english">A nurse can teach them how to give a glucagon shot.</span></p>
 
 <p><span class="chinese">用高血糖素处理肝脏，会导制自噬作用增加。</span><span class="english">Glucagon treatment of liver leads to increased autophagy.</span></p>

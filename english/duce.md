@@ -1,5 +1,7 @@
 # duce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duce.md)
+
 <p><span class="chinese">你如果注意饮食，减肥并不难。</span><span class="english">It is easy to re duce if you watch your diet.</span></p>
 
 <p><span class="chinese">或许这次的决定是由领袖一人作出的。</span><span class="english">Perhaps this has all been done by one Tweet by il duce.</span></p>

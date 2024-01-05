@@ -1,5 +1,7 @@
 # influence 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/influence.md)
+
 <p><span class="chinese">你有影响力！</span><span class="english">You have influence.</span></p>
 
 <p><span class="chinese">他有才能和影响力。</span><span class="english">He had power and influence.</span></p>

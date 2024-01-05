@@ -1,5 +1,7 @@
 # 校友
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoyou.md)
+
 <p><span class="chinese">我们是校友。</span><span class="english">We are alumni.</span></p>
 
 <p><span class="chinese">您是南开校友吗？</span><span class="english">Are you a Nankai Alumnus?</span></p>

@@ -1,5 +1,7 @@
 # cockiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cockiness.md)
+
 <p><span class="chinese">他的骄傲自大被看作神秘的个人魅力。</span><span class="english">He had a cockiness that passed for8 charisma.</span></p>
 
 <p><span class="chinese">我实在厌恶这个老人的狂妄。</span><span class="english">I really despised the old man for all his cockiness.</span></p>

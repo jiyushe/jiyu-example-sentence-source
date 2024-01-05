@@ -1,5 +1,7 @@
 # 有口皆碑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youkoujiebei.md)
+
 <p><span class="chinese">他是位有口皆碑的好老师。</span><span class="english">He is, by all accounts, a superb teacher.</span></p>
 
 <p><span class="chinese">我们公司有口皆碑且信用可靠。</span><span class="english">Our company is well-established and reliable.</span></p>

@@ -1,5 +1,7 @@
 # 严紧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanjin_1.md)
+
 <p><span class="chinese">神开办了一个严紧的学校。</span><span class="english">God keeps a costly school.</span></p>
 
 <p><span class="chinese">又为殿作了严紧的窗棂。</span><span class="english">He made narrow clerestory windows in the temple.</span></p>

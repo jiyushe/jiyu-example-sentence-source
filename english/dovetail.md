@@ -1,5 +1,7 @@
 # dovetail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dovetail.md)
+
 <p><span class="chinese">我在与我的视觉需要吻合的事物中取得借鉴。</span><span class="english">I borrow from things that dovetail with my visual needs.</span></p>
 
 <p><span class="chinese">自由主义的这些观点与兄弟俩公司的利益相吻合。</span><span class="english">These views dovetail with the brothers’ corporate interests.</span></p>

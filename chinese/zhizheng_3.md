@@ -1,5 +1,7 @@
 # 质证
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizheng_3.md)
+
 <p><span class="chinese">在第一天进行质证得到的这份证词的第七页，他被问及这个问题。</span><span class="english">On p. 7 of the first day of the evidence, he was asked this.</span></p>
 
 <p><span class="chinese">论文第二部分是“质证的性质及其效力”。</span><span class="english">The second part is its characteristics and effects of the cross-examination.</span></p>

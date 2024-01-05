@@ -1,5 +1,7 @@
 # inhibited
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inhibited.md)
+
 <p><span class="chinese">叶酸对HCY有拮抗作用。</span><span class="english">HCY is inhibited by folic acid.</span></p>
 
 <p><span class="chinese">能力也被抑制“</span><span class="english">Capacities have been inhibited."</span></p>

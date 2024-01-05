@@ -1,5 +1,7 @@
 # 大餐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dacan.md)
+
 <p><span class="chinese">美味大餐。</span><span class="english">A gourmet meal.</span></p>
 
 <p><span class="chinese">我超爱做大餐的！</span><span class="english">I love making big food!</span></p>

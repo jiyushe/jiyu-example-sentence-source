@@ -1,5 +1,7 @@
 # asker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asker.md)
+
 <p><span class="chinese">他问她是否要来。</span><span class="english">He asker her if she would come.</span></p>
 
 <p><span class="chinese">现在你可以做提问题的人。</span><span class="english">Now you can be the question asker.</span></p>

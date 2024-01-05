@@ -1,5 +1,7 @@
 # outskirts
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outskirts.md)
+
 <p><span class="chinese">他们大多住在近郊。</span><span class="english">They mostly live on the outskirts of a town.</span></p>
 
 <p><span class="chinese">兵逼城郊。</span><span class="english">The troops drove near the outskirts of the town.</span></p>

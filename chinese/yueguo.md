@@ -1,5 +1,7 @@
 # 越过
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yueguo.md)
+
 <p><span class="chinese">越过一段台阶在左边。</span><span class="english">It's left, over a stile.</span></p>
 
 <p><span class="chinese">球越过了外场防守员。</span><span class="english">The ball went past cover.</span></p>

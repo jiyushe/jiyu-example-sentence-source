@@ -1,5 +1,7 @@
 # 机械化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jixiehua.md)
+
 <p><span class="chinese">咱们正在迅速机械化。</span><span class="english">We are mechanizing rapidly.</span></p>
 
 <p><span class="chinese">农业的根本出路在于机械化。</span><span class="english">The key to agriculture is mechanization.</span></p>

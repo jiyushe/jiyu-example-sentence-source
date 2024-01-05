@@ -1,5 +1,7 @@
 # kraken
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kraken.md)
+
 <p><span class="chinese">他打败了哈德斯手下的怪物，将挪威海怪变成了石头。</span><span class="english">He defeats Hades' creatures and turns Kraken to stone.</span></p>
 
 <p><span class="chinese">Kraken还会制作其他作品，并有计划地生产吗?。</span><span class="english">What other Opuses has Kraken produced, and do they plan to produce?</span></p>

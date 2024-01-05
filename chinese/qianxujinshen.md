@@ -1,5 +1,7 @@
 # 谦虚谨慎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianxujinshen.md)
+
 <p><span class="chinese">他是个寡言少语、谦虚谨慎的人。</span><span class="english">He is a reticent and modest man.</span></p>
 
 <p><span class="chinese">我们要永远保持谦虚谨慎。</span><span class="english">We must always remain modest and prudent.</span></p>

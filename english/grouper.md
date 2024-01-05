@@ -1,5 +1,7 @@
 # grouper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grouper.md)
+
 <p><span class="chinese">另外还有始终供应的石斑鱼与红鳍笛鲷鱼。</span><span class="english">And always grouper and snapper," he added.</span></p>
 
 <p><span class="chinese">他们捕捞过濑鱼，石斑鱼，马鲛鱼。</span><span class="english">They had fished for wrasse, grouper and mackerel.</span></p>

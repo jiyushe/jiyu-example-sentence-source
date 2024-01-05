@@ -1,5 +1,7 @@
 # 磨蹭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moceng.md)
+
 <p><span class="chinese">女孩子喜欢在洗手间里磨蹭.</span><span class="english">Girls just love hanging out in the bathroom.</span></p>
 
 <p><span class="chinese">本杰明感觉到有一个鼻子在他肩上磨蹭。</span><span class="english">Benjamin felt a nose nuzzling at his shoulder.</span></p>

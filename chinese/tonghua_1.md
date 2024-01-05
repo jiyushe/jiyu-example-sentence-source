@@ -1,5 +1,7 @@
 # 童话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tonghua_1.md)
+
 <p><span class="chinese">格林童话呢?</span><span class="english">Grimm's fairy tales?</span></p>
 
 <p><span class="chinese">所以享受童话故事。</span><span class="english">So enjoy the fairytales.</span></p>

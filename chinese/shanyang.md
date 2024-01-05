@@ -1,5 +1,7 @@
 # 山羊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanyang.md)
+
 <p><span class="chinese">和山羊的一个奄牛！</span><span class="english">A bullock with goat!</span></p>
 
 <p><span class="chinese">早上好，山羊太太。</span><span class="english">Good morning, Mrs. Goat.</span></p>

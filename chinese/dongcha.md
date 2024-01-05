@@ -1,5 +1,7 @@
 # 洞察
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongcha.md)
+
 <p><span class="chinese">他犀利的双眼能够洞察一切。</span><span class="english">His sharp eyes can observe everything.</span></p>
 
 <p><span class="chinese">群体的洞察因此走偏了。</span><span class="english">As a result, their group insight went awry.</span></p>

@@ -1,5 +1,7 @@
 # heath
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heath.md)
+
 <p><span class="chinese">这是卡罗尔·希思和麦迪·内格尔。</span><span class="english">This is Carol Heath and Maddy Nagle.</span></p>
 
 <p><span class="chinese">我去荒野的石南树丛。</span><span class="english">Then I went to the heath and the wild.</span></p>

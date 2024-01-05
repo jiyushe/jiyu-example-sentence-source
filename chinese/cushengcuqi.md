@@ -1,5 +1,7 @@
 # 粗声粗气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cushengcuqi.md)
+
 <p><span class="chinese">那军官粗声粗气地发布命令。</span><span class="english">The officer rasped out an order.</span></p>
 
 <p><span class="chinese">那老头粗声粗气地发出警告。</span><span class="english">The old man rasped out a warning.</span></p>

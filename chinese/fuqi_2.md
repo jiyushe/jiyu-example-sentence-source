@@ -1,5 +1,7 @@
 # 福气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuqi_2.md)
+
 <p><span class="chinese">这里到处都有你的好福气。</span><span class="english">Your good luck is all here.</span></p>
 
 <p><span class="chinese">我享有好胃口的福气。</span><span class="english">I'm the bearer of good news.</span></p>

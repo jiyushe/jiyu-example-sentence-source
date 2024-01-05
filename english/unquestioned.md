@@ -1,5 +1,7 @@
 # unquestioned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unquestioned.md)
+
 <p><span class="chinese">这样，你不被人烦和不被人疑问的机会，就大大增加了。</span><span class="english">You stand a better chance of being left alone and unquestioned this way.</span></p>
 
 <p><span class="chinese">美国焊接学会作为一证明人，它的独立性将带给其程序无可怀疑的公正性。</span><span class="english">The independence of AWS as a certifier brings unquestioned integrity to its programs.</span></p>

@@ -1,5 +1,7 @@
 # 实话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shihua_1.md)
+
 <p><span class="chinese">我告诉您的是实话。</span><span class="english">It is as I tell you.</span></p>
 
 <p><span class="chinese">这是实话。</span><span class="english">and that's very real.</span></p>

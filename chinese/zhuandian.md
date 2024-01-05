@@ -1,5 +1,7 @@
 # 专电
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuandian.md)
+
 <p><span class="chinese">据新华社专电英国威廉王子和凯特·米德尔顿王妃结婚一周，生活渐归“平静”。</span><span class="english">According to AP Prince William and Kate Middleton getting married Princess of the week, life gradually return "calm."</span></p>
 
 <p><span class="chinese">新华社专电英国一名亿万富翁酒后驾车，遭警察截停后试图以豪华跑车行贿。</span><span class="english">Xinhua News Agency Reuters a British billionaire drunk driving, stopped by police after attempting to bribe luxury sports car.</span></p>

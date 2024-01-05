@@ -1,5 +1,7 @@
 # warplane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/warplane.md)
+
 <p><span class="chinese">据报道，一架战斗机在机组人员跳伞之后在班加西附近坠毁。</span><span class="english">A warplane was reported to have crashed near the city after the crew bailed out.</span></p>
 
 <p><span class="chinese">我满腹弧疑地说，一个人怎么能够一边驾驶一架现代化军用飞机，一边参加战斗。</span><span class="english">I wondered aloud how anyone ever fights and flies a modern warplane at the same time.</span></p>

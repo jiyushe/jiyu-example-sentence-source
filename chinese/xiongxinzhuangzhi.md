@@ -1,5 +1,7 @@
 # 雄心壮志
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongxinzhuangzhi.md)
+
 <p><span class="chinese">雄心壮志使他意气风发。</span><span class="english">His ambition goaded him on.</span></p>
 
 <p><span class="chinese">他的雄心壮志被岁月慢慢磨掉了。</span><span class="english">His lofty ideas were nibbled by years.</span></p>

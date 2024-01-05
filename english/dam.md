@@ -1,5 +1,7 @@
 # dam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dam.md)
+
 <p><span class="chinese">水坝已大功告成。</span><span class="english">The dam is accomplished.</span></p>
 
 <p><span class="chinese">他试图抑制自己的悲伤。</span><span class="english">He tried to dam his grief.</span></p>

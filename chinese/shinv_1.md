@@ -1,5 +1,7 @@
 # 使女
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shinv_1.md)
+
 <p><span class="chinese">利百加和她的使女们起来，骑上骆驼，跟着那仆人，仆人就带着利百加走了。</span><span class="english">So the servant took Rebekah and left.</span></p>
 
 <p><span class="chinese">利亚的使女悉帕给雅各生了一个儿子。</span><span class="english">Leah's servant Zilpah bore Jacob a son.</span></p>

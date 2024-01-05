@@ -1,5 +1,7 @@
 # 神道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shendao.md)
+
 <p><span class="chinese">这八百多米长的神道上。</span><span class="english">Along this 800-meter-long Divine Road.</span></p>
 
 <p><span class="chinese">日本是一个以神道教为信仰基础的国家和民族。</span><span class="english">Japan is a Shinto faith basis for the country and people.</span></p>

@@ -1,5 +1,7 @@
 # gout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gout.md)
+
 <p><span class="chinese">我因患痛风而感到脚趾像刺扎的一样痛。</span><span class="english">My toe is pricking with the gout.</span></p>
 
 <p><span class="chinese">那位老人正受着痛风病的折磨。</span><span class="english">The old man is suffering from gout.</span></p>

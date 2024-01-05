@@ -1,5 +1,7 @@
 # 师生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shisheng_1.md)
+
 <p><span class="chinese">“乳源教师进修学校”师生阅览室。</span><span class="english">Reading room for teachers and students.</span></p>
 
 <p><span class="chinese">不久，全校师生都知道她获胜了。</span><span class="english">Soon, the whole school knew about her win.</span></p>

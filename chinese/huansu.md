@@ -1,5 +1,7 @@
 # 还俗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huansu.md)
+
 <p><span class="chinese">这位年轻的僧人被准许还俗。</span><span class="english">The young monk was released from his vows.</span></p>
 
 <p><span class="chinese">他去年还俗后就开始蓄发了。</span><span class="english">He started growing hair after resuming his secular life last year.</span></p>

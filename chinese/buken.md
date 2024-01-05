@@ -1,5 +1,7 @@
 # 不肯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buken.md)
+
 <p><span class="chinese">你们竟自不肯。</span><span class="english">And you were not willing.</span></p>
 
 <p><span class="chinese">你们竟自不肯。</span><span class="english">But you were not willing.</span></p>

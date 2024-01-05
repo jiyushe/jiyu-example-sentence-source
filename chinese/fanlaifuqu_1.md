@@ -1,5 +1,7 @@
 # 翻来复去
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanlaifuqu_1.md)
+
 <p><span class="chinese">翻来复去都睡不着，我又怎么了？？？</span><span class="english">Who can tell me what happened ?</span></p>
 
 <p><span class="chinese">实验室里的工作味同嚼蜡翻来复去。</span><span class="english">Lab work is dull and repetitious.</span></p>

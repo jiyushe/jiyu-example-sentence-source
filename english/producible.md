@@ -1,5 +1,7 @@
 # producible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/producible.md)
+
 <p><span class="chinese">本发明还涉及采用这种方法生产的壳模。</span><span class="english">The invention also relates to a shell mould producible by the method.</span></p>
 
 <p><span class="chinese">针对回避类型本文给予了总结，并解释了回避产生的原因。</span><span class="english">The paper has summarized evasion types, and explained the producible reasons of evasion.</span></p>

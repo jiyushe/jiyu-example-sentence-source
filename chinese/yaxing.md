@@ -1,5 +1,7 @@
 # 雅兴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaxing.md)
+
 <p><span class="chinese">我实在没有这种雅兴。</span><span class="english">I'm really not in the mood.</span></p>
 
 <p><span class="chinese">他拿过沙发毯，夸奖了她们的勤奋和雅兴。</span><span class="english">He took up the rug , to celebrate their diligence and taste.</span></p>

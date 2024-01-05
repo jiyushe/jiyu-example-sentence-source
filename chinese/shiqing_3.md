@@ -1,5 +1,7 @@
 # 诗情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiqing_3.md)
+
 <p><span class="chinese">阡陌相交，炊烟袅袅，江南的秋有写不尽的诗情。</span><span class="english">As we know, autumn in south has endless poetry.</span></p>
 
 <p><span class="chinese">他的剧作含蓄蕴藉，韵味无穷，富含浓郁的诗情。</span><span class="english">His play has endless charm, is implicit and poetry-rich.</span></p>

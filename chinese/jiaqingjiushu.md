@@ -1,5 +1,7 @@
 # 驾轻就熟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaqingjiushu.md)
+
 <p><span class="chinese">他是一位很有技巧、驾轻就熟的机械修理工。</span><span class="english">He played the piece with effortless artistry.</span></p>
 
 <p><span class="chinese">一些人驾轻就熟，其他人则否。</span><span class="english">Some people have a facility for driving and others do not.</span></p>

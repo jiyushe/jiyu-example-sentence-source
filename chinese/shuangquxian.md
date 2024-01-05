@@ -1,5 +1,7 @@
 # 双曲线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuangquxian.md)
+
 <p><span class="chinese">现在它就成了双曲线。</span><span class="english">It hasbecome a hyperbola.</span></p>
 
 <p><span class="chinese">由四点作双曲线。</span><span class="english">Hyperbola from Four Points.</span></p>

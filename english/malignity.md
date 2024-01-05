@@ -1,5 +1,7 @@
 # malignity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malignity.md)
+
 <p><span class="chinese">真正的中国人也许狡猾，但狡猾中并无阴险。</span><span class="english">Thereal Chinaman may be cunning, but there is no malignity in his cunning.</span></p>
 
 <p><span class="chinese">真正的中国人也许狡猾，但狡猾中并无阴险。</span><span class="english">The real Chinaman may be cunning, but there is no deep malignity in his cunning.</span></p>

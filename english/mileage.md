@@ -1,5 +1,7 @@
 # mileage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mileage.md)
+
 <p><span class="chinese">公里数是免费的吗？</span><span class="english">Is the mileage free?</span></p>
 
 <p><span class="chinese">关于里数方面呢？</span><span class="english">How about the mileage?</span></p>

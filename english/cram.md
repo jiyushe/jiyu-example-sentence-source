@@ -1,5 +1,7 @@
 # cram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cram.md)
+
 <p><span class="chinese">我上的是补习学校。</span><span class="english">I goa cram school.</span></p>
 
 <p><span class="chinese">我上的是补习学校。</span><span class="english">I go to a cram school.</span></p>

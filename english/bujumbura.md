@@ -1,5 +1,7 @@
 # bujumbura
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bujumbura.md)
+
 <p><span class="chinese">他所在的部队基地位于布琼布拉，他在基地里生火做饭。</span><span class="english">He cooks his meal at an army base in Bujumbura.</span></p>
 
 <p><span class="chinese">布隆迪年独立后乌松布拉改名为布琼布拉。</span><span class="english">Usumbura was renamed Bujumbura when Burundi became independent in 1962.</span></p>

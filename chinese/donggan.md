@@ -1,5 +1,7 @@
 # 动感
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/donggan.md)
+
 <p><span class="chinese">他是闪耀亚洲的“动感舞王”！</span><span class="english">He is a brisk dancer shining around Asia!</span></p>
 
 <p><span class="chinese">独特炫丽造型，时尚动感。</span><span class="english">Unique beautiful modeling, dynamic fashion.</span></p>

@@ -1,5 +1,7 @@
 # propitious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/propitious.md)
+
 <p><span class="chinese">你找不到比这更有利的时机了！</span><span class="english">You don't get more propitious than that.</span></p>
 
 <p><span class="chinese">这些情况郴利于公丝的进壹步发展。</span><span class="english">The were not propitious for further expansion of the company.</span></p>

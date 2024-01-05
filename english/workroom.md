@@ -1,5 +1,7 @@
 # workroom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/workroom.md)
+
 <p><span class="chinese">就在这时，蕾切尔走进了四号小工作室。</span><span class="english">Into Small Workroom 4 came Rachel.</span></p>
 
 <p><span class="chinese">漪欤盛哉，这是工作室的盛况。</span><span class="english">This is the workroom in all its splendor.</span></p>

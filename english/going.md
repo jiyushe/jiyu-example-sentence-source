@@ -1,5 +1,7 @@
 # going
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/going.md)
+
 <p><span class="chinese">我们真去？</span><span class="english">We are going?</span></p>
 
 <p><span class="chinese">老娘我不干了，回家了。</span><span class="english">I'm going home.</span></p>

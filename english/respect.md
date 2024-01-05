@@ -1,5 +1,7 @@
 # respect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/respect.md)
+
 <p><span class="chinese">我很尊敬他。</span><span class="english">I  respect him.</span></p>
 
 <p><span class="chinese">它能赢得尊重。</span><span class="english">It earns respect.</span></p>

@@ -1,5 +1,7 @@
 # inebriated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inebriated.md)
+
 <p><span class="chinese">十月份一个寒冷的夜晚，警察逮捕了几名醉汉，把他们绳之以法。</span><span class="english">On a cold October night, police arrest the inebriated and take them to jail.</span></p>
 
 <p><span class="chinese">父母为此对他们照顾有加，他们沈醉于溺爱之中。</span><span class="english">The parents look after to add to them for this, their is inebriated to spoil in.</span></p>

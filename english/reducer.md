@@ -1,5 +1,7 @@
 # reducer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reducer.md)
+
 <p><span class="chinese">可能也停了降低羞耻心的那种？</span><span class="english">Also the shame reducer?</span></p>
 
 <p><span class="chinese">您想吃点退烧药吗？</span><span class="english">Do you want a fever reducer?</span></p>

@@ -1,5 +1,7 @@
 # troy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/troy.md)
+
 <p><span class="chinese">特罗依是那么令人满意。</span><span class="english">Troy is so sweet.</span></p>
 
 <p><span class="chinese">那是托伊中士。</span><span class="english">It was Sergeant Troy.</span></p>

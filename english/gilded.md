@@ -1,5 +1,7 @@
 # gilded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gilded.md)
+
 <p><span class="chinese">镀金丝网顶端的倒刺。</span><span class="english">Barbs on the crown of gilded wire.</span></p>
 
 <p><span class="chinese">又黑又瘦的永生被镀成金色。</span><span class="english">Meager immortality black and gilded.</span></p>

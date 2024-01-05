@@ -1,5 +1,7 @@
 # cetacean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cetacean.md)
+
 <p><span class="chinese">白鱀豚的脑表现出典型的鲸脑特征。</span><span class="english">The Lipotes brain exhibits typical cetacean characteristics.</span></p>
 
 <p><span class="chinese">人们相信，抹香鲸比其他鲸类动物潜得更深。</span><span class="english">The sperm whale is believe to dive deeper than any other cetacean.</span></p>

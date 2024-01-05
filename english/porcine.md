@@ -1,5 +1,7 @@
 # porcine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/porcine.md)
+
 <p><span class="chinese">他是个长得像猪一样的秃头老男人。</span><span class="english">He is a bald porcine old man.</span></p>
 
 <p><span class="chinese">此外，还观察了胰蛋白酶对猪血纤维蛋白溶酶原的激活。</span><span class="english">The activation of porcine Pg by trypsin was also noticed.</span></p>

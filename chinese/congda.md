@@ -1,5 +1,7 @@
 # 从打
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/congda.md)
+
 <p><span class="chinese">她的爱好从打网球到溜冰，范围很广。</span><span class="english">Her interests ranged from tennis to skating.</span></p>
 
 <p><span class="chinese">从打有护士以来，我出去的机会更多。</span><span class="english">Ever since I've had nurses I've been able to go out more.</span></p>

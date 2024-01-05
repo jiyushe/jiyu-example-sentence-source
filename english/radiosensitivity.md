@@ -1,5 +1,7 @@
 # radiosensitivity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radiosensitivity.md)
+
 <p><span class="chinese">目的研究冷适应是否会引起辐射敏感性的变化。</span><span class="english">Objective To observe the effects of radiosensitivity in cold-adaptation.</span></p>
 
 <p><span class="chinese">其中细胞周期调控是决定细胞抗辐射能力的一个重要因素。</span><span class="english">Among them, cell cycle modulation is the most important factor of radiosensitivity.</span></p>

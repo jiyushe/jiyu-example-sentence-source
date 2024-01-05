@@ -1,5 +1,7 @@
 # 乡音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangyin.md)
+
 <p><span class="chinese">他说话带有很重的乡音。</span><span class="english">He speaks in his broad accent.</span></p>
 
 <p><span class="chinese">她说话经常带浓厚的乡音。</span><span class="english">She often speaks with a strong local accent.</span></p>

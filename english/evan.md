@@ -1,5 +1,7 @@
 # evan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evan.md)
+
 <p><span class="chinese">凯西向艾凡回报。</span><span class="english">Kathy reports back to Evan.</span></p>
 
 <p><span class="chinese">现在回到埃文和瑞秋。</span><span class="english">So now back to Evan and Rachel.</span></p>

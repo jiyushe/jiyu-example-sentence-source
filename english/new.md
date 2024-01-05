@@ -1,5 +1,7 @@
 # new 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/new.md)
+
 <p><span class="chinese">新邮件。</span><span class="english">New email.</span></p>
 
 <p><span class="chinese">新鞋子吗</span><span class="english">New shoes?</span></p>

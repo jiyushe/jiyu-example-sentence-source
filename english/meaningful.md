@@ -1,5 +1,7 @@
 # meaningful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meaningful.md)
+
 <p><span class="chinese">神认为这是有意义的。</span><span class="english">God thinks it's meaningful.</span></p>
 
 <p><span class="chinese">在有意义的情境或上下文中说这个音。</span><span class="english">Say the sound in meaningful context.</span></p>

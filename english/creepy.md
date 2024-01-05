@@ -1,5 +1,7 @@
 # creepy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/creepy.md)
+
 <p><span class="chinese">但是你觉得他很可怕。</span><span class="english">But you thought he was creepy.</span></p>
 
 <p><span class="chinese">他的故事使我毛骨耸然。</span><span class="english">His story made me feel creepy.</span></p>

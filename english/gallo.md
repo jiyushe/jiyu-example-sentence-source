@@ -1,5 +1,7 @@
 # gallo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gallo.md)
+
 <p><span class="chinese">马特击败厄尔·盖洛并救回了路易莎。</span><span class="english">Matt fights El Gallo and saves Luisa.</span></p>
 
 <p><span class="chinese">他们让埃尔加尔试着绑架路易莎。</span><span class="english">They ask El Gallo to try to kidnap Luisa.</span></p>

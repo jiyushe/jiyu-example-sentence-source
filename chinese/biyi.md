@@ -1,5 +1,7 @@
 # 笔译
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biyi.md)
+
 <p><span class="chinese">大多数的笔译客户来自于商业。</span><span class="english">Most of the translation is for business clients.</span></p>
 
 <p><span class="chinese">网络搜索现在是笔译翻译的一根大拐棍。</span><span class="english">Web searching is now a big walking stick for translators.</span></p>

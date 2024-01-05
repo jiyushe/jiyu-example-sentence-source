@@ -1,5 +1,7 @@
 # ladder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ladder.md)
+
 <p><span class="chinese">梯子支立着。</span><span class="english">The ladder is up.</span></p>
 
 <p><span class="chinese">他从梯子上掉下来。</span><span class="english">He fell from the ladder.</span></p>

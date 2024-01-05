@@ -1,5 +1,7 @@
 # 无缘无故
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuyuanwugu.md)
+
 <p><span class="chinese">他们无缘无故地争吵。</span><span class="english">They quarreled for nothing.</span></p>
 
 <p><span class="chinese">“无缘无故”只能说是半真半假。</span><span class="english">The half-truth is “unprovoked”.</span></p>

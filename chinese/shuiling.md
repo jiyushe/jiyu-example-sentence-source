@@ -1,5 +1,7 @@
 # 水灵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiling.md)
+
 <p><span class="chinese">我的小狗有双又大又水灵的眼睛，非常可爱。</span><span class="english">My puppy has large liquid eyes and is very cute.</span></p>
 
 <p><span class="chinese">宝宝的小脸嫩白水灵儿，真是可爱！</span><span class="english">The baby's little face is delicate and white, he is really adorable!</span></p>

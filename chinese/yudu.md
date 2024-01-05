@@ -1,5 +1,7 @@
 # 鱼肚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yudu.md)
+
 <p><span class="chinese">用同一把刀将鱼肚这里改一下刀。</span><span class="english">Using the same knife, shape the skinless fillet into a rectangle.</span></p>
 
 <p><span class="chinese">海参、鱼肚、鱿鱼均必须发透至软。</span><span class="english">Sea cucumber, fish maw, squid must be made transparent to the soft.</span></p>

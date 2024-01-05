@@ -1,5 +1,7 @@
 # 鹰犬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingquan.md)
+
 <p><span class="chinese">他心中暗怒四大鹰犬乘人之危，趁他受伤时偷袭，决定向他们施展报复。</span><span class="english">He was thinking to anger four YingQuan fishing, while he is injured cs, decided to cast their revenge.</span></p>
 
 <p><span class="chinese">O-1鹰犬式飞机在越南战争中被广泛使用，大部分时间里作为一种前线支援飞机。</span><span class="english">This O-1 Bird Dog was also used in Vietnam and neighboring countries, mostly as a forward air controller.</span></p>

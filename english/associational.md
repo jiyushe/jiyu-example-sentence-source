@@ -1,5 +1,7 @@
 # associational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/associational.md)
+
 <p><span class="chinese">是开放性、联想性、科学性的思维。</span><span class="english">And it should be open, associational and scientific.</span></p>
 
 <p><span class="chinese">选择不同的基本单位，这种联系也大相径庭。</span><span class="english">But depending on the unit chosen, the associational networks will differ.</span></p>

@@ -1,5 +1,7 @@
 # boiler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boiler.md)
+
 <p><span class="chinese">锅炉已经生起火了。</span><span class="english">The boiler has stoked up.</span></p>
 
 <p><span class="chinese">锅炉排放了蒸汽。</span><span class="english">The boiler discharged steam.</span></p>

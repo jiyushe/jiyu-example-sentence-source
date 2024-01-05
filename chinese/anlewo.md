@@ -1,5 +1,7 @@
 # 安乐窝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/anlewo.md)
+
 <p><span class="chinese">建造一个安乐窝。</span><span class="english">Build a comfort zone.</span></p>
 
 <p><span class="chinese">恐惧心理把我局限在狭窄的安乐窝里动弹不得。</span><span class="english">This fear confined me to a narrow comfort zone.</span></p>

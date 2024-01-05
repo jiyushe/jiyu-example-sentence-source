@@ -1,5 +1,7 @@
 # mighty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mighty.md)
+
 <p><span class="chinese">住着伟大的阿赫第！</span><span class="english">Dwells the mighty Ahti!</span></p>
 
 <p><span class="chinese">有势力的人是如何没落的。</span><span class="english">How the mighty have fallen.</span></p>

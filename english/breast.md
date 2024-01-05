@@ -1,5 +1,7 @@
 # breast 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/breast.md)
+
 <p><span class="chinese">然而独独没有包括母乳。</span><span class="english">But not breast milk.</span></p>
 
 <p><span class="chinese">自画眉鸟的胸膛。</span><span class="english">In a thrush's breast.</span></p>

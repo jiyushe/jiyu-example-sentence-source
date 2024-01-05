@@ -1,5 +1,7 @@
 # wintery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wintery.md)
+
 <p><span class="chinese">冬日假期往往填补我们的喜悦。</span><span class="english">Wintery holidays often fill us with joy.</span></p>
 
 <p><span class="chinese">在如冬的地方外的水晶过道上，找到一个隐藏地点。</span><span class="english">Get to a hard-to-reach spot in a wintery place outside Crystal Path.</span></p>

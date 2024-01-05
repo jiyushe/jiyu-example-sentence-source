@@ -1,5 +1,7 @@
 # bendy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bendy.md)
+
 <p><span class="chinese">肯当时还引进了身长18米的铰接式公交车。</span><span class="english">He also introduced 18-metre-long, "bendy" single-deckers.</span></p>
 
 <p><span class="chinese">通过使用可折叠的组分，这些屏幕将会变得易弯曲。</span><span class="english">By using flexible components, these screens will also become bendy.</span></p>

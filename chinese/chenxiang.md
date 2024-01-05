@@ -1,5 +1,7 @@
 # 沉箱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenxiang.md)
+
 <p><span class="chinese">同样有沉箱以备紧急情况之需。</span><span class="english">It also has the caisson for emergency cases.</span></p>
 
 <p><span class="chinese">在紧急情况下，可以用150吨重的沉箱将其关住。</span><span class="english">In emergency case it could be closed with caisson with the weight of 150 tons.</span></p>

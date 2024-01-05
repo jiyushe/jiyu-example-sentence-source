@@ -1,5 +1,7 @@
 # aborigines
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aborigines.md)
+
 <p><span class="chinese">土著居民日落时的舞蹈能把灰尘扬起来。</span><span class="english">Aborigines kick up dust in a dance at sunset.</span></p>
 
 <p><span class="chinese">奴役住族「制劳动」。</span><span class="english">Enslavement of Aborigines through forced labor.</span></p>

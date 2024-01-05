@@ -1,5 +1,7 @@
 # storeroom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/storeroom.md)
+
 <p><span class="chinese">请稍等，我去库房给您拿货。</span><span class="english">I'll get it for you in the storeroom.</span></p>
 
 <p><span class="chinese">要我把这些盒子搬到储藏室吗？</span><span class="english">Shall I take these boxes to the storeroom?</span></p>

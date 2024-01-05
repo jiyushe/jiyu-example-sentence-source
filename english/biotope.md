@@ -1,5 +1,7 @@
 # biotope
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biotope.md)
+
 <p><span class="chinese">群落生境对生物群落有作用。</span><span class="english">The biotope acts on the biocoenosis.</span></p>
 
 <p><span class="chinese">群落生境对生物群落有作用。</span><span class="english">The biotope acts on the biocoenosis.</span></p>

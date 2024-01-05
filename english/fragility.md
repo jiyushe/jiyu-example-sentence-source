@@ -1,5 +1,7 @@
 # fragility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fragility.md)
+
 <p><span class="chinese">手术时机对髋骨脆性骨折有影响吗？</span><span class="english">Does timing of surgery matter in fragility hip fractures?</span></p>
 
 <p><span class="chinese">新加坡的脆弱，是谁也无法否认及改变的事实。</span><span class="english">The island-state's unalterable fragility is beyond dispute.</span></p>

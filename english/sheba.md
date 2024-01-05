@@ -1,5 +1,7 @@
 # sheba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sheba.md)
+
 <p><span class="chinese">示巴的金子要奉给他。</span><span class="english">May gold from Sheba be given him.</span></p>
 
 <p><span class="chinese">约押和他兄弟亚比筛往前追赶比基利的儿子示巴。</span><span class="english">So Joab and Abishai his brother pursued after Sheba the son of Bichri.</span></p>

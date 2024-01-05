@@ -1,5 +1,7 @@
 # 油然而生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youranersheng.md)
+
 <p><span class="chinese">我抬起头去核对，一种挫败感油然而生。</span><span class="english">I looked up to check, feeling off-balance.</span></p>
 
 <p><span class="chinese">他斜着眼睛看着那个姑娘，爱慕油然而生。</span><span class="english">He squinted at the girl, love rising in his heart.</span></p>

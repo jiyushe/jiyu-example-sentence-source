@@ -1,5 +1,7 @@
 # vocalist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vocalist.md)
+
 <p><span class="chinese">史密斯先生是位优秀的声乐家。</span><span class="english">Mr. Smith is an excellent vocalist.</span></p>
 
 <p><span class="chinese">斯蒂芬先生是位优秀的声乐家。</span><span class="english">Mr. Steffen is an excellent vocalist.</span></p>

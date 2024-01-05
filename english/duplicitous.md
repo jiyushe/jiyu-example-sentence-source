@@ -1,5 +1,7 @@
 # duplicitous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duplicitous.md)
+
 <p><span class="chinese">欺骗性的或两面派的手法。</span><span class="english">A fraudulent or duplicitous representation.</span></p>
 
 <p><span class="chinese">他是一个贪婪、奸诈而又蛮不讲理的人。</span><span class="english">He is a possessive, duplicitous and unreasonable man.</span></p>

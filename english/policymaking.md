@@ -1,5 +1,7 @@
 # policymaking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/policymaking.md)
+
 <p><span class="chinese">民主党需要赢得这次选举，以便更顺利地制定政策。</span><span class="english">The party needs to win that election in order to smooth policymaking.</span></p>
 
 <p><span class="chinese">这个国家的农民关注循证决策。</span><span class="english">Farmers in this country are interested in evidence-based policymaking.</span></p>

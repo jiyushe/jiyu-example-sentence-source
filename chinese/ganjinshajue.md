@@ -1,5 +1,7 @@
 # 赶尽杀绝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganjinshajue.md)
+
 <p><span class="chinese">结果，他死了，他的家人也几乎被赶尽杀绝。</span><span class="english">As a result, he ended up dead, with his family endangered.</span></p>
 
 <p><span class="chinese">青蛙弟弟为人类奉献了那么多，为何还要把他们赶尽杀绝？</span><span class="english">Frog brother for human sacrifice so much, why is forcing them out?</span></p>

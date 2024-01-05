@@ -1,5 +1,7 @@
 # est
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/est.md)
+
 <p><span class="chinese">圣曼尼非希望你星期一之前就去报到！</span><span class="english">C' est Magnifique wants you up there by Monday.</span></p>
 
 <p><span class="chinese">马车上的菩提和洛基。通常直播在东部时间9-5点。</span><span class="english">Bodhi and Loki on the chaise. Usually live 9-5 EST.</span></p>

@@ -1,5 +1,7 @@
 # trimming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trimming.md)
+
 <p><span class="chinese">他老是两面讨好。</span><span class="english">He is always trimming.</span></p>
 
 <p><span class="chinese">留意剪线和清洁。</span><span class="english">Take care for trimming and cleaning.</span></p>

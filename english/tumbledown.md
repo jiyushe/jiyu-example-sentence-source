@@ -1,5 +1,7 @@
 # tumbledown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tumbledown.md)
+
 <p><span class="chinese">在一座破败的褐砂石房子的右侧，矗立着一棵枯树。</span><span class="english">A dead tree stands to the right of a tumbledown brownstone house.</span></p>
 
 <p><span class="chinese">在印尼，慈济志工帮助一位生活困顿的老妇人、维修残破的房子。</span><span class="english">In Indonesia, volunteers helped an old woman renovate her tumbledown home.</span></p>

@@ -1,5 +1,7 @@
 # 雷池
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leichi.md)
+
 <p><span class="chinese">被窝很大，也很温暖，不一会儿他们便越过雷池，变得非常亲密了。</span><span class="english">It was big enough, warm enough, and in a little while they deepened their intimacy considerably.</span></p>
 
 <p><span class="chinese">我们有一个良好的自然的纪律环境，因为我们没有哪个球员敢越雷池。</span><span class="english">There's a good core of natural discipline because we don't have any players who go over the top.</span></p>

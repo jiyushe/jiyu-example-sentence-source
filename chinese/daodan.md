@@ -1,5 +1,7 @@
 # 导弹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daodan.md)
+
 <p><span class="chinese">当然是导弹。</span><span class="english">Missiles, of course.</span></p>
 
 <p><span class="chinese">使用热追踪导弹。</span><span class="english">Using Heat-seeking missiles.</span></p>

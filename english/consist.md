@@ -1,5 +1,7 @@
 # consist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consist.md)
+
 <p><span class="chinese">这份盘装菜由什么组成。</span><span class="english">What does this dish consist of?</span></p>
 
 <p><span class="chinese">种子一般由哪几部分构成？</span><span class="english">How many parts does a seed consist of?</span></p>

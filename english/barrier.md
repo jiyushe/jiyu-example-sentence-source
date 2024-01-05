@@ -1,5 +1,7 @@
 # barrier 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barrier.md)
+
 <p><span class="chinese">搭起一道屏障。</span><span class="english">And put up a barrier.</span></p>
 
 <p><span class="chinese">而是心理界限。</span><span class="english">It was a mental barrier.</span></p>

@@ -1,5 +1,7 @@
 # hydroponic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydroponic.md)
+
 <p><span class="chinese">他们生产有机的水种农作物。</span><span class="english">They produce organic, hydroponic crops.</span></p>
 
 <p><span class="chinese">水培花园比实土培养要昂贵得多。</span><span class="english">A hydroponic garden is more expensive than dirt.</span></p>

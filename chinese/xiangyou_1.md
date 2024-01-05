@@ -1,5 +1,7 @@
 # 香油
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangyou_1.md)
+
 <p><span class="chinese">但纯香油治愈感染的伤口。</span><span class="english">But pure balm heals the festering wound.</span></p>
 
 <p><span class="chinese">香油是在丰富的不饱和脂肪酸。</span><span class="english">Sesame oil is rich in unsaturated fatty acids.</span></p>

@@ -1,5 +1,7 @@
 # syncope
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/syncope.md)
+
 <p><span class="chinese">象这样的病我们就称做晕厥。</span><span class="english">Such an attack is termed syncope.</span></p>
 
 <p><span class="chinese">血管迷走性晕厥机制复杂。</span><span class="english">The mechanism of vasovagal syncope is complex.</span></p>

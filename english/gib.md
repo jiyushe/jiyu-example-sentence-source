@@ -1,5 +1,7 @@
 # gib
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gib.md)
+
 <p><span class="chinese">是的，我很清楚他，再见。</span><span class="english">Yeah, Gib , I know Harry. Bye.</span></p>
 
 <p><span class="chinese">不仅仅只有高速公路上的气体。</span><span class="english">Gib nicht nur auf der Autobahn Gas.</span></p>

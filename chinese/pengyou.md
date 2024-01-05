@@ -1,5 +1,7 @@
 # 朋友
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pengyou.md)
+
 <p><span class="chinese">再见，朋友！</span><span class="english">Adios amigos!</span></p>
 
 <p><span class="chinese">我讨厌的朋友。</span><span class="english">I hate Heather.</span></p>

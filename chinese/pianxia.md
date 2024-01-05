@@ -1,5 +1,7 @@
 # 偏狭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianxia.md)
+
 <p><span class="chinese">生命短暂，切不可猬琐偏狭。——狄斯累利。</span><span class="english">Life is short, must not hedgehog intolerance.</span></p>
 
 <p><span class="chinese">只是对不明就里的人而言，这一想法是偏狭的。</span><span class="english">The idea was outlandish only to the innocent.</span></p>

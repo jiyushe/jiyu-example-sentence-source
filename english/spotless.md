@@ -1,5 +1,7 @@
 # spotless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spotless.md)
+
 <p><span class="chinese">一辆一尘不染的出租车停在面前。</span><span class="english">A spotless cab pulled up.</span></p>
 
 <p><span class="chinese">保持你灵魂的纯洁光明</span><span class="english">Spotless keep thy soul and bright</span></p>

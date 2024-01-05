@@ -1,5 +1,7 @@
 # 反感
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangan.md)
+
 <p><span class="chinese">那使我反感。</span><span class="english">That repels me.</span></p>
 
 <p><span class="chinese">这种反感是相互的。</span><span class="english">The antipathy is mutual.</span></p>

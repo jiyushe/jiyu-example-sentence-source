@@ -1,5 +1,7 @@
 # protection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/protection.md)
+
 <p><span class="chinese">所以，那就是防火。</span><span class="english">So that's fire protection.</span></p>
 
 <p><span class="chinese">知识产权海关保护。</span><span class="english">Customs protection of IPRs.</span></p>

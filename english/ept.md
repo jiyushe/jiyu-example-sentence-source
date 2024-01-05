@@ -1,5 +1,7 @@
 # ept
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ept.md)
+
 <p><span class="chinese">我收到-份请柬，但没有接管。</span><span class="english">I received an invitation, but I did not ept.</span></p>
 
 <p><span class="chinese">但内视镜乳突先前切开术之安全性有待评估。</span><span class="english">But the safety of precut EPT remains controversial.</span></p>

@@ -1,5 +1,7 @@
 # 重见天日
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongjiantianri.md)
+
 <p><span class="chinese">这样一大批手稿得以重见天日。</span><span class="english">So a lot of these things were rediscovered.</span></p>
 
 <p><span class="chinese">如果你袭击了五角大楼，你就别想重见天日。</span><span class="english">If you attack the Pentagon, you might want to hide.</span></p>

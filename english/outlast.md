@@ -1,5 +1,7 @@
 # outlast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outlast.md)
+
 <p><span class="chinese">你比劲量的兔子更持久。</span><span class="english">You can outlast the Energizer bunny.</span></p>
 
 <p><span class="chinese">金平价未能在经济萧条时期得已持续。</span><span class="english">The gold standard failed to outlast the Depression.</span></p>

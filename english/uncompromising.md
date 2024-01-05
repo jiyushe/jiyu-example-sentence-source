@@ -1,5 +1,7 @@
 # uncompromising
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncompromising.md)
+
 <p><span class="chinese">这是一场毫不调和的斗争。</span><span class="english">This is an uncompromising struggle.</span></p>
 
 <p><span class="chinese">他是不屈不挠的改革者的典型。</span><span class="english">He typifies the uncompromising reformer.</span></p>

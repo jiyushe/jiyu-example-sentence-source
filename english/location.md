@@ -1,5 +1,7 @@
 # location
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/location.md)
+
 <p><span class="chinese">位置服务。</span><span class="english">Location services.</span></p>
 
 <p><span class="chinese">现场规划图。</span><span class="english">Site location plan.</span></p>

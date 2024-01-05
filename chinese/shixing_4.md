@@ -1,5 +1,7 @@
 # 食性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shixing_4.md)
+
 <p><span class="chinese">鹿类为植食性，以草、嫩枝、树皮及芽为食。</span><span class="english">Deer feed on grass, twigs, Bark, and shoots.</span></p>
 
 <p><span class="chinese">由肌肉转变为可食性肉，到最后的嫩化成熟是一个复杂过程。</span><span class="english">It is complex process that the muscle change to meat.</span></p>

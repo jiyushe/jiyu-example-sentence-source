@@ -1,5 +1,7 @@
 # catchall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catchall.md)
+
 <p><span class="chinese">这将使这个检查可以检查所有可能遇到的问题。</span><span class="english">This makes this single check a catchall for all the problems you might run into.</span></p>
 
 <p><span class="chinese">一个可作为混杂排列的计算机附件的统称词。</span><span class="english">A word that serves as a catchall for a bewildering array of computer accessories.</span></p>

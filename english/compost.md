@@ -1,5 +1,7 @@
 # compost
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compost.md)
+
 <p><span class="chinese">我将垃圾扔在肥堆上。</span><span class="english">I fling my waste on the compost pile.</span></p>
 
 <p><span class="chinese">其他的队伍正在用稻谷制作混合肥料。</span><span class="english">Others are dehulling rice, making compost</span></p>

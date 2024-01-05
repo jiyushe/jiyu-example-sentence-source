@@ -1,5 +1,7 @@
 # roster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roster.md)
+
 <p><span class="chinese">作为他们的供应商名册。</span><span class="english">UNGM as their supplier roster.</span></p>
 
 <p><span class="chinese">最后的名单将于晚些时候公布。</span><span class="english">The final roster will be announced later.</span></p>

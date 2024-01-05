@@ -1,5 +1,7 @@
 # odourless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/odourless.md)
+
 <p><span class="chinese">纯空气是无色无臭的。</span><span class="english">Pure air is colourless and odourless.</span></p>
 
 <p><span class="chinese">它是一种白色结晶粉末，无气味。</span><span class="english">It is a white crystalline and odourless powder.</span></p>

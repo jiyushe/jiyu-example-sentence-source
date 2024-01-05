@@ -1,5 +1,7 @@
 # pushy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pushy.md)
+
 <p><span class="chinese">看，我们是有冲劲儿的美国人。</span><span class="english">Look, we’re pushy Americans.</span></p>
 
 <p><span class="chinese">过度使用只会让你显得莽撞。</span><span class="english">Overuse will only make you look pushy.</span></p>

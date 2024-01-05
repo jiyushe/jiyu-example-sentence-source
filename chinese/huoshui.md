@@ -1,5 +1,7 @@
 # 活水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoshui.md)
+
 <p><span class="chinese">一片是活水，鱼儿在水里游。</span><span class="english">One is fresh, and fish are in it.</span></p>
 
 <p><span class="chinese">惟有源头活水来。</span><span class="english">Only has the source running water.</span></p>

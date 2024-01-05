@@ -1,5 +1,7 @@
 # 枸杞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gouqi.md)
+
 <p><span class="chinese">枸杞是什么？</span><span class="english">What are goji berries?</span></p>
 
 <p><span class="chinese">枸杞有何之处对你有益？</span><span class="english">What makes Goji berries good for you?</span></p>

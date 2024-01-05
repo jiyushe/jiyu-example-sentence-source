@@ -1,5 +1,7 @@
 # conjuncture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conjuncture.md)
+
 <p><span class="chinese">当此国家危急之秋，我们需要坚强的领导。</span><span class="english">At this conjuncture in our nation's affairs, we need firm leadership.</span></p>
 
 <p><span class="chinese">我想我是一个乐观的人，而且相信转机之后一定会有勃勃生机。</span><span class="english">What is it behind conjuncture?For optimistical people, it is a favourable turn.</span></p>

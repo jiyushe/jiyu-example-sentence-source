@@ -1,5 +1,7 @@
 # 鱼油
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuyou.md)
+
 <p><span class="chinese">吃鱼或者含鱼油的食品。</span><span class="english">Eat fish or take a fish-oil supplement.</span></p>
 
 <p><span class="chinese">我们不提供鱼油从农场饲养的鱼。</span><span class="english">Our fish oil is not supplied from farm-raised fish.</span></p>

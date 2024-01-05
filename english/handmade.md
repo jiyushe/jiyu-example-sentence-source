@@ -1,5 +1,7 @@
 # handmade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handmade.md)
+
 <p><span class="chinese">其重要的原料是手工制成的秸杆捆。</span><span class="english">The key ingredient is handmade straw bales.</span></p>
 
 <p><span class="chinese">亲手做一张卡片会花上妳很多时间。</span><span class="english">Making a handmade card takes you so much time.</span></p>

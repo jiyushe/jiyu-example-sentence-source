@@ -1,5 +1,7 @@
 # typify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/typify.md)
+
 <p><span class="chinese">在这本书中我们试图代表动词的主要类别。</span><span class="english">In this book we have tried to typify the main classes of verbs.</span></p>
 
 <p><span class="chinese">最近的两辆车最能说明汽车前脸设计的现状。</span><span class="english">Two recent cars typify the current state of the art with car faces.</span></p>

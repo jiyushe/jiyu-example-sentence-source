@@ -1,5 +1,7 @@
 # 同位素
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongweisu.md)
+
 <p><span class="chinese">其铷-锶同位素年龄为84百万年。</span><span class="english">Its Rb-Sr isotopic age is 84 my.</span></p>
 
 <p><span class="chinese">同位素甄别是不可能的。</span><span class="english">Isotopic discrimination is not likely.</span></p>

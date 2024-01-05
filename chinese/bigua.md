@@ -1,5 +1,7 @@
 # 壁挂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bigua.md)
+
 <p><span class="chinese">我曾成功地使用过壁挂钟，也很容易拆开。</span><span class="english">I've also successfully used wall clocks. which also come apart easily.</span></p>
 
 <p><span class="chinese">所有壁挂将会在后面的硬质纤维板或纸板完成。</span><span class="english">All wall hangings will have a hardboard or cardboard finish at the back.</span></p>

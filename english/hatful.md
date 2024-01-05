@@ -1,5 +1,7 @@
 # hatful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hatful.md)
+
 <p><span class="chinese">由于这一功绩，斯科尔兹内获得了许多勋章。</span><span class="english">The feat earned Skorzeny a hatful of medals.</span></p>
 
 <p><span class="chinese">由于这一功绩，斯科尔兹内获得了许多勋章。</span><span class="english">The feat earned skorzeny a hatful of medals.</span></p>

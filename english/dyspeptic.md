@@ -1,5 +1,7 @@
 # dyspeptic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dyspeptic.md)
+
 <p><span class="chinese">把我们从紧张烦躁中解救出来。</span><span class="english">Tend to relieve us from being a nervous, dyspeptic set.</span></p>
 
 <p><span class="chinese">此卷最好看的地方是贝克特对某些书的恶评。</span><span class="english">Some of the best material here is Beckett's dyspeptic book talk.</span></p>

@@ -1,5 +1,7 @@
 # cyclical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cyclical.md)
+
 <p><span class="chinese">啥事情都是循环往复滴。</span><span class="english">Everything is cyclical.</span></p>
 
 <p><span class="chinese">历史的发展是周期往复，螺旋上升的，历史的车轮不可阻挡。</span><span class="english">History is cyclical. The wheel turns.</span></p>

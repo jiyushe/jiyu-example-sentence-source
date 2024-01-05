@@ -1,5 +1,7 @@
 # parthia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parthia.md)
+
 <p><span class="chinese">在他的胜利，是平定安息了。</span><span class="english">After his victory, Parthia was pacified again.</span></p>
 
 <p><span class="chinese">此外，战争威胁着帕提亚和不列颠。</span><span class="english">Furthermore, war threatened in Parthia and Britain.</span></p>

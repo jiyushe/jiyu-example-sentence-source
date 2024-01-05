@@ -1,5 +1,7 @@
 # recalcitrant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recalcitrant.md)
+
 <p><span class="chinese">你希望讨回赖帐客户的欠款吗？</span><span class="english">Do you wish to secure payment from a recalcitrant customer?</span></p>
 
 <p><span class="chinese">我之所以没有私下向你道歉，是因为我没把这当回事，而且还很自负。</span><span class="english">I was recalcitrant in private, because I am playful but proud too.</span></p>

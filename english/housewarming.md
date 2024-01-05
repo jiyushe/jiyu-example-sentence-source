@@ -1,5 +1,7 @@
 # housewarming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/housewarming.md)
+
 <p><span class="chinese">瑞吉儿家今晚正在举行乔迁庆宴。</span><span class="english">Rachel's having a housewarming tonight.</span></p>
 
 <p><span class="chinese">几乎没个人都来参加庆祝迁居的聚会。</span><span class="english">Nearly everybody came to the housewarming party.</span></p>

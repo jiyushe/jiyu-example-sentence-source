@@ -1,5 +1,7 @@
 # fruitcake
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fruitcake.md)
+
 <p><span class="chinese">豪厄尔手中的水果蛋糕碎了。</span><span class="english">The slice of fruitcake crumbled in Howell’s hand.</span></p>
 
 <p><span class="chinese">先停下来，考虑一下水果蛋糕和酒店淋浴。</span><span class="english">Consider fruitcake and hotel showers for a moment.</span></p>

@@ -1,5 +1,7 @@
 # rigour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rigour.md)
+
 <p><span class="chinese">那些恶棍受到法律的严惩。</span><span class="english">Those rogues were proceeded with  the utmost rigour of the law.</span></p>
 
 <p><span class="chinese">埃及人严严地使以色列人作工。</span><span class="english">And the Egyptians made the children of Israel to serve with rigour.</span></p>

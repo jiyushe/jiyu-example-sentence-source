@@ -1,5 +1,7 @@
 # 下脚料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiajiaoliao.md)
+
 <p><span class="chinese">塑料的废碎料及下脚料。</span><span class="english">Waste, parings and scrap, of plastics.</span></p>
 
 <p><span class="chinese">你会发现使用下脚料的真正价值。</span><span class="english">You will find the true value of using waste.</span></p>

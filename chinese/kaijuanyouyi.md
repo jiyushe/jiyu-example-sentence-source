@@ -1,5 +1,7 @@
 # 开卷有益
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaijuanyouyi.md)
+
 <p><span class="chinese">开卷有益。</span><span class="english">Open Books Open Minds.</span></p>
 
 <p><span class="chinese">直到那时我才理解了开卷有益的含义。</span><span class="english">Not until then did I understand reading benefits a lot.</span></p>

@@ -1,5 +1,7 @@
 # 美容术
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meirongshu.md)
+
 <p><span class="chinese">快乐是最好的美容术。</span><span class="english">Happiness is the best facelift.</span></p>
 
 <p><span class="chinese">美容术尽施于海伦脸庞。</span><span class="english">On Helen's cheek all art of beauty set.</span></p>

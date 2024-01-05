@@ -1,5 +1,7 @@
 # range
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/range.md)
+
 <p><span class="chinese">喷气机确实在射程以内。</span><span class="english">The jet was in range.</span></p>
 
 <p><span class="chinese">线夹适用范围广。</span><span class="english">Wide application range.</span></p>

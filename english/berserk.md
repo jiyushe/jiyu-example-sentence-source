@@ -1,5 +1,7 @@
 # berserk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/berserk.md)
+
 <p><span class="chinese">一名男子发疯似的用各种枪支乱射。</span><span class="english">A man went berserk with an arsenal of guns.</span></p>
 
 <p><span class="chinese">它看起来就像疯狂的真菌感染。</span><span class="english">It looked like a fungal infection gone berserk.</span></p>

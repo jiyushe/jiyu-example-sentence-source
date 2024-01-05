@@ -1,5 +1,7 @@
 # 箱子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangzi_2.md)
+
 <p><span class="chinese">把箱子放在这里。</span><span class="english">Put the box here.</span></p>
 
 <p><span class="chinese">我要给这个箱子盖上盖儿。</span><span class="english">I will top the box.</span></p>

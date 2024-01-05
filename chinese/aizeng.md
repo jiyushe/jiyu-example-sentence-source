@@ -1,5 +1,7 @@
 # 爱憎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aizeng.md)
+
 <p><span class="chinese">这就是为什么“爱憎交织”如此重要。</span><span class="english">That's why synantonyms are useful.</span></p>
 
 <p><span class="chinese">真正的友谊产生于共同的爱憎之中。</span><span class="english">True friendship have in common to hate.</span></p>

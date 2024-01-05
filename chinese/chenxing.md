@@ -1,5 +1,7 @@
 # 晨星
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenxing.md)
+
 <p><span class="chinese">晨星也是金星</span><span class="english">The Morning Star is Venus.</span></p>
 
 <p><span class="chinese">晨星激起爱情黎明闪烁。</span><span class="english">The day-star dawns of love.</span></p>

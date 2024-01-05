@@ -1,5 +1,7 @@
 # 成家立业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengjialiye.md)
+
 <p><span class="chinese">你在说什么成家立业？</span><span class="english">What'd you mean by family?</span></p>
 
 <p><span class="chinese">他已经在日本成家立业了。</span><span class="english">he has like, a family there.</span></p>

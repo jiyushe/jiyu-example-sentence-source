@@ -1,5 +1,7 @@
 # godliness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/godliness.md)
+
 <p><span class="chinese">然而敬虔加上知足的心便是大利了。</span><span class="english">But godliness with contentment is great gain.</span></p>
 
 <p><span class="chinese">他十分虔诚地崇拜女明星。</span><span class="english">He adores this screen goddess with godliness.</span></p>

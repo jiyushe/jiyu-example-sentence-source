@@ -1,5 +1,7 @@
 # conjugated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conjugated.md)
+
 <p><span class="chinese">每天吃点共轭亚油酸胶囊。</span><span class="english">Take conjugated linoleic acid capsules every day.</span></p>
 
 <p><span class="chinese">在其他共轭体系中，也发现类似的离域。</span><span class="english">Similar delocalization is found in other conjugated systems.</span></p>

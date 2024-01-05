@@ -1,5 +1,7 @@
 # 高山流水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaoshanliushui.md)
+
 <p><span class="chinese">给观赏者以高山流水，归游自然的欣悦。</span><span class="english">For the viewer to fall, to swim natural pleasure.</span></p>
 
 <p><span class="chinese">这个湖的流水出后形成了一个大高山流水。</span><span class="english">The waters of the lake flow out over a large waterfall.</span></p>

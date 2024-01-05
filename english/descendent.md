@@ -1,5 +1,7 @@
 # descendent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/descendent.md)
+
 <p><span class="chinese">每晚闪电都会使这里干枯的树木化为灰烬。</span><span class="english">Descendent lightnings transforms dry trees into ashes every night.</span></p>
 
 <p><span class="chinese">李白为凉式昭王李暠之孙李重耳的后裔。</span><span class="english">Li Bai is the descendent of Li Chong'er, grandson of Li Hao, King Liang Wuzhao.</span></p>

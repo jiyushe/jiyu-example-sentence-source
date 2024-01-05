@@ -1,5 +1,7 @@
 # 马灯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/madeng.md)
+
 <p><span class="chinese">那枚金币在马灯下闪耀着温暖的光泽。</span><span class="english">The gold coin glowed warm in the lantern light.</span></p>
 
 <p><span class="chinese">当他把马灯举起来的时候，光线瞬间充满了那双像鹰一样锐利的眼睛。</span><span class="english">When he raised his lantern, the light shone full on those beady eyes.</span></p>

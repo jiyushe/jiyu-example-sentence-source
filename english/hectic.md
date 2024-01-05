@@ -1,5 +1,7 @@
 # hectic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hectic.md)
+
 <p><span class="chinese">这些日子真紧张。</span><span class="english">These are hectic days.</span></p>
 
 <p><span class="chinese">赤面恐怖症是可以治疗的。</span><span class="english">Hectic phobophobia can be cured.</span></p>

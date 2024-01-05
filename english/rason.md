@@ -1,5 +1,7 @@
 # rason
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rason.md)
+
 <p><span class="chinese">因此，这就是我得重感冒的原因。</span><span class="english">Thus, this is th rason why I caught a bad cold.</span></p>
 
 <p><span class="chinese">一个小男孩在罗津特别经济特区的一个礼堂表演。</span><span class="english">A young boy performs at an auditorium in the Special Economic Zone of Rason city.</span></p>

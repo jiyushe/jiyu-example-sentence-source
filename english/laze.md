@@ -1,5 +1,7 @@
 # laze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laze.md)
+
 <p><span class="chinese">不要再混日子！</span><span class="english">No longer laze away.</span></p>
 
 <p><span class="chinese">在阳光下懒散一会儿真是太舒服了。</span><span class="english">It's lovely just to laze away in the sun.</span></p>

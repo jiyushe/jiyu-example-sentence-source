@@ -1,5 +1,7 @@
 # 铁锈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiexiu.md)
+
 <p><span class="chinese">对小麦造成侵袭的一种铁锈菌。</span><span class="english">Rust fungus that attacks wheat.</span></p>
 
 <p><span class="chinese">这铁管上有鳞状般的铁锈。</span><span class="english">This iron pipe is scaly with rust.</span></p>

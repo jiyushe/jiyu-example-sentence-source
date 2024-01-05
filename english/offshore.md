@@ -1,5 +1,7 @@
 # offshore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/offshore.md)
+
 <p><span class="chinese">离岸开发中心。</span><span class="english">Offshore development center.</span></p>
 
 <p><span class="chinese">离岸不代表摆脱限制。</span><span class="english">Offshore does not mean off-limits.</span></p>

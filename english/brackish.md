@@ -1,5 +1,7 @@
 # brackish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brackish.md)
+
 <p><span class="chinese">再往东我们到达苦咸水。</span><span class="english">Further east we reach brackish water.</span></p>
 
 <p><span class="chinese">你被眼泪的盐水弄得多咸涩！</span><span class="english">Are brackish with the salt of human tears!</span></p>

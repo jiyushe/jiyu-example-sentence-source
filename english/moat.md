@@ -1,5 +1,7 @@
 # moat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moat.md)
+
 <p><span class="chinese">东门之池、可以沤菅。</span><span class="english">The moat at the east gate.</span></p>
 
 <p><span class="chinese">晨星称这种优势为“宽护城河”。</span><span class="english">Morningstar calls this edge a "wide moat.</span></p>

@@ -1,5 +1,7 @@
 # 其时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qishi_9.md)
+
 <p><span class="chinese">其时代为早三叠世晚期。</span><span class="english">Its age is late Early Triassic.</span></p>
 
 <p><span class="chinese">其时他们在考试一件新武器。</span><span class="english">They were testing a new weapon then.</span></p>

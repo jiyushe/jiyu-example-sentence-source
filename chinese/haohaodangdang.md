@@ -1,5 +1,7 @@
 # 浩浩荡荡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haohaodangdang.md)
+
 <p><span class="chinese">蚂蚁大军浩浩荡荡的出发了。</span><span class="english">The army ants are on the move.</span></p>
 
 <p><span class="chinese">天连水，水连天，浩浩荡荡，无边无际。</span><span class="english">Days even water, the sky, a mighty, boundless.</span></p>

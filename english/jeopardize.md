@@ -1,5 +1,7 @@
 # jeopardize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jeopardize.md)
+
 <p><span class="chinese">危害解决方案的风险。</span><span class="english">Risks that jeopardize the solution.</span></p>
 
 <p><span class="chinese">我们一定不能危及我们已经取得的成绩。</span><span class="english">We must not jeopardize the gains we have made.</span></p>

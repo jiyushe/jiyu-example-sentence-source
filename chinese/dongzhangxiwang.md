@@ -1,5 +1,7 @@
 # 东张西望
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongzhangxiwang.md)
+
 <p><span class="chinese">这个男孩儿上课爱东张西望。</span><span class="english">This boy likes to rubber-neck in class.</span></p>
 
 <p><span class="chinese">小鸭子们好奇地东张西望。</span><span class="english">The little ducklings look around curiously.</span></p>

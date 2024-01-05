@@ -1,5 +1,7 @@
 # electrolytic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electrolytic.md)
+
 <p><span class="chinese">在电解池内的负电极。</span><span class="english">The negative electrode of an electrolytic cell.</span></p>
 
 <p><span class="chinese">相比之下，电解铁没有效果。</span><span class="english">In contrast, the electrolytic iron had no effect.</span></p>

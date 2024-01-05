@@ -1,5 +1,7 @@
 # substantiated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/substantiated.md)
+
 <p><span class="chinese">事实证明你说的是有根据的</span><span class="english">The facts substantiated your statement.</span></p>
 
 <p><span class="chinese">医学上没有证据表明，这实际上是一种自免疫系统疾病。</span><span class="english">It has never been substantiated that MS is in fact an autoimmune disease.</span></p>

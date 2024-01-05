@@ -1,5 +1,7 @@
 # 鳞片
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linpian.md)
+
 <p><span class="chinese">把我的鳞片分给他们？</span><span class="english">Give away my scales?</span></p>
 
 <p><span class="chinese">在鳞片上轻轻一按，鳞片就会脱落。</span><span class="english">Squama will fall off when push it.</span></p>

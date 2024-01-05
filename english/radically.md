@@ -1,5 +1,7 @@
 # radically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radically.md)
+
 <p><span class="chinese">从完全不同的角度想想吧。</span><span class="english">Think radically different.</span></p>
 
 <p><span class="chinese">现在我做些彻底的改变。</span><span class="english">Now I do something radically different.</span></p>

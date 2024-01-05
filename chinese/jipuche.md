@@ -1,5 +1,7 @@
 # 吉普车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jipuche.md)
+
 <p><span class="chinese">吉普车门上半硬。</span><span class="english">Pocket door semi-hard.</span></p>
 
 <p><span class="chinese">这是一辆北京吉普车。</span><span class="english">This is a Beijing jeep.</span></p>

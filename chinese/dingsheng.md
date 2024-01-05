@@ -1,5 +1,7 @@
 # 鼎盛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingsheng.md)
+
 <p><span class="chinese">两地房地产都曾经历鼎盛时期</span><span class="english">They both had dramatic booms.</span></p>
 
 <p><span class="chinese">这个老运动员的鼎盛时期结束了。</span><span class="english">The aging athlete's heyday is over.</span></p>

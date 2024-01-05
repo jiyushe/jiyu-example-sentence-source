@@ -1,5 +1,7 @@
 # pyro
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pyro.md)
+
 <p><span class="chinese">可以搭配白色、粉红色和蓝色。</span><span class="english">Pyro Available on White, Pink and Blue.</span></p>
 
 <p><span class="chinese">据我所知没有人有恨的高温。</span><span class="english">As far as I know nobody out there hates the Pyro.</span></p>

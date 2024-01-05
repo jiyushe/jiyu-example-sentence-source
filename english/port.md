@@ -1,5 +1,7 @@
 # port
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/port.md)
+
 <p><span class="chinese">它是一个自由港。</span><span class="english">It is a free port.</span></p>
 
 <p><span class="chinese">船遇风暴，不择港口。</span><span class="english">Any port in a storm.</span></p>

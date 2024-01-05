@@ -1,5 +1,7 @@
 # charitable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/charitable.md)
+
 <p><span class="chinese">大哥继续奔波于各大慈善事业</span><span class="english">Jackie Continues Charitable Work</span></p>
 
 <p><span class="chinese">对慈善婚礼说“我愿意”。</span><span class="english">Say “I Do” to Charitable Weddings.</span></p>

@@ -1,5 +1,7 @@
 # earned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/earned.md)
+
 <p><span class="chinese">心里也酣畅了。</span><span class="english">Earned the heart also.</span></p>
 
 <p><span class="chinese">我想我该喝这杯酒。</span><span class="english">I feel I've earned it!</span></p>

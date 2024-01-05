@@ -1,5 +1,7 @@
 # chemo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chemo.md)
+
 <p><span class="chinese">我来带她去化疗好了。</span><span class="english">Why don't I take her to chemo ?</span></p>
 
 <p><span class="chinese">吉廷认为用另一种化疗方案可能会奏效。</span><span class="english">Keating thought a different chemo regimen might work.</span></p>

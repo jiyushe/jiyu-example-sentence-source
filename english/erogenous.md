@@ -1,5 +1,7 @@
 # erogenous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/erogenous.md)
+
 <p><span class="chinese">个人电脑变成了唤起情欲的地带。</span><span class="english">The PC becomes an erogenous zone.</span></p>
 
 <p><span class="chinese">女人们通常认为男人只有一个性区域。</span><span class="english">Women sometimes think that men have only one erogenous zone.</span></p>

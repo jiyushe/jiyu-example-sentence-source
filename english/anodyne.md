@@ -1,5 +1,7 @@
 # anodyne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anodyne.md)
+
 <p><span class="chinese">什么止痛药止痛比较好？</span><span class="english">What anodyne is acetanilide better?</span></p>
 
 <p><span class="chinese">他吃了些止痛药来缓解疼痛。</span><span class="english">He took some anodyne to relieve the pain.</span></p>

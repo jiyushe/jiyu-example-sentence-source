@@ -1,5 +1,7 @@
 # 党务
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangwu.md)
+
 <p><span class="chinese">这是党务工作者面临的主要课题。</span><span class="english">This is a major issue facing the Party workers.</span></p>
 
 <p><span class="chinese">他的当选是多年来忠实致力于党务工作的结果。</span><span class="english">His election is a payoff for years of loyal party work.</span></p>

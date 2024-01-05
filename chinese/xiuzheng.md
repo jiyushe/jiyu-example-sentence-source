@@ -1,5 +1,7 @@
 # 休整
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuzheng.md)
+
 <p><span class="chinese">休整一下，再赶上去。</span><span class="english">Take a pause and catch up.</span></p>
 
 <p><span class="chinese">这就是“爱情空窗休整期”。</span><span class="english">This is called "boytox period".</span></p>

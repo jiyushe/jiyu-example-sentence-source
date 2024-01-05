@@ -1,5 +1,7 @@
 # 魔法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mofa_1.md)
+
 <p><span class="chinese">就像魔法一样。</span><span class="english">It’s like magic.</span></p>
 
 <p><span class="chinese">一扇门，一扇魔法门。</span><span class="english">A door. A magic door.</span></p>

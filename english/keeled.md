@@ -1,5 +1,7 @@
 # keeled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/keeled.md)
+
 <p><span class="chinese">船在暴风雨中倾覆了。</span><span class="english">The ship keeled over in the storm.</span></p>
 
 <p><span class="chinese">那艘船在暴风雨中倾覆了。</span><span class="english">The ship keeled over in the storm.</span></p>

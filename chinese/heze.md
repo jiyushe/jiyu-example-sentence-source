@@ -1,5 +1,7 @@
 # 呵责
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heze.md)
+
 <p><span class="chinese">他呵责助手。</span><span class="english">He barked at his assistant.</span></p>
 
 <p><span class="chinese">谁能呵责你流下忧伤的泪滴。</span><span class="english">Who then could chide the gloomy tears you shed?</span></p>

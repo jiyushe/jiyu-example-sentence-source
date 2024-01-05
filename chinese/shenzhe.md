@@ -1,5 +1,7 @@
 # 甚者
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenzhe.md)
+
 <p><span class="chinese">甚者可发生脓毒败血症。</span><span class="english">May have the pus poisonous septicaemia really.</span></p>
 
 <p><span class="chinese">尤有甚者，韩战从未真正结束过。</span><span class="english">What's more, the Korean War has never officially ended.</span></p>

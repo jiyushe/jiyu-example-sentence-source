@@ -1,5 +1,7 @@
 # 只字不提
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizibuti.md)
+
 <p><span class="chinese">她对他只字不提。</span><span class="english">She didn't breathe a word to him.</span></p>
 
 <p><span class="chinese">对于所发生之事你最好只字不提。</span><span class="english">You'd better be silent about what happened.</span></p>

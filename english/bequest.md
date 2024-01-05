@@ -1,5 +1,7 @@
 # bequest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bequest.md)
+
 <p><span class="chinese">这幅画是在1921年通过遗赠获得的。</span><span class="english">The picture was acquired by bequest in 1921.</span></p>
 
 <p><span class="chinese">慕夏为祖国留下的遗产受到了残酷而冷淡的对待。</span><span class="english">Mucha's bequest to his country was received with unkindly cold shoulders.</span></p>

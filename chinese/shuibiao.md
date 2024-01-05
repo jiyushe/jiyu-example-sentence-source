@@ -1,5 +1,7 @@
 # 水表
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuibiao.md)
+
 <p><span class="chinese">安装并仔细监测水表。</span><span class="english">Install – and carefully monitor – a water meter.</span></p>
 
 <p><span class="chinese">这是一个IC卡智能水表程序，我已编译过可以用的。</span><span class="english">This is a smart meter IC card , I have compiled can be used.</span></p>

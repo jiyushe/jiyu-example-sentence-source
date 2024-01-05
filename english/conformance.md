@@ -1,5 +1,7 @@
 # conformance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conformance.md)
+
 <p><span class="chinese">分析器的输出是一份一致性报告。</span><span class="english">The output from the analyzer is a conformance report.</span></p>
 
 <p><span class="chinese">定义一致性的粒度级别是什么？</span><span class="english">What is the granularity level for defining conformance?</span></p>

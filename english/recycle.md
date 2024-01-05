@@ -1,5 +1,7 @@
 # recycle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recycle.md)
+
 <p><span class="chinese">清空回收站。</span><span class="english">Empty the Recycle Bin.</span></p>
 
 <p><span class="chinese">我们可以回收塑胶瓶。</span><span class="english">We can recycle plastic bottles.</span></p>

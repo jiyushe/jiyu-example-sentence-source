@@ -1,5 +1,7 @@
 # assessor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assessor.md)
+
 <p><span class="chinese">用于评估过程管理器。</span><span class="english">For the assessor process manager.</span></p>
 
 <p><span class="chinese">他一向是个公正的、不偏不倚的税额审查员。</span><span class="english">He had been a fair and even-handed assessor.</span></p>

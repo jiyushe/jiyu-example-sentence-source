@@ -1,5 +1,7 @@
 # overshadow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overshadow.md)
+
 <p><span class="chinese">高大的栎树把花园遮得很暗。</span><span class="english">Large oak trees overshadow the garden.</span></p>
 
 <p><span class="chinese">出口和投资令居民消费相形见拙。</span><span class="english">Exports and investment overshadow household consumption.</span></p>

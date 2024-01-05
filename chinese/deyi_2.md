@@ -1,5 +1,7 @@
 # 得意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/deyi_2.md)
+
 <p><span class="chinese">馨蔺得意的笑了。</span><span class="english">Xin Lin proud smile.</span></p>
 
 <p><span class="chinese">驴感到很得意，他高声地嘶叫，却被人认了出来。</span><span class="english">The ass felt quite proud.</span></p>

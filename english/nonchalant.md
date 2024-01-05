@@ -1,5 +1,7 @@
 # nonchalant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonchalant.md)
+
 <p><span class="chinese">多么疏淡，篱笆无声！</span><span class="english">How nonchalant the Hedge!</span></p>
 
 <p><span class="chinese">又一次，我漫不经心地问。</span><span class="english">And once again, nonchalant of course.</span></p>

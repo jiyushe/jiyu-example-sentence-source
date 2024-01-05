@@ -1,5 +1,7 @@
 # hallway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hallway.md)
+
 <p><span class="chinese">我能听见他在走廊里的声音。</span><span class="english">I can hear him in the hallway.</span></p>
 
 <p><span class="chinese">他在走廊里大声对我喊叫。</span><span class="english">He bawled down the hallway at me.</span></p>

@@ -1,5 +1,7 @@
 # battleship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/battleship.md)
+
 <p><span class="chinese">所以，他把“缅因”战船派去了哈瓦那。</span><span class="english">So, he sent the battleship "Maine" to Havana.</span></p>
 
 <p><span class="chinese">炮弹把战舰炸碎了。</span><span class="english">The missile had blown the battleship asunder.</span></p>

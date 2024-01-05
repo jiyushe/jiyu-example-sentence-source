@@ -1,5 +1,7 @@
 # 脱轨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuogui.md)
+
 <p><span class="chinese">但是，事实上，大部分晋升会让你”脱轨“。</span><span class="english">But in fact, most promotions derail you.</span></p>
 
 <p><span class="chinese">富裕国家的减排计划严重脱轨。</span><span class="english">Rich-country emission cuts dangerously off course.</span></p>

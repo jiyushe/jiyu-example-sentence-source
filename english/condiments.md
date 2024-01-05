@@ -1,5 +1,7 @@
 # condiments
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/condiments.md)
+
 <p><span class="chinese">调味品。</span><span class="english">Condiments.</span></p>
 
 <p><span class="chinese">辣椒和盐都是调味品。</span><span class="english">Pepper and salt are condiments.</span></p>

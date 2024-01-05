@@ -1,5 +1,7 @@
 # 列车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lieche.md)
+
 <p><span class="chinese">列车放慢了速度。</span><span class="english">The train slowed down.</span></p>
 
 <p><span class="chinese">一列车队呼啸而过。</span><span class="english">A motorcade whirred by.</span></p>

@@ -1,5 +1,7 @@
 # 行间
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hangjian.md)
+
 <p><span class="chinese">在以后几年进行间伐。</span><span class="english">Tree thinning was employed in later years.</span></p>
 
 <p><span class="chinese">那原稿行间夹有他修改的词语。</span><span class="english">The manuscript was interlined with his corrections.</span></p>

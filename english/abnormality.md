@@ -1,5 +1,7 @@
 # abnormality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abnormality.md)
+
 <p><span class="chinese">异常可以被认为是一个特点。</span><span class="english">Abnormality can become a feature.</span></p>
 
 <p><span class="chinese">唯有一种人是异常的，即无法去爱的人。</span><span class="english">The only abnormality is the incapacity to love.</span></p>

@@ -1,5 +1,7 @@
 # iridium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iridium.md)
+
 <p><span class="chinese">对“铱”星系统也作了介绍。</span><span class="english">IRIDIUM system is also introduced.</span></p>
 
 <p><span class="chinese">这里是金笔和铱金笔。</span><span class="english">Here are some pens with gold or iridium nibs.</span></p>

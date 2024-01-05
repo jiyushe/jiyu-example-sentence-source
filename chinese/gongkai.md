@@ -1,5 +1,7 @@
 # 公开
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongkai.md)
+
 <p><span class="chinese">公开和协作。</span><span class="english">Open and collaborative.</span></p>
 
 <p><span class="chinese">这台电视机是公开发售。</span><span class="english">This TV set is on sale.</span></p>

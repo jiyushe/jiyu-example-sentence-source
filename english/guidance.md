@@ -1,5 +1,7 @@
 # guidance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guidance.md)
+
 <p><span class="chinese">它们需要我的引领。</span><span class="english">They need my guidance.</span></p>
 
 <p><span class="chinese">我期待获得你们的指导。</span><span class="english">I look forward to your guidance.</span></p>

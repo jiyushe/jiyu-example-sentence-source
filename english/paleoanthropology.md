@@ -1,5 +1,7 @@
 # paleoanthropology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paleoanthropology.md)
+
 <p><span class="chinese">这个消息震惊了古人类学界。</span><span class="english">The announcement electrified the paleoanthropology community.</span></p>
 
 <p><span class="chinese">现代人类的起源、演化和迁移是人类学界研究和争议的热点之一。</span><span class="english">The appearance of anatomically modern Homo sapiens is a hotly debated issue in paleoanthropology.</span></p>

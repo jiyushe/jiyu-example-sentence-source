@@ -1,5 +1,7 @@
 # patriarch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/patriarch.md)
+
 <p><span class="chinese">冯大阿阇梨是陈上师的唐密教授师。</span><span class="english">Patriarch Feng was Guru Chen's teacher in Tang Tantra.</span></p>
 
 <p><span class="chinese">乾元禅寺至今已有1400多年的历史。</span><span class="english">Third Patriarch Temple has a history of over 1400 years.</span></p>

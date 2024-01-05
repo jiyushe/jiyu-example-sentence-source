@@ -1,5 +1,7 @@
 # 剃刀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tidao.md)
+
 <p><span class="chinese">只是这一次拿着一把剃刀。</span><span class="english">This time with a razor.</span></p>
 
 <p><span class="chinese">用剃刀剃光头发。</span><span class="english">They shaved their heads.</span></p>

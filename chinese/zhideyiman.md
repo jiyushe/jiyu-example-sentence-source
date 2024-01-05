@@ -1,5 +1,7 @@
 # 志得意满
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhideyiman.md)
+
 <p><span class="chinese">时间变成了无处不在的志得意满的死亡。</span><span class="english">Time has become Death triumphant over all.</span></p>
 
 <p><span class="chinese">镜中的那张脸，一向志得意满</span><span class="english">That face in the mirror that was always so great</span></p>

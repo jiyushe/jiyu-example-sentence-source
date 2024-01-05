@@ -1,5 +1,7 @@
 # cumulus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cumulus.md)
+
 <p><span class="chinese">多少钱一朵积雨云所含的水？</span><span class="english">How much does the water in a cumulus cloud weigh?</span></p>
 
 <p><span class="chinese">积云加热还起到修正静力稳定度的作用。</span><span class="english">Cumulus heating can also modify the static stability.</span></p>

@@ -1,5 +1,7 @@
 # stout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stout.md)
+
 <p><span class="chinese">他是矮矮胖胖的。</span><span class="english">He is stout.</span></p>
 
 <p><span class="chinese">这匹马很肥实。</span><span class="english">This is a stout horse.</span></p>

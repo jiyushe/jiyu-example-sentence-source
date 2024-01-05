@@ -1,5 +1,7 @@
 # helix
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/helix.md)
+
 <p><span class="chinese">螺旋网带洗浆机。</span><span class="english">Helix wire mesh belt pulp washer.</span></p>
 
 <p><span class="chinese">怀孕期间能食用螺旋藻么？？？</span><span class="english">During be pregnant can edible helix alga? ? ?</span></p>

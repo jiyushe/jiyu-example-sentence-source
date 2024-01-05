@@ -1,5 +1,7 @@
 # parasitoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parasitoid.md)
+
 <p><span class="chinese">初步研究了美洲斑潜蝇寄生蜂——芦苇格姬小蜂的寄生行为。</span><span class="english">The behavior of its parasitoid Pnigalio phragmitis Erdos was also studied.</span></p>
 
 <p><span class="chinese">该新种在我国北方美国白蛾发生区分布普遍，也分布韩国。</span><span class="english">The parasitoid distributes in all areas where the pest outbreaked in China and in Seoul, Korea.</span></p>

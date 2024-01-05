@@ -1,5 +1,7 @@
 # follies
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/follies.md)
+
 <p><span class="chinese">罼从旁人的愚行中学到聪明。</span><span class="english">Learn wisdom by the follies of others.</span></p>
 
 <p><span class="chinese">他们满脑子都是年轻人的傻念头。</span><span class="english">They are imbrued with the follies of youth.</span></p>

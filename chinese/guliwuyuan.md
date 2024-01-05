@@ -1,5 +1,7 @@
 # 孤立无援
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guliwuyuan.md)
+
 <p><span class="chinese">你完全是孤立无援的。</span><span class="english">You’re in total isolation.</span></p>
 
 <p><span class="chinese">信念就是明白我们并非孤立无援。</span><span class="english">To believe is to know we are not alonge.</span></p>

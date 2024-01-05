@@ -1,5 +1,7 @@
 # 彰显
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangxian.md)
+
 <p><span class="chinese">直到耶稣的荣美在我彰显。</span><span class="english">Till the beauty of Jesus be seen in me.</span></p>
 
 <p><span class="chinese">战争更严酷地彰显了这一现实。</span><span class="english">In war, this reality becomes even starker.</span></p>

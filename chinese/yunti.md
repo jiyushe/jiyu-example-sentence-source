@@ -1,5 +1,7 @@
 # 云梯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunti.md)
+
 <p><span class="chinese">云梯被用来做什么？</span><span class="english">What is a long ladder used for?</span></p>
 
 <p><span class="chinese">预计该云梯车将在2011年4月投入使用。</span><span class="english">It will be put into use in April 2011.</span></p>

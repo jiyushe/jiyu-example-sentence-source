@@ -1,5 +1,7 @@
 # 意中人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizhongren.md)
+
 <p><span class="chinese">小儿子往往有了意中人而不能结婚。</span><span class="english">Younger sons cannot marry where they like.</span></p>
 
 <p><span class="chinese">现在你还是个孩子，还只为自己的意中人操心哪。</span><span class="english">You’re just a child and bothered about your beaux.</span></p>

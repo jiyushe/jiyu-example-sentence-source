@@ -1,5 +1,7 @@
 # 假定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiading.md)
+
 <p><span class="chinese">这全是假定。</span><span class="english">These are all perhapses.</span></p>
 
 <p><span class="chinese">我会给出下面的假定。</span><span class="english">I'll assume the following.</span></p>

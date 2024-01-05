@@ -1,5 +1,7 @@
 # 上浮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangfu.md)
+
 <p><span class="chinese">她嘴唇上浮泛着微笑。</span><span class="english">A smile plays on her lips.</span></p>
 
 <p><span class="chinese">在硬币上浮雕出图案。</span><span class="english">Emboss a design on a coin.</span></p>

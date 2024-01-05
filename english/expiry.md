@@ -1,5 +1,7 @@
 # expiry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expiry.md)
+
 <p><span class="chinese">每个证书都有过期日期。</span><span class="english">Each certificate has an expiry.</span></p>
 
 <p><span class="chinese">你从国书馆借的小说书哪一天到期?。</span><span class="english">What is the expiry date on your library novel?</span></p>

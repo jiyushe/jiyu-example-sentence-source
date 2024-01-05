@@ -1,5 +1,7 @@
 # 盐泉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanquan.md)
+
 <p><span class="chinese">盐沼，盐泉，盐塘或盐湖。</span><span class="english">A salt marsh, spring, pond, or lake.</span></p>
 
 <p><span class="chinese">我们在纽约和宾州交界处附近的盐泉州立公园中找到了这样一处。</span><span class="english">We find one at Salt Springs State Park, near the New York-Pennsylvania border.</span></p>

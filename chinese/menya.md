@@ -1,5 +1,7 @@
 # 门牙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/menya.md)
+
 <p><span class="chinese">是门牙。</span><span class="english">The tooth.</span></p>
 
 <p><span class="chinese">门牙，门齿，切牙。</span><span class="english">Incisor. He used his teeth.</span></p>

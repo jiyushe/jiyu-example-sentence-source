@@ -1,5 +1,7 @@
 # reassign
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reassign.md)
+
 <p><span class="chinese">用工单位不得将被派遣劳动者再派遣到其他用人单位。</span><span class="english">No accepting entity may reassign the dispatched workers to any other employer.</span></p>
 
 <p><span class="chinese">人口普查工作组的负责人将会重新安排一个能讲这种语言的调查员来完成工作。</span><span class="english">A census crew Leader will then reassign the case to a person who speaks that language.</span></p>

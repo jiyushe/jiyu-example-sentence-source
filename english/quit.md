@@ -1,5 +1,7 @@
 # quit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quit.md)
+
 <p><span class="chinese">我退出了。</span><span class="english">I quit.</span></p>
 
 <p><span class="chinese">永不言弃。</span><span class="english">Never quit.</span></p>

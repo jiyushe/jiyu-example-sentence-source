@@ -1,5 +1,7 @@
 # puma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/puma.md)
+
 <p><span class="chinese">美洲狮是一种猫科动物。</span><span class="english">Puma is a kind of catlike animals.</span></p>
 
 <p><span class="chinese">我在现实生活中从没见过美洲狮。</span><span class="english">I've never seen a puma in real life.</span></p>

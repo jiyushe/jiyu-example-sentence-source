@@ -1,5 +1,7 @@
 # fanatically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fanatically.md)
+
 <p><span class="chinese">他狂热地追求她。</span><span class="english">He ran after her fanatically.</span></p>
 
 <p><span class="chinese">这种饮食看起来对我的限制太多了——即使充满热情，还是无法释怀。</span><span class="english">The diet seemed too restrictive to me — even fanatically so.</span></p>

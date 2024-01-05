@@ -1,5 +1,7 @@
 # 牵动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiandong.md)
+
 <p><span class="chinese">无怨无悔地牵动着心儿的人啊。</span><span class="english">One that pulls at the heart without remorse.</span></p>
 
 <p><span class="chinese">皱眉需要牵动43条肌肉，而微笑只用17条。</span><span class="english">It takes 17 muscles to smile and 43 to frown.</span></p>

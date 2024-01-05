@@ -1,5 +1,7 @@
 # 金莲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinlian.md)
+
 <p><span class="chinese">用胡萝卜雕刻而成的金莲花。</span><span class="english">Globeflowers made of carrot.</span></p>
 
 <p><span class="chinese">即使我看到了一株旱金莲也不认得。</span><span class="english">I wouldn't know a nasturtium if I saw one.</span></p>

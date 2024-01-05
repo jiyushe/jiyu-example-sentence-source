@@ -1,5 +1,7 @@
 # 身故
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengu_1.md)
+
 <p><span class="chinese">一些小的身故体验深谷他的嘴巴和眼睛。</span><span class="english">Some little rockets for his mouth and eyes.</span></p>
 
 <p><span class="chinese">太太身故后，他感到切肤之痛。</span><span class="english">He was rather cut up after his wife passed away.</span></p>

@@ -1,5 +1,7 @@
 # 萍水相逢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingshuixiangfeng.md)
+
 <p><span class="chinese">我是你的萍水相逢的公主。</span><span class="english">I'm your princess for a night.</span></p>
 
 <p><span class="chinese">有一种萍水相逢叫美丽。</span><span class="english">A coincidental meeting can be beauty.</span></p>

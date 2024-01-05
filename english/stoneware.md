@@ -1,5 +1,7 @@
 # stoneware
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stoneware.md)
+
 <p><span class="chinese">一个漂亮的炻器系列看起来总是震撼人心的。</span><span class="english">A beautiful stoneware range which will always look sensational.</span></p>
 
 <p><span class="chinese">浴室里的浮雕瓷砖看起来很昂贵。</span><span class="english">The relief porcelain stoneware in the bathroom looks expensive.</span></p>

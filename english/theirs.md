@@ -1,5 +1,7 @@
 # theirs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theirs.md)
+
 <p><span class="chinese">他们的工厂是个大厂。</span><span class="english">Theirs is a big factory.</span></p>
 
 <p><span class="chinese">我们的银行与他们的银行合并了。</span><span class="english">Our bank merged with theirs.</span></p>

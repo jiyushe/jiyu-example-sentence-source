@@ -1,5 +1,7 @@
 # newbie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/newbie.md)
+
 <p><span class="chinese">我不完全是一个新手。</span><span class="english">I am not a complete newbie.</span></p>
 
 <p><span class="chinese">你将永远都是个新手。</span><span class="english">You will be newbie forever.</span></p>

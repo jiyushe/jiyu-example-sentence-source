@@ -1,5 +1,7 @@
 # 开局
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaiju_1.md)
+
 <p><span class="chinese">西班牙开局，开放，古典防御。</span><span class="english">Ruy Lopez, Open, Classical defence.</span></p>
 
 <p><span class="chinese">安科纳现在开局成为一个叛军领地。</span><span class="english">Ancona now starts as a rebel region.</span></p>

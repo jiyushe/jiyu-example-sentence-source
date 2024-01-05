@@ -1,5 +1,7 @@
 # leaping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leaping.md)
+
 <p><span class="chinese">平波上跳动的晶莹。</span><span class="english">The leaping of level wave!</span></p>
 
 <p><span class="chinese">虎跳峡之二。</span><span class="english">The second Tiger Leaping Gorge.</span></p>

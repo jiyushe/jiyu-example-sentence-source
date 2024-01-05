@@ -1,5 +1,7 @@
 # unluckily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unluckily.md)
+
 <p><span class="chinese">不小心在路上碰倒了一个小孩。</span><span class="english">Unluckily on the road you smashed a little boy.</span></p>
 
 <p><span class="chinese">遗憾的是这块美玉上有一道明显的裂璺。</span><span class="english">Unluckily there is a obvious crack on the jade.</span></p>

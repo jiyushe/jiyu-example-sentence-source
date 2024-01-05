@@ -1,5 +1,7 @@
 # 墨鱼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moyu.md)
+
 <p><span class="chinese">墨鱼，墨鱼汁，小番茄。</span><span class="english">Squid, squid ink, cherry tomatoes.</span></p>
 
 <p><span class="chinese">绝对不要去拥抱这个墨鱼！</span><span class="english">Don’t try to cuddle this cuttlefish.</span></p>

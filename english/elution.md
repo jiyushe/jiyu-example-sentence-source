@@ -1,5 +1,7 @@
 # elution
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elution.md)
+
 <p><span class="chinese">C8的毛细管柱，爸爸和梯度洗脱。</span><span class="english">C8 capillary column, DAD and gradient elution.</span></p>
 
 <p><span class="chinese">流速对洗脱效果基本没有影响。</span><span class="english">Flow rate had little influence on elution effectivity.</span></p>

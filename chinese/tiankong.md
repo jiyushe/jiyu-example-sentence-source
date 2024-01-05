@@ -1,5 +1,7 @@
 # 天空
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiankong.md)
+
 <p><span class="chinese">高高地飞在天空上面。</span><span class="english">High up in the sky.</span></p>
 
 <p><span class="chinese">让我们玩转天空。</span><span class="english">Let's play the air.</span></p>

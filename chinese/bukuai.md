@@ -1,5 +1,7 @@
 # 不快
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bukuai.md)
+
 <p><span class="chinese">她的回答令父亲不快。</span><span class="english">Her reply displeased her father.</span></p>
 
 <p><span class="chinese">我们要不快点儿走就不赶趟儿了。</span><span class="english">We'll be late if we don't hurry.</span></p>

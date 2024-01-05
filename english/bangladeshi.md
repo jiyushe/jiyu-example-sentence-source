@@ -1,5 +1,7 @@
 # bangladeshi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bangladeshi.md)
+
 <p><span class="chinese">威诺娜州立大学的一位孟加拉国籍学生过来接我。</span><span class="english">Bangladeshi student of WSU came to pick me up.</span></p>
 
 <p><span class="chinese">威诺娜州立大学的一位孟加拉国籍学生过来接我。</span><span class="english">A Bangladeshi student of WSU came to pick me up.</span></p>

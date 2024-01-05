@@ -1,5 +1,7 @@
 # campaign 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/campaign.md)
+
 <p><span class="chinese">如何开展一场竞选？</span><span class="english">How do you campaign?</span></p>
 
 <p><span class="chinese">所以，还是回头说竞选吧。</span><span class="english">So, back to the campaign.</span></p>

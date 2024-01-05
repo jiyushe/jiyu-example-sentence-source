@@ -1,5 +1,7 @@
 # tanker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tanker.md)
+
 <p><span class="chinese">油轮在巴林加过油。</span><span class="english">The tanker fueled in Bahrain.</span></p>
 
 <p><span class="chinese">这艘油轮在一个沙洲上搁浅了。</span><span class="english">The oil tanker ran aground on a sandbank.</span></p>

@@ -1,5 +1,7 @@
 # grapple
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grapple.md)
+
 <p><span class="chinese">他们能处理复杂的局面吗?</span><span class="english">Can they grapple with the complex situation?</span></p>
 
 <p><span class="chinese">上去之后你会找到两个谜语奖杯。</span><span class="english">Grapple up there and you'll find two Riddler trophies.</span></p>

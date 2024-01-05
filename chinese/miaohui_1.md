@@ -1,5 +1,7 @@
 # 描绘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miaohui_1.md)
+
 <p><span class="chinese">他被夸大描绘成了一名英雄。</span><span class="english">He was  overdrawn  as a hero.</span></p>
 
 <p><span class="chinese">他被描绘成一个叛徒。</span><span class="english">He was depicted as a traitor.</span></p>

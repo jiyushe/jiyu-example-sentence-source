@@ -1,5 +1,7 @@
 # 清官
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingguan_1.md)
+
 <p><span class="chinese">他为官正直，是一位清官。</span><span class="english">He was an honest and upright official.</span></p>
 
 <p><span class="chinese">那位法官是个清官。</span><span class="english">The judge is an honest and upright official.</span></p>

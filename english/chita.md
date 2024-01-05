@@ -1,5 +1,7 @@
 # chita
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chita.md)
+
 <p><span class="chinese">“它们都是捏造的，”契塔回答说，这回用的是英语。</span><span class="english">“They are fake, ” Chita says, in English.</span></p>
 
 <p><span class="chinese">我问咖啡馆老板知不知道契塔在哪儿，他说需要先打电话问一下。</span><span class="english">I ask the owner if he knows where Chita is, and he offers to call him.</span></p>

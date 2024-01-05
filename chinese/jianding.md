@@ -1,5 +1,7 @@
 # 尖顶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianding.md)
+
 <p><span class="chinese">那是一座有百叶窗的钟楼和尖顶的教堂。</span><span class="english">It was a church with a shuttered belfry and spire.</span></p>
 
 <p><span class="chinese">玛丽亚教堂。哥特尖顶，让我们更接近上帝。</span><span class="english">Marien kirche. The Gothic spires bring us closer to God.</span></p>

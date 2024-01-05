@@ -1,5 +1,7 @@
 # exterminate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exterminate.md)
+
 <p><span class="chinese">敢动一动，我灭了你。</span><span class="english">Make one move and I'll exterminate you!</span></p>
 
 <p><span class="chinese">这种喷剂能消灭白蚁。</span><span class="english">This spray will exterminate the termites.</span></p>

@@ -1,5 +1,7 @@
 # thimble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thimble.md)
+
 <p><span class="chinese">头上戴着顶针作为头盔</span><span class="english">And wear a thimble on your head</span></p>
 
 <p><span class="chinese">缝纫时，她在手上戴一枚顶针。</span><span class="english">She put a thimble over the finger when sewing.</span></p>

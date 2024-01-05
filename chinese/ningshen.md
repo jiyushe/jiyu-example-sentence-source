@@ -1,5 +1,7 @@
 # 凝神
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ningshen.md)
+
 <p><span class="chinese">每天拿出时间来凝神静气。</span><span class="english">Take time to focus on the day.</span></p>
 
 <p><span class="chinese">他们凝神倾听这个消息。</span><span class="english">They drank in the news greedily.</span></p>

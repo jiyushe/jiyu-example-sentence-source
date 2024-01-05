@@ -1,5 +1,7 @@
 # 宗族
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongzu.md)
+
 <p><span class="chinese">依照宗族登记的，共三千二百人。</span><span class="english">And they were found three thousand two hundred.</span></p>
 
 <p><span class="chinese">为拿弗他利人，按着宗族，拈出第六阄</span><span class="english">The sixth lot came out for Naphtali, clan by clan</span></p>

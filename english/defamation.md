@@ -1,5 +1,7 @@
 # defamation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defamation.md)
+
 <p><span class="chinese">我觉得这是对基督教的诽谤。</span><span class="english">I think that's the defamation of Christianity.</span></p>
 
 <p><span class="chinese">这种恶意诽谤令世界震惊。</span><span class="english">The world was stunned by the vicious defamation.</span></p>

@@ -1,5 +1,7 @@
 # hyperion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyperion.md)
+
 <p><span class="chinese">亥伯龙会赢，他敢打赌。</span><span class="english">He bet that Hyperion would win.</span></p>
 
 <p><span class="chinese">此书在2007年由Hyperion出版。</span><span class="english">It was published by Hyperion in 2007.</span></p>

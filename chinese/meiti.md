@@ -1,5 +1,7 @@
 # 媒体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meiti.md)
+
 <p><span class="chinese">做社交媒体，务求完美。</span><span class="english">Be social, do good.</span></p>
 
 <p><span class="chinese">如何管理社会媒体？</span><span class="english">How do we manage it?</span></p>

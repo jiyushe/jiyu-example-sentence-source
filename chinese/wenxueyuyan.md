@@ -1,5 +1,7 @@
 # 文学语言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenxueyuyan.md)
+
 <p><span class="chinese">拉丁文同样也是文学语言。</span><span class="english">Latin too was a literary language.</span></p>
 
 <p><span class="chinese">“前景化”是文学语言的标志性特征。</span><span class="english">Foregrounding is a symbolic feature of literary language.</span></p>

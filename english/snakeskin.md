@@ -1,5 +1,7 @@
 # snakeskin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snakeskin.md)
+
 <p><span class="chinese">蛇皮脚怎么治？</span><span class="english">How is snakeskin foot treated?</span></p>
 
 <p><span class="chinese">你想要什么，蛇皮先生？</span><span class="english">What do you want, Mr. Snakeskin?</span></p>

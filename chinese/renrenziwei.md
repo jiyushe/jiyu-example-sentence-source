@@ -1,5 +1,7 @@
 # 人人自危
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renrenziwei.md)
+
 <p><span class="chinese">“现在基本上是人人自危，”Moellering说。</span><span class="english">“And now it’s basically everybody, ” Moellering said.</span></p>
 
 <p><span class="chinese">他统治时期法律严酷，造成了人人自危的恐怖统治。</span><span class="english">Therefore many officials were killed in his ruling period.</span></p>

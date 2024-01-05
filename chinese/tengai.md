@@ -1,5 +1,7 @@
 # 疼爱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tengai.md)
+
 <p><span class="chinese">母亲疼爱孩子。</span><span class="english">A mother cherishes her baby.</span></p>
 
 <p><span class="chinese">我给你最后的疼爱是手放开。</span><span class="english">I give you last love is let go.</span></p>

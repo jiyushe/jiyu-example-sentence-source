@@ -1,5 +1,7 @@
 # outset
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outset.md)
+
 <p><span class="chinese">首先,我们得明确一点</span><span class="english">Let's make one point very clear at the outset.</span></p>
 
 <p><span class="chinese">因此，让我在讲话一开始就说明一点。</span><span class="english">So let me say at this at outset of my remarks.</span></p>

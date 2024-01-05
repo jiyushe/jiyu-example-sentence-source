@@ -1,5 +1,7 @@
 # 违法乱纪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weifaluanji.md)
+
 <p><span class="chinese">有些事情明知是违法乱纪却并不代表学生族们就不会去做！</span><span class="english">Just because it’s illegal doesn’t mean students are not doing it!</span></p>
 
 <p><span class="chinese">如果他们继续违法乱纪，将会受到法律的严惩。</span><span class="english">They were not to get away with it if they continued to violate the law.</span></p>

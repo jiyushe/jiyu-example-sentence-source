@@ -1,5 +1,7 @@
 # tragedy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tragedy.md)
+
 <p><span class="chinese">悲剧片？</span><span class="english">Tragedy piece?</span></p>
 
 <p><span class="chinese">这是一个悲剧。</span><span class="english">It was a tragedy.</span></p>

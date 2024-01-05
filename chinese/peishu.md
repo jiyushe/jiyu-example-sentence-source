@@ -1,5 +1,7 @@
 # 配属
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peishu.md)
+
 <p><span class="chinese">我们团配属第一师。</span><span class="english">Our regiment is attached to the first division.</span></p>
 
 <p><span class="chinese">配属夹克。纯银领带夹。2英寸长。</span><span class="english">Jacket required. Tie clip in sterling silver. 2" long."</span></p>

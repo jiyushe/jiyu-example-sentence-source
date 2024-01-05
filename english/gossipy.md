@@ -1,5 +1,7 @@
 # gossipy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gossipy.md)
+
 <p><span class="chinese">我们有几个非常爱闲聊的邻居。</span><span class="english">We've got very gossipy neighbours.</span></p>
 
 <p><span class="chinese">你可能想要知道的有趣的好东西。</span><span class="english">Gossipy good things you might want to know.</span></p>

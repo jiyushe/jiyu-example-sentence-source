@@ -1,5 +1,7 @@
 # placidity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/placidity.md)
+
 <p><span class="chinese">直人们就更加倾向于喜欢体味“平平淡淡才是真”了。</span><span class="english">Straight people more often prefer a lento placidity.</span></p>
 
 <p><span class="chinese">那一扫而过的冷漠沉静的目光使我深感不安。</span><span class="english">The swift and indifferent placidity of that look troubled me.</span></p>

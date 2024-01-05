@@ -1,5 +1,7 @@
 # 粗疏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cushu.md)
+
 <p><span class="chinese">他特有的感情尽可以是单纯的，粗疏的，或是平板的。</span><span class="english">His particular emotions may be simple, or crude, or flat.</span></p>
 
 <p><span class="chinese">但是，他的逻辑并不严密、不谨细，时有粗疏。</span><span class="english">However, his logic is imprecise, incautious, and inattentive.</span></p>

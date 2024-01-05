@@ -1,5 +1,7 @@
 # 雇工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gugong.md)
+
 <p><span class="chinese">雇工们都在围场上闲混。</span><span class="english">The boys were in the compound loafing.</span></p>
 
 <p><span class="chinese">他从不把雇工当人看待。</span><span class="english">He never regarded the farmhands as human beings.</span></p>

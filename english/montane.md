@@ -1,5 +1,7 @@
 # montane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/montane.md)
+
 <p><span class="chinese">然而，它的表亲，山地里的田鼠，则是那种“打一枪、换一地”的家伙。</span><span class="english">His cousin, the montane vole, is kind of a hit-and-run guy.</span></p>
 
 <p><span class="chinese">山地雨林是热带北缘季风气候的地带性森林类型。</span><span class="english">The study revealed the zonal characteristics of the montane rain forest.</span></p>

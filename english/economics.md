@@ -1,5 +1,7 @@
 # economics 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/economics.md)
+
 <p><span class="chinese">布里安主修经济。</span><span class="english">Brian majored in economics.</span></p>
 
 <p><span class="chinese">再回顾一下经济学的知识</span><span class="english">Let's go back to the economics.</span></p>

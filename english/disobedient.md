@@ -1,5 +1,7 @@
 # disobedient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disobedient.md)
+
 <p><span class="chinese">那不听话的男孩令人讨厌。</span><span class="english">That disobedient boy is a pest.</span></p>
 
 <p><span class="chinese">但这是写给一个不顺服的教会。</span><span class="english">But this is written to a disobedient church.</span></p>

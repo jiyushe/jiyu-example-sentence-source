@@ -1,5 +1,7 @@
 # 捉奸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuojian_2.md)
+
 <p><span class="chinese">当然，他必须捉奸。</span><span class="english">Yes, he must.</span></p>
 
 <p><span class="chinese">捉奸，小菜一碟拉！</span><span class="english">Sex, a piece of cake to pull!</span></p>

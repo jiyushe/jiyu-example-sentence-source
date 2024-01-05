@@ -1,5 +1,7 @@
 # settler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/settler.md)
+
 <p><span class="chinese">我已然是一个引路人、开拓者、定居先驱。</span><span class="english">I was a guide, a pathfinder, an original settler.</span></p>
 
 <p><span class="chinese">他赌祖先之踊是美洲的早期移民。</span><span class="english">One of his forefathers was an settler in America.</span></p>

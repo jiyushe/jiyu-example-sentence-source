@@ -1,5 +1,7 @@
 # brine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brine.md)
+
 <p><span class="chinese">请把这块肉浸泡在盐水中。</span><span class="english">Please marinate the meat in the brine.</span></p>
 
 <p><span class="chinese">把核桃放在盐水里泡四五天。</span><span class="english">Soak the walnuts in brine for four or five days.</span></p>

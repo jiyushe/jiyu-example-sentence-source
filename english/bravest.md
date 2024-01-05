@@ -1,5 +1,7 @@
 # bravest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bravest.md)
+
 <p><span class="chinese">他们是勇者中的最勇者。</span><span class="english">They are the bravest of the brave.</span></p>
 
 <p><span class="chinese">你是最伟大的，最勇敢的。</span><span class="english">You are the greatest, the bravest.</span></p>

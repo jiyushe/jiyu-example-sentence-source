@@ -1,5 +1,7 @@
 # refine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refine.md)
+
 <p><span class="chinese">精练地阐明你的见解。</span><span class="english">Refine and clarify your vision.</span></p>
 
 <p><span class="chinese">改善你的呼吸技巧。</span><span class="english">Refine your breathing technique.</span></p>

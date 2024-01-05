@@ -1,5 +1,7 @@
 # oni
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oni.md)
+
 <p><span class="chinese">初次破坏鬼的部位。</span><span class="english">Destroy an Oni body part for the first time.</span></p>
 
 <p><span class="chinese">在无限讨伐中连续挑战10回。</span><span class="english">Slay 10 consecutive Oni in an Infinite Mission.</span></p>

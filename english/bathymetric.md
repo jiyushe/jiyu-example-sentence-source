@@ -1,5 +1,7 @@
 # bathymetric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bathymetric.md)
+
 <p><span class="chinese">声速是多波束测深系统进行水深测量的重要参数。</span><span class="english">Acoustic velocity is an important bathymetric parameter for the multibeam sounding system.</span></p>
 
 <p><span class="chinese">在海底地形测量中，由于波束角效应导致探测的海底地形存在失真。</span><span class="english">In bathymetric survey, the recorded seabed is distorted due to the beam-width of the echo sounder.</span></p>

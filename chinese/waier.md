@@ -1,5 +1,7 @@
 # 外耳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waier.md)
+
 <p><span class="chinese">人类外耳被移植到老鼠的皮肤下。</span><span class="english">Human-sized external ears were implanted under the skin of mice.</span></p>
 
 <p><span class="chinese">鸟类甚至更为神秘，因为我们甚至看不到它们有一个外耳。</span><span class="english">Birds are even more mysterious,because here we do not even see an outer ear.</span></p>

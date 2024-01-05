@@ -1,5 +1,7 @@
 # 重臂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongbi.md)
+
 <p><span class="chinese">这些机器拥有非同一般的40和60英尺的起重臂。</span><span class="english">These machines are far from run-of-the-mill 40- and 60-foot booms.</span></p>
 
 <p><span class="chinese">放置载荷状态下，操作者将在起重臂端部进行整夜控制。</span><span class="english">Operator controls stay up on the end of the boom, with the load being placed.</span></p>

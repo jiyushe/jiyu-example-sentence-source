@@ -1,5 +1,7 @@
 # 选送
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuansong.md)
+
 <p><span class="chinese">只有一两个男孩被选送参加上个月的联校运动节。</span><span class="english">Only one or two boys were chosen for Joint School Sports Day last month.</span></p>
 
 <p><span class="chinese">我会毫不犹豫地把我最好的学生选送到你的学校。</span><span class="english">I would not hesitate for a second to send my best students to your college.</span></p>

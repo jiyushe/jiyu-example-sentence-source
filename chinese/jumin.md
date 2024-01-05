@@ -1,5 +1,7 @@
 # 居民
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jumin.md)
+
 <p><span class="chinese">洛杉矶居民,对不对</span><span class="english">Los Angeles residents?</span></p>
 
 <p><span class="chinese">中世纪的居民。</span><span class="english">The Medieval inhabitants.</span></p>

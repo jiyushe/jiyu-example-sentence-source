@@ -1,5 +1,7 @@
 # 面包车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianbaoche.md)
+
 <p><span class="chinese">那面包车呢？</span><span class="english">How about the minibuses?</span></p>
 
 <p><span class="chinese">谁会买辆521马力的面包车?。</span><span class="english">Who Needs a 521 HP Minivan?</span></p>

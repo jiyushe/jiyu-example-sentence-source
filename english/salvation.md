@@ -1,5 +1,7 @@
 # salvation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salvation.md)
+
 <p><span class="chinese">你的'拯救'指是什么?</span><span class="english">And what is Salvation?</span></p>
 
 <p><span class="chinese">那是我们唯一的救赎。</span><span class="english">That’s our one salvation.</span></p>

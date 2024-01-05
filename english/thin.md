@@ -1,5 +1,7 @@
 # thin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thin.md)
+
 <p><span class="chinese">我长得细瘦。</span><span class="english">I'm thin.</span></p>
 
 <p><span class="chinese">薄唇？</span><span class="english">Thin lips?</span></p>

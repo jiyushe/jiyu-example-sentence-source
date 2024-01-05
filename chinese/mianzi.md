@@ -1,5 +1,7 @@
 # 面子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianzi.md)
+
 <p><span class="chinese">面子健忘症。</span><span class="english">Face amnesia.</span></p>
 
 <p><span class="chinese">这就是荣誉,一个人的面子</span><span class="english">That's honor, personal honor.</span></p>

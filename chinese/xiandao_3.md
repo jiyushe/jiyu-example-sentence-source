@@ -1,5 +1,7 @@
 # 铣刀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiandao_3.md)
+
 <p><span class="chinese">钟表、钻咀、铣刀及五金模具等。</span><span class="english">Watches, drills and mills, mould etc.</span></p>
 
 <p><span class="chinese">给出了平头铣刀的无干涉路径规划。</span><span class="english">The interference-free tool path planning is given.</span></p>

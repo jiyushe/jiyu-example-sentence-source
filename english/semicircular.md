@@ -1,5 +1,7 @@
 # semicircular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semicircular.md)
+
 <p><span class="chinese">请把那一摞筒瓦递给我。</span><span class="english">Please pass me that pile of semicircular tiles.</span></p>
 
 <p><span class="chinese">它通常是有馅的半圆形的麦制食品。</span><span class="english">It is usually a semicircular wheaten food with stuffing.</span></p>

@@ -1,5 +1,7 @@
 # 注视
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhushi_3.md)
+
 <p><span class="chinese">转移你的注视。</span><span class="english">Shift your gaze.</span></p>
 
 <p><span class="chinese">他注视著那条船下沈。</span><span class="english">He beheld the boat sink.</span></p>

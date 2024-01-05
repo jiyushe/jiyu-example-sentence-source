@@ -1,5 +1,7 @@
 # evitable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evitable.md)
+
 <p><span class="chinese">因此，提高ITO粉体品质是必由之路。</span><span class="english">Therefore, improving ITO powder quality is an evitable road.</span></p>
 
 <p><span class="chinese">因此，避免了在时域采用复杂的循环相关运算。</span><span class="english">Hence, the complicated cyclic correlation in time-domain is evitable.</span></p>

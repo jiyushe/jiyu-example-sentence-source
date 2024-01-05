@@ -1,5 +1,7 @@
 # offshoot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/offshoot.md)
+
 <p><span class="chinese">与之抗衡的是新闻有限公司，是多默多克新闻集团的分支。</span><span class="english">Its major rival is News Limited, an offshoot of Murdoch's News Corp.</span></p>
 
 <p><span class="chinese">第二章是论佛教，视做印度教的一个分支。</span><span class="english">The second chapter is on Buddhism, which is treated as an offshoot of Hinduism.</span></p>

@@ -1,5 +1,7 @@
 # perry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perry.md)
+
 <p><span class="chinese">佩里对女声乐歌手很着迷。</span><span class="english">Perry is very fond of female vocalists.</span></p>
 
 <p><span class="chinese">他告诉佩里，他们已决定把我交易到菲尼克斯。</span><span class="english">He told Perry they had a deal to trade me to Phoenix.</span></p>

@@ -1,5 +1,7 @@
 # tappet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tappet.md)
+
 <p><span class="chinese">确保不损坏平底挺杆导轨。</span><span class="english">Make sure that the flat-based tappet guides are not damaged.</span></p>
 
 <p><span class="chinese">针对某小型高速发动机，设计了一种液压挺柱。</span><span class="english">A sort of hydraulic tappet is designed for a certain small-capacity high-speed engine.</span></p>

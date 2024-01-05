@@ -1,5 +1,7 @@
 # amaze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amaze.md)
+
 <p><span class="chinese">你使我大为惊异！</span><span class="english">You amaze me!</span></p>
 
 <p><span class="chinese">你没有停止给我惊喜，路易。</span><span class="english">You never cease to amaze me, Louie.</span></p>

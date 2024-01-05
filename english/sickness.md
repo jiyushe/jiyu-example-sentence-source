@@ -1,5 +1,7 @@
 # sickness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sickness.md)
+
 <p><span class="chinese">病证结合。</span><span class="english">Sickness card union.</span></p>
 
 <p><span class="chinese">悲伤也是一种病？</span><span class="english">Is sadness a sickness?</span></p>

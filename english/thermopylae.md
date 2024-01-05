@@ -1,5 +1,7 @@
 # thermopylae
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thermopylae.md)
+
 <p><span class="chinese">那些塞莫皮莱的勇士最后怎样?。</span><span class="english">What happened to the warriors at Thermopylae?</span></p>
 
 <p><span class="chinese">它抵达英国时比“塞姆皮雷”号晚了1个星期。</span><span class="english">She arrived in England a week after the Thermopylae.</span></p>

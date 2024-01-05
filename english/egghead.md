@@ -1,5 +1,7 @@
 # egghead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/egghead.md)
+
 <p><span class="chinese">罗杰是一个书呆子。</span><span class="english">Roger is an egghead.</span></p>
 
 <p><span class="chinese">他是艾格赫德教授。</span><span class="english">It was Professor Egghead.</span></p>

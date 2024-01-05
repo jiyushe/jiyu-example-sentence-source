@@ -1,5 +1,7 @@
 # 警铃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingling.md)
+
 <p><span class="chinese">我们在那里的时候正好还碰上警铃响了呢。</span><span class="english">While we are there, the alarm rings.</span></p>
 
 <p><span class="chinese">听到警铃响，他从床上跳下来。</span><span class="english">He sprang out of bed when the alarm went off.</span></p>

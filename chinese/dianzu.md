@@ -1,5 +1,7 @@
 # 电阻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dianzu.md)
+
 <p><span class="chinese">电阻是欧姆来度量的。</span><span class="english">Resistance is measured in Ohm.</span></p>
 
 <p><span class="chinese">求分流器的电阻。</span><span class="english">Find the resistance of the shunt.</span></p>

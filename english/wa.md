@@ -1,5 +1,7 @@
 # wa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wa.md)
+
 <p><span class="chinese">斯迈尔先生说他不想与客家争吵。</span><span class="english">Mr. Smile said he did not wa.</span></p>
 
 <p><span class="chinese">博士蛙正在盖一间猫舍。</span><span class="english">Bo Shi Wa is building a cat house.</span></p>

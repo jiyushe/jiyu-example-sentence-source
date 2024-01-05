@@ -1,5 +1,7 @@
 # fabulously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fabulously.md)
+
 <p><span class="chinese">令人难以置信的温暖风格的仿毛皮领子。</span><span class="english">Faux fur collar for fabulously warm style.</span></p>
 
 <p><span class="chinese">我们家恰好也是富甲天下。</span><span class="english">I also happened to come from a fabulously wealthy family.</span></p>

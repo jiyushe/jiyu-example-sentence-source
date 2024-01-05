@@ -1,5 +1,7 @@
 # 水性杨花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuixingyanghua.md)
+
 <p><span class="chinese">她真是一个水性杨花的女人！</span><span class="english">She's really a whore!</span></p>
 
 <p><span class="chinese">你是个水性杨花的女人。</span><span class="english">You are a lady of easy virtue.</span></p>

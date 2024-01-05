@@ -1,5 +1,7 @@
 # werner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/werner.md)
+
 <p><span class="chinese">第二，我们来看看沃纳，海森堡。</span><span class="english">Number 2, we are going to Werner Heisenberg.</span></p>
 
 <p><span class="chinese">沃纳把叉子放下端起咖啡杯。</span><span class="english">Werner put his fork down and raised his coffee cup.</span></p>

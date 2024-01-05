@@ -1,5 +1,7 @@
 # exorcism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exorcism.md)
+
 <p><span class="chinese">那时候我才驱魔。</span><span class="english">That's when I do exorcism.</span></p>
 
 <p><span class="chinese">真是做法驱魔的好日子。</span><span class="english">What an excellent day for an exorcism.</span></p>

@@ -1,5 +1,7 @@
 # 震撼人心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenhanrenxin.md)
+
 <p><span class="chinese">这是一种令人激动和震撼人心的经验。</span><span class="english">This was an exciting and a humbling experience.</span></p>
 
 <p><span class="chinese">贝加尔湖震撼人心，是世界上最深最清的湖。</span><span class="english">Baikal is the most beautiful place in the world.</span></p>

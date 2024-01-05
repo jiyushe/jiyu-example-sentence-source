@@ -1,5 +1,7 @@
 # mystically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mystically.md)
+
 <p><span class="chinese">那法师神秘的攻击一个朝生暮死物体。</span><span class="english">The mage mystically attacks an ephemeral object.</span></p>
 
 <p><span class="chinese">神秘看起来连接在长的丝绸串。</span><span class="english">Mystically it appears linked on a long silk string.</span></p>

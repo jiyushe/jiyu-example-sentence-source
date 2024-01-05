@@ -1,5 +1,7 @@
 # 退位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuiwei_1.md)
+
 <p><span class="chinese">爱德华三世退位。</span><span class="english">Edward VII abdicated.</span></p>
 
 <p><span class="chinese">国王爱德华八世于1936年退位与一个平民结婚。</span><span class="english">in 1936 to marry a commoner.</span></p>

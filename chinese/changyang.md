@@ -1,5 +1,7 @@
 # 倘佯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/changyang.md)
+
 <p><span class="chinese">一条积云带在人平易近年夜会堂上空倘佯。</span><span class="english">A band of cumulus lingered over the Great Hall of the People.</span></p>
 
 <p><span class="chinese">这也是为什么我们倘佯在森林或旷野开阔的地方时，心情就特别好的原因。</span><span class="english">This is why we feel nice and happy when we walk on a broad field or in the forest.</span></p>

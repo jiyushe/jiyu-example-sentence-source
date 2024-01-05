@@ -1,5 +1,7 @@
 # originate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/originate.md)
+
 <p><span class="chinese">那图像从何而来？</span><span class="english">Where do the images originate?</span></p>
 
 <p><span class="chinese">PH基因可能来源于B染色体。</span><span class="english">PH genes maybe originate B chromosome.</span></p>

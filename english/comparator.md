@@ -1,5 +1,7 @@
 # comparator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comparator.md)
+
 <p><span class="chinese">低功耗低失调电压双比较器。</span><span class="english">Low power low offset voltage dual comparator.</span></p>
 
 <p><span class="chinese">四路，单电源，高速，低功耗比较器。</span><span class="english">Quad, single-supply, high-speed, low-power comparator.</span></p>

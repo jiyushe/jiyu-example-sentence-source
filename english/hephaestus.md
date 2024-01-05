@@ -1,5 +1,7 @@
 # hephaestus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hephaestus.md)
+
 <p><span class="chinese">赫菲斯托斯和他的哥哥阿瑞斯都是赫拉的儿子。</span><span class="english">Hephaestus and his brother Ares were sons of Hera.</span></p>
 
 <p><span class="chinese">赫菲斯托斯通常被认为是锻冶之神。</span><span class="english">Hephaestus was often remembered as the blacksmith of the gods.</span></p>

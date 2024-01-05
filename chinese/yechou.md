@@ -1,5 +1,7 @@
 # 腋臭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yechou.md)
+
 <p><span class="chinese">该药物组合物在制备治疗腋臭的药物中的应用。</span><span class="english">The medicine composition is used in preparing medicine for treating underarm odor.</span></p>
 
 <p><span class="chinese">目的探索治疗腋臭的一种微创的新方法。</span><span class="english">Objective To explore a new method of treatment of axillary bromhidrosis leaving less damage.</span></p>

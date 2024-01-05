@@ -1,5 +1,7 @@
 # drosophila
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drosophila.md)
+
 <p><span class="chinese">果蝇眼睛的电子显微图</span><span class="english">Electron Micrograph of Drosophila Fly’s Eyes.</span></p>
 
 <p><span class="chinese">在这篇论文里，我们为果蝇脑定义一个座标系统。</span><span class="english">In this thesis, we define a coordinate system for the Drosophila brain.</span></p>

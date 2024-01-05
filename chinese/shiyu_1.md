@@ -1,5 +1,7 @@
 # 食欲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyu_1.md)
+
 <p><span class="chinese">吃饭也没有食欲。</span><span class="english">I had no appetite.</span></p>
 
 <p><span class="chinese">看到这可口的食物我食欲大振。</span><span class="english">I felt invited at the delicious food.</span></p>

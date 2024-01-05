@@ -1,5 +1,7 @@
 # 踊跃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongyue.md)
+
 <p><span class="chinese">踊跃发言吧。</span><span class="english">Comment it up.</span></p>
 
 <p><span class="chinese">接待9-15周岁的少年踊跃报名到场！</span><span class="english">Welcome Ages 9 to 15 years old!</span></p>

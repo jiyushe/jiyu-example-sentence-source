@@ -1,5 +1,7 @@
 # 石棉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shimian_2.md)
+
 <p><span class="chinese">氡和石棉。</span><span class="english">Radon and asbestos.</span></p>
 
 <p><span class="chinese">为何石棉成为问题？</span><span class="english">Why is asbestos a problem?</span></p>

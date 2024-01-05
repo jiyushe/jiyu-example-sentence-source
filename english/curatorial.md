@@ -1,5 +1,7 @@
 # curatorial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curatorial.md)
+
 <p><span class="chinese">因为一座伟大的博物馆取决于伟大的博物管理员工。</span><span class="english">Because a great museum depends on a great curatorial staff.</span></p>
 
 <p><span class="chinese">佳丝瑞•比肯黛尼是最新加入我们策展团队的。</span><span class="english">Jaishri Abichandani is the newest addition to the curatorial team.</span></p>

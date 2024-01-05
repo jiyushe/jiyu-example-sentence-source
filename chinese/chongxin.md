@@ -1,5 +1,7 @@
 # 重新
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongxin.md)
+
 <p><span class="chinese">或重新包装？</span><span class="english">Repackaged?</span></p>
 
 <p><span class="chinese">我重新做过。</span><span class="english">I'll re-work it.</span></p>

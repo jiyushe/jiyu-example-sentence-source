@@ -1,5 +1,7 @@
 # unfitness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unfitness.md)
+
 <p><span class="chinese">事实上，你还得承认自己的体力不足呢！</span><span class="english">In fact, you have to admit your unfitness for the race!</span></p>
 
 <p><span class="chinese">限制恐高，心脏病以及其他设备不适者搭乘。</span><span class="english">Guests with height-phobia, heart disease or unfitness are not allowed to use this facility.</span></p>

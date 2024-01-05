@@ -1,5 +1,7 @@
 # mauve
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mauve.md)
+
 <p><span class="chinese">花朵是珍珠般的淡紫色。</span><span class="english">The flowers are pearly mauve.</span></p>
 
 <p><span class="chinese">穿紫红色衣服成亲是种风俗。</span><span class="english">It is a custom to get married in a mauve dress.</span></p>

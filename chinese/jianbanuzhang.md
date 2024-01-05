@@ -1,5 +1,7 @@
 # 剑拔弩张
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianbanuzhang.md)
+
 <p><span class="chinese">美国在该地区的力量也剑拔弩张。</span><span class="english">So are US forces in the region.</span></p>
 
 <p><span class="chinese">南北双方形成了剑拔弩张的紧张局势。</span><span class="english">The North and South were at loggerheads.</span></p>

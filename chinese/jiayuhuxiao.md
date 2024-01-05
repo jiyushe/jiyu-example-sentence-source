@@ -1,5 +1,7 @@
 # 家喻户晓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiayuhuxiao.md)
+
 <p><span class="chinese">这就是为什么他的名字现在家喻户晓。</span><span class="english">that's why people know him.</span></p>
 
 <p><span class="chinese">第二次世界大战使“雷达”一词家喻户晓。</span><span class="english">WWⅡ familiarized the term “radar”.</span></p>

@@ -1,5 +1,7 @@
 # northbound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/northbound.md)
+
 <p><span class="chinese">他在州街登上了一辆北行的有轨电车。</span><span class="english">He took a northbound trolley on State Street.</span></p>
 
 <p><span class="chinese">北行的车辆也最终停止。</span><span class="english">Northbound traffic was also eventually halted.</span></p>

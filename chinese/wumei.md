@@ -1,5 +1,7 @@
 # 乌梅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wumei.md)
+
 <p><span class="chinese">在哪里可以买到乌梅丸？</span><span class="english">Where can purchase dark plum ball?</span></p>
 
 <p><span class="chinese">方法采用TLC法对三棱、白芷、乌梅进行鉴别试验。</span><span class="english">Methods The TLC method was used to identify Sanleng, Baizhi, Wumei.</span></p>

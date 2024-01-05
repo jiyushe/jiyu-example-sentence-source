@@ -1,5 +1,7 @@
 # knell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knell.md)
+
 <p><span class="chinese">婚姻结束的标志是互相蔑视。</span><span class="english">The death knell of a marriage is contempt.</span></p>
 
 <p><span class="chinese">那事听起来就像是给她的一切希望敲起了丧钟。</span><span class="english">It sounded the death knell of all her hopes.</span></p>

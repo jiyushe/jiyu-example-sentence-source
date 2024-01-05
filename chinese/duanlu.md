@@ -1,5 +1,7 @@
 # 短路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duanlu.md)
+
 <p><span class="chinese">只有这个房间发生短路吗？</span><span class="english">Is only this room short-circuited?</span></p>
 
 <p><span class="chinese">短路会烧断保险丝的。</span><span class="english">A short circuit will blow the fuse.</span></p>

@@ -1,5 +1,7 @@
 # adaptive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adaptive.md)
+
 <p><span class="chinese">调适能力？</span><span class="english">Academic ability? Adaptive functioning?</span></p>
 
 <p><span class="chinese">该自适应系统是超稳定系统。</span><span class="english">The adaptive system is to be hyperstable.</span></p>

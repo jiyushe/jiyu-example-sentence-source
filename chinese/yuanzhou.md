@@ -1,5 +1,7 @@
 # 圆周
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanzhou.md)
+
 <p><span class="chinese">一个男巫在一个魔术的圆周里面放置了10只猫。</span><span class="english">A wizard placed 10 cats inside a magic circle.</span></p>
 
 <p><span class="chinese">地球的圆周约为25,000英里。</span><span class="english">The earth's circumference is about 25,000 miles.</span></p>

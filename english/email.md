@@ -1,5 +1,7 @@
 # email
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/email.md)
+
 <p><span class="chinese">新邮件。</span><span class="english">New email.</span></p>
 
 <p><span class="chinese">发张邮件。</span><span class="english">Send an email.</span></p>

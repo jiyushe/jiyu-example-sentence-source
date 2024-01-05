@@ -1,5 +1,7 @@
 # simplify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/simplify.md)
+
 <p><span class="chinese">简化你的工作？</span><span class="english">Simplify your job?</span></p>
 
 <p><span class="chinese">他们需要简化。</span><span class="english">They have to simplify.</span></p>

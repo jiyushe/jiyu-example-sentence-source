@@ -1,5 +1,7 @@
 # 偏振光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianzhenguang.md)
+
 <p><span class="chinese">最近的研究显示，许多鱼类能感应到偏振光。</span><span class="english">Recent research shows that many fish sense polarized light.</span></p>
 
 <p><span class="chinese">圆偏振光经物镜聚焦后射到光盘上。</span><span class="english">The circularly polarized light is then focused down onto the disk.</span></p>

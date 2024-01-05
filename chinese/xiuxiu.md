@@ -1,5 +1,7 @@
 # 修修
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuxiu.md)
+
 <p><span class="chinese">知道了，让我来修修看。</span><span class="english">OK. Let me fix it.</span></p>
 
 <p><span class="chinese">要不要把两边修修齐？</span><span class="english">Shall I neaten up the side?</span></p>

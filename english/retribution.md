@@ -1,5 +1,7 @@
 # retribution
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retribution.md)
+
 <p><span class="chinese">世间果报，亦复如是。</span><span class="english">So is the wordy retribution.</span></p>
 
 <p><span class="chinese">诸位，果报是可怕的。</span><span class="english">Everyone, karmic retribution is frightening.</span></p>

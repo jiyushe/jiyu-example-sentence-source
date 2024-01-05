@@ -1,5 +1,7 @@
 # tediousness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tediousness.md)
+
 <p><span class="chinese">网上交易，也减少了繁琐和复杂的交易。</span><span class="english">Online trading also reduces the tediousness and complexity involved in trading.</span></p>
 
 <p><span class="chinese">钟摇摆着一分分的过去好像在嘲弄她乏味的一天。</span><span class="english">The clock dragged away the minutes teasing her with the tediousness of the day.</span></p>

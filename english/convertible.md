@@ -1,5 +1,7 @@
 # convertible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/convertible.md)
+
 <p><span class="chinese">这个桌子是可转变的，而成烫衣板。</span><span class="english">This table is convertible into an ironing board.</span></p>
 
 <p><span class="chinese">港币自由兑换。</span><span class="english">The Hong Kong dollar shall be freely convertible.</span></p>

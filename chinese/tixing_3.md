@@ -1,5 +1,7 @@
 # 梯形
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tixing_3.md)
+
 <p><span class="chinese">它有惊人的双层梯形建筑。</span><span class="english">It has an incredible double terrace.</span></p>
 
 <p><span class="chinese">这个声明我们经常用梯形来围绕。</span><span class="english">OK? Wow. And notice what I got here.</span></p>

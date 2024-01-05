@@ -1,5 +1,7 @@
 # 绒线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongxian.md)
+
 <p><span class="chinese">瞧你的猫把我的绒线球弄乱了。</span><span class="english">See how your cat has messed up my ball of wool.</span></p>
 
 <p><span class="chinese">冬季，宜用质厚的绒线布。</span><span class="english">Winter, it is appropriate quality thick wool fabric.</span></p>

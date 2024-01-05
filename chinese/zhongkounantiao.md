@@ -1,5 +1,7 @@
 # 众口难调
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongkounantiao.md)
+
 <p><span class="chinese">众口难调，这个和做饭一样，很难让所有人都喜欢的。</span><span class="english">I love my job. Whoo! Makes me feel like Superman!</span></p>
 
 <p><span class="chinese">众口难调，所以我不想再跟你说什么了，随缘吧。</span><span class="english">So I won't take with you any more, just let it be.</span></p>

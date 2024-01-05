@@ -1,5 +1,7 @@
 # 整肃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengsu.md)
+
 <p><span class="chinese">不到一年，他们就搞了第一次整肃。</span><span class="english">Within a year, they held their first purge.</span></p>
 
 <p><span class="chinese">新总统对不忠诚的陆军军官进行了一次整肃。</span><span class="english">The new president carried out a purge of disloyal army officers.</span></p>

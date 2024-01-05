@@ -1,5 +1,7 @@
 # bloodbath
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bloodbath.md)
+
 <p><span class="chinese">大屠杀还是间接死亡？</span><span class="english">The bloodbath or the death spiral?</span></p>
 
 <p><span class="chinese">一名男子用杯子砸向另一个人的头，还有一个人眼睛暴出，真是一场血战。</span><span class="english">One person's eye was popping out. It was a bloodbath.</span></p>

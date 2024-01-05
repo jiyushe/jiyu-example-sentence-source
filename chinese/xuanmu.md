@@ -1,5 +1,7 @@
 # 炫目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanmu.md)
+
 <p><span class="chinese">炫目就是猫族的生活方式！！！</span><span class="english">Free your style, free your life!</span></p>
 
 <p><span class="chinese">它炫目的色彩归功于电离氢。</span><span class="english">Its color is due to ionized hydrogen.</span></p>

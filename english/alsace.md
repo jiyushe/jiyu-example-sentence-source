@@ -1,5 +1,7 @@
 # alsace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alsace.md)
+
 <p><span class="chinese">阿尔萨斯有一个良好的铁路及公交网络。</span><span class="english">Alsace has a good network of trains and buses.</span></p>
 
 <p><span class="chinese">请参与2007年7月24日-阿尔萨斯香魅时光！</span><span class="english">Join also Alsace Magic Moment on 24 July 2007!</span></p>

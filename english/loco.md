@@ -1,5 +1,7 @@
 # loco
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loco.md)
+
 <p><span class="chinese">看来火车头做的是越来越完美了。</span><span class="english">Look what loco does is more and more perfect.</span></p>
 
 <p><span class="chinese">因此，代替父母实际上已经不再使用了。</span><span class="english">So in loco parentis no longer really applied.</span></p>

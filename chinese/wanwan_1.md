@@ -1,5 +1,7 @@
 # 弯弯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanwan_1.md)
+
 <p><span class="chinese">你看到了弯弯的月亮了吗？</span><span class="english">You see the moon curved it?</span></p>
 
 <p><span class="chinese">看看像不像一轮弯弯的月牙呢？</span><span class="english">Look like a curved crescent?</span></p>

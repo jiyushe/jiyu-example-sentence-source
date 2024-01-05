@@ -1,5 +1,7 @@
 # sped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sped.md)
+
 <p><span class="chinese">那辆汽车疾驰而去。</span><span class="english">The car sped away.</span></p>
 
 <p><span class="chinese">火车向前奔驰。</span><span class="english">The train sped on.</span></p>

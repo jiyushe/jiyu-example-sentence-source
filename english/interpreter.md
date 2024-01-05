@@ -1,5 +1,7 @@
 # interpreter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interpreter.md)
+
 <p><span class="chinese">它叫做翻译机。</span><span class="english">It's called an interpreter.</span></p>
 
 <p><span class="chinese">我想当口语翻译。</span><span class="english">I want to be an interpreter.</span></p>

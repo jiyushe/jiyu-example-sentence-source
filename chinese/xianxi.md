@@ -1,5 +1,7 @@
 # 嫌隙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianxi.md)
+
 <p><span class="chinese">钱财生嫌隙，朋友化仇敌。</span><span class="english">Money make friends enemy.</span></p>
 
 <p><span class="chinese">他们的关系很快有了嫌隙.</span><span class="english">Their relationship soon went sour.</span></p>

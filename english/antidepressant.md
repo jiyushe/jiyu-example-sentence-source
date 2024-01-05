@@ -1,5 +1,7 @@
 # antidepressant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antidepressant.md)
+
 <p><span class="chinese">这是一种三环搞抑郁药物。</span><span class="english">This is a tricyclic antidepressant drug.</span></p>
 
 <p><span class="chinese">所以他开始尝试抗抑郁药。</span><span class="english">So did the antidepressant pills he tried.</span></p>

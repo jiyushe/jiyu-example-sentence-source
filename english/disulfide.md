@@ -1,5 +1,7 @@
 # disulfide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disulfide.md)
+
 <p><span class="chinese">简单的一个是丙酮，还有二硫化碳。</span><span class="english">An easy one is acetone. And carbon disulfide.</span></p>
 
 <p><span class="chinese">不溶于乙醇和二硫化碳。</span><span class="english">It is insoluble in ethanol and carbon disulfide.</span></p>

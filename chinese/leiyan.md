@@ -1,5 +1,7 @@
 # 泪眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leiyan.md)
+
 <p><span class="chinese">我并未对此泪眼摩挲。</span><span class="english">I’m not teary eyed about it.</span></p>
 
 <p><span class="chinese">我觉得我已经有点泪眼朦胧了。</span><span class="english">I think I'm misting up already.</span></p>

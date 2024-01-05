@@ -1,5 +1,7 @@
 # meromorphic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meromorphic.md)
+
 <p><span class="chinese">本论文主要研究的是亚纯函数的唯一性理论。</span><span class="english">This thesis studies the uniqueness theory of meromorphic functions.</span></p>
 
 <p><span class="chinese">在第二章，我们讨论了亚纯函数的几个正规定则。</span><span class="english">In charpter2, we will discuss some normal principles of meromorphic functions.</span></p>

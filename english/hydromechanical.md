@@ -1,5 +1,7 @@
 # hydromechanical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydromechanical.md)
+
 <p><span class="chinese">裂隙岩体的渗流应力耦合机理是岩体水力学的研究重点。</span><span class="english">Hydromechanical coupling of jointed rock mass was the key point for problems of hydraulics of rock mass.</span></p>
 
 <p><span class="chinese">减振器系统纯粹基于流体力学原理工作，不需要任何的传感器或电子装置。</span><span class="english">The shock absorber system works by purely hydromechanical means without the need for sensors or electronics.</span></p>

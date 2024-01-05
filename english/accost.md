@@ -1,5 +1,7 @@
 # accost
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accost.md)
+
 <p><span class="chinese">但时机未到，我还不想招呼他呢。</span><span class="english">I would not accost him yet.</span></p>
 
 <p><span class="chinese">她太害羞了，不敢和他搭话。</span><span class="english">She is too shy to dare accost him.</span></p>

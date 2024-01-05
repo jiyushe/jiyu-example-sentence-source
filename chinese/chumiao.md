@@ -1,5 +1,7 @@
 # 出苗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chumiao.md)
+
 <p><span class="chinese">出苗至成熟为90天左右。</span><span class="english">Sprout to mature for 90 days or so.</span></p>
 
 <p><span class="chinese">早熟，出苗到采收58天。</span><span class="english">Early maturity, sprout to harvest 58 days.</span></p>

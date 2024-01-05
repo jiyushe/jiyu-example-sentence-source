@@ -1,5 +1,7 @@
 # 石屏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiping_1.md)
+
 <p><span class="chinese">2006年对云南省石屏县的森林资源状况进行了调查。</span><span class="english">The forest resources in Shiping county were inventoried in 2006.</span></p>
 
 <p><span class="chinese">石屏彝族“海菜腔”是从异龙湖中的海菜而得名的。</span><span class="english">"Haicai Tune" of the Yi Nationality got its name from a sea-vegetable in Yilong Lake.</span></p>

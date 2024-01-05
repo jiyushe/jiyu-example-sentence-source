@@ -1,5 +1,7 @@
 # 不乏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bufa.md)
+
 <p><span class="chinese">不乏先例。</span><span class="english">There is no lack of precedents.</span></p>
 
 <p><span class="chinese">你也能忍耐，曾为我的名劳苦，并不乏倦。</span><span class="english">I will also give him the morning star.</span></p>

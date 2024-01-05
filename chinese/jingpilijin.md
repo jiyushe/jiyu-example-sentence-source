@@ -1,5 +1,7 @@
 # 精疲力尽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingpilijin.md)
+
 <p><span class="chinese">我真是精疲力尽了。</span><span class="english">I'm really tired.</span></p>
 
 <p><span class="chinese">这匹马已精疲力尽了。</span><span class="english">The horse has gone stale.</span></p>

@@ -1,5 +1,7 @@
 # certiorari
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/certiorari.md)
+
 <p><span class="chinese">我们给予移来解决冲突。</span><span class="english">We grant certiorari to resolve the conflict.</span></p>
 
 <p><span class="chinese">他申请用签发调卷令的方法获得司法审查。</span><span class="english">He applied for judicial reiview by way of certiorari.</span></p>

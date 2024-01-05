@@ -1,5 +1,7 @@
 # minicomputer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minicomputer.md)
+
 <p><span class="chinese">而且当时的小型机可靠性也不理想。</span><span class="english">Minicomputer reliability and then not ideal.</span></p>
 
 <p><span class="chinese">上述运算可在TI—59小型计算机上进行。</span><span class="english">All computations can be done by TI-59 minicomputer.</span></p>

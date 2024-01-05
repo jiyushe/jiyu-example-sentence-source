@@ -1,5 +1,7 @@
 # facing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/facing.md)
+
 <p><span class="chinese">将时钟拨快一小时。</span><span class="english">Put a clock an hwe facing.</span></p>
 
 <p><span class="chinese">米莉正面临驱逐出境。</span><span class="english">Milly is facing deportation.</span></p>

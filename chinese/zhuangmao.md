@@ -1,5 +1,7 @@
 # 状貌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangmao.md)
+
 <p><span class="chinese">这些石头开始变软，呈现形状，渐渐地带上了略似于人的状貌。</span><span class="english">The stones began to grow soft and to assume shape.</span></p>
 
 <p><span class="chinese">测试膜片上不同点的厚度，可以得到物体表面微观状貌。</span><span class="english">Testing different points of the film, the surface roughness should get.</span></p>

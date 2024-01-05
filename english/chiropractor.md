@@ -1,5 +1,7 @@
 # chiropractor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chiropractor.md)
+
 <p><span class="chinese">她甚至还和一位犬科推拿师合作过。</span><span class="english">She even works with a canine chiropractor.</span></p>
 
 <p><span class="chinese">你得去看看我的按摩医生，他很棒。</span><span class="english">I keep telling him to go to my chiropractor.</span></p>

@@ -1,5 +1,7 @@
 # sack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sack.md)
+
 <p><span class="chinese">首先是套袋跑。</span><span class="english">First is a sack race.</span></p>
 
 <p><span class="chinese">麦包散了。</span><span class="english">The sack of wheat has spilled.</span></p>

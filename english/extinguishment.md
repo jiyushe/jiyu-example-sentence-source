@@ -1,5 +1,7 @@
 # extinguishment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extinguishment.md)
+
 <p><span class="chinese">水上灭火演练。</span><span class="english">Fire extinguishment is practiced on water.</span></p>
 
 <p><span class="chinese">细水雾抑制熄灭木块火焰的主要机理是燃料表面冷却效应。</span><span class="english">The main mechanism of extinguishment was the surface cooling effect.</span></p>

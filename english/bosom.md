@@ -1,5 +1,7 @@
 # bosom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bosom.md)
+
 <p><span class="chinese">他胸怀开朗。</span><span class="english">His bosom is clear.</span></p>
 
 <p><span class="chinese">怀抱婴儿的好妈妈！</span><span class="english">Bosom baby's good mother!</span></p>

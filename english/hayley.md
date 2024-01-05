@@ -1,5 +1,7 @@
 # hayley
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hayley.md)
+
 <p><span class="chinese">所以，海莉六岁的时候在班里就与其他同学不同。</span><span class="english">So at six years old, Hayley towered over her classmates.</span></p>
 
 <p><span class="chinese">海莉•韦斯顿是新西兰音乐界的又一大轰动人物。</span><span class="english">Hayley Westenra is another New Zealand singing sensation.</span></p>

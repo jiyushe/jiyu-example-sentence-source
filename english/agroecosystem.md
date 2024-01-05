@@ -1,5 +1,7 @@
 # agroecosystem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agroecosystem.md)
+
 <p><span class="chinese">人在这个生态系统中作为主要的生态因素，造就了农业生态景观。</span><span class="english">Its ecosystem includes man as a major eco-factor thus becoming an agroecosystem.</span></p>
 
 <p><span class="chinese">第二，传统农业生态系统常处于氮约束和水约束状态。</span><span class="english">Second , traditional agroecosystem is usually at N-Limitation and water-limitation.</span></p>

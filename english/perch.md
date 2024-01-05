@@ -1,5 +1,7 @@
 # perch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perch.md)
+
 <p><span class="chinese">鸟停歇在栖木上。</span><span class="english">The bird took its perch.</span></p>
 
 <p><span class="chinese">这个栖木是用箭做成的。</span><span class="english">The perch is made of arrows.</span></p>

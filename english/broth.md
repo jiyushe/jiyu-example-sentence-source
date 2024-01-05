@@ -1,5 +1,7 @@
 # broth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/broth.md)
+
 <p><span class="chinese">这个汤是深的，带点甜味。</span><span class="english">The broth is dark and sweet.</span></p>
 
 <p><span class="chinese">人多嘴杂。厨师多烧坏汤？</span><span class="english">Too a lot cooks spoil the broth.</span></p>

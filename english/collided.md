@@ -1,5 +1,7 @@
 # collided
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collided.md)
+
 <p><span class="chinese">公共汽车与客货车相撞。</span><span class="english">The bus and the van collided.</span></p>
 
 <p><span class="chinese">他的自行车撞在一辆卡车上。</span><span class="english">His bicycle collided with a lorry.</span></p>

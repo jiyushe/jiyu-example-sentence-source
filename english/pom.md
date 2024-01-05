@@ -1,5 +1,7 @@
 # pom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pom.md)
+
 <p><span class="chinese">请尝试百分之百的石榴汁，不额外添加糖分。</span><span class="english">Try 100 percent pomegranate juice from Pom Wonderful.</span></p>
 
 <p><span class="chinese">这只狗身穿喷气机队的T恤，头盔甚至还有一个加油彩球。</span><span class="english">The dog is wearing a Jets jersey helmet and is holding Jets pom poms.</span></p>

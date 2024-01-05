@@ -1,5 +1,7 @@
 # 杀害
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shahai.md)
+
 <p><span class="chinese">他们会杀害您的。</span><span class="english">They will kill you.</span></p>
 
 <p><span class="chinese">他们正密谋杀害他。</span><span class="english">They are plotting his murder.</span></p>

@@ -1,5 +1,7 @@
 # 油饼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youbing.md)
+
 <p><span class="chinese">味道真不赖，特别是那些花生酱牛油饼。</span><span class="english">It tastes so good, especially the peanut butter cups.</span></p>
 
 <p><span class="chinese">一个低脂松油饼，一块哈密瓜，一杯咖啡加一些脱脂牛奶。</span><span class="english">A low-fat muffin, a wedge of cantaloupe, and a cup of latte made with skim milk.</span></p>

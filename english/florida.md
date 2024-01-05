@@ -1,5 +1,7 @@
 # florida
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/florida.md)
+
 <p><span class="chinese">他们在佛罗里达州避寒。</span><span class="english">E. g. They wintered in Florida.</span></p>
 
 <p><span class="chinese">弗洛里达州今年排名第三。</span><span class="english">Florida placed third this year.</span></p>

@@ -1,5 +1,7 @@
 # collywobbles
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collywobbles.md)
+
 <p><span class="chinese">“肚子疼”和“震惊”。</span><span class="english">Collywobbles and Gobsmacked.</span></p>
 
 <p><span class="chinese">肚子疼怎么办，在没药的时间？</span><span class="english">How does collywobbles do, in the time of myrrh?</span></p>

@@ -1,5 +1,7 @@
 # 商港
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanggang.md)
+
 <p><span class="chinese">旧金山和纽约是美国的重要商港。</span><span class="english">San Francisco and New York are important mercantile ports in America.</span></p>
 
 <p><span class="chinese">阿布达比已经是国际化都市兼商港，异国风味的餐馆处处可见。</span><span class="english">Abu Dhabi is an internationalized city and harbor, and exotic restaurants can be found on every corner.</span></p>

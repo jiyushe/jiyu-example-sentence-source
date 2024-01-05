@@ -1,5 +1,7 @@
 # 自食其力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zishiqili.md)
+
 <p><span class="chinese">我儿子现在能自食其力了。</span><span class="english">My son can maintain himself now.</span></p>
 
 <p><span class="chinese">这一年来我是一个自食其力的小市民。</span><span class="english">I'm a ordinary citizen earned by myself all this year.</span></p>

@@ -1,5 +1,7 @@
 # 损益
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sunyi.md)
+
 <p><span class="chinese">所有汇兑盈亏均计入损益账内。</span><span class="english">All exchange differences are dealt with in the profit and loss account.</span></p>
 
 <p><span class="chinese">本文对非经常性损益相关文献进行了梳理和述评。</span><span class="english">The non-recurring gains and losses has combed the literature and commentary.</span></p>

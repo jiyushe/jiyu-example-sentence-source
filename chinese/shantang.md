@@ -1,5 +1,7 @@
 # 山塘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shantang.md)
+
 <p><span class="chinese">冬晨，最萧飒的应是山塘的雪吧！</span><span class="english">Winter morning, most of the bleak Shantang should be it snow!</span></p>
 
 <p><span class="chinese">两处好地方，无限好风光”便是对山塘的生动写照。</span><span class="english">The two wonderful places, infinitely good scenery. " The song gave a vivid portrayal of Shantang Street."</span></p>

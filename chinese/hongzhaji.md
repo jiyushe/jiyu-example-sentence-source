@@ -1,5 +1,7 @@
 # 轰炸机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongzhaji.md)
+
 <p><span class="chinese">还有B-2轰炸机。</span><span class="english">And B-2 bombers.</span></p>
 
 <p><span class="chinese">轰炸机正频繁光顾这个地区。</span><span class="english">Bombers are frequenting the area.</span></p>

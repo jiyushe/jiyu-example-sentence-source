@@ -1,5 +1,7 @@
 # niggardly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/niggardly.md)
+
 <p><span class="chinese">他用钱很吝啬。</span><span class="english">He is niggardly of money.</span></p>
 
 <p><span class="chinese">精打细算是一件吝啬的事。</span><span class="english">Nice calculation is a niggardly thing.</span></p>

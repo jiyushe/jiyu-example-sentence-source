@@ -1,5 +1,7 @@
 # stockbroker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stockbroker.md)
+
 <p><span class="chinese">如果你要买股票,可以找股票经纪人</span><span class="english">So if you want to buy stock you can call the stockbroker.</span></p>
 
 <p><span class="chinese">父亲霍华德是一名股票经纪人，担任过四届美国国会议员。</span><span class="english">His father was a stockbroker and four-term United States congressman.</span></p>

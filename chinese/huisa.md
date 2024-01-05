@@ -1,5 +1,7 @@
 # 挥洒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huisa.md)
+
 <p><span class="chinese">我弯下身，掬起一捧海水，向远方挥洒。</span><span class="english">I bent, held some water, threw to a distance.</span></p>
 
 <p><span class="chinese">在花坛中他们舞的多欢，挥洒着夏日甜味的香汗。</span><span class="english">How they dance in the parterre sweet summer sweat.</span></p>

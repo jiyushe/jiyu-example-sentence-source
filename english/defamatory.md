@@ -1,5 +1,7 @@
 # defamatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defamatory.md)
+
 <p><span class="chinese">若是有钱人家，而报纸刊登的文章又确是恶意中伤，那么他可以诽谤罪向法院起诉。</span><span class="english">If they are rich and the article is defamatory , they can sue for libel.</span></p>
 
 <p><span class="chinese">科索沃政府谴责这项调查结果是“毫无根据和诽谤的”。</span><span class="english">The Kosovan government has denounced its findings as "baseless and defamatory".</span></p>

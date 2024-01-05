@@ -1,5 +1,7 @@
 # 恩师
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/enshi.md)
+
 <p><span class="chinese">在求学的路上，我也遇到了我的恩师。</span><span class="english">In my studying way, I met my mentor.</span></p>
 
 <p><span class="chinese">恩师引领四众弟子念佛。</span><span class="english">The teacher led four Buddha disciple.</span></p>

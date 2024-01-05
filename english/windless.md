@@ -1,5 +1,7 @@
 # windless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/windless.md)
+
 <p><span class="chinese">都灵是一座无风的城市。</span><span class="english">Turin is a windless city.</span></p>
 
 <p><span class="chinese">今天是个风平浪静的日子。</span><span class="english">It's a windless day today.</span></p>

@@ -1,5 +1,7 @@
 # hooded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hooded.md)
+
 <p><span class="chinese">一个蒙面男子抓住基斯的手。</span><span class="english">A hooded man grabbed Keith's hand.</span></p>
 
 <p><span class="chinese">与人造毛皮内衬连帽外套。</span><span class="english">Hooded jacket lined with faux fur.</span></p>

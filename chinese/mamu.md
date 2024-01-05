@@ -1,5 +1,7 @@
 # 麻木
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mamu.md)
+
 <p><span class="chinese">我感觉很麻木.</span><span class="english">I feel numb.</span></p>
 
 <p><span class="chinese">——她们浑身麻木，挤成一堆。</span><span class="english">And they huddle, numbed.</span></p>

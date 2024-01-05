@@ -1,5 +1,7 @@
 # abu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abu.md)
+
 <p><span class="chinese">这解释了Abu，Ghraib监狱丑闻。</span><span class="english">This explains Abu Ghraib.</span></p>
 
 <p><span class="chinese">阿布日达几乎没有时间来说话。</span><span class="english">Abu Rida barely has time to talk.</span></p>

@@ -1,5 +1,7 @@
 # finisher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/finisher.md)
+
 <p><span class="chinese">他是个世界级的射手。</span><span class="english">He is a world-class finisher.</span></p>
 
 <p><span class="chinese">可能履行家具修理者的职责。</span><span class="english">May perform duties of furniture finisher.</span></p>

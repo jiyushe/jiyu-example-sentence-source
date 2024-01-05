@@ -1,5 +1,7 @@
 # 斩草除根
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhancaochugen.md)
+
 <p><span class="chinese">爱心犹如一把铲能把痛苦斩草除根。</span><span class="english">Love is like a shovel to the pain.</span></p>
 
 <p><span class="chinese">让我们借此势头，去消灭艾滋病，将它斩草除根。</span><span class="english">Let us use it to end AIDS – once and for all.</span></p>

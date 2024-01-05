@@ -1,5 +1,7 @@
 # 争风吃醋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengfengchicu.md)
+
 <p><span class="chinese">有两个家伙围绕着这个女人竞相角逐，争风吃醋。</span><span class="english">Two guys tried to beat each other's time around the woman.</span></p>
 
 <p><span class="chinese">我希望有一个对我性专一的老婆，这样我就不会因为争风吃醋而影响学业了。</span><span class="english">I want a wife who will remain sexually faithful to me so that I do not have to clutter up my intellectual life with jealousies.</span></p>

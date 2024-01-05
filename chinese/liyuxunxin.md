@@ -1,5 +1,7 @@
 # 利欲熏心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liyuxunxin.md)
+
 <p><span class="chinese">利欲熏心与金钱看上去仅仅加重了他们的盲目愚昧。</span><span class="english">The careerism and money seemed only to embolden their blindness.</span></p>
 
 <p><span class="chinese">在上帝面前，她是一个利欲熏心的罪人，必会受到惩罚。</span><span class="english">In front of God, she is a sinner with heart full of lust, who will definitely be punished.</span></p>

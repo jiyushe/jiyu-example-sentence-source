@@ -1,5 +1,7 @@
 # racetrack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/racetrack.md)
+
 <p><span class="chinese">从赛马场返回的车流灯光闪耀</span><span class="english">The flashing of traffic homeward from the racetrack</span></p>
 
 <p><span class="chinese">中国旅游，内蒙古，科尔沁，一个赛马场。</span><span class="english">China travel, Inner Mongolia, Horqin, a racetrack. Photo by KaKa.</span></p>

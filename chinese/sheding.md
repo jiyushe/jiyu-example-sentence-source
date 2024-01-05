@@ -1,5 +1,7 @@
 # 设定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sheding.md)
+
 <p><span class="chinese">你设定目标了吗？</span><span class="english">Have you set goals?</span></p>
 
 <p><span class="chinese">所以我设定在第二档。</span><span class="english">So I set mine to 2.</span></p>

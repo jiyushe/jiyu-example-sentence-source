@@ -1,5 +1,7 @@
 # cantabile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cantabile.md)
+
 <p><span class="chinese">时光如水，生命如歌。</span><span class="english">As time, life Cantabile.</span></p>
 
 <p><span class="chinese">愿你的幸福如歌。</span><span class="english">Would like your happy Cantabile.</span></p>

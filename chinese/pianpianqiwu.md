@@ -1,5 +1,7 @@
 # 翩翩起舞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianpianqiwu.md)
+
 <p><span class="chinese">他们都随着那恬静的音乐而翩翩起舞。</span><span class="english">They all danced to the quiet music.</span></p>
 
 <p><span class="chinese">他向奥琳比雅表白，并与她翩翩起舞。</span><span class="english">He declares his love and the two dance.</span></p>

@@ -1,5 +1,7 @@
 # 千差万别
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianchawanbie.md)
+
 <p><span class="chinese">字体形状千差万别，大小不一，颜色各异。</span><span class="english">Fonts come in all shapes and sizes and colours.</span></p>
 
 <p><span class="chinese">澜沧河大峡谷表现出千差万别的形态。</span><span class="english">The Lancang River Big Canyon shows a variety of features.</span></p>

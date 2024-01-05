@@ -1,5 +1,7 @@
 # rotator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rotator.md)
+
 <p><span class="chinese">内置振动器和旋转体。</span><span class="english">Vibrator and rotator are included.</span></p>
 
 <p><span class="chinese">本课题是设计管磨机的总体及其回转部分。</span><span class="english">The subject is to design ball mill and its rotator.</span></p>

@@ -1,5 +1,7 @@
 # sen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sen.md)
+
 <p><span class="chinese">魏森终于出现了！</span><span class="english">Wei Sen finally appeared!</span></p>
 
 <p><span class="chinese">大部分温泉都不允许穿着泳衣。</span><span class="english">Most on sen do not allow swim suits.</span></p>

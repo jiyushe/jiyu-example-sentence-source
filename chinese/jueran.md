@@ -1,5 +1,7 @@
 # 决然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jueran.md)
+
 <p><span class="chinese">他决然不参与那种鬼祟的阴谋活动。</span><span class="english">He wanted no part in that hole-and-corner conspiracy.</span></p>
 
 <p><span class="chinese">但是现在新一波的拉美裔移民则断然决然地坚持使用西班牙语。</span><span class="english">But the new Hispanics are determinedly sticking to Spanish.</span></p>

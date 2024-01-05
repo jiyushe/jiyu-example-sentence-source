@@ -1,5 +1,7 @@
 # 脸红
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianhong.md)
+
 <p><span class="chinese">我脸红了。</span><span class="english">I blushed.</span></p>
 
 <p><span class="chinese">她脸红了。</span><span class="english">She blushed.</span></p>

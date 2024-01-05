@@ -1,5 +1,7 @@
 # 告退
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaotui.md)
+
 <p><span class="chinese">我可以先告退吗？</span><span class="english">Could I be excused?</span></p>
 
 <p><span class="chinese">老鼠们大为沮丧地告退了。</span><span class="english">The mice withdrew in great dismay.</span></p>

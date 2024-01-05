@@ -1,5 +1,7 @@
 # layer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/layer.md)
+
 <p><span class="chinese">新建一个图层在它之上。</span><span class="english">Create a new layer above it.</span></p>
 
 <p><span class="chinese">干净的那层是甘油。</span><span class="english">The clear layer is glycerin.</span></p>

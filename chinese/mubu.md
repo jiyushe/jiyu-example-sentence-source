@@ -1,5 +1,7 @@
 # 幕布
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mubu.md)
+
 <p><span class="chinese">好的，就是两块幕布。</span><span class="english">OK, that's two curtains.</span></p>
 
 <p><span class="chinese">盛大的午夜传奇幕布开启！</span><span class="english">Biggest. Midnight opening.</span></p>

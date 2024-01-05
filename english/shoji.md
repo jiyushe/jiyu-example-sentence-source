@@ -1,5 +1,7 @@
 # shoji
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shoji.md)
+
 <p><span class="chinese">他转了身，消失在屏风后面。</span><span class="english">He turned and disappeared behind the shoji screen.</span></p>
 
 <p><span class="chinese">每天过著下将棋喝著茶的悠閒隐居生活。</span><span class="english">Drinking tea and playing shoji during a relax life everyday!</span></p>

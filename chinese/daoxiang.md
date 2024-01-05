@@ -1,5 +1,7 @@
 # 导向
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daoxiang.md)
+
 <p><span class="chinese">下临时导向基板到海底。</span><span class="english">Land the TGB to sea.</span></p>
 
 <p><span class="chinese">它并不以目标为导向。</span><span class="english">It wasn’t goal-oriented.</span></p>

@@ -1,5 +1,7 @@
 # virtuoso
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/virtuoso.md)
+
 <p><span class="chinese">这是一个炫技独家。</span><span class="english">This is a Virtuoso exclusive.</span></p>
 
 <p><span class="chinese">对曼联来说，这是一次如艺术家般的表现。</span><span class="english">For United, it was a virtuoso performance.</span></p>

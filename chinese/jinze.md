@@ -1,5 +1,7 @@
 # 尽责
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinze.md)
+
 <p><span class="chinese">一位尽责的家庭主妇总是把家收拾得乾乾净净的。</span><span class="english">A good housewife should keep her house spic -and-span.</span></p>
 
 <p><span class="chinese">尽力尽责去做，其余的都给他吧。</span><span class="english">Try my best to do the work, put others into His hands.</span></p>

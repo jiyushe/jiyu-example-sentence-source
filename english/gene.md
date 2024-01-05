@@ -1,5 +1,7 @@
 # gene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gene.md)
+
 <p><span class="chinese">自私的基因。</span><span class="english">The selfish gene.</span></p>
 
 <p><span class="chinese">这是为什么，吉恩？</span><span class="english">Why is that, Gene?</span></p>

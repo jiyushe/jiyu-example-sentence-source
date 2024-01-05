@@ -1,5 +1,7 @@
 # intensification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intensification.md)
+
 <p><span class="chinese">他把这种生活方式看作是“一种生命强化剂”。</span><span class="english">He accepted all this as ‘an intensification of life’.</span></p>
 
 <p><span class="chinese">在去年该届政府对此的关注一直在加强。</span><span class="english">In the last year there has been intensification of this administration's focus.</span></p>

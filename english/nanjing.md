@@ -1,5 +1,7 @@
 # nanjing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nanjing.md)
+
 <p><span class="chinese">南京人。</span><span class="english">From Nanjing.</span></p>
 
 <p><span class="chinese">你知道南京吗？</span><span class="english">Do you know Nanjing?</span></p>

@@ -1,5 +1,7 @@
 # isentropic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isentropic.md)
+
 <p><span class="chinese">等熵加载是目前研究材料状态方程的一种重要手段。</span><span class="english">Nowdays, isentropic loading is one of the important tools to be used in research for materials EOS.</span></p>
 
 <p><span class="chinese">沿等熵面高脊区的下滑急流与水汽图像暗区相当一致。</span><span class="english">The jet sliding along the ridge on isentropic surface is consistent with the dark zone in WV image.</span></p>

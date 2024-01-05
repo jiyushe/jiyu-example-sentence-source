@@ -1,5 +1,7 @@
 # 遗风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yifeng.md)
+
 <p><span class="chinese">胡佛留下的遗风毁誉参半。</span><span class="english">Hoover leaves a bipolar legacy.</span></p>
 
 <p><span class="chinese">那种时装是世纪年代的遗风。</span><span class="english">That fashion is a survival from thes.</span></p>

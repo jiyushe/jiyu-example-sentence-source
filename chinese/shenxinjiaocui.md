@@ -1,5 +1,7 @@
 # 身心交瘁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenxinjiaocui.md)
+
 <p><span class="chinese">她身心交瘁。</span><span class="english">She is quite broken up.</span></p>
 
 <p><span class="chinese">他因破产而身心交瘁。</span><span class="english">The bankruptcy curled him up.</span></p>

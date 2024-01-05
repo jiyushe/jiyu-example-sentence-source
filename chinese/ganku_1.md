@@ -1,5 +1,7 @@
 # 甘苦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganku_1.md)
+
 <p><span class="chinese">每个人的一生中都有其甘苦。</span><span class="english">Every life has its rosesandthorns.</span></p>
 
 <p><span class="chinese">生活总有苦与乐，甘苦参半。</span><span class="english">Every life has its roses and thorns.</span></p>

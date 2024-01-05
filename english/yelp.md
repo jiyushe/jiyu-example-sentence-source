@@ -1,5 +1,7 @@
 # yelp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yelp.md)
+
 <p><span class="chinese">让我了解到他们的Yelp的账户。</span><span class="english">I learn of their Yelp account.</span></p>
 
 <p><span class="chinese">那条狗发出痛苦的吠声。</span><span class="english">The dog let out a yelp of pain.</span></p>

@@ -1,5 +1,7 @@
 # increasing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/increasing.md)
+
 <p><span class="chinese">但我们在增加产量。</span><span class="english">But we are increasing.</span></p>
 
 <p><span class="chinese">每20年可提高的增长率</span><span class="english">Increasing growth every 20 years</span></p>

@@ -1,5 +1,7 @@
 # 老迈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laomai.md)
+
 <p><span class="chinese">老迈铛劳有一个农场。</span><span class="english">Old MacDonald had a farm.</span></p>
 
 <p><span class="chinese">那么是什么导致了老迈老人的死亡？</span><span class="english">So what does kill off the oldest old?</span></p>

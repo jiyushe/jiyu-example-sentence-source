@@ -1,5 +1,7 @@
 # sulky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sulky.md)
+
 <p><span class="chinese">他乘单座二轮马车进城了。</span><span class="english">He went to town by a sulky.</span></p>
 
 <p><span class="chinese">他对这事确实很生气。</span><span class="english">He was very sulky about it indeed.</span></p>

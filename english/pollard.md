@@ -1,5 +1,7 @@
 # pollard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pollard.md)
+
 <p><span class="chinese">波拉德在寒暄中开始了谈话。</span><span class="english">Pollard opened the conversation with some small talk.</span></p>
 
 <p><span class="chinese">你还记得艾塞克斯号的船长波拉德吗？</span><span class="english">You remember the story of the Essex and Captain Pollard?</span></p>

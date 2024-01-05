@@ -1,5 +1,7 @@
 # aragonite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aragonite.md)
+
 <p><span class="chinese">珍珠的外围是较厚的霰石晶层。</span><span class="english">And the outer layer is composed of aragonite tablets.</span></p>
 
 <p><span class="chinese">其中一个就是水体中的钙和霰石的水平。</span><span class="english">One indicator is the levels of calcium and aragonite.</span></p>

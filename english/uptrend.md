@@ -1,5 +1,7 @@
 # uptrend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uptrend.md)
+
 <p><span class="chinese">看涨行情结束标志一个新的上升趋势和买入点的出现。</span><span class="english">That bullish close signals a new uptrend and long entry.</span></p>
 
 <p><span class="chinese">新的上升趋势的发展面临着许多阻力障碍。</span><span class="english">The development of a new uptrend faces many resistance barriers.</span></p>

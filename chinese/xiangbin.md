@@ -1,5 +1,7 @@
 # 香槟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangbin.md)
+
 <p><span class="chinese">香槟香槟是什么？。</span><span class="english">What Is Cuvee Champagne?</span></p>
 
 <p><span class="chinese">粉红色的香槟浸着冰块。</span><span class="english">The pink champagne on ice.</span></p>

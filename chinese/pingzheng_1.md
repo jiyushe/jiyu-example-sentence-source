@@ -1,5 +1,7 @@
 # 平整
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingzheng_1.md)
+
 <p><span class="chinese">他们平整土地5000亩。</span><span class="english">They levelled 5000 mu of land.</span></p>
 
 <p><span class="chinese">将海苔片铺放在平整的桌面。</span><span class="english">Place the nori on a flat surface.</span></p>

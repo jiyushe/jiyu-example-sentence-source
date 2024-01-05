@@ -1,5 +1,7 @@
 # 心神
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinshen.md)
+
 <p><span class="chinese">漫画令我心神安宁。</span><span class="english">Cartooning calms me down.</span></p>
 
 <p><span class="chinese">每当我躺在床上不眠，或心神空茫，或默默沉思。</span><span class="english">I lIe In vacant or In pensIve mood.</span></p>

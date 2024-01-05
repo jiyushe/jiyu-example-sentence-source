@@ -1,5 +1,7 @@
 # 打扫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dasao.md)
+
 <p><span class="chinese">我可以打扫的。</span><span class="english">I can clean.</span></p>
 
 <p><span class="chinese">打扫了房间。</span><span class="english">Cleaned the house.</span></p>

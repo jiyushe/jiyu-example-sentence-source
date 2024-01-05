@@ -1,5 +1,7 @@
 # 红磷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/honglin.md)
+
 <p><span class="chinese">介绍了红磷公司HRS循环酸泵的结构和运行情况。</span><span class="english">The structure and operation of Honglin's HRS acid cycling pump are described.</span></p>
 
 <p><span class="chinese">毒药是酒精，钙，钛，红磷，氙气，二氧化硅组成的混合物。</span><span class="english">The poison is Alcoho , Calcium , Titanium , Red Phosphorus , Xenon , Silica , a mixture.</span></p>

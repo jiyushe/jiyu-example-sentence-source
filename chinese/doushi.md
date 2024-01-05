@@ -1,5 +1,7 @@
 # 斗士
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/doushi.md)
+
 <p><span class="chinese">这是真正的斗士的气魄。</span><span class="english">That is the true gladiator feeling.</span></p>
 
 <p><span class="chinese">巡洋战舰---永远的斗士。</span><span class="english">The battleship---a warrior all-time.</span></p>

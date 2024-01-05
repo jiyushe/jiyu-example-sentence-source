@@ -1,5 +1,7 @@
 # dutifully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dutifully.md)
+
 <p><span class="chinese">一字不漏地他的军队开始工艺解决这一问题。</span><span class="english">Dutifully his troops began to craft a solution.</span></p>
 
 <p><span class="chinese">橡胶圈很难按照大小排序，那客户提案呢？</span><span class="english">The rubber bands get dutifully sorted by size, but that client proposal?</span></p>

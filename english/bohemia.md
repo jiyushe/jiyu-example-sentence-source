@@ -1,5 +1,7 @@
 # bohemia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bohemia.md)
+
 <p><span class="chinese">他们人都是波西米亚人。</span><span class="english">Both of them are from Bohemia.</span></p>
 
 <p><span class="chinese">这是由捷克波希米亚为主。</span><span class="english">It was dominated by the Czechs of Bohemia.</span></p>

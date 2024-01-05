@@ -1,5 +1,7 @@
 # valedictory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/valedictory.md)
+
 <p><span class="chinese">临别的演说、言语、礼物。</span><span class="english">A valedictory speech, message, gift.</span></p>
 
 <p><span class="chinese">孩子们将会为KP2写段告别词。</span><span class="english">Children would write valedictory speeches about KP2.</span></p>

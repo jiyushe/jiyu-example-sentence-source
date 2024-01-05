@@ -1,5 +1,7 @@
 # 唯我独尊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiwoduzun.md)
+
 <p><span class="chinese">天上地下，唯我独尊。</span><span class="english">Heaven and earth, overweening.</span></p>
 
 <p><span class="chinese">但从一开始，他显然就有一种唯我独尊的心理。</span><span class="english">But from the start he plainly had an elevated sense of his own importance.</span></p>

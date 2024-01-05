@@ -1,5 +1,7 @@
 # 剪切力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianqieli.md)
+
 <p><span class="chinese">这种剪切力作用的结果是推动内质向前。</span><span class="english">The result of this shearing force is to push the endoplasm forward.</span></p>
 
 <p><span class="chinese">高抗剪切力，不会翘边，使用结构型离型纸。</span><span class="english">High shear retardant, no edge warp, using structural separating paper.</span></p>

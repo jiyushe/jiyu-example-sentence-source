@@ -1,5 +1,7 @@
 # abusiveness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abusiveness.md)
+
 <p><span class="chinese">这样的滥用跟获得这类力量的方式有关。</span><span class="english">Such abusiveness has to do with the manner in which such power was acquired.</span></p>
 
 <p><span class="chinese">吃空饷是一种滥用公共资源行为，其实质是权力失范。</span><span class="english">It is an abuse of public resources and basically a kind of power abusiveness.</span></p>

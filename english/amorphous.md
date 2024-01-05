@@ -1,5 +1,7 @@
 # amorphous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amorphous.md)
+
 <p><span class="chinese">玻璃是一种非晶形过冷液体。</span><span class="english">Glass is an amorphous sub-cooled liquid.</span></p>
 
 <p><span class="chinese">我真的弄不懂他那些乱七八糟的想法。</span><span class="english">I really can't understand his amorphous ideas.</span></p>

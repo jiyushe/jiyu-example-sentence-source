@@ -1,5 +1,7 @@
 # 谈笑风生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanxiaofengsheng.md)
+
 <p><span class="chinese">他们在餐桌上谈笑风生。</span><span class="english">They talk and laugh at a dinner table.</span></p>
 
 <p><span class="chinese">讲演者谈笑风生。使死气沉沉的会议顿添生气。</span><span class="english">The speaker's exuberance enlivened a boring conference.</span></p>

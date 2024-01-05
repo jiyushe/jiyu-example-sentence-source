@@ -1,5 +1,7 @@
 # sportsmanship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sportsmanship.md)
+
 <p><span class="chinese">他很有体育道德。</span><span class="english">He has good sportsmanship.</span></p>
 
 <p><span class="chinese">它是体育精神的所有部分。</span><span class="english">It's all part of sportsmanship.</span></p>

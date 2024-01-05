@@ -1,5 +1,7 @@
 # recliner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recliner.md)
+
 <p><span class="chinese">老爷子，买躺椅了？</span><span class="english">Father, to buy a recliner?</span></p>
 
 <p><span class="chinese">一个男人坐在活动躺椅上喝啤酒。</span><span class="english">A man sat in a recliner drinking beer.</span></p>

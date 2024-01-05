@@ -1,5 +1,7 @@
 # 理疗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liliao.md)
+
 <p><span class="chinese">克里巴里只是做了些理疗。</span><span class="english">Cribari only did physiotherapy treatments.</span></p>
 
 <p><span class="chinese">我建议你作理疗。</span><span class="english">I suggest that you get physiotherapy treatment.</span></p>

@@ -1,5 +1,7 @@
 # industrial 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/industrial.md)
+
 <p><span class="chinese">我喜欢学工业管理。</span><span class="english">I like industrial management.</span></p>
 
 <p><span class="chinese">我十分高兴你们参加加拿大工业展会的开幕式。</span><span class="english">Canadian Industrial Exhibition.</span></p>

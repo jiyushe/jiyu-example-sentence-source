@@ -1,5 +1,7 @@
 # astronomical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/astronomical.md)
+
 <p><span class="chinese">他是一位天文观测员。</span><span class="english">He is a astronomical observer.</span></p>
 
 <p><span class="chinese">成本也是个天文数字。</span><span class="english">And the cost can be astronomical.</span></p>

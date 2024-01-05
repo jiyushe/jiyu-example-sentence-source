@@ -1,5 +1,7 @@
 # dihydrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dihydrate.md)
+
 <p><span class="chinese">用流变相反应法合成了二水邻苯二甲酸镁。</span><span class="english">Magnesium phthalate dihydrate was synthesized by rheological phase reaction.</span></p>
 
 <p><span class="chinese">研究以二水磷酸氢钙为原料，采用煅烧法生产无水磷酸氢钙。</span><span class="english">Anhydrous calcium hydrogen phosphate was prepared by calcination of calcium hydrogen phosphate dihydrate.</span></p>

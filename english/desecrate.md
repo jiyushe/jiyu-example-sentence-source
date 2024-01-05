@@ -1,5 +1,7 @@
 # desecrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/desecrate.md)
+
 <p><span class="chinese">你亵渎了上帝的居所！</span><span class="english">You desecrate the house of god!</span></p>
 
 <p><span class="chinese">忽视公义，是践踏怜悯。</span><span class="english">To ignore justice is to desecrate mercy.</span></p>

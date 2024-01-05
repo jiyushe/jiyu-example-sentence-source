@@ -1,5 +1,7 @@
 # fishbowl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fishbowl.md)
+
 <p><span class="chinese">我在鱼缸里养了一只乌龟。</span><span class="english">I keep a turtle in the fishbowl.</span></p>
 
 <p><span class="chinese">只有一只鱼在鱼缸里。</span><span class="english">There is only one fish in the fishbowl.</span></p>

@@ -1,5 +1,7 @@
 # 三轮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanlun.md)
+
 <p><span class="chinese">启动第三轮改革?。</span><span class="english">Start the third-round reform?</span></p>
 
 <p><span class="chinese">他在第三轮中打输了。</span><span class="english">He missed out at the third round.</span></p>

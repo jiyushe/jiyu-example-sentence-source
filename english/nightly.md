@@ -1,5 +1,7 @@
 # nightly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nightly.md)
+
 <p><span class="chinese">我们在晚间新闻看到过吗？</span><span class="english">Did we see it on the nightly news?</span></p>
 
 <p><span class="chinese">事实上，每晚的缠绵确实起到了作用。</span><span class="english">And indeed, the nightly trysts did help.</span></p>

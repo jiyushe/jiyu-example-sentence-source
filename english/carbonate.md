@@ -1,5 +1,7 @@
 # carbonate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carbonate.md)
+
 <p><span class="chinese">这儿有1摩尔的碳酸钙产生。</span><span class="english">So, there's 1 mole of calcium carbonate.</span></p>
 
 <p><span class="chinese">锌不仅是碳酸酚酶。</span><span class="english">Zinc is not only phenol oxidase in carbonate.</span></p>

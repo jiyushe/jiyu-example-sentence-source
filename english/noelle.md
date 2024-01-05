@@ -1,5 +1,7 @@
 # noelle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noelle.md)
+
 <p><span class="chinese">我的大女儿诺艾尔现在就能很流利说了一口英语。</span><span class="english">My eldest daughter Noelle is fluent in English now.</span></p>
 
 <p><span class="chinese">诺勒并没有对我的幽默发笑，但我自己笑了。</span><span class="english">Noelle didn't laugh at my humor, but I chuckled to myself.</span></p>

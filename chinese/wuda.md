@@ -1,5 +1,7 @@
 # 武打
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuda.md)
+
 <p><span class="chinese">这部电影充满了武打动作。</span><span class="english">The film is full of actions.</span></p>
 
 <p><span class="chinese">指导演员排练武打场面。</span><span class="english">The actors rehearsed their parts.</span></p>

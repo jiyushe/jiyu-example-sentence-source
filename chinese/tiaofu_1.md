@@ -1,5 +1,7 @@
 # 条幅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaofu_1.md)
+
 <p><span class="chinese">过街天桥上都挂上鼓励步行和骑车的条幅。</span><span class="english">Crosswalks een got a fresh coat of paint to encourage walking and biking.</span></p>
 
 <p><span class="chinese">过街天桥上都挂上鼓励步行和骑车的条幅。</span><span class="english">Crosswalks even got a fresh coat of paint to encourage walking and biking.</span></p>

@@ -1,5 +1,7 @@
 # 古意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guyi.md)
+
 <p><span class="chinese">在瑶里，一城古意。</span><span class="english">In Yao Li, a city ancient.</span></p>
 
 <p><span class="chinese">古人的对联，高耸的书架及古意的装饰氛围，正是此酒店的设计主题。</span><span class="english">Ancient couplet, towering bookshelves and decorative atmosphere of old-fashioned, it is the hotel's design theme.</span></p>

@@ -1,5 +1,7 @@
 # 师道尊严
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shidaozunyan.md)
+
 <p><span class="chinese">第二部分主要从历史和现实两个层面，分析“师道尊严”应然地位与实然境遇的逆差。</span><span class="english">The second part has analyzed the different situation of "the absolute authority of the teachers" in the history and reality.</span></p>
 
 <p><span class="chinese">只有打破传统的“师道尊严”的壁垒，才能实践创新教育。</span><span class="english">We must break the bulwark of traditional dignity of teaching profession first, then we can carry out the innovation education.</span></p>

@@ -1,5 +1,7 @@
 # 油料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youliao.md)
+
 <p><span class="chinese">火神他的埃是不尽的油料和石头！</span><span class="english">Moloch whose love is endless oil and stone!</span></p>
 
 <p><span class="chinese">大面积的地已种上油料植物。</span><span class="english">Large acreages have been planted to oil crops.</span></p>

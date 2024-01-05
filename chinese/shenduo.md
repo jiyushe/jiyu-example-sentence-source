@@ -1,5 +1,7 @@
 # 审度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenduo.md)
+
 <p><span class="chinese">我想我应该重新审度我以后的生活，我的心和我的灵。</span><span class="english">I do really need to reevaluate my life , my heart and my soul?</span></p>
 
 <p><span class="chinese">我们必须重新审度自身在行业中的角色以及采取的策略。</span><span class="english">We must reassess our role in and our approach to this industry.</span></p>

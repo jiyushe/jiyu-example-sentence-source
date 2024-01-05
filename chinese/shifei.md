@@ -1,5 +1,7 @@
 # 施肥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shifei.md)
+
 <p><span class="chinese">草皮也应该被施肥。</span><span class="english">Sod should also be fertilized.</span></p>
 
 <p><span class="chinese">我要去拾马粪给我的园子施肥。</span><span class="english">I try to get horse hockey for my garden.</span></p>

@@ -1,5 +1,7 @@
 # liniment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liniment.md)
+
 <p><span class="chinese">可爱的柠檬搽剂。</span><span class="english">Lovely lemon liniment.</span></p>
 
 <p><span class="chinese">这擦剂第一次使用时感到炽热。</span><span class="english">The liniment burns when first applied.</span></p>

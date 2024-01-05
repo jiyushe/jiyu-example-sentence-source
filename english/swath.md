@@ -1,5 +1,7 @@
 # swath
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swath.md)
+
 <p><span class="chinese">洪水席卷了这一地区，满目一片疮痍。</span><span class="english">The flood cut a wide swath in this area.</span></p>
 
 <p><span class="chinese">还是一片没有破损、没有污点的皮肤？</span><span class="english">Or a swath of unbroken, unblemished skin?</span></p>

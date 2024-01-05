@@ -1,5 +1,7 @@
 # thousandth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thousandth.md)
+
 <p><span class="chinese">千岁暖。千分之一的温暖。</span><span class="english">Chitose warm. Thousandth of warmth.</span></p>
 
 <p><span class="chinese">一微米是一毫米的千分之一。</span><span class="english">A micrometer is one thousandth of one millimeter.</span></p>

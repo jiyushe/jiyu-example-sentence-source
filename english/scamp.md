@@ -1,5 +1,7 @@
 # scamp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scamp.md)
+
 <p><span class="chinese">不要在无赖身上浪费同情心。</span><span class="english">Do not waste your pity on a scamp.</span></p>
 
 <p><span class="chinese">吉米又把我的拖鞋藏起来了！</span><span class="english">That little scamp Jimmy has hidden my slippers again!</span></p>

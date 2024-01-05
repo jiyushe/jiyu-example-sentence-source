@@ -1,5 +1,7 @@
 # biaxial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biaxial.md)
+
 <p><span class="chinese">这是一列煤矿用的双轴的贡多拉车。</span><span class="english">A biaxial gondola car for coal.</span></p>
 
 <p><span class="chinese">这个理论能推广到双轴应力。</span><span class="english">This theory can be extended to biaxial stress.</span></p>

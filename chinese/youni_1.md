@@ -1,5 +1,7 @@
 # 油腻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youni_1.md)
+
 <p><span class="chinese">不油腻，很轻盈。</span><span class="english">Non-greasy and light.</span></p>
 
 <p><span class="chinese">这是一种油腻而又难消化的食品。</span><span class="english">It is. sort of heavy food.</span></p>

@@ -1,5 +1,7 @@
 # underwater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underwater.md)
+
 <p><span class="chinese">我在水里，准确地说，是水下。</span><span class="english">I was in water, underwater.</span></p>
 
 <p><span class="chinese">激潮是海面下一种强大的暗流。</span><span class="english">Riptide is a strong underwater current.</span></p>

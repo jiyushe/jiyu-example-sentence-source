@@ -1,5 +1,7 @@
 # subscription
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subscription.md)
+
 <p><span class="chinese">订阅费是多少？</span><span class="english">How much is the subscription?</span></p>
 
 <p><span class="chinese">订户的订阅名称。</span><span class="english">Subscriber's subscription name.</span></p>

@@ -1,5 +1,7 @@
 # 移花接木
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yihuajiemu.md)
+
 <p><span class="chinese">他的照片被移花接木，放在了一个肌肉发达的身体上。</span><span class="english">His picture was superimposed on a muscular body.</span></p>
 
 <p><span class="chinese">借用他人的句子和用词这种下意识的“移花接木”行为往往在我们最不经意的时候发生。</span><span class="english">The subliminal part of our brains pick up phrases and words when we least expect it.</span></p>

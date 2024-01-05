@@ -1,5 +1,7 @@
 # loo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loo.md)
+
 <p><span class="chinese">一首海洋之歌甜美而清晰噜噜。</span><span class="english">A sea song sweet and clear Loo loo.</span></p>
 
 <p><span class="chinese">基本上生活环境中只剩下你、你的厕所还有你的晨衣。</span><span class="english">Basically, it’s you, your loo and your dressing gown.</span></p>

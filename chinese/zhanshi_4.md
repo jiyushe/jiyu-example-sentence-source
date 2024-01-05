@@ -1,5 +1,7 @@
 # 战时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanshi_4.md)
+
 <p><span class="chinese">你的第一次战时演讲。</span><span class="english">Your first war-time speech.</span></p>
 
 <p><span class="chinese">我觉得自己就像一个战时的奸商。</span><span class="english">I feel like a war-time profiteer.</span></p>

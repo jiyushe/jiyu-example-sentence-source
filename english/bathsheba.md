@@ -1,5 +1,7 @@
 # bathsheba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bathsheba.md)
+
 <p><span class="chinese">乌利亚是拨示巴丈夫。</span><span class="english">Uriah was the husband of Bathsheba.</span></p>
 
 <p><span class="chinese">大卫王吩咐说，叫拔示巴来。</span><span class="english">Then King David said, 'Call in Bathsheba.'</span></p>

@@ -1,5 +1,7 @@
 # 地主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dizhu.md)
+
 <p><span class="chinese">地主的儿子是贱货！</span><span class="english">Landlord is the son of bitch!</span></p>
 
 <p><span class="chinese">这地主家有只大公鸡。</span><span class="english">Now this landlord had a cock.</span></p>

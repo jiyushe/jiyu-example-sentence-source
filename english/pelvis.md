@@ -1,5 +1,7 @@
 # pelvis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pelvis.md)
+
 <p><span class="chinese">不过我的盆骨有两处骨折。</span><span class="english">But I'd broken my pelvis in two places.</span></p>
 
 <p><span class="chinese">晃动骨盆向上，尾骨朝上。</span><span class="english">Rock pelvis upward so coccyx moves upward.</span></p>

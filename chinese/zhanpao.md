@@ -1,5 +1,7 @@
 # 战袍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanpao.md)
+
 <p><span class="chinese">这些球衣当然不仅仅只是提供给球迷们的，特殊的“比赛战袍”只是提供给球员们的。</span><span class="english">The jerseys are more than just presents for fans.</span></p>
 
 <p><span class="chinese">我还希望自己能重新穿上国家队的战袍。</span><span class="english">I also hope to recapture the Nazionale jersey too.</span></p>

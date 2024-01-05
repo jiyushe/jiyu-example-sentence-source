@@ -1,5 +1,7 @@
 # remold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remold.md)
+
 <p><span class="chinese">重塑民营企业精神，重点是塑造名牌产品。</span><span class="english">The key that remold the spirit of enterprise is shaped famous brand.</span></p>
 
 <p><span class="chinese">信息时代的到来，要求重新塑造图书馆员的形象。</span><span class="english">The advent of the information epoch demands to remold the librarians.</span></p>

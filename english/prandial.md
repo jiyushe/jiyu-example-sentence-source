@@ -1,5 +1,7 @@
 # prandial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prandial.md)
+
 <p><span class="chinese">蜂蜜可以当正餐饮用吗?。</span><span class="english">Can be honey used when prandial drink?</span></p>
 
 <p><span class="chinese">膳食安排可服用半流质、软饭。</span><span class="english">Prandial arrangement can take pappy, soft meal.</span></p>

@@ -1,5 +1,7 @@
 # 取道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qudao.md)
+
 <p><span class="chinese">他取道土耳其来到欧洲。</span><span class="english">He came to Europe via Turkey.</span></p>
 
 <p><span class="chinese">他取道上海飞往纽约。</span><span class="english">He flew to New York via Shanghai.</span></p>

@@ -1,5 +1,7 @@
 # incompletion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incompletion.md)
+
 <p><span class="chinese">内部装修的“未完”状态正是应委托人的要求。</span><span class="english">The interior incompletion is client's request.</span></p>
 
 <p><span class="chinese">一位顾客发现这个产品有一点不完整。</span><span class="english">A customer discovered the slight incompletion in the product.</span></p>

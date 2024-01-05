@@ -1,5 +1,7 @@
 # stead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stead.md)
+
 <p><span class="chinese">我代他去。</span><span class="english">I'll go in his stead.</span></p>
 
 <p><span class="chinese">他儿子约哈斯接续他作王。</span><span class="english">And Jehoahaz his son reigned in his stead.</span></p>

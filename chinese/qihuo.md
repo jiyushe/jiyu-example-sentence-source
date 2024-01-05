@@ -1,5 +1,7 @@
 # 期货
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qihuo.md)
+
 <p><span class="chinese">天津金谷期货经纪有限公司。</span><span class="english">Tianjin jingu future broking co. ltd.</span></p>
 
 <p><span class="chinese">泰恩·兰德尔是伦敦的一位石油期货经纪人。</span><span class="english">Taine Randell works in London as a broker.</span></p>

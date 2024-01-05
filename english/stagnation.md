@@ -1,5 +1,7 @@
 # stagnation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stagnation.md)
+
 <p><span class="chinese">因此它混淆了结果和最近的停滞。</span><span class="english">Hence its mixed results and recent stagnation.</span></p>
 
 <p><span class="chinese">气机郁滞是诱发疾病的关键。</span><span class="english">Stagnation of qi is crucial for recovery of disease.</span></p>

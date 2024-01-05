@@ -1,5 +1,7 @@
 # irrigate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irrigate.md)
+
 <p><span class="chinese">玉米收获后耕翻冬灌，消灭越冬螨体。</span><span class="english">Plow and irrigate in winter after harvest.</span></p>
 
 <p><span class="chinese">回用水可以用来进行农田灌溉。</span><span class="english">The water would be reused to irrigate crops.</span></p>

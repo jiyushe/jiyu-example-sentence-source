@@ -1,5 +1,7 @@
 # 心醉神迷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinzuishenmi.md)
+
 <p><span class="chinese">他们从不感到欢乐，但经常心醉神迷。</span><span class="english">Joy never, ecstasy forever.</span></p>
 
 <p><span class="chinese">或拨响令人心醉神迷的七弦琴。</span><span class="english">Or waked to ecstasy the living lyre.</span></p>

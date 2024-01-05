@@ -1,5 +1,7 @@
 # counterplea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/counterplea.md)
+
 <p><span class="chinese">票据抗辩制度是票据法的一项特殊的制度。</span><span class="english">Negotiable Instrument Counterplea system is an exceptional instrument law system.</span></p>
 
 <p><span class="chinese">债务人放弃对债务的抗辩权的，保证人仍有权抗辩。</span><span class="english">The guarantor still has the right to counterplea even if the debtor gives up the right to counterplea.</span></p>

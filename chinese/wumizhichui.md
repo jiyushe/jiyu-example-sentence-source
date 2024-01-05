@@ -1,5 +1,7 @@
 # 无米之炊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wumizhichui.md)
+
 <p><span class="chinese">我无法造无米之炊。</span><span class="english">I can't make bricks without straw.</span></p>
 
 <p><span class="chinese">你以为我可以造无米之炊么？没有数据，我怎么分析呢？</span><span class="english">If I don't have the data, how can I carry out the analysis?</span></p>

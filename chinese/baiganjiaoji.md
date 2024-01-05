@@ -1,5 +1,7 @@
 # 百感交集
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baiganjiaoji.md)
+
 <p><span class="chinese">而且，我百感交集关于这一决定。</span><span class="english">And, I have mixed feelings about this decision.</span></p>
 
 <p><span class="chinese">一说到我的职业，我总是百感交集。</span><span class="english">I have a, have a lot of feelings for my profession.</span></p>

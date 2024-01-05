@@ -1,5 +1,7 @@
 # enthusiasm 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enthusiasm_1.md)
+
 <p><span class="chinese">热情于谁。</span><span class="english">Enthusiasm for who.</span></p>
 
 <p><span class="chinese">他热情洋溢。</span><span class="english">He is brimful of enthusiasm.</span></p>

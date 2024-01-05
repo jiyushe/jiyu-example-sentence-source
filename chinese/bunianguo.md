@@ -1,5 +1,7 @@
 # 不粘锅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bunianguo.md)
+
 <p><span class="chinese">用不粘锅烹饪试的喷雾。</span><span class="english">Spray with nonstick cooking spray.</span></p>
 
 <p><span class="chinese">你留意寻找一个新的不粘锅定。</span><span class="english">You are on the lookout for a new cookware set.</span></p>

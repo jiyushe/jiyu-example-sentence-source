@@ -1,5 +1,7 @@
 # schizoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/schizoid.md)
+
 <p><span class="chinese">你一定是精神分裂了。</span><span class="english">You've got to have a schizoid approach.</span></p>
 
 <p><span class="chinese">对于有分裂性人格障碍的患者，他们是无性能力的。</span><span class="english">The patient with Schizoid Personality Disorder is asexual.</span></p>

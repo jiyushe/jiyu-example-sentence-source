@@ -1,5 +1,7 @@
 # 轮带
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lundai.md)
+
 <p><span class="chinese">而且为轮带的谢谢。</span><span class="english">And thanks for the tires.</span></p>
 
 <p><span class="chinese">检查在多馀的轮带下面的说者！</span><span class="english">Check out the speaker under the spare tire!</span></p>

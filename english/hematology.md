@@ -1,5 +1,7 @@
 # hematology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hematology.md)
+
 <p><span class="chinese">这是血液学杂志的网站。</span><span class="english">This is the web page of the Hematology Journal.</span></p>
 
 <p><span class="chinese">这是上海血液学研究所的网站。</span><span class="english">This is the website of Shanghai Institute of Hematology.</span></p>

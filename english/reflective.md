@@ -1,5 +1,7 @@
 # reflective
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reflective.md)
+
 <p><span class="chinese">这就是笛卡尔沉思或者叫反思之思。</span><span class="english">This is the Cartesian or reflective cogito.</span></p>
 
 <p><span class="chinese">轻低能见度的反光元素。</span><span class="english">Reflective elements for low-light visibility.</span></p>

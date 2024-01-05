@@ -1,5 +1,7 @@
 # 残破
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/canpo.md)
+
 <p><span class="chinese">票友之家，但残破的家园。</span><span class="english">Fancier houses, but broken homes.</span></p>
 
 <p><span class="chinese">你残破的躯体属于哈卡。</span><span class="english">Your broken body belongs to Hakkar.</span></p>

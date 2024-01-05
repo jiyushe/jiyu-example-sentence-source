@@ -1,5 +1,7 @@
 # baker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baker.md)
+
 <p><span class="chinese">张先生是个面包师傅。</span><span class="english">Mr. Zhang is a baker.</span></p>
 
 <p><span class="chinese">有没有香烟？烘炉？</span><span class="english">Any cigarettes? Baker?</span></p>

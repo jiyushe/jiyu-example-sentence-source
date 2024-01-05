@@ -1,5 +1,7 @@
 # 差点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chadian.md)
+
 <p><span class="chinese">为这事儿，我差点宰了他。</span><span class="english">I nearly killed him.</span></p>
 
 <p><span class="chinese">我差点杀了一个女孩！</span><span class="english">I almost killed a girl!</span></p>

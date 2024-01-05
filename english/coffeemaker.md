@@ -1,5 +1,7 @@
 # coffeemaker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coffeemaker.md)
+
 <p><span class="chinese">偶尔我还能在咖啡机里发现几只淹死的老鼠。</span><span class="english">I occasionally found drowned mice in the coffeemaker.</span></p>
 
 <p><span class="chinese">到1908年，第一个滴滤式咖啡壶问世。</span><span class="english">And by 1908, the first drip coffeemaker was introduced.</span></p>

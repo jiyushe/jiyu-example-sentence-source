@@ -1,5 +1,7 @@
 # 敬仰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingyang.md)
+
 <p><span class="chinese">每个人都敬仰邓。</span><span class="english">Everybody adores Deng.</span></p>
 
 <p><span class="chinese">他将永远受到人民的敬仰。</span><span class="english">He will be always honoured by the people.</span></p>

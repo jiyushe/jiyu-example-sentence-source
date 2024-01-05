@@ -1,5 +1,7 @@
 # armband
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/armband.md)
+
 <p><span class="chinese">旅游团的劣谟将在胳膊上佩戴红色臂章。</span><span class="english">The tour leader will be wearing a red armband.</span></p>
 
 <p><span class="chinese">主教练把袖标给我对我是个很大的激励。</span><span class="english">The manager gave me a big boost by giving me the armband.</span></p>

@@ -1,5 +1,7 @@
 # 蓝本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lanben.md)
+
 <p><span class="chinese">这部电影以鲁迅的小说为蓝本。</span><span class="english">The film ___a novel by Lu Xun.</span></p>
 
 <p><span class="chinese">美声唱法成了中国声乐教学的蓝本。</span><span class="english">It is the blueprint of the teaching of vocal music in China.</span></p>

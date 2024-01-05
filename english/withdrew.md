@@ -1,5 +1,7 @@
 # withdrew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/withdrew.md)
+
 <p><span class="chinese">弗里蒙特因此退出了竞选。</span><span class="english">Fremont withdrew from the race.</span></p>
 
 <p><span class="chinese">饭后女士们退席了。</span><span class="english">After dinner the ladies withdrew.</span></p>

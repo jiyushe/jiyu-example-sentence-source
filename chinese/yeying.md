@@ -1,5 +1,7 @@
 # 夜莺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yeying.md)
+
 <p><span class="chinese">夜莺歌唱。</span><span class="english">Nightingales sing.</span></p>
 
 <p><span class="chinese">于是夜莺不停地唱下去。</span><span class="english">The nightingale sang on.</span></p>

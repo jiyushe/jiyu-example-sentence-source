@@ -1,5 +1,7 @@
 # grimm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grimm.md)
+
 <p><span class="chinese">队长，我击落一架敌机！</span><span class="english">Grimm Captain, I've shot down an enemy plane!</span></p>
 
 <p><span class="chinese">当然不仅仅是对格林童话作了这样的处理。</span><span class="english">And not just with the work of the Brothers Grimm.</span></p>

@@ -1,5 +1,7 @@
 # kelly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kelly.md)
+
 <p><span class="chinese">钻完方钻杆。</span><span class="english">Drill the Kelly down.</span></p>
 
 <p><span class="chinese">要把方钻杆放在哪里？</span><span class="english">Where to set the kelly?</span></p>

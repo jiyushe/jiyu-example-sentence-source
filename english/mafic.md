@@ -1,5 +1,7 @@
 # mafic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mafic.md)
+
 <p><span class="chinese">层状堆晶在大型镁铁质侵入体中十分普遍。</span><span class="english">Cumulate layering is very common in large mafic intrusions.</span></p>
 
 <p><span class="chinese">黑云母一般是镁铁质及超镁铁质岩石中的次要成分。</span><span class="english">Biotite is a subordinate constituent of the mafic and ultramafic rocks generally.</span></p>

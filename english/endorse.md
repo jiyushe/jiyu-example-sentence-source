@@ -1,5 +1,7 @@
 # endorse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endorse.md)
+
 <p><span class="chinese">乌干达人赞同这一观点。</span><span class="english">Ugandans endorse this stance.</span></p>
 
 <p><span class="chinese">能麻烦你在支票背面背书吗？</span><span class="english">Can you endorse the back of check pls?</span></p>

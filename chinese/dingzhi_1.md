@@ -1,5 +1,7 @@
 # 定址
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingzhi_1.md)
+
 <p><span class="chinese">新出产线可能定址在四川成都。</span><span class="english">New product line may decide location to be in Sichuan Chengdu.</span></p>
 
 <p><span class="chinese">这些是16位元的区段位址空间定址的微处理器。</span><span class="english">These are 16 bit microprocessors with a segmented address space.</span></p>

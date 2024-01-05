@@ -1,5 +1,7 @@
 # seismology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seismology.md)
+
 <p><span class="chinese">他是有名的地震学专家。</span><span class="english">He is a famous seismology expert.</span></p>
 
 <p><span class="chinese">如今，金融地震学正当红。</span><span class="english">Now financial seismology is where it's all at.</span></p>

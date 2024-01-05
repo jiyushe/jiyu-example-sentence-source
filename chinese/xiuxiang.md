@@ -1,5 +1,7 @@
 # 休想
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuxiang.md)
+
 <p><span class="chinese">休想拿走我的负鼠。</span><span class="english">About taking my possum.</span></p>
 
 <p><span class="chinese">你休想从我这儿套出消息。</span><span class="english">You couldn't drag that information out of me.</span></p>

@@ -1,5 +1,7 @@
 # 冻僵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongjiang.md)
+
 <p><span class="chinese">他醒过来，冻僵了。</span><span class="english">He woke.</span></p>
 
 <p><span class="chinese">她像被冻僵了似的坐着。</span><span class="english">She sat as if frozen.</span></p>

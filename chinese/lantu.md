@@ -1,5 +1,7 @@
 # 蓝图
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lantu.md)
+
 <p><span class="chinese">什么是命理的蓝图？。</span><span class="english">What Are Numerological Blueprints?</span></p>
 
 <p><span class="chinese">蓝图搞好了吗?</span><span class="english">Have the blueprints been worked out?</span></p>

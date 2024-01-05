@@ -1,5 +1,7 @@
 # computable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/computable.md)
+
 <p><span class="chinese">工程科学中研究计算程序和结构的分支。</span><span class="english">The branch of engineering science that studies computable processes and structures.</span></p>
 
 <p><span class="chinese">SAM为基于可持续发展的广东经济可计算一般均衡模型提供基础数据支持。</span><span class="english">G-SAM can support Guangdong economic computable general equilibrium model in offering fundamental data.</span></p>

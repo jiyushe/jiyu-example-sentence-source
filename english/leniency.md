@@ -1,5 +1,7 @@
 # leniency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leniency.md)
+
 <p><span class="chinese">被告恳求宽大处理。</span><span class="english">The accused craved for leniency.</span></p>
 
 <p><span class="chinese">如果罪犯认罪，法官答应从宽发落。</span><span class="english">The judge promised leniency if the offender confessed.</span></p>

@@ -1,5 +1,7 @@
 # 唇齿相依
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chunchixiangyi.md)
+
 <p><span class="chinese">我们唇齿相依。</span><span class="english">We depend on each other like lips and teeth.</span></p>
 
 <p><span class="chinese">创造力和福祉是唇齿相依的。</span><span class="english">Creativity and well being are intricately interrelated.</span></p>

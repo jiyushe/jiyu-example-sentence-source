@@ -1,5 +1,7 @@
 # catv
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catv.md)
+
 <p><span class="chinese">有线电视合作得很好，很快就发现了新用途。</span><span class="english">CATV worked well, and soon new uses were found for it.</span></p>
 
 <p><span class="chinese">有线电视是一小段路说“社区天线电视”。</span><span class="english">CATV is a short way saying "community antenna television".</span></p>

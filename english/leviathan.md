@@ -1,5 +1,7 @@
 # leviathan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leviathan.md)
+
 <p><span class="chinese">正是艺术，创造了伟大的“利维坦。</span><span class="english">Through art, again, is created the great Leviathan.</span></p>
 
 <p><span class="chinese">除非你牺牲两张海岛，否则海怪此回合不能攻击。</span><span class="english">Sacrifice two islands during your upkeep phase to untap Leviathan.</span></p>

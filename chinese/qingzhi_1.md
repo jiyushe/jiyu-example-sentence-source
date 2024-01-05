@@ -1,5 +1,7 @@
 # 情致
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingzhi_1.md)
+
 <p><span class="chinese">还有无数的心中人情致心中。</span><span class="english">The hearts of countless people fantastic mind.</span></p>
 
 <p><span class="chinese">真诚地愿你拥有一种淡淡的情致。</span><span class="english">I wish, sincerely, you can hold a tranquil mood.</span></p>

@@ -1,5 +1,7 @@
 # gingerly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gingerly.md)
+
 <p><span class="chinese">那丫鬟小心翼翼地回道。</span><span class="english">That servant girl gingerly returns to way.</span></p>
 
 <p><span class="chinese">他小心翼翼地走过那腐烂的地板。</span><span class="english">He walked gingerly over the rotten floorboard.</span></p>

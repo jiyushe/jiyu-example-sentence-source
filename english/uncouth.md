@@ -1,5 +1,7 @@
 # uncouth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncouth.md)
+
 <p><span class="chinese">他的侄子是一个粗野的年轻人。</span><span class="english">His nephew is an uncouth young man.</span></p>
 
 <p><span class="chinese">那里脏兮兮的，文化又粗俗。</span><span class="english">It's dirty and has an uncouth culture.</span></p>

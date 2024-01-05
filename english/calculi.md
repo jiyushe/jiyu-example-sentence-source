@@ -1,5 +1,7 @@
 # calculi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calculi.md)
+
 <p><span class="chinese">学习肾脏结石的诊断与处。</span><span class="english">Learn the diagnosis and management of renal calculi.</span></p>
 
 <p><span class="chinese">临床应用37例，全部一次取尽结石。</span><span class="english">The complex staghorn calculi were completely removed in 37 cases.</span></p>

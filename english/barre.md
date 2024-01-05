@@ -1,5 +1,7 @@
 # barre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barre.md)
+
 <p><span class="chinese">什么是芭蕾舞巴利？。</span><span class="english">What is a Ballet Barre?</span></p>
 
 <p><span class="chinese">好，现在请到扶杆这里来。</span><span class="english">Ah, yes. Now the, to the barre please, Billy.</span></p>

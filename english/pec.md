@@ -1,5 +1,7 @@
 # pec
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pec.md)
+
 <p><span class="chinese">该运动称投票结果显示“毕恭毕敬”位居第四。</span><span class="english">The PEC said"With all due respect"was fourth in its poll.</span></p>
 
 <p><span class="chinese">最后数名首批下线的机械守卫被派至普里蒙星，担任保卫PEC的工作。</span><span class="english">The last few Alpha sentinels are dispatched to Primon to guard the PEC.</span></p>

@@ -1,5 +1,7 @@
 # 如雷贯耳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruleiguaner.md)
+
 <p><span class="chinese">久闻大名，如雷贯耳。</span><span class="english">Your name has tong resounded in my ears.</span></p>
 
 <p><span class="chinese">在卡萨布兰卡里克的大名是如雷贯耳啊。</span><span class="english">There's a great deal about Rick in Casablanca.</span></p>

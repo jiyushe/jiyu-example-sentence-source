@@ -1,5 +1,7 @@
 # 应援
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingyuan.md)
+
 <p><span class="chinese">你们的应援灯实在太棒了！！！</span><span class="english">Your guys' lanterns were just GREAT! ! ! !</span></p>
 
 <p><span class="chinese">让我们做SJ哥哥们最好的应援吧。</span><span class="english">Let us do the best to be brothers SJ aid bar.</span></p>

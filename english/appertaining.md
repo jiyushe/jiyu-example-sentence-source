@@ -1,5 +1,7 @@
 # appertaining
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appertaining.md)
+
 <p><span class="chinese">提出了科学、合理的配建停车场供应模式。</span><span class="english">Have put forward the rational supplying mode of the appertaining parking.</span></p>
 
 <p><span class="chinese">经理拥有居于高职位所具备的职责和特权。</span><span class="english">The manager has the duties and privileges appertaining to his high office.</span></p>

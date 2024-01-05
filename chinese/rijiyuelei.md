@@ -1,5 +1,7 @@
 # 日积月累
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rijiyuelei.md)
+
 <p><span class="chinese">要日积月累，付出长期的努力。</span><span class="english">Over time to pay long-term efforts.</span></p>
 
 <p><span class="chinese">日积月累，你的步法将越来越有效率。</span><span class="english">Over time, your gait will become more efficient.</span></p>

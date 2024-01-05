@@ -1,5 +1,7 @@
 # whelp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whelp.md)
+
 <p><span class="chinese">这狗崽子便是她唯一钟爱的人了！</span><span class="english">This whelp is the only person she loves!</span></p>
 
 <p><span class="chinese">我完全不知道该把这个崽子怎麽办。</span><span class="english">I had no idea what to do with this whelp.</span></p>

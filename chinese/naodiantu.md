@@ -1,5 +1,7 @@
 # 脑电图
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naodiantu.md)
+
 <p><span class="chinese">其中一个巧妙的方法是脑电图。</span><span class="english">One such clever method is an EEG.</span></p>
 
 <p><span class="chinese">心电图和脑电图也可能发生改变。</span><span class="english">EEG and ECG changes may also occur.</span></p>

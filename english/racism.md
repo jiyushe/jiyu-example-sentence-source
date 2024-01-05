@@ -1,5 +1,7 @@
 # racism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/racism.md)
+
 <p><span class="chinese">甚至连种族歧视现在也是自反性的。</span><span class="english">Even racism is now reflexive.</span></p>
 
 <p><span class="chinese">盛田昭夫认为这是种族主义偏见在作怪。</span><span class="english">He was suggesting the reason was racism.</span></p>

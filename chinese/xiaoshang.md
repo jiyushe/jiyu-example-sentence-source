@@ -1,5 +1,7 @@
 # 小商
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoshang.md)
+
 <p><span class="chinese">那家大公司兼并了多家小商行。</span><span class="english">The big company merged various small businesses.</span></p>
 
 <p><span class="chinese">司法长官负责监督不给小商小贩发营业执照。</span><span class="english">The sheriff sees that peddlers and salesmen are not given permits.</span></p>

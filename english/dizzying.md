@@ -1,5 +1,7 @@
 # dizzying
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dizzying.md)
+
 <p><span class="chinese">可供选择的方式多得让人眼花缭乱。</span><span class="english">The number of options is dizzying.</span></p>
 
 <p><span class="chinese">他的灵感以令人发晕的速度滋长着。</span><span class="english">His muse pullulated with dizzying speed.</span></p>

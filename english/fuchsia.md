@@ -1,5 +1,7 @@
 # fuchsia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fuchsia.md)
+
 <p><span class="chinese">我最喜欢的颜色是藕荷色。</span><span class="english">My favourite color is fuchsia.</span></p>
 
 <p><span class="chinese">这件粉红色细皱褶的雪纺纱罩衫有点太引人注目了。</span><span class="english">This fuchsia ruche chiffon blouse is a little too dramatic.</span></p>

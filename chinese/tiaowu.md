@@ -1,5 +1,7 @@
 # 跳舞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaowu.md)
+
 <p><span class="chinese">我们跳舞！</span><span class="english">We dance!</span></p>
 
 <p><span class="chinese">乐得跳舞！</span><span class="english">Happy Dance!</span></p>

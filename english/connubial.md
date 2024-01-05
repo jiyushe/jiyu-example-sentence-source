@@ -1,5 +1,7 @@
 # connubial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/connubial.md)
+
 <p><span class="chinese">配偶权在我国是一项有争议的权利。</span><span class="english">Connubial right is a contentious right in China.</span></p>
 
 <p><span class="chinese">她的不在已经给爱德华幸福的婚姻带来危险。</span><span class="english">Her absence had brought about danger to Edward's connubial happiness.</span></p>

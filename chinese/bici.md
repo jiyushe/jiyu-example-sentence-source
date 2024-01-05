@@ -1,5 +1,7 @@
 # 彼此
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bici.md)
+
 <p><span class="chinese">很了解彼此，一起长大。</span><span class="english">We grew up together.</span></p>
 
 <p><span class="chinese">会彼此相爱,会心生恐惧</span><span class="english">We love. We're afraid.</span></p>

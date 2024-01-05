@@ -1,5 +1,7 @@
 # hydrocele
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrocele.md)
+
 <p><span class="chinese">鞘膜积液几岁动手术最适合？</span><span class="english">How old are most suitable for hydrocele surgery?</span></p>
 
 <p><span class="chinese">近年来对鞘膜积液的治疗有了新的进展。</span><span class="english">There was new progression in the therapy of hydrocele.</span></p>

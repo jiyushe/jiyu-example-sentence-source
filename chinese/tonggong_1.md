@@ -1,5 +1,7 @@
 # 统共
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tonggong_1.md)
+
 <p><span class="chinese">他们统共有三十人。</span><span class="english">They were thirty in all.</span></p>
 
 <p><span class="chinese">我们统共10个人。</span><span class="english">We're altogether ten people.</span></p>

@@ -1,5 +1,7 @@
 # 石壁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shibi_2.md)
+
 <p><span class="chinese">丹尼的声音回响在焦黑的石壁之间。</span><span class="english">Dany's voice echoed off the scorched stone walls.</span></p>
 
 <p><span class="chinese">这一次，他将岩石放进他挖开的窟窿里，岩石稳稳地呆在里面，慢慢地形成了一面挡土石壁。</span><span class="english">Only this time, he placed rocks in the holes he dug.</span></p>

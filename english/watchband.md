@@ -1,5 +1,7 @@
 # watchband
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/watchband.md)
+
 <p><span class="chinese">最常见的是牛皮制的表带。</span><span class="english">The most common is the leather watchband.</span></p>
 
 <p><span class="chinese">所以，考究的人普通喜欢用皮表带。</span><span class="english">So, the people of ordinary love with leather watchband.</span></p>

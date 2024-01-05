@@ -1,5 +1,7 @@
 # 编写
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianxie.md)
+
 <p><span class="chinese">它是怎么编写的呢</span><span class="english">What was it?</span></p>
 
 <p><span class="chinese">我编写代码。</span><span class="english">I write code.</span></p>

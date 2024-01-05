@@ -1,5 +1,7 @@
 # indulgent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indulgent.md)
+
 <p><span class="chinese">阿切尔太太脸上露出宽容的微笑。</span><span class="english">Mrs. Archer produced an indulgent smile.</span></p>
 
 <p><span class="chinese">你太放纵孩子了。</span><span class="english">You are too indulgent with your children.</span></p>

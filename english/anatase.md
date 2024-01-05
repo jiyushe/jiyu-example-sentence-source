@@ -1,5 +1,7 @@
 # anatase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anatase.md)
+
 <p><span class="chinese">时已经观察不到锐钛矿型的衍射峰。</span><span class="english">Peaks of anatase were not observed at 750℃.</span></p>
 
 <p><span class="chinese">锐钛型钛白粉加入磷酸的探讨?。</span><span class="english">Why add phosphoric acid in anatase titanium dioxide?</span></p>

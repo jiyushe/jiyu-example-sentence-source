@@ -1,5 +1,7 @@
 # unappreciated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unappreciated.md)
+
 <p><span class="chinese">一个好的倾听者会去想要了解他们未被欣赏的原因。</span><span class="english">A good listener will want to understand the reason they feel unappreciated.</span></p>
 
 <p><span class="chinese">如果他们还是无法领悟，那就在你需要感激的时候告诉他们。</span><span class="english">And if they still don’t catch on, let them know when you feel unappreciated.</span></p>

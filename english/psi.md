@@ -1,5 +1,7 @@
 # psi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psi.md)
+
 <p><span class="chinese">我们要想一想psi真正的意义。</span><span class="english">We'll really think about what psi means.</span></p>
 
 <p><span class="chinese">我们可以叫它psi2，0，0波函数。</span><span class="english">So we'll call that psi 2, 0, wave function.</span></p>

@@ -1,5 +1,7 @@
 # deficient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deficient.md)
+
 <p><span class="chinese">本区水资源匮乏，地下水超采严重。</span><span class="english">Water resources in the area are deficient.</span></p>
 
 <p><span class="chinese">一些集水区将缺水。</span><span class="english">Some watershed areas will become deficient.</span></p>

@@ -1,5 +1,7 @@
 # 太平盛世
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taipingshengshi.md)
+
 <p><span class="chinese">这就是我们谈论的太平盛世的含义。</span><span class="english">That is what we mean when we talk about it.</span></p>
 
 <p><span class="chinese">真希望有一个信用卡的太平盛世！</span><span class="english">May there is a peaceful world using credit card.</span></p>

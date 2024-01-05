@@ -1,5 +1,7 @@
 # 阿飞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/afei.md)
+
 <p><span class="chinese">现在按一下阿飞的帽子和手套。</span><span class="english">Now click on ALFY's hat and mittens.</span></p>
 
 <p><span class="chinese">车子停下，小阿飞们走下车。</span><span class="english">The car stops and the Punks get out.</span></p>

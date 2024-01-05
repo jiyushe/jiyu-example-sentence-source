@@ -1,5 +1,7 @@
 # defecate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defecate.md)
+
 <p><span class="chinese">满脑大便的印度猪们。</span><span class="english">Full brain defecate India pigs.</span></p>
 
 <p><span class="chinese">10亿人在户外排便。</span><span class="english">Some 1 billion defecate outdoors.</span></p>

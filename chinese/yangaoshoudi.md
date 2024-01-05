@@ -1,5 +1,7 @@
 # 眼高手低
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangaoshoudi.md)
+
 <p><span class="chinese">第四步，不要眼高手低。</span><span class="english">The fourth step, do not Yangaoshoudi.</span></p>
 
 <p><span class="chinese">有时人们胃口太大，眼高手低。</span><span class="english">People sometimes bite off more than they can chew.</span></p>

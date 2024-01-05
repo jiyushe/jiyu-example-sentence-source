@@ -1,5 +1,7 @@
 # esterification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/esterification.md)
+
 <p><span class="chinese">两个自由羟基，都容易酯化。</span><span class="english">Both the free hydroxyl groups readily undergo esterification.</span></p>
 
 <p><span class="chinese">对酯化反应器的扩大增容设计具有十分重要的意义。</span><span class="english">In this paper, a set of experimental device of esterification.</span></p>

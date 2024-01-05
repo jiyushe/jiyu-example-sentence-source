@@ -1,5 +1,7 @@
 # speechwriter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/speechwriter.md)
+
 <p><span class="chinese">每一个伟大的演讲撰稿人都知道这一点。</span><span class="english">Every great speechwriter knows this.</span></p>
 
 <p><span class="chinese">但是里根根本不需要撰稿人，因为他自己就能胜任。</span><span class="english">But Reagan didn’t need a speechwriter. He was a good one himself.</span></p>

@@ -1,5 +1,7 @@
 # 轨枕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guizhen.md)
+
 <p><span class="chinese">如果您是平均轨枕，您的睡眠周期如下。</span><span class="english">If you are an average sleeper, your sleep cycle is as follows.</span></p>
 
 <p><span class="chinese">TEC可以提供各种轨枕及轨道紧固件。</span><span class="english">P-TEC provides sleepers for various systems and rail fastenings.</span></p>

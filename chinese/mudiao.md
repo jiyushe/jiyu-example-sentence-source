@@ -1,5 +1,7 @@
 # 木雕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mudiao.md)
+
 <p><span class="chinese">龙眼是木雕良材。</span><span class="english">Longan is wood timber.</span></p>
 
 <p><span class="chinese">这个木雕多少钱？</span><span class="english">How much is this wood carving?</span></p>

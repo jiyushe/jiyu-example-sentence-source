@@ -1,5 +1,7 @@
 # protect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/protect.md)
+
 <p><span class="chinese">保护你的商标。</span><span class="english">Protect your brand.</span></p>
 
 <p><span class="chinese">保护白海豚！</span><span class="english">To protect dolphins!</span></p>

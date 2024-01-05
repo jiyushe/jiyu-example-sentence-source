@@ -1,5 +1,7 @@
 # 备份
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beifen.md)
+
 <p><span class="chinese">备份文件。</span><span class="english">Back up files.</span></p>
 
 <p><span class="chinese">冷备份或离线备份。</span><span class="english">Cold or offline backups.</span></p>

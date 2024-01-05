@@ -1,5 +1,7 @@
 # obscurity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obscurity.md)
+
 <p><span class="chinese">这是一种挑战我们朦胧思想的方法。</span><span class="english">It is a way to defy our obscurity.</span></p>
 
 <p><span class="chinese">在此后的两年里，这首歌一直默默无闻。</span><span class="english">The song remained in obscurity for two years.</span></p>

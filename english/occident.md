@@ -1,5 +1,7 @@
 # occident
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/occident.md)
+
 <p><span class="chinese">讨论欧美流行音乐！</span><span class="english">I love occident music!</span></p>
 
 <p><span class="chinese">西方又一个有偏见的观点。</span><span class="english">A jaundiced POV from the biased Occident.</span></p>

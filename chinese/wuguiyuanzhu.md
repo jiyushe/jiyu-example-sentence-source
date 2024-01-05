@@ -1,5 +1,7 @@
 # 物归原主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuguiyuanzhu.md)
+
 <p><span class="chinese">独木舟立即物归原主。</span><span class="english">To carry or send by canoe.</span></p>
 
 <p><span class="chinese">你把金箍棒物归原主了么？</span><span class="english">Did you return the staff to rightful owner?</span></p>

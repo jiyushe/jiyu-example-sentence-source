@@ -1,5 +1,7 @@
 # quinine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quinine.md)
+
 <p><span class="chinese">金鸡纳霜是治疗风寒的药方。</span><span class="english">Quinine is a cure for colds.</span></p>
 
 <p><span class="chinese">奎宁是治疗疟的良药。</span><span class="english">Quinine is the medicine for malaria.</span></p>

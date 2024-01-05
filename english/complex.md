@@ -1,5 +1,7 @@
 # complex
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/complex.md)
+
 <p><span class="chinese">一点都不复杂。</span><span class="english">Not complex at all.</span></p>
 
 <p><span class="chinese">是伊拉克特拉情结吗？</span><span class="english">The Electra complex?</span></p>

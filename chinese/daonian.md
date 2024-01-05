@@ -1,5 +1,7 @@
 # 叨念
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daonian.md)
+
 <p><span class="chinese">“可怜的孩子，”他叨念出声来。</span><span class="english">Poor child, " he said aloud ."</span></p>
 
 <p><span class="chinese">他妈妈天天叨念着他。</span><span class="english">He was sounded by his mother every day.</span></p>

@@ -1,5 +1,7 @@
 # lonesome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lonesome.md)
+
 <p><span class="chinese">在那陌生的地方我觉得寂寞。</span><span class="english">I felt lonesome in the strange land.</span></p>
 
 <p><span class="chinese">我想知道今晚你是否寂寞。</span><span class="english">I wonder if you're lonesome tonight.</span></p>

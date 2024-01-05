@@ -1,5 +1,7 @@
 # 失踪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizong_1.md)
+
 <p><span class="chinese">这个失踪男子的名字叫刘小平。</span><span class="english">He was Liu Xiaoping.</span></p>
 
 <p><span class="chinese">我的宠物猫失踪了。</span><span class="english">My pet cat disappeared.</span></p>

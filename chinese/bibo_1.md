@@ -1,5 +1,7 @@
 # 鄙薄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bibo_1.md)
+
 <p><span class="chinese">金钱和鄙薄，才是守财奴的养料。</span><span class="english">Misers thrive on money and contempt.</span></p>
 
 <p><span class="chinese">文人每好鄙薄富人，然于诗文之佳者，又往往以金玉珠玑锦绣誉之，则又何也？</span><span class="english">Scholars often jeer at the rich. Then when they praise a piece of composition, why do they.</span></p>

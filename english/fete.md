@@ -1,5 +1,7 @@
 # fete
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fete.md)
+
 <p><span class="chinese">明年的今天，就是你的祭日！</span><span class="english">The same day next year is you fete day !</span></p>
 
 <p><span class="chinese">常被宴请表示还有身价！</span><span class="english">Is often fete means that there are worth!</span></p>

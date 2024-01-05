@@ -1,5 +1,7 @@
 # 兵变
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingbian.md)
+
 <p><span class="chinese">到了一月份，就爆发成为兵变。</span><span class="english">In January it broke out into muting.</span></p>
 
 <p><span class="chinese">兵变的直接原因，是新的埃菲尔德步枪。</span><span class="english">The immediate cause of the mutiny was the new Enfield rifle.</span></p>

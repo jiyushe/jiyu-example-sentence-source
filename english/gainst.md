@@ -1,5 +1,7 @@
 # gainst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gainst.md)
+
 <p><span class="chinese">牧师祈祷反对骄傲和犯罪。</span><span class="english">The parson prayed' gainst pride and sin.</span></p>
 
 <p><span class="chinese">请把椅子靠在墙壁上。</span><span class="english">Please push the ladder a gainst the wall.</span></p>

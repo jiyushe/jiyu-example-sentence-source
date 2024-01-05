@@ -1,5 +1,7 @@
 # loire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loire.md)
+
 <p><span class="chinese">卢瓦尔河谷的舍农索城堡</span><span class="english">Chenonceau Castle, Loire Valley</span></p>
 
 <p><span class="chinese">这就是那个卢瓦尔的匪徒了。</span><span class="english">He was the "brigand of the Loire."</span></p>

@@ -1,5 +1,7 @@
 # amorous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amorous.md)
+
 <p><span class="chinese">是什么激发了我多情的诗篇？</span><span class="english">What inspired this  amorous rhyme?</span></p>
 
 <p><span class="chinese">那是小妖风情万种的笑颜。</span><span class="english">It is small demon amorous feelings bloom.</span></p>

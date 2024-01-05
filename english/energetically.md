@@ -1,5 +1,7 @@
 # energetically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/energetically.md)
+
 <p><span class="chinese">积极扩大居民消费需求。</span><span class="english">We will energetically expand consumer demand.</span></p>
 
 <p><span class="chinese">积极发展文化、体育事业。</span><span class="english">We energetically developed culture and sports.</span></p>

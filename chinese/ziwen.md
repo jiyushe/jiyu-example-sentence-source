@@ -1,5 +1,7 @@
 # 咨文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziwen.md)
+
 <p><span class="chinese">杜宾在美国有线电视新闻网的“国情咨文”中出现。</span><span class="english">" Durbin was on CNN's "State of the Union.</span></p>
 
 <p><span class="chinese">公众对奥巴马国情咨文讲话的反应不一。</span><span class="english">Reaction to the president's address has been mixed.</span></p>

@@ -1,5 +1,7 @@
 # slipstream
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slipstream.md)
+
 <p><span class="chinese">这些涡流限定了滑流并产生诱导速度。</span><span class="english">These vortices define a slipstream and generate induced velocities.</span></p>
 
 <p><span class="chinese">泉水涌动着死海的水，形成一种幻影般的水流效果。</span><span class="english">The springs roil the waters they flow into in a phantasmal slipstream.</span></p>

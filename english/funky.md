@@ -1,5 +1,7 @@
 # funky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/funky.md)
+
 <p><span class="chinese">嘿！那是一部顶呱呱的车。</span><span class="english">Hey, that's a funky car.</span></p>
 
 <p><span class="chinese">我得头发今天很不乖、很难整理。</span><span class="english">My hair is so funky today.</span></p>

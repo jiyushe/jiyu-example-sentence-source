@@ -1,5 +1,7 @@
 # syllabary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/syllabary.md)
+
 <p><span class="chinese">第三章整理出了岳阳县筻口镇话的同音字汇。</span><span class="english">The third chapter cleans up the syllabary of Gengkou dialect.</span></p>
 
 <p><span class="chinese">一千年的汉唐文化对日本假名影响重大。</span><span class="english">A 1000-year-old Han-Tang culture had a major impact on the syllabary.</span></p>

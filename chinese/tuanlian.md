@@ -1,5 +1,7 @@
 # 团练
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuanlian.md)
+
 <p><span class="chinese">对凯瑟林来说单练好还是团练好？</span><span class="english">Q. Which is better with Catherine, solo or group?</span></p>
 
 <p><span class="chinese">所有比赛事宜及团练会在此版公告。</span><span class="english">Any competitions and trainings will be announced in this board.</span></p>

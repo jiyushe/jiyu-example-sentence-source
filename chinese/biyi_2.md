@@ -1,5 +1,7 @@
 # 鼻翼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biyi_2.md)
+
 <p><span class="chinese">我失去了鼻翼！</span><span class="english">I missed the nose!</span></p>
 
 <p><span class="chinese">迎香穴在鼻翼外缘中点。</span><span class="english">The midpoint of the alar rim Yingxiang point.</span></p>

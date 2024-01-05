@@ -1,5 +1,7 @@
 # debility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/debility.md)
+
 <p><span class="chinese">懒则衰。</span><span class="english">Laziness leads to debility.</span></p>
 
 <p><span class="chinese">现代男人站着理亏，躺着肾亏。</span><span class="english">Modern man station indefensible, lie sexual debility.</span></p>

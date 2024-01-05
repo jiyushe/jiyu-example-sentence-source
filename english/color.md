@@ -1,5 +1,7 @@
 # color
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/color.md)
+
 <p><span class="chinese">涂色。</span><span class="english">Color.</span></p>
 
 <p><span class="chinese">我会著色。</span><span class="english">I can color.</span></p>

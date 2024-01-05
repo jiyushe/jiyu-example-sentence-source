@@ -1,5 +1,7 @@
 # doorstep
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doorstep.md)
+
 <p><span class="chinese">门阶上摆着万圣节前夜的南瓜灯。</span><span class="english">A Halloween jack-o’-lantern on the doorstep.</span></p>
 
 <p><span class="chinese">新闻记者整天在他门口纠缠著不走。</span><span class="english">Newspapermen camped at his doorstep all day.</span></p>

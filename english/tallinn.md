@@ -1,5 +1,7 @@
 # tallinn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tallinn.md)
+
 <p><span class="chinese">但是另一条旅游线路是参观北约塔林外的网络战争中心。</span><span class="english">But the other was a visit to NATO's cyber-warfare centre outside Tallinn.</span></p>
 
 <p><span class="chinese">就算考虑到下雪，古老的塔林镇也安静得有点异常。</span><span class="english">EVEN allowing for snow, the medieval Old Town of Tallinn is unnaturally quiet.</span></p>

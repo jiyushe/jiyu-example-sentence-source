@@ -1,5 +1,7 @@
 # tam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tam.md)
+
 <p><span class="chinese">我不知道经理，谭先生，确实存在。</span><span class="english">I am not sure if Mr. Tam really exists.</span></p>
 
 <p><span class="chinese">谭公是船员的保护神。</span><span class="english">Tam Kung is a patron saint of seafarers.</span></p>

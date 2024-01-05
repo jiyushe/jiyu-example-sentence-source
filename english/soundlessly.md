@@ -1,5 +1,7 @@
 # soundlessly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soundlessly.md)
+
 <p><span class="chinese">很害怕，他静悄悄的坐在那里。</span><span class="english">Frightened , he sits there soundlessly.</span></p>
 
 <p><span class="chinese">是胡安娜起身了，几乎没有声音。</span><span class="english">It was Juana arising, almost soundlessly.</span></p>

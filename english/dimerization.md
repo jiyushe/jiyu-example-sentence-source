@@ -1,5 +1,7 @@
 # dimerization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dimerization.md)
+
 <p><span class="chinese">与MAO组成的催化体系，催化乙烯二聚得到1-丁烯。</span><span class="english">Combined with MAO for dimerization of ethylene to 1-butene.</span></p>
 
 <p><span class="chinese">二聚过程在较低温度或常温下能自发进行。</span><span class="english">The dimerization process can occur spontaneously at lower or room temperature.</span></p>

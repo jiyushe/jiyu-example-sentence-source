@@ -1,5 +1,7 @@
 # imprecise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imprecise.md)
+
 <p><span class="chinese">我们的日常用语中有相当一部分是不确定语。</span><span class="english">There are quite a few imprecise words in our daily expressions.</span></p>
 
 <p><span class="chinese">我们的日常用语中有相当一部分是不确定词。</span><span class="english">Quite a number of imprecise words are used in our everyday speech.</span></p>

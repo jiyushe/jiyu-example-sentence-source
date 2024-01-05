@@ -1,5 +1,7 @@
 # printed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/printed.md)
+
 <p><span class="chinese">是否能够打印发票？</span><span class="english">Can invoices be printed?</span></p>
 
 <p><span class="chinese">我印了这张报纸。</span><span class="english">I printed this newspaper.</span></p>

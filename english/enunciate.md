@@ -1,5 +1,7 @@
 # enunciate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enunciate.md)
+
 <p><span class="chinese">这就强迫你去发音清晰。</span><span class="english">This forces you to enunciate.</span></p>
 
 <p><span class="chinese">演员必须发音吐词清楚。</span><span class="english">An actor has to enunciate clearly.</span></p>

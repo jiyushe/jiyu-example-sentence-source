@@ -1,5 +1,7 @@
 # 多才多艺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duocaiduoyi.md)
+
 <p><span class="chinese">他是个多才多艺的作家。</span><span class="english">He is a very versatile writer.</span></p>
 
 <p><span class="chinese">他是一个机敏而又多才多艺的才子。</span><span class="english">He is a nimble and versatile wit.</span></p>

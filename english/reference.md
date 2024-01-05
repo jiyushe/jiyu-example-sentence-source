@@ -1,5 +1,7 @@
 # reference 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reference.md)
+
 <p><span class="chinese">参考书室在哪里？</span><span class="english">Where's the reference room?</span></p>
 
 <p><span class="chinese">这指的是驱逐。</span><span class="english">This is a reference to exile.</span></p>

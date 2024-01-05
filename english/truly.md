@@ -1,5 +1,7 @@
 # truly 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/truly.md)
+
 <p><span class="chinese">我真的关心！</span><span class="english">I truly cared!</span></p>
 
 <p><span class="chinese">我真的非常抱歉！</span><span class="english">I am truly sorry.</span></p>

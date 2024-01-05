@@ -1,5 +1,7 @@
 # 收讫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouqi_2.md)
+
 <p><span class="chinese">出纳员在账单上盖上“收讫”印记。</span><span class="english">The cashier receipted the bill.</span></p>
 
 <p><span class="chinese">他在发票上盖上了“收讫”字样。</span><span class="english">He stamped “receipt”on the bill.</span></p>

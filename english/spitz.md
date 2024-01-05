@@ -1,5 +1,7 @@
 # spitz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spitz.md)
+
 <p><span class="chinese">斯皮兹现在是回天乏术了。</span><span class="english">There was no hope for Spitz now.</span></p>
 
 <p><span class="chinese">芬兰波美拉尼亚丝毛狗的样子很象狐狸。</span><span class="english">The Finnish Spitz presents a fox-like picture.</span></p>

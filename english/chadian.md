@@ -1,5 +1,7 @@
 # chadian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chadian.md)
+
 <p><span class="chinese">乍得总统代比说，协助来得不够快。</span><span class="english">Chadian President Idriss Deby says help is not coming soon enough.</span></p>
 
 <p><span class="chinese">当日，杨洁篪还与乍得外长法基举行会谈。</span><span class="english">Yang also held talks with his Chadian counterpart Moussa Faki Mahamat.</span></p>

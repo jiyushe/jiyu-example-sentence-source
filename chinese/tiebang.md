@@ -1,5 +1,7 @@
 # 铁棒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiebang.md)
+
 <p><span class="chinese">他把铁棒弄弯了。</span><span class="english">He curved the iron bar.</span></p>
 
 <p><span class="chinese">他把一根铁棒锉成两截。</span><span class="english">He filed an iron rod in two.</span></p>

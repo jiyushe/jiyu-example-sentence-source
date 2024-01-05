@@ -1,5 +1,7 @@
 # dicom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dicom.md)
+
 <p><span class="chinese">DICOM标准是在医学信息学领域中正在兴起的标准。</span><span class="english">DICOM is a standard developing in the field of medical informatics.</span></p>
 
 <p><span class="chinese">DICOM标准的出现又进一步大大推进了这一领域的研究。</span><span class="english">And the appearance of DICOM standard greatly boosts the research of this area.</span></p>

@@ -1,5 +1,7 @@
 # 虫胶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongjiao.md)
+
 <p><span class="chinese">这种涂料是虫胶与酒精的混合物。</span><span class="english">The coating was a mixture of shellac and alcohol.</span></p>
 
 <p><span class="chinese">她想给这张桌子上虫胶漆，以防止它受水渍的影响。</span><span class="english">She wanted to shellac the desk to protect it from water spots.</span></p>

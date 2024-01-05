@@ -1,5 +1,7 @@
 # icebreaker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/icebreaker.md)
+
 <p><span class="chinese">原子破冰船穿过冰山之间向前航行。</span><span class="english">The atomic icebreaker reeved the icebergs.</span></p>
 
 <p><span class="chinese">堀圭一是欧若拉冰船的船长。</span><span class="english">Keiichi Hori is captain of the icebreaker "Aurora".</span></p>

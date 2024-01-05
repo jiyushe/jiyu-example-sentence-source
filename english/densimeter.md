@@ -1,5 +1,7 @@
 # densimeter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/densimeter.md)
+
 <p><span class="chinese">研制了一种非接触式、高精度核子密度计。</span><span class="english">A kind of non-contact high precision nuclear densimeter was developed.</span></p>
 
 <p><span class="chinese">本方法为核密度计的现场率定提供了一种简便易行、准确可靠的新途径。</span><span class="english">This method provides a simpler, more accurate and reliable way to calibrate densimeter on the spot.</span></p>

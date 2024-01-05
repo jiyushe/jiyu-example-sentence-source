@@ -1,5 +1,7 @@
 # 不闻不问
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buwenbuwen.md)
+
 <p><span class="chinese">对于你的粗暴无礼，我再也不能不闻不问了。</span><span class="english">I can't ignore your rudeness any longer.</span></p>
 
 <p><span class="chinese">他对于一切求助的呼声都不闻不问。</span><span class="english">He shut his ears to all appeals for help.</span></p>

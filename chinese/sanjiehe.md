@@ -1,5 +1,7 @@
 # 三结合
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanjiehe.md)
+
 <p><span class="chinese">当前，三结合基地面临着旧机制运行不畅，新机制尚未完全建立的问题。</span><span class="english">Base construction is in the process of the old and new mechanisms transformation.</span></p>
 
 <p><span class="chinese">骨骼系统病变的正确诊断仍需依靠临床、病理及影像三结合的模式。</span><span class="english">Correct diagnose of bone lesions requires combining biopsy, radiology and clinical data.</span></p>

@@ -1,5 +1,7 @@
 # 政权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengquan_1.md)
+
 <p><span class="chinese">政权的傀儡木偶？</span><span class="english">Puppets of the state?</span></p>
 
 <p><span class="chinese">苏联工农***政权裙钗不休息。</span><span class="english">No rest for Soviet women.</span></p>

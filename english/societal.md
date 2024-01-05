@@ -1,5 +1,7 @@
 # societal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/societal.md)
+
 <p><span class="chinese">那社会变革呢？</span><span class="english">How about societal change?</span></p>
 
 <p><span class="chinese">但是这需要一个社会的决定。</span><span class="english">But this requires a societal decision.</span></p>

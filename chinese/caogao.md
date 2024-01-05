@@ -1,5 +1,7 @@
 # 草稿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caogao.md)
+
 <p><span class="chinese">我到现在甚至连个草稿都没有。</span><span class="english">I didn’t even have a draft.</span></p>
 
 <p><span class="chinese">终究保存在草稿箱。</span><span class="english">It is preserved in the draft box.</span></p>

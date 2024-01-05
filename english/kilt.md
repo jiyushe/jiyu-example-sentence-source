@@ -1,5 +1,7 @@
 # kilt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kilt.md)
+
 <p><span class="chinese">我不想穿褶裥短裙。</span><span class="english">I didn't fancy myself wearing a kilt.</span></p>
 
 <p><span class="chinese">今天我去大学上课时穿着苏格兰裙子。</span><span class="english">Today, I wore my kilt to the university I attend.</span></p>

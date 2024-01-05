@@ -1,5 +1,7 @@
 # nonstop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonstop.md)
+
 <p><span class="chinese">这趟公共汽车中途不停。</span><span class="english">This is a nonstop bus.</span></p>
 
 <p><span class="chinese">高级课程班是没有休息的。</span><span class="english">The advanced class is nonstop.</span></p>

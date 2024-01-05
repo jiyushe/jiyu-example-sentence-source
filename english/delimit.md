@@ -1,5 +1,7 @@
 # delimit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/delimit.md)
+
 <p><span class="chinese">必须使用单引号确定每个别名的界限。</span><span class="english">Single quotation marks must delimit each alias.</span></p>
 
 <p><span class="chinese">第六个故事，范仲淹断齑划粥。</span><span class="english">Sixth story. Fan Zhongyan ruined Ji delimit porridge.</span></p>

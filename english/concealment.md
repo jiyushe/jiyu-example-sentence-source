@@ -1,5 +1,7 @@
 # concealment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concealment.md)
+
 <p><span class="chinese">隐藏证据是违法的。</span><span class="english">Concealment of evidence is against the law.</span></p>
 
 <p><span class="chinese">真相无所惧，惟怕被隐瞒。</span><span class="english">Truth is afraid of nothing but concealment.</span></p>

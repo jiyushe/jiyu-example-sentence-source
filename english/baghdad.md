@@ -1,5 +1,7 @@
 # baghdad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baghdad.md)
+
 <p><span class="chinese">在那里被巴格达哈里发雇为雇佣军。</span><span class="english">as mercenaries by the Baghdad caliphs.</span></p>
 
 <p><span class="chinese">我们知道扎卡威在巴格达的活动。</span><span class="english">We know of Zarqawi's activities in Baghdad.</span></p>

@@ -1,5 +1,7 @@
 # advocate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/advocate.md)
+
 <p><span class="chinese">我们提倡俭朴的生活。</span><span class="english">We advocate plain living.</span></p>
 
 <p><span class="chinese">我主张的是有丝分裂。</span><span class="english">I'm an advocate of mitosis.</span></p>

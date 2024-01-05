@@ -1,5 +1,7 @@
 # dietetics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dietetics.md)
+
 <p><span class="chinese">营养学是什么？。</span><span class="english">What Is Dietetics?</span></p>
 
 <p><span class="chinese">我听说她是学营养学的。</span><span class="english">I heard that she is major in dietetics.</span></p>

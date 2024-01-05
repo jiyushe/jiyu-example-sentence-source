@@ -1,5 +1,7 @@
 # underwritten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underwritten.md)
+
 <p><span class="chinese">所有产品得到了中国人民保险公司的承保。</span><span class="english">The People's Insurance Company of China has underwritten all of its products.</span></p>
 
 <p><span class="chinese">本保险凭证经本公司审核并加盖公章后方可生效。</span><span class="english">This Certificate takes effect after be underwritten and stamped by our company.</span></p>

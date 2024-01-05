@@ -1,5 +1,7 @@
 # ween
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ween.md)
+
 <p><span class="chinese">我想，我看到了你的刺。</span><span class="english">But had I seen, Thy thorns, I ween.</span></p>
 
 <p><span class="chinese">这是“水渍险”与“平方险”唯一不同之处。</span><span class="english">This is the only difference bet ween W. P. A. and F. P. A.</span></p>

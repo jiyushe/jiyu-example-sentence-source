@@ -1,5 +1,7 @@
 # 放散
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangsan.md)
+
 <p><span class="chinese">应力放散及锁定。</span><span class="english">Discharge of stress and fastening.</span></p>
 
 <p><span class="chinese">物从钚放散出来。</span><span class="english">Dangerous emissions radiate from plutonium.</span></p>

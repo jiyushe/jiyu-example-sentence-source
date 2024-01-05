@@ -1,5 +1,7 @@
 # sarin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sarin.md)
+
 <p><span class="chinese">使用沙林毒气的是谁？</span><span class="english">Who use the sarin gas?</span></p>
 
 <p><span class="chinese">我们非常确定的估计已经使用沙林。</span><span class="english">We assess with high confidence that Sarin has been used.</span></p>

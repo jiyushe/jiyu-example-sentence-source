@@ -1,5 +1,7 @@
 # poliovirus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poliovirus.md)
+
 <p><span class="chinese">尼日利亚的疫苗衍生脊髓灰质炎病毒</span><span class="english">Vaccine-derived poliovirus in Nigeria</span></p>
 
 <p><span class="chinese">2型脊髓灰质炎病毒已被消灭。</span><span class="english">Type-2 poliovirus has been eliminated.</span></p>

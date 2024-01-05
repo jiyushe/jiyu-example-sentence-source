@@ -1,5 +1,7 @@
 # unalterable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unalterable.md)
+
 <p><span class="chinese">历史发展的总趋势是不可改变的。</span><span class="english">The general trend of history is unalterable.</span></p>
 
 <p><span class="chinese">正是诸对象构成这种不变的形式。</span><span class="english">Objects are just what constitute this unalterable form.</span></p>

@@ -1,5 +1,7 @@
 # dessert
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dessert.md)
+
 <p><span class="chinese">这是甜点单，先生。</span><span class="english">Dessert menu, sir.</span></p>
 
 <p><span class="chinese">甜点心要什么？</span><span class="english">What dessert do you like?</span></p>

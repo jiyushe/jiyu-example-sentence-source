@@ -1,5 +1,7 @@
 # highfalutin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/highfalutin.md)
+
 <p><span class="chinese">你们可能想我有点夸张。</span><span class="english">You may think I am a little highfalutin.</span></p>
 
 <p><span class="chinese">那位说了那么多好听的话的年青人最后得到她了么？</span><span class="english">Did that young man who spoke so highfalutin ' get her?</span></p>

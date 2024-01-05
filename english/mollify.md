@@ -1,5 +1,7 @@
 # mollify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mollify.md)
+
 <p><span class="chinese">这并未能安抚澳门批评家们。</span><span class="english">This failed to mollify Macau’s critics.</span></p>
 
 <p><span class="chinese">不可能取悦、平息或改造一个混蛋。</span><span class="english">You can rarely, if ever, please, placate, change, or mollify an asshole.</span></p>

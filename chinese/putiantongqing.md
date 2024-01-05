@@ -1,5 +1,7 @@
 # 普天同庆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/putiantongqing.md)
+
 <p><span class="chinese">普天同庆，上帝来了！</span><span class="english">Joy to the world, the Lord is come!</span></p>
 
 <p><span class="chinese">还有什更能让我们如此普天同庆？</span><span class="english">What else are we capable of celebrating so universally?</span></p>

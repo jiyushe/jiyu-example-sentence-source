@@ -1,5 +1,7 @@
 # consonance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consonance.md)
+
 <p><span class="chinese">这是个和谐音</span><span class="english">Here is a consonance.</span></p>
 
 <p><span class="chinese">八音度的音程和和音。</span><span class="english">The interval and the consonance of an octave.</span></p>

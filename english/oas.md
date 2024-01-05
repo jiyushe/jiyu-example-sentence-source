@@ -1,5 +1,7 @@
 # oas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oas.md)
+
 <p><span class="chinese">它的工程背景是为黑龙江地方城市电信分公司开发一套实用的办公自动化系统。</span><span class="english">Its engineering background is a practical OAS which is explored for Heilongjiang local city telecom filiale.</span></p>
 
 <p><span class="chinese">然而美洲国家组织最后不肯为秘鲁的选举结果背书，终使藤森在无法应付内外交迫的严峻情势下去职。</span><span class="english">Finally, the reluctance of OAS to endorse the presidential election of 2000 in Peru forced Fujimori to resign.</span></p>

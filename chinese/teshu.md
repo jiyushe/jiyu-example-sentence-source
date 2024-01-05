@@ -1,5 +1,7 @@
 # 特殊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/teshu.md)
+
 <p><span class="chinese">麦当劳的特殊酱料？</span><span class="english">McDonald's Special Sauce?</span></p>
 
 <p><span class="chinese">我得到了特殊照顾。</span><span class="english">I have special permission.</span></p>

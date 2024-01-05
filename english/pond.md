@@ -1,5 +1,7 @@
 # pond
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pond.md)
+
 <p><span class="chinese">那榆荫下的一潭。</span><span class="english">That elm-shaded pond.</span></p>
 
 <p><span class="chinese">野鸭飞落在水池。</span><span class="english">Ducks lit on the pond.</span></p>

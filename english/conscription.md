@@ -1,5 +1,7 @@
 # conscription
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conscription.md)
+
 <p><span class="chinese">譬如生命，譬如征兵制，那又如何？</span><span class="english">What about life? What about military conscription?</span></p>
 
 <p><span class="chinese">在联合王国，一种征兵制长期有效。</span><span class="english">In the U. K. a kind of conscription was long in force.</span></p>

@@ -1,5 +1,7 @@
 # cosmic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cosmic.md)
+
 <p><span class="chinese">宇宙的微不足道打击了我们。</span><span class="english">Cosmic two-by-fours whack us.</span></p>
 
 <p><span class="chinese">这就是在宇宙尺度范围内的“撞了就跑”。</span><span class="english">IT'S hit-and-run on a cosmic scale.</span></p>

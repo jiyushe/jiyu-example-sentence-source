@@ -1,5 +1,7 @@
 # 马刺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maci.md)
+
 <p><span class="chinese">请你们不要大呼小叫了，马刺的球迷们。</span><span class="english">Please don't Spurs fans.</span></p>
 
 <p><span class="chinese">让嚼子和马刺永远生锈去吧。</span><span class="english">Bit and spur shall rust forever.</span></p>

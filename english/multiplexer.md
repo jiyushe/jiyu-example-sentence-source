@@ -1,5 +1,7 @@
 # multiplexer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multiplexer.md)
+
 <p><span class="chinese">如何验证多路复用器端口的状态？</span><span class="english">How do I verify the status of the multiplexer ports?</span></p>
 
 <p><span class="chinese">拖动可指示视频多路转换器的位置。</span><span class="english">Drag to indicate the location of a video multiplexer.</span></p>

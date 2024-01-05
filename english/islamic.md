@@ -1,5 +1,7 @@
 # islamic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/islamic.md)
+
 <p><span class="chinese">今天是我们伊历的新年。</span><span class="english">It's our Islamic New Year today.</span></p>
 
 <p><span class="chinese">都是中世纪伊斯兰的玻璃制品所特有的。</span><span class="english">are typical of medieval Islamic glassware.</span></p>

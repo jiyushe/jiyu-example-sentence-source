@@ -1,5 +1,7 @@
 # mantis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mantis.md)
+
 <p><span class="chinese">连螳螂都有那对武器。</span><span class="english">Even Mantis got those thingies.</span></p>
 
 <p><span class="chinese">你可能见过螳螂拳。</span><span class="english">You've only seen Praying Mantis.</span></p>

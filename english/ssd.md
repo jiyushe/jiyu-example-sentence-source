@@ -1,5 +1,7 @@
 # ssd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ssd.md)
+
 <p><span class="chinese">我期待着数月后率领一个类似的代表团参加第二轮战略安全对话。</span><span class="english">I look forward to leading a similar team for the second round of the SSD in the coming months.</span></p>
 
 <p><span class="chinese">这些修改者还安装了一个128G的固态硬盘，但是他们却不能增加RAM的数量。</span><span class="english">The modders also put a 128GB SSD drive in, but they were unable to increase the amount of RAM.</span></p>

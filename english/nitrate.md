@@ -1,5 +1,7 @@
 # nitrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nitrate.md)
+
 <p><span class="chinese">硝酸钾KNO3</span><span class="english">POTASSIUM NITRATE — KNO3</span></p>
 
 <p><span class="chinese">硝酸铵加铝粉。</span><span class="english">Ammonium nitrate and powdered aluminum.</span></p>

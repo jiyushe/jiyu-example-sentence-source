@@ -1,5 +1,7 @@
 # aries
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aries.md)
+
 <p><span class="chinese">牧羊座需要反抗。</span><span class="english">Aries need to rebel.</span></p>
 
 <p><span class="chinese">马上找个白羊座情人吧！</span><span class="english">Look for an Aries lover immediately!</span></p>

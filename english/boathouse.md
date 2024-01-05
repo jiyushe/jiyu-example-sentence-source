@@ -1,5 +1,7 @@
 # boathouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boathouse.md)
+
 <p><span class="chinese">你觉得怎么样在中心公园的船屋上？</span><span class="english">What do you say the boathouse in central park?</span></p>
 
 <p><span class="chinese">在海鸥的栖息处的后方，是一座建于维多利亚时代的船库。</span><span class="english">Seagulls perch with a Victorian-era boathouse in the background.</span></p>

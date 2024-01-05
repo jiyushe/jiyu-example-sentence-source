@@ -1,5 +1,7 @@
 # diametric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diametric.md)
+
 <p><span class="chinese">建议比转速应为直径比所取代，并启用水斗式水轮机新铭牌。</span><span class="english">It is suggested that the specific speed would be replaced by diametric ratio, and the new nameplate would be used.</span></p>
 
 <p><span class="chinese">它“超越”了存在主义，从而导致了政治存在主义与存在主义的根本对立。</span><span class="english">It goes beyond existentialism, thus resulting in the diametric opposition between political existentialism and existentialism.</span></p>

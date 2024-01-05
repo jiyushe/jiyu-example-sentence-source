@@ -1,5 +1,7 @@
 # 迎风招展
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingfengzhaozhan.md)
+
 <p><span class="chinese">红旗迎风招展如何表达？</span><span class="english">The red flag flaunt in the wind.</span></p>
 
 <p><span class="chinese">躺在迎风招展的花朵脚下。</span><span class="english">Beneath the feet of dancing flowers.</span></p>

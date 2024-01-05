@@ -1,5 +1,7 @@
 # cecum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cecum.md)
+
 <p><span class="chinese">我小时候动过盲肠炎手术。</span><span class="english">Inflammation of the cecum of the large intestine.</span></p>
 
 <p><span class="chinese">有些活着的动物既有盲肠又有阑尾。</span><span class="english">And some living animals have a cecum and an appendix.</span></p>

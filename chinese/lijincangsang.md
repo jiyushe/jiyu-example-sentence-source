@@ -1,5 +1,7 @@
 # 历尽沧桑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lijincangsang.md)
+
 <p><span class="chinese">看看这些历尽沧桑的梦想。</span><span class="english">Look at these dreams so beaten and so battered.</span></p>
 
 <p><span class="chinese">总以为自己已经历尽沧桑的女人</span><span class="english">Women who always think that they have suffered a lot.</span></p>

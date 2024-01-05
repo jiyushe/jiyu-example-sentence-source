@@ -1,5 +1,7 @@
 # marble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marble.md)
+
 <p><span class="chinese">这是汉白玉做的。</span><span class="english">It's made of white marble.</span></p>
 
 <p><span class="chinese">这桌子是大理石做的。</span><span class="english">The table is made of marble.</span></p>

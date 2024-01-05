@@ -1,5 +1,7 @@
 # 疾速
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jisu.md)
+
 <p><span class="chinese">这种疾速成型的过程提升了口感。</span><span class="english">The speedy process boosts taste.</span></p>
 
 <p><span class="chinese">疾速的棕色狐狸跳过一条懒狗。</span><span class="english">The quick brown fox jumps over a lazy dog.</span></p>

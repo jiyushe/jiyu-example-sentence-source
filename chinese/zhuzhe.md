@@ -1,5 +1,7 @@
 # 住着
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuzhe.md)
+
 <p><span class="chinese">住着伟大的阿赫第！</span><span class="english">Dwells the mighty Ahti!</span></p>
 
 <p><span class="chinese">这里住着一位叫纯陀的工匠。</span><span class="english">There lives an artisan called Cunda.</span></p>

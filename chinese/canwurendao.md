@@ -1,5 +1,7 @@
 # 惨无人道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/canwurendao.md)
+
 <p><span class="chinese">这种新式武器太惨无人道而不宜使用。</span><span class="english">The new weapon was too inhumane to be used.</span></p>
 
 <p><span class="chinese">所以我知道纳粹是惨无人道的。</span><span class="english">So I think I know what the Nazis were bad of.</span></p>

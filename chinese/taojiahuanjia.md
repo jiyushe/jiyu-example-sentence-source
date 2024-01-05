@@ -1,5 +1,7 @@
 # 讨价还价
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taojiahuanjia.md)
+
 <p><span class="chinese">他们为买卖商品讨价还价。</span><span class="english">They dickered over the goods.</span></p>
 
 <p><span class="chinese">没错，我习惯讨价还价。</span><span class="english">Yes, I used to make bargains.</span></p>

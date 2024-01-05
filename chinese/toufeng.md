@@ -1,5 +1,7 @@
 # 透风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toufeng.md)
+
 <p><span class="chinese">乘火车达到透风口找到柱状物体。</span><span class="english">Ride the train to the ventilation shaft.</span></p>
 
 <p><span class="chinese">我能打开窗口，给房间通透风吗？</span><span class="english">Dan I open the window and air out the room?</span></p>

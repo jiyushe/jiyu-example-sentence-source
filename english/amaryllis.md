@@ -1,5 +1,7 @@
 # amaryllis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amaryllis.md)
+
 <p><span class="chinese">她说她的孤挺花死了，问我要不要火锅罐?。</span><span class="english">Her amaryllis died. Did I want the fondue pot?</span></p>
 
 <p><span class="chinese">阿玛丽利斯植物美丽的植物生长在你的花园里或家中。</span><span class="english">Amaryllis plants are beautiful plants to grow in your garden or home.</span></p>

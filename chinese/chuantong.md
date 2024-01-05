@@ -1,5 +1,7 @@
 # 传统
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuantong.md)
+
 <p><span class="chinese">莱罗是一种传统。</span><span class="english">Lelo is a tradition.</span></p>
 
 <p><span class="chinese">承袭的传统可以改变。</span><span class="english">The legacy can change.</span></p>

@@ -1,5 +1,7 @@
 # physiotherapy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/physiotherapy.md)
+
 <p><span class="chinese">克里巴里只是做了些理疗。</span><span class="english">Cribari only did physiotherapy treatments.</span></p>
 
 <p><span class="chinese">做物理疗法。我是运动物理疗师。</span><span class="english">Physiotherapy . I'm a orts physiotherapist.</span></p>

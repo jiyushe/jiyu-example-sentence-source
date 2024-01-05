@@ -1,5 +1,7 @@
 # consortia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consortia.md)
+
 <p><span class="chinese">采购联盟的形成决策分析。</span><span class="english">Forming decision analysis of purchasing consortia.</span></p>
 
 <p><span class="chinese">俄亥俄州大学及学院联网就是州内图书馆联盟的一个好例子。</span><span class="english">One of the best examples for state or regional library consortia is OhioLINK.</span></p>

@@ -1,5 +1,7 @@
 # unitarian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unitarian.md)
+
 <p><span class="chinese">房龙于1924年加入一神教俗世信徒联盟。</span><span class="english">Van Loon had joined the Unitarian Laymen 's League in 1924.</span></p>
 
 <p><span class="chinese">星期天她会去沿途的一神信普救教堂。</span><span class="english">On Sundays, she goes to Unitarian Universalist churches along the way.</span></p>

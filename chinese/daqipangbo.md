@@ -1,5 +1,7 @@
 # 大气磅礴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daqipangbo.md)
+
 <p><span class="chinese">2008年厦门卫视主题曲，大气磅礴，励志动听。</span><span class="english">The theme song of Xiamen TV , 2008. It's very magnificent and heart-stirring.</span></p>
 
 <p><span class="chinese">它把生物资料，矿产资料，水能资料和山峡旅游资源融为一体，大气磅礴是它的真实写照。</span><span class="english">It is the biological data, data mining, water data and integrate tourism resources gorge, Majestic is a true portrayal of it.</span></p>

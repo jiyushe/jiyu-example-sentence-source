@@ -1,5 +1,7 @@
 # 恶报
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ebao.md)
+
 <p><span class="chinese">不要以恶报恶。</span><span class="english">Never pay back evil with evil.</span></p>
 
 <p><span class="chinese">恶有恶报，终将付出代价。</span><span class="english">One by one, the guilty will pay.</span></p>

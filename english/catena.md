@@ -1,5 +1,7 @@
 # catena
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catena.md)
+
 <p><span class="chinese">在链表或串中安排一组项目。</span><span class="english">To arrange a collection of items in a chained list or catena.</span></p>
 
 <p><span class="chinese">才能形成自己的品牌而连锁经营饭店。</span><span class="english">Then can become the own brand but the catena management hotel.</span></p>

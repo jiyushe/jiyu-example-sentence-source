@@ -1,5 +1,7 @@
 # ergonomics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ergonomics.md)
+
 <p><span class="chinese">你们办公场所的益生学设计吸引了我。</span><span class="english">It was your office ergonomics that decided me.</span></p>
 
 <p><span class="chinese">人机工程学在工程机械上应用的情况。</span><span class="english">The application of ergonomics in earth-moving machine.</span></p>

@@ -1,5 +1,7 @@
 # copybook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/copybook.md)
+
 <p><span class="chinese">这个抄写本是给你的。</span><span class="english">This copybook is for you.</span></p>
 
 <p><span class="chinese">我可以给他拿一本写字本吗？</span><span class="english">May I have a copybook for him?</span></p>

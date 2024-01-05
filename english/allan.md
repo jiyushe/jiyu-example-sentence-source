@@ -1,5 +1,7 @@
 # allan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allan.md)
+
 <p><span class="chinese">艾伦。你打算做什么?</span><span class="english">Allan. What will you do?</span></p>
 
 <p><span class="chinese">咱们让艾伦走路，给安升官。</span><span class="english">Let's fire Allan and promote Ann.</span></p>

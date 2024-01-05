@@ -1,5 +1,7 @@
 # unimagined
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unimagined.md)
+
 <p><span class="chinese">打开通过时间和空间的未知路径。</span><span class="english">Opening unimagined pathways through time and space.</span></p>
 
 <p><span class="chinese">他们拥有我在1960年代后期做志愿者时所无法想象的工具。</span><span class="english">And they have tools unimagined when I was a Peace Corps volunteer in the late 1960s.</span></p>

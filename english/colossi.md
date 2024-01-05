@@ -1,5 +1,7 @@
 # colossi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colossi.md)
+
 <p><span class="chinese">该头像属于神殿正面的一尊巨像。</span><span class="english">The figure belongs to one of the colossi of the facade.</span></p>
 
 <p><span class="chinese">我保证以后巨像好得多看起来比第一个。</span><span class="english">I promise the subsequent colossi are much better looking than the first one.</span></p>

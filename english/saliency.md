@@ -1,5 +1,7 @@
 # saliency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saliency.md)
+
 <p><span class="chinese">本文利用电机磁场的饱和效应，提出了一种新型转子位置辨识方法。</span><span class="english">A new method was proposed to identify rotor position based on motor saliency effect.</span></p>
 
 <p><span class="chinese">本文旨在分析英语句内信息分布，研究句内显度层级。</span><span class="english">This paper attempts an analysis of information saliency distribution inside a sentence.</span></p>

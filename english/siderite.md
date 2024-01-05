@@ -1,5 +1,7 @@
 # siderite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/siderite.md)
+
 <p><span class="chinese">在此基础上研究了菱铁矿的成因和岩相意义。</span><span class="english">And then studied the origin and lithofacies meaning of siderite.</span></p>
 
 <p><span class="chinese">矿石金属矿物主要为热液期的菱铁矿、黄铁矿。</span><span class="english">The metal minerals are mainly siderite and pyrite of hydrothermal stage.</span></p>

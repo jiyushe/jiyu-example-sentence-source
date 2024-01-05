@@ -1,5 +1,7 @@
 # tsutsugamushi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tsutsugamushi.md)
+
 <p><span class="chinese">结论我国南澳县是恙虫病疫源地。</span><span class="english">Conclusion The Nanao county is the epidemic area of tsutsugamushi disease.</span></p>
 
 <p><span class="chinese">本研究对该地区恙虫病疫源地进行全面研究。</span><span class="english">This study has investigated the region for the epidemic area of tsutsugamushi disease.</span></p>

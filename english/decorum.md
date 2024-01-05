@@ -1,5 +1,7 @@
 # decorum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decorum.md)
+
 <p><span class="chinese">胡锦涛青睐白宫会晤的庄重感。</span><span class="english">Hu preferred the decorum of the White House.</span></p>
 
 <p><span class="chinese">中国事礼仪之邦，现在我以茶示礼。</span><span class="english">Now, allow me to show my decorum with a cu of tea.</span></p>

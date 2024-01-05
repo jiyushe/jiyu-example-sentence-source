@@ -1,5 +1,7 @@
 # 盗汗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daohan.md)
+
 <p><span class="chinese">我的体重一直在降，夜里常常盗汗。</span><span class="english">I lost weight and had night sweats.</span></p>
 
 <p><span class="chinese">我真的感觉一点毛病也没有，没盗汗也不发热。</span><span class="english">I really don't feel a bit sick , no night sweats, no fevers.</span></p>

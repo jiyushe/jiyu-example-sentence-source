@@ -1,5 +1,7 @@
 # osd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/osd.md)
+
 <p><span class="chinese">支持多国OSD语言。</span><span class="english">Support multi OSD language.</span></p>
 
 <p><span class="chinese">字符叠加用字库程序。14点阵字库。</span><span class="english">OSD with the font program. 14 dot matrix font.</span></p>

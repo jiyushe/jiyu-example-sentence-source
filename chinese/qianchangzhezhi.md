@@ -1,5 +1,7 @@
 # 浅尝辄止
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianchangzhezhi.md)
+
 <p><span class="chinese">大多数人浅尝辄止。</span><span class="english">Most people quit too soon.</span></p>
 
 <p><span class="chinese">有些书只需浅尝辄止，有些书该囫囵吞食。</span><span class="english">Some books are to be tasted, others to be swallowed.</span></p>

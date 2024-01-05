@@ -1,5 +1,7 @@
 # dialectical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dialectical.md)
+
 <p><span class="chinese">我们应该辩证的看待这个问题。</span><span class="english">We should look at the problem of dialectical.</span></p>
 
 <p><span class="chinese">输得起，输不起，这个是个很辨证得问题。</span><span class="english">A good loser or a bad loser is dialectical topic.</span></p>

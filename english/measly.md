@@ -1,5 +1,7 @@
 # measly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/measly.md)
+
 <p><span class="chinese">我喜欢这里的工作时间和同事，但薪水非常微薄。</span><span class="english">I like the hours and the people, but the pay is measly.</span></p>
 
 <p><span class="chinese">1962年，印度的国防预算只有可怜的35亿卢比！</span><span class="english">In 1962, India's defence budget was a measly 350 crores!</span></p>

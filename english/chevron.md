@@ -1,5 +1,7 @@
 # chevron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chevron.md)
+
 <p><span class="chinese">按一下＞形箭号按钮以摺叠群组。</span><span class="english">Click the chevron button to collapse the group.</span></p>
 
 <p><span class="chinese">您也可以按一下＞形箭号按钮以展开群组。</span><span class="english">You can also click the chevron button to expand the group.</span></p>

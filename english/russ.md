@@ -1,5 +1,7 @@
 # russ
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/russ.md)
+
 <p><span class="chinese">拉斯有一些鸭子。</span><span class="english">Russ has some ducks.</span></p>
 
 <p><span class="chinese">在一个岩架上的罗素栖木！</span><span class="english">Russ perches on a ledge!</span></p>

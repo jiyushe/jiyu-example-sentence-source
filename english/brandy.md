@@ -1,5 +1,7 @@
 # brandy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brandy.md)
+
 <p><span class="chinese">我舅舅常饮白兰地。</span><span class="english">My uncle tipples brandy.</span></p>
 
 <p><span class="chinese">布兰地帮这只熊包扎。</span><span class="english">Brandy bandaged the bear.</span></p>

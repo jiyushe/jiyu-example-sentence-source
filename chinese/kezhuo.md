@@ -1,5 +1,7 @@
 # 课桌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kezhuo.md)
+
 <p><span class="chinese">这是一张课桌。</span><span class="english">This is a desk.</span></p>
 
 <p><span class="chinese">课桌是我的舢板。</span><span class="english">The desk is my sampan.</span></p>

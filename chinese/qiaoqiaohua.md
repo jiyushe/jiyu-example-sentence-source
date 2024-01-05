@@ -1,5 +1,7 @@
 # 悄悄话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaoqiaohua.md)
+
 <p><span class="chinese">我正在对它说悄悄话”。</span><span class="english">I was whispering into her mouth.</span></p>
 
 <p><span class="chinese">他在她耳边说着悄悄话。</span><span class="english">He whispered endearments in her ear.</span></p>

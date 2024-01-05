@@ -1,5 +1,7 @@
 # 出车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuche.md)
+
 <p><span class="chinese">我付不出车资，请借给我一些。</span><span class="english">Please lend me some as I don't have a taxi fare.</span></p>
 
 <p><span class="chinese">驾驶员延迟到天气转晴后才出车。</span><span class="english">The driver delayed the drive until the weather cleared.</span></p>

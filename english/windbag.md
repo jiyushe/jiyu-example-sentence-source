@@ -1,5 +1,7 @@
 # windbag
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/windbag.md)
+
 <p><span class="chinese">约翰是一个饶舌大王。</span><span class="english">John is such a windbag.</span></p>
 
 <p><span class="chinese">我们也许非常啰嗦。</span><span class="english">We may be very windbag.</span></p>

@@ -1,5 +1,7 @@
 # primarily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/primarily.md)
+
 <p><span class="chinese">脉石矿物主要是石英。</span><span class="english">Gangue mineral is primarily quartz.</span></p>
 
 <p><span class="chinese">土质为肥沃的粘土。</span><span class="english">The soils are primarily silty loam.</span></p>

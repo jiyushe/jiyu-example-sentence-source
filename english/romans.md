@@ -1,5 +1,7 @@
 # romans
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/romans.md)
+
 <p><span class="chinese">入乡随俗。</span><span class="english">Do in Rome as Romans do.</span></p>
 
 <p><span class="chinese">翻到罗马书部分。</span><span class="english">Now turn over to Romans.</span></p>

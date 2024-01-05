@@ -1,5 +1,7 @@
 # 夺标
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duobiao.md)
+
 <p><span class="chinese">我们的目标是夺标。</span><span class="english">Our objective is the cup.</span></p>
 
 <p><span class="chinese">该队是今年不可轻视的夺标竞争对手。</span><span class="english">The team is a serious contender for the title this year.</span></p>

@@ -1,5 +1,7 @@
 # 幸亏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingkui.md)
+
 <p><span class="chinese">幸亏有袁博士，使很多人摆脱了饥饿。</span><span class="english">Dr Yuan, many people rid hunger.</span></p>
 
 <p><span class="chinese">幸亏我们没有误车。</span><span class="english">Fortunately we didn't miss the bus.</span></p>

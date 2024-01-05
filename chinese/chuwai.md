@@ -1,5 +1,7 @@
 # 出外
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuwai.md)
+
 <p><span class="chinese">每年夏天我们都驾车出外旅行。</span><span class="english">We tour by car every summer.</span></p>
 
 <p><span class="chinese">他们在工作日经常出外去吃饭。</span><span class="english">They often dine forth on weekdays.</span></p>

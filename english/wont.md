@@ -1,5 +1,7 @@
 # wont
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wont.md)
+
 <p><span class="chinese">这件行李我不托运。</span><span class="english">I wont check this baggage.</span></p>
 
 <p><span class="chinese">这次你插翅难逃。</span><span class="english">You wont get away this time.</span></p>

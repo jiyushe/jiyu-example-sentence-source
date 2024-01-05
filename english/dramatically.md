@@ -1,5 +1,7 @@
 # dramatically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dramatically.md)
+
 <p><span class="chinese">气温经常剧烈波动。</span><span class="english">Its temperature often fluctuates dramatically.</span></p>
 
 <p><span class="chinese">机票价格在2010年已出现大幅度上涨。</span><span class="english">Prices have already gone up dramatically in 2010.</span></p>

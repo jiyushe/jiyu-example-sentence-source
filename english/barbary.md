@@ -1,5 +1,7 @@
 # barbary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barbary.md)
+
 <p><span class="chinese">巴伯里用口哨吹一支罗士兰渔民歌曲。</span><span class="english">Barbary whistled a Ronssllon fisherman 's song.</span></p>
 
 <p><span class="chinese">他们甚至创建了巴巴里国—一个海盗帝国。</span><span class="english">They even created the Barbary States, a pirate empire.</span></p>

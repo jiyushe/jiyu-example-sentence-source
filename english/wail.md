@@ -1,5 +1,7 @@
 # wail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wail.md)
+
 <p><span class="chinese">等待的是悲号怜悯。</span><span class="english">Waiting for the wail mercy.</span></p>
 
 <p><span class="chinese">我还是会痛苦嚎哭。</span><span class="english">I would still wail painfully.</span></p>

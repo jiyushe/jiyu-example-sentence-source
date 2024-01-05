@@ -1,5 +1,7 @@
 # salmonellosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salmonellosis.md)
+
 <p><span class="chinese">只有活沙门氏菌才会引起沙门氏菌症。</span><span class="english">Only live salmonella cells trigger salmonellosis.</span></p>
 
 <p><span class="chinese">在大多数国家沙门氏菌病是一个主要问题。</span><span class="english">Salmonellosis is a major problem in most countries.</span></p>

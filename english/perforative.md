@@ -1,5 +1,7 @@
 # perforative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perforative.md)
+
 <p><span class="chinese">主色调贯穿整个房间，深色的地板与之辉映。</span><span class="english">Mass-tone moves perforative and whole room, brunet floor to it reflect.</span></p>
 
 <p><span class="chinese">一条贯穿古镇的大路也因此被人们奉为神路。</span><span class="english">Perforative the highroad of ancient town also accordingly by people deify road.</span></p>

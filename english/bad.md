@@ -1,5 +1,7 @@
 # bad 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bad.md)
+
 <p><span class="chinese">干得不坏，易。</span><span class="english">Not bad Yi.</span></p>
 
 <p><span class="chinese">这是不好的。</span><span class="english">This is bad.</span></p>

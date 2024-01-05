@@ -1,5 +1,7 @@
 # lifeless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lifeless.md)
+
 <p><span class="chinese">丘比特在地面发现了已经死亡的普赛克。</span><span class="english">Cupid found her lifeless on the ground.</span></p>
 
 <p><span class="chinese">日边消息空沈沈。</span><span class="english">At the side of the message empty lifeless.</span></p>

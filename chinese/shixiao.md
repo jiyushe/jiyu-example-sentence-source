@@ -1,5 +1,7 @@
 # 失效
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shixiao.md)
+
 <p><span class="chinese">但这些玩意确实会失效。</span><span class="english">But these things do fail.</span></p>
 
 <p><span class="chinese">但这个口令失效了。</span><span class="english">But the passcode no longer worked.</span></p>

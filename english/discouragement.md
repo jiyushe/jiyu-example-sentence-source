@@ -1,5 +1,7 @@
 # discouragement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discouragement.md)
+
 <p><span class="chinese">但是解海龙对这样的劝阻已经习以为常。</span><span class="english">But Xie was used to this kind of discouragement.</span></p>
 
 <p><span class="chinese">请求祂将你的受挫化为耐心。</span><span class="english">Ask him to transform your discouragement into patience.</span></p>

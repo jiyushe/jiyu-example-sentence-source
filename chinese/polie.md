@@ -1,5 +1,7 @@
 # 破裂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/polie.md)
+
 <p><span class="chinese">阑尾破裂。</span><span class="english">A ruptured appendix.</span></p>
 
 <p><span class="chinese">冬天焊接处由于“冷缩”破裂。</span><span class="english">It shrinks in winter.</span></p>

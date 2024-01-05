@@ -1,5 +1,7 @@
 # cyclonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cyclonic.md)
+
 <p><span class="chinese">旋迴在海洋中的主要旋转表面水流系统。</span><span class="english">Major cyclonic surface current systems in the oceans.</span></p>
 
 <p><span class="chinese">本实用新型是一种气旋式小型采棉机。</span><span class="english">The utility model relates to a cyclonic small cotton-picker.</span></p>

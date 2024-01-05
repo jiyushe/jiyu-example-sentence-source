@@ -1,5 +1,7 @@
 # 地震烈度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dizhenliedu.md)
+
 <p><span class="chinese">地震烈度是经常使用的一个名词。</span><span class="english">Seismic intensity is a term frequently used.</span></p>
 
 <p><span class="chinese">该记载表明武都8级地震在这里的地震烈度至少达到了X度。</span><span class="english">This record indicates that the seismic intensity here in the earthquake reached X degree.</span></p>

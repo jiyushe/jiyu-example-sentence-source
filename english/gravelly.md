@@ -1,5 +1,7 @@
 # gravelly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gravelly.md)
+
 <p><span class="chinese">多碎石的声音。</span><span class="english">A gravelly voice.</span></p>
 
 <p><span class="chinese">声音沙哑刺耳。</span><span class="english">Her voice was gravelly.</span></p>

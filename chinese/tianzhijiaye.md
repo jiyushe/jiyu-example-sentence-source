@@ -1,5 +1,7 @@
 # 添枝加叶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianzhijiaye.md)
+
 <p><span class="chinese">我没有添枝加叶，如此。我说的都是事实。</span><span class="english">I didn't spice up. All I said is true.</span></p>
 
 <p><span class="chinese">我没有添枝加叶，我说的都是事实。</span><span class="english">I didn't spice up. All I sbummist is true.</span></p>

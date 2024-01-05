@@ -1,5 +1,7 @@
 # jetted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jetted.md)
+
 <p><span class="chinese">他要求用喷气飞机将他送到边境。</span><span class="english">He asked to be jetted to borders.</span></p>
 
 <p><span class="chinese">喷火器喷出火焰。</span><span class="english">The flamethrower jetted out flames.</span></p>

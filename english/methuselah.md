@@ -1,5 +1,7 @@
 # methuselah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/methuselah.md)
+
 <p><span class="chinese">关于玛士撒拉基因的简短回答</span><span class="english">The Short Answer about the Methuselah Gene</span></p>
 
 <p><span class="chinese">就和玛士萨拉一样，让我们把这个案例叫做玛士萨拉案例。</span><span class="english">I'm like Methuselah.Call this the Methuselah case.</span></p>

@@ -1,5 +1,7 @@
 # 绑匪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bangfei.md)
+
 <p><span class="chinese">绑匪还杀死了保姆。</span><span class="english">The kidnappers killed the nanny.</span></p>
 
 <p><span class="chinese">一名警察向那个绑匪射击。</span><span class="english">A policeman shot at the kidnapper.</span></p>

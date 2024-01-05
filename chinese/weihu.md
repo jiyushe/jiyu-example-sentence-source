@@ -1,5 +1,7 @@
 # 围护
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weihu.md)
+
 <p><span class="chinese">砌墙把家围护起来。</span><span class="english">Build the walls around your family.</span></p>
 
 <p><span class="chinese">新金桥广场基坑围护结构位于正在运营的地铁隧道顶部。</span><span class="english">Xin Jinqiao square pit was on the top of a subway tunnel in use.</span></p>

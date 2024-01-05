@@ -1,5 +1,7 @@
 # 四则
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/size.md)
+
 <p><span class="chinese">在此例举临证医案四则以佐证。</span><span class="english">Four proven cases were presented for examples.</span></p>
 
 <p><span class="chinese">利用MFC编写一个简单的四则运算器。</span><span class="english">Using MFC to write a simple arithmetic device.</span></p>

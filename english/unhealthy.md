@@ -1,5 +1,7 @@
 # unhealthy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unhealthy.md)
+
 <p><span class="chinese">脂肪过多的饭餐是不健康的。</span><span class="english">A fat-laden meal is unhealthy.</span></p>
 
 <p><span class="chinese">而且他们的身体因此变得不健康。</span><span class="english">and they get unhealthy about it.</span></p>

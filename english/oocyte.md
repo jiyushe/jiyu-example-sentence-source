@@ -1,5 +1,7 @@
 # oocyte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oocyte.md)
+
 <p><span class="chinese">滤泡细胞开始包围卵母细胞。</span><span class="english">Follicle cells begin to surround oocyte.</span></p>
 
 <p><span class="chinese">卵母细胞是有效的四倍体细胞。</span><span class="english">The oocyte is effectively a tetraploid cell.</span></p>

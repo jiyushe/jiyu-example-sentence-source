@@ -1,5 +1,7 @@
 # 锌粉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinfen.md)
+
 <p><span class="chinese">过氧化钡加锌粉。</span><span class="english">Barium peroxide and zinc dust.</span></p>
 
 <p><span class="chinese">电炉是锌粉工艺进行还原熔炼的承载设备。</span><span class="english">Electric furnace is major equipment of zinc powder reduction smelting.</span></p>

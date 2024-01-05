@@ -1,5 +1,7 @@
 # classroom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/classroom.md)
+
 <p><span class="chinese">她在二楼的小教室里。</span><span class="english">She is in the classroom.</span></p>
 
 <p><span class="chinese">在教室里养宠物。</span><span class="english">Have pets in the classroom.</span></p>

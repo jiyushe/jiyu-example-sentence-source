@@ -1,5 +1,7 @@
 # foul
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foul.md)
+
 <p><span class="chinese">技术犯规。</span><span class="english">Technical foul.</span></p>
 
 <p><span class="chinese">犯规很有趣。</span><span class="english">It's fun to foul.</span></p>

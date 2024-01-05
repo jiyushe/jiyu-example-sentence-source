@@ -1,5 +1,7 @@
 # damocles
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/damocles.md)
+
 <p><span class="chinese">进入达摩克利斯之剑的子论坛获取更多信息。</span><span class="english">SEE Sword of Damocles Subforum for more information.</span></p>
 
 <p><span class="chinese">达摩克利斯抬头望见这把利剑时，大惊失色。</span><span class="english">Damocles looked up and saw that the sword when alarmed.</span></p>

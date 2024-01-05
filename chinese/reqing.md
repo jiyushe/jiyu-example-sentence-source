@@ -1,5 +1,7 @@
 # 热情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/reqing.md)
+
 <p><span class="chinese">没有热情。</span><span class="english">No passions.</span></p>
 
 <p><span class="chinese">热情于谁。</span><span class="english">Enthusiasm for who.</span></p>

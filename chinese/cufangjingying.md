@@ -1,5 +1,7 @@
 # 粗放经营
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cufangjingying.md)
+
 <p><span class="chinese">这也是广告粗放经营的典型表现。</span><span class="english">It's the typical extravagant advertising management.</span></p>
 
 <p><span class="chinese">促进整个经济由粗放经营向集约经营转变。</span><span class="english">To bring about a change from extensive to intensive management of the economy as a whole.</span></p>

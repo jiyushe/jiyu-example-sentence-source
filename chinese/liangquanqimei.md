@@ -1,5 +1,7 @@
 # 两全其美
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangquanqimei.md)
+
 <p><span class="chinese">事实上，也惟有这样的安排，才算是两全其美的理想之道。</span><span class="english">This device is really an invitation to make the best of both worlds , the.</span></p>
 
 <p><span class="chinese">对于默克尔和德国的政治体制，这是两全其美的。</span><span class="english">For Merkel and the German political establishment, it's the best of both worlds.</span></p>

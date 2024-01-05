@@ -1,5 +1,7 @@
 # scant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scant.md)
+
 <p><span class="chinese">即使有炎症浸润也很少。</span><span class="english">Inflammatory infiltrates are scant if any.</span></p>
 
 <p><span class="chinese">突然发作呼吸困难和脚痛时。</span><span class="english">When sudden outbreak scant of breath and foot pain.</span></p>

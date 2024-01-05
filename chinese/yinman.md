@@ -1,5 +1,7 @@
 # 隐瞒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinman.md)
+
 <p><span class="chinese">我没有隐瞒事实。</span><span class="english">I did not conceal the fact.</span></p>
 
 <p><span class="chinese">我没有什么好隐瞒的。</span><span class="english">I have got nothing to hide.</span></p>

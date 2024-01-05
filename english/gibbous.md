@@ -1,5 +1,7 @@
 # gibbous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gibbous.md)
+
 <p><span class="chinese">太阳嬉闹，月华盈盈。</span><span class="english">The sportive sun, the gibbous moon.</span></p>
 
 <p><span class="chinese">今晚木星将会很靠近明亮的新月。</span><span class="english">Jupiter resides close to the waxing gibbous moon tonight.</span></p>

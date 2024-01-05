@@ -1,5 +1,7 @@
 # abrasive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abrasive.md)
+
 <p><span class="chinese">磨料在磨具中起切削作用。</span><span class="english">Abrasive in the abrasive cutting role to play.</span></p>
 
 <p><span class="chinese">广泛用于磨具等零件的加工。</span><span class="english">Widely used in abrasive parts processing, etc.</span></p>

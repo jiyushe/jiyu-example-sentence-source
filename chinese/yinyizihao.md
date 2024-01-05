@@ -1,5 +1,7 @@
 # 引以自豪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinyizihao.md)
+
 <p><span class="chinese">熊皮毯是他一件引以自豪的礼物。</span><span class="english">The rug is a gift heisproudto display.</span></p>
 
 <p><span class="chinese">那当然是我们可以引以自豪的事。</span><span class="english">That's certainly something we can be proud of.</span></p>

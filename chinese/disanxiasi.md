@@ -1,5 +1,7 @@
 # 低三下四
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/disanxiasi.md)
+
 <p><span class="chinese">他对老板的尊敬几乎是低三下四。</span><span class="english">He is almost abject in his respect for his boss.</span></p>
 
 <p><span class="chinese">所有那些低三下四的话并没有打动他。</span><span class="english">All that bowing and scraping did not impress him.</span></p>

@@ -1,5 +1,7 @@
 # pectin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pectin.md)
+
 <p><span class="chinese">苹果是果胶的极好来源。</span><span class="english">Apples are an excellent source of pectin.</span></p>
 
 <p><span class="chinese">属于、关于或得自于果胶的。</span><span class="english">Of or relating to or derived from pectin.</span></p>

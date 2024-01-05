@@ -1,5 +1,7 @@
 # metasequoia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metasequoia.md)
+
 <p><span class="chinese">水杉含有丰富的黄酮成分。</span><span class="english">Metasequoia glyptostroboides abounds with flavonoids.</span></p>
 
 <p><span class="chinese">北美红杉为什么与水杉那样相象。</span><span class="english">Why is Sequoia seperuirens so similar to Metasequoia glyptostroboides.</span></p>

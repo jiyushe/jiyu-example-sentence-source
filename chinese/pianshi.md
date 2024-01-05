@@ -1,5 +1,7 @@
 # 偏食
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianshi.md)
+
 <p><span class="chinese">营养不良主要是因为偏食造成的。</span><span class="english">Malnutrition caused mainly because junk food.</span></p>
 
 <p><span class="chinese">偏食的改变需要时间来发生。</span><span class="english">Changes in food preferences take time to happen.</span></p>

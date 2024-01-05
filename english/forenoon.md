@@ -1,5 +1,7 @@
 # forenoon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forenoon.md)
+
 <p><span class="chinese">这个上午过去了。</span><span class="english">So the forenoon passed.</span></p>
 
 <p><span class="chinese">他上午到那里去了。</span><span class="english">He went there in the forenoon.</span></p>

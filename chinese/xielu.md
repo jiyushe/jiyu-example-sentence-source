@@ -1,5 +1,7 @@
 # 邪路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xielu.md)
+
 <p><span class="chinese">他最终走进了邪路。</span><span class="english">He finally took to evil ways.</span></p>
 
 <p><span class="chinese">他被一个流氓引上了邪路。</span><span class="english">He was ledastray by a hooligan.</span></p>

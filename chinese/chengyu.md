@@ -1,5 +1,7 @@
 # 成语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengyu.md)
+
 <p><span class="chinese">这个成语把我搞胡涂了。</span><span class="english">This idiom baffles me.</span></p>
 
 <p><span class="chinese">嗬，你知道这成语什么意思吗？</span><span class="english">Oh, you do know this idiom?</span></p>

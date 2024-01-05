@@ -1,5 +1,7 @@
 # osmund
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/osmund.md)
+
 <p><span class="chinese">薇姿的塑身用品有用的么？</span><span class="english">Is the model body things of osmund appearance useful?</span></p>
 
 <p><span class="chinese">薇甘菊在南沙地区已有蔓延迹象，应引起重视。</span><span class="english">Osmund chamomile has spread in Nansha zone, more attention would be paid to.</span></p>

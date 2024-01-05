@@ -1,5 +1,7 @@
 # unitarity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unitarity.md)
+
 <p><span class="chinese">如果你想这是经典版的统一性。</span><span class="english">If you want this is the classical version of unitarity.</span></p>
 
 <p><span class="chinese">麽正极限，希格斯粒子，它的耦合常数和质量的界限。</span><span class="english">Unitarity Bounds, Higgs, its Coupling Constants and Limit on its Mass.</span></p>

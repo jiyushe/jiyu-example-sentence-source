@@ -1,5 +1,7 @@
 # 橡胶树
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangjiaoshu.md)
+
 <p><span class="chinese">工人们割橡胶树皮采胶液。</span><span class="english">The workers tapped the rubber trees.</span></p>
 
 <p><span class="chinese">笑翠鸟坐在一棵老橡胶树上。</span><span class="english">Koo- ka- bur- ra sits in the old gum tree.</span></p>

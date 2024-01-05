@@ -1,5 +1,7 @@
 # 岩洞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yandong_1.md)
+
 <p><span class="chinese">什么岩洞？</span><span class="english">What grottos?</span></p>
 
 <p><span class="chinese">来自那地泉和那岩洞。</span><span class="english">From the fountain and the caves.</span></p>

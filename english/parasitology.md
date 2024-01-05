@@ -1,5 +1,7 @@
 # parasitology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parasitology.md)
+
 <p><span class="chinese">分子与生化寄生虫学。</span><span class="english">Molecular and Biochemical Parasitology.</span></p>
 
 <p><span class="chinese">华支睾吸虫尾蚴由中山大学中山医学院寄生虫学教研室提供。</span><span class="english">Clonorchis cercariae were supplied by the Department of Parasitology of Sun Yat-sen University.</span></p>

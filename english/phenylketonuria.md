@@ -1,5 +1,7 @@
 # phenylketonuria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phenylketonuria.md)
+
 <p><span class="chinese">目的研究苯丙酮尿症的骨骼X线表现。</span><span class="english">Objective To report the bone X ray changes in phenylketonuria.</span></p>
 
 <p><span class="chinese">目的探讨苯丙酮尿症的基因诊断方法。</span><span class="english">Objective To study the method for gene diagnosis of phenylketonuria.</span></p>

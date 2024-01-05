@@ -1,5 +1,7 @@
 # 速滑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suhua.md)
+
 <p><span class="chinese">这张照片上的是列支敦士登的速滑健将蒂娜•维瑞兹。</span><span class="english">This photo shows skier Tina Weirather of Liechtenstein.</span></p>
 
 <p><span class="chinese">速滑运动员裙子是很时尚没错，但是绝不适合梨形身材的人。</span><span class="english">Skater skirts might be fashionable, but they don't work for pears.</span></p>

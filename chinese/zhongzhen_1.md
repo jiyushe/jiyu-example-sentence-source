@@ -1,5 +1,7 @@
 # 重镇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongzhen_1.md)
+
 <p><span class="chinese">朔州为著名的历史重镇。</span><span class="english">ShuoZhou is a famous historic town.</span></p>
 
 <p><span class="chinese">十堰是我国南方汽车工业的重镇。</span><span class="english">Shiyan is an auto town in the south China.</span></p>

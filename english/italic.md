@@ -1,5 +1,7 @@
 # italic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/italic.md)
+
 <p><span class="chinese">但是现在，保持斜体不变。</span><span class="english">But for now, keep the italic font.</span></p>
 
 <p><span class="chinese">斜体这一段应排进去。</span><span class="english">The paragraph in italic should be set in.</span></p>

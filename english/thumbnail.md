@@ -1,5 +1,7 @@
 # thumbnail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thumbnail.md)
+
 <p><span class="chinese">描述如何建立缩图影像。</span><span class="english">Describes how to create thumbnail images.</span></p>
 
 <p><span class="chinese">这是目前快照的缩图。</span><span class="english">This is a thumbnail of the current snapshot.</span></p>

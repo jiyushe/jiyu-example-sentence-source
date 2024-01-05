@@ -1,5 +1,7 @@
 # 在握
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaiwo.md)
+
 <p><span class="chinese">参议员，你已经胜券在握了。</span><span class="english">You have it in the bag, Senator.</span></p>
 
 <p><span class="chinese">我问他是否怀念权力在握的感觉。</span><span class="english">I asked him if he was missing the power.</span></p>

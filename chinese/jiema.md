@@ -1,5 +1,7 @@
 # 解码
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiema.md)
+
 <p><span class="chinese">解码芯片有两路电流输出。</span><span class="english">Chip DAC's have two current outputs.</span></p>
 
 <p><span class="chinese">下一步就是对信息进行解码。</span><span class="english">The next step is to decode the message.</span></p>

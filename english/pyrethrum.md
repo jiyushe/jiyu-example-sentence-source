@@ -1,5 +1,7 @@
 # pyrethrum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pyrethrum.md)
+
 <p><span class="chinese">目的检测天然除虫菊酯的免疫毒性。</span><span class="english">To evaluate the immune toxicity of natural pyrethrum.</span></p>
 
 <p><span class="chinese">本品是拟除虫菊酯类杀虫剂。</span><span class="english">This article draws up the pyrethrum ester insecticide.</span></p>

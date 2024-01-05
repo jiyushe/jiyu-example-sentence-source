@@ -1,5 +1,7 @@
 # bedding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bedding.md)
+
 <p><span class="chinese">他经营着一家床上用品商店。</span><span class="english">He runs a shop for bedding.</span></p>
 
 <p><span class="chinese">使用舒适的床上用品。</span><span class="english">and use very comfortable bedding.</span></p>

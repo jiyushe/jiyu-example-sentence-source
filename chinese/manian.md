@@ -1,5 +1,7 @@
 # 马年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manian.md)
+
 <p><span class="chinese">想要在马年找工作？</span><span class="english">Looking for a job in the new year?</span></p>
 
 <p><span class="chinese">祝福朋友，马年亨通！</span><span class="english">Beatific friend, year be prosperous!</span></p>

@@ -1,5 +1,7 @@
 # purpura
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/purpura.md)
+
 <p><span class="chinese">过敏性紫癜的病因是什么？</span><span class="english">The cause of allergic purpura What is this?</span></p>
 
 <p><span class="chinese">过敏性紫癜有哪些症状？</span><span class="english">What symptom does irritability purpura have?</span></p>

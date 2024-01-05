@@ -1,5 +1,7 @@
 # easeful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/easeful.md)
+
 <p><span class="chinese">我几乎爱上了自在的死神</span><span class="english">I have been half in love with easeful Death</span></p>
 
 <p><span class="chinese">我几乎爱上了静谧的死亡。</span><span class="english">I have been half in love with easeful Death.</span></p>

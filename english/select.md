@@ -1,5 +1,7 @@
 # select 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/select.md)
+
 <p><span class="chinese">选择键。</span><span class="english">Select key.</span></p>
 
 <p><span class="chinese">选择一个映像。</span><span class="english">Select an image.</span></p>

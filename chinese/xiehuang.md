@@ -1,5 +1,7 @@
 # 蟹黄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiehuang.md)
+
 <p><span class="chinese">吃完蟹黄就该吃蟹肉了。</span><span class="english">After eating crab roe, you can eat crab meat.</span></p>
 
 <p><span class="chinese">是的，下一个是蟹黄豆腐。</span><span class="english">Yes. The next one is bean curd with crab roe.</span></p>

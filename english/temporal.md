@@ -1,5 +1,7 @@
 # temporal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/temporal.md)
+
 <p><span class="chinese">请珍视在尘世间短暂的存在！</span><span class="english">Please value oen's temporal existence!</span></p>
 
 <p><span class="chinese">这是那个存活下来的个体的时间性部分。</span><span class="english">It is a temporal part of the one that survives.</span></p>

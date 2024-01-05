@@ -1,5 +1,7 @@
 # 心气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinqi.md)
+
 <p><span class="chinese">按我现在的心气，我今天就想买下了。</span><span class="english">In my of mind, I'd like to buy one today.</span></p>
 
 <p><span class="chinese">按我现在的心气，我就想买下了。</span><span class="english">In my frame of mind, I'd like to buy one today.</span></p>

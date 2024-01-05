@@ -1,5 +1,7 @@
 # nodus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nodus.md)
+
 <p><span class="chinese">科里奥利加速度在普通物理力学中是一难点。</span><span class="english">Coriolis acceleration is a nodus in general mechanics.</span></p>
 
 <p><span class="chinese">量词教学是对外汉语教学中的难点。</span><span class="english">The teaching of Chinese classifiers is a nodus in TCFL.</span></p>

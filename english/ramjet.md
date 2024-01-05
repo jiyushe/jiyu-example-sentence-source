@@ -1,5 +1,7 @@
 # ramjet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ramjet.md)
+
 <p><span class="chinese">压式喷气发动机一种简单的，主要为管道式的喷气发动机，如。</span><span class="english">A simple, essentially tubular jet engine, such as a ramjet.</span></p>
 
 <p><span class="chinese">用神经网络技术对固体燃料冲压动机的燃速辨识问题进行了研究。</span><span class="english">The neural network is adopted to study the burning rate identification of the solid fuel ramjet.</span></p>

@@ -1,5 +1,7 @@
 # photolysis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photolysis.md)
+
 <p><span class="chinese">结论确定了光解产物的结构。</span><span class="english">Conclusion The structure of the photolysis product has been identified.</span></p>
 
 <p><span class="chinese">研究了紫外光和太阳光下蒽、在甲醇-水溶液中的光分解反应。</span><span class="english">The photolysis of anthracene and chrysene in natural water was studied.</span></p>

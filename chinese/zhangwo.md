@@ -1,5 +1,7 @@
 # 掌握
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangwo.md)
+
 <p><span class="chinese">我们如何才能掌握？</span><span class="english">How do we master this?</span></p>
 
 <p><span class="chinese">我掌握基本要领了。</span><span class="english">I got the basics down.</span></p>

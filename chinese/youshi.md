@@ -1,5 +1,7 @@
 # 优势
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youshi.md)
+
 <p><span class="chinese">你的优势在哪里？</span><span class="english">What’s your edge?</span></p>
 
 <p><span class="chinese">这就是此理论的一个优势。</span><span class="english">It is an advantage.</span></p>

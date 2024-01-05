@@ -1,5 +1,7 @@
 # thoroughness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thoroughness.md)
+
 <p><span class="chinese">你的检查彻底。</span><span class="english">The thoroughness of your examination.</span></p>
 
 <p><span class="chinese">及它的正确性。即彻底性。</span><span class="english">And its accuracy. Namely degree of thoroughness.</span></p>

@@ -1,5 +1,7 @@
 # chert
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chert.md)
+
 <p><span class="chinese">这沉淀物在这幅图片的曲线近似冷凝物的黑矽石的扁豆形矿体。</span><span class="english">The sediments in this photo curve near the ends of chert pods.</span></p>
 
 <p><span class="chinese">古生物学者知道黑矽石同样的好地方去观看化石。</span><span class="english">Paleontologists know chert as a good place to look for fossils.</span></p>

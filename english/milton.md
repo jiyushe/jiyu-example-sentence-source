@@ -1,5 +1,7 @@
 # milton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/milton.md)
+
 <p><span class="chinese">弥尔顿是个革命者。</span><span class="english">Milton was a revolutionary.</span></p>
 
 <p><span class="chinese">这时米尔顿·济丹走了进来。</span><span class="english">Then Milton Gelton comes in.</span></p>

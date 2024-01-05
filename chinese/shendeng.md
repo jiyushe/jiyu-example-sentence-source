@@ -1,5 +1,7 @@
 # 神灯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shendeng.md)
+
 <p><span class="chinese">神灯再现！</span><span class="english">Magic Lamp again!</span></p>
 
 <p><span class="chinese">我得到了这个里面有个妖精的神灯。</span><span class="english">I have got this lamp with a genie in it.</span></p>

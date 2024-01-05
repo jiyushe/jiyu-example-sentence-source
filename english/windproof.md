@@ -1,5 +1,7 @@
 # windproof
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/windproof.md)
+
 <p><span class="chinese">软防风抓绒拇指抹面。</span><span class="english">Soft windproof fleece wiping surface on thumb.</span></p>
 
 <p><span class="chinese">水晶卷帘门同时还具有防水、防风的效果。</span><span class="english">Crystal shutter door also has a waterproof, windproof effect.</span></p>

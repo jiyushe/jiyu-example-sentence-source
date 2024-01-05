@@ -1,5 +1,7 @@
 # manta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manta.md)
+
 <p><span class="chinese">和刺鳐不一样，蝠鲼没有剧毒的尾刺。</span><span class="english">Unlike stingrays, manta rays do not have venomous tail barbs.</span></p>
 
 <p><span class="chinese">不，我的意思是里边放鲨鱼、蝠鲼、鲸鱼和海豹。</span><span class="english">I mean they put sharks, manta rays, whales, and seals in them!</span></p>

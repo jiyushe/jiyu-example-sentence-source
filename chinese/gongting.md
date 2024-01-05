@@ -1,5 +1,7 @@
 # 宫廷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongting.md)
+
 <p><span class="chinese">她在宫廷中失宠。</span><span class="english">She was disgraced at court.</span></p>
 
 <p><span class="chinese">我做了君之的宫廷核桃酥。</span><span class="english">I made Junzhi's walnut cookies.</span></p>

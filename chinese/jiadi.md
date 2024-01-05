@@ -1,5 +1,7 @@
 # 甲地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiadi.md)
+
 <p><span class="chinese">我们生活在一个快节奏的世界里，无时不刻从甲地赶往乙地。</span><span class="english">We all live in a fast-paced world and we constantly move from point A to point B.</span></p>
 
 <p><span class="chinese">我们只想尽快地从甲地到乙地，尽可能地减少麻烦。</span><span class="english">The idea is to get from point A to point B as quickly and as free of hassle as possible.</span></p>

@@ -1,5 +1,7 @@
 # 自制力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zizhili.md)
+
 <p><span class="chinese">你会了解有自制力多美好。</span><span class="english">You know have greater self-control.</span></p>
 
 <p><span class="chinese">当她被告知这一消息时表现出很强的自制力.</span><span class="english">She showed a strong self-control when she heard the news.</span></p>

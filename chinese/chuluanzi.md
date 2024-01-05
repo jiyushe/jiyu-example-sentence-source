@@ -1,5 +1,7 @@
 # 出乱子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuluanzi.md)
+
 <p><span class="chinese">一个家庭是怎样出乱子的？</span><span class="english">How can a family get disfunctional?</span></p>
 
 <p><span class="chinese">警察已在待命行动，以防出乱子。</span><span class="english">The police are standing by in case of trouble.</span></p>

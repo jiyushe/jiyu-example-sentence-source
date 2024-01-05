@@ -1,5 +1,7 @@
 # saturdays
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saturdays.md)
+
 <p><span class="chinese">那位丈夫在每个周六修剪草坪。</span><span class="english">The husband mows his lawn on Saturdays.</span></p>
 
 <p><span class="chinese">你可以周六和周日不工作。</span><span class="english">You can have Saturdays and Sundays off.</span></p>

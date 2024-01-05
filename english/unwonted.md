@@ -1,5 +1,7 @@
 # unwonted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unwonted.md)
+
 <p><span class="chinese">玫瑰花在这个夏天开得真是分外美丽！</span><span class="english">That summer the roses flowered in unwonted beauty.</span></p>
 
 <p><span class="chinese">他的眼睛闪耀着一种不同寻常的光彩，他的嘴唇在颤动。</span><span class="english">There was an unwonted light in his eyes, and slight trembling of his lips.</span></p>

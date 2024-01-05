@@ -1,5 +1,7 @@
 # evaporite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evaporite.md)
+
 <p><span class="chinese">矿床的含矿岩系大多含有蒸发岩。</span><span class="english">There are evaporite beds or evaporite minerals.</span></p>
 
 <p><span class="chinese">在核桃园组沉积了碎屑和蒸发岩。</span><span class="english">Clastic and evaporite rocks were deposited in the Hetaoyuan Formation.</span></p>

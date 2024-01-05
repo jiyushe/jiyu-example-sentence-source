@@ -1,5 +1,7 @@
 # futurology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/futurology.md)
+
 <p><span class="chinese">马克思主义辩证法是未来学的方法论。</span><span class="english">Marxist's dialectics is the methodology of the futurology.</span></p>
 
 <p><span class="chinese">文章最后简要说明了未来学在预算控制中的运用。</span><span class="english">Finally, this paper explains the application of futurology in the budgeting control.</span></p>

@@ -1,5 +1,7 @@
 # sissy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sissy.md)
+
 <p><span class="chinese">他讲起话来好像是个女生。</span><span class="english">He talks like he is a sissy.</span></p>
 
 <p><span class="chinese">我觉得他这个人太娘娘腔了。</span><span class="english">I think he’s an awful sissy.</span></p>

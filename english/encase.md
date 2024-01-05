@@ -1,5 +1,7 @@
 # encase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/encase.md)
+
 <p><span class="chinese">我们能用什么代替呢？</span><span class="english">Encase what can we use instead?</span></p>
 
 <p><span class="chinese">旅行前，我们必须仔细打包行李。</span><span class="english">Before travelling, we must encase carefully.</span></p>

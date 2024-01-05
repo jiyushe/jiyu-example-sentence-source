@@ -1,5 +1,7 @@
 # 运输线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunshuxian.md)
+
 <p><span class="chinese">目前，这些海上运输线被美国控制。</span><span class="english">And those sea lanes are controlled by the United States.</span></p>
 
 <p><span class="chinese">你可以看到大量有趣的东西。一些像另一条运输线之类的东西。</span><span class="english">You can see lots of interesting things. Something like another transporter line.</span></p>

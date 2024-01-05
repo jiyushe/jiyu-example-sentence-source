@@ -1,5 +1,7 @@
 # 市郊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shijiao.md)
+
 <p><span class="chinese">靠近市郊的地方房屋渐渐稀少。</span><span class="english">Toward the suburb the houses begin to thin out.</span></p>
 
 <p><span class="chinese">我说的市郊指的是美国白人，基督徒聚居的地方。</span><span class="english">And by suburban, I mean white, Christian America.</span></p>

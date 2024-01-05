@@ -1,5 +1,7 @@
 # villager
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/villager.md)
+
 <p><span class="chinese">后来一个村民在阿里巴巴上卖出去了很多。</span><span class="english">A villager sold the lot on Alibaba. com.</span></p>
 
 <p><span class="chinese">你不想当滕头村的村民了吗?。</span><span class="english">Don't you want to be a Tengtou villager?</span></p>

@@ -1,5 +1,7 @@
 # 明志
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingzhi_1.md)
+
 <p><span class="chinese">选择明志是您最明智的选择。</span><span class="english">Minz is the most sensible choice to fix your computer.</span></p>
 
 <p><span class="chinese">身为临时工的王明志没有医疗或工伤保险。</span><span class="english">As a day laborer, he had no health or disability insurance.</span></p>

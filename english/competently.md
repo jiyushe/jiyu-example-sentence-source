@@ -1,5 +1,7 @@
 # competently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/competently.md)
+
 <p><span class="chinese">熟练使用测量工具和电子工具。</span><span class="english">Use measuring tools and electrical tools competently.</span></p>
 
 <p><span class="chinese">任何外科病人我都能胜任地进行治疗。</span><span class="english">There is no surgical patient I cannot treat competently.</span></p>

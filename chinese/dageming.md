@@ -1,5 +1,7 @@
 # 大革命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dageming.md)
+
 <p><span class="chinese">那时是法国大革命时期。</span><span class="english">This was during the French Revolution.</span></p>
 
 <p><span class="chinese">你还记得法国的大革命吧？</span><span class="english">You remember the French Revolution, right?</span></p>

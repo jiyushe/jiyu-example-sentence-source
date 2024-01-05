@@ -1,5 +1,7 @@
 # byname
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/byname.md)
+
 <p><span class="chinese">他们的名字我都知道。</span><span class="english">I know them all byname.</span></p>
 
 <p><span class="chinese">别名甘是被压抑的钠含量。</span><span class="english">Byname is Pent-sodium Phosphate.</span></p>

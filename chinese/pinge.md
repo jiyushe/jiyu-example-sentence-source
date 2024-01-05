@@ -1,5 +1,7 @@
 # 品格
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinge.md)
+
 <p><span class="chinese">他品格不好。</span><span class="english">He has a weak character.</span></p>
 
 <p><span class="chinese">他是一位品格端正的公民。</span><span class="english">He is an upright citizen.</span></p>

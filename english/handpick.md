@@ -1,5 +1,7 @@
 # handpick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handpick.md)
+
 <p><span class="chinese">你可以自己选择你需要的帮手。</span><span class="english">You can handpick your assistants.</span></p>
 
 <p><span class="chinese">在乡村，人们不倾向于亲自结交朋友。</span><span class="english">In rural areas, people don’t tend to handpick their pals.</span></p>

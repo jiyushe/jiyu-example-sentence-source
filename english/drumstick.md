@@ -1,5 +1,7 @@
 # drumstick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drumstick.md)
+
 <p><span class="chinese">花生或鼓槌？</span><span class="english">Peanut or Drumstick?</span></p>
 
 <p><span class="chinese">混合石灰汁与地面鼓槌吊舱和叶片。</span><span class="english">Mix lime juice with ground drumstick pods and leaves.</span></p>

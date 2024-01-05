@@ -1,5 +1,7 @@
 # widen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/widen.md)
+
 <p><span class="chinese">扩展锁骨。</span><span class="english">Widen your collarbones.</span></p>
 
 <p><span class="chinese">浅水三角洲前缘平坦、开阔。</span><span class="english">Shallow-water delta front is flat and widen.</span></p>

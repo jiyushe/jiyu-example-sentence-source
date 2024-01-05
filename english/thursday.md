@@ -1,5 +1,7 @@
 # thursday
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thursday.md)
+
 <p><span class="chinese">今天是星期四。</span><span class="english">Thursday.</span></p>
 
 <p><span class="chinese">下个星期四取件？</span><span class="english">How's next Thursday?</span></p>

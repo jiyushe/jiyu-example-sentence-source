@@ -1,5 +1,7 @@
 # 酒肉朋友
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuroupengyou.md)
+
 <p><span class="chinese">他们是酒肉朋友。</span><span class="english">They are fair-weather friends.</span></p>
 
 <p><span class="chinese">安妮特是他的酒肉朋友。</span><span class="english">Annette is his fair-weather friend.</span></p>

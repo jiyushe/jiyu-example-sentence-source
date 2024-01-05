@@ -1,5 +1,7 @@
 # 牢骚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laosao.md)
+
 <p><span class="chinese">上帝那充满牢骚的召唤。</span><span class="english">God's querulous calling.</span></p>
 
 <p><span class="chinese">那条满是牢骚者的道路上也拥挤不堪。</span><span class="english">The path of whiners is full.</span></p>

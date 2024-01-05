@@ -1,5 +1,7 @@
 # 尽心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinxin.md)
+
 <p><span class="chinese">是爱促使我的尽心戮力。</span><span class="english">It is love which engenders MY effort.</span></p>
 
 <p><span class="chinese">我们将继续尽心事工和祷告。</span><span class="english">We takeheart as we continue to work and pray.</span></p>

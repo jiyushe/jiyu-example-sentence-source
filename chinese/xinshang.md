@@ -1,5 +1,7 @@
 # 心上
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinshang.md)
+
 <p><span class="chinese">坐牢使他一生在心上留下了烙印。</span><span class="english">Prison has branded him for life.</span></p>
 
 <p><span class="chinese">心上的伤痕永远都会留在那里。</span><span class="english">At least, you'll never be hurted!</span></p>

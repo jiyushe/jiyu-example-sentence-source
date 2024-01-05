@@ -1,5 +1,7 @@
 # externalize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/externalize.md)
+
 <p><span class="chinese">提取配置信息。</span><span class="english">Externalize configuration information.</span></p>
 
 <p><span class="chinese">第二，把它记下来，让它暴露无遗。</span><span class="english">Second, write it down, to externalize it.</span></p>

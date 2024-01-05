@@ -1,5 +1,7 @@
 # bill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bill.md)
+
 <p><span class="chinese">这张票据已到期。</span><span class="english">The bill is due.</span></p>
 
 <p><span class="chinese">比尔和克琳。</span><span class="english">Bill and Colleen.</span></p>

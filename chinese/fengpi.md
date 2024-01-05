@@ -1,5 +1,7 @@
 # 封皮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengpi.md)
+
 <p><span class="chinese">我的书是深蓝色封皮。</span><span class="english">My book has a dark blue cover.</span></p>
 
 <p><span class="chinese">他用力撕包裹的封皮。</span><span class="english">He tore at the cover of the parcel.</span></p>

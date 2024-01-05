@@ -1,5 +1,7 @@
 # forefront
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forefront.md)
+
 <p><span class="chinese">成果在全行首屈一指。</span><span class="english">In the forefront of all results.</span></p>
 
 <p><span class="chinese">现在，我们处于高科技的最前沿。</span><span class="english">Presently, we’re at the forefront of high technology.</span></p>

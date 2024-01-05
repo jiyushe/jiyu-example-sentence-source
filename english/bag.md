@@ -1,5 +1,7 @@
 # bag 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bag.md)
+
 <p><span class="chinese">一个笔袋。</span><span class="english">A pencil bag.</span></p>
 
 <p><span class="chinese">拎包即可入住。</span><span class="english">Bag can stay.</span></p>

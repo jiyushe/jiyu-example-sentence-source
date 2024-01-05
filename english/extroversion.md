@@ -1,5 +1,7 @@
 # extroversion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extroversion.md)
+
 <p><span class="chinese">我知道你外向性。</span><span class="english">I know you extroversion.</span></p>
 
 <p><span class="chinese">你的生活环境应当外向些。</span><span class="english">The circumstances of your life suggest extroversion.</span></p>

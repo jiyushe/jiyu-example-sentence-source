@@ -1,5 +1,7 @@
 # 低级趣味
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dijiquwei.md)
+
 <p><span class="chinese">他是个有低级趣味的人。</span><span class="english">He is a man of vulgar taste.</span></p>
 
 <p><span class="chinese">他总是迎合低级趣味。</span><span class="english">He always panders to low tastes.</span></p>

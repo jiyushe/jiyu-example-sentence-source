@@ -1,5 +1,7 @@
 # 无情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuqing_1.md)
+
 <p><span class="chinese">比冷漠无情还坏！</span><span class="english">Oh! worse than cold-hearted!</span></p>
 
 <p><span class="chinese">但是石板是无情的。</span><span class="english">But stone flags are unforgiving.</span></p>

@@ -1,5 +1,7 @@
 # tamp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tamp.md)
+
 <p><span class="chinese">现在，中国希望压制民族主义。</span><span class="english">Now, China wants to tamp such nationalism down.</span></p>
 
 <p><span class="chinese">汤姆帮着用他软湿的拳头把土捣结实。</span><span class="english">Tom helps her tamp the soil with his squidgy fists.</span></p>

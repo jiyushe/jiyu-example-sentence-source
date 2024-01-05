@@ -1,5 +1,7 @@
 # cavalcade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cavalcade.md)
+
 <p><span class="chinese">基本的狼基因带是如何衍生出如此繁多的犬类的？</span><span class="english">How does the basic wolf tape give rise to the cavalcade of canines?</span></p>
 
 <p><span class="chinese">女王的行骑兵队有一位骑兵和几十个辆装束精致的马车。</span><span class="english">The queen's cavalcade included a mounted guard and dozens of fancy carriages.</span></p>

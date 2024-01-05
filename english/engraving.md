@@ -1,5 +1,7 @@
 # engraving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/engraving.md)
+
 <p><span class="chinese">类石膏，油泥，蜡样雕刻。</span><span class="english">Class gesso, sludge, wax sample engraving.</span></p>
 
 <p><span class="chinese">他收藏了一张古老的伦敦桥版画。</span><span class="english">He collected an old engraving of London Bridge.</span></p>

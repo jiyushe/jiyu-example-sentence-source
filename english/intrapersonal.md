@@ -1,5 +1,7 @@
 # intrapersonal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intrapersonal.md)
+
 <p><span class="chinese">它激励大脑深处的关联性思维</span><span class="english">It encourages deeper intrapersonal relationships.</span></p>
 
 <p><span class="chinese">与人相处的变化是通过十字架带给我们内心的改变而发生的。</span><span class="english">The interpersonal change that happened through the Cross happened because of the intrapersonal change.</span></p>

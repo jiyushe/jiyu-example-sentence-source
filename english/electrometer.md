@@ -1,5 +1,7 @@
 # electrometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electrometer.md)
+
 <p><span class="chinese">主控制器单元，带有两通道静电计和伺服控制器。</span><span class="english">Main Control Unit, two-channel electrometer and servo controller.</span></p>
 
 <p><span class="chinese">将一个静电计连接到开关卡输出并测量电流。</span><span class="english">Connect an electrometer to the switch card output and measure the cur rent.</span></p>

@@ -1,5 +1,7 @@
 # 石林
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shilin_1.md)
+
 <p><span class="chinese">是世界上壮丽的高山石林之一。</span><span class="english">Is in the world one of grand mountain hoodoos.</span></p>
 
 <p><span class="chinese">石林是全国著名的风景名胜。</span><span class="english">Stone Forest is a famous national scenic spot.</span></p>

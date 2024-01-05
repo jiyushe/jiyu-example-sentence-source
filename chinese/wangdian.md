@@ -1,5 +1,7 @@
 # 网点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangdian.md)
+
 <p><span class="chinese">距离最近的银行网点有多远？</span><span class="english">What is the distance to the nearest bank branch?</span></p>
 
 <p><span class="chinese">他们在阿尔及利亚也有分布网点和同伙。</span><span class="english">It has distributed networks and affiliates in Algeria.</span></p>

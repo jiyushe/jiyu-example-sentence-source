@@ -1,5 +1,7 @@
 # lamprey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lamprey.md)
+
 <p><span class="chinese">鳗发现，在东北地区的河流。</span><span class="english">Lamprey found in the northeast region rivers.</span></p>
 
 <p><span class="chinese">日本七鳃鳗是现存最原始而特化的脊椎动物之一。</span><span class="english">Japanese Lamprey is one of the most primitive extant vertebrate.</span></p>

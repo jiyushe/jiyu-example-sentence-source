@@ -1,5 +1,7 @@
 # facilitation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/facilitation.md)
+
 <p><span class="chinese">促进竞争和商务。</span><span class="english">Competitiveness and Business Facilitation.</span></p>
 
 <p><span class="chinese">这真是一个是十分有意义的贸易简易化方法。</span><span class="english">It's really a significant trade facilitation measure.</span></p>

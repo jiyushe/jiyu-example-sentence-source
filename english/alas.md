@@ -1,5 +1,7 @@
 # alas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alas.md)
+
 <p><span class="chinese">可叹呵，我曾与她相识！</span><span class="english">Alas Oh, I have met with her!</span></p>
 
 <p><span class="chinese">呜呼。讨厌这个自私的我！</span><span class="english">Alas. Dislikes this selfish me !</span></p>

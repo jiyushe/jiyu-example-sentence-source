@@ -1,5 +1,7 @@
 # endoscopy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endoscopy.md)
+
 <p><span class="chinese">胶囊内镜术有诊断价值吗?。</span><span class="english">Does Capsule Endoscopy have Diagnostic Value?</span></p>
 
 <p><span class="chinese">测压术和内窥镜可能也是必要的。</span><span class="english">Manometry and endoscopy may also be necessary.</span></p>

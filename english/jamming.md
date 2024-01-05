@@ -1,5 +1,7 @@
 # jamming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jamming.md)
+
 <p><span class="chinese">我识别出阻塞信号的调制模式了。</span><span class="english">I recognize the modulation of the jamming signal.</span></p>
 
 <p><span class="chinese">多假目标干扰在现代电子战中应用日益广泛。</span><span class="english">Multi-false-target jamming is used in modern EW widely.</span></p>

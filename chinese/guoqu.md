@@ -1,5 +1,7 @@
 # 过去
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guoqu.md)
+
 <p><span class="chinese">离树还过去点。</span><span class="english">Past the tree.</span></p>
 
 <p><span class="chinese">一个月过去了。</span><span class="english">A month passes.</span></p>

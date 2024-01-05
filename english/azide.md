@@ -1,5 +1,7 @@
 # azide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/azide.md)
+
 <p><span class="chinese">主导产品为用途广泛的叠氮化钠。</span><span class="english">Leading products for a wide range of uses of sodium azide.</span></p>
 
 <p><span class="chinese">叠氨化银不溶于水或硝酸。</span><span class="english">Silver azide does not dissolve in water or in nitric acid.</span></p>

@@ -1,5 +1,7 @@
 # blocky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blocky.md)
+
 <p><span class="chinese">该方法克服了均值漂移滤波存在块状效应的缺点。</span><span class="english">The method overcomes the defect of blocky effect in mean shift filtering.</span></p>
 
 <p><span class="chinese">头部应当有强有力的结构，脑袋宽度适中，结实。</span><span class="english">The head should be powerfully built with a moderately broad and blocky skull.</span></p>

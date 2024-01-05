@@ -1,5 +1,7 @@
 # 海报
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haibao_1.md)
+
 <p><span class="chinese">做一个迷你海报。</span><span class="english">Creat a mini-poster.</span></p>
 
 <p><span class="chinese">我喜欢收藏电影海报。</span><span class="english">I love movie posters.</span></p>

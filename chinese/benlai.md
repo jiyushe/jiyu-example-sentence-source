@@ -1,5 +1,7 @@
 # 本来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benlai.md)
+
 <p><span class="chinese">他本来可能会选择我的！</span><span class="english">He could have chosen ME!</span></p>
 
 <p><span class="chinese">因为生活本来就是一往直前的。</span><span class="english">Life is always moving on.</span></p>

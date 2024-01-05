@@ -1,5 +1,7 @@
 # inmate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inmate.md)
+
 <p><span class="chinese">囚犯骗过警卫逃跑了。</span><span class="english">The inmate outwitted his guards and escaped.</span></p>
 
 <p><span class="chinese">你会接到委任状，变成一个同居者。</span><span class="english">You will Receive a Warrant and Become an Inmate.</span></p>

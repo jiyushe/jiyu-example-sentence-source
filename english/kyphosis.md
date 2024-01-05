@@ -1,5 +1,7 @@
 # kyphosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kyphosis.md)
+
 <p><span class="chinese">矫正驼背。</span><span class="english">Correction of kyphosis.</span></p>
 
 <p><span class="chinese">导致交界后凸的因素仍未完全阐明。</span><span class="english">Factors causing junctional kyphosis have not been clearly elucidated.</span></p>

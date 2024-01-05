@@ -1,5 +1,7 @@
 # thence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thence.md)
+
 <p><span class="chinese">以撒从那里上别是巴去。</span><span class="english">And he went up from thence to Beersheba.</span></p>
 
 <p><span class="chinese">我们可以乘飞机去伦敦，再从那里去巴黎。</span><span class="english">We can fly to London and thence to Paris.</span></p>

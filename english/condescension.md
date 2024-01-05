@@ -1,5 +1,7 @@
 # condescension
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/condescension.md)
+
 <p><span class="chinese">我说出售，对它而言还是一种屈尊。</span><span class="english">I say sell out, andI sayithas a condescension toit.</span></p>
 
 <p><span class="chinese">不要在你的智慧中夹杂着傲慢。不要使你的谦虚心缺乏智慧。</span><span class="english">You shall not do wisely mixing pride. No making your condescension lack wisdom.</span></p>

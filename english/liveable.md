@@ -1,5 +1,7 @@
 # liveable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liveable.md)
+
 <p><span class="chinese">它如何为人类提供一个适宜的居住地？</span><span class="english">How does it provide a liveable habitat for people?</span></p>
 
 <p><span class="chinese">但尽管如此，上海从很多方面说都更适于居住。</span><span class="english">Yet for all that, Shanghai is in lots of ways a more liveable city.</span></p>

@@ -1,5 +1,7 @@
 # celtic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/celtic.md)
+
 <p><span class="chinese">凯尔特人也是个好球队。</span><span class="english">Celtic are a good team.</span></p>
 
 <p><span class="chinese">啊，神奇的古老凯尔特人的魔法。</span><span class="english">Ah, that good old Celtic magic.</span></p>

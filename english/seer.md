@@ -1,5 +1,7 @@
 # seer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seer.md)
+
 <p><span class="chinese">他总是言行一致的。</span><span class="english">Always the seer is a sayer.</span></p>
 
 <p><span class="chinese">预言者总是一个发言者。</span><span class="english">Always the seer is a sayer.</span></p>

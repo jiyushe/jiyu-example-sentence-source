@@ -1,5 +1,7 @@
 # plaza
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plaza.md)
+
 <p><span class="chinese">这是集会广场。</span><span class="english">This is a plaza.</span></p>
 
 <p><span class="chinese">在西班牙广场。</span><span class="english">En Plaza de España.</span></p>

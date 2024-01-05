@@ -1,5 +1,7 @@
 # 自首
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zishou_1.md)
+
 <p><span class="chinese">稳步辊女子前来自首途中。</span><span class="english">Steady rollin woman gonna come my way.</span></p>
 
 <p><span class="chinese">那马以两个自首至尾的距离领先赢得该场比赛。</span><span class="english">The horse won the race by two lengths.</span></p>

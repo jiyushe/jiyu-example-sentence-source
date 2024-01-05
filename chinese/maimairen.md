@@ -1,5 +1,7 @@
 # 买卖人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maimairen.md)
+
 <p><span class="chinese">他是个夺目有钱的买卖人。</span><span class="english">He was a shrewd and wealthy business-man.</span></p>
 
 <p><span class="chinese">这位买卖人十分急于卖掉他的钢笔。</span><span class="english">The tradesman was too anxious to sell his pens.</span></p>

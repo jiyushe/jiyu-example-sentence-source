@@ -1,5 +1,7 @@
 # mega
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mega.md)
+
 <p><span class="chinese">那个超级明星赚了大把大把的美元。</span><span class="english">The mega star makes maga bucks.</span></p>
 
 <p><span class="chinese">至于巨额奖金，嗯，这算什么问题？</span><span class="english">As for mega bonuses, well, what's the problem?</span></p>

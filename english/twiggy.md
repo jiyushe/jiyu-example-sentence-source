@@ -1,5 +1,7 @@
 # twiggy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/twiggy.md)
+
 <p><span class="chinese">崔姬又像男孩又像女孩，是她当时真实的生活写照。</span><span class="english">Twiggy was a little of both boy and girl, a mirror of her time.</span></p>
 
 <p><span class="chinese">62岁的超模Twiggy怎么看起来那么年轻?</span><span class="english">And how can 62-year-old supermodel Twiggy still look so fabulous?</span></p>

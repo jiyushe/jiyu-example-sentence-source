@@ -1,5 +1,7 @@
 # 一拍即合
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yipaijihe.md)
+
 <p><span class="chinese">我们当天真的一拍即合。</span><span class="english">We really hit it off that day.</span></p>
 
 <p><span class="chinese">双方一拍即合，欣然同意了。</span><span class="english">Both sides hit it off and agreed.</span></p>

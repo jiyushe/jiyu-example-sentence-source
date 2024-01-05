@@ -1,5 +1,7 @@
 # flee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flee.md)
+
 <p><span class="chinese">搞定了！现在我们快逃吧。</span><span class="english">Done! Now let us flee.</span></p>
 
 <p><span class="chinese">静水常深。</span><span class="english">Still water flee deep.</span></p>

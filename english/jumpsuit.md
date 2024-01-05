@@ -1,5 +1,7 @@
 # jumpsuit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jumpsuit.md)
+
 <p><span class="chinese">乍一看，这就像一个改装了的连身衣。</span><span class="english">At first glance, it may look like a mere souped-up jumpsuit.</span></p>
 
 <p><span class="chinese">他穿着人们熟悉的卡其色中山装，戴着墨镜。</span><span class="english">He wore a familiar Mao-style khaki jumpsuit and dark sunglasses.</span></p>

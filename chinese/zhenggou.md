@@ -1,5 +1,7 @@
 # 征购
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenggou.md)
+
 <p><span class="chinese">这显然意味着对苹果没有征购足够的税收。</span><span class="english">No, it obviously means that Apple isn't being taxed enough.</span></p>
 
 <p><span class="chinese">我们对于施工、征购、安装和主要工程的承包方面也积累了丰富的经验。</span><span class="english">We also have expertise on engineering, procurement, installation and commission major projects.</span></p>

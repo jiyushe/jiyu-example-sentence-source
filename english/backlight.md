@@ -1,5 +1,7 @@
 # backlight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backlight.md)
+
 <p><span class="chinese">背光的低光条件下。</span><span class="english">Backlight for low light conditions.</span></p>
 
 <p><span class="chinese">无背光。电池不能自给更换。</span><span class="english">No backlight. Battery not user replace-able.</span></p>

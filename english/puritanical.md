@@ -1,5 +1,7 @@
 # puritanical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/puritanical.md)
+
 <p><span class="chinese">操他妈清教徒的父权制！</span><span class="english">Screw you, puritanical patriarchy!</span></p>
 
 <p><span class="chinese">该小说是对美国古板的清教价值观的辛辣控诉。</span><span class="english">The book is a biting indictment of the US' puritanical values.</span></p>

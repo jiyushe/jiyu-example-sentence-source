@@ -1,5 +1,7 @@
 # nag
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nag.md)
+
 <p><span class="chinese">别在我面前唠叨！</span><span class="english">Don‘t nag me!</span></p>
 
 <p><span class="chinese">不要唠叨他。</span><span class="english">Do not nag him.</span></p>

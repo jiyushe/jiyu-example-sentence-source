@@ -1,5 +1,7 @@
 # townhouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/townhouse.md)
+
 <p><span class="chinese">朋友租的连排别墅。</span><span class="english">My friend rent the townhouse.</span></p>
 
 <p><span class="chinese">朋友在多伦多新买的连排别墅。</span><span class="english">My friend's new bought townhouse in Toronto.</span></p>

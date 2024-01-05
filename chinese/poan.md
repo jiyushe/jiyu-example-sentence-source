@@ -1,5 +1,7 @@
 # 破案
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/poan.md)
+
 <p><span class="chinese">但是用它破案比靠那些侦探们要简单多少呢？</span><span class="english">But how easy would it be to outfox the detectives?</span></p>
 
 <p><span class="chinese">你不坦白交代，警察也能破案。</span><span class="english">Even if you don't confess, the police will clear up.</span></p>

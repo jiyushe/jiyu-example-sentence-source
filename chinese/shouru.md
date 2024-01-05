@@ -1,5 +1,7 @@
 # 受辱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouru.md)
+
 <p><span class="chinese">他默默地受辱。</span><span class="english">He suffered the insults in silence.</span></p>
 
 <p><span class="chinese">他对那次受辱仍耿耿于怀。</span><span class="english">The insult still rankled in his mind.</span></p>

@@ -1,5 +1,7 @@
 # syrian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/syrian.md)
+
 <p><span class="chinese">乃缦是亚兰王军队的司令员。</span><span class="english">Naaman was the commander of the Syrian army.</span></p>
 
 <p><span class="chinese">因此制裁损害不了叙利亚人民。</span><span class="english">It wouldn't hurt the Syrian people, " said Tabler."</span></p>

@@ -1,5 +1,7 @@
 # 违心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weixin_3.md)
+
 <p><span class="chinese">祝你幸福，我违心的说。</span><span class="english">Wish you happiness, I must say.</span></p>
 
 <p><span class="chinese">这是一个让所有人感到违心的论断。</span><span class="english">This is, of course, a counterintuitive argument.</span></p>

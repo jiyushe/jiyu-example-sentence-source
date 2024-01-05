@@ -1,5 +1,7 @@
 # calibration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calibration.md)
+
 <p><span class="chinese">犯错是自我纠正的必经之道。</span><span class="english">Mistakes are tools for calibration.</span></p>
 
 <p><span class="chinese">校准也是在这一步中进行。</span><span class="english">Calibration takes place in this step.</span></p>

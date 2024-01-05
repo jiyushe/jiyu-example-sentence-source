@@ -1,5 +1,7 @@
 # refractometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refractometer.md)
+
 <p><span class="chinese">用折射仪测量一下氧气的浓度。</span><span class="english">Check oxygen concentration by a refractometer.</span></p>
 
 <p><span class="chinese">注意为要损坏折射仪。</span><span class="english">Care should be taken not to damage the refractometer.</span></p>

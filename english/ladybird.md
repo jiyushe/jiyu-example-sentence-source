@@ -1,5 +1,7 @@
 # ladybird
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ladybird.md)
+
 <p><span class="chinese">这是一只瓢虫。</span><span class="english">It's a ladybird.</span></p>
 
 <p><span class="chinese">喂！你是瓢虫吗?。</span><span class="english">Are you a ladybird ?</span></p>

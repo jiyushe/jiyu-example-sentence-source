@@ -1,5 +1,7 @@
 # 汁液
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiye_3.md)
+
 <p><span class="chinese">他们从植物里吸取汁液。</span><span class="english">They suck juices out of the plant.</span></p>
 
 <p><span class="chinese">白色的汁液从边上渗出来。</span><span class="english">The white juice oozes out the sides.</span></p>

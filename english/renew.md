@@ -1,5 +1,7 @@
 # renew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/renew.md)
+
 <p><span class="chinese">我能续借吗？</span><span class="english">Can I renew them?</span></p>
 
 <p><span class="chinese">我必须续借这本书。</span><span class="english">I must renew the book.</span></p>

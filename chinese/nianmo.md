@@ -1,5 +1,7 @@
 # 年末
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianmo.md)
+
 <p><span class="chinese">这是学年末。苏珊正要离开。她正向朱老师告别。</span><span class="english">She is saying goodbye to Mr Zhu.</span></p>
 
 <p><span class="chinese">到了第三年末我们基本上。</span><span class="english">At the end of 12 months, not so bad.</span></p>

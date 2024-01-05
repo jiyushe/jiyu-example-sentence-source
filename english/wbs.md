@@ -1,5 +1,7 @@
 # wbs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wbs.md)
+
 <p><span class="chinese">需求不属于WBS。</span><span class="english">Requirements do not belong on a WBS.</span></p>
 
 <p><span class="chinese">一般而言，你并不需要一个WBS字典。</span><span class="english">Normally, you wouldn’t need a WBS dictionary.</span></p>

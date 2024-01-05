@@ -1,5 +1,7 @@
 # ileal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ileal.md)
+
 <p><span class="chinese">回肠消化率比粪消化率准确。</span><span class="english">Ileal digestibility is more accurate than fecal.</span></p>
 
 <p><span class="chinese">肽的释放也是“回肠制动”机制的一部分。</span><span class="english">A peptide release is also part of the "ileal brake" mechanism.</span></p>

@@ -1,5 +1,7 @@
 # sunspot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sunspot.md)
+
 <p><span class="chinese">太阳黑子进入冬眠期？</span><span class="english">Sunspot Hibernation?</span></p>
 
 <p><span class="chinese">黑子半影具有旋涡结构。</span><span class="english">There is the spiral structure in the sunspot penumbra.</span></p>

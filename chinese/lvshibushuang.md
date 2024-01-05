@@ -1,5 +1,7 @@
 # 屡试不爽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvshibushuang.md)
+
 <p><span class="chinese">这个伎俩屡试不爽。</span><span class="english">That always does the trick.</span></p>
 
 <p><span class="chinese">这个办法屡试不爽，非常的好用！</span><span class="english">Time-tested this approach, very easy to use!</span></p>

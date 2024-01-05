@@ -1,5 +1,7 @@
 # triceratops
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/triceratops.md)
+
 <p><span class="chinese">他是三角恐龙。</span><span class="english">He is a Triceratops.</span></p>
 
 <p><span class="chinese">三角恐龙得名于“三角蜥蜴”。</span><span class="english">Triceratops means"three-horned lizard."</span></p>

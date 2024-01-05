@@ -1,5 +1,7 @@
 # discoverer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discoverer.md)
+
 <p><span class="chinese">好歹也是“发现不老泉的人”耶。</span><span class="english">Discoverer of the Fountain of Youth.</span></p>
 
 <p><span class="chinese">那颗行星是以它的发现者命名的。</span><span class="english">The planet was named after its discoverer.</span></p>

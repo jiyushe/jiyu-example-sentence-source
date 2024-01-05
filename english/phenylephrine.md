@@ -1,5 +1,7 @@
 # phenylephrine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phenylephrine.md)
+
 <p><span class="chinese">格外小心使用减充血剂，他们含有钾麻黄碱或苯肾上腺素。</span><span class="english">Be careful about using decongestants that contain pseudoephedrine or phenylephrine.</span></p>
 
 <p><span class="chinese">该药物组合也可与苯肾上腺素联合使用来解决鼻塞。</span><span class="english">The drug combination is also available with phenylephrine to address nasal congestion.</span></p>

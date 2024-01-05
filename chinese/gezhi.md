@@ -1,5 +1,7 @@
 # 咯吱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gezhi.md)
+
 <p><span class="chinese">她在咯吱她的小宝宝。</span><span class="english">She is tickling her baby.</span></p>
 
 <p><span class="chinese">咯吱，从南边来的！</span><span class="english">Shriek, it's from the south!</span></p>

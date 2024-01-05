@@ -1,5 +1,7 @@
 # teahouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teahouse.md)
+
 <p><span class="chinese">在一个路边的茶馆里。</span><span class="english">In a roadside teahouse.</span></p>
 
 <p><span class="chinese">那我就先在这家茶楼休息一会儿。</span><span class="english">I'll take a rest at this teahouse.</span></p>

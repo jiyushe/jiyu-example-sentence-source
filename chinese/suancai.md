@@ -1,5 +1,7 @@
 # 酸菜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suancai.md)
+
 <p><span class="chinese">好的.我喜欢酸菜鱼汤.</span><span class="english">That`s good. I like it.</span></p>
 
 <p><span class="chinese">您也喜欢吃酸菜吗?。</span><span class="english">Do you also like to eat sauerkraut ?</span></p>

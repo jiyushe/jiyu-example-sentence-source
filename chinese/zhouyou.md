@@ -1,5 +1,7 @@
 # 周游
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhouyou.md)
+
 <p><span class="chinese">我在周游世界，</span><span class="english">I'm travelling around the world,</span></p>
 
 <p><span class="chinese">去年夏天我周游了欧洲。</span><span class="english">I toured through Europe last summer.</span></p>

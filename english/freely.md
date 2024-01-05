@@ -1,5 +1,7 @@
 # freely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freely.md)
+
 <p><span class="chinese">我现在爽快地原谅你。</span><span class="english">I freely forgive you now.</span></p>
 
 <p><span class="chinese">有些植物开花而不结籽。</span><span class="english">This plant flowers freely.</span></p>

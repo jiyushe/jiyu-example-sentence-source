@@ -1,5 +1,7 @@
 # practicing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/practicing.md)
+
 <p><span class="chinese">我狂爱练英语！</span><span class="english">I love practicing English.</span></p>
 
 <p><span class="chinese">通过学习和锻炼。</span><span class="english">By studying and practicing.</span></p>

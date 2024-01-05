@@ -1,5 +1,7 @@
 # 明子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingzi_1.md)
+
 <p><span class="chinese">带着侑京的孩子去找明子的静恩！</span><span class="english">Take the children to find yuko Beijing static Ming boon!</span></p>
 
 <p><span class="chinese">明子却误解那是静恩的女儿。</span><span class="english">Ming zi is static grace but misunderstanding that the daughter.</span></p>

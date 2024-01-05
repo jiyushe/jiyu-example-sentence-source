@@ -1,5 +1,7 @@
 # 续断
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuduan.md)
+
 <p><span class="chinese">川续断斑枯病是川续断种植区普遍发生的一种新病害。</span><span class="english">The pathogen of rot spot, which is a severe disease of Iris japonica Thumb.</span></p>
 
 <p><span class="chinese">五鹤续断是恩施州最佳道地药材之一。</span><span class="english">Wu-He Dipsacus Root is one of the best genuine medicinal materials in Enshi.</span></p>

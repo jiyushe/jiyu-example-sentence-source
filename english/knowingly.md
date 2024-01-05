@@ -1,5 +1,7 @@
 # knowingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knowingly.md)
+
 <p><span class="chinese">玛丽绝对不会故意地伤害任何人。</span><span class="english">Mary would never knowingly hurt anyone.</span></p>
 
 <p><span class="chinese">风恣婆娑浴寒冬。</span><span class="english">The wind knowingly biddings bath winter.</span></p>

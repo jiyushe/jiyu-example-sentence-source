@@ -1,5 +1,7 @@
 # 婚姻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hunyin.md)
+
 <p><span class="chinese">婚姻是终身大事。</span><span class="english">Marriage is for life.</span></p>
 
 <p><span class="chinese">我的婚姻结束了。</span><span class="english">My marriage was over.</span></p>

@@ -1,5 +1,7 @@
 # royston
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/royston.md)
+
 <p><span class="chinese">你在地图上永远找不到罗伊斯顿山谷小村。</span><span class="english">You'll never find the village of Royston Valley on maps.</span></p>
 
 <p><span class="chinese">丽芙・泰勒和罗伊斯顿・兰登已经证实了正式分手。</span><span class="english">Liv Tyler and Royston Langdon have confirmed their separation.</span></p>

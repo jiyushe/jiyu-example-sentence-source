@@ -1,5 +1,7 @@
 # thomas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thomas.md)
+
 <p><span class="chinese">托马斯</span><span class="english">Thomas.</span></p>
 
 <p><span class="chinese">托马斯·塞德潘是谁</span><span class="english">Who was Thomas Sutpen?</span></p>

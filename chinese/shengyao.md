@@ -1,5 +1,7 @@
 # 生药
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengyao.md)
+
 <p><span class="chinese">吕方贩卖生药亏了本，不能回乡。</span><span class="english">Lu side traffic crude drug lose money, go back township.</span></p>
 
 <p><span class="chinese">目的对吉尔吉斯斯坦野生粗毛甘草进行生药学研究。</span><span class="english">Objective To study pharmacognosy of wild Glycyrrhiza aspera Pall.</span></p>

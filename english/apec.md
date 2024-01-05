@@ -1,5 +1,7 @@
 # apec
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apec.md)
+
 <p><span class="chinese">经济技术合作是APEC的重要支柱。</span><span class="english">ECOTECH is one of the important pillars of APEC.</span></p>
 
 <p><span class="chinese">他把夏威夷作为两年后亚非合作会议的开会地点。</span><span class="english">And he chose Hawaii for the APEC meeting in 2 years.</span></p>

@@ -1,5 +1,7 @@
 # 义务
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiwu_6.md)
+
 <p><span class="chinese">这是我的义务。</span><span class="english">This is my duty.</span></p>
 
 <p><span class="chinese">献血是我们的义务。</span><span class="english">To donate is our duty.</span></p>

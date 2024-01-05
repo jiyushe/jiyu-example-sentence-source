@@ -1,5 +1,7 @@
 # 延缓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanhuan.md)
+
 <p><span class="chinese">且富含骨胶原可延缓衰老。</span><span class="english">Rich in collagen, anti aging.</span></p>
 
 <p><span class="chinese">我们要让这里大大地延缓</span><span class="english">We'll put a big ritard on it there.</span></p>

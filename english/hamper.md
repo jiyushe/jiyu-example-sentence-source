@@ -1,5 +1,7 @@
 # hamper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hamper.md)
+
 <p><span class="chinese">你会受到那个家伙的牵连。</span><span class="english">You would hamper yourself with that fellow.</span></p>
 
 <p><span class="chinese">他要领取由新堡运来的一箱和一大篮货物。</span><span class="english">He wanted a box and a hamper that come from Newcastle.</span></p>

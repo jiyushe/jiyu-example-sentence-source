@@ -1,5 +1,7 @@
 # 多多益善
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duoduoyishan.md)
+
 <p><span class="chinese">现在我想要更多的冠军头衔，多多益善。</span><span class="english">Now I want other titles, as many as possible.</span></p>
 
 <p><span class="chinese">新鲜的空气对身体健康很有好处，多多益善。</span><span class="english">Fresh air is good for health. Plenty is no plague.</span></p>

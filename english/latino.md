@@ -1,5 +1,7 @@
 # latino
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/latino.md)
+
 <p><span class="chinese">您是否为西裔或拉丁裔？</span><span class="english">Are you of Hispanic or Latino origin?</span></p>
 
 <p><span class="chinese">一首歌曲由拉丁说唱团欠款习惯。</span><span class="english">A song performed by latino rap group Delinquent Habits.</span></p>

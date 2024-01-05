@@ -1,5 +1,7 @@
 # 不曾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buceng.md)
+
 <p><span class="chinese">他不曾来过。</span><span class="english">He has never been here.</span></p>
 
 <p><span class="chinese">我猜你也不曾和我耍性子。</span><span class="english">I guess you cant, ever.</span></p>

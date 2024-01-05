@@ -1,5 +1,7 @@
 # 令人钦佩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingrenqinpei.md)
+
 <p><span class="chinese">贝顿是个令人钦佩的人物。</span><span class="english">Beyton is an admirable character.</span></p>
 
 <p><span class="chinese">对于一个还没上高中的孩子能取得这种成就是非常令人钦佩的。</span><span class="english">That's impressive for someone not yet in high school.</span></p>

@@ -1,5 +1,7 @@
 # 板鸭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banya.md)
+
 <p><span class="chinese">你在板鸭很成功啊，我们都拜读了。</span><span class="english">You are very successful in Spain. We all read about it.</span></p>
 
 <p><span class="chinese">板鸭是湖南人的家常菜，尤其春节，是桌上必备菜式之一。</span><span class="english">Hunan dishes are the duck, especially the Spring Festival, is one of the dishes on their desks.</span></p>

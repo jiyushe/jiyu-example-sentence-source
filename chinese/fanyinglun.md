@@ -1,5 +1,7 @@
 # 反映论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanyinglun.md)
+
 <p><span class="chinese">用朴素反映论的观点定义信息是倒退。</span><span class="english">It is regradation to define information by naive reflectionism.</span></p>
 
 <p><span class="chinese">它是对“政治功利论”和“认识—反映论”阐释模式的反拨。</span><span class="english">It sets "the theory of political utility " and "the theory of cognition -reflection "to rights.</span></p>

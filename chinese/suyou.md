@@ -1,5 +1,7 @@
 # 素油
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suyou.md)
+
 <p><span class="chinese">目的制备番茄红素油树脂微囊，并对其稳定性进行考察。</span><span class="english">ObjectiveTo prepare lycopene oil resin microcapsule and study its stability.</span></p>
 
 <p><span class="chinese">因此，番茄红素油树脂需隔氧、避光、低温保存。</span><span class="english">So the storage of lycopene oleoresin needs avoiding light and oxygen, cryopreservation.</span></p>

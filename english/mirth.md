@@ -1,5 +1,7 @@
 # mirth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mirth.md)
+
 <p><span class="chinese">小女孩格格地笑了起来。</span><span class="english">The little girl burbled with mirth.</span></p>
 
 <p><span class="chinese">生而不乐，灯里无油。</span><span class="english">Life without mirth is a lamp without oil.</span></p>

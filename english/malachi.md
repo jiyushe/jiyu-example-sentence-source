@@ -1,5 +1,7 @@
 # malachi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malachi.md)
+
 <p><span class="chinese">请读玛拉基书。</span><span class="english">Read the book of Malachi.</span></p>
 
 <p><span class="chinese">耶和华藉玛拉基传给以色列的默示。</span><span class="english">The word of the Lord to Israel by Malachi.</span></p>

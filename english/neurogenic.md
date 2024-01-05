@@ -1,5 +1,7 @@
 # neurogenic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neurogenic.md)
+
 <p><span class="chinese">几乎所有的病人都有神经性膀胱。</span><span class="english">Almost all patients have a neurogenic bladder.</span></p>
 
 <p><span class="chinese">目的分析外周性神经源性肿瘤的MRI表现。</span><span class="english">Objective To analyse the MRI findings of peripheral neurogenic tumors.</span></p>

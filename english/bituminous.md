@@ -1,5 +1,7 @@
 # bituminous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bituminous.md)
+
 <p><span class="chinese">这些烟煤可以用来做什么？</span><span class="english">What can we do with the bituminous coal?</span></p>
 
 <p><span class="chinese">沥青，柏油一种含沥青物质，如沥青，用于铺路。</span><span class="english">A bituminous material, such as asphalt, used to pave roads.</span></p>

@@ -1,5 +1,7 @@
 # coccidia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coccidia.md)
+
 <p><span class="chinese">国内外对染色方法在球虫方面的应用报道较少。</span><span class="english">Reports about applications of dyeing in coccidia have been deficient.</span></p>
 
 <p><span class="chinese">对我国田间球虫耐药性现状的分析表明，球虫耐药性十分严重。</span><span class="english">The drug resistance of chicken coccidia is very serious problem in China.</span></p>

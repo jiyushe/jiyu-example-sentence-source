@@ -1,5 +1,7 @@
 # exophthalmos
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exophthalmos.md)
+
 <p><span class="chinese">搏动性突眼的恢复与压迫颈总动脉有关。</span><span class="english">Press the CCA is proved to be relative with recovery of pulsating exophthalmos.</span></p>
 
 <p><span class="chinese">外伤性搏动性眼球突出的可脱性球囊栓塞手术。</span><span class="english">Embolization treatment with detachable balloon for traumatic pulsating exophthalmos.</span></p>

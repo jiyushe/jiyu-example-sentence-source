@@ -1,5 +1,7 @@
 # titrant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/titrant.md)
+
 <p><span class="chinese">氢氧化钠标准溶液浓度的不确定度主要由标定时消耗体积的读数误差产生。</span><span class="english">It showed by the results that the uncertainty was mainly caused by the titrant volume.</span></p>
 
 <p><span class="chinese">用0.1M标准NaOH溶液滴定剂，滴定到溶液由红色变为橙色。</span><span class="english">Use 0.1M standard NaOH solution titrant to titrate the solution from red colour to orange.</span></p>

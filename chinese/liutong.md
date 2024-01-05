@@ -1,5 +1,7 @@
 # 流通
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liutong.md)
+
 <p><span class="chinese">在CCL的收藏中，那是耶鲁大学的高流通库。</span><span class="english">It's in the CCL  collection.</span></p>
 
 <p><span class="chinese">目前没有金币在流通。</span><span class="english">There are not gold coins about now.</span></p>

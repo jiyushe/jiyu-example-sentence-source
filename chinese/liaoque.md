@@ -1,5 +1,7 @@
 # 了却
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liaoque.md)
+
 <p><span class="chinese">他想以自杀来了却他的心病。</span><span class="english">He attempted to end his trouble by suicide.</span></p>
 
 <p><span class="chinese">如今我了却，心愿，自当远行。</span><span class="english">I finish at present, wish, from be distant journey.</span></p>

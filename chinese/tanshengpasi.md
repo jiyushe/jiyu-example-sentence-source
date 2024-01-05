@@ -1,5 +1,7 @@
 # 贪生怕死
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanshengpasi.md)
+
 <p><span class="chinese">终究昭阳会否贪生怕死？</span><span class="english">Zhaoyang will you afraid to die after all?</span></p>
 
 <p><span class="chinese">噢，我并不恐惧任何人，我可以为你贪生怕死。</span><span class="english">Oh, I am not scared of anyone, I die for you.</span></p>

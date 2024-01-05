@@ -1,5 +1,7 @@
 # compulsorily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compulsorily.md)
+
 <p><span class="chinese">你觉得政府是否应该强迫所有市民带口罩或胶手套？</span><span class="english">Should government compulsorily make citizen to wear surgical mask or gloves?</span></p>
 
 <p><span class="chinese">为此，我们回报，我们不会强制限制外籍球员。</span><span class="english">For this reason we return and we will not compulsorily limit foreign players.</span></p>

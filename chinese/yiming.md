@@ -1,5 +1,7 @@
 # 易名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiming.md)
+
 <p><span class="chinese">在这以后，这个地方易名为纽约。</span><span class="english">Then the place was renamed New York.</span></p>
 
 <p><span class="chinese">学校创建以来，随主管部门的变更曾几度易名。</span><span class="english">Since the school foundation, several times has changed name along with Department responsible for the work's change.</span></p>

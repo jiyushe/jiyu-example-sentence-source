@@ -1,5 +1,7 @@
 # 跳水池
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaoshuichi.md)
+
 <p><span class="chinese">跳水池有多深？</span><span class="english">How deep is the diving pool?</span></p>
 
 <p><span class="chinese">跳水运动在跳水池中进行。</span><span class="english">Movement in the diving pool for diving.</span></p>

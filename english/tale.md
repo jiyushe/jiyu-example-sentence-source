@@ -1,5 +1,7 @@
 # tale
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tale.md)
+
 <p><span class="chinese">这是一个凄惨的故事。</span><span class="english">It's a tragic tale.</span></p>
 
 <p><span class="chinese">音调优美的。</span><span class="english">EF-a tale of melodic.</span></p>

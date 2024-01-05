@@ -1,5 +1,7 @@
 # acorn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acorn.md)
+
 <p><span class="chinese">橡子糖果！</span><span class="english">Acorn candies!</span></p>
 
 <p><span class="chinese">每棵橡树都曾湜壹粒橡子。</span><span class="english">Every oak must be an acorn.</span></p>

@@ -1,5 +1,7 @@
 # linear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/linear.md)
+
 <p><span class="chinese">一些线性代数。</span><span class="english">Some linear algebra.</span></p>
 
 <p><span class="chinese">每一个都是线性的。</span><span class="english">Each of them are linear.</span></p>

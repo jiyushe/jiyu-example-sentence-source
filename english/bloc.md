@@ -1,5 +1,7 @@
 # bloc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bloc.md)
+
 <p><span class="chinese">这一地区性集团已土崩瓦解。</span><span class="english">This regional bloc has fallen apart.</span></p>
 
 <p><span class="chinese">并且朝着政治联盟方向发展。</span><span class="english">And increasingly important political bloc.</span></p>

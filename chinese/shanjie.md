@@ -1,5 +1,7 @@
 # 删节
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanjie.md)
+
 <p><span class="chinese">DVD版电影是没有经过删节的。</span><span class="english">The movie in DVD is unabridged.</span></p>
 
 <p><span class="chinese">他正在对他的书进行删节。</span><span class="english">He's currently abridging his book.</span></p>

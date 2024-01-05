@@ -1,5 +1,7 @@
 # 转译
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanyi_4.md)
+
 <p><span class="chinese">Namaste转译成很多事情。</span><span class="english">Namaste translates into many things.</span></p>
 
 <p><span class="chinese">这些梵语文本应该转译过来。</span><span class="english">The Sanskrit text had to be transliterated.</span></p>

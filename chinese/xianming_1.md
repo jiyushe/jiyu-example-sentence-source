@@ -1,5 +1,7 @@
 # 贤明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianming_1.md)
+
 <p><span class="chinese">有些人贤明，有些人则不然。</span><span class="english">Some are wise, some are otherwise.</span></p>
 
 <p><span class="chinese">贤明的统治者在胜利时能宽宏大量。</span><span class="english">A wise ruler is generous in victory.</span></p>

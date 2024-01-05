@@ -1,5 +1,7 @@
 # 轻敌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingdi_1.md)
+
 <p><span class="chinese">王子尚大意轻敌而输掉比赛。</span><span class="english">The prince is careless lightly and lose the game.</span></p>
 
 <p><span class="chinese">他后悔我自己过于轻敌了。</span><span class="english">He deeply regretted that he had taken the enemy too lightly.</span></p>

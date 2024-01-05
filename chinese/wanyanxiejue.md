@@ -1,5 +1,7 @@
 # 婉言谢绝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanyanxiejue.md)
+
 <p><span class="chinese">还是婉言谢绝？</span><span class="english">Or do you decline?</span></p>
 
 <p><span class="chinese">她婉言谢绝参加他们的活动。</span><span class="english">She declined to join them.</span></p>

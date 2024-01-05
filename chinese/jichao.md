@@ -1,5 +1,7 @@
 # 讥嘲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jichao.md)
+
 <p><span class="chinese">我不能忍受被别人讥嘲！</span><span class="english">I can't stand growing laugusthed at!</span></p>
 
 <p><span class="chinese">那种给女权运动招来讥嘲的人。</span><span class="english">The sort who drew sneers about feminism.</span></p>

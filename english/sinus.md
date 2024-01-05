@@ -1,5 +1,7 @@
 # sinus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sinus.md)
+
 <p><span class="chinese">窦性心动过速！</span><span class="english">Sinus tachycardia!</span></p>
 
 <p><span class="chinese">姜窦痛哭失声。</span><span class="english">Ginger sinus in tears.</span></p>

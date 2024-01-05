@@ -1,5 +1,7 @@
 # floristic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/floristic.md)
+
 <p><span class="chinese">中国伞形科特有属的区系分析。</span><span class="english">The floristic analysis of endemic genera in Chinese Umbelliferae.</span></p>
 
 <p><span class="chinese">对林-药复合模式植物种类的选择进行了研究。</span><span class="english">The floristic selection of forest-herb complex model was also studied.</span></p>

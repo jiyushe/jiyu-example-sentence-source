@@ -1,5 +1,7 @@
 # 净土
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingtu.md)
+
 <p><span class="chinese">英雄背后，留下一方平安净土。</span><span class="english">Behind these heroes is a safe land.</span></p>
 
 <p><span class="chinese">只想为自己的思想找一片净土。</span><span class="english">Just as their ideas for a pureland.</span></p>

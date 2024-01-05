@@ -1,5 +1,7 @@
 # 食言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyan_6.md)
+
 <p><span class="chinese">他决不食言。</span><span class="english">He never beraks his word.</span></p>
 
 <p><span class="chinese">是我食言了吗？</span><span class="english">So aren't I taking it back?</span></p>

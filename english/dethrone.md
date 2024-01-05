@@ -1,5 +1,7 @@
 # dethrone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dethrone.md)
+
 <p><span class="chinese">他在那些方面和亚里士多德唱反调呢？</span><span class="english">what was he trying to un-throne, dethrone in Aristotle?</span></p>
 
 <p><span class="chinese">我们的外国债权人们已经行动起来，意图将美元赶下世界储备货币的宝座。</span><span class="english">Our foreign creditors are already moving to dethrone the dollar as the world's currency.</span></p>

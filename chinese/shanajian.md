@@ -1,5 +1,7 @@
 # 霎那间
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanajian.md)
+
 <p><span class="chinese">霎那间，一切都在摇晃，似乎整个世界就要结束。</span><span class="english">It seemed as if the world was at an end.</span></p>
 
 <p><span class="chinese">在天边淌出一股金色细流的霎那间，黎明破晓，森林苏醒。</span><span class="english">In a slick of molten gold, dawn breaks and the trees awaken.</span></p>

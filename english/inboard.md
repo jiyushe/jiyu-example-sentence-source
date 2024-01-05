@@ -1,5 +1,7 @@
 # inboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inboard.md)
+
 <p><span class="chinese">它们可收进在机身的舱中。</span><span class="english">They retract inboard into bays in the fuselage.</span></p>
 
 <p><span class="chinese">密封环也容易受到内部和外部泄漏的影响。</span><span class="english">The packing is also susceptible to both inboard and outboard leakage.</span></p>

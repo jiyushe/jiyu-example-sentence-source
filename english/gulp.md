@@ -1,5 +1,7 @@
 # gulp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gulp.md)
+
 <p><span class="chinese">他将伏特加酒一饮而尽。</span><span class="english">He downed the vodka in one gulp.</span></p>
 
 <p><span class="chinese">那男孩一口气把药喝完。</span><span class="english">The boy took the dose at the gulp.</span></p>

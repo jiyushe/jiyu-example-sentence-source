@@ -1,5 +1,7 @@
 # udi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/udi.md)
+
 <p><span class="chinese">UDI系统包括两个核心部分。</span><span class="english">The UDI system consists of two core items.</span></p>
 
 <p><span class="chinese">这首小提琴协奏曲的独奏者是耶胡迪梅纽因。</span><span class="english">The soloist in the violin concerto was yeh udi menuhin.</span></p>

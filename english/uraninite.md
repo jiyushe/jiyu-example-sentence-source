@@ -1,5 +1,7 @@
 # uraninite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uraninite.md)
+
 <p><span class="chinese">唯一的矿石矿物为晶质铀矿。</span><span class="english">Uraninite is the only ore mineral.</span></p>
 
 <p><span class="chinese">提出该岩体晶质铀矿复成因的证据。</span><span class="english">Evidence shows that the uraninite is of polygenesis.</span></p>

@@ -1,5 +1,7 @@
 # 赞同
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zantong.md)
+
 <p><span class="chinese">我也赞同这一论点。</span><span class="english">I agree with this.</span></p>
 
 <p><span class="chinese">是的，我完全赞同。</span><span class="english">Yes, I fully agree.</span></p>

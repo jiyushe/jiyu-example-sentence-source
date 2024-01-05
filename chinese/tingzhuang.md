@@ -1,5 +1,7 @@
 # 听装
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingzhuang.md)
+
 <p><span class="chinese">我们可以保证质量不比听装差。</span><span class="english">We can avouch for the quality.</span></p>
 
 <p><span class="chinese">我们可以保证质量不比听装差。</span><span class="english">We are able to give you an absolute guarantee on quality.</span></p>

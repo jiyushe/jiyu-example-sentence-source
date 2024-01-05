@@ -1,5 +1,7 @@
 # lombardy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lombardy.md)
+
 <p><span class="chinese">通过西方和伦巴第的大地</span><span class="english">Through the Lands of the West and Lombardy</span></p>
 
 <p><span class="chinese">放祭衣的圣器收藏室餐具柜，伦巴底700，落叶松木材。</span><span class="english">Sacristy sideboard for paraments, Lombardy end of 700, larch wood.</span></p>

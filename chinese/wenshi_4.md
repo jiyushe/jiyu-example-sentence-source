@@ -1,5 +1,7 @@
 # 温湿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenshi_4.md)
+
 <p><span class="chinese">高低温湿热试验箱。</span><span class="english">High and low temperature-humidity test chamber.</span></p>
 
 <p><span class="chinese">这间老宅子一年四季都是温湿的。</span><span class="english">It is wild, and humid all year around in this old house.</span></p>

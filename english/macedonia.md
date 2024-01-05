@@ -1,5 +1,7 @@
 # macedonia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/macedonia.md)
+
 <p><span class="chinese">而一切，将从马其顿开始。</span><span class="english">And everything starts from Macedonia.</span></p>
 
 <p><span class="chinese">以三个复仇女神的名义为什么你要我管理马其顿?。</span><span class="english">Why by three Furies would you want me to govern Macedonia?</span></p>

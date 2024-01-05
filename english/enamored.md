@@ -1,5 +1,7 @@
 # enamored
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enamored.md)
+
 <p><span class="chinese">他俩打得火热。</span><span class="english">They two are enamored.</span></p>
 
 <p><span class="chinese">别被手机迷花了双眼,"他说。</span><span class="english">"Don't become totally enamored by the phone," he said.</span></p>

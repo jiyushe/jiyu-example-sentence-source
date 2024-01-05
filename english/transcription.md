@@ -1,5 +1,7 @@
 # transcription
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transcription.md)
+
 <p><span class="chinese">誊本误差是什么?。</span><span class="english">What are transcription errors?</span></p>
 
 <p><span class="chinese">字母表与拼音问题。</span><span class="english">Alphabet and transcription questions.</span></p>

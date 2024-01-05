@@ -1,5 +1,7 @@
 # requite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/requite.md)
+
 <p><span class="chinese">她会回报我对她的爱吗?。</span><span class="english">Will she ever requite my love?</span></p>
 
 <p><span class="chinese">我想报答你的帮助。</span><span class="english">I'll requite you for your help.</span></p>

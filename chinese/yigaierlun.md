@@ -1,5 +1,7 @@
 # 一概而论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yigaierlun.md)
+
 <p><span class="chinese">当然不能一概而论。</span><span class="english">Not everyone, certainly.</span></p>
 
 <p><span class="chinese">但我认为不能再一概而论的了。</span><span class="english">But I believe that is no longer universally true.</span></p>

@@ -1,5 +1,7 @@
 # notation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/notation.md)
+
 <p><span class="chinese">所以它是一个简洁的标记。</span><span class="english">So it is compact notation.</span></p>
 
 <p><span class="chinese">这是速记符号。</span><span class="english">This is my shorthand notation.</span></p>

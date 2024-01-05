@@ -1,5 +1,7 @@
 # preachy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preachy.md)
+
 <p><span class="chinese">这一计划没有你想象的那么婆婆妈妈。</span><span class="english">This is a less preachy enterprise than you might expect.</span></p>
 
 <p><span class="chinese">它们并没有被「赢得」，所以它们变得好像爱讲道理。</span><span class="english">They have not been "earned. " So they come out as preachy.</span></p>

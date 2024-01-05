@@ -1,5 +1,7 @@
 # 情欲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingyu.md)
+
 <p><span class="chinese">个人电脑变成了唤起情欲的地带。</span><span class="english">The PC becomes an erogenous zone.</span></p>
 
 <p><span class="chinese">呜…但若是没有情欲又何来爱情？</span><span class="english">Oooh but what is love without lust?</span></p>

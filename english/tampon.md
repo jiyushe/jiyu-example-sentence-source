@@ -1,5 +1,7 @@
 # tampon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tampon.md)
+
 <p><span class="chinese">你要卫生棉条吗？</span><span class="english">Do you need a tampon?</span></p>
 
 <p><span class="chinese">那是我最后一个卫生棉条你有带吗？</span><span class="english">That was my last tampon . Are you packing?</span></p>

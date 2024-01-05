@@ -1,5 +1,7 @@
 # 小脚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaojiao.md)
+
 <p><span class="chinese">他推着小脚轮车乒乒乓乓地过了几道门。</span><span class="english">He crashed the trolley through the doors.</span></p>
 
 <p><span class="chinese">石头里只有奇巧的“小脚”石派上了用处。</span><span class="english">Only “delicate” Small-Foot rocks were arrayed.</span></p>

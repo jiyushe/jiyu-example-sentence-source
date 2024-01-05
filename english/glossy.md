@@ -1,5 +1,7 @@
 # glossy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glossy.md)
+
 <p><span class="chinese">我头发晕，两眼发黑。</span><span class="english">She had glossy black hair.</span></p>
 
 <p><span class="chinese">绿油油的树叶子。</span><span class="english">Green and glossy tree leaf.</span></p>

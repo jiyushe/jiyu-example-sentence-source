@@ -1,5 +1,7 @@
 # literally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/literally.md)
+
 <p><span class="chinese">他是真的欲哭无泪。</span><span class="english">He was literally crying.</span></p>
 
 <p><span class="chinese">我实际上是窜进车�的。</span><span class="english">I literally jumped in his car.</span></p>

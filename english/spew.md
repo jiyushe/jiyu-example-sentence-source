@@ -1,5 +1,7 @@
 # spew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spew.md)
+
 <p><span class="chinese">有些人看到火里，从他的嘴中。</span><span class="english">Some have seen fire spew from his mouth.</span></p>
 
 <p><span class="chinese">恒星产生这些元素并将其散布到太空中。</span><span class="english">Stars create these elements and spew them into space.</span></p>

@@ -1,5 +1,7 @@
 # ekman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ekman.md)
+
 <p><span class="chinese">还是保罗，艾克曼。</span><span class="english">This is Paul Ekman again.</span></p>
 
 <p><span class="chinese">于是埃克曼坐下来仔细观察影片，可一无所获。</span><span class="english">So Ekman sat and looked at the film. Nothing.</span></p>

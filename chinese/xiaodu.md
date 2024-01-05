@@ -1,5 +1,7 @@
 # 消毒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaodu.md)
+
 <p><span class="chinese">然后再将水井消毒。</span><span class="english">Then disinfect the well.</span></p>
 
 <p><span class="chinese">这个手机需要消消毒了。</span><span class="english">That phone needs sterilising.</span></p>

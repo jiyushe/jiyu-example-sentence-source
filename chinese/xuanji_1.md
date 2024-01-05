@@ -1,5 +1,7 @@
 # 玄机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanji_1.md)
+
 <p><span class="chinese">这些问题其实暗藏玄机。</span><span class="english">Here's the gimmick.</span></p>
 
 <p><span class="chinese">甚至他的身体里也暗藏玄机。</span><span class="english">Even his body kept its secrets.</span></p>

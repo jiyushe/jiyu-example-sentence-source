@@ -1,5 +1,7 @@
 # buildup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buildup.md)
+
 <p><span class="chinese">主要是因为他们正在不停的出冷汗。</span><span class="english">Mainly because of the sweat buildup.</span></p>
 
 <p><span class="chinese">检查耳道有无耳垢。</span><span class="english">D. Inspect canal for buildup of cerumen.</span></p>

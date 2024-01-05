@@ -1,5 +1,7 @@
 # 集体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiti_2.md)
+
 <p><span class="chinese">一个战斗队是个集体。</span><span class="english">An Army is a team.</span></p>
 
 <p><span class="chinese">我们这个班是一个集体。</span><span class="english">Our class is a group.</span></p>

@@ -1,5 +1,7 @@
 # digestion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/digestion.md)
+
 <p><span class="chinese">她的消化力很差。</span><span class="english">She has a week digestion.</span></p>
 
 <p><span class="chinese">这些药丸有助消化。</span><span class="english">These tablets assist digestion.</span></p>

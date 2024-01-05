@@ -1,5 +1,7 @@
 # mortician
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mortician.md)
+
 <p><span class="chinese">很快一位面孔严肃的殡仪师就来到了现场。</span><span class="english">Presently on the scene appears a solemn mortician.</span></p>
 
 <p><span class="chinese">同时也没有如妈妈一样的殡仪师愿意帮你埋葬死去的宠物兔子。</span><span class="english">And no mortician is going to help you bury your pet rabbit.</span></p>

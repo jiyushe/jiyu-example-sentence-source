@@ -1,5 +1,7 @@
 # ten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ten.md)
+
 <p><span class="chinese">这里就有十个.</span><span class="english">Here are ten.</span></p>
 
 <p><span class="chinese">九和十。</span><span class="english">Nine and ten.</span></p>

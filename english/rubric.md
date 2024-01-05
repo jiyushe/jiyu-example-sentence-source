@@ -1,5 +1,7 @@
 # rubric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rubric.md)
+
 <p><span class="chinese">走过两扇门，黑洞洞的幽暗中显现出注目的题目。</span><span class="english">Two doors along, a rubric stood out from the tenebrous gloom.</span></p>
 
 <p><span class="chinese">这个问题通常是在“官能性肥胖”的题目下进行讨论。</span><span class="english">It is usually discussed under the rubric of 'functional obesity'.</span></p>

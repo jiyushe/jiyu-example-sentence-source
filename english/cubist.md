@@ -1,5 +1,7 @@
 # cubist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cubist.md)
+
 <p><span class="chinese">炸弹轰炸时的混乱和恐慌场景通过立体主义的手法展现出来。</span><span class="english">The chaos and panic of the bomb scene is shown in flat, Cubist planes.</span></p>
 
 <p><span class="chinese">无论从风格与绘画的对象上，他的“立体印象派”创作变得更加自由。</span><span class="english">In both style and subject, his Cubist works became even more unrestricted.</span></p>

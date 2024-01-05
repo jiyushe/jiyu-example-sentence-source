@@ -1,5 +1,7 @@
 # disassociation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disassociation.md)
+
 <p><span class="chinese">它不能被关联中的任何一方拒绝。</span><span class="english">Disassociation can not be refused by either party to the association.</span></p>
 
 <p><span class="chinese">直接性可以和一个效果的分裂和延迟相对比。</span><span class="english">Immediacy can be contrasted with disassociation or postponement of affect.</span></p>

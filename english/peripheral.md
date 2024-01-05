@@ -1,5 +1,7 @@
 # peripheral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peripheral.md)
+
 <p><span class="chinese">使用你的外围视觉。</span><span class="english">Use your peripheral vision.</span></p>
 
 <p><span class="chinese">直接作用于外周化学感受器。</span><span class="english">Act directly to peripheral chemoreceptor.</span></p>

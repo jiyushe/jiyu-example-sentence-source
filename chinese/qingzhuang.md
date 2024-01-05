@@ -1,5 +1,7 @@
 # 情状
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingzhuang.md)
+
 <p><span class="chinese">父亲叫我解释一下信里我二哥的情状，我把我的理解说了。</span><span class="english">My father asked me to explain the sentiment.</span></p>
 
 <p><span class="chinese">面对这样一种情状，我们该相信谁？</span><span class="english">When faced with such a situation, which do we believe?</span></p>

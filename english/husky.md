@@ -1,5 +1,7 @@
 # husky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/husky.md)
+
 <p><span class="chinese">他有着亲切沙哑的声线。</span><span class="english">He had a pleasant, husky voice.</span></p>
 
 <p><span class="chinese">老师以嘶哑的声音说话。</span><span class="english">The teacher speaks wtih a husky voice.</span></p>

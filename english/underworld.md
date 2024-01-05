@@ -1,5 +1,7 @@
 # underworld
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underworld.md)
+
 <p><span class="chinese">西绪弗斯在地狱醒来。</span><span class="english">Sisyphus woke up in the underworld.</span></p>
 
 <p><span class="chinese">哈德斯被流放到冥界。</span><span class="english">Hades is banished to the underworld.</span></p>

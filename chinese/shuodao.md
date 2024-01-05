@@ -1,5 +1,7 @@
 # 说道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuodao.md)
+
 <p><span class="chinese">斯内普说道。</span><span class="english">Snape said.</span></p>
 
 <p><span class="chinese">不，他说道。</span><span class="english">No, he says.</span></p>

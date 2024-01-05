@@ -1,5 +1,7 @@
 # fidelity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fidelity.md)
+
 <p><span class="chinese">首先，有一个XML保真性的问题。</span><span class="english">First, there is a XML fidelity issue.</span></p>
 
 <p><span class="chinese">互补配对的一致性是非常高的</span><span class="english">I told you that the fidelity is very high.</span></p>

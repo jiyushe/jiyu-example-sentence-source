@@ -1,5 +1,7 @@
 # yourself
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yourself.md)
+
 <p><span class="chinese">——看看你自己吧。</span><span class="english">See for yourself.</span></p>
 
 <p><span class="chinese">轻视自我。</span><span class="english">Belittle yourself.</span></p>

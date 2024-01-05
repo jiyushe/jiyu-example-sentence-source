@@ -1,5 +1,7 @@
 # 横七竖八
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hengqishuba.md)
+
 <p><span class="chinese">船只横七竖八地挤在一起，几乎没有多少移动的空间。</span><span class="english">The clutter of ships had little room to manoeuvre.</span></p>
 
 <p><span class="chinese">我们横七竖八地和一排行李呆在一起。</span><span class="english">We are all rather cross, and have rows about luggage.</span></p>

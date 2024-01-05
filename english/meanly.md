@@ -1,5 +1,7 @@
 # meanly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meanly.md)
+
 <p><span class="chinese">他对女朋友一直非常刻薄。</span><span class="english">He had been behaving very meanly to his girlfriend.</span></p>
 
 <p><span class="chinese">这位新的领导人卑鄙地威胁我们的最深刻的社会准则。</span><span class="english">This new leader meanly threatens the deepest values of our society.</span></p>

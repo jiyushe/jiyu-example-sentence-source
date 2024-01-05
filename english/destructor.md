@@ -1,5 +1,7 @@
 # destructor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/destructor.md)
+
 <p><span class="chinese">因为它没有一个析构函数。</span><span class="english">Because it does not have a destructor.</span></p>
 
 <p><span class="chinese">如果存在析构函数，则将其重写为类终结器。</span><span class="english">If a destructor is present, rewrite that to be the class finalizer.</span></p>

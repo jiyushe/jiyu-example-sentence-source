@@ -1,5 +1,7 @@
 # tomorrow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tomorrow.md)
+
 <p><span class="chinese">明天再见！</span><span class="english">See yor tomorrow.</span></p>
 
 <p><span class="chinese">考试？明天？噢噢！</span><span class="english">Exam Tomorrow Oh-oh!</span></p>

@@ -1,5 +1,7 @@
 # 走调
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zoudiao.md)
+
 <p><span class="chinese">他唱个简单曲子都走调儿。</span><span class="english">None of them could sing in tune.</span></p>
 
 <p><span class="chinese">他唱个简单曲子都走调儿。</span><span class="english">He cannot carry even a simple tune.</span></p>

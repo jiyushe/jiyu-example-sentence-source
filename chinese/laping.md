@@ -1,5 +1,7 @@
 # 拉平
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laping.md)
+
 <p><span class="chinese">这次打腿有助于拉平身体。</span><span class="english">That helps level the body.</span></p>
 
 <p><span class="chinese">史密斯进的球把比分拉平了。</span><span class="english">Smith's goal evened the score.</span></p>

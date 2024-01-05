@@ -1,5 +1,7 @@
 # 回炉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huilu.md)
+
 <p><span class="chinese">本公司拥有废料回炉实力。</span><span class="english">The company has the strength of recycled waste.</span></p>
 
 <p><span class="chinese">然后回炉再烤5-10分钟。</span><span class="english">Return to the oven and bake for about 5-10 minutes.</span></p>

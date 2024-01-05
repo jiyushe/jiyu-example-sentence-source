@@ -1,5 +1,7 @@
 # 战利品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanlipin.md)
+
 <p><span class="chinese">战利品表续。</span><span class="english">Loot Tables cont.</span></p>
 
 <p><span class="chinese">我觉得自己像是一件战利品。</span><span class="english">I think I was like a prize of war.</span></p>

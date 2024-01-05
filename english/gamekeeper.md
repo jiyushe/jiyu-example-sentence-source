@@ -1,5 +1,7 @@
 # gamekeeper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gamekeeper.md)
+
 <p><span class="chinese">猎场看守人睡着了。</span><span class="english">The gamekeeper is asleep.</span></p>
 
 <p><span class="chinese">可是丹伯多让我留下来做了看守员。</span><span class="english">But Dumbledore let me stay on as gamekeeper.</span></p>

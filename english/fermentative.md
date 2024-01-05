@@ -1,5 +1,7 @@
 # fermentative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fermentative.md)
+
 <p><span class="chinese">一切发酵过程都是微生物作用的结果。</span><span class="english">All fermentative processes are the results of microbial activity.</span></p>
 
 <p><span class="chinese">小曲是生产小曲酒的糖化发酵剂。</span><span class="english">Xiaoqu is the saccharogenic and fermentative agent in Chinese spirits production.</span></p>

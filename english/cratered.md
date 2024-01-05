@@ -1,5 +1,7 @@
 # cratered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cratered.md)
+
 <p><span class="chinese">成年后，我又在下巴上留下了痕迹。</span><span class="english">I further cratered my chin as an adult.</span></p>
 
 <p><span class="chinese">不过也有有很多撞击坑的平原。</span><span class="english">Some of the plains are heavily cratered while others are not.</span></p>

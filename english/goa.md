@@ -1,5 +1,7 @@
 # goa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goa.md)
+
 <p><span class="chinese">我上的是补习学校。</span><span class="english">I goa cram school.</span></p>
 
 <p><span class="chinese">银行试图冻结马尔雅的资产，包括他在果阿邦的地产。</span><span class="english">Mallya's assets, including his estate in Goa.</span></p>

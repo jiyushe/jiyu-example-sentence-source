@@ -1,5 +1,7 @@
 # 公约
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongyue.md)
+
 <p><span class="chinese">他们都参与了公约的起草过程。</span><span class="english">They were all a part of the drafting.</span></p>
 
 <p><span class="chinese">伊朗是这一公约的签署国。</span><span class="english">Iran is a signatory to this convention.</span></p>

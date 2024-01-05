@@ -1,5 +1,7 @@
 # eire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eire.md)
+
 <p><span class="chinese">该奖项将对英国和爱尔兰的公民开放。</span><span class="english">The prize draw is open to citizens of the UK and Eire.</span></p>
 
 <p><span class="chinese">我们的客户是总部设在英国，爱尔兰，欧洲和澳大利亚。</span><span class="english">Our customers are based in the UK, Eire , Europe and Australia.</span></p>

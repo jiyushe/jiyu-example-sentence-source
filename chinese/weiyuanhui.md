@@ -1,5 +1,7 @@
 # 委员会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiyuanhui.md)
+
 <p><span class="chinese">我们是委员会的成员。</span><span class="english">We serve on committees.</span></p>
 
 <p><span class="chinese">硬度高达约人权委员会65。</span><span class="english">Hardness up to about HRC 65.</span></p>

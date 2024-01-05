@@ -1,5 +1,7 @@
 # 天天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiantian.md)
+
 <p><span class="chinese">天天开心！</span><span class="english">Happy every day!</span></p>
 
 <p><span class="chinese">所以我天天跳舞。</span><span class="english">So I dance daily.</span></p>

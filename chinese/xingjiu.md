@@ -1,5 +1,7 @@
 # 醒酒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingjiu.md)
+
 <p><span class="chinese">白葡萄酒到底需不需要醒酒？</span><span class="english">Should You Ever Decant White Wine?</span></p>
 
 <p><span class="chinese">建议醒酒一小时后饮用。</span><span class="english">Uncork the bottle one hour before.</span></p>

@@ -1,5 +1,7 @@
 # 螺丝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luosi.md)
+
 <p><span class="chinese">这个螺丝活动了。</span><span class="english">This screw is loose.</span></p>
 
 <p><span class="chinese">那个螺丝松了。</span><span class="english">That screw has loosened.</span></p>

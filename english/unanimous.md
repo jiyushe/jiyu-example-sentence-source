@@ -1,5 +1,7 @@
 # unanimous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unanimous.md)
+
 <p><span class="chinese">一种举国一致的文化。</span><span class="english">The condition of being unanimous.</span></p>
 
 <p><span class="chinese">帕克叙特说，这个决定是一致通过的。</span><span class="english">He adds the decision was unanimous.</span></p>

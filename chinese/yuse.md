@@ -1,5 +1,7 @@
 # 淤塞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuse.md)
+
 <p><span class="chinese">航道淤塞。</span><span class="english">The waterway is silted up.</span></p>
 
 <p><span class="chinese">该港口一年前就淤塞了。</span><span class="english">The harbour silted up a year ago.</span></p>

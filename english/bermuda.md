@@ -1,5 +1,7 @@
 # bermuda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bermuda.md)
+
 <p><span class="chinese">外景镜头是在百慕大拍摄的。</span><span class="english">The exterior shots were taken in Bermuda.</span></p>
 
 <p><span class="chinese">还有海边的百慕大鳄鱼产业。</span><span class="english">Even the offshore stuff, caymans, bermuda.</span></p>

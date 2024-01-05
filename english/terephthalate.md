@@ -1,5 +1,7 @@
 # terephthalate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/terephthalate.md)
+
 <p><span class="chinese">注坯模型的未加强，超级坚韧聚丁烯对苯二酸盐树脂。</span><span class="english">Unreinforced, Super Tough polybutylene terephthalate resin for injection molding.</span></p>
 
 <p><span class="chinese">无加强，超级强韧，黑色聚对苯二甲酸丁二酯树脂注塑。</span><span class="english">Unreinforced, Super Tough, black polybutylene terephthalate resin for injection molding.</span></p>

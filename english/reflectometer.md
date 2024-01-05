@@ -1,5 +1,7 @@
 # reflectometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reflectometer.md)
+
 <p><span class="chinese">另外，本文利用该方法完成了对多端口反射计的误差分析，得到定量分析结果。</span><span class="english">The quantitative error analysis using this method for a multi-port reflectometer is given also.</span></p>
 
 <p><span class="chinese">光时域反射计非光纤通信必出无否长的的测量仪器。</span><span class="english">Optical Time Domain Reflectometer is a measuring instrument that is essential for optical fiber communication.</span></p>

@@ -1,5 +1,7 @@
 # 工作服
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongzuofu.md)
+
 <p><span class="chinese">穿上你的工作服吧。</span><span class="english">Put on your work clothes.</span></p>
 
 <p><span class="chinese">小孩穿的一种工作服。</span><span class="english">A coverall worn by children.</span></p>

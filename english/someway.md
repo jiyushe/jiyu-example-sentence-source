@@ -1,5 +1,7 @@
 # someway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/someway.md)
+
 <p><span class="chinese">我可能可以坚持。</span><span class="english">Perhaps I could insist someway.</span></p>
 
 <p><span class="chinese">以某种方法告诉我吧，女孩，说你需要我。</span><span class="english">Someway let me know, you want me girl.</span></p>

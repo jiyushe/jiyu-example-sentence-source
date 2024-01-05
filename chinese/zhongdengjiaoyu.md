@@ -1,5 +1,7 @@
 # 中等教育
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongdengjiaoyu.md)
+
 <p><span class="chinese">在你最后一年，你要参加一个普通中等教育考试。</span><span class="english">You do a thing called GCSEs in your last year.</span></p>
 
 <p><span class="chinese">中等教育包含了十年级到十二年级。</span><span class="english">Secondary education comprised grades ten through twelve.</span></p>

@@ -1,5 +1,7 @@
 # 泰然自若
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tairanziruo.md)
+
 <p><span class="chinese">于我上方高处，泰然自若。</span><span class="english">Poised high above me there.</span></p>
 
 <p><span class="chinese">甚至那些最泰然自若的人也显得表情严峻、面如土色。</span><span class="english">Even the most stoic looked grim and ashen.</span></p>

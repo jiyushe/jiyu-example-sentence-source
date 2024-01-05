@@ -1,5 +1,7 @@
 # palfrey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palfrey.md)
+
 <p><span class="chinese">他的坐骑嘶鸣着。</span><span class="english">His palfrey neighs.</span></p>
 
 <p><span class="chinese">德勃拉·帕尔弗瑞称她那已不复存在的服务是“性幻想服务”。</span><span class="english">Deborah Palfrey said her now-defunct business was an "erotic fantasy service".</span></p>

@@ -1,5 +1,7 @@
 # 针灸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenjiu.md)
+
 <p><span class="chinese">我想给你用针灸疗法。</span><span class="english">I am going to use acupuncture on you.</span></p>
 
 <p><span class="chinese">我是一个针灸和推拿治疗师。</span><span class="english">I am an acupuncturist and massage therapist.</span></p>

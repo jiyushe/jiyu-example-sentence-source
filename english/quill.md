@@ -1,5 +1,7 @@
 # quill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quill.md)
+
 <p><span class="chinese">尾座鹅毛笔直径。</span><span class="english">Tailstock quill dia.</span></p>
 
 <p><span class="chinese">在过去，大翎毛——鹅毛笔是用来写字的。</span><span class="english">Quill is used for writing in the past.</span></p>

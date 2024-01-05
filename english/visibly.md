@@ -1,5 +1,7 @@
 # visibly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/visibly.md)
+
 <p><span class="chinese">经受了那次打击，她明显地见老了。</span><span class="english">The blow had aged her visibly.</span></p>
 
 <p><span class="chinese">一提及她的名字，他的脸明显变得煞白。</span><span class="english">He paled visibly at the mention of her name.</span></p>

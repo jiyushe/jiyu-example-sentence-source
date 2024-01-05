@@ -1,5 +1,7 @@
 # 铅玻璃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianboli.md)
+
 <p><span class="chinese">包括防辐射铅玻璃，铅板玻璃等。</span><span class="english">Including the radiation lead glass, lead plate glass.</span></p>
 
 <p><span class="chinese">内部非常诱人，客厅有拱形屋顶，铅玻璃窗户。</span><span class="english">Interior is very attractive, living room with arched roof, leaded glass windows.</span></p>

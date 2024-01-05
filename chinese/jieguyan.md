@@ -1,5 +1,7 @@
 # 节骨眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieguyan.md)
+
 <p><span class="chinese">正在这个节骨眼上，昆西回来了。</span><span class="english">Quincy returned at this very juncture.</span></p>
 
 <p><span class="chinese">在这个节骨眼上，他威胁杀死人质。</span><span class="english">At this point, he threatened to kill a hostage.</span></p>

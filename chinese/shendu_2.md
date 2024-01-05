@@ -1,5 +1,7 @@
 # 深度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shendu_2.md)
+
 <p><span class="chinese">深度，是的。</span><span class="english">Depth, yes.</span></p>
 
 <p><span class="chinese">它是感觉的深度。</span><span class="english">It’s depth of feeling.</span></p>

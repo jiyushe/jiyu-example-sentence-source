@@ -1,5 +1,7 @@
 # 云锦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunjin.md)
+
 <p><span class="chinese">这就是古代的云锦吧？</span><span class="english">Is this ancient Yunjin?</span></p>
 
 <p><span class="chinese">这些啊就是南京云锦。</span><span class="english">These are Nanjing's Yunjin.</span></p>

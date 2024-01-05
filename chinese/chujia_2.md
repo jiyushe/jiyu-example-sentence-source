@@ -1,5 +1,7 @@
 # 出家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chujia_2.md)
+
 <p><span class="chinese">为什么她们选择出家呢？</span><span class="english">Why do they choose to be nuns?</span></p>
 
 <p><span class="chinese">他们的婚姻终结了，曼宁搬了出家。</span><span class="english">The marriage ended, and Manning moved out.</span></p>

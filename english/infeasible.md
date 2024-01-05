@@ -1,5 +1,7 @@
 # infeasible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infeasible.md)
+
 <p><span class="chinese">那个计划不可行。</span><span class="english">The plan proves infeasible.</span></p>
 
 <p><span class="chinese">给出了在不可达路径影响下的数据流测试方法。</span><span class="english">A method of data-flow test based on infeasible path is proposed.</span></p>

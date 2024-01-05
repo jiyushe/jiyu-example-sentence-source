@@ -1,5 +1,7 @@
 # 人气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renqi.md)
+
 <p><span class="chinese">欧元人气极度利空**</span><span class="english">EXTREME BEARISH EURO SENTIMENT</span></p>
 
 <p><span class="chinese">特德不温不火的样子能把人气疯。</span><span class="english">Ted could be maddeningly bland.</span></p>

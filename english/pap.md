@@ -1,5 +1,7 @@
 # pap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pap.md)
+
 <p><span class="chinese">但是容易赚到钱的影片是爱国宣传片。</span><span class="english">But the easy money is in patriotic pap.</span></p>
 
 <p><span class="chinese">生产件批件过程不能被应用于所有的供方。</span><span class="english">PAP did not apply to the all suppliers.</span></p>

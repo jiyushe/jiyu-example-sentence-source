@@ -1,5 +1,7 @@
 # 善心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanxin.md)
+
 <p><span class="chinese">施者证实无善心，富裕的礼品只修饰穷人。</span><span class="english">Rich gifts wax poor when givers prove unkind.</span></p>
 
 <p><span class="chinese">是的，善心也是一种习惯，可以培养。</span><span class="english">Yes, kindness is a habit. And it can be cultivated.</span></p>

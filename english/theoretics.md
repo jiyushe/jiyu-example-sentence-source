@@ -1,5 +1,7 @@
 # theoretics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theoretics.md)
+
 <p><span class="chinese">在学期末对学生的理论能力和实践能力进行评价。</span><span class="english">Evaluate the theoretics and practice ability of students at the end of term.</span></p>
 
 <p><span class="chinese">这些结果为图的最小完整度的优化设计提供了理论和方法。</span><span class="english">For the optimal designs of the minimal integrity, the theoretics and methods are provided.</span></p>

@@ -1,5 +1,7 @@
 # 市镇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizhen_1.md)
+
 <p><span class="chinese">火车隆隆地穿过市镇。</span><span class="english">The train rumbled through the town.</span></p>
 
 <p><span class="chinese">他是剑桥一市镇的议员。</span><span class="english">He sits for a town in Cambridgeshire.</span></p>

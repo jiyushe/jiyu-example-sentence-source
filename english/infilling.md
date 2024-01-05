@@ -1,5 +1,7 @@
 # infilling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infilling.md)
+
 <p><span class="chinese">先铺上一层利于排水的砾石是个明智的做法。</span><span class="english">It is wise to start infilling with a layer of gravel for drainage.</span></p>
 
 <p><span class="chinese">该方法可以为井网加密的可行性提供依据。</span><span class="english">This method provides evidence for the feasibility of pattern infilling.</span></p>

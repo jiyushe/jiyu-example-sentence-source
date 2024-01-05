@@ -1,5 +1,7 @@
 # 条例
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaoli.md)
+
 <p><span class="chinese">决议和条例。</span><span class="english">Resolutions and Ordinances.</span></p>
 
 <p><span class="chinese">什么是国际卫生条例的历史？</span><span class="english">What is the history of the IHR?</span></p>

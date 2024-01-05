@@ -1,5 +1,7 @@
 # strode
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strode.md)
+
 <p><span class="chinese">她大步走进了我的办公室。</span><span class="english">She strode into my office.</span></p>
 
 <p><span class="chinese">他抄小路快速地走开了。</span><span class="english">And he strode off, up the lane.</span></p>

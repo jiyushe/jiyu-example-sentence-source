@@ -1,5 +1,7 @@
 # hap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hap.md)
+
 <p><span class="chinese">HAP有广泛应用前景。</span><span class="english">HAP has wide applied future.</span></p>
 
 <p><span class="chinese">生活机遇的好坏,在于选择妻子的好坏。</span><span class="english">The good or ill hap of good or ill life, is the good or ill choice of a good or ill wife.</span></p>

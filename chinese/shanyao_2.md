@@ -1,5 +1,7 @@
 # 闪耀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanyao_2.md)
+
 <p><span class="chinese">闪耀，闪耀，小星星！</span><span class="english">T winkle, twinkle, little star!</span></p>
 
 <p><span class="chinese">窗子在阳光中闪耀。</span><span class="english">The windows glinted in the sun.</span></p>

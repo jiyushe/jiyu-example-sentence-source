@@ -1,5 +1,7 @@
 # 轻重缓急
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingzhonghuanji.md)
+
 <p><span class="chinese">这是一个权衡轻重缓急的问题。</span><span class="english">It was a matter of balancing priorities.</span></p>
 
 <p><span class="chinese">理解情况的轻重缓急。</span><span class="english">Understand the urgency of the situation.</span></p>

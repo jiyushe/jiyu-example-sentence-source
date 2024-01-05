@@ -1,5 +1,7 @@
 # 皮子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pizi_1.md)
+
 <p><span class="chinese">从火腿肠皮子。</span><span class="english">From the rinds of hams.</span></p>
 
 <p><span class="chinese">气干燥皮子都皱了。</span><span class="english">The dry air shrivels the leather.</span></p>

@@ -1,5 +1,7 @@
 # hunger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hunger.md)
+
 <p><span class="chinese">饥饿是听不见的。</span><span class="english">Hunger can be silent.</span></p>
 
 <p><span class="chinese">他饿晕了过去。</span><span class="english">He fainted from hunger.</span></p>

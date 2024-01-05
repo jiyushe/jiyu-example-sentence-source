@@ -1,5 +1,7 @@
 # ifo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ifo.md)
+
 <p><span class="chinese">之后，IFo二号难民营开始兴建。</span><span class="english">Construction of Ifo II camp began shortly after.</span></p>
 
 <p><span class="chinese">在德国，衡量商业信心的Ifo指数为5年来最低。</span><span class="english">In Germany the Ifo index, a gauge of business confidence, has sunk to a five-year trough.</span></p>

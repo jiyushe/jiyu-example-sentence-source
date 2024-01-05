@@ -1,5 +1,7 @@
 # 火烧眉毛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoshaomeimao.md)
+
 <p><span class="chinese">“他们的情况已经火烧眉毛了，”利文斯说。</span><span class="english">"Their hair is on fire, " he says.</span></p>
 
 <p><span class="chinese">你就是找不到她们的弱点，并火烧眉毛地要告诉全世界。</span><span class="english">You can't wait to tell the world about it.</span></p>

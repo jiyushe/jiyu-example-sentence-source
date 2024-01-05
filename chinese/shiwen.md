@@ -1,5 +1,7 @@
 # 室温
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiwen.md)
+
 <p><span class="chinese">PMMA具有室温蠕变特性。</span><span class="english">PMMA has a room temperature creep.</span></p>
 
 <p><span class="chinese">在早上，我会倒入室温硫化。</span><span class="english">In the morning I will pour the RTV.</span></p>

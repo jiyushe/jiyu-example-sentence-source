@@ -1,5 +1,7 @@
 # vinylon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vinylon.md)
+
 <p><span class="chinese">四川维尼纶厂以天然气为原料生产乙炔。</span><span class="english">Sichuan Vinylon Works produces acetylene from natural gas.</span></p>
 
 <p><span class="chinese">我公司主要以生产维纶短纤二等品为主。</span><span class="english">I vinylon company to produce goods mainly second-class staple.</span></p>

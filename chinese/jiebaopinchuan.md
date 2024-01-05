@@ -1,5 +1,7 @@
 # 捷报频传
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiebaopinchuan.md)
+
 <p><span class="chinese">捷报频传。</span><span class="english">Reports of new successes kept pouring in.</span></p>
 
 <p><span class="chinese">捷报频传。</span><span class="english">Reports of new victories keep pouring in.</span></p>

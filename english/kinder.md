@@ -1,5 +1,7 @@
 # kinder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kinder.md)
+
 <p><span class="chinese">金德摩根将收购埃尔帕索公司。</span><span class="english">Kinder Morgan agreed to buy El Paso Corporation.</span></p>
 
 <p><span class="chinese">提早退休似乎比大范围的失业更加仁慈。</span><span class="english">Early retirement also seemed kinder than mass lay-offs.</span></p>

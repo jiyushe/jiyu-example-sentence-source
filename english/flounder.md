@@ -1,5 +1,7 @@
 # flounder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flounder.md)
+
 <p><span class="chinese">鲽鱼或独资，煮熟，3盎司。</span><span class="english">Flounder or sole, cooked, 3 ounces.</span></p>
 
 <p><span class="chinese">妻子说，「快去找比目鱼。</span><span class="english">"Husband," she said, "go to the flounder.</span></p>

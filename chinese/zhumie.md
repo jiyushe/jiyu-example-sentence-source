@@ -1,5 +1,7 @@
 # 竹篾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhumie.md)
+
 <p><span class="chinese">她有一把用细竹篾编成的扇子，篾工细密极了。</span><span class="english">She has a fan made of thin bamboo strips, which is extremely delicate.</span></p>
 
 <p><span class="chinese">其“马灯”，是仿照马的形状用竹篾扎纸糊成。</span><span class="english">Lantern and is modeled on the shape of the horse with Bamboo bar into a papier.</span></p>

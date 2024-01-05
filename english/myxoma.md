@@ -1,5 +1,7 @@
 # myxoma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/myxoma.md)
+
 <p><span class="chinese">在黏液瘤并发神经系统症状的患者中。</span><span class="english">Among patients with myxoma and neurologic symptoms.</span></p>
 
 <p><span class="chinese">着重分析了粘液瘤的影像学表现。</span><span class="english">The imagic manifestations of myxoma are emphasized.</span></p>

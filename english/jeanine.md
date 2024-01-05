@@ -1,5 +1,7 @@
 # jeanine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jeanine.md)
+
 <p><span class="chinese">如果珍妮支持我，帮助我，我就有了像家一样的安全感。</span><span class="english">If Jeanine is holding me, helping me, I am home.</span></p>
 
 <p><span class="chinese">我笑着站了起来，并伸手出去和珍妮握手告别。</span><span class="english">I stood and smiled and offered Jeanine a handshake.</span></p>

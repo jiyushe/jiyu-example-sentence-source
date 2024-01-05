@@ -1,5 +1,7 @@
 # candidly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/candidly.md)
+
 <p><span class="chinese">尽量坦率而直接的回答问题，避免掺杂过多情感。</span><span class="english">Answer them candidly and matter-of- factly, avoiding sentimentality.</span></p>
 
 <p><span class="chinese">刚才的介绍我愧不敢当,坦白说，我都差点不认识自己了。</span><span class="english">That introduction was so generous that candidly I didn't recognize myself.</span></p>

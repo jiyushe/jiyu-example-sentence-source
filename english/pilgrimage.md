@@ -1,5 +1,7 @@
 # pilgrimage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pilgrimage.md)
+
 <p><span class="chinese">正如朝圣者闲谈，使漫漫长途缩短。</span><span class="english">As palmers' chat makes short their pilgrimage.</span></p>
 
 <p><span class="chinese">许多人前往麦加或耶路撒冷朝圣。</span><span class="english">Many people go on a pilgrimage to Mecca or Jerusalem.</span></p>

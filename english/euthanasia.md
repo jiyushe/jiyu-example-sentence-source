@@ -1,5 +1,7 @@
 # euthanasia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/euthanasia.md)
+
 <p><span class="chinese">或许最人道的方式是对它安乐死。</span><span class="english">The most humane thing to do was euthanasia.</span></p>
 
 <p><span class="chinese">你能认同安乐死吗？</span><span class="english">Do you agree with the concept of euthanasia?</span></p>

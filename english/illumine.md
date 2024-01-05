@@ -1,5 +1,7 @@
 # illumine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illumine.md)
+
 <p><span class="chinese">耶稣，宝贵的磐石，启明我。</span><span class="english">Jesus, precious Stone, illumine me!</span></p>
 
 <p><span class="chinese">或许跌出，把我们的风雨之日照明。</span><span class="english">Burst to illumine our tempestuous day.</span></p>

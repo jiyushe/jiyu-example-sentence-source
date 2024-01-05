@@ -1,5 +1,7 @@
 # pinkie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pinkie.md)
+
 <p><span class="chinese">唯一的隐患是他脆弱的小手指。</span><span class="english">The only potential hiccup is his wonky pinkie.</span></p>
 
 <p><span class="chinese">他已经学会用小手指敲击下行键。</span><span class="english">He has learned to hit PageDown with his pinkie.</span></p>

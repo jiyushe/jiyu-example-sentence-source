@@ -1,5 +1,7 @@
 # murmansk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/murmansk.md)
+
 <p><span class="chinese">目前俄国人唯一的出海口就是摩尔曼斯克。</span><span class="english">At present the only exit that the Russians had was Murmansk.</span></p>
 
 <p><span class="chinese">在那艰难的1418天里他和他的“徕卡”从摩尔曼斯克去到柏林。</span><span class="english">All 1,418 days he and his “Leica” went from Murmansk to Berlin.</span></p>

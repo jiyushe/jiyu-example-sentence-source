@@ -1,5 +1,7 @@
 # staggering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/staggering.md)
+
 <p><span class="chinese">前进的道路是曲折的。</span><span class="english">The pace of progress is staggering.</span></p>
 
 <p><span class="chinese">他像一个酒鬼摇摇晃晃。</span><span class="english">He was staggering about like a wino.</span></p>

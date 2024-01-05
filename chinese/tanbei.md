@@ -1,5 +1,7 @@
 # 贪杯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanbei.md)
+
 <p><span class="chinese">一杯足以，不可贪杯。</span><span class="english">Just a glass, no more than that.</span></p>
 
 <p><span class="chinese">他近来有点好色贪杯。</span><span class="english">He's taken to boozing and women lately.</span></p>

@@ -1,5 +1,7 @@
 # intraday
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intraday.md)
+
 <p><span class="chinese">稍早,道指触及52周新高11,519.04点.</span><span class="english">Earlier, the Dow hit a fresh 52-week high intraday at 11,519.04.</span></p>
 
 <p><span class="chinese">日内新西兰元对美元汇率下跌超过70点，盘中低点触及0.7279。</span><span class="english">NZDUSD dropped more than 70 points to make an intraday low of 0.7279.</span></p>

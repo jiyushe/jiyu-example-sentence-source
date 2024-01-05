@@ -1,5 +1,7 @@
 # crises
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crises.md)
+
 <p><span class="chinese">现在，中年危机还是来了。</span><span class="english">Now they face midlife crises.</span></p>
 
 <p><span class="chinese">世卫组织在危机中起什么作用？</span><span class="english">What is the role of WHO in crises?</span></p>

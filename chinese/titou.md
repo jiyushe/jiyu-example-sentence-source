@@ -1,5 +1,7 @@
 # 剃头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/titou.md)
+
 <p><span class="chinese">和尚都剃头。</span><span class="english">Monks shave their heads.</span></p>
 
 <p><span class="chinese">剃头，撞头，吃下那些药。</span><span class="english">Shaved heads, rave heads, on the pill.</span></p>

@@ -1,5 +1,7 @@
 # 笔触
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bichu_1.md)
+
 <p><span class="chinese">她用雄健有力的笔触绘画。</span><span class="english">She paints with bold strokes of the brush.</span></p>
 
 <p><span class="chinese">她以颇为动人的笔触形容了自己的思想和生命。</span><span class="english">She describes her mind and life quite movingly.</span></p>

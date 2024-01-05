@@ -1,5 +1,7 @@
 # 表里
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaoli.md)
+
 <p><span class="chinese">有没有过表里一致的信仰生活？</span><span class="english">Am I consistent in my life?</span></p>
 
 <p><span class="chinese">所有ee被装载在一个链表里。</span><span class="english">All ees are chained together in a link list.</span></p>

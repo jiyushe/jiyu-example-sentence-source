@@ -1,5 +1,7 @@
 # appreciable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appreciable.md)
+
 <p><span class="chinese">在过去的一周，两国关系发生了相当大的转变。</span><span class="english">There has been an appreciable shift in the past week.</span></p>
 
 <p><span class="chinese">在这对孪生子之间看不出有什么明显的差别。</span><span class="english">There is no appreciable distinction between the twins.</span></p>

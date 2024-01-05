@@ -1,5 +1,7 @@
 # amusement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amusement.md)
+
 <p><span class="chinese">一个街舞博物馆，街舞的发源地是布朗克斯，还是一个室内游乐园？</span><span class="english">An indoor amusement park?</span></p>
 
 <p><span class="chinese">它不仅仅是一项娱乐。</span><span class="english">It's not a mere amusement.</span></p>

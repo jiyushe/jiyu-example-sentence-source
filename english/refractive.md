@@ -1,5 +1,7 @@
 # refractive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refractive.md)
+
 <p><span class="chinese">什么是屈光不正？</span><span class="english">What is a refractive error?</span></p>
 
 <p><span class="chinese">这些被称为屈光不正。</span><span class="english">These are called refractive errors.</span></p>

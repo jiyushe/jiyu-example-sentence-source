@@ -1,5 +1,7 @@
 # 在此一举
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaiciyiju.md)
+
 <p><span class="chinese">我来试试看看，成败在此一举。</span><span class="english">Let me try it. we will see.</span></p>
 
 <p><span class="chinese">这回对他将是成败在此一举。</span><span class="english">This time he'll sink or swim.</span></p>

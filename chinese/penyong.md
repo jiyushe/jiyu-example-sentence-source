@@ -1,5 +1,7 @@
 # 喷涌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/penyong.md)
+
 <p><span class="chinese">鲜血从伤口喷涌而出。</span><span class="english">Blood gushed from her wound.</span></p>
 
 <p><span class="chinese">那口泉眼泉水喷涌。</span><span class="english">Water sprang from the fountain.</span></p>

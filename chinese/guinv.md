@@ -1,5 +1,7 @@
 # 闺女
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guinv.md)
+
 <p><span class="chinese">我的好闺女！</span><span class="english">That's My girl!</span></p>
 
 <p><span class="chinese">你好吗，我的美国闺女？</span><span class="english">How is my American girl?</span></p>

@@ -1,5 +1,7 @@
 # 慢车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manche.md)
+
 <p><span class="chinese">那个站只有慢车才有停靠。</span><span class="english">Only slow trains stop at that station.</span></p>
 
 <p><span class="chinese">他赶上去伯明翰的慢车。</span><span class="english">He caught the slow train to Birmingham.</span></p>

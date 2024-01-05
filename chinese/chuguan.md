@@ -1,5 +1,7 @@
 # 出关
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuguan.md)
+
 <p><span class="chinese">你能帮我过关出关吗?。</span><span class="english">Can you help me at the custom?</span></p>
 
 <p><span class="chinese">十点半，开始出关了。</span><span class="english">At half past ten, we started through customs.</span></p>

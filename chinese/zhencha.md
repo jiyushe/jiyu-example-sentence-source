@@ -1,5 +1,7 @@
 # 侦察
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhencha.md)
+
 <p><span class="chinese">它们是侦察犬。</span><span class="english">They were scout dogs.</span></p>
 
 <p><span class="chinese">喷气式战斗机在空中侦察巡逻。</span><span class="english">Jet fighters scout the skies.</span></p>

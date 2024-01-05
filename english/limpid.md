@@ -1,5 +1,7 @@
 # limpid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/limpid.md)
+
 <p><span class="chinese">金希澈有酒窝的照片！</span><span class="english">Jinxi is limpid photograph having dimple!</span></p>
 
 <p><span class="chinese">土沃而流，水清而不迫。</span><span class="english">The soil is fertile and the water is limpid.</span></p>

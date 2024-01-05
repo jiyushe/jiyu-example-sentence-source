@@ -1,5 +1,7 @@
 # downhill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/downhill.md)
+
 <p><span class="chinese">他们把车往山下开。</span><span class="english">They ran the car downhill.</span></p>
 
 <p><span class="chinese">还要避免快速下坡跑步。</span><span class="english">Also shun fast downhill running.</span></p>

@@ -1,5 +1,7 @@
 # nerveless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nerveless.md)
+
 <p><span class="chinese">她是一位勇敢的骑手。</span><span class="english">She is a nerveless rider.</span></p>
 
 <p><span class="chinese">那把刀从他软弱无力的手中落下。</span><span class="english">The knife fell from his nerveless hand.</span></p>

@@ -1,5 +1,7 @@
 # 主持
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuchi.md)
+
 <p><span class="chinese">把它寄给主持公道。</span><span class="english">Send it for justice.</span></p>
 
 <p><span class="chinese">现在她主持“开心辞典”。</span><span class="english">Now she hosts Quiz Show.</span></p>

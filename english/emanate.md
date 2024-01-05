@@ -1,5 +1,7 @@
 # emanate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emanate.md)
+
 <p><span class="chinese">这些化学药品会散发出某些有毒的气味。</span><span class="english">These chemicals can emanate certain poisonous gases.</span></p>
 
 <p><span class="chinese">其他人的心情和意图也同样的从他们的气场中散发出来。</span><span class="english">The moods and intentions of people can also be felt from the vibrations they emanate.</span></p>

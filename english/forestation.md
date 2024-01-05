@@ -1,5 +1,7 @@
 # forestation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forestation.md)
+
 <p><span class="chinese">中华安息香及其造林技术。</span><span class="english">Styrax chinensis and its forestation techniques.</span></p>
 
 <p><span class="chinese">我们展开了全国性的造林运动。</span><span class="english">We have launched a nationwide forestation campaign.</span></p>

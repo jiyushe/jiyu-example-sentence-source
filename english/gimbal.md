@@ -1,5 +1,7 @@
 # gimbal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gimbal.md)
+
 <p><span class="chinese">万向首脑大会，或附着在手臂的HGA。</span><span class="english">Heads Gimbal Assembly or HGA attached to the Arm.</span></p>
 
 <p><span class="chinese">我推了那个万向节三次，拆卸了两次。</span><span class="english">Ive pulled that gimbal thRee times and stRipped it twice.</span></p>

@@ -1,5 +1,7 @@
 # respire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/respire.md)
+
 <p><span class="chinese">一般是经由鳃呼吸。</span><span class="english">Fish generally respire through gills.</span></p>
 
 <p><span class="chinese">一切生物只要活着都要呼吸。</span><span class="english">All living things respire as long as they live.</span></p>

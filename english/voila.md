@@ -1,5 +1,7 @@
 # voila
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/voila.md)
+
 <p><span class="chinese">然后，她把蜡烛吹灭，“瞧，这盏更亮一点，先生们。”</span><span class="english">Then she snuffed out the candle. " Voila , that is brighter, gentlemen."</span></p>
 
 <p><span class="chinese">据说你只要每天戴10分钟，坚持30天后——瞧，新头发即刻生成。</span><span class="english">Apparently, you only needed to wear it for 10 minutes a day for 30 days -and voila instant new hair.</span></p>

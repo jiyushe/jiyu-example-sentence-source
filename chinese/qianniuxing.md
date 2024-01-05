@@ -1,5 +1,7 @@
 # 牵牛星
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianniuxing.md)
+
 <p><span class="chinese">牵牛星与织女和天津四相比，光亮度还是略为逊色。</span><span class="english">Altair is not as bright as Vega and Deneb.</span></p>
 
 <p><span class="chinese">七夕节坐着仰望牵牛星和织女星是中国人的一个习俗。</span><span class="english">It is a custom for Chinese to watch the Altair and Vega on the chairs.</span></p>

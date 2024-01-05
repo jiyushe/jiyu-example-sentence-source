@@ -1,5 +1,7 @@
 # posterity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/posterity.md)
+
 <p><span class="chinese">但是子孙后代们现在无法投票。</span><span class="english">But posterity has no vote.</span></p>
 
 <p><span class="chinese">做自己的坟墓，绝自己的血统？</span><span class="english">Of his self-love to stop posterity?</span></p>

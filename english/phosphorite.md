@@ -1,5 +1,7 @@
 # phosphorite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phosphorite.md)
+
 <p><span class="chinese">讨论了超声的声强、时间、温度对磷矿酸解的影响。</span><span class="english">The influence of ultrasonic wave on the phosphorite acid decomposition was studied.</span></p>
 
 <p><span class="chinese">指出了磷矿石选矿中存在的问题并给出了解决对策。</span><span class="english">The problems in the beneficiation of phosphorite ores and countermeasures are presented.</span></p>

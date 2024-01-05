@@ -1,5 +1,7 @@
 # 约数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yueshu.md)
+
 <p><span class="chinese">复合数就是具有一个以上约数的正整数。</span><span class="english">A composite is a positive integer with more than two divisors.</span></p>
 
 <p><span class="chinese">超墩——定约方庄家所赢得的超过定约数的每一墩。</span><span class="english">Overtrick — each trick won by declarer's side in excess of the contract.</span></p>

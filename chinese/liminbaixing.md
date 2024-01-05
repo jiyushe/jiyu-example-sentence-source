@@ -1,5 +1,7 @@
 # 黎民百姓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liminbaixing.md)
+
 <p><span class="chinese">为了拯救黎民百姓，他孜孜不倦地钻研祖国医学。</span><span class="english">In order to save the people, he tirelessly studied Chinese medicine.</span></p>
 
 <p><span class="chinese">鳄梨在过去是很高级的水果，现在黎民百姓在小酒店也一样吃鳄梨。</span><span class="english">Avocado pears used to be smart but now the hoi polloi eat them in wine bars.</span></p>

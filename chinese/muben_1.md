@@ -1,5 +1,7 @@
 # 母本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muben_1.md)
+
 <p><span class="chinese">他更愿意用“母本”和“副本”。</span><span class="english">Instead, he prefers "original" and "copy".</span></p>
 
 <p><span class="chinese">克隆物与母本动物或植物完全相同。</span><span class="english">A clone is identical with the original animal or plant.</span></p>

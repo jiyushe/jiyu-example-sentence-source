@@ -1,5 +1,7 @@
 # 餐桌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/canzhuo.md)
+
 <p><span class="chinese">你把餐桌摆好了没有？</span><span class="english">Did you set the table?</span></p>
 
 <p><span class="chinese">餐桌上还有什么其他的东西？</span><span class="english">What else was on the table?</span></p>

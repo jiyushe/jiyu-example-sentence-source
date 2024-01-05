@@ -1,5 +1,7 @@
 # gingival
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gingival.md)
+
 <p><span class="chinese">什么药物可治疗牙龈萎缩？</span><span class="english">What drugs to treat gingival recession?</span></p>
 
 <p><span class="chinese">牙龈组织，但是不应该停留在脱皮。</span><span class="english">The gingival tissue, however should not remain blanched.</span></p>

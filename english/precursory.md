@@ -1,5 +1,7 @@
 # precursory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/precursory.md)
+
 <p><span class="chinese">我国南蛇藤属一个新种的预报。</span><span class="english">A precursory new species of genus Celastrus in China.</span></p>
 
 <p><span class="chinese">该算法能让地震专家在地震预测难题研究中，有效缩小前兆异常研究的范围。</span><span class="english">The algorithm is helpful for seismologists to diminish the research scale of precursory anomalies.</span></p>

@@ -1,5 +1,7 @@
 # 拥塞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongse_1.md)
+
 <p><span class="chinese">汽车拥塞，首尾相接长达数英里。</span><span class="english">The cars backed up for miles.</span></p>
 
 <p><span class="chinese">但是我受阻于路上交通拥塞。</span><span class="english">But I was caught in the traffic.</span></p>

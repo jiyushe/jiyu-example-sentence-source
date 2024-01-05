@@ -1,5 +1,7 @@
 # protrusion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/protrusion.md)
+
 <p><span class="chinese">眼镜后面的眼珠子突凸出来。</span><span class="english">Abnormal protrusion of the eyeball.</span></p>
 
 <p><span class="chinese">拇指能使牙齿向外突出。</span><span class="english">Thumb-sucking can cause protrusion of the teeth.</span></p>

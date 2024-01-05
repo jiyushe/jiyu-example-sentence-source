@@ -1,5 +1,7 @@
 # 无意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuyi_4.md)
+
 <p><span class="chinese">说者无意，听者有心。</span><span class="english">Be a good listener, mvp.</span></p>
 
 <p><span class="chinese">他无意交谈。</span><span class="english">He was disinclined for conversation.</span></p>

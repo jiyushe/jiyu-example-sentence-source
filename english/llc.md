@@ -1,5 +1,7 @@
 # llc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/llc.md)
+
 <p><span class="chinese">或者干我这行，如可视经济有限责任公司。</span><span class="english">Or take my business, Visible Economy LLC.</span></p>
 
 <p><span class="chinese">那么有限责任公司可能是正确的选择。</span><span class="english">Then an LLC is probably the right choice.</span></p>

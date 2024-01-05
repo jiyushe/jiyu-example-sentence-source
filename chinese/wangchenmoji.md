@@ -1,5 +1,7 @@
 # 望尘莫及
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangchenmoji.md)
+
 <p><span class="chinese">中国会迎头而上而你们只能在后面望尘莫及。</span><span class="english">China may just leave them in the dust.</span></p>
 
 <p><span class="chinese">南非则超过了50公升，令人望尘莫及。</span><span class="english">South Africans chug down over 50 litres.</span></p>

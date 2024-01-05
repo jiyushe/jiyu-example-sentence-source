@@ -1,5 +1,7 @@
 # expatriate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expatriate.md)
+
 <p><span class="chinese">公司正解雇移居国外的职员。</span><span class="english">Companies are pulling out expatriate staff.</span></p>
 
 <p><span class="chinese">大多数在西方的中国人远没有这样过的舒适。</span><span class="english">The lot of a Chinese expatriate in the West is less peachy.</span></p>

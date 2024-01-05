@@ -1,5 +1,7 @@
 # nanometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nanometer.md)
+
 <p><span class="chinese">我不喜欢纳米这个单位。</span><span class="english">I don't like the nanometer.</span></p>
 
 <p><span class="chinese">对于紫外区通常用毫微米这一名词。</span><span class="english">For ultraviolet, nanometer is a preferred term.</span></p>

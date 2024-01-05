@@ -1,5 +1,7 @@
 # vogue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vogue.md)
+
 <p><span class="chinese">现在正兴这个呢！</span><span class="english">That's all the vogue now.</span></p>
 
 <p><span class="chinese">如今，环保理念才是王道。</span><span class="english">Now, greenery is in vogue.</span></p>

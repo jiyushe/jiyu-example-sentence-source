@@ -1,5 +1,7 @@
 # tao
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tao.md)
+
 <p><span class="chinese">道是真理。</span><span class="english">Tao is truth.</span></p>
 
 <p><span class="chinese">你好，我是刘涛。</span><span class="english">Hi , I'm Liu Tao.</span></p>

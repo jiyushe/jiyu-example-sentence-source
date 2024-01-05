@@ -1,5 +1,7 @@
 # 贪污腐化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanwufuhua.md)
+
 <p><span class="chinese">这位年轻的记者不放过揭发贪污腐化现象的任何机会。</span><span class="english">The young reporter muckrakes at every opportunity.</span></p>
 
 <p><span class="chinese">他兴致勃勃地揭发政敌的贪污腐化。</span><span class="english">He muckraked his political rivals with great relish.</span></p>

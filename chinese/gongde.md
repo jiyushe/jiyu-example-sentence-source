@@ -1,5 +1,7 @@
 # 公德
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongde.md)
+
 <p><span class="chinese">有一颗公德心，无党无派</span><span class="english">To be public-spirited and belong to no party</span></p>
 
 <p><span class="chinese">公德与私德均在衰落之中。</span><span class="english">Private and public virtues were at the lowest ebb.</span></p>

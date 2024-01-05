@@ -1,5 +1,7 @@
 # numerously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/numerously.md)
+
 <p><span class="chinese">对这一计划他们有无数的禁令。</span><span class="english">They have all numerously bans to this plan.</span></p>
 
 <p><span class="chinese">面对众多的藏书，如何做到藏而不乱呢？</span><span class="english">Face collect books numerously , how accomplish Tibet and not random?</span></p>

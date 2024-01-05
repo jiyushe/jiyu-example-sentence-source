@@ -1,5 +1,7 @@
 # 教龄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoling.md)
+
 <p><span class="chinese">而他因为教龄长而不会被解雇。</span><span class="english">He can't be fired due to seniority.</span></p>
 
 <p><span class="chinese">随着年龄、教龄的增长，自己也在不断成长。</span><span class="english">With age, the growth of seniority, has been the growth of their own.</span></p>

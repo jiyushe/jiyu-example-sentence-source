@@ -1,5 +1,7 @@
 # 麦秸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maijie.md)
+
 <p><span class="chinese">麦秸正在上垛。</span><span class="english">The wheat stalks are being stacked.</span></p>
 
 <p><span class="chinese">麦秸画，民间工艺画类。</span><span class="english">Wheat straw painting, crafts painting class.</span></p>

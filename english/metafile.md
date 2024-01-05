@@ -1,5 +1,7 @@
 # metafile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metafile.md)
+
 <p><span class="chinese">视频显示图元文件?。</span><span class="english">VDM? Video Display Metafile?</span></p>
 
 <p><span class="chinese">无法从项目图元文件中更新项目。</span><span class="english">Cannot update project from project metafile.</span></p>

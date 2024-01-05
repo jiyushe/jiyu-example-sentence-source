@@ -1,5 +1,7 @@
 # 老油条
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laoyoutiao.md)
+
 <p><span class="chinese">那小子是个老油条。</span><span class="english">That guy is a slippery customer.</span></p>
 
 <p><span class="chinese">这个说法并不能说服华尔街的老油条。</span><span class="english">This spin did not convince old pros on Wall Street.</span></p>

@@ -1,5 +1,7 @@
 # 肌理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jili_1.md)
+
 <p><span class="chinese">用其他形状添加一些肌理。</span><span class="english">Add some texture using the other shapes.</span></p>
 
 <p><span class="chinese">你浓稠如脂的肌理和炽热的肤皮使我沉醉不已。</span><span class="english">Thy creamy flesh and hot rind intoxicate me.</span></p>

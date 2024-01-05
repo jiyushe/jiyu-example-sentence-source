@@ -1,5 +1,7 @@
 # pique
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pique.md)
+
 <p><span class="chinese">他在1921年的英国高尔夫球公开赛期间愤愤地“拾起了球”。</span><span class="english">He “picked up” during the 1921 British Open in a fit of pique.</span></p>
 
 <p><span class="chinese">用来表示惊讶，惊奇，欣喜若狂，迷惑或愠怒。</span><span class="english">Used to express surprise, wonder, triumph, puzzlement , or pique.</span></p>

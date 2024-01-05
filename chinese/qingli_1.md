@@ -1,5 +1,7 @@
 # 清理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingli_1.md)
+
 <p><span class="chinese">清理你的橱柜。</span><span class="english">Clean Your Closets.</span></p>
 
 <p><span class="chinese">清理你的冰箱。</span><span class="english">Clean your freezer.</span></p>

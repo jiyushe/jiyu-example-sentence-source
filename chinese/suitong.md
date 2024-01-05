@@ -1,5 +1,7 @@
 # 随同
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suitong.md)
+
 <p><span class="chinese">随同著一颗杂净的心灵?。</span><span class="english">I'm a new soul?</span></p>
 
 <p><span class="chinese">我将随同你一起去。</span><span class="english">I'll go along with you.</span></p>

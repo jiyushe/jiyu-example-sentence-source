@@ -1,5 +1,7 @@
 # shriek
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shriek.md)
+
 <p><span class="chinese">气体警报声马上响了起来。</span><span class="english">GAS ALARMS SHRIEK.</span></p>
 
 <p><span class="chinese">突然，男孩高兴地尖叫起来。</span><span class="english">Suddenly, the boy gave a shriek of a delight.</span></p>

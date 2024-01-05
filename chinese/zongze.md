@@ -1,5 +1,7 @@
 # 总则
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongze.md)
+
 <p><span class="chinese">选译总则、警察组织、警察的职责和权利。</span><span class="english">Select the general rules, police organization, police duty and right.</span></p>
 
 <p><span class="chinese">问题出现的原因，往往是事先没有制定详尽的总则。</span><span class="english">Often, problems result from not having a tight enough brief before starting work.</span></p>

@@ -1,5 +1,7 @@
 # 誓言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyan_2.md)
+
 <p><span class="chinese">我相信他的誓言。</span><span class="english">I believe his troth.</span></p>
 
 <p><span class="chinese">我将履行我的誓言。</span><span class="english">I'll fulfill my pledge.</span></p>

@@ -1,5 +1,7 @@
 # rococo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rococo.md)
+
 <p><span class="chinese">洛可可风格的精髓就是明亮。</span><span class="english">The essence of Rococo art is light.</span></p>
 
 <p><span class="chinese">洛可可式圣坛背壁装饰画的复杂细节。</span><span class="english">The intricate detail of a rococo altarpiece.</span></p>

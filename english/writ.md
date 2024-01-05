@@ -1,5 +1,7 @@
 # writ
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/writ.md)
+
 <p><span class="chinese">发传票，传…出庭向…发出传票或令状。</span><span class="english">To serve with a summons or writ.</span></p>
 
 <p><span class="chinese">如今能为这本散文集作序，我觉得很荣幸。</span><span class="english">I am honoured to writ the prelude for this essay.</span></p>

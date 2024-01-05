@@ -1,5 +1,7 @@
 # antiquated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antiquated.md)
+
 <p><span class="chinese">这间亭子具有古风。</span><span class="english">The pavilion has an antiquated appearance.</span></p>
 
 <p><span class="chinese">这是他那时代古老的高贵气派。</span><span class="english">This was the antiquated elegance of his day.</span></p>

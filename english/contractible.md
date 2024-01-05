@@ -1,5 +1,7 @@
 # contractible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contractible.md)
+
 <p><span class="chinese">逐渐将贪婪的胃口缩小些，再缩小些。</span><span class="english">Narrow voracious appetite gradually some, again some more contractible.</span></p>
 
 <p><span class="chinese">慢性肾盂肾炎可见一侧肾脏增大，另一侧肾脏缩小。</span><span class="english">Chronic pyelonephritis sees a side kidney increase, another side kidney is contractible.</span></p>

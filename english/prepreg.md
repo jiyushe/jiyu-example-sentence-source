@@ -1,5 +1,7 @@
 # prepreg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prepreg.md)
+
 <p><span class="chinese">供应各种规格玻璃纤维、碳纤维预浸布。</span><span class="english">Supply all kinds of carbon fiber and glass fiber prepreg.</span></p>
 
 <p><span class="chinese">该预浸料已用于直升机次承力结构。</span><span class="english">The prepreg had been used in helicopter secondary structure.</span></p>

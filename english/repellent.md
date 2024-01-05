@@ -1,5 +1,7 @@
 # repellent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repellent.md)
+
 <p><span class="chinese">拒水？</span><span class="english">Water- repellent?</span></p>
 
 <p><span class="chinese">这是经常被用来作为一种驱蚊剂。</span><span class="english">It is often used as an insect repellent.</span></p>

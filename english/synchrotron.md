@@ -1,5 +1,7 @@
 # synchrotron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synchrotron.md)
+
 <p><span class="chinese">用同步辐射光电子能谱研究了相衍变过程。</span><span class="english">Phase evolution was studied by the synchrotron radiation photoemission technique.</span></p>
 
 <p><span class="chinese">这里还是有肉眼发现不了的信息，我们只能通过'经过同步加速的眼睛‘看到这些非常珍贵的部分。</span><span class="english">We can only see these really quite valuable pieces of data with the synchrotron eye.</span></p>

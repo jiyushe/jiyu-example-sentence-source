@@ -1,5 +1,7 @@
 # 辜负
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gufu_1.md)
+
 <p><span class="chinese">他辜负了我对他的信任。</span><span class="english">He betrayed my trust in him.</span></p>
 
 <p><span class="chinese">请原谅，师父。我们辜负了您。</span><span class="english">Forgive us, Master. We have failed you.</span></p>

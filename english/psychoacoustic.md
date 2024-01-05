@@ -1,5 +1,7 @@
 # psychoacoustic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psychoacoustic.md)
+
 <p><span class="chinese">心理声学模型是宽带音频压缩中的核心技术。</span><span class="english">Psychoacoustic model is the kernel technology of wideband audio compression.</span></p>
 
 <p><span class="chinese">总结了人类听觉系统的特点，特别是人类听觉的感知特征以及心理声学模型。</span><span class="english">And we summarize the character of the human auditory system, especially the psychoacoustic modal.</span></p>

@@ -1,5 +1,7 @@
 # gravitas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gravitas.md)
+
 <p><span class="chinese">他年龄合适，身材高大，风度翩翩而不失庄重。</span><span class="english">He's the right age, he's tall, he has the presence and gravitas.</span></p>
 
 <p><span class="chinese">喝咖啡的时候，我向凯文说了我的梦，还一本正经地引用了韦伯的话。</span><span class="english">Over coffee I tell Kevin about my dream quoting Webb with fitting gravitas.</span></p>

@@ -1,5 +1,7 @@
 # pekinese
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pekinese.md)
+
 <p><span class="chinese">日本新政府到底是狮子狗还是京巴？</span><span class="english">Japan's new government Poodle or Pekinese?</span></p>
 
 <p><span class="chinese">路上唯一看得见的动物是宠物狮子狗。</span><span class="english">The only animals you see in the streets are pet pekinese.</span></p>

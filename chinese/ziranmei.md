@@ -1,5 +1,7 @@
 # 自然美
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziranmei.md)
+
 <p><span class="chinese">实际上，自然美是发自内心的。</span><span class="english">Actually, natural beauty comes from within.</span></p>
 
 <p><span class="chinese">太鲁阁以自然美吸引游客。</span><span class="english">Yalong Bay's natural beauty attracts tourists.</span></p>

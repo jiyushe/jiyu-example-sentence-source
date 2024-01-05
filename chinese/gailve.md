@@ -1,5 +1,7 @@
 # 概略
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gailve.md)
+
 <p><span class="chinese">所以，这个聪明的年轻人，从他做矿工里的粗帆布概略的做了裤子。</span><span class="english">So the smart young man made pants for the miners out of his rough canvas.</span></p>
 
 <p><span class="chinese">本文概略地介绍了褐煤制活性炭的情况。</span><span class="english">An outline of general position on active carbons from lignites is presented.</span></p>

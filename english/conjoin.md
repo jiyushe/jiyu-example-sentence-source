@@ -1,5 +1,7 @@
 # conjoin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conjoin.md)
+
 <p><span class="chinese">新月会与掌管艺术的海王星相会。</span><span class="english">That new moon will conjoin Neptune, the planet of the arts.</span></p>
 
 <p><span class="chinese">届时水星将结合木星，产生可爱的影响力。</span><span class="english">On those days Mercury will conjoin Jupiter, a lovely influence.</span></p>

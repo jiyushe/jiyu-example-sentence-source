@@ -1,5 +1,7 @@
 # firmly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/firmly.md)
+
 <p><span class="chinese">我们对此坚信不移。</span><span class="english">We firmly count on it.</span></p>
 
 <p><span class="chinese">她坚定地相信。</span><span class="english">She believed it firmly.</span></p>

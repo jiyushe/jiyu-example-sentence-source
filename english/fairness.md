@@ -1,5 +1,7 @@
 # fairness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fairness.md)
+
 <p><span class="chinese">怎么看这关于公平的争论？</span><span class="english">What about the fairness argument?</span></p>
 
 <p><span class="chinese">教育应该保持公平么？</span><span class="english">Should education be about fairness?</span></p>

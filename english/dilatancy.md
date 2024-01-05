@@ -1,5 +1,7 @@
 # dilatancy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dilatancy.md)
+
 <p><span class="chinese">岩石晶粒的破碎，将导致扩容，并产生体积膨胀力。</span><span class="english">Dilatancy and volume expansive force are caused by the breaking of rock grains.</span></p>
 
 <p><span class="chinese">大多数的地震预测工作都是基于膨胀理论。</span><span class="english">Much of the work on predicting earthquakes is based on the theory of dilatancy.</span></p>

@@ -1,5 +1,7 @@
 # zoonosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zoonosis.md)
+
 <p><span class="chinese">氟中毒是全世界广泛存在的一种人畜共患性地方病。</span><span class="english">Fluorosis is zoonosis in many parts of the world.</span></p>
 
 <p><span class="chinese">流感是一种疾病指的是人畜共患病。</span><span class="english">Influenza is a type of disease referred to a zoonosis.</span></p>

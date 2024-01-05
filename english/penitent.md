@@ -1,5 +1,7 @@
 # penitent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/penitent.md)
+
 <p><span class="chinese">悔过者获得了赦免。</span><span class="english">Those who were penitent obtained absolution.</span></p>
 
 <p><span class="chinese">神对悔过的罪人的应许是什么？</span><span class="english">What is God's promise to the penitent sinner?</span></p>

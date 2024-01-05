@@ -1,5 +1,7 @@
 # concurrent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concurrent.md)
+
 <p><span class="chinese">高用户负载共时负载视图测试</span><span class="english">High user load concurrent load view tests</span></p>
 
 <p><span class="chinese">两个子进程并发执行。</span><span class="english">Concurrent execution of two sub-processes.</span></p>

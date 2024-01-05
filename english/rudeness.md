@@ -1,5 +1,7 @@
 # rudeness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rudeness.md)
+
 <p><span class="chinese">我不喜欢粗鲁地上课。</span><span class="english">I do not like the rudeness.</span></p>
 
 <p><span class="chinese">请您原谅我的失礼。</span><span class="english">Please forgive my rudeness.</span></p>

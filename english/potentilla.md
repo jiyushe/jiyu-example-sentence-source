@@ -1,5 +1,7 @@
 # potentilla
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/potentilla.md)
+
 <p><span class="chinese">目的建立蕨麻药材HPLC指纹图谱分析方法。</span><span class="english">Objective To establish the method of fingerprint analysis of Potentilla anserina by HPLC.</span></p>
 
 <p><span class="chinese">而且委陵菜提取液对葡萄有一定的保鲜作用。</span><span class="english">Meanwhile, Potentilla chinensis Ser extractsalso had a certain fresh-keeping effect on grapes.</span></p>

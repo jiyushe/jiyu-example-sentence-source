@@ -1,5 +1,7 @@
 # 不问
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buwen.md)
+
 <p><span class="chinese">不问风来雨去！不问花开蒂落！</span><span class="english">Do not ask the wind to rain!</span></p>
 
 <p><span class="chinese">死神不问贫富，一视同仁。</span><span class="english">Death is no respecter of wealth.</span></p>

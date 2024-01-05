@@ -1,5 +1,7 @@
 # ungenerous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ungenerous.md)
+
 <p><span class="chinese">你拒绝他的请求，这样做并不大方。</span><span class="english">It is ungenerous of you to refuse his request.</span></p>
 
 <p><span class="chinese">这年轻人的心胸并不狭隘自私。</span><span class="english">There was nothing mean or ungenerous in the young man's heart.</span></p>

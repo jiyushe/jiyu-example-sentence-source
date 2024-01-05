@@ -1,5 +1,7 @@
 # baloney
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baloney.md)
+
 <p><span class="chinese">常识是瞎扯。</span><span class="english">Common sense is baloney.</span></p>
 
 <p><span class="chinese">一般来说，到现在这个钟点，他已经上床睡觉了。</span><span class="english">Baloney. He's usually in bed by now.</span></p>

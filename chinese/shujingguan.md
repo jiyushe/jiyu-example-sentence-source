@@ -1,5 +1,7 @@
 # 输精管
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shujingguan.md)
+
 <p><span class="chinese">我们这个病人没有输精管。</span><span class="english">Our patient has a blind vas deferens.</span></p>
 
 <p><span class="chinese">利用输精管结扎的公猪，可使过程简单化。</span><span class="english">Use v. boars to simplify the process.</span></p>

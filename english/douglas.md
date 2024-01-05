@@ -1,5 +1,7 @@
 # douglas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/douglas.md)
+
 <p><span class="chinese">我是道格拉斯·菲尔波特。</span><span class="english">This is Douglas Philpott.</span></p>
 
 <p><span class="chinese">多伦道格拉斯的详细报道。</span><span class="english">Toren Douglas has more details.</span></p>

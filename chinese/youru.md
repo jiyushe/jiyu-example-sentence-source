@@ -1,5 +1,7 @@
 # 有如
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youru.md)
+
 <p><span class="chinese">成功有如死亡。</span><span class="english">Success is like death.</span></p>
 
 <p><span class="chinese">有如圣者的容颜.</span><span class="english">The features of a saint.</span></p>

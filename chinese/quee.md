@@ -1,5 +1,7 @@
 # 缺额
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quee.md)
+
 <p><span class="chinese">在电网输送过程中造成了较大的无功功率缺额。</span><span class="english">Then it leads to lots of reactive shortage.</span></p>
 
 <p><span class="chinese">我们有一个电脑编程师缺额。</span><span class="english">We have a vacancy for a computer programmer.</span></p>

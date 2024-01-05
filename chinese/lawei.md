@@ -1,5 +1,7 @@
 # 辣味
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lawei.md)
+
 <p><span class="chinese">带有果味、花香味和辛辣味的果茶。</span><span class="english">A blend of fruits, flowers and spices.</span></p>
 
 <p><span class="chinese">辣味就是后天学来的味觉。</span><span class="english">Chillis are an unusual acquired taste.</span></p>

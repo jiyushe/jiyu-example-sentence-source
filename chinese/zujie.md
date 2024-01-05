@@ -1,5 +1,7 @@
 # 租借
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zujie.md)
+
 <p><span class="chinese">贝拉被租借在西班牙的俱乐部。</span><span class="english">Um but Vela turned up in Spain.</span></p>
 
 <p><span class="chinese">西德维尔准备在一月被租借！</span><span class="english">Sidwell Set for January Loan Deal!</span></p>

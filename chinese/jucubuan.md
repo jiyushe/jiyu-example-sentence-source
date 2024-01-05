@@ -1,5 +1,7 @@
 # 局促不安
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jucubuan.md)
+
 <p><span class="chinese">他的话让我觉得局促不安。</span><span class="english">His words let me feel abashed.</span></p>
 
 <p><span class="chinese">在局促不安的梦中我独自行走。</span><span class="english">In restless dreams I walked along.</span></p>

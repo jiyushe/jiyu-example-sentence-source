@@ -1,5 +1,7 @@
 # 永垂不朽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongchuibuxiu.md)
+
 <p><span class="chinese">没有永垂不朽的王国。</span><span class="english">No kingdom lasts forever.</span></p>
 
 <p><span class="chinese">人民英雄永垂不朽!</span><span class="english">The people's heroes are immortal!</span></p>

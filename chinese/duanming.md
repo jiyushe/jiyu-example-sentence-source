@@ -1,5 +1,7 @@
 # 短命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duanming.md)
+
 <p><span class="chinese">三个反足细胞是短命的。</span><span class="english">Three antipodal cells are ephemeral.</span></p>
 
 <p><span class="chinese">他出二十法郎买了那身短命衣。</span><span class="english">He paid twenty francs for the cast-off garments.</span></p>

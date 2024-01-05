@@ -1,5 +1,7 @@
 # 团费
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuanfei.md)
+
 <p><span class="chinese">请问团费包含保险吗？</span><span class="english">Does the tour fee included insurance?</span></p>
 
 <p><span class="chinese">已缴交之团费，在任何情况下，将不获退还。</span><span class="english">Once paid, class fee will not be refunded in any circumstances.</span></p>

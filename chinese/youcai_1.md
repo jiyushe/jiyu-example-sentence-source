@@ -1,5 +1,7 @@
 # 油菜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youcai_1.md)
+
 <p><span class="chinese">油菜抽薹了。</span><span class="english">The rape has bolted.</span></p>
 
 <p><span class="chinese">油菜好比使塑料。</span><span class="english">Canola is so plastic.</span></p>

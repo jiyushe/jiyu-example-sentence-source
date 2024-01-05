@@ -1,5 +1,7 @@
 # contradiction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contradiction.md)
+
 <p><span class="chinese">运动本身就是矛盾。</span><span class="english">Motion itself is a contradiction.</span></p>
 
 <p><span class="chinese">人，真是一个矛盾体。</span><span class="english">People, is really a contradiction.</span></p>

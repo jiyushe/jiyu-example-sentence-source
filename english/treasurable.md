@@ -1,5 +1,7 @@
 # treasurable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/treasurable.md)
+
 <p><span class="chinese">我们很少能从星期日的宝贵时光中获得益处。</span><span class="english">And merely can we benefit from our treasurable holiday time.</span></p>
 
 <p><span class="chinese">很正常，即使是神圣的上帝也没有那么多的能力来珍惜全部值得珍惜的人类的生命。</span><span class="english">Fairly often, even the sacred God is powerless to cherish treasurable lives of human.</span></p>

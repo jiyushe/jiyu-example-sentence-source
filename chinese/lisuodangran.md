@@ -1,5 +1,7 @@
 # 理所当然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lisuodangran.md)
+
 <p><span class="chinese">理所当然你会有。</span><span class="english">Of course you have.</span></p>
 
 <p><span class="chinese">琼恩·雪诺不再觉得理所当然了。</span><span class="english">Jon Snow was no longer certain.</span></p>

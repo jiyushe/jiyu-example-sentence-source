@@ -1,5 +1,7 @@
 # beastly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beastly.md)
+
 <p><span class="chinese">那些肮脏的蓝色小盒我无法找到。</span><span class="english">I can never find those beastly little blue packets.</span></p>
 
 <p><span class="chinese">它把鼻子从墙板那边伸出来啦。</span><span class="english">I saw him stick his beastly nose out of the wainscoting.</span></p>

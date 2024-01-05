@@ -1,5 +1,7 @@
 # gaffe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gaffe.md)
+
 <p><span class="chinese">文武百官于是都在旁等着看北宫奢如何出丑。</span><span class="english">All officials were waiting to see Beigong She's gaffe.</span></p>
 
 <p><span class="chinese">它是一个过失由国际足联，他们必须对受到指责的某种见解或行为加以申辩解释。</span><span class="english">It was a gaffe by Fifa and they must offer an explanation.</span></p>

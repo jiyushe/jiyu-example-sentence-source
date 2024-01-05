@@ -1,5 +1,7 @@
 # 工于
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongyu_1.md)
+
 <p><span class="chinese">没错我是你个工于心计的神经病婊子！</span><span class="english">Yeah, I am, you manipulative psycho bitch!</span></p>
 
 <p><span class="chinese">像许多现代大片，它也工于怀旧。</span><span class="english">Like many modern blockbusters, the film trades on nostalgia.</span></p>

@@ -1,5 +1,7 @@
 # 早就
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaojiu.md)
+
 <p><span class="chinese">他早就忘了这档子事。</span><span class="english">He had forgotten.</span></p>
 
 <p><span class="chinese">他早就搬走了。</span><span class="english">He moved out long ago.</span></p>

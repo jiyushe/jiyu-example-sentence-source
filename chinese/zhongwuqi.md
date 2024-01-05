@@ -1,5 +1,7 @@
 # 重武器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongwuqi.md)
+
 <p><span class="chinese">卡扎菲的士兵用重武器回击。</span><span class="english">The Gaddafi fighters hitting back with heavy weapons.</span></p>
 
 <p><span class="chinese">奥巴马称要在欧洲部署重武器以”阻止”普京，真的吗？</span><span class="english">Obama says to store more heavy weapons in Europe to "deter" Putin, really?</span></p>

@@ -1,5 +1,7 @@
 # generalized
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/generalized.md)
+
 <p><span class="chinese">推广了最小光程原理。</span><span class="english">The minimum time principle was generalized.</span></p>
 
 <p><span class="chinese">最后将这一方案推广为一般化的模式。</span><span class="english">Finally, the solution is generalized to a pattern.</span></p>

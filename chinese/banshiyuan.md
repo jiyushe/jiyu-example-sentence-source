@@ -1,5 +1,7 @@
 # 办事员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banshiyuan.md)
+
 <p><span class="chinese">他在一家银行当办事员。</span><span class="english">He serves as a clerk in a bank.</span></p>
 
 <p><span class="chinese">我还是在做办事员的时候就离了婚。</span><span class="english">I married while I was still clerking.</span></p>

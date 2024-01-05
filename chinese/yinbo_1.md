@@ -1,5 +1,7 @@
 # 音波
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinbo_1.md)
+
 <p><span class="chinese">欢愉的音波，在金色的暮霭中游泳。</span><span class="english">The joyous sound wave drifted through the golden evening mist.</span></p>
 
 <p><span class="chinese">音波能量的集中爆炸从黄蜂科之蜂中子爆破工点火。</span><span class="english">Concentrated burst of sonic energy fired from Vespid neutron blasters.</span></p>

@@ -1,5 +1,7 @@
 # pots
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pots.md)
+
 <p><span class="chinese">那么锅和盘呢？</span><span class="english">Pots and pans!</span></p>
 
 <p><span class="chinese">二锅头。</span><span class="english">Two pots of heads.</span></p>

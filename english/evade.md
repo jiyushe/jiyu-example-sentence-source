@@ -1,5 +1,7 @@
 # evade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evade.md)
+
 <p><span class="chinese">转移或者回避敏感话题。</span><span class="english">Deflect or evade the sensitive ones.</span></p>
 
 <p><span class="chinese">病原体也进化来逃避“躲避”。</span><span class="english">Pathogens evolve to evade the evasions.</span></p>

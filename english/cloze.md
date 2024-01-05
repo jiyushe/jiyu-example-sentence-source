@@ -1,5 +1,7 @@
 # cloze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cloze.md)
+
 <p><span class="chinese">中篇文章克漏字。</span><span class="english">Grammar. Medium length text open cloze.</span></p>
 
 <p><span class="chinese">完形填充是完型填空的一种变体形式。</span><span class="english">Gap-filling is one of the varieties of cloze.</span></p>

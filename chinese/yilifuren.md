@@ -1,5 +1,7 @@
 # 以理服人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yilifuren.md)
+
 <p><span class="chinese">对有缺点错误的，诚恳帮助，以理服人。</span><span class="english">Those who have made mistakes are given sincere help and advice.</span></p>
 
 <p><span class="chinese">其次，法律语言的核心问题是理性，是以理服人。</span><span class="english">Legal language is the soul of elite and the vitality of the populace.</span></p>

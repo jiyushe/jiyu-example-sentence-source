@@ -1,5 +1,7 @@
 # 女娲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nvwa.md)
+
 <p><span class="chinese">女娲造人不就是男人跟女人吗？</span><span class="english">Nuva turned out man and woman.</span></p>
 
 <p><span class="chinese">女娲想要造很多人类。</span><span class="english">Lots of people wanted to make Nuwa.</span></p>

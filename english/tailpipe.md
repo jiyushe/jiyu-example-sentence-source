@@ -1,5 +1,7 @@
 # tailpipe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tailpipe.md)
+
 <p><span class="chinese">驾驶这种没有排气管的汽车感觉真是很棒。</span><span class="english">It's a wild feeling driving without a tailpipe.</span></p>
 
 <p><span class="chinese">在别人的汽车排气管里放个气球，车发动时发出爆炸声。</span><span class="english">Put a balloon on the tailpipe of a someone’s car so it will pop when they start their car.</span></p>

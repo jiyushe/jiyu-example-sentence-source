@@ -1,5 +1,7 @@
 # 鼓吹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guchui.md)
+
 <p><span class="chinese">这家报纸鼓吹要改善住房条件。</span><span class="english">The paper agitated for better housing.</span></p>
 
 <p><span class="chinese">senator约翰的追随者正竭力为他鼓吹竞选美国参议员。</span><span class="english">His followers are booming John for U.S.</span></p>

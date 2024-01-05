@@ -1,5 +1,7 @@
 # kickball
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kickball.md)
+
 <p><span class="chinese">跟孩子们在院子里踢球。</span><span class="english">Playing kickball in the yard with my kids.</span></p>
 
 <p><span class="chinese">有时我们不踢足球，我们玩足垒球。</span><span class="english">Sometimes we like to play kickball instead.</span></p>

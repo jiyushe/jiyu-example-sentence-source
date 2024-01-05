@@ -1,5 +1,7 @@
 # 猛兽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mengshou.md)
+
 <p><span class="chinese">这里的人都是毒蛇猛兽！</span><span class="english">This is a whole other animal.</span></p>
 
 <p><span class="chinese">他跳进一口井里面，想躲过猛兽的追捕。</span><span class="english">He jumps into a well to avoid being caught.</span></p>

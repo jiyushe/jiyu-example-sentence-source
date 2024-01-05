@@ -1,5 +1,7 @@
 # 三番五次
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanfanwuci.md)
+
 <p><span class="chinese">我不愿意三番五次地麻烦他。</span><span class="english">I hate troubling him time and again.</span></p>
 
 <p><span class="chinese">她三番五次地出卖他，怎麽可能是爱他呢？</span><span class="english">How could she when she betrayed him so badly?</span></p>

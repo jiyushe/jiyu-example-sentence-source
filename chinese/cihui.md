@@ -1,5 +1,7 @@
 # 词汇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cihui.md)
+
 <p><span class="chinese">你的词汇量是有限的</span><span class="english">Your vocabulary is finite.</span></p>
 
 <p><span class="chinese">我们还需要一本词汇索引。</span><span class="english">We also need a concordance.</span></p>

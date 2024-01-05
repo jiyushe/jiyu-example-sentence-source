@@ -1,5 +1,7 @@
 # beltway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beltway.md)
+
 <p><span class="chinese">在此需要注意一个具有重要意义的细节。</span><span class="english">This is a Beltway detail of major significance.</span></p>
 
 <p><span class="chinese">要是议员涉足丑闻，他的亨通仕途就此终结了。</span><span class="english">Senator in a scandal he’ll loose his beltway to the fast track.</span></p>

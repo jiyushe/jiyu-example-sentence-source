@@ -1,5 +1,7 @@
 # tonga
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tonga.md)
+
 <p><span class="chinese">血腑逐瘀汤加珍珠母、龙齿。</span><span class="english">Hematic organs chases tine of Yu Tonga mother-of-pearl , dragon.</span></p>
 
 <p><span class="chinese">其最接近的北方邻国新喀里多尼亚，斐济和汤加。</span><span class="english">Its closest neighbours to the north are New Caledonia, Fiji and Tonga.</span></p>

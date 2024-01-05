@@ -1,5 +1,7 @@
 # 珍视
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenshi.md)
+
 <p><span class="chinese">请珍视在尘世间短暂的存在！</span><span class="english">Please value oen's temporal existence!</span></p>
 
 <p><span class="chinese">张志豪十分珍视这次的经历。</span><span class="english">Zhang really cherishes this experience.</span></p>

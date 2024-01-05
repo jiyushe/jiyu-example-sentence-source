@@ -1,5 +1,7 @@
 # 扮演
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banyan.md)
+
 <p><span class="chinese">只不过想继续扮演老好人…</span><span class="english">Just be a better man!</span></p>
 
 <p><span class="chinese">雷·帕克扮演蛇眼。</span><span class="english">Ray Park as Snake Eyes.</span></p>

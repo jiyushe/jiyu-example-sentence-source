@@ -1,5 +1,7 @@
 # 炫耀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanyao.md)
+
 <p><span class="chinese">她炫耀她的财富。</span><span class="english">She flaunts her riches.</span></p>
 
 <p><span class="chinese">炫耀自己的新衣服。</span><span class="english">She flaunts her new clothes.</span></p>

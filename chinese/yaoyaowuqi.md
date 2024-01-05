@@ -1,5 +1,7 @@
 # 遥遥无期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoyaowuqi.md)
+
 <p><span class="chinese">但是，美台签自由贸易协定还遥遥无期。</span><span class="english">But no U.S.-Taiwan free trade agreement is pending.</span></p>
 
 <p><span class="chinese">看起来欧洲债务危机得到解决的日子遥遥无期。</span><span class="english">A solution to the European debt crisis is further away than ever.</span></p>

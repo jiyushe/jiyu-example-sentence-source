@@ -1,5 +1,7 @@
 # greece
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/greece.md)
+
 <p><span class="chinese">超过了希腊。</span><span class="english">Move over Greece.</span></p>
 
 <p><span class="chinese">希腊的娈童。</span><span class="english">The catamites of Greece.</span></p>

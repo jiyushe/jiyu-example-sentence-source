@@ -1,5 +1,7 @@
 # siesta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/siesta.md)
+
 <p><span class="chinese">还有午睡时的静寂。</span><span class="english">There is the silence of the siesta.</span></p>
 
 <p><span class="chinese">为什么我午睡起来后头晕沉沉的？</span><span class="english">Why of heavy of the dizziness after my siesta rises?</span></p>

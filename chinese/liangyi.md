@@ -1,5 +1,7 @@
 # 两翼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangyi.md)
+
 <p><span class="chinese">用胶水将两翼及手把贴好。</span><span class="english">Glue the wings and handle as shown.</span></p>
 
 <p><span class="chinese">飞机的两翼已覆有冰。</span><span class="english">The wings of the aircraft has iced up.</span></p>

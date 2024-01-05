@@ -1,5 +1,7 @@
 # 在所难免
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaisuonanmian.md)
+
 <p><span class="chinese">于是，一场在所难免的火拼开始了。</span><span class="english">Therefore, is unavoidable the internecine strife started.</span></p>
 
 <p><span class="chinese">但现在的四种版本讹误在所难免。</span><span class="english">However several errors exist in the four present editions.</span></p>

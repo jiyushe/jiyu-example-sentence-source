@@ -1,5 +1,7 @@
 # gonad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gonad.md)
+
 <p><span class="chinese">这位医生对治疗生殖腺疾病非常有经验。</span><span class="english">This doctor is experienced in treating gonad diseases.</span></p>
 
 <p><span class="chinese">文昌鱼的雌体与雄体外形相同，但生殖腺不同。</span><span class="english">Amphioxus the male and female body shape of the same, but different gonad.</span></p>

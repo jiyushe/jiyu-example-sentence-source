@@ -1,5 +1,7 @@
 # yellows
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yellows.md)
+
 <p><span class="chinese">她穿粉色、蓝色和黄色都很漂亮。</span><span class="english">She is stunning in pinks, blues and yellows.</span></p>
 
 <p><span class="chinese">啊，那是菊花，巨白菊和黄菊。</span><span class="english">Oh, those are chrysanthemums, giant whites and yellows.</span></p>

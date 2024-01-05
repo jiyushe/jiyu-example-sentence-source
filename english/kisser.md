@@ -1,5 +1,7 @@
 # kisser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kisser.md)
+
 <p><span class="chinese">当然，你是一个伟大的接吻者！</span><span class="english">Of course, you are a great kisser !</span></p>
 
 <p><span class="chinese">你认为''擅长接吻''这意思怎么样?。</span><span class="english">What do you think about ' good kisser '?</span></p>

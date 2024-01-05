@@ -1,5 +1,7 @@
 # ort
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ort.md)
+
 <p><span class="chinese">现在有更多的木材需要运输。</span><span class="english">There's more timber to tra ort now.</span></p>
 
 <p><span class="chinese">你认为乒乓球是一项户外运动吗？</span><span class="english">Would you co ider ping-pong an outdoor ort?</span></p>

@@ -1,5 +1,7 @@
 # glide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glide.md)
+
 <p><span class="chinese">不要忘了防摩擦剂。</span><span class="english">Don't forget the Body Glide.</span></p>
 
 <p><span class="chinese">天空兀鹰盘旋。</span><span class="english">The condors glide in the sky.</span></p>

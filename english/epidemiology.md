@@ -1,5 +1,7 @@
 # epidemiology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epidemiology.md)
+
 <p><span class="chinese">这就是流行病学研究通常的做法</span><span class="english">That's how epidemiology is usually done.</span></p>
 
 <p><span class="chinese">流行病学研究是观察性研究</span><span class="english">Now the epidemiology studies are observational studies.</span></p>

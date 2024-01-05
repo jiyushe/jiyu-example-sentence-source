@@ -1,5 +1,7 @@
 # woods
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/woods.md)
+
 <p><span class="chinese">因为树林里太冷。</span><span class="english">For the woods are cold.</span></p>
 
 <p><span class="chinese">我最喜欢泰戈。伍兹。</span><span class="english">I like Tiger Woods best.</span></p>

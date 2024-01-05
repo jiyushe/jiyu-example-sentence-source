@@ -1,5 +1,7 @@
 # 乳酪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rulao.md)
+
 <p><span class="chinese">硬质乳酪？</span><span class="english">Hard cheese?</span></p>
 
 <p><span class="chinese">她看见乳酪。</span><span class="english">She sees cheese.</span></p>

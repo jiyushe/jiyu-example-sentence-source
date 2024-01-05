@@ -1,5 +1,7 @@
 # installment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/installment.md)
+
 <p><span class="chinese">六段分期法。</span><span class="english">The sixth installment method.</span></p>
 
 <p><span class="chinese">他用分期付款的方式买了一台汽车。</span><span class="english">He's bought a car by installment.</span></p>

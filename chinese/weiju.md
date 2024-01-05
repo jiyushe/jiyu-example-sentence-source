@@ -1,5 +1,7 @@
 # 危局
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiju.md)
+
 <p><span class="chinese">如何破解当前的危局成了各界关注的焦点。</span><span class="english">How to solve the current crisis became the focus of the.</span></p>
 
 <p><span class="chinese">就连和澳洲长期以来在亚洲最亲近的伙伴关系也面临危局。</span><span class="english">Now relations with Australia, Japan's closest friend in Asia, are at risk.</span></p>

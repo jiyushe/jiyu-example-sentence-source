@@ -1,5 +1,7 @@
 # stork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stork.md)
+
 <p><span class="chinese">这是黑鹳。</span><span class="english">The black stork.</span></p>
 
 <p><span class="chinese">我是一只白鹳。</span><span class="english">I am a white stork.</span></p>

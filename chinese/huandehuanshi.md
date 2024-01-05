@@ -1,5 +1,7 @@
 # 患得患失
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huandehuanshi.md)
+
 <p><span class="chinese">想想以前，真的有种患得患失的感觉！</span><span class="english">Think before really unique aggregation feeling!</span></p>
 
 <p><span class="chinese">紧紧把握生活，但不要患得患失。</span><span class="english">Firmly grasp, but do not worry about the outcome.</span></p>

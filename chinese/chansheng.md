@@ -1,5 +1,7 @@
 # 产生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chansheng.md)
+
 <p><span class="chinese">火产生热。</span><span class="english">A fire generates heat.</span></p>
 
 <p><span class="chinese">负罪感就这样产生了。</span><span class="english">Then the guilt sets in.</span></p>

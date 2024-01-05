@@ -1,5 +1,7 @@
 # 舵手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duoshou.md)
+
 <p><span class="chinese">赛艇上有舵手吗?。</span><span class="english">Did the scull have a cox?</span></p>
 
 <p><span class="chinese">那舵手把我们的船掉过头来。</span><span class="english">The helmsman brought us about.</span></p>

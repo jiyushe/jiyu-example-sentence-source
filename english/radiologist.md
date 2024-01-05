@@ -1,5 +1,7 @@
 # radiologist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radiologist.md)
+
 <p><span class="chinese">几个小时过去了，放射科医师说X光显示没有肺炎。</span><span class="english">Hours go by. The X-ray shows no pneumonia, says a radiologist.</span></p>
 
 <p><span class="chinese">你们的放疗师参与并提供了解释和检查。</span><span class="english">Your radiologist attends the fair to assist in interpreting these screening tests.</span></p>

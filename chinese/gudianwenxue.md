@@ -1,5 +1,7 @@
 # 古典文学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gudianwenxue.md)
+
 <p><span class="chinese">有渊博的古典文学知识。</span><span class="english">A professor has a fund of knowledge.</span></p>
 
 <p><span class="chinese">有渊博的古典文学知识。</span><span class="english">He has a competent knowledge of English.</span></p>

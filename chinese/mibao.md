@@ -1,5 +1,7 @@
 # 密报
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mibao.md)
+
 <p><span class="chinese">警方根据密报逮捕了毒品走私者。</span><span class="english">Acting on a tip-off, the police arrested the drug smugglers.</span></p>
 
 <p><span class="chinese">狗仔队大多有一个线民网络，这些人会向这些摄影师密报某位名人何时会出现在某个地方。</span><span class="english">Most paparazzi have a network of informers who tell them when a celebrity will be at a certain place.</span></p>

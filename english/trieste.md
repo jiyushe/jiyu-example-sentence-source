@@ -1,5 +1,7 @@
 # trieste
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trieste.md)
+
 <p><span class="chinese">在的里雅斯特，炖肉通常搭配泡菜、香辣卷心菜等一起吃。</span><span class="english">In Trieste the dish may come with sauerkraut, spicy cabbage and other Slavic components.</span></p>
 
 <p><span class="chinese">在意大利全国都发生过抗议活动，包括罗马、那不勒斯、巴勒莫、的里雅斯特好有威尼斯。</span><span class="english">Protests took place across Italy, including Rome, Naples, Palermo, Bari, Trieste and Venice.</span></p>

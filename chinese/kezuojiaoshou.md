@@ -1,5 +1,7 @@
 # 客座教授
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kezuojiaoshou.md)
+
 <p><span class="chinese">我想邀请您做我们的客座教授。</span><span class="english">I want to invite you to be our visiting professor.</span></p>
 
 <p><span class="chinese">因为他是范德教授课上的,客座教授。</span><span class="english">Because he was a guest speaker in Professor Vander's class.</span></p>

@@ -1,5 +1,7 @@
 # 人寿保险
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renshoubaoxian.md)
+
 <p><span class="chinese">你有人寿保险吗？</span><span class="english">Do you have life insurance?</span></p>
 
 <p><span class="chinese">终身人寿保险可以获得红利。</span><span class="english">A whole life policy can earn dividends.</span></p>

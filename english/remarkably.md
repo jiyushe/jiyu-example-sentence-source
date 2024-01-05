@@ -1,5 +1,7 @@
 # remarkably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remarkably.md)
+
 <p><span class="chinese">该操作过程相当简单。</span><span class="english">The process is remarkably simple.</span></p>
 
 <p><span class="chinese">但我错了，它的速度飞快。</span><span class="english">I was wrong. It’s remarkably fast.</span></p>

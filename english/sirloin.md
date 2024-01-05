@@ -1,5 +1,7 @@
 # sirloin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sirloin.md)
+
 <p><span class="chinese">牛里脊肉还是肉眼牛排？</span><span class="english">Sirloin steak or rib-eye?</span></p>
 
 <p><span class="chinese">我要一份上腰肉牛排？</span><span class="english">I'll have a sirloin steak.</span></p>

@@ -1,5 +1,7 @@
 # 剧团
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jutuan.md)
+
 <p><span class="chinese">这剧团在上演“马克白”。</span><span class="english">The group is doing "Macbeth".</span></p>
 
 <p><span class="chinese">他碰到“大剧院”剧团里的一个姑娘。</span><span class="english">He had met a Bolshoi ensemble girl.</span></p>

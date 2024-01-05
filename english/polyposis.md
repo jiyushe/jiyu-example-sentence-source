@@ -1,5 +1,7 @@
 # polyposis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polyposis.md)
+
 <p><span class="chinese">幼年型息肉症是很罕见的缺陷瘤。</span><span class="english">Juvenile polyposis syndrome is a rare hamartomatous disorder.</span></p>
 
 <p><span class="chinese">报道了23例家族性结肠息肉病的外科治疗。</span><span class="english">From 1985 to 1993, 23 cases of familial polyposis coil were treated surgically.</span></p>

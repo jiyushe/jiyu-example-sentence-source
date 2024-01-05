@@ -1,5 +1,7 @@
 # 含量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanliang.md)
+
 <p><span class="chinese">我们还有组分含量。</span><span class="english">And we have compositions.</span></p>
 
 <p><span class="chinese">想在膳食中降低脂肪的含量？</span><span class="english">Want to cut fat in meals?</span></p>

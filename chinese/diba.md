@@ -1,5 +1,7 @@
 # 堤坝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diba.md)
+
 <p><span class="chinese">破坏者炸毁了堤坝。</span><span class="english">Saboteurs dynamited the dam.</span></p>
 
 <p><span class="chinese">恐怖分子炸毁了堤坝。</span><span class="english">Terrorists dynamited the dam.</span></p>

@@ -1,5 +1,7 @@
 # duchy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duchy.md)
+
 <p><span class="chinese">该地区在1806年成为领地并于1866年被普鲁士接收。</span><span class="english">The region became a duchy in 1806 and was absorbed by Prussia in 1866.</span></p>
 
 <p><span class="chinese">精铁之羽就是狮鹫公国二元性的最佳代表。</span><span class="english">The Iron Feather is the very symbol of the duality of the Griffin Duchy.</span></p>

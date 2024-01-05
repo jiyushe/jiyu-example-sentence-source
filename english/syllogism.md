@@ -1,5 +1,7 @@
 # syllogism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/syllogism.md)
+
 <p><span class="chinese">三段论中的小前提。</span><span class="english">The minor premise in a syllogism.</span></p>
 
 <p><span class="chinese">好，最后一个，这是三段论。</span><span class="english">Okay one last one, here's syllogism.</span></p>

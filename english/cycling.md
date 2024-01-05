@@ -1,5 +1,7 @@
 # cycling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cycling.md)
+
 <p><span class="chinese">你喜欢骑自行车吗？</span><span class="english">Do you enjoy cycling?</span></p>
 
 <p><span class="chinese">你什么时候开始骑自行车的？</span><span class="english">When did you start cycling?</span></p>

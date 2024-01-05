@@ -1,5 +1,7 @@
 # satiate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/satiate.md)
+
 <p><span class="chinese">威尼尔露出满足的微笑说，“我已经吃饱了。”</span><span class="english">" Weinier shows contented smile to say, "I am already satiate.</span></p>
 
 <p><span class="chinese">人的自我价值的内涵应指人对自身的意义和对自我需要的满足。</span><span class="english">People's self-value means that people benefit themselves and that people satiate their own needs.</span></p>

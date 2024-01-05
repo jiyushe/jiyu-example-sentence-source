@@ -1,5 +1,7 @@
 # maltreat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maltreat.md)
+
 <p><span class="chinese">人会虐待植物吗？</span><span class="english">Does man maltreat plants?</span></p>
 
 <p><span class="chinese">什么是虐待动物？</span><span class="english">How does man maltreat animals?</span></p>

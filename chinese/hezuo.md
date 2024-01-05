@@ -1,5 +1,7 @@
 # 合作
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hezuo.md)
+
 <p><span class="chinese">我们可以合作。</span><span class="english">We can coördinate.</span></p>
 
 <p><span class="chinese">自动填写为领域的合作。</span><span class="english">Auto-fill for fields.</span></p>

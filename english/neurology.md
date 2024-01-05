@@ -1,5 +1,7 @@
 # neurology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neurology.md)
+
 <p><span class="chinese">但我还没有开始学神经学。</span><span class="english">But I haven’t started neurology yet.</span></p>
 
 <p><span class="chinese">神经学教授乔治告诉我。</span><span class="english">George Bartzokis, a professor of neurology at U. C.</span></p>

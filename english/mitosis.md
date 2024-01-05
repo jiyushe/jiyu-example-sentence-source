@@ -1,5 +1,7 @@
 # mitosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mitosis.md)
+
 <p><span class="chinese">我主张的是有丝分裂。</span><span class="english">I'm an advocate of mitosis.</span></p>
 
 <p><span class="chinese">核分裂像是否易见？</span><span class="english">Can mitosis be found easily?</span></p>

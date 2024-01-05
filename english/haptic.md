@@ -1,5 +1,7 @@
 # haptic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haptic.md)
+
 <p><span class="chinese">第三，对多数玩家来说，图标的质感不错。</span><span class="english">Third, chits have a nice haptic quality that appeals to many gamers.</span></p>
 
 <p><span class="chinese">山东青岛开发区哪里可以买奥克拉隐形眼镜?。</span><span class="english">Where the Shandong Qingdao development zone can buy an oersted carat of haptic lens?</span></p>

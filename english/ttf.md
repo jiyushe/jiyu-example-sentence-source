@@ -1,5 +1,7 @@
 # ttf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ttf.md)
+
 <p><span class="chinese">TTF文件的内部字体名称。</span><span class="english">The internal font name of the TTF file.</span></p>
 
 <p><span class="chinese">我如何嵌入一个定制的网站所有浏览器并格式的字体吗?。</span><span class="english">How do I embed a Custom Website Font in ttf format for all browsers?</span></p>

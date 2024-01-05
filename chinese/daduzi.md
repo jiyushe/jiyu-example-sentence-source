@@ -1,5 +1,7 @@
 # 大肚子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daduzi.md)
+
 <p><span class="chinese">他总拿他的大肚子开玩笑。</span><span class="english">He always kids him about his paunch.</span></p>
 
 <p><span class="chinese">他的大肚子鼓胀着像个大锅。</span><span class="english">His big belly swells out like a pot.</span></p>

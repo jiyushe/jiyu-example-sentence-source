@@ -1,5 +1,7 @@
 # 糍粑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ciba.md)
+
 <p><span class="chinese">妈妈手上还拿着刚才买的糍粑，是给奶奶留的。</span><span class="english">Mum is still holding one Zipa, left for grandma.</span></p>
 
 <p><span class="chinese">糍粑，有些地方也叫年糕、粑糍。</span><span class="english">Ciba, in some places, also known as rice cakes, DCB Ci.</span></p>

@@ -1,5 +1,7 @@
 # extractive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extractive.md)
+
 <p><span class="chinese">作为提炼冶金学家，当然会喜欢这个。</span><span class="english">And, as an extractive metallurgist, that took the cake.</span></p>
 
 <p><span class="chinese">全自动水过滤及精滤系统。</span><span class="english">Complete water filtration system and extractive filtration system.</span></p>

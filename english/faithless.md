@@ -1,5 +1,7 @@
 # faithless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faithless.md)
+
 <p><span class="chinese">预言自己的死亡和变心。</span><span class="english">Foretells his own death and is faithless.</span></p>
 
 <p><span class="chinese">那么兄弟请用你不诚的吻来接纳我。</span><span class="english">So receive me brother with your faithless kiss.</span></p>

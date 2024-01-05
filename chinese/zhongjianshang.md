@@ -1,5 +1,7 @@
 # 中间商
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongjianshang.md)
+
 <p><span class="chinese">第二，作为一个“中间商”实在不易。</span><span class="english">The second is the difficulties of being a middleman.</span></p>
 
 <p><span class="chinese">政府将问题归咎于向奶农采购牛奶的中间商。</span><span class="english">The government blames middlemen who collect milk from dairy farmers.</span></p>

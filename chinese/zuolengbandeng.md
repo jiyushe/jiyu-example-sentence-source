@@ -1,5 +1,7 @@
 # 坐冷板凳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuolengbandeng.md)
+
 <p><span class="chinese">投资者们让南非坐冷板凳。</span><span class="english">Investors give South Africa cold shoulder.</span></p>
 
 <p><span class="chinese">星期六的比赛米勒在坐冷板凳。</span><span class="english">Miller was riding the bench in Saturday's game.</span></p>

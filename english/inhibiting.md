@@ -1,5 +1,7 @@
 # inhibiting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inhibiting.md)
+
 <p><span class="chinese">禁止FAK颠倒这个作用。</span><span class="english">Inhibiting FAK reversed the effects.</span></p>
 
 <p><span class="chinese">水位计的抑制锈病和规模。</span><span class="english">Water gauge for inhibiting rust and scale.</span></p>

@@ -1,5 +1,7 @@
 # 上心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangxin.md)
+
 <p><span class="chinese">在正位片上心影增大。</span><span class="english">On the frontal film the heart is large.</span></p>
 
 <p><span class="chinese">眉头一皱，计上心来。</span><span class="english">Knit the brows and a stratagem comes to mind.</span></p>

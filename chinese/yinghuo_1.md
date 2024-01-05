@@ -1,5 +1,7 @@
 # 营火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinghuo_1.md)
+
 <p><span class="chinese">营火继续燃烧了几个钟头</span><span class="english">The bonfire blazed away for hours.</span></p>
 
 <p><span class="chinese">它看到了营火和流血。</span><span class="english">It has seen campfires and bloodshed.</span></p>

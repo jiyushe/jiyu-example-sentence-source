@@ -1,5 +1,7 @@
 # kidron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kidron.md)
+
 <p><span class="chinese">亚撒砍下他的偶像，捣得粉碎，烧在汲沦溪边。</span><span class="english">Asa cut down her image, crushed it, and burned it at the brook Kidron.</span></p>
 
 <p><span class="chinese">亚撒砍下她的偶像，捣得粉碎，烧在汲沦溪边。</span><span class="english">Asa cut the pole down, broke it up and burned it in the Kidron Valley.</span></p>

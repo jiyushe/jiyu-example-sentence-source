@@ -1,5 +1,7 @@
 # 拼盘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinpan.md)
+
 <p><span class="chinese">来个水果拼盘怎么样？</span><span class="english">How about a fruit platter?</span></p>
 
 <p><span class="chinese">蔬菜拼盘也非常受欢迎。</span><span class="english">Vegetable trays are also very popular.</span></p>

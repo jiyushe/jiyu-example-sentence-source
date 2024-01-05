@@ -1,5 +1,7 @@
 # jejunal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jejunal.md)
+
 <p><span class="chinese">同位素红血球扫描发现空肠处出血。</span><span class="english">Scintigraphy with Technetium-labeled red blood cells showed jejunal bleeding.</span></p>
 
 <p><span class="chinese">空肠肿瘤18例，回肠肿瘤11例，空、回肠同时发生的1例。</span><span class="english">There were 18 jejunal tumor, 11 ileal tumor and 1 jejunoileal tumor by clinical diagnosis.</span></p>

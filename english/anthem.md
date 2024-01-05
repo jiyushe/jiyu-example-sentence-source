@@ -1,5 +1,7 @@
 # anthem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anthem.md)
+
 <p><span class="chinese">请起立，唱国歌。</span><span class="english">Please stand for the national anthem.</span></p>
 
 <p><span class="chinese">奏国歌时大家都站立着。</span><span class="english">Everyone stood for the Natoinal Anthem.</span></p>

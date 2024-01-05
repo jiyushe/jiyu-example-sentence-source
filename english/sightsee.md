@@ -1,5 +1,7 @@
 # sightsee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sightsee.md)
+
 <p><span class="chinese">我来这里观光。</span><span class="english">I'm here to sightsee.</span></p>
 
 <p><span class="chinese">她认为这是一个好地方，观光和购物。</span><span class="english">She thinks it's a nice place to sightsee and shop.</span></p>

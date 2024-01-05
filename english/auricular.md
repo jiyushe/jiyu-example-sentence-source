@@ -1,5 +1,7 @@
 # auricular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/auricular.md)
+
 <p><span class="chinese">耳针针刺的注意事项。</span><span class="english">The matters need attention of auricular acupunture.</span></p>
 
 <p><span class="chinese">这就像通过一些耳听力设备援助。</span><span class="english">This is like hearing through some auricular device aid.</span></p>

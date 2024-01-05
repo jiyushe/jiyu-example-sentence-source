@@ -1,5 +1,7 @@
 # somewhat 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/somewhat_1.md)
+
 <p><span class="chinese">这使我有点困窘。</span><span class="english">This embarassed me somewhat.</span></p>
 
 <p><span class="chinese">毛的长度不妨略微有些调换。</span><span class="english">The length may vary somewhat.</span></p>

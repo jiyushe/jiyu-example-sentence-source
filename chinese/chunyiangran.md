@@ -1,5 +1,7 @@
 # 春意盎然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chunyiangran.md)
+
 <p><span class="chinese">春意盎然。</span><span class="english">Spring is in the air.</span></p>
 
 <p><span class="chinese">时下已是春意盎然。</span><span class="english">Spring was in the air.</span></p>

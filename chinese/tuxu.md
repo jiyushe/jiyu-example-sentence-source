@@ -1,5 +1,7 @@
 # 吐絮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuxu.md)
+
 <p><span class="chinese">幼虫为害棉叶，影响棉花成熟吐絮。</span><span class="english">Larvae cotton leaf affected cotton harm, mature open bolls.</span></p>
 
 <p><span class="chinese">温度、日照时数对棉花脱叶速度、脱叶率及吐絮率有一定影响。</span><span class="english">The rate of shed leaves and boll open were influenced by temperature and sunlight hours.</span></p>

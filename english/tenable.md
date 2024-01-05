@@ -1,5 +1,7 @@
 # tenable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tenable.md)
+
 <p><span class="chinese">你的理论一点也不能成立。</span><span class="english">Your theory is not tenable at all.</span></p>
 
 <p><span class="chinese">无效婚姻可以成立重婚罪。</span><span class="english">The void marriage can be tenable bigamy.</span></p>

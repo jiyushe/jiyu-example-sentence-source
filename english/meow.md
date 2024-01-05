@@ -1,5 +1,7 @@
 # meow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meow.md)
+
 <p><span class="chinese">我的猫咪从来不说"喵".</span><span class="english">My kitten never says, "Meow."</span></p>
 
 <p><span class="chinese">你的新车太棒了。</span><span class="english">Your new car is the cat's meow.</span></p>

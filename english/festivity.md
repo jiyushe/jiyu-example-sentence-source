@@ -1,5 +1,7 @@
 # festivity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/festivity.md)
+
 <p><span class="chinese">关于这个节日的起源有很多种说法。</span><span class="english">Legends about the origin of this festivity  abound.</span></p>
 
 <p><span class="chinese">万千的喜气多热闹，吉祥的日子要来到。</span><span class="english">Thousands of festivity more lively, auspicious day to come.</span></p>

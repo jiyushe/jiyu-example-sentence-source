@@ -1,5 +1,7 @@
 # sweated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sweated.md)
+
 <p><span class="chinese">做得我大汗淋漓。</span><span class="english">I really sweated.</span></p>
 
 <p><span class="chinese">他手中的黑桃Q被迫垫了出来。</span><span class="english">His spade Q was sweated down.</span></p>

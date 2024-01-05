@@ -1,5 +1,7 @@
 # baseness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baseness.md)
+
 <p><span class="chinese">她永远不会堕落到卑劣地步。</span><span class="english">She would never descend to baseness.</span></p>
 
 <p><span class="chinese">谢莉绝不会原谅这种卑鄙的行为。</span><span class="english">Shelley never pardoned baseness of this sort.</span></p>

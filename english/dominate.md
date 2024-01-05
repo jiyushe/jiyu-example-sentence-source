@@ -1,5 +1,7 @@
 # dominate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dominate.md)
+
 <p><span class="chinese">不优于2</span><span class="english">doesn't dominate 2.</span></p>
 
 <p><span class="chinese">我选α优于选β吗</span><span class="english">Does my Alpha dominate my Beta?</span></p>

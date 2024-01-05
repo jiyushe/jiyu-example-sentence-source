@@ -1,5 +1,7 @@
 # 细说
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xishuo_1.md)
+
 <p><span class="chinese">智者一言足矣/明白人不用细说。</span><span class="english">A word to the wise is enough.</span></p>
 
 <p><span class="chinese">无须细说。</span><span class="english">It's unnecessary to go into details.</span></p>

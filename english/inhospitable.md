@@ -1,5 +1,7 @@
 # inhospitable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inhospitable.md)
+
 <p><span class="chinese">喜欢长途跋涉去世界上荒凉的地方。</span><span class="english">Long journeys to inhospitable parts of the world.</span></p>
 
 <p><span class="chinese">但是这个不适宜人居住的地形却是城市未来发展的关键。</span><span class="english">But this inhospitable terrain is also key to the boomtown future.</span></p>

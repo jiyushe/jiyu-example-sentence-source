@@ -1,5 +1,7 @@
 # 潜移默化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianyimohua.md)
+
 <p><span class="chinese">这是一个潜移默化的过程——你的的确确是在构思接口，而且是以一种渐进的方式。</span><span class="english">You're also doing it incrementally.</span></p>
 
 <p><span class="chinese">卡利什说，塞拉斯“的方向是潜移默化的。</span><span class="english">Kalish says that Sellars' direction is subtle.</span></p>

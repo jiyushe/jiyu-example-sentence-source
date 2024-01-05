@@ -1,5 +1,7 @@
 # extrovert
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extrovert.md)
+
 <p><span class="chinese">外向的女人肥胖的几率是内向的女人的1.53倍。</span><span class="english">Extrovert women were 1.53 times as likely to be obese.</span></p>
 
 <p><span class="chinese">我们用性格内向和外向的人举个例子。</span><span class="english">Let’s take the example of an introvert and an extrovert.</span></p>

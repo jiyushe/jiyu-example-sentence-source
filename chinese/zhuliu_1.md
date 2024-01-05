@@ -1,5 +1,7 @@
 # 驻留
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuliu_1.md)
+
 <p><span class="chinese">这是所有数据驻留的地方。</span><span class="english">This is where all the data resides.</span></p>
 
 <p><span class="chinese">青春不老，瑜伽，让时间就此驻留。</span><span class="english">Stay young forever, Yoga, Its time to stop.</span></p>

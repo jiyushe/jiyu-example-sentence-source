@@ -1,5 +1,7 @@
 # polysemy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polysemy.md)
+
 <p><span class="chinese">多义词是语言中的普遍现象。</span><span class="english">Polysemy is prevalent in language.</span></p>
 
 <p><span class="chinese">歧义多因为多义词和同义词引起的。</span><span class="english">Amibiguity often arises due to polysemy and homonymy.</span></p>

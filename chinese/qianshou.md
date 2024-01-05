@@ -1,5 +1,7 @@
 # 歉收
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianshou.md)
+
 <p><span class="chinese">那你有过什么歉收的过去么？</span><span class="english">Have you had any crop failures?</span></p>
 
 <p><span class="chinese">无印良品淘宝我是歉收的太阳光。</span><span class="english">I i am the sunlight on ripened grain.</span></p>

@@ -1,5 +1,7 @@
 # 解聘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiepin.md)
+
 <p><span class="chinese">然而，解聘员工是一件让人很挣扎的事。</span><span class="english">But it's a struggle to let people go.</span></p>
 
 <p><span class="chinese">公司裁员，我于上周收到了解聘书。</span><span class="english">They’re downsizing, and I got my walking papers last week.</span></p>

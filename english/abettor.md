@@ -1,5 +1,7 @@
 # abettor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abettor.md)
+
 <p><span class="chinese">在个罪意义的立法和司法操作中也不宜于对教唆犯单独定罪。</span><span class="english">And it is inadvisable to criminate the abettor separately by the aspect of legislation and judicature.</span></p>
 
 <p><span class="chinese">教唆犯具有严重的社会危害性，同时也是共同犯罪乃至整个刑法理论中较为棘手的问题，对其加以深入研究实属必要。</span><span class="english">Abettor is not only with serious social harm, but also a hard issue in the whole theory of criminal law.</span></p>

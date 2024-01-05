@@ -1,5 +1,7 @@
 # 短笛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duandi.md)
+
 <p><span class="chinese">教猪吹短笛，不可能的事。</span><span class="english">Teach a pig to play a flute.</span></p>
 
 <p><span class="chinese">他们吹奏着短笛。</span><span class="english">They are playing short flutes.</span></p>

@@ -1,5 +1,7 @@
 # urethral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/urethral.md)
+
 <p><span class="chinese">尿道口有或稀或稠的脓性分泌物。</span><span class="english">Urethral opening with or thin or thick purulent.</span></p>
 
 <p><span class="chinese">尿道口疼痛且有分泌物！</span><span class="english">Urethral orifice pain have the secreta at present!</span></p>

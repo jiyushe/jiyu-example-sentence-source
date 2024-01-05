@@ -1,5 +1,7 @@
 # notify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/notify.md)
+
 <p><span class="chinese">吴敏马上通知曹政。</span><span class="english">Wu Min immediately notify cao.</span></p>
 
 <p><span class="chinese">我谨通知您，晚工程师。</span><span class="english">I wish to notify you that late Engr.</span></p>

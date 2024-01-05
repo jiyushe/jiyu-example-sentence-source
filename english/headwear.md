@@ -1,5 +1,7 @@
 # headwear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/headwear.md)
+
 <p><span class="chinese">他们为女人提供漂亮的头饰品。</span><span class="english">They supply drop-dead headwear for women.</span></p>
 
 <p><span class="chinese">圣帕特里克节游行上观众们戴的帽子。</span><span class="english">Spectators' headwear at the St Patrick's Day Parade.</span></p>

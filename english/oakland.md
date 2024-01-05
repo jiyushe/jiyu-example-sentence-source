@@ -1,5 +1,7 @@
 # oakland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oakland.md)
+
 <p><span class="chinese">我大部分时间是在奥克兰大学度过的。</span><span class="english">I spend most of my time in Oakland.</span></p>
 
 <p><span class="chinese">奥克兰和伯克利。是的。</span><span class="english">So like Oakland and Berkeley. Yeah.</span></p>

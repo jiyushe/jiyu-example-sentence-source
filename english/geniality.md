@@ -1,5 +1,7 @@
 # geniality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geniality.md)
+
 <p><span class="chinese">我喜欢品德好的、爱家庭是诚实的、温和的人。</span><span class="english">Iike a man who is love family with fine moral that is honesty, geniality.</span></p>
 
 <p><span class="chinese">与人为善是我最大的特点。我在给饭店写评语时很少用到激烈的言辞。</span><span class="english">Geniality is my middle name. I rarely write a fierce word about any restaurant.</span></p>

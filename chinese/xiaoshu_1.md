@@ -1,5 +1,7 @@
 # 消暑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoshu_1.md)
+
 <p><span class="chinese">淡竹叶能清热消暑。</span><span class="english">Bamboo Leaf clears summer-heat.</span></p>
 
 <p><span class="chinese">常饮此茶，既能消暑又能止咳、化痰、健胃。</span><span class="english">The tea good on the throat and Stomach.</span></p>

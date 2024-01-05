@@ -1,5 +1,7 @@
 # 出事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chushi_1.md)
+
 <p><span class="chinese">出事路段为双向两车道。</span><span class="english">Two-way two-lane road accident.</span></p>
 
 <p><span class="chinese">他加快车速驶离了出事地点。</span><span class="english">He sped his car off the accidental site.</span></p>

@@ -1,5 +1,7 @@
 # whereunto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whereunto.md)
+
 <p><span class="chinese">又说，我拿什么来比神的国呢。</span><span class="english">And again he said, Whereunto shall I liken the kingdom of God?</span></p>
 
 <p><span class="chinese">我就对他们说，你们所上的那高处叫什么呢。</span><span class="english">Then I said unto them, What is the high place whereunto ye go?</span></p>

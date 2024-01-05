@@ -1,5 +1,7 @@
 # copse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/copse.md)
+
 <p><span class="chinese">我还看见过橡树林中留存着的砖头。</span><span class="english">I have seen bricks amid the oak copse there.</span></p>
 
 <p><span class="chinese">声音从一片稀稀拉拉的杂树林中传来。</span><span class="english">The voices were coming from a copse of straggly trees.</span></p>

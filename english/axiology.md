@@ -1,5 +1,7 @@
 # axiology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/axiology.md)
+
 <p><span class="chinese">马克思的历史价值论是实践的历史价值论。</span><span class="english">Marxist historical axiology is the practice of historical axiology.</span></p>
 
 <p><span class="chinese">劳动价值论的核心问题是创造价值的源泉问题。</span><span class="english">The resources of the producing value are the core of the Labour Axiology.</span></p>

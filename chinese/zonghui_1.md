@@ -1,5 +1,7 @@
 # 总汇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zonghui_1.md)
+
 <p><span class="chinese">每个人都喜欢我们的总汇沙拉。</span><span class="english">Everyone likes our combination salad.</span></p>
 
 <p><span class="chinese">历史是人类经历的总汇。</span><span class="english">History is a reservoir of human experience.</span></p>

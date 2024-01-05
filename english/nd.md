@@ -1,5 +1,7 @@
 # nd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nd.md)
+
 <p><span class="chinese">那件是绿颜色以及黄色的。</span><span class="english">The one tht is green nd yellow.</span></p>
 
 <p><span class="chinese">施历时避开眼部唇部和口部。</span><span class="english">Keep wy from eyes, lips nd mouth.</span></p>

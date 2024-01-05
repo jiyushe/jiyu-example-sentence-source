@@ -1,5 +1,7 @@
 # 时效
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shixiao_3.md)
+
 <p><span class="chinese">取得时效制度是一项古老的法律制度。</span><span class="english">Usucaption regime is an ancient law system.</span></p>
 
 <p><span class="chinese">保证期间属于除斥期间，不属于诉讼时效性质。</span><span class="english">It does not belong to the limitation of action in nature.</span></p>

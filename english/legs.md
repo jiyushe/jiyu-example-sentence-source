@@ -1,5 +1,7 @@
 # legs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legs.md)
+
 <p><span class="chinese">我移动了我的双腿。</span><span class="english">I moved my legs.</span></p>
 
 <p><span class="chinese">他的两条腿向里弯曲。</span><span class="english">His legs bow inward.</span></p>

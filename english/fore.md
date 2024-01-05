@@ -1,5 +1,7 @@
 # fore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fore.md)
+
 <p><span class="chinese">在农夫敲打我的头之前。</span><span class="english">Fore the farmer bops my head.</span></p>
 
 <p><span class="chinese">傻瓜冲在前，笨蛋打头阵。</span><span class="english">A fool always rush to the fore.</span></p>

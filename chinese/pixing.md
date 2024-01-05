@@ -1,5 +1,7 @@
 # 癖性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pixing.md)
+
 <p><span class="chinese">她逐渐养成一些无害的癖性。</span><span class="english">She developed a few harmless eccentricities.</span></p>
 
 <p><span class="chinese">暴虐和专横跋扈的癖性。</span><span class="english">A proclivity for violence and authoritarianism.</span></p>

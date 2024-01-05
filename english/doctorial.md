@@ -1,5 +1,7 @@
 # doctorial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doctorial.md)
+
 <p><span class="chinese">南京大学教授、博士生导师。</span><span class="english">Professor, doctorial tutor of Nanjing University.</span></p>
 
 <p><span class="chinese">教授通常都有博士学位。</span><span class="english">Professors usually have doctorial doctorate degrees.</span></p>

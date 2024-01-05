@@ -1,5 +1,7 @@
 # gendarmerie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gendarmerie.md)
+
 <p><span class="chinese">宪兵队对这点矛盾有说明吗？</span><span class="english">Did the gendarmerie say anything about this inconsistency?</span></p>
 
 <p><span class="chinese">虽然宪兵，是市场上的领先地位，市场正在迎头赶上。</span><span class="english">Although the gendarmerie is ahead of the market the market is catching up.</span></p>

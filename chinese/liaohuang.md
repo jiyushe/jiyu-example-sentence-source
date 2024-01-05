@@ -1,5 +1,7 @@
 # 撂荒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liaohuang.md)
+
 <p><span class="chinese">毕竟撂荒多年的地，又且在瓦砾堆里，菜地贫瘠的可怜。</span><span class="english">After all, put down barren years, and under the rubble, vegetable poor poor.</span></p>
 
 <p><span class="chinese">撂荒12年时，结皮和地上草被都开始起到增渗作用。</span><span class="english">To the 12 returning years, both the crust and the grass begin to increase the infiltration.</span></p>

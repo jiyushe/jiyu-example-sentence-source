@@ -1,5 +1,7 @@
 # chloride
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chloride.md)
+
 <p><span class="chinese">氯化镁。</span><span class="english">Magnesium chloride works.</span></p>
 
 <p><span class="chinese">如氯化钠。</span><span class="english">OK, sodium chloride works.</span></p>

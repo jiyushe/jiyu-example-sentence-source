@@ -1,5 +1,7 @@
 # 名门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingmen.md)
+
 <p><span class="chinese">她出生于名门望族。</span><span class="english">She comes from a famous family.</span></p>
 
 <p><span class="chinese">我们家确确实实是名门贵族。</span><span class="english">We were really society nobility.</span></p>

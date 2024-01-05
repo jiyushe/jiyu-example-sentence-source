@@ -1,5 +1,7 @@
 # 反潜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanqian.md)
+
 <p><span class="chinese">美国海军正在改造它的反潜能力。</span><span class="english">So the U. S. Navy is rebuilding its anti-submarine capability.</span></p>
 
 <p><span class="chinese">反潜编队不能超过6艘船只。不能由上将以上的军衔指挥。</span><span class="english">ASW TF's. No more than 6 ships allowed. No Admirals allowed to command.</span></p>

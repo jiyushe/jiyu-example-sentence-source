@@ -1,5 +1,7 @@
 # profanity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/profanity.md)
+
 <p><span class="chinese">不可用亵渎的语言。</span><span class="english">Do not use profanity.</span></p>
 
 <p><span class="chinese">首先，这是对语言的亵渎。</span><span class="english">To begin with, it’s a profanity of language.</span></p>

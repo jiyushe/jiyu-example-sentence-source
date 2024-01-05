@@ -1,5 +1,7 @@
 # schwarz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/schwarz.md)
+
 <p><span class="chinese">施瓦茨在2009年12月19日发表的文章中对此做出了详细的解释。</span><span class="english">Schwarz explained all this in his Dec. 19, 2009 piece.</span></p>
 
 <p><span class="chinese">当你踏入史瓦兹玩具城，就进了一座玩具乐园。</span><span class="english">When you step into FAO Schwarz , you step into a wonderland of toys.</span></p>

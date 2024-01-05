@@ -1,5 +1,7 @@
 # 不知所云
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buzhisuoyun.md)
+
 <p><span class="chinese">这部片子的故事情节让人不知所云。</span><span class="english">The plot is incomprehensible.</span></p>
 
 <p><span class="chinese">不知所云的bd。到底这是怎么了？</span><span class="english">Unintelligible bd. In the end this is how?</span></p>

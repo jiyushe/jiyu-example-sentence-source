@@ -1,5 +1,7 @@
 # nought
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nought.md)
+
 <p><span class="chinese">嗯，这个a下标。</span><span class="english">Yeah. This a sub nought.</span></p>
 
 <p><span class="chinese">无物可丢，坦坦无忧。</span><span class="english">Merry is that has nought to lose.</span></p>

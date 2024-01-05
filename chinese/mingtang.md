@@ -1,5 +1,7 @@
 # 名堂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingtang.md)
+
 <p><span class="chinese">你到底在搞什么名堂？</span><span class="english">What the hell are you doing?</span></p>
 
 <p><span class="chinese">搞莫名堂？你还要吹头发？</span><span class="english">What the hell! You wanna dry your hair?</span></p>

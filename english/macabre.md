@@ -1,5 +1,7 @@
 # macabre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/macabre.md)
+
 <p><span class="chinese">听上去挺毛骨悚然的，但这的确是事实。</span><span class="english">Macabre but true.</span></p>
 
 <p><span class="chinese">但丹东的激情也有恐怖的一面。</span><span class="english">But his passions had a macabre side.</span></p>

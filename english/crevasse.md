@@ -1,5 +1,7 @@
 # crevasse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crevasse.md)
+
 <p><span class="chinese">有一条大裂缝正在裂开。</span><span class="english">A big crevasse is opening.</span></p>
 
 <p><span class="chinese">猛犸掉河裂缝里。</span><span class="english">The mammoth fell into an ice crevasse.</span></p>

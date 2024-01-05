@@ -1,5 +1,7 @@
 # bifocal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bifocal.md)
+
 <p><span class="chinese">比耶尔斯太太戴着厚厚的双光眼镜。</span><span class="english">Mrs Bierce wears thick bifocal lenses.</span></p>
 
 <p><span class="chinese">茱莉亚调整了一下自己的双光隐形眼镜。</span><span class="english">Julia adjusted her invisible bifocal glasses and entered the classroom.</span></p>

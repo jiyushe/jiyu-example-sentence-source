@@ -1,5 +1,7 @@
 # 加工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiagong.md)
+
 <p><span class="chinese">刹车毂加工。</span><span class="english">Machining of brake hub.</span></p>
 
 <p><span class="chinese">增加机械加工性能。</span><span class="english">To improve machinability.</span></p>

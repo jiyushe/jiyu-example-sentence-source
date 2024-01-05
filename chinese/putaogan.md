@@ -1,5 +1,7 @@
 # 葡萄干
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/putaogan.md)
+
 <p><span class="chinese">像太阳下的葡萄干？</span><span class="english">Like a raisin in the sun?</span></p>
 
 <p><span class="chinese">在生面团中加一些葡萄干。</span><span class="english">Add some raisins to the dough.</span></p>

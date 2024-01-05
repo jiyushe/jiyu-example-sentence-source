@@ -1,5 +1,7 @@
 # 僵局
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangju.md)
+
 <p><span class="chinese">谁能挽救僵局？</span><span class="english">Who would save it?</span></p>
 
 <p><span class="chinese">但这种僵局并不存在。</span><span class="english">Such a logjam does not exist.</span></p>

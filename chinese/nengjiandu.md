@@ -1,5 +1,7 @@
 # 能见度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nengjiandu.md)
+
 <p><span class="chinese">能见度怎样？</span><span class="english">How is visibility?</span></p>
 
 <p><span class="chinese">能见度几乎为零。</span><span class="english">Visibility was practically zero.</span></p>

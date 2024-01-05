@@ -1,5 +1,7 @@
 # jellyfish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jellyfish.md)
+
 <p><span class="chinese">水母没有大脑。</span><span class="english">Jellyfish have no brains.</span></p>
 
 <p><span class="chinese">许多水母都堪称尤物。</span><span class="english">A lot of jellyfish are lookers.</span></p>

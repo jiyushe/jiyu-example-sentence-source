@@ -1,5 +1,7 @@
 # 明月
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingyue.md)
+
 <p><span class="chinese">明月清风寄相思！</span><span class="english">Send Acacia moon breeze!</span></p>
 
 <p><span class="chinese">我们举头望明月。</span><span class="english">We looked up at the moon.</span></p>

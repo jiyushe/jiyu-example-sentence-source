@@ -1,5 +1,7 @@
 # congested
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/congested.md)
+
 <p><span class="chinese">他的眼球充血。</span><span class="english">His eyeballs are congested.</span></p>
 
 <p><span class="chinese">他的喉咙被痰堵住了。</span><span class="english">His throat congested with phlegm.</span></p>

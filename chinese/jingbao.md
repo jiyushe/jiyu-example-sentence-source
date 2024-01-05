@@ -1,5 +1,7 @@
 # 警报
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingbao.md)
+
 <p><span class="chinese">气体警报声马上响了起来。</span><span class="english">GAS ALARMS SHRIEK.</span></p>
 
 <p><span class="chinese">使用防烟警报。</span><span class="english">Use a smoke alarm.</span></p>

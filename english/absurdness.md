@@ -1,5 +1,7 @@
 # absurdness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/absurdness.md)
+
 <p><span class="chinese">这人生到底带点荒谬，冰封了所有的永远。</span><span class="english">This life brings an absurdness , Ice-bound all forever.</span></p>
 
 <p><span class="chinese">他从一种“伪纪实主义”的高度以“本真的”叙事手段实施着对这一荒诞的叙说。“</span><span class="english">He has adopted a " highly natural " narrative method which is " pseudo-documentary " to narrate this absurdness.</span></p>

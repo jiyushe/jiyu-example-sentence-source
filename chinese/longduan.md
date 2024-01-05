@@ -1,5 +1,7 @@
 # 垄断
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/longduan.md)
+
 <p><span class="chinese">垄断情况,完全正确</span><span class="english">Monopoly, exactly.</span></p>
 
 <p><span class="chinese">或者垄断经营</span><span class="english">Or you sell monopolies.</span></p>

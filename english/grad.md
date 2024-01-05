@@ -1,5 +1,7 @@
 # grad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grad.md)
+
 <p><span class="chinese">回到大学的话题。</span><span class="english">So back to grad school.</span></p>
 
 <p><span class="chinese">是摄氏三十度，对不对?。</span><span class="english">Sind das 30 Grad Celsius?</span></p>

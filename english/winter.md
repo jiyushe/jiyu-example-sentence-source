@@ -1,5 +1,7 @@
 # winter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/winter.md)
+
 <p><span class="chinese">没有冬路。</span><span class="english">No winter road.</span></p>
 
 <p><span class="chinese">冬天是白色的。</span><span class="english">Winter is white.</span></p>

@@ -1,5 +1,7 @@
 # austria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/austria.md)
+
 <p><span class="chinese">他来自奥地利。</span><span class="english">He comes from Austria.</span></p>
 
 <p><span class="chinese">我知道至少在奥地利是这样。</span><span class="english">At least the Austria I know.</span></p>

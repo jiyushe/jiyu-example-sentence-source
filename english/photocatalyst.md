@@ -1,5 +1,7 @@
 # photocatalyst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photocatalyst.md)
+
 <p><span class="chinese">该材料适用于发光二极管、光催化剂和电化学电池。</span><span class="english">It is applied to LED, photocatalyst and electrochemical cell.</span></p>
 
 <p><span class="chinese">综述了近年来共掺杂二氧化钛光催化剂的研究进展。</span><span class="english">The recent progresses of codoped titania photocatalyst are reviewed.</span></p>

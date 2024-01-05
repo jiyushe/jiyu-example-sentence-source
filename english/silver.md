@@ -1,5 +1,7 @@
 # silver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/silver.md)
+
 <p><span class="chinese">银的？</span><span class="english">Silver?</span></p>
 
 <p><span class="chinese">不要银牌。</span><span class="english">Not silver.</span></p>

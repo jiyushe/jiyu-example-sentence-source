@@ -1,5 +1,7 @@
 # approx
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/approx.md)
+
 <p><span class="chinese">股票价格大约比现价晚20分钟。</span><span class="english">Share price approx. 20 minutes delayed.</span></p>
 
 <p><span class="chinese">烘烤30分钟左右，直到松饼呈金棕色。</span><span class="english">Bake approx 30 minutes until golden brown.</span></p>

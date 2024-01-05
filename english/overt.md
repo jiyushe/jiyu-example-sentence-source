@@ -1,5 +1,7 @@
 # overt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overt.md)
+
 <p><span class="chinese">这无关乎商标或者明显的标志。</span><span class="english">This is nothing to do with logos or overt symbols.</span></p>
 
 <p><span class="chinese">窦性心动过缓是个利于明显心衰发生的因子？</span><span class="english">Is sinus bradycardia a factor facilitating overt heart failure?</span></p>

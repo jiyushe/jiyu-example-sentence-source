@@ -1,5 +1,7 @@
 # lehr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lehr.md)
+
 <p><span class="chinese">“他突然被击中后脑，”莱尔说。</span><span class="english">"Suddenly he's hit in the head from behind," Lehr says.</span></p>
 
 <p><span class="chinese">装甲教导师和第二装甲师一直在西线作战。</span><span class="english">Panzer Lehr and the 2nd Panzer Division remained in the west.</span></p>

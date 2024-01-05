@@ -1,5 +1,7 @@
 # 螺旋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luoxuan_1.md)
+
 <p><span class="chinese">化合物3是一维螺旋结构。</span><span class="english">Compound 3 is a 1D spiral chain.</span></p>
 
 <p><span class="chinese">螺旋网带洗浆机。</span><span class="english">Helix wire mesh belt pulp washer.</span></p>

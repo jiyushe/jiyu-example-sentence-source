@@ -1,5 +1,7 @@
 # dysgraphia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dysgraphia.md)
+
 <p><span class="chinese">所以的这一切都是书写困难的表现。</span><span class="english">These can all be signs of dysgraphia.</span></p>
 
 <p><span class="chinese">这些都是书写困难的迹象。</span><span class="english">These can all be signs of dysgraphia.</span></p>

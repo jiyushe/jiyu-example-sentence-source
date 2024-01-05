@@ -1,5 +1,7 @@
 # 结尾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiewei.md)
+
 <p><span class="chinese">这个词以辅音结尾。</span><span class="english">The word ends in -ous.</span></p>
 
 <p><span class="chinese">你的结尾游戏是什么？</span><span class="english">What is your end game?</span></p>

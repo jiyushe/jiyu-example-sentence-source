@@ -1,5 +1,7 @@
 # cope 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cope.md)
+
 <p><span class="chinese">只有懦夫才无法应付。</span><span class="english">Only wimps can’t cope.</span></p>
 
 <p><span class="chinese">他没法子应付那种状况。</span><span class="english">He couldn't cope with that.</span></p>

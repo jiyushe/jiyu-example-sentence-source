@@ -1,5 +1,7 @@
 # stricken
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stricken.md)
+
 <p><span class="chinese">夜，是叫人悲伤欲绝的时候。</span><span class="english">Night is rather sad when stricken.</span></p>
 
 <p><span class="chinese">所以，丧气的观众有著阴沈的忧伤。</span><span class="english">So upon that stricken multitude grim melancholy sat.</span></p>

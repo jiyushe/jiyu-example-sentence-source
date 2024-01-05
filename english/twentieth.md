@@ -1,5 +1,7 @@
 # twentieth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/twentieth.md)
+
 <p><span class="chinese">昨天是玛丽的二10岁生日。</span><span class="english">It was Mary's twentieth birthday yesterday.</span></p>
 
 <p><span class="chinese">我就是这样地跨进我的二十岁年纪。</span><span class="english">This was how I stepped into my twentieth year.</span></p>

@@ -1,5 +1,7 @@
 # 庙宇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miaoyu_1.md)
+
 <p><span class="chinese">你去参观那座庙宇了吗？</span><span class="english">Did you see the Temple?</span></p>
 
 <p><span class="chinese">庙宇用黄纸。</span><span class="english">Temple with yellow paper.</span></p>

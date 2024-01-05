@@ -1,5 +1,7 @@
 # tonnage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tonnage.md)
+
 <p><span class="chinese">货运吨数?。</span><span class="english">Freight Tonnage?</span></p>
 
 <p><span class="chinese">总吨是多少?。</span><span class="english">What is the gross tonnage ?</span></p>

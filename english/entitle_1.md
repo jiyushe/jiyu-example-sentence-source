@@ -1,5 +1,7 @@
 # entitle 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entitle_1.md)
+
 <p><span class="chinese">你的服务年限使你有资格领取养老金。</span><span class="english">Your years of service entitle you to a pension.</span></p>
 
 <p><span class="chinese">你的资格使你有权享有较高的薪水。</span><span class="english">Your qualifications entitle you to a higher salary.</span></p>

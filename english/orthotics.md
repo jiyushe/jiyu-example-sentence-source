@@ -1,5 +1,7 @@
 # orthotics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orthotics.md)
+
 <p><span class="chinese">我需要作矫正术吗？</span><span class="english">Do I need to wear orthotics?</span></p>
 
 <p><span class="chinese">我有矫正器，并且我总是带着他们。</span><span class="english">I have orthotics and I always wear them.</span></p>

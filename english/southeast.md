@@ -1,5 +1,7 @@
 # southeast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/southeast.md)
+
 <p><span class="chinese">开始刮东南风。</span><span class="english">A southeast wind was blowing.</span></p>
 
 <p><span class="chinese">我喜欢东南亚的人妖！</span><span class="english">I love the southeast Asian shemales!</span></p>

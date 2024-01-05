@@ -1,5 +1,7 @@
 # pernicious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pernicious.md)
+
 <p><span class="chinese">补贴同样有致命的影响。</span><span class="english">Subsidies also have a pernicious effect.</span></p>
 
 <p><span class="chinese">工作可能是最有害的拖延形式之一。</span><span class="english">Work can be one of the most pernicious forms of procrastination.</span></p>

@@ -1,5 +1,7 @@
 # predictive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/predictive.md)
+
 <p><span class="chinese">可是一些问题有难以预料的预测性。</span><span class="english">And yet some questions are unpredictably predictive.</span></p>
 
 <p><span class="chinese">微数列和蛋白质组都可对DFS进行预测。</span><span class="english">Microarray and proteomic profiles were predictive of DFS.</span></p>

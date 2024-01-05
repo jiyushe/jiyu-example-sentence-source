@@ -1,5 +1,7 @@
 # 逃荒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taohuang.md)
+
 <p><span class="chinese">一遇灾荒，百姓旋即徙走，逃荒他处。</span><span class="english">Once a serious famine happen, the people leave immediately, flees from famine.</span></p>
 
 <p><span class="chinese">清朝末年，山东农民冯青山随着逃荒的难民队伍进入京城。</span><span class="english">At the end of Qing Dynasty, the farmer Feng escaped to Beijing , and fell in love with the actress Kuijun.</span></p>

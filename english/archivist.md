@@ -1,5 +1,7 @@
 # archivist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/archivist.md)
+
 <p><span class="chinese">作为公民档案管理员，你们对什么样的项目感兴趣呢?。</span><span class="english">As a citizen archivist what kind of projects are you interested in?</span></p>
 
 <p><span class="chinese">但是档案馆员托马斯．普兰特被这份文件困扰了好几年。</span><span class="english">But for several years, archivist Thomas Plante had been troubled by the document.</span></p>

@@ -1,5 +1,7 @@
 # 排列
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pailie.md)
+
 <p><span class="chinese">汽车沿着道路排列。</span><span class="english">Cars lined the road.</span></p>
 
 <p><span class="chinese">你怎样排列控制盘呢？</span><span class="english">How do you arrange the dials?</span></p>

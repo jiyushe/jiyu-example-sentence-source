@@ -1,5 +1,7 @@
 # 清江
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingjiang.md)
+
 <p><span class="chinese">它上连经行峡，下入清江。</span><span class="english">It connects Jiangxing Valley and Qingjiang River.</span></p>
 
 <p><span class="chinese">清江流域有着丰富的非物质文化遗产。</span><span class="english">Qingjiang valley is rich in intangible cultural heritages.</span></p>

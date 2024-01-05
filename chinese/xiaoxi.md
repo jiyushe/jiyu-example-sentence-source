@@ -1,5 +1,7 @@
 # 小戏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoxi.md)
+
 <p><span class="chinese">尽管有许多不足之处，这出小戏仍颇具魅力。</span><span class="english">With all its defects the little play has a real charm.</span></p>
 
 <p><span class="chinese">多是歌舞为主的民间小戏。</span><span class="english">Most are small local operas focusing on songs and dances.</span></p>

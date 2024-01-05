@@ -1,5 +1,7 @@
 # sumptuous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sumptuous.md)
+
 <p><span class="chinese">我们吃了一顿丰盛的团圆饭。</span><span class="english">We had a sumptuous feast of reunion.</span></p>
 
 <p><span class="chinese">生命是一场华丽的礼葬。</span><span class="english">Life is a sumptuous funeral and burial.</span></p>

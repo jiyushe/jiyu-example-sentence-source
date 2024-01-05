@@ -1,5 +1,7 @@
 # saunter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saunter.md)
+
 <p><span class="chinese">我们随节奏轻舞一步接一步。</span><span class="english">We saunter through tempo step by step.</span></p>
 
 <p><span class="chinese">她开始向篝火处慢慢走去。</span><span class="english">She began a slow saunter toward the bonfires.</span></p>

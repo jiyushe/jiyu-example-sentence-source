@@ -1,5 +1,7 @@
 # 寒碜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanchen.md)
+
 <p><span class="chinese">你穿那件衣服显得很寒碜。</span><span class="english">You look rather shabby in those rags.</span></p>
 
 <p><span class="chinese">你穿着这些衣服看上去有点寒碜。</span><span class="english">You look a bit tatty in these clothes.</span></p>

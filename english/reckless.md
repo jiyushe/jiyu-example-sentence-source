@@ -1,5 +1,7 @@
 # reckless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reckless.md)
+
 <p><span class="chinese">她的态度是轻率的。</span><span class="english">Her attitude was reckless.</span></p>
 
 <p><span class="chinese">我后悔自己的卤莽。</span><span class="english">I regret that his own reckless.</span></p>

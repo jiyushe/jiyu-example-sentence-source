@@ -1,5 +1,7 @@
 # parasitic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parasitic.md)
+
 <p><span class="chinese">一只寄生蜂正在往一只蚜虫的体内产卵。</span><span class="english">A parasitic wasp lays its eggs in an aphid.</span></p>
 
 <p><span class="chinese">旅游资源具有寄寓特性。</span><span class="english">Tourist resources have a parasitic feature.</span></p>

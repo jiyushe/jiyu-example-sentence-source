@@ -1,5 +1,7 @@
 # mid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mid.md)
+
 <p><span class="chinese">试玩版会在五月中旬放出。</span><span class="english">The Demo will come mid May.</span></p>
 
 <p><span class="chinese">你还会像五月花开之时那样爱我？</span><span class="english">As you did mid the bloom of May?</span></p>

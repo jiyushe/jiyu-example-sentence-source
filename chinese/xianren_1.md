@@ -1,5 +1,7 @@
 # 先人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianren_1.md)
+
 <p><span class="chinese">那是你的先人同意的。</span><span class="english">It was your ancestors who joined.</span></p>
 
 <p><span class="chinese">古人能办的事-先人也能做。</span><span class="english">Whfound on man hjust asne-man can do.</span></p>

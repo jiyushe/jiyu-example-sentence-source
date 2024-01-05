@@ -1,5 +1,7 @@
 # 迅疾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xunji_1.md)
+
 <p><span class="chinese">在迅疾的风中，自由如一叶扁舟。</span><span class="english">Free as a skiff before the dancing wind.</span></p>
 
 <p><span class="chinese">他不想提前承诺未来会再降息.很显然他对再次降息打开了大门,但并没有暗示会像英国央行一样迅疾行动.</span><span class="english">He doesn't want to pre-commit to future rate cuts.</span></p>

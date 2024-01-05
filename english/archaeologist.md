@@ -1,5 +1,7 @@
 # archaeologist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/archaeologist.md)
+
 <p><span class="chinese">其实她是一个考古学家。</span><span class="english">In fact, she was an archaeologist.</span></p>
 
 <p><span class="chinese">考古学者推断那只花瓶大约有三千五百年之久。</span><span class="english">The archaeologist estimated that the vase was 3,500 years old.</span></p>

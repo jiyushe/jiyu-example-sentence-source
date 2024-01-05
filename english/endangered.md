@@ -1,5 +1,7 @@
 # endangered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endangered.md)
+
 <p><span class="chinese">猫熊是濒临绝种的一种物种。</span><span class="english">Pandas are an endangered species.</span></p>
 
 <p><span class="chinese">鹬鸵是濒危物种，它不会飞行。</span><span class="english">Kiwi are endangered and cannot fly.</span></p>

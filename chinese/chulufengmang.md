@@ -1,5 +1,7 @@
 # 初露锋芒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chulufengmang.md)
+
 <p><span class="chinese">这位年轻作家写了一部关于科索沃战争的小说，这使他初露锋芒。</span><span class="english">The young author bowed in with a novel about the Kosovo War.</span></p>
 
 <p><span class="chinese">但是发展中国家银行已经开始初露锋芒。</span><span class="english">But developing-country banks now have got things right on a number of fronts.</span></p>

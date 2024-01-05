@@ -1,5 +1,7 @@
 # tia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tia.md)
+
 <p><span class="chinese">现在是甜思思香港甜品时间。</span><span class="english">It's dessert time at Tia Si Si Hong Kong Delicious.</span></p>
 
 <p><span class="chinese">我为蒂娅感到无比自豪，她一定会是个很棒的母亲。</span><span class="english">I'm incredibly proud of Tia. She'll be a brilliant mum.</span></p>

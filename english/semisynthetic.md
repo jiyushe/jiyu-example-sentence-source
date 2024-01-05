@@ -1,5 +1,7 @@
 # semisynthetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semisynthetic.md)
+
 <p><span class="chinese">利福平是一种半合成抗生素。</span><span class="english">Rifampin is a semisynthetic antibiotics.</span></p>
 
 <p><span class="chinese">许多天然和半合成的青霉素从此也出现了。</span><span class="english">Many natural and semisynthetic variants have since been produced.</span></p>

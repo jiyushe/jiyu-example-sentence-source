@@ -1,5 +1,7 @@
 # lucent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lucent.md)
+
 <p><span class="chinese">朗讯当时把计算机设备销售给网络公司。</span><span class="english">Lucent sold computer equipment to dot-coms.</span></p>
 
 <p><span class="chinese">朗讯公司仔细地分析了电信市场。</span><span class="english">Lucent Company carefully analyzed the telecom market.</span></p>

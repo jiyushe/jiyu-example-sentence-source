@@ -1,5 +1,7 @@
 # 战略
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanlve.md)
+
 <p><span class="chinese">你的战略是什么？</span><span class="english">What was your strategy?</span></p>
 
 <p><span class="chinese">那是我们的核心战略。</span><span class="english">That’s our core strategy.</span></p>

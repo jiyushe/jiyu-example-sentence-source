@@ -1,5 +1,7 @@
 # easygoing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/easygoing.md)
+
 <p><span class="chinese">他认为我松松垮垮。</span><span class="english">He thinks I'm too easygoing.</span></p>
 
 <p><span class="chinese">我随兴但也实际。</span><span class="english">I am easygoing but pragmatic.</span></p>

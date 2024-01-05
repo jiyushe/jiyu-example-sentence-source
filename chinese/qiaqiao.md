@@ -1,5 +1,7 @@
 # 恰巧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaqiao.md)
+
 <p><span class="chinese">享受过程是最重要的，只不过我恰巧是13岁而已。</span><span class="english">I just happen to be 13.</span></p>
 
 <p><span class="chinese">那天恰巧是个晴天。</span><span class="english">It happened to be a fine day.</span></p>

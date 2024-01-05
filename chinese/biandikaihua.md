@@ -1,5 +1,7 @@
 # 遍地开花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biandikaihua.md)
+
 <p><span class="chinese">这样的回顾不需要遍地开花式的代码回顾。</span><span class="english">Such a review need not be a full-blown code review.</span></p>
 
 <p><span class="chinese">在这段时期，家庭教会在中国遍地开花并风行一时。</span><span class="english">During this period, house churches boomed in popularity.</span></p>

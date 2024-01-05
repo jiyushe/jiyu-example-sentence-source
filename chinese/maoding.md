@@ -1,5 +1,7 @@
 # 冒顶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maoding.md)
+
 <p><span class="chinese">他并没有像大多数牛仔那样把冒顶摁下去。</span><span class="english">And he did not push the top of the hat down like most cowboys do.</span></p>
 
 <p><span class="chinese">矿山冒顶是矿山生产过程中严重灾害之一。</span><span class="english">Roof fall in mines is one of the severe disasters in mining operation.</span></p>

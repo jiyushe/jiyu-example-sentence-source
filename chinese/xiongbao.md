@@ -1,5 +1,7 @@
 # 凶暴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongbao.md)
+
 <p><span class="chinese">独夫们是凶暴的，但百姓是善良的。</span><span class="english">Men are cruel but Mper is kind.</span></p>
 
 <p><span class="chinese">独夫们是凶暴的，但黎民是善良的。</span><span class="english">Men are cruel- but Man is kind.</span></p>

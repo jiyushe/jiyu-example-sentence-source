@@ -1,5 +1,7 @@
 # keg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/keg.md)
+
 <p><span class="chinese">每只小塑料筒装2公斤。</span><span class="english">A plastic keg holds 2 Kgs.</span></p>
 
 <p><span class="chinese">倘若果真如此，这个人就像一个正在形成的火药桶。</span><span class="english">If so, you've got a powder keg.</span></p>

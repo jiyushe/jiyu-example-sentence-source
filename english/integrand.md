@@ -1,5 +1,7 @@
 # integrand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/integrand.md)
+
 <p><span class="chinese">本文首先介绍了变分与变积的相关理论知识。</span><span class="english">Firstly, the relevant theories of the variation and integrand are introduced.</span></p>
 
 <p><span class="chinese">同样，请记住，我们在问我们什么功能分化得到积。</span><span class="english">Again, remember that we're asking what function we differentiated to get the integrand.</span></p>

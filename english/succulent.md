@@ -1,5 +1,7 @@
 # succulent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/succulent.md)
+
 <p><span class="chinese">种子有红色肉质假种皮。</span><span class="english">Seeds enveloped by red succulent aril.</span></p>
 
 <p><span class="chinese">多年生肉质草本植物，形成垫状。</span><span class="english">Succulent perennial herb, forming mats.</span></p>

@@ -1,5 +1,7 @@
 # 重物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongwu_2.md)
+
 <p><span class="chinese">渔网要在网底坠上重物。</span><span class="english">Fishing nets are weighted.</span></p>
 
 <p><span class="chinese">放两个重物在活塞上。</span><span class="english">We have two weights on it.</span></p>

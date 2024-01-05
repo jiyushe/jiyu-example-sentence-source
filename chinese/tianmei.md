@@ -1,5 +1,7 @@
 # 甜美
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianmei.md)
+
 <p><span class="chinese">露西有甜美的嗓音。</span><span class="english">Lucy has a sweet voice.</span></p>
 
 <p><span class="chinese">那是春天甜美的清唱。</span><span class="english">Spring’s sweet  cantata.</span></p>

@@ -1,5 +1,7 @@
 # asset
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asset.md)
+
 <p><span class="chinese">单击您的资产。</span><span class="english">Click on your asset.</span></p>
 
 <p><span class="chinese">什么是资本性资产?。</span><span class="english">What is capital asset?</span></p>

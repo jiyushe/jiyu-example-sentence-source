@@ -1,5 +1,7 @@
 # 恰似
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiasi.md)
+
 <p><span class="chinese">基金落袋，恰似神仙。</span><span class="english">Fund pocket, like the gods.</span></p>
 
 <p><span class="chinese">恰似太阳在我心里放射。</span><span class="english">That lightens over the heart.</span></p>

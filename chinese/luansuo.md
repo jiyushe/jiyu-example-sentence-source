@@ -1,5 +1,7 @@
 # 挛缩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luansuo.md)
+
 <p><span class="chinese">方法手术治疗34例臀肌筋膜挛缩症患者。</span><span class="english">Methods 34 patients were treated with operation.</span></p>
 
 <p><span class="chinese">目的分析臀肌挛缩症二次手术产生的原因。</span><span class="english">To analyze the reasons for the secondary operation.</span></p>

@@ -1,5 +1,7 @@
 # eugenic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eugenic.md)
+
 <p><span class="chinese">基因优生问题。</span><span class="english">Eugenic question of gene.</span></p>
 
 <p><span class="chinese">中国要求每对夫妇都要严格执行优生计划。</span><span class="english">In China, each couple is required to carry out a eugenic plan strictly.</span></p>

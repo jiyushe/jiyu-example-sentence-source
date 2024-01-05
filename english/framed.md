@@ -1,5 +1,7 @@
 # framed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/framed.md)
+
 <p><span class="chinese">他说他被构陷了。</span><span class="english">He said he had been framed.</span></p>
 
 <p><span class="chinese">他嗫嚅着吐出几个字。</span><span class="english">His lips framed a few words.</span></p>

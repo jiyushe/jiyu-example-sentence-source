@@ -1,5 +1,7 @@
 # funerary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/funerary.md)
+
 <p><span class="chinese">殡葬雅语是一个主要组分它。</span><span class="english">Funerary euphemism is an important component of it.</span></p>
 
 <p><span class="chinese">这个古墓里出土了很多精美的随葬品。</span><span class="english">Many exquisite funerary objects were extracted from this grave.</span></p>

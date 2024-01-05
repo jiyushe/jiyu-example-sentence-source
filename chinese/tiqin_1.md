@@ -1,5 +1,7 @@
 # 提琴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiqin_1.md)
+
 <p><span class="chinese">算了，我们不学提琴了。</span><span class="english">We're giving up the violin.</span></p>
 
 <p><span class="chinese">他还叫来了三个提琴手。</span><span class="english">And he called for his fiddlers three.</span></p>

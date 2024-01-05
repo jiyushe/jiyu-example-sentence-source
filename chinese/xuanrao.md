@@ -1,5 +1,7 @@
 # 喧扰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanrao.md)
+
 <p><span class="chinese">即使在喧扰的夜里，听见我说的任何一个字吗？</span><span class="english">Anything I'm saying, even though the night is filled with voices.</span></p>
 
 <p><span class="chinese">这时候草棚外的喧扰也已经扩大。</span><span class="english">By now the sound of angry voices outside had become louder still.</span></p>

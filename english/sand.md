@@ -1,5 +1,7 @@
 # sand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sand.md)
+
 <p><span class="chinese">这是细砂。</span><span class="english">It is fine sand.</span></p>
 
 <p><span class="chinese">霜于沙凝结。</span><span class="english">Frost binds sand.</span></p>

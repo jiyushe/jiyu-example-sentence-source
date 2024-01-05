@@ -1,5 +1,7 @@
 # 围绕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weirao.md)
+
 <p><span class="chinese">我们围绕着湖泊快速航行。</span><span class="english">We zoomed around the lake.</span></p>
 
 <p><span class="chinese">月球围绕着地球运转。</span><span class="english">The moon circles the earth.</span></p>

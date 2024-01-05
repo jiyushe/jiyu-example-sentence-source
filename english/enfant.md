@@ -1,5 +1,7 @@
 # enfant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enfant.md)
+
 <p><span class="chinese">此次活动我们将邀请苏州儿童福利院的孤儿来免费欢度圣诞夜。</span><span class="english">We will invite the orphans from Suzhou Enfant Orphanage stay with us on Christmas Eve.</span></p>
 
 <p><span class="chinese">关于这个在硅谷肆意耍宝的顽皮孩子，这里要揭秘一些你可能还不了解的真相。</span><span class="english">Here are a few facts you may not have known about the Enfant Terrible of Silicon Valley.</span></p>

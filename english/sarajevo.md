@@ -1,5 +1,7 @@
 # sarajevo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sarajevo.md)
+
 <p><span class="chinese">她也热爱萨拉热窝。</span><span class="english">She had also loved Sarajevo.</span></p>
 
 <p><span class="chinese">他还曾代表儿基会访问莫斯科和萨拉热窝。</span><span class="english">He has also visited Moscow and Sarajevo on behalf of Unicef.</span></p>

@@ -1,5 +1,7 @@
 # fossil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fossil.md)
+
 <p><span class="chinese">那人是个老顽固。</span><span class="english">The man is a fossil.</span></p>
 
 <p><span class="chinese">沼泽地化石堆。</span><span class="english">Marshlands Fossil Bank.</span></p>

@@ -1,5 +1,7 @@
 # 鲤鱼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liyu.md)
+
 <p><span class="chinese">今天本店进了上好的鲤鱼。</span><span class="english">We have very nice carps today.</span></p>
 
 <p><span class="chinese">但谁给这条鲤鱼扮演验尸官的角色呢？</span><span class="english">But who plays coroner to a carp?</span></p>

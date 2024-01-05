@@ -1,5 +1,7 @@
 # 不要
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buyao.md)
+
 <p><span class="chinese">不要金子。</span><span class="english">No gold.</span></p>
 
 <p><span class="chinese">不要饮料。</span><span class="english">No drinks.</span></p>

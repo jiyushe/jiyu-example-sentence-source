@@ -1,5 +1,7 @@
 # biddy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biddy.md)
+
 <p><span class="chinese">“但愿我能！”毕蒂答道。</span><span class="english">I wish I could! ' said Biddy.</span></p>
 
 <p><span class="chinese">一望而知，毕蒂已经教会了乔写字。</span><span class="english">Evidently Biddy had taught Joe to write.</span></p>

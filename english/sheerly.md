@@ -1,5 +1,7 @@
 # sheerly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sheerly.md)
+
 <p><span class="chinese">我视觉之内只是黑色而已。</span><span class="english">But it is sheerly black within my sight. How time flies!</span></p>
 
 <p><span class="chinese">音乐存在的第三个层次，是纯音乐层次。</span><span class="english">The third plane on which music exists is the sheerly musical plane.</span></p>

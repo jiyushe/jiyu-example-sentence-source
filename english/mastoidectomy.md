@@ -1,5 +1,7 @@
 # mastoidectomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mastoidectomy.md)
+
 <p><span class="chinese">结论乳突根治术失败的原因包括很多。</span><span class="english">Conclusion Causes of failure of mastoidectomy include many.</span></p>
 
 <p><span class="chinese">组大多采用上鼓室、乳突外壁凿开和插柱法。</span><span class="english">In group B, tympanoplasty with modified mastoidectomy was performed.</span></p>

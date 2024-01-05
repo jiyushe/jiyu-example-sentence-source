@@ -1,5 +1,7 @@
 # 地方税
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/difangshui.md)
+
 <p><span class="chinese">地方税和国家税的征收比例不同。</span><span class="english">There are different tax rates for local and national taxes.</span></p>
 
 <p><span class="chinese">从远期目标看，财产税应建设成为我国地方税的主体税种。</span><span class="english">Estate tax can be the main body of local taxation in the long-term.</span></p>

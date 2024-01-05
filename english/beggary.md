@@ -1,5 +1,7 @@
 # beggary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beggary.md)
+
 <p><span class="chinese">懒惰出乞丐。</span><span class="english">Idleness is the key of beggary.</span></p>
 
 <p><span class="chinese">这只差一步就沦为乞丐了。</span><span class="english">From this it was but a step to beggary.</span></p>

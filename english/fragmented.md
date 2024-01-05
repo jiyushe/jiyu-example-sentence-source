@@ -1,5 +1,7 @@
 # fragmented
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fragmented.md)
+
 <p><span class="chinese">冲突如何变得这么支离破碎？</span><span class="english">How did this conflict get so fragmented?</span></p>
 
 <p><span class="chinese">亚洲是一个高度分散且极具差异性的市场.这里大多数都是小企业.</span><span class="english">It's a very fragmented and diverse market.</span></p>

@@ -1,5 +1,7 @@
 # 乙部
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yibu.md)
+
 <p><span class="chinese">乙部及丙部二者皆不合格的数字。</span><span class="english">Figure showing both Part B and Part C failed.</span></p>
 
 <p><span class="chinese">申请人必须填写本表格的甲及乙部。</span><span class="english">Applicant should complete Sections A and B of this form.</span></p>

@@ -1,5 +1,7 @@
 # effervescent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/effervescent.md)
+
 <p><span class="chinese">是一种会冒泡的综合维他命。</span><span class="english">It's an effervescent multivitamin.</span></p>
 
 <p><span class="chinese">我的农产经理浑身是劲。</span><span class="english">I got an effervescent produce manager.</span></p>

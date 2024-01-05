@@ -1,5 +1,7 @@
 # capitalistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capitalistic.md)
+
 <p><span class="chinese">在资本主义市场经济中，消费者是至高无上的。</span><span class="english">In the capitalistic market economy the consumers are supreme.</span></p>
 
 <p><span class="chinese">任何资本主义制度都不会对消费者的这种主权地位存有异议。</span><span class="english">The supremacy of the consumers is not contested by any capitalistic institution.</span></p>

@@ -1,5 +1,7 @@
 # flashover
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flashover.md)
+
 <p><span class="chinese">试验期间不得出现闪络或击穿。</span><span class="english">No flashover or breakdown shall occur during the test.</span></p>
 
 <p><span class="chinese">简介了真空表面闪络机理，径向绝缘结构的设计思路。</span><span class="english">The theory of vacuum flashover and the idea of design are briefly introduced.</span></p>

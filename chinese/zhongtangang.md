@@ -1,5 +1,7 @@
 # 中碳钢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongtangang.md)
+
 <p><span class="chinese">中碳钢失败告诉我如果它将得到锋利。</span><span class="english">Medium carbon steel fails to tell me if it will get sharp.</span></p>
 
 <p><span class="chinese">中碳钢的强度比低碳钢大得多。</span><span class="english">Medium carbon steel is much stronger than low carbon steel.</span></p>

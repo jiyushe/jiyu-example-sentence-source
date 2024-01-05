@@ -1,5 +1,7 @@
 # ins
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ins.md)
+
 <p><span class="chinese">好的，它有很多细节。</span><span class="english">Yeah, there's a lot of ins and outs.</span></p>
 
 <p><span class="chinese">还有以往任何时候都受欢迎的博客地址集。</span><span class="english">There is also the ever popular blog add ins.</span></p>

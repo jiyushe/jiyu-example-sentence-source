@@ -1,5 +1,7 @@
 # 高头大马
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaotoudama.md)
+
 <p><span class="chinese">这是匹高头大马。</span><span class="english">This is a tall horse.</span></p>
 
 <p><span class="chinese">我们正坐加拿大高头大马。</span><span class="english">We were sitting in the tall horse ride.</span></p>

@@ -1,5 +1,7 @@
 # 珊瑚礁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanhujiao.md)
+
 <p><span class="chinese">一条藏在珊瑚礁后面的狮子鱼。</span><span class="english">A lion fish hidden behind a coral reef.</span></p>
 
 <p><span class="chinese">酸性的海水减缓了珊瑚礁的生长。</span><span class="english">Those sour seas slow the growth of corals.</span></p>

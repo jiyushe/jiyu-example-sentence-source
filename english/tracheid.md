@@ -1,5 +1,7 @@
 # tracheid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tracheid.md)
+
 <p><span class="chinese">管胞直径、胞壁厚度自髓心向外增加。</span><span class="english">The tracheid diameter and the thickness of cell wall increase from pith to bark.</span></p>
 
 <p><span class="chinese">纤维长度、宽度和长宽比总体上都依年轮的增加而呈现增大的趋势。</span><span class="english">Tracheid length, width and ratio of length to width increased with the increase of ages.</span></p>

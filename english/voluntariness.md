@@ -1,5 +1,7 @@
 # voluntariness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/voluntariness.md)
+
 <p><span class="chinese">或有费用是自愿性的关键。</span><span class="english">Contingencies are the key to voluntariness.</span></p>
 
 <p><span class="chinese">积极礼让的基本特征是它的自愿性。</span><span class="english">The basic feature of positive comity is its voluntariness.</span></p>

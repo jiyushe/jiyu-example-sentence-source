@@ -1,5 +1,7 @@
 # 蔚为大观
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiweidaguan.md)
+
 <p><span class="chinese">数以百万计的采棉人，逐渐形成了蔚为大观的跨越东西的农民工大迁移。</span><span class="english">Thousands of cotton collectors make a great migration across the east and the west.</span></p>
 
 <p><span class="chinese">湖面上天鹅翩翩起舞，起则如青天飞雪，落则似素锦铺地，震撼人心，蔚为大观！</span><span class="english">Swan lake, dancing, such as the blue sky from the snow, off the ground like Su-Kam, stirring, !</span></p>

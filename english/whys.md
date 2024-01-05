@@ -1,5 +1,7 @@
 # whys
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whys.md)
+
 <p><span class="chinese">使用“5个为什么”。</span><span class="english">Use 'the five whys.'</span></p>
 
 <p><span class="chinese">他为甚么拿走我的书？</span><span class="english">Whys he getting my books?</span></p>

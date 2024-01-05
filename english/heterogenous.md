@@ -1,5 +1,7 @@
 # heterogenous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heterogenous.md)
+
 <p><span class="chinese">在任何区域的客户部分是异质。</span><span class="english">In any region customer segment is heterogenous.</span></p>
 
 <p><span class="chinese">癌症增殖假说认为，癌症一般起源于某种细胞克隆。</span><span class="english">For example, teratocarcinoma appears as a cystic mass composed of heterogenous tissues.</span></p>

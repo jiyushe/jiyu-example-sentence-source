@@ -1,5 +1,7 @@
 # 早产
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaochan.md)
+
 <p><span class="chinese">这头母牛早产了。</span><span class="english">The cow cast a calf.</span></p>
 
 <p><span class="chinese">她或许不会早产。</span><span class="english">She might not have it.</span></p>

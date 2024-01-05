@@ -1,5 +1,7 @@
 # zigzagged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zigzagged.md)
+
 <p><span class="chinese">那条路曲折地伸到山上。</span><span class="english">The road zigzagged up the hill.</span></p>
 
 <p><span class="chinese">他们在大西洋中作之字形前进。</span><span class="english">They zigzagged across the atlantic.</span></p>

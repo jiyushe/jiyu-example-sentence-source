@@ -1,5 +1,7 @@
 # 笼统
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/longtong.md)
+
 <p><span class="chinese">这只是笼统地说，</span><span class="english">So it's just generally,</span></p>
 
 <p><span class="chinese">他的话说得很笼统。</span><span class="english">He spoke in very general terms.</span></p>

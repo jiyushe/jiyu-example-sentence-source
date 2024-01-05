@@ -1,5 +1,7 @@
 # croatian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/croatian.md)
+
 <p><span class="chinese">船上的船员中有10名意大利人、五名罗马尼亚人和一名克罗地亚人。</span><span class="english">On board was a crew of 10 Italians, 5 Romanians and one Croatian.</span></p>
 
 <p><span class="chinese">克罗地亚人民对中国人民怀有深厚的友情。</span><span class="english">The Croatian people hold profound friendship with the Chinese people.</span></p>

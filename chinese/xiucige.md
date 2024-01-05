@@ -1,5 +1,7 @@
 # 修辞格
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiucige.md)
+
 <p><span class="chinese">反语是一种常用的修辞格。</span><span class="english">Irony is an often used figure of speech.</span></p>
 
 <p><span class="chinese">对照是修辞学中的一个修辞格。</span><span class="english">Antithesis is a figure of speech in rhetoric.</span></p>

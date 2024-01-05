@@ -1,5 +1,7 @@
 # numerous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/numerous.md)
+
 <p><span class="chinese">凡此种种，不一而足。</span><span class="english">Similar cases are numerous.</span></p>
 
 <p><span class="chinese">例子太多，举不胜举。</span><span class="english">Examples are too numerous to list.</span></p>

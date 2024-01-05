@@ -1,5 +1,7 @@
 # 日场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/richang.md)
+
 <p><span class="chinese">我要两张今天日场的票。</span><span class="english">Not unless you want the matinee.</span></p>
 
 <p><span class="chinese">我要两张今天日场的票。</span><span class="english">I want two tickets for today's matinee.</span></p>

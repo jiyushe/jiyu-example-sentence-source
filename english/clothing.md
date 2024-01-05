@@ -1,5 +1,7 @@
 # clothing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clothing.md)
+
 <p><span class="chinese">他剥光了她的衣服。</span><span class="english">He denuded her of clothing.</span></p>
 
 <p><span class="chinese">乌市的服装市场。</span><span class="english">A clothing market in Urumqi.</span></p>

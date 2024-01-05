@@ -1,5 +1,7 @@
 # fatigue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fatigue.md)
+
 <p><span class="chinese">她累倒了。</span><span class="english">She dropped down from fatigue.</span></p>
 
 <p><span class="chinese">他的思维由于疲乏而丧失了活力。</span><span class="english">His thoughts drooped with fatigue.</span></p>

@@ -1,5 +1,7 @@
 # 窄小
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaixiao.md)
+
 <p><span class="chinese">在缺雨的年份，它们的年轮就窄小。</span><span class="english">In a dry year, they form narrow ones.</span></p>
 
 <p><span class="chinese">汉正街原来是破旧、窄小的一条旧街。</span><span class="english">Hanzheng was a shabby and narrow street.</span></p>

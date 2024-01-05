@@ -1,5 +1,7 @@
 # gubernatorial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gubernatorial.md)
+
 <p><span class="chinese">这位第43任美国总统在1994年第一次参与了德克萨斯州长的竞选，照片中他正在德州的霍克利参加猎鸽活动。</span><span class="english">The 43rd President joins a dove hunt in 1994 in Hockley, Texas during his first Texas gubernatorial campaign.</span></p>
 
 <p><span class="chinese">公正地总结下来，在我担任州长的第一个任期内，说我在政策上取得了成功，但在政治上却陷入了灾难。</span><span class="english">I think a fair summary of my first gubernatorial term is that it was a policy success and a political disaster.</span></p>

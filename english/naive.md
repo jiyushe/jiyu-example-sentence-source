@@ -1,5 +1,7 @@
 # naive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/naive.md)
+
 <p><span class="chinese">我并不幼稚。</span><span class="english">I’m not naive.</span></p>
 
 <p><span class="chinese">简直是幼稚。</span><span class="english">That is naive.</span></p>

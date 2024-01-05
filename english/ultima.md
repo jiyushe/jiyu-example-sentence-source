@@ -1,5 +1,7 @@
 # ultima
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ultima.md)
+
 <p><span class="chinese">研究的最终目的在于应用。</span><span class="english">Application is the ultima thule of study.</span></p>
 
 <p><span class="chinese">您给我们的终极事件愚蠢的护身符！</span><span class="english">You sent us stupid amulet for ultima event!</span></p>

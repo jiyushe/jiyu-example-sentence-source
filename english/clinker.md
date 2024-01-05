@@ -1,5 +1,7 @@
 # clinker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clinker.md)
+
 <p><span class="chinese">生料质量的稳定影响着出窑熟料质量。</span><span class="english">Quality stability of raw meal influenced the clinker quality.</span></p>
 
 <p><span class="chinese">较高的费用能够靠水泥熟料得到弥补。</span><span class="english">The higher operating costs can be offset against the cement clinker.</span></p>

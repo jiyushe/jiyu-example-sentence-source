@@ -1,5 +1,7 @@
 # whig
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whig.md)
+
 <p><span class="chinese">在美国内战前期辉格党成员。</span><span class="english">Whig Party in the US in pre-Civil-War times.</span></p>
 
 <p><span class="chinese">辉格党在参议员的领导人是肯塔基州的亨利.克莱。</span><span class="english">The Whig leader in the Senate was Henry Clay of Kentucky.</span></p>

@@ -1,5 +1,7 @@
 # pectoral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pectoral.md)
+
 <p><span class="chinese">注意胸鳍肌肉，这是每日护理的一个部分。</span><span class="english">Pay special attention to the pectoral muscles.</span></p>
 
 <p><span class="chinese">朋友咳嗽，咯血，胸痛一周。</span><span class="english">The friend coughs, haemoptysis , pectoral painful a week.</span></p>

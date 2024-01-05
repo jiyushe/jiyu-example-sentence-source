@@ -1,5 +1,7 @@
 # 星条旗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingtiaoqi.md)
+
 <p><span class="chinese">星条旗是否还会再更改？</span><span class="english">Could the flag change again?</span></p>
 
 <p><span class="chinese">你可以看见星条旗。</span><span class="english">You can see the stars and stripes.</span></p>

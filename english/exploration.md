@@ -1,5 +1,7 @@
 # exploration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exploration.md)
+
 <p><span class="chinese">这是一种冒险的拨款。</span><span class="english">This is an exploration grant.</span></p>
 
 <p><span class="chinese">需要进一步探究的方法.</span><span class="english">B. Areas for further exploration.</span></p>

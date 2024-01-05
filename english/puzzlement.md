@@ -1,5 +1,7 @@
 # puzzlement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/puzzlement.md)
+
 <p><span class="chinese">一个老笑话、仍然是个疑团。</span><span class="english">An oldie , but still a puzzlement.</span></p>
 
 <p><span class="chinese">那张暴躁的脸孔蹙了起来，显得有些迷惑。</span><span class="english">The choleric face distorts in a look of puzzlement.</span></p>

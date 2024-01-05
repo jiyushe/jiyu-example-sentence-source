@@ -1,5 +1,7 @@
 # 阙如
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/queru_1.md)
+
 <p><span class="chinese">生命意义的阙如。</span><span class="english">Of life meaning.</span></p>
 
 <p><span class="chinese">人阙如目标就像船没有船舵。</span><span class="english">The man without purpose is like a ship without a rudder.</span></p>

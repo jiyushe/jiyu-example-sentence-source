@@ -1,5 +1,7 @@
 # phatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phatic.md)
+
 <p><span class="chinese">什么是酬应功能？</span><span class="english">What is the phatic function?</span></p>
 
 <p><span class="chinese">什么是酬应功能?。</span><span class="english">I. 14 What is phatic function?</span></p>

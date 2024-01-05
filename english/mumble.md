@@ -1,5 +1,7 @@
 # mumble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mumble.md)
+
 <p><span class="chinese">你要怎么阻止他们？曼波？</span><span class="english">How you gonna do that, Mumble?</span></p>
 
 <p><span class="chinese">当你含含糊糊说话时，人们听不清楚。</span><span class="english">When you mumble , people can't hear you clearly.</span></p>

@@ -1,5 +1,7 @@
 # 网袋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangdai.md)
+
 <p><span class="chinese">汽车座椅后背插网袋，尾厢存物网，车顶吊网。</span><span class="english">Net bag of cat seat, tail compartments and roof!</span></p>
 
 <p><span class="chinese">仅仅需要把切成块的水果，蔬菜或者肉放进这个网袋里，卡紧。</span><span class="english">Simply put a piece of fruit, vegetables or meat into the mesh bag and snap shut.</span></p>

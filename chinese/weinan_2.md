@@ -1,5 +1,7 @@
 # 畏难
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weinan_2.md)
+
 <p><span class="chinese">不怕困难，就怕畏难。</span><span class="english">Fear not difficulties, but be fuelled by them.</span></p>
 
 <p><span class="chinese">许多工程师对球面投影法有畏难情绪。</span><span class="english">Many engineers shy away from spherical projection methods.</span></p>

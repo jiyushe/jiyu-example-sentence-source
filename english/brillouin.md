@@ -1,5 +1,7 @@
 # brillouin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brillouin.md)
+
 <p><span class="chinese">提出了一种测量布里渊频移的全新简便方案。</span><span class="english">A novel scheme to measure the Brillouin frequency shift is proposed.</span></p>
 
 <p><span class="chinese">由布里渊散射实验可以得到晶体弹性及压电系数。</span><span class="english">The elastic and piezoelectric constants of crystal can be obtained by Brillouin scattering.</span></p>

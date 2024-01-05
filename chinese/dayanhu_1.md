@@ -1,5 +1,7 @@
 # 打掩护
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dayanhu_1.md)
+
 <p><span class="chinese">我设法替他打掩护，但没能成功。</span><span class="english">I tried to cover up for him but without success.</span></p>
 
 <p><span class="chinese">而且还为他打掩护，狄公又有些糊涂了。</span><span class="english">But also a cover for him, Di Gong has some confused.</span></p>

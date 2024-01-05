@@ -1,5 +1,7 @@
 # 火山地震
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoshandizhen.md)
+
 <p><span class="chinese">例如，称为环太平洋火山地震带的区域最常发生地震。</span><span class="english">For example, the area called the Pacific Ring of Fire has the most earthquakes.</span></p>
 
 <p><span class="chinese">他们处于环太平洋火山地震带上，在这个区域经常发生海底地震。</span><span class="english">They lie on the Pacific 'Ring of Fire', where submarine earthquakes are fairly common.</span></p>

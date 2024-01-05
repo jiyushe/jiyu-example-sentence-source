@@ -1,5 +1,7 @@
 # proprioceptive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proprioceptive.md)
+
 <p><span class="chinese">对于那些有助于��供反馈和困难或下意识的加工。</span><span class="english">Helps provide feedback for those with difficulty in vestibular or proprioceptive processing.</span></p>
 
 <p><span class="chinese">未来的研究可探讨强化关节感觉训练是否会影响动作控制的表现。</span><span class="english">In further studies we should confer the effects of proprioceptive training on motor control performance.</span></p>

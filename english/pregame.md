@@ -1,5 +1,7 @@
 # pregame
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pregame.md)
+
 <p><span class="chinese">有什么赛前餐是你爱吃的么？</span><span class="english">Do you have a pregame meal you like to eat?</span></p>
 
 <p><span class="chinese">赛前准备活动投篮练习，是很有帮助的。</span><span class="english">Pregame warming-up practice on shooting! It does help.</span></p>

@@ -1,5 +1,7 @@
 # antiquarian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antiquarian.md)
+
 <p><span class="chinese">他是一个享有盛名的古玩收藏家。</span><span class="english">He enjoyed a great reputation as an antiquarian.</span></p>
 
 <p><span class="chinese">也是古玩将需要研究的问题。</span><span class="english">Also one antiquarian will need to be looked in on.</span></p>

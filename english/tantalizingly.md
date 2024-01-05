@@ -1,5 +1,7 @@
 # tantalizingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tantalizingly.md)
+
 <p><span class="chinese">所有菜肴都是十分好吃，既令人开心又令人回味。</span><span class="english">All the dishes were hearty and tantalizingly tasty.</span></p>
 
 <p><span class="chinese">现在这个目标不再可望而不可及了。</span><span class="english">Now that objective is no longer tantalizingly out of reach.</span></p>

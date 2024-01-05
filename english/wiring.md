@@ -1,5 +1,7 @@
 # wiring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wiring.md)
+
 <p><span class="chinese">何为旋钮和管道式布线？</span><span class="english">What is knob and tube wiring?</span></p>
 
 <p><span class="chinese">标准布线长度90米。</span><span class="english">And standard wiring length 90m.</span></p>

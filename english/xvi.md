@@ -1,5 +1,7 @@
 # xvi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xvi.md)
+
 <p><span class="chinese">他们推选了一个新的教皇，本笃十六世。</span><span class="english">They chose a new pope, Benedict XVI.</span></p>
 
 <p><span class="chinese">教宗说，这很重要。</span><span class="english">This is significant, Benedict XVI said.</span></p>

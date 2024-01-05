@@ -1,5 +1,7 @@
 # proficiency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proficiency.md)
+
 <p><span class="chinese">他们拥有一丁点儿熟练的战斗技能吗？</span><span class="english">Do they have any combat proficiency?</span></p>
 
 <p><span class="chinese">完全熟悉电脑操作。</span><span class="english">High proficiency in computer operation.</span></p>

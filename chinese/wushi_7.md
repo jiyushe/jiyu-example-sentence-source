@@ -1,5 +1,7 @@
 # 舞狮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wushi_7.md)
+
 <p><span class="chinese">他们在看舞狮。</span><span class="english">They are watching the performance of the lion dance.</span></p>
 
 <p><span class="chinese">现场鼓乐齐奏、龙师共舞/舞狮庆祝。</span><span class="english">It was welcomed by banging drums and dragon and lion dancers.</span></p>

@@ -1,5 +1,7 @@
 # 善终
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanzhong.md)
+
 <p><span class="chinese">有善始很好，有善终更好。</span><span class="english">Good to begin well, better to end well.</span></p>
 
 <p><span class="chinese">查理是个注定不得善终的人。</span><span class="english">Charles was a man doomed to tragic issues.</span></p>

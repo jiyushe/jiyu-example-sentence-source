@@ -1,5 +1,7 @@
 # vegetable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vegetable.md)
+
 <p><span class="chinese">他是个植物人。</span><span class="english">He's a vegetable.</span></p>
 
 <p><span class="chinese">我在蔬菜店买菜。</span><span class="english">I shop at a vegetable store.</span></p>

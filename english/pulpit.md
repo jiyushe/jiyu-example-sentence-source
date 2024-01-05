@@ -1,5 +1,7 @@
 # pulpit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pulpit.md)
+
 <p><span class="chinese">白宫的讲坛强大无比。</span><span class="english">The bully pulpit is powerful.</span></p>
 
 <p><span class="chinese">他当初把这份报纸当做一个讲道坛。</span><span class="english">He thought of his paper as a pulpit.</span></p>

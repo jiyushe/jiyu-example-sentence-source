@@ -1,5 +1,7 @@
 # granodiorite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/granodiorite.md)
+
 <p><span class="chinese">核部有强力侵位的早白垩世的房山花岗闪长岩株。</span><span class="english">The Fangshan granodiorite pluton of Lower Cretaceous occupies the middle of core.</span></p>
 
 <p><span class="chinese">矿体主要产在花岗闪长斑岩和英安斑岩体内。</span><span class="english">The ore bodies in the Gongpoquan deposit are mainly hosted within granodiorite porphyry and dacite porphyry.</span></p>

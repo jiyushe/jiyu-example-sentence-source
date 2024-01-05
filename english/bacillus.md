@@ -1,5 +1,7 @@
 # bacillus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bacillus.md)
+
 <p><span class="chinese">杆菌的生长速度非常缓慢。</span><span class="english">The bacillus grows very slowly.</span></p>
 
 <p><span class="chinese">纹菌的抑菌作用及其对病害的控制效果。</span><span class="english">Bacillus Subtilis and its effect in field control.</span></p>

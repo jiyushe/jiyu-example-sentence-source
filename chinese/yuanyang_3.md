@@ -1,5 +1,7 @@
 # 鸳鸯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanyang_3.md)
+
 <p><span class="chinese">我们可以吃鸳鸯火锅。</span><span class="english">We can eat a Chinese Fondue.</span></p>
 
 <p><span class="chinese">鸳鸯吃了毒药中毒而死。</span><span class="english">Yuanyang eat poison poisoning.</span></p>

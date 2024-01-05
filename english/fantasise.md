@@ -1,5 +1,7 @@
 # fantasise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fantasise.md)
+
 <p><span class="chinese">不要幻想你可以改变任何人！</span><span class="english">Do not fantasise you could change anyone!</span></p>
 
 <p><span class="chinese">我不梦想或幻想其他的女人。</span><span class="english">I don't fancy or fantasise about other women.</span></p>

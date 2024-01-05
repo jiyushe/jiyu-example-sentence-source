@@ -1,5 +1,7 @@
 # 政工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenggong.md)
+
 <p><span class="chinese">目的了解公安政工干部心理健康状况。</span><span class="english">Objective To understand mental health of political cadres.</span></p>
 
 <p><span class="chinese">只有这样，才能保证企业政工干部队伍迅速健康成长。</span><span class="english">All this will ensure rapid and sound development of enterprise political working staff.</span></p>

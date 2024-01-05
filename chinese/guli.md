@@ -1,5 +1,7 @@
 # 孤立
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guli.md)
+
 <p><span class="chinese">孤立无助。</span><span class="english">It's like being alone.</span></p>
 
 <p><span class="chinese">另外一种约束是孤立系统。</span><span class="english">We could have isolated.</span></p>

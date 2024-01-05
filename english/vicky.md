@@ -1,5 +1,7 @@
 # vicky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vicky.md)
+
 <p><span class="chinese">维姬阿姨也已经去世了。</span><span class="english">Aunt Vicky has also passed on.</span></p>
 
 <p><span class="chinese">除了薇琪之外，没有人通过考试。</span><span class="english">No one passed the exam except for Vicky.</span></p>

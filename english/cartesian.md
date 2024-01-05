@@ -1,5 +1,7 @@
 # cartesian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cartesian.md)
+
 <p><span class="chinese">我认为笛卡尔论证的确是不成立</span><span class="english">I think the Cartesian argument does fail.</span></p>
 
 <p><span class="chinese">这就是笛卡尔沉思或者叫反思之思。</span><span class="english">This is the Cartesian or reflective cogito.</span></p>

@@ -1,5 +1,7 @@
 # anthony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anthony.md)
+
 <p><span class="chinese">她认为，张炳良。</span><span class="english">She finds Anthony.</span></p>
 
 <p><span class="chinese">“是我”安东尼说道。</span><span class="english">"I do, " Anthony said.</span></p>

@@ -1,5 +1,7 @@
 # abstemious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abstemious.md)
+
 <p><span class="chinese">霍尔先生天生是个饮食有度，不爱奢侈的人。</span><span class="english">Mr. Hall was naturally an abstemious man indifferent to luxury.</span></p>
 
 <p><span class="chinese">因此，孕妇吃冷饮一定要有所节制。</span><span class="english">Accordingly, pregnant woman has cold drink must somewhat abstemious.</span></p>

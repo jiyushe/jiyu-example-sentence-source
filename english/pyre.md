@@ -1,5 +1,7 @@
 # pyre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pyre.md)
+
 <p><span class="chinese">我还需要油，以便火葬。</span><span class="english">I need oil as well, for the pyre.</span></p>
 
 <p><span class="chinese">这个寡妇跳进火葬柴堆。</span><span class="english">The widow leapt into the funeral pyre.</span></p>

@@ -1,5 +1,7 @@
 # hawaii
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hawaii.md)
+
 <p><span class="chinese">岩浆驱动夏威夷？</span><span class="english">Magma to Power Hawaii?</span></p>
 
 <p><span class="chinese">我想去夏威咦。</span><span class="english">I want to go to Hawaii.</span></p>

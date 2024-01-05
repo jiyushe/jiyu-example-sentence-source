@@ -1,5 +1,7 @@
 # 水灵灵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuilingling.md)
+
 <p><span class="chinese">她纯洁的心胸水灵灵地透明。</span><span class="english">Pure-bosom'd as that watery glass.</span></p>
 
 <p><span class="chinese">她有着平静的声音和水灵灵的棕色眼睛。</span><span class="english">She has a calm voice and wet, brown eyes.</span></p>

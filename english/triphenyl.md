@@ -1,5 +1,7 @@
 # triphenyl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/triphenyl.md)
+
 <p><span class="chinese">心肌梗塞面积通过三苯基四唑氯化物染色法测定。</span><span class="english">The infarct size was measured by the triphenyl tetrazolium chloride method.</span></p>
 
 <p><span class="chinese">所述电解液包括非水有机溶剂、锂盐和磷酸三苯酯。</span><span class="english">The electrolyte includes a non-aqueous organic solvent, a lithium salt, and triphenyl phosphate.</span></p>

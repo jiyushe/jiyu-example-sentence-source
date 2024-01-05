@@ -1,5 +1,7 @@
 # variety 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/variety.md)
+
 <p><span class="chinese">关键之处在于多样性。</span><span class="english">Variety is key here.</span></p>
 
 <p><span class="chinese">食物多样性很重要</span><span class="english">The variety is important.</span></p>

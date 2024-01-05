@@ -1,5 +1,7 @@
 # lithology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lithology.md)
+
 <p><span class="chinese">矿田矿床受特定的断裂构造和岩性控制。</span><span class="english">The special fissures and lithology controlled the deposits.</span></p>
 
 <p><span class="chinese">我想用显微镜鉴别这块岩石的岩性。</span><span class="english">I want to identify the lithology of this piece of rock with the microscope.</span></p>

@@ -1,5 +1,7 @@
 # ecology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ecology.md)
+
 <p><span class="chinese">这就是解放生态学。</span><span class="english">This is liberation ecology.</span></p>
 
 <p><span class="chinese">他在研究阿米巴的生态。</span><span class="english">He is studying the ecology of ameba.</span></p>

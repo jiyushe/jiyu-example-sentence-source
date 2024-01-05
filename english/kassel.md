@@ -1,5 +1,7 @@
 # kassel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kassel.md)
+
 <p><span class="chinese">艺术爱好者们从巴塞尔艺术博览会浩浩荡荡地来到了卡塞尔。</span><span class="english">The art crowd arrived in Kassel coming from the Basel Artfair.</span></p>
 
 <p><span class="chinese">国际上有一个很棒的展览，叫卡塞尔文献展。</span><span class="english">Kassel Documenta is a prestigious international art exhibition.</span></p>

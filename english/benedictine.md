@@ -1,5 +1,7 @@
 # benedictine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/benedictine.md)
+
 <p><span class="chinese">是博立顿大学的格言。</span><span class="english">"Ignite your spirit" is the motto of Benedictine.</span></p>
 
 <p><span class="chinese">你曾否申请报读博立顿大学?。</span><span class="english">Have you previously applied for Benedictine College?</span></p>

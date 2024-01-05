@@ -1,5 +1,7 @@
 # shaking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shaking.md)
+
 <p><span class="chinese">连一片叶子都没动。</span><span class="english">I am shaking like a leaf.</span></p>
 
 <p><span class="chinese">我想我开始震惊。</span><span class="english">I think I started shaking.</span></p>

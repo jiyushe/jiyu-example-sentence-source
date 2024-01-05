@@ -1,5 +1,7 @@
 # supersymmetry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supersymmetry.md)
+
 <p><span class="chinese">它能帮物理学家排除某些关于超对称性的不可能预测。</span><span class="english">It's helped physicists rule out certain supersymmetry models that predict otherwise.</span></p>
 
 <p><span class="chinese">除了超对称之外的其它过程也可能导致出现三轻子对结果的出现。</span><span class="english">Processes other than supersymmetry could also account for the triple lepton surplus.</span></p>

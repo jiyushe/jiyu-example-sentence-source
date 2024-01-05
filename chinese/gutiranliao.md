@@ -1,5 +1,7 @@
 # 固体燃料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gutiranliao.md)
+
 <p><span class="chinese">家庭使用固体燃料产生的室内烟雾。</span><span class="english">indoor smoke from household use of solid fuels.</span></p>
 
 <p><span class="chinese">他们已把固体燃料转变成天然气。</span><span class="english">They have converted from solid fuel to natural gas.</span></p>

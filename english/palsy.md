@@ -1,5 +1,7 @@
 # palsy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palsy.md)
+
 <p><span class="chinese">我患有脑瘫。</span><span class="english">I have cerebral palsy.</span></p>
 
 <p><span class="chinese">专家的争论如何定义脑瘫。</span><span class="english">Experts debate how to define cerebral palsy.</span></p>

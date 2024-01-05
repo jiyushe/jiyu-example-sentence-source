@@ -1,5 +1,7 @@
 # fiftieth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fiftieth.md)
+
 <p><span class="chinese">庆祝他们金婚纪念的聚会。</span><span class="english">A party in celebration of their fiftieth wedding anniversary.</span></p>
 
 <p><span class="chinese">LPGA巡回赛的两千年，庆祝其成立五十周年。</span><span class="english">In two thousand, the LPGA celebrated its fiftieth anniversary.</span></p>

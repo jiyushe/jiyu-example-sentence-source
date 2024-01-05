@@ -1,5 +1,7 @@
 # jaundice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jaundice.md)
+
 <p><span class="chinese">可发生输血后黄疸。</span><span class="english">Post-transfusion jaundice may occur.</span></p>
 
 <p><span class="chinese">为什么里面的男的看起来都那么黄疸病呢？</span><span class="english">Why there's so much the look of men and jaundice it?</span></p>

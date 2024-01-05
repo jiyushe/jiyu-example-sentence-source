@@ -1,5 +1,7 @@
 # 霍霍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huohuo_1.md)
+
 <p><span class="chinese">是磨刀石上镰刀的霍霍声。</span><span class="english">Thefinest edge is made withtheblunt whetstone.</span></p>
 
 <p><span class="chinese">这是顺利熔岩流帕霍霍知道。</span><span class="english">This smooth flowing lava is known as pahoehoe.</span></p>

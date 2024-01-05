@@ -1,5 +1,7 @@
 # conventionally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conventionally.md)
+
 <p><span class="chinese">常规太阳能板的清洁是使用水。</span><span class="english">Cleaning the panels conventionally uses  precious water.</span></p>
 
 <p><span class="chinese">常量和宏的命名一般是大写。</span><span class="english">Names of macros and constants are conventionally in uppercase.</span></p>

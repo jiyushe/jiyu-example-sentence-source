@@ -1,5 +1,7 @@
 # stopgap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stopgap.md)
+
 <p><span class="chinese">他甚至还放话要否决任何权益之计。</span><span class="english">He even promised to veto a stopgap measure.</span></p>
 
 <p><span class="chinese">但在我看来，这些治标的措施，无法治本。</span><span class="english">But in my opinion, these stopgap measures, not cure.</span></p>

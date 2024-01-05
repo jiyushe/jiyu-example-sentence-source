@@ -1,5 +1,7 @@
 # aubrey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aubrey.md)
+
 <p><span class="chinese">奥布里队夜晚的才能表示！</span><span class="english">Team Aubrey night of the talent show!</span></p>
 
 <p><span class="chinese">奥布里•德•戈瑞恰恰就是这样做的。</span><span class="english">One man who has done just that is Aubrey de Grey.</span></p>

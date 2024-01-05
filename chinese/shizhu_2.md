@@ -1,5 +1,7 @@
 # 施主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizhu_2.md)
+
 <p><span class="chinese">还不快向女施主道歉！</span><span class="english">Apologize to the female donor is not fast!</span></p>
 
 <p><span class="chinese">它应该是一个电子的施主还是受主？</span><span class="english">Is it going to be an electron donor or acceptor?</span></p>

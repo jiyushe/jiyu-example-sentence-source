@@ -1,5 +1,7 @@
 # nonskid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonskid.md)
+
 <p><span class="chinese">坚固防滑基地留在你把它。</span><span class="english">Sturdy nonskid base stays where you put it.</span></p>
 
 <p><span class="chinese">一个防滑环保持这一慷慨碗稳定。</span><span class="english">A nonskid ring keeps this generous sized bowl steady.</span></p>

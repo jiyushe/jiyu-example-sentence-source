@@ -1,5 +1,7 @@
 # demeanor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demeanor.md)
+
 <p><span class="chinese">那是行为举止的一种表现形式</span><span class="english">It was a form of behavior, demeanor.</span></p>
 
 <p><span class="chinese">器宇高雅。</span><span class="english">A man's demeanor is high and elegant.</span></p>

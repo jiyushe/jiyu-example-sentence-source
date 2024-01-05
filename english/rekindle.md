@@ -1,5 +1,7 @@
 # rekindle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rekindle.md)
+
 <p><span class="chinese">他想再去燃起她的情火。</span><span class="english">He tried to rekindle her attention.</span></p>
 
 <p><span class="chinese">这就是为什么假日能重新点燃激情的原因所在。</span><span class="english">This is why holidays can rekindle passion.</span></p>

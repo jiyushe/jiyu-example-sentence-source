@@ -1,5 +1,7 @@
 # exaggerate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exaggerate.md)
+
 <p><span class="chinese">不要说谎或夸大其词。</span><span class="english">Don't lie or exaggerate.</span></p>
 
 <p><span class="chinese">赞成堕胎的团体表示他们夸大了事实。</span><span class="english">Pro-choice groups say they exaggerate.</span></p>

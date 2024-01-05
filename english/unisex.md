@@ -1,5 +1,7 @@
 # unisex
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unisex.md)
+
 <p><span class="chinese">在大多数情况下，这些规则已经男女皆宜。</span><span class="english">For the most part, these rules have been unisex.</span></p>
 
 <p><span class="chinese">在手上有已经包装好，男女皆宜的礼物万一你忘记了某一个人。</span><span class="english">Have wrapped, unisex gifts on hand in case you forget someone.</span></p>

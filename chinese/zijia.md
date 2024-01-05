@@ -1,5 +1,7 @@
 # 自家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zijia.md)
+
 <p><span class="chinese">我们都是自家人嘛。</span><span class="english">We are not guests here.</span></p>
 
 <p><span class="chinese">这是自家酿造的啤酒。</span><span class="english">This is home-brewed beer.</span></p>

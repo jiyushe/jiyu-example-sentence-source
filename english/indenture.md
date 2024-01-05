@@ -1,5 +1,7 @@
 # indenture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indenture.md)
+
 <p><span class="chinese">他与一建筑工人订了师徒合同。</span><span class="english">He is indenture to a builder.</span></p>
 
 <p><span class="chinese">债券持有人并不去阅读契约。</span><span class="english">people own bonds without reading the indenture.</span></p>

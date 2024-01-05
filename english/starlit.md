@@ -1,5 +1,7 @@
 # starlit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/starlit.md)
+
 <p><span class="chinese">在繁星点点的夏夜之浪漫中着迷。</span><span class="english">The romance of a starlit night.</span></p>
 
 <p><span class="chinese">满天都是小星星？是暗无天日的蝙蝠洞！</span><span class="english">A starlit sky? No, it's a lightless bat cave!</span></p>

@@ -1,5 +1,7 @@
 # rhinestone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhinestone.md)
+
 <p><span class="chinese">看看他，粗糙的人造钻石。</span><span class="english">Look at him, a rhinestone in the rough.</span></p>
 
 <p><span class="chinese">性感薄纱内裤，背后有人造钻石环扣设计。</span><span class="english">SILK THONG With rhinestone circle trim at rear.</span></p>

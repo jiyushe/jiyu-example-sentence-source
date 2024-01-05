@@ -1,5 +1,7 @@
 # inhibit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inhibit.md)
+
 <p><span class="chinese">同时可以抑制NOS活性。</span><span class="english">L-1 and inhibit NOS activity.</span></p>
 
 <p><span class="chinese">Maitake能抑制肿瘤生长吗？</span><span class="english">Can Maitake Inhibit Cancer Growth?</span></p>

@@ -1,5 +1,7 @@
 # imitator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imitator.md)
+
 <p><span class="chinese">狼疮列这么多，它是伟大的模仿者称为不同的方式。</span><span class="english">Lupus presents in so many different ways that it is known as the great imitator.</span></p>
 
 <p><span class="chinese">举例来说，中国正在实现从模仿者到真正创新者的转型。</span><span class="english">China, for instance, has been evolving from being an imitator to a real innovator.</span></p>

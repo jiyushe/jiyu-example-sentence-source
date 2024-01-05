@@ -1,5 +1,7 @@
 # 斜纹布
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiewenbu.md)
+
 <p><span class="chinese">这个，和真正的学士的黑布一样持久的斜纹布。</span><span class="english">Twill last as long as proper maester's black.</span></p>
 
 <p><span class="chinese">华达呢结实紧密的棉毛织品或人造丝斜纹布。</span><span class="english">A sturdy, tightly woven fabric of cotton, wool, or rayon twill.</span></p>

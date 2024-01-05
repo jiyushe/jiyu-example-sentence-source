@@ -1,5 +1,7 @@
 # vigorously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vigorously.md)
+
 <p><span class="chinese">这小伙子干活真冲。</span><span class="english">That guy workd really vigorously.</span></p>
 
 <p><span class="chinese">他们猛烈地向敌人扑去。</span><span class="english">They fell on the enemy vigorously.</span></p>

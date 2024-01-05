@@ -1,5 +1,7 @@
 # dye
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dye.md)
+
 <p><span class="chinese">锭蓝交易区。</span><span class="english">Dye trading zone.</span></p>
 
 <p><span class="chinese">染色染得不错。</span><span class="english">The dye takes well.</span></p>

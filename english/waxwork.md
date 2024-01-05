@@ -1,5 +1,7 @@
 # waxwork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waxwork.md)
+
 <p><span class="chinese">蜡制品工人把一个新蜡像搬进了屋。</span><span class="english">The waxworker brought a new waxwork into the room.</span></p>
 
 <p><span class="chinese">她的脸看上去很苍白，像是烛光下的蜡人像。</span><span class="english">Clare is so pale she lookslike a waxwork in the candlelight.</span></p>

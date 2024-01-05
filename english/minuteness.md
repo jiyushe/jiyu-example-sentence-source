@@ -1,5 +1,7 @@
 # minuteness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minuteness.md)
+
 <p><span class="chinese">马上我们将花费大量时间讨论这些问题。</span><span class="english">By and by we shall discuss these matters with greater minuteness.</span></p>
 
 <p><span class="chinese">在工艺实践过程中，遇到了微细矿泥难处理的问题。</span><span class="english">A difficult problem about minuteness mud was faced in the course of practice.</span></p>

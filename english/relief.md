@@ -1,5 +1,7 @@
 # relief 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relief.md)
+
 <p><span class="chinese">如何找到施助？</span><span class="english">How to find relief?</span></p>
 
 <p><span class="chinese">安全角阀。</span><span class="english">Relief angle valve.</span></p>

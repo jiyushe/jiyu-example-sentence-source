@@ -1,5 +1,7 @@
 # 中枢神经
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongshushenjing.md)
+
 <p><span class="chinese">新反射弧的中枢神经调节</span><span class="english">Central nervous modulation of new reflex arc</span></p>
 
 <p><span class="chinese">大于通气阈强度运动后易使中枢神经细胞产生疲劳。</span><span class="english">More ventilatory threshold intensity can make the brain cells tired.</span></p>

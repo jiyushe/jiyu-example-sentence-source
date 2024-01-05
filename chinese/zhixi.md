@@ -1,5 +1,7 @@
 # 止息
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhixi.md)
+
 <p><span class="chinese">止息你的惧怕。</span><span class="english">Quiets your fears.</span></p>
 
 <p><span class="chinese">这世界的长叹仍未止息。</span><span class="english">And still the world sighs its long sigh.</span></p>

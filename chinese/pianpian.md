@@ -1,5 +1,7 @@
 # 偏偏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianpian.md)
+
 <p><span class="chinese">怎么偏偏今天下雨?</span><span class="english">Why must it rain today?</span></p>
 
 <p><span class="chinese">为什么偏偏是我呢？</span><span class="english">Why did it have to be me?</span></p>

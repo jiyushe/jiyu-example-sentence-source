@@ -1,5 +1,7 @@
 # 资质
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zizhi_3.md)
+
 <p><span class="chinese">培养你的这些资质。</span><span class="english">Foster these aptitudes.</span></p>
 
 <p><span class="chinese">他们是否具有资质和经验？</span><span class="english">What are their qualifications and experience?</span></p>

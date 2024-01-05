@@ -1,5 +1,7 @@
 # 透支
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touzhi_1.md)
+
 <p><span class="chinese">如果透支了怎么办？</span><span class="english">What if I overdraw?</span></p>
 
 <p><span class="chinese">至于透支方式的放款。</span><span class="english">In the case of overdrafts.</span></p>

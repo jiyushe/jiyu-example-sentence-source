@@ -1,5 +1,7 @@
 # masculinity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/masculinity.md)
+
 <p><span class="chinese">你认为男性穿裙款可象徽男子气慨吗?。</span><span class="english">Do you think men wear skirt can symbolize masculinity?</span></p>
 
 <p><span class="chinese">男子气概可以通过很多方面来表现。</span><span class="english">Masculinity can be described in so many different ways.</span></p>

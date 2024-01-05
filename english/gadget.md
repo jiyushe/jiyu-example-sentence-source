@@ -1,5 +1,7 @@
 # gadget
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gadget.md)
+
 <p><span class="chinese">看看这个小玩艺儿。</span><span class="english">Look at this gadget.</span></p>
 
 <p><span class="chinese">你有没有一个最喜爱的小玩艺？</span><span class="english">Q. Do you have a favorite gadget?</span></p>

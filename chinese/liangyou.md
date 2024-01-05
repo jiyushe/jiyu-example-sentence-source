@@ -1,5 +1,7 @@
 # 良友
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangyou.md)
+
 <p><span class="chinese">一个良友能让你轻松自在、如沐春风。</span><span class="english">A good friend is someone who you can be yourself with.</span></p>
 
 <p><span class="chinese">良友能增加人生乐趣和价值。</span><span class="english">Worthy friends add to the happiness and value of life.</span></p>

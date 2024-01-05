@@ -1,5 +1,7 @@
 # 吉星高照
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jixinggaozhao.md)
+
 <p><span class="chinese">愿你在未来的一年�，吉星高照。</span><span class="english">Best of luck in the year to come.</span></p>
 
 <p><span class="chinese">祝兔年吉星高照！</span><span class="english">Good luck in the rabbit year ahead!</span></p>

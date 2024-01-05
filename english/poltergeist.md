@@ -1,5 +1,7 @@
 # poltergeist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poltergeist.md)
+
 <p><span class="chinese">某些情况下，幽灵不怀好意，作为恐吓和控制的形式对人进行性侵犯。</span><span class="english">In some cases, the poltergeist is malignant, sexually violating its victim as a form of terror or control.</span></p>
 
 <p><span class="chinese">作为逝者不安的灵魂，幽灵能被人们听见，感受到却看不见。</span><span class="english">The restless spirit of a deceased person, a poltergeist is a ghost that is heard and felt rather than seen.</span></p>

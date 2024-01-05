@@ -1,5 +1,7 @@
 # 劳动密集型
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laodongmijixing.md)
+
 <p><span class="chinese">它提供了另一种劳动密集型的增长。</span><span class="english">They offer the alternative of labour-intensive growth.</span></p>
 
 <p><span class="chinese">劳动密集型产业的出路是升级换代。</span><span class="english">Labor-intensive industries is the way out for upgrading.</span></p>

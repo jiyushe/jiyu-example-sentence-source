@@ -1,5 +1,7 @@
 # sebaceous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sebaceous.md)
+
 <p><span class="chinese">皮脂腺附着于每个毛囊上。</span><span class="english">Sebaceous glands are attached to each hair follicle.</span></p>
 
 <p><span class="chinese">这是皮脂腺的地方就是痤疮形式。</span><span class="english">It is the sebaceous gland that is the place where acne forms.</span></p>

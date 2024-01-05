@@ -1,5 +1,7 @@
 # skeet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skeet.md)
+
 <p><span class="chinese">我敢打赌，钟满是双向飞碟。</span><span class="english">I bet, bell full skeet.</span></p>
 
 <p><span class="chinese">还有我爸，站在屋顶上，用我妈的富兰克林珍藏版碗碟玩双向飞碟射击。</span><span class="english">And my Dad's on the roof skeet shooting her Franklin Mint collectible plates.</span></p>

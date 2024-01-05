@@ -1,5 +1,7 @@
 # 闲逛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianguang.md)
+
 <p><span class="chinese">因为他是一个闲逛者。</span><span class="english">Because he was a loafer.</span></p>
 
 <p><span class="chinese">她在城里到处闲逛。</span><span class="english">She ambled around the town.</span></p>

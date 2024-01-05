@@ -1,5 +1,7 @@
 # christianism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/christianism.md)
+
 <p><span class="chinese">基督教颂扬信、望、爱三德。</span><span class="english">Christianism eulogizes three virtues of belief, hope and love.</span></p>
 
 <p><span class="chinese">虽然结果不尽如人意，但基督教对他们的影响是不可忽视的。</span><span class="english">The result is not satisfactory, but the influence of Christianism can not be ignored.</span></p>

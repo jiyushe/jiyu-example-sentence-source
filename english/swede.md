@@ -1,5 +1,7 @@
 # swede
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swede.md)
+
 <p><span class="chinese">在四周老甘蓝植物叶上有暗紫色。</span><span class="english">Dull purple flush on leaf of four week old swede plant.</span></p>
 
 <p><span class="chinese">坚苦是如何让那瑞典人听懂她们的话。</span><span class="english">The difficulty is how to make the Swede understand them.</span></p>

@@ -1,5 +1,7 @@
 # Thai
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thai.md)
+
 <p><span class="chinese">泰国动画片网。</span><span class="english">Thai cartoon web.</span></p>
 
 <p><span class="chinese">电视中播放着叽里咕噜的泰语节目。</span><span class="english">The TV blared Thai.</span></p>

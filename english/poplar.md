@@ -1,5 +1,7 @@
 # poplar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poplar.md)
+
 <p><span class="chinese">杨树。</span><span class="english">Poplar.</span></p>
 
 <p><span class="chinese">树叶迎着微风策策作响。</span><span class="english">The poplar leaves rustled in the wind.</span></p>

@@ -1,5 +1,7 @@
 # homophobia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homophobia.md)
+
 <p><span class="chinese">恐同症通常是由于恐惧和无知造成的。</span><span class="english">Homophobia is most often based on fear and ignorance.</span></p>
 
 <p><span class="chinese">个人来说，我认为亚当斯关于同性恋憎恶的集体工作极其重要。</span><span class="english">Personally, I think Adams’s collective work on homophobia is terribly important.</span></p>

@@ -1,5 +1,7 @@
 # 武林
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wulin.md)
+
 <p><span class="chinese">虽然保罗是一名武林新手，但是他从没有轻言放弃。</span><span class="english">Although Paul is a martial arts novice, he never gives up easily.</span></p>
 
 <p><span class="chinese">本周初，在武林广场举行了一次基金募集活动。</span><span class="english">Earlier this week, a fund raising event was held at Wulin Square.</span></p>

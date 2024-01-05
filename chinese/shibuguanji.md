@@ -1,5 +1,7 @@
 # 事不关己
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shibuguanji.md)
+
 <p><span class="chinese">是事不关己，高高挂起吗？</span><span class="english">Is it yourself, high and hang up?</span></p>
 
 <p><span class="chinese">但是他并不认为这是个事不关己的运动。</span><span class="english">But he denied the campaign was a case of not-in-my-castle's-back yard.</span></p>

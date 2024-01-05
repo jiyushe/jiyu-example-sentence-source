@@ -1,5 +1,7 @@
 # 罪过
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuiguo.md)
+
 <p><span class="chinese">他眨眨眼，传来男人的信号，默许了吉姆的罪过。</span><span class="english">Winking a man\'s signal.</span></p>
 
 <p><span class="chinese">即使偷一根不值什么钱的针也是一种罪过。</span><span class="english">It is a sin to steal a pin.</span></p>

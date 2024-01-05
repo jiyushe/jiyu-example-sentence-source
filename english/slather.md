@@ -1,5 +1,7 @@
 # slather
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slather.md)
+
 <p><span class="chinese">在你出家门之前在身上涂一层厚厚的防晒霜。</span><span class="english">Slather yourself with sunscreen before you leave home.</span></p>
 
 <p><span class="chinese">他们是否要在出门前涂抹大量除臭剂呢？</span><span class="english">Do you just slather on some extra deodorant as you head out the door?</span></p>

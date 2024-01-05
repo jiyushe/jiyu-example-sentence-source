@@ -1,5 +1,7 @@
 # dollhouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dollhouse.md)
+
 <p><span class="chinese">爸爸有没有说把那个玩具房屋给我？</span><span class="english">Did dad say I get the dollhouse?</span></p>
 
 <p><span class="chinese">他喜欢躲在我的玩具屋里。</span><span class="english">And he liked to hide in my dollhouse.</span></p>

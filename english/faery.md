@@ -1,5 +1,7 @@
 # faery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faery.md)
+
 <p><span class="chinese">人们匆匆赶回家，却发现这不过是仙人的魔法。</span><span class="english">They hurried home to find it was but faery glamour.</span></p>
 
 <p><span class="chinese">你现在是个仙灵了，和我们一样，我们能干什么，你就能干什么。</span><span class="english">Youre a faery now, same as us, and can do anything we can do.</span></p>

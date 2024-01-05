@@ -1,5 +1,7 @@
 # inelasticity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inelasticity.md)
+
 <p><span class="chinese">当然“不够宽松”并非华尔街的银行巨头们对现状不满的唯一理由。</span><span class="english">Inelasticity was scarcely the only reason for the discontent of the Wall Street bankers with the status quo.</span></p>
 
 <p><span class="chinese">节食过程中所流失的水分还会使皮肤变得粗糙，无弹性。</span><span class="english">Diets the moisture content which in the process drains to cause the skin will also become rough, inelasticity.</span></p>

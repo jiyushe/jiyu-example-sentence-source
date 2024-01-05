@@ -1,5 +1,7 @@
 # magnetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magnetic.md)
+
 <p><span class="chinese">磁浮系统?。</span><span class="english">Magnetic Levitation System?</span></p>
 
 <p><span class="chinese">磁选机采用开放型磁系。</span><span class="english">Magnetic system is open-ended.</span></p>

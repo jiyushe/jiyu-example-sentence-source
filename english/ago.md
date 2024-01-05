@@ -1,5 +1,7 @@
 # ago 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ago.md)
+
 <p><span class="chinese">请回去。</span><span class="english">Please go ago.</span></p>
 
 <p><span class="chinese">三天以前，大前天。</span><span class="english">Three days ago.</span></p>

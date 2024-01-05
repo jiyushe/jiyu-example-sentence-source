@@ -1,5 +1,7 @@
 # overlay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overlay.md)
+
 <p><span class="chinese">闩也要用金子包裹。</span><span class="english">Also overlay the crossbars with gold.</span></p>
 
 <p><span class="chinese">让门步一渐变叠加。</span><span class="english">Give the door-step a Gradient Overlay.</span></p>

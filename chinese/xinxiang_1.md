@@ -1,5 +1,7 @@
 # 心想
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinxiang_1.md)
+
 <p><span class="chinese">一条小溪，丹妮心想。</span><span class="english">A stream, Dany decided.</span></p>
 
 <p><span class="chinese">我心想“小忙”难不成要我免费劳动”我告诉她我的日程已经排的很满。</span><span class="english">I said I had a full schedule.</span></p>

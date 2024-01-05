@@ -1,5 +1,7 @@
 # 鼠目寸光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shumucunguang.md)
+
 <p><span class="chinese">在上面的那个例子中，我的打算太鼠目寸光了。</span><span class="english">In the above example, my plan was just too small.</span></p>
 
 <p><span class="chinese">只有鼠目寸光的人才会看不见教育的重要性。</span><span class="english">Only a short-sighted man will lose sight of the importance of education.</span></p>

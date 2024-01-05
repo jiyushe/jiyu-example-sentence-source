@@ -1,5 +1,7 @@
 # 预科
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuke.md)
+
 <p><span class="chinese">医学预科？饶了我吧。</span><span class="english">Pre-med? Give me a break.</span></p>
 
 <p><span class="chinese">我主修的是医学预科技术。</span><span class="english">My major is Pre-med technology.</span></p>

@@ -1,5 +1,7 @@
 # 特效
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/texiao.md)
+
 <p><span class="chinese">没有compiz的特效。</span><span class="english">No major effects for compiz.</span></p>
 
 <p><span class="chinese">你就是那个特效制作人员?。</span><span class="english">Are you the special effects guy?</span></p>

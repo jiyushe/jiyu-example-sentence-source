@@ -1,5 +1,7 @@
 # 鲜明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianming_2.md)
+
 <p><span class="chinese">我没有什么鲜明的态度</span><span class="english">I don't have a strong view.</span></p>
 
 <p><span class="chinese">第五，鲜明的人民性。</span><span class="english">Fifth is vivid of the people.</span></p>

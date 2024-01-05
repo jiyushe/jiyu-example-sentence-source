@@ -1,5 +1,7 @@
 # avatar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/avatar.md)
+
 <p><span class="chinese">我喜欢你的新头像图片。</span><span class="english">I love your new avatar picture.</span></p>
 
 <p><span class="chinese">这是我，这是我的虚拟化身。</span><span class="english">And this is me, this is my avatar.</span></p>

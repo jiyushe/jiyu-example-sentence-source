@@ -1,5 +1,7 @@
 # relativity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relativity.md)
+
 <p><span class="chinese">什么是相对论？</span><span class="english">What is relativity?</span></p>
 
 <p><span class="chinese">相对论也使时间停驻了下来。</span><span class="english">Relativity also brought time to a stop.</span></p>

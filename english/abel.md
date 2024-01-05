@@ -1,5 +1,7 @@
 # abel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abel.md)
+
 <p><span class="chinese">亚伯是看守羊的人。</span><span class="english">Abel was a keeper of sheep.</span></p>
 
 <p><span class="chinese">我们会和阿贝尔一起。</span><span class="english">We will be along with Abel.</span></p>

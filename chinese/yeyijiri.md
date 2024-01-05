@@ -1,5 +1,7 @@
 # 夜以继日
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yeyijiri.md)
+
 <p><span class="chinese">夜以继日地超负荷工作使他极度虚弱。</span><span class="english">Overworking day and night left him low.</span></p>
 
 <p><span class="chinese">工程正在夜以继日地进行。</span><span class="english">Work on the project is going on day and night.</span></p>

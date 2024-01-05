@@ -1,5 +1,7 @@
 # smite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smite.md)
+
 <p><span class="chinese">我希望这些花能让你微笑。</span><span class="english">I hope these flowers make you smite.</span></p>
 
 <p><span class="chinese">减少责打对抗步兵的损失。</span><span class="english">Decreased Smite damage against infantry.</span></p>

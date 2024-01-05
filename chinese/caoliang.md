@@ -1,5 +1,7 @@
 # 漕粮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caoliang.md)
+
 <p><span class="chinese">太仓自元代海运漕粮而兴起，郑和七下洋以太仓为起锚地和归舶港。</span><span class="english">Taicang rose from the marine transportation of the Tax grain in Yuan Dynasty.</span></p>
 
 <p><span class="chinese">义和团运动对晚清的漕粮运输产生了重大影响。</span><span class="english">The Boxer Rebellion has an important influence on the sea transportation of tribute grain in the Late Qing Dynasty.</span></p>

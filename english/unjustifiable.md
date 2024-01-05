@@ -1,5 +1,7 @@
 # unjustifiable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unjustifiable.md)
+
 <p><span class="chinese">文章主要对防卫过当的概念和本质进行了探讨。</span><span class="english">Chapter II, Concept and nature of Unjustifiable Self-defense.</span></p>
 
 <p><span class="chinese">阿才再一次拒绝了对方的无理要求。</span><span class="english">A just rejected the unjustifiable demand of the other side again.</span></p>

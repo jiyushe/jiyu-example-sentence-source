@@ -1,5 +1,7 @@
 # troposphere
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/troposphere.md)
+
 <p><span class="chinese">使用WVR能精确测定对流层时延误差。</span><span class="english">Troposphere delay error could be accurately determined using WVR.</span></p>
 
 <p><span class="chinese">此次任务还将观测对流层中的云和气溶胶粒子。</span><span class="english">The mission will also observe clouds and aerosol particles in the troposphere.</span></p>

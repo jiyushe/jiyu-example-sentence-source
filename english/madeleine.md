@@ -1,5 +1,7 @@
 # madeleine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/madeleine.md)
+
 <p><span class="chinese">我们爱马德琳。</span><span class="english">We love Madeleine.</span></p>
 
 <p><span class="chinese">可是您呢，马德兰爷爷？</span><span class="english">But you, Father Madeleine?</span></p>

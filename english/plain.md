@@ -1,5 +1,7 @@
 # plain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plain.md)
+
 <p><span class="chinese">她面相平常。</span><span class="english">She has a plain face.</span></p>
 
 <p><span class="chinese">她真是个受气包。</span><span class="english">She is plain doormat.</span></p>

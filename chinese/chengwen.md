@@ -1,5 +1,7 @@
 # 呈文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengwen.md)
+
 <p><span class="chinese">投下救生圈并呈文。</span><span class="english">Drop lifebuoys and report.</span></p>
 
 <p><span class="chinese">呈文幸存者状况。</span><span class="english">Report condition of survivor.</span></p>

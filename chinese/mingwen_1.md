@@ -1,5 +1,7 @@
 # 铭文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingwen_1.md)
+
 <p><span class="chinese">为什么佯攻铭文是大雕文…</span><span class="english">Why is there a major glyph of feint?</span></p>
 
 <p><span class="chinese">那在遗址处发现的稀有铭文呢？</span><span class="english">The rare inscription found at the site?</span></p>

@@ -1,5 +1,7 @@
 # 劳燕分飞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laoyanfenfei.md)
+
 <p><span class="chinese">海明威和哈德丽劳燕分飞，儿子由哈德丽抚养。</span><span class="english">Ernest Hemingway and Hadley separated. She kept their son.</span></p>
 
 <p><span class="chinese">在婚姻最“昂贵”的时候，就要在劳燕分飞咯...</span><span class="english">When is marriage the most expensive? When it ends in divorce.</span></p>

@@ -1,5 +1,7 @@
 # formate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/formate.md)
+
 <p><span class="chinese">在碱存在下，能水解生成甲酸盐。</span><span class="english">In the presence of alkali, hydrolysis can generate formate.</span></p>
 
 <p><span class="chinese">甲酸，乙酸，丙酸和甲酸铵。</span><span class="english">Formic Acid, Acetic Acid, Propionic Acid and Ammonium Formate.</span></p>

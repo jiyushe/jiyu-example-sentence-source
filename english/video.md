@@ -1,5 +1,7 @@
 # video
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/video.md)
+
 <p><span class="chinese">电视电话?。</span><span class="english">VP? Video Phone?</span></p>
 
 <p><span class="chinese">那个视频糟透了。</span><span class="english">That video stunk.</span></p>

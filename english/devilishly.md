@@ -1,5 +1,7 @@
 # devilishly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/devilishly.md)
+
 <p><span class="chinese">流感有非常有效的传播机制。</span><span class="english">Flu has a devilishly efficient transmission mechanism.</span></p>
 
 <p><span class="chinese">这些看似健康的习惯可能会对你造成极大的伤害。</span><span class="english">These `healthy` habits could be devilishly bad for you.</span></p>

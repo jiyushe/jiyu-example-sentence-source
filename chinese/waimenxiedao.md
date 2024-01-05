@@ -1,5 +1,7 @@
 # 歪门邪道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waimenxiedao.md)
+
 <p><span class="chinese">有时广告也走歪门邪道。</span><span class="english">But advertising sometimes goes astray.</span></p>
 
 <p><span class="chinese">或者可以称为“歪门邪道的人和雕像”？</span><span class="english">Or should I call it "Perverts and statues"?</span></p>

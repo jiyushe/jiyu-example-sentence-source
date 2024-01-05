@@ -1,5 +1,7 @@
 # 简易
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianyi_2.md)
+
 <p><span class="chinese">让咱们换换口味来一个简易的话题。</span><span class="english">Then, let's alter a light topic?</span></p>
 
 <p><span class="chinese">这是一个简易程序的除外。</span><span class="english">This is a summary of exclusions.</span></p>

@@ -1,5 +1,7 @@
 # eath
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eath.md)
+
 <p><span class="chinese">我们醒了，却知道我们原是相亲相爱。</span><span class="english">We wake up to find that we were dear to eath other.</span></p>
 
 <p><span class="chinese">他们第二次见面时，就爱上了对方。</span><span class="english">They fell in love with eath other the second time they met.</span></p>

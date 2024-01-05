@@ -1,5 +1,7 @@
 # 管中窥豹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guanzhongkuibao.md)
+
 <p><span class="chinese">这从他的几个人生片断，可以管中窥豹。</span><span class="english">From his life several clips can act.</span></p>
 
 <p><span class="chinese">第四章以绍兴市的学社教育合作状况为研究对象进行个案研究，以求管中窥豹。</span><span class="english">Chapter 4 studies and analyses an example, the cooperative system in the city of Shao Xing.</span></p>

@@ -1,5 +1,7 @@
 # untaught
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/untaught.md)
+
 <p><span class="chinese">语言能力严重欠缺的未受过教育的人。</span><span class="english">Untaught people whose verbal skills are grossly deficient.</span></p>
 
 <p><span class="chinese">与其不受教育，倒不如不生，因为无知是不幸的根源。</span><span class="english">Better be unborn than untaught for ignorance is the root of misfortune.</span></p>

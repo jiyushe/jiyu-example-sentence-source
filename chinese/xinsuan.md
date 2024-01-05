@@ -1,5 +1,7 @@
 # 心算
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinsuan.md)
+
 <p><span class="chinese">起码不用心算。</span><span class="english">At least, not in your heads.</span></p>
 
 <p><span class="chinese">而我尤其擅长心算。</span><span class="english">I wasparticularly good at mental arithmetic.</span></p>

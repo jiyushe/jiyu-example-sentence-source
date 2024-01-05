@@ -1,5 +1,7 @@
 # 痛责
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongze.md)
+
 <p><span class="chinese">凯奇又迟到了，老板痛责了她一顿。</span><span class="english">The boss gave her the business when Cage came late again.</span></p>
 
 <p><span class="chinese">别因自己一天或甚至一星期没运动就痛责自己。</span><span class="english">Don't beat yourself up if you skipped a day — or even a week.</span></p>

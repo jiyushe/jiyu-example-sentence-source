@@ -1,5 +1,7 @@
 # 领袖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingxiu_2.md)
+
 <p><span class="chinese">他是位英明领袖。</span><span class="english">He is a wise leader.</span></p>
 
 <p><span class="chinese">意见领袖。</span><span class="english">One , opinion cacique.</span></p>

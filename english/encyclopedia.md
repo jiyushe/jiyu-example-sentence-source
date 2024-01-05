@@ -1,5 +1,7 @@
 # encyclopedia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/encyclopedia.md)
+
 <p><span class="chinese">百科词典。</span><span class="english">Encyclopedia.</span></p>
 
 <p><span class="chinese">这是一本百科全书。</span><span class="english">This is an encyclopedia.</span></p>

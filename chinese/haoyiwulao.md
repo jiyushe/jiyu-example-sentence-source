@@ -1,5 +1,7 @@
 # 好逸恶劳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haoyiwulao.md)
+
 <p><span class="chinese">这三个年轻人好逸恶劳。</span><span class="english">These three youngsters loved ease and hated work.</span></p>
 
 <p><span class="chinese">我讨厌见到那些好逸恶劳的人。</span><span class="english">I hate to see those who like ease and dislike work.</span></p>

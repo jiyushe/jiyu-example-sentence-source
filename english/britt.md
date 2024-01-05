@@ -1,5 +1,7 @@
 # britt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/britt.md)
+
 <p><span class="chinese">布丽特，好的，还有谁？</span><span class="english">Britt. Okay. Who else?</span></p>
 
 <p><span class="chinese">“现在有太多人类居住地没有乾净水了，”布瑞特写道。</span><span class="english">"We now have too many people living in places where we don't have fresh water, " Britt said.</span></p>

@@ -1,5 +1,7 @@
 # 原棉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanmian.md)
+
 <p><span class="chinese">他们正在收购原棉。</span><span class="english">They are buying rude cotton.</span></p>
 
 <p><span class="chinese">原棉，棉种子，腰果，坚果，芝麻。</span><span class="english">Raw Cotton, Cashew-Nuts, Sesame Seed, Beans & Ginger.</span></p>

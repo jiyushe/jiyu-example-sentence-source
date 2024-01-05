@@ -1,5 +1,7 @@
 # instrumentation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/instrumentation.md)
+
 <p><span class="chinese">是的,是乐器的演奏方法</span><span class="english">Yes, the instrumentation.</span></p>
 
 <p><span class="chinese">你吗,-是乐器的演奏方法吗</span><span class="english">Yes?  -The instrumentation?</span></p>

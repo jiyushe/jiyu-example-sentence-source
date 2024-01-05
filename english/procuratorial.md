@@ -1,5 +1,7 @@
 # procuratorial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/procuratorial.md)
+
 <p><span class="chinese">刑事公诉权是检察权的核心内容。</span><span class="english">The key contents of procuratorial power is criminal suit power.</span></p>
 
 <p><span class="chinese">人民检察院是通过行使检察权来完成自己的任务的。</span><span class="english">The people's procuratorates have the right to exercise procuratorial authority.</span></p>

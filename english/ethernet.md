@@ -1,5 +1,7 @@
 # ethernet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ethernet.md)
+
 <p><span class="chinese">以太网能用于广域网吗?。</span><span class="english">Can Ethernet Be Used for WANs?</span></p>
 
 <p><span class="chinese">未探测到以太网卡。</span><span class="english">No Ethernet card was detected.</span></p>

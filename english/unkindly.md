@@ -1,5 +1,7 @@
 # unkindly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unkindly.md)
+
 <p><span class="chinese">他粗鲁地把她推开。</span><span class="english">He pushed her away unkindly.</span></p>
 
 <p><span class="chinese">“你自己动手，”亚瑟不客气地说。</span><span class="english">"Do it yourself" said arthur unkindly.</span></p>

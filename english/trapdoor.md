@@ -1,5 +1,7 @@
 # trapdoor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trapdoor.md)
+
 <p><span class="chinese">地牢里一定会有暗门之类的东西。</span><span class="english">There must be some like trapdoor or something.</span></p>
 
 <p><span class="chinese">莉莎爬过暗门的时候说。</span><span class="english">Lisa said, after crawling through the trapdoor.</span></p>

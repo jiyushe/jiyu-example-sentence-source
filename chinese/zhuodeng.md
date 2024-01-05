@@ -1,5 +1,7 @@
 # 桌灯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuodeng.md)
+
 <p><span class="chinese">我需要桌灯，请帮我把它打开。</span><span class="english">Please help me turn it on.</span></p>
 
 <p><span class="chinese">你在日常生活中会否使用到桌灯？</span><span class="english">Do you use table lamps in daily life?</span></p>

@@ -1,5 +1,7 @@
 # nonlethal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonlethal.md)
+
 <p><span class="chinese">仅装备钝的近战武器。</span><span class="english">Equip only nonlethal blunt melee weapons.</span></p>
 
 <p><span class="chinese">阳炎刃只会对光民造成非致命伤害。</span><span class="english">Sun blades deal only nonlethal damage to a lumi.</span></p>

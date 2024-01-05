@@ -1,5 +1,7 @@
 # iba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iba.md)
+
 <p><span class="chinese">IBA浓度对试管嫁接苗接穗生长的影响与生根力是一致的。</span><span class="english">Effect of IBA on growth of in vitro grafts showed was the same pattern as on rooting.</span></p>
 
 <p><span class="chinese">参加德国杜塞道夫烘培机器大展及世界各地之展览。</span><span class="english">Participated in the German IBA baking exhibition and other worldwide exhibitions as well.</span></p>

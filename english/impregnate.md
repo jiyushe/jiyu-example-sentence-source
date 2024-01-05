@@ -1,5 +1,7 @@
 # impregnate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impregnate.md)
+
 <p><span class="chinese">诺曼想使她怀孕的努力失败了。</span><span class="english">Norman's efforts to impregnate her failed.</span></p>
 
 <p><span class="chinese">这种有机质渗入了大面积的砂岩。</span><span class="english">These organic impregnate large volumes of sandstone.</span></p>

@@ -1,5 +1,7 @@
 # 残缺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/canque.md)
+
 <p><span class="chinese">居室越来越华丽，家庭却残缺破碎。</span><span class="english">We have fancier houses, but broken homes.</span></p>
 
 <p><span class="chinese">沿残缺的水泥台阶而上，到游廊的后门。</span><span class="english">Up broken cement steps to the back porch door.</span></p>

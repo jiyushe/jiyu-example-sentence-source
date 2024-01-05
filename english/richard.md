@@ -1,5 +1,7 @@
 # richard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/richard.md)
+
 <p><span class="chinese">理查德·基尔62了。</span><span class="english">Richard Gere is 62.</span></p>
 
 <p><span class="chinese">爱理加油！</span><span class="english">Love Richard refuels!</span></p>

@@ -1,5 +1,7 @@
 # sequel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sequel.md)
+
 <p><span class="chinese">我现在一步步的来。</span><span class="english">I have got into a sequel to a sequel.</span></p>
 
 <p><span class="chinese">他在续集中再次扮演原来的角色。</span><span class="english">He reprised his character in the sequel.</span></p>

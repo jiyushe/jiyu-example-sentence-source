@@ -1,5 +1,7 @@
 # 密探
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mitan.md)
+
 <p><span class="chinese">把密探带走。</span><span class="english">Take the spy.</span></p>
 
 <p><span class="chinese">先生是个密探吧？</span><span class="english">Are you a police spy, sir?</span></p>

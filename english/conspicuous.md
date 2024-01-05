@@ -1,5 +1,7 @@
 # conspicuous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conspicuous.md)
+
 <p><span class="chinese">她是个引人注目的人物。</span><span class="english">She is a conspicuous figure.</span></p>
 
 <p><span class="chinese">令人咋舌的汽车消费量！</span><span class="english">Conspicuous Consumption of Cars!</span></p>

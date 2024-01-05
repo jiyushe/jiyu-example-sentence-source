@@ -1,5 +1,7 @@
 # intemperate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intemperate.md)
+
 <p><span class="chinese">年轻时我很放纵。</span><span class="english">I was intemperate in my youth.</span></p>
 
 <p><span class="chinese">匆促的笔调，放纵的语气。</span><span class="english">The style was hurried, the tone intemperate.</span></p>

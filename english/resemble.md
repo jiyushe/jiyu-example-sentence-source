@@ -1,5 +1,7 @@
 # resemble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resemble.md)
+
 <p><span class="chinese">虎像猫。</span><span class="english">Tigers resemble cats.</span></p>
 
 <p><span class="chinese">但我们的世界并不像游戏。</span><span class="english">But our world doesn’t resemble games.</span></p>

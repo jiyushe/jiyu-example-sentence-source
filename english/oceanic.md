@@ -1,5 +1,7 @@
 # oceanic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oceanic.md)
+
 <p><span class="chinese">西巴丹岛是马来西亚唯一的海洋岛屿。</span><span class="english">Sipadan Island is the only oceanic island in Malaysia.</span></p>
 
 <p><span class="chinese">巴哈马海域，一只远洋白鳍鲨和潜水员在游泳。</span><span class="english">An oceanic whitetip shark and diver swim in the Bahamas.</span></p>

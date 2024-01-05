@@ -1,5 +1,7 @@
 # 一相情愿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yixiangqingyuan_1.md)
+
 <p><span class="chinese">或许也是我自己的一相情愿啦。</span><span class="english">Maybe I just think too much.</span></p>
 
 <p><span class="chinese">我想是一些人的一相情愿。</span><span class="english">I think some people's wishful.</span></p>

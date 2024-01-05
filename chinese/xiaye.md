@@ -1,5 +1,7 @@
 # 下野
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaye.md)
+
 <p><span class="chinese">你有没有听到过蓝色月光下野狼的哭嗥？</span><span class="english">Or let the eagle tell you where he's been?</span></p>
 
 <p><span class="chinese">民主党下野，共和党执政。</span><span class="english">The Democrats are out, the Republicans in.</span></p>

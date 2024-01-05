@@ -1,5 +1,7 @@
 # ddd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ddd.md)
+
 <p><span class="chinese">我们宾馆设有国内和国际直拨电话系统。</span><span class="english">We've got DDD system and IDD system in our hotel.</span></p>
 
 <p><span class="chinese">没错，SOA和DDD支持同样的目标。</span><span class="english">SOA and DDD are definitely supporting the same goal.</span></p>

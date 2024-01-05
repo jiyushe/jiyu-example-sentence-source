@@ -1,5 +1,7 @@
 # bobbin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bobbin.md)
+
 <p><span class="chinese">纱管直径不正确。</span><span class="english">Incorrect bobbin diameter.</span></p>
 
 <p><span class="chinese">筒管支架不合适。</span><span class="english">Improper arms of bobbin holder.</span></p>

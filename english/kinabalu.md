@@ -1,5 +1,7 @@
 # kinabalu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kinabalu.md)
+
 <p><span class="chinese">傍晚回返亚庇市酒店休息。</span><span class="english">Evening return to Kota Kinabalu hotel.</span></p>
 
 <p><span class="chinese">我们每个人都希望都能够为亚庇市感到自豪。</span><span class="english">We all wish to be proud of Kota Kinabalu City.</span></p>

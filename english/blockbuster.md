@@ -1,5 +1,7 @@
 # blockbuster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blockbuster.md)
+
 <p><span class="chinese">那部新片真了不起。</span><span class="english">That new movie is a blockbuster.</span></p>
 
 <p><span class="chinese">我们的新影片一定会大为轰动。</span><span class="english">Our new film will be a real blockbuster.</span></p>

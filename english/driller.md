@@ -1,5 +1,7 @@
 # driller
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/driller.md)
+
 <p><span class="chinese">熟练的钻工了。</span><span class="english">He is a skillful driller now.</span></p>
 
 <p><span class="chinese">他是一个可以信赖的司钻。</span><span class="english">He is a driller whom you can believe in.</span></p>

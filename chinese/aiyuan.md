@@ -1,5 +1,7 @@
 # 哀怨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aiyuan.md)
+
 <p><span class="chinese">二夫人这个哀怨！</span><span class="english">Two madams this is sad!</span></p>
 
 <p><span class="chinese">可你仍会看见哀怨者站在门里</span><span class="english">But still, you met the mourners at the door</span></p>

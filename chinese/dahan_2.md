@@ -1,5 +1,7 @@
 # 打鼾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dahan_2.md)
+
 <p><span class="chinese">他真会打鼾！</span><span class="english">How he snores!</span></p>
 
 <p><span class="chinese">你丈夫打鼾吗？</span><span class="english">Does your husband snore?</span></p>

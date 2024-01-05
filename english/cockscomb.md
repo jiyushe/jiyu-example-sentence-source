@@ -1,5 +1,7 @@
 # cockscomb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cockscomb.md)
+
 <p><span class="chinese">鸡冠花，远远看去红得像一团火焰。</span><span class="english">Cockscomb , well looked red, Just like a flame.</span></p>
 
 <p><span class="chinese">那头骡子仰着头，皮笼头上的红缨，像是秋雨里一朵艳红的鸡冠花。</span><span class="english">Leather halter on Hongying, such as in a rain of red cockscomb.</span></p>

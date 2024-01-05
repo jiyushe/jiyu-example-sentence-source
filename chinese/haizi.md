@@ -1,5 +1,7 @@
 # 海子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haizi.md)
+
 <p><span class="chinese">八个月后，海子死了。</span><span class="english">Eight months later, Haizi died.</span></p>
 
 <p><span class="chinese">海子生命是矛盾的。</span><span class="english">The life of HaiZi is contradictory.</span></p>

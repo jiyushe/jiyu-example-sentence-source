@@ -1,5 +1,7 @@
 # frustrated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frustrated.md)
+
 <p><span class="chinese">我感到很沮丧。</span><span class="english">I was so frustrated.</span></p>
 
 <p><span class="chinese">你感觉很是沮丧。</span><span class="english">You're so frustrated.</span></p>

@@ -1,5 +1,7 @@
 # 逃散
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taosan.md)
+
 <p><span class="chinese">畜栏里的牛、鸡，和兔子纷纷逃散。</span><span class="english">Cows chickens and rabbits scurried.</span></p>
 
 <p><span class="chinese">我们的汽车向前开动时，鹿群吓得逃散了。</span><span class="english">When our car drove forward, the deer spooked.</span></p>

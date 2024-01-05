@@ -1,5 +1,7 @@
 # 输卵管
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuluanguan.md)
+
 <p><span class="chinese">输卵管积水？</span><span class="english">Fallopian tube ponding?</span></p>
 
 <p><span class="chinese">这个很可能是脱垂的输卵管。</span><span class="english">This is most likely prolapsed fallopian tube.</span></p>

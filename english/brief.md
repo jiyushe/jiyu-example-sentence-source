@@ -1,5 +1,7 @@
 # brief
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brief.md)
+
 <p><span class="chinese">尽量简短。</span><span class="english">Be brief.</span></p>
 
 <p><span class="chinese">我会十分简短。</span><span class="english">I will be brief.</span></p>

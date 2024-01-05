@@ -1,5 +1,7 @@
 # rota
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rota.md)
+
 <p><span class="chinese">罗塔是一个很小的西班牙城镇。</span><span class="english">Rota is a very small town in Spain.</span></p>
 
 <p><span class="chinese">罗塔岛以前曾经被日本统治过，这个遗迹就说明了一切。</span><span class="english">Rota had previously ruled by Japan, the remains of says it all.</span></p>

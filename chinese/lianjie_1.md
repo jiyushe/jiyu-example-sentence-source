@@ -1,5 +1,7 @@
 # 联接
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianjie_1.md)
+
 <p><span class="chinese">采用螺纹或法兰毛细管联接。</span><span class="english">Using thread or flange capillary connection.</span></p>
 
 <p><span class="chinese">守车和最后一节货车联接上。</span><span class="english">The caboose is coupled to the last freight car.</span></p>

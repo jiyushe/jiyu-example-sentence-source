@@ -1,5 +1,7 @@
 # 壁橱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bichu.md)
+
 <p><span class="chinese">检查壁橱和食橱。</span><span class="english">Check closets and cupboards.</span></p>
 
 <p><span class="chinese">检查壁橱和食橱。</span><span class="english">Check closets and  cupboards.</span></p>

@@ -1,5 +1,7 @@
 # 野心家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yexinjia.md)
+
 <p><span class="chinese">我们要谨防野心家。</span><span class="english">We should guard against careerists.</span></p>
 
 <p><span class="chinese">野心家在那儿争权夺利，他们不会随之起舞。</span><span class="english">They don't scramble against careerists for interest and power.</span></p>

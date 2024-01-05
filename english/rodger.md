@@ -1,5 +1,7 @@
 # rodger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rodger.md)
+
 <p><span class="chinese">嗨！我的名字叫做罗杰。</span><span class="english">Hi, my name is Rodger.</span></p>
 
 <p><span class="chinese">罗杰我们的暴躁引导者！</span><span class="english">Rodger our grumpy guide!</span></p>

@@ -1,5 +1,7 @@
 # 重申
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongshen_1.md)
+
 <p><span class="chinese">让我重申一下我的权力’。</span><span class="english">Let me reassert my authority.</span></p>
 
 <p><span class="chinese">重申你的理由清楚。</span><span class="english">Restate your reasons clearly.</span></p>

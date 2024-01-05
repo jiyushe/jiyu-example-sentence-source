@@ -1,5 +1,7 @@
 # although
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/although.md)
+
 <p><span class="chinese">虽然你是暴牙！</span><span class="english">Although you are tusk!</span></p>
 
 <p><span class="chinese">尽管你不能保祐。</span><span class="english">Although you cannot bless.</span></p>

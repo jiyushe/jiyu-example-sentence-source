@@ -1,5 +1,7 @@
 # cynosure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cynosure.md)
+
 <p><span class="chinese">一切文明的焦点。</span><span class="english">The cynosure of all things civilized.</span></p>
 
 <p><span class="chinese">让信仰成为你生活中的灯塔。</span><span class="english">Let faith be your cynosure to walk by.</span></p>

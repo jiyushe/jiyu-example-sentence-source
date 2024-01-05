@@ -1,5 +1,7 @@
 # achy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/achy.md)
+
 <p><span class="chinese">渴望是痛，思念也是一种痛。</span><span class="english">Ache is achy , miss is achy , too.</span></p>
 
 <p><span class="chinese">想念是一种重重的，有点疼痛的感觉。</span><span class="english">Missing you is a heavy, achy feeling.</span></p>

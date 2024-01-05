@@ -1,5 +1,7 @@
 # 重重叠叠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongchongdiedie.md)
+
 <p><span class="chinese">那重重叠叠的远影是我们曾经的快乐么？</span><span class="english">That overlap far shade was we once is joyful?</span></p>
 
 <p><span class="chinese">西湖在过去一千年来，一直是名士美人流连之所，重重叠叠的回忆太多了。</span><span class="english">The west lake has been a dreamland for gentleman and beauties, too much reminiscence here.</span></p>

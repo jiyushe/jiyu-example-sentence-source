@@ -1,5 +1,7 @@
 # 排字
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paizi_1.md)
+
 <p><span class="chinese">排字工人排好了这一页。</span><span class="english">The printer composed the page.</span></p>
 
 <p><span class="chinese">我是从一个排字工人那里买的这则广告。</span><span class="english">I bought the ad from the typesetter.</span></p>

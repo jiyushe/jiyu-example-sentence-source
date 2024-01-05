@@ -1,5 +1,7 @@
 # gliding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gliding.md)
+
 <p><span class="chinese">没有什么可以胜过滑翔翼运动。</span><span class="english">You can't beat hang- gliding.</span></p>
 
 <p><span class="chinese">滑翔翼的欧文斯谷恐怖！</span><span class="english">Hang Gliding Horror in Owens Valley!</span></p>

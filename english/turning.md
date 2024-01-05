@@ -1,5 +1,7 @@
 # turning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turning.md)
+
 <p><span class="chinese">日元在回升。</span><span class="english">The yen is turning up.</span></p>
 
 <p><span class="chinese">我正在变成爷爷吗？</span><span class="english">Am I turning into Grampa?</span></p>

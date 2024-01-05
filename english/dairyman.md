@@ -1,5 +1,7 @@
 # dairyman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dairyman.md)
+
 <p><span class="chinese">李英不想再继续他的乳牛场主生涯。</span><span class="english">Marchy doesn't plan to resume the life of a dairyman.</span></p>
 
 <p><span class="chinese">星期二早上，杰克去为一名乳牛场主干活。</span><span class="english">On Tuesday morning Jack went and hired himself to a dairyman.</span></p>

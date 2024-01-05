@@ -1,5 +1,7 @@
 # 三相
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanxiang.md)
+
 <p><span class="chinese">三相感应马达“，”</span><span class="english">Three Phase Induction Motor.</span></p>
 
 <p><span class="chinese">比如三相点。</span><span class="english">For instance the triple point.</span></p>

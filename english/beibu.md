@@ -1,5 +1,7 @@
 # beibu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beibu.md)
+
 <p><span class="chinese">北部湾盆地在中始新世至早渐新世是一个湖泊。</span><span class="english">Beibu Wan Basin was a lake in the middle Eocence-Lower Oligocene.</span></p>
 
 <p><span class="chinese">环北部湾是中国—东盟共同的“发展极”。</span><span class="english">The Beibu Gulf Rim is the common "development pole" of China-ASEAN.</span></p>

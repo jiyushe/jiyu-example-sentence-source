@@ -1,5 +1,7 @@
 # 切切实实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qieqieshishi.md)
+
 <p><span class="chinese">我们坚信要让每个人都切切实实感受到“美国梦”的存在。</span><span class="english">We believed in keeping the American dream alive for all people.</span></p>
 
 <p><span class="chinese">这样在你临终的时候你才能说你切切实实地经历过。</span><span class="english">At the end of the day you have the final say on how you experience reality.</span></p>

@@ -1,5 +1,7 @@
 # bestowal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bestowal.md)
+
 <p><span class="chinese">其中很大一部分是在讨论评价和赋予。</span><span class="english">A lot of it deals with appraisal and bestowal.</span></p>
 
 <p><span class="chinese">他认为赋予可以被简化为评价。</span><span class="english">He thought bestowal could be reduced to appraisal.</span></p>

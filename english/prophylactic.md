@@ -1,5 +1,7 @@
 # prophylactic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prophylactic.md)
+
 <p><span class="chinese">有利于预防性治疗的因素包括</span><span class="english">Factors in favor of prophylactic treatment</span></p>
 
 <p><span class="chinese">常服紧急避孕药有没有负作用？</span><span class="english">Does urgent prophylactic lose mufti action?</span></p>

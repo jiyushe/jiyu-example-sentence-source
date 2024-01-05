@@ -1,5 +1,7 @@
 # concoct
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concoct.md)
+
 <p><span class="chinese">为什么会戴姆勒和丰田捏造这样的一个联盟?。</span><span class="english">Why would Daimler and Toyota concoct such an alliance?</span></p>
 
 <p><span class="chinese">弗朗西斯因帮助他捏造不在犯罪现场的证据而被起诉。</span><span class="english">Francis is accused of having helped him to concoct a false alibi.</span></p>

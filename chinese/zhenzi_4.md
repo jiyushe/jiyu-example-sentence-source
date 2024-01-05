@@ -1,5 +1,7 @@
 # 阵子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenzi_4.md)
+
 <p><span class="chinese">虽已入秋，但前阵子依旧酷日炎炎。</span><span class="english">It's autumn, but recently still cool, hot.</span></p>
 
 <p><span class="chinese">前阵子忙碌没时间更新部落格，接下来会常更新。</span><span class="english">Will update the blog more often from now on.</span></p>

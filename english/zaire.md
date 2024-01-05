@@ -1,5 +1,7 @@
 # zaire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zaire.md)
+
 <p><span class="chinese">基特韦赞比亚中北部靠近扎伊尔边境的城市。</span><span class="english">A city of north-central Zambia near the Zaire border.</span></p>
 
 <p><span class="chinese">埃博拉扎伊尔病毒杀夺取百分之九十的受感染者的生命。</span><span class="english">Ebola Zaire virus kills 90 per cent of the people it infects.</span></p>

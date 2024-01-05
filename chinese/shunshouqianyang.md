@@ -1,5 +1,7 @@
 # 顺手牵羊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shunshouqianyang.md)
+
 <p><span class="chinese">他顺手牵羊带走了一台电脑。</span><span class="english">He made off with a computer.</span></p>
 
 <p><span class="chinese">千万不要再在商店顺手牵羊了。</span><span class="english">Don't you ever shoplift again!</span></p>

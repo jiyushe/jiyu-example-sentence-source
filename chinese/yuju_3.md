@@ -1,5 +1,7 @@
 # 鱼具
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuju_3.md)
+
 <p><span class="chinese">我公司主要生产阀门汽配海钓鱼具。</span><span class="english">My company mainly produces auto parts sea fishing with valves.</span></p>
 
 <p><span class="chinese">本实用新型属于钩鱼鱼具。</span><span class="english">The utility model belongs to a fishing tool for hooking fishes.</span></p>

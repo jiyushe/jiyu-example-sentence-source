@@ -1,5 +1,7 @@
 # toxicant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toxicant.md)
+
 <p><span class="chinese">可消除无机和有机污染物、有毒物。</span><span class="english">Can dispel inorganic and organic pollutants, as well as toxicant.</span></p>
 
 <p><span class="chinese">但是将等离子体技术用于降解废水中有机有毒物质的研究才刚刚起步。</span><span class="english">But it recently start that plasma induced degradation of organic toxicant of wastewater.</span></p>

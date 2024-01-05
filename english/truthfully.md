@@ -1,5 +1,7 @@
 # truthfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/truthfully.md)
+
 <p><span class="chinese">真的？那妳猜得到我脑海里浮现的景象吗？</span><span class="english">Truthfully? Do you know what comes to my mind?</span></p>
 
 <p><span class="chinese">事实上你可能不再想回到家中了。</span><span class="english">Truthfully you may not ever want to go back home.</span></p>

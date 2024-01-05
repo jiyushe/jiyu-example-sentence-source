@@ -1,5 +1,7 @@
 # 大号
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dahao.md)
+
 <p><span class="chinese">这本书是用大号铅字印的。</span><span class="english">The book was in large print.</span></p>
 
 <p><span class="chinese">请给我一个大号摩卡咖啡。</span><span class="english">Please give me a large Mocha.</span></p>

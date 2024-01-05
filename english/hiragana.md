@@ -1,5 +1,7 @@
 # hiragana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hiragana.md)
+
 <p><span class="chinese">首先，请学习平假名和片假名。</span><span class="english">First, please study Hiragana and Katakana.</span></p>
 
 <p><span class="chinese">抱歉我用平假名，我从没学过日文汉字。</span><span class="english">Sorry I use hiragana. I never study kanji.</span></p>

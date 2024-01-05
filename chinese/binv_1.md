@@ -1,5 +1,7 @@
 # 鼻衄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/binv_1.md)
+
 <p><span class="chinese">鼻衄就是鼻孔流血的结果。</span><span class="english">A nosebleed is an issue of blood from the nose.</span></p>
 
 <p><span class="chinese">迟发，反复发生的严重鼻衄为其主要临床特征。</span><span class="english">Delayed and repeated epistaxis was its most common clinical feature.</span></p>

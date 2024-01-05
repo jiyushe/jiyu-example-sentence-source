@@ -1,5 +1,7 @@
 # interlace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interlace.md)
+
 <p><span class="chinese">搓或纺织在一起，使交织。</span><span class="english">Twist or braid together interlace.</span></p>
 
 <p><span class="chinese">手指交叉握住双脚。</span><span class="english">Interlace your fingers and hold your feet.</span></p>

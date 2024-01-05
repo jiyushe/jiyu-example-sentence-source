@@ -1,5 +1,7 @@
 # ops
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ops.md)
+
 <p><span class="chinese">外勤兵提供重型火力支援。</span><span class="english">Field Ops provides more heavy fire power support.</span></p>
 
 <p><span class="chinese">与营运部及公司其它部门保持良好的沟通。</span><span class="english">Keep in good communication with Ops and other dept.</span></p>

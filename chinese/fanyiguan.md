@@ -1,5 +1,7 @@
 # 翻译官
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanyiguan.md)
+
 <p><span class="chinese">国家翻译官拿多少钱呢?。</span><span class="english">National translator how much money do?</span></p>
 
 <p><span class="chinese">翻译官策马走向人群。</span><span class="english">An interpreter approached the group of gazers.</span></p>

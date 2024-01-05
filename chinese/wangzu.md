@@ -1,5 +1,7 @@
 # 望族
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangzu.md)
+
 <p><span class="chinese">她出生于名门望族。</span><span class="english">She comes from a famous family.</span></p>
 
 <p><span class="chinese">她出身于名门望族。</span><span class="english">She comes from a well-known family.</span></p>

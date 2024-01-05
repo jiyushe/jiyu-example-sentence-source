@@ -1,5 +1,7 @@
 # 垂体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuiti.md)
+
 <p><span class="chinese">垂体瘤的治疗？</span><span class="english">The cure of hypophysis tumour?</span></p>
 
 <p><span class="chinese">冬季神经垂体几乎没有变化。</span><span class="english">In winter, neurohypophysis had no changes.</span></p>

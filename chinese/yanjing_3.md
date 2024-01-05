@@ -1,5 +1,7 @@
 # 眼镜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanjing_3.md)
+
 <p><span class="chinese">你真该戴一副眼镜！</span><span class="english">You need glasses!</span></p>
 
 <p><span class="chinese">我“跌破眼镜”。</span><span class="english">"I" below glasses.</span></p>

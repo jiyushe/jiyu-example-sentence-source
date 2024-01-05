@@ -1,5 +1,7 @@
 # 杆子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganzi.md)
+
 <p><span class="chinese">,哦，对不起，是杆子。</span><span class="english">Oh, sorry, the rod.</span></p>
 
 <p><span class="chinese">这里有一个杆子。</span><span class="english">We have the rod here.</span></p>

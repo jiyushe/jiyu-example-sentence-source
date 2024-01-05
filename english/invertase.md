@@ -1,5 +1,7 @@
 # invertase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invertase.md)
+
 <p><span class="chinese">在某些实施方式中，培养基也含有转化酶。</span><span class="english">In certain embodiments the media also contain an invertase.</span></p>
 
 <p><span class="chinese">蔗糖转化酶在高等植物蔗糖代谢中起著关键的作用。</span><span class="english">Invertase plays an important role during the sucrose metabolism in higher plant.</span></p>

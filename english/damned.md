@@ -1,5 +1,7 @@
 # damned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/damned.md)
+
 <p><span class="chinese">她的灵魂堕入地狱。</span><span class="english">Her soul was damned.</span></p>
 
 <p><span class="chinese">这是那些被诅咒的人</span><span class="english">These are the damned.</span></p>

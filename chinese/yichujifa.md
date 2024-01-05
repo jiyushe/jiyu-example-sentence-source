@@ -1,5 +1,7 @@
 # 一触即发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yichujifa.md)
+
 <p><span class="chinese">一触即发的新一轮贸易战。</span><span class="english">The prospect of a new trade war.</span></p>
 
 <p><span class="chinese">武装冲突有一触即发之势。</span><span class="english">Armed conflict may break out at any moment.</span></p>

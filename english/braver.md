@@ -1,5 +1,7 @@
 # braver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/braver.md)
+
 <p><span class="chinese">我曾经遇到过比我勇敢得多的人。</span><span class="english">I have met people who were so much braver.</span></p>
 
 <p><span class="chinese">你比我想象当中的要勇敢得多。</span><span class="english">You are much braver than I gave you credit for.</span></p>

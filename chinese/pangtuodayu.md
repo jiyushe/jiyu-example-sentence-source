@@ -1,5 +1,7 @@
 # 滂沱大雨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pangtuodayu.md)
+
 <p><span class="chinese">下了一整天滂沱大雨。</span><span class="english">Ihe rain poured down all day.</span></p>
 
 <p><span class="chinese">滂沱大雨迫使我们绕道而行。</span><span class="english">The heavy rain made us stray.</span></p>

@@ -1,5 +1,7 @@
 # deviate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deviate.md)
+
 <p><span class="chinese">有皮带走偏报警装置。</span><span class="english">Deviate a belt warning devices.</span></p>
 
 <p><span class="chinese">谁有偏差的可能性</span><span class="english">Who has an incentive to deviate?</span></p>

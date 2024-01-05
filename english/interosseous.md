@@ -1,5 +1,7 @@
 # interosseous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interosseous.md)
+
 <p><span class="chinese">II度胫腓前韧带和骨间膜断裂。</span><span class="english">Stage II. Rupture of anterior tibiofibular ligament and interosseous ligament.</span></p>
 
 <p><span class="chinese">水平面对于显示距跟骨间韧带效果不佳。</span><span class="english">In transverse section, the interosseous talocalcaneal ligament can not be displayed clearly.</span></p>

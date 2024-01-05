@@ -1,5 +1,7 @@
 # surroundings
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surroundings.md)
+
 <p><span class="chinese">你是我的环境。</span><span class="english">You are my surroundings.</span></p>
 
 <p><span class="chinese">周边环境怎么样啊？</span><span class="english">How bout the surroundings?</span></p>

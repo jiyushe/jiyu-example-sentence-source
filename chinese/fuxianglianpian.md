@@ -1,5 +1,7 @@
 # 浮想联翩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuxianglianpian.md)
+
 <p><span class="chinese">这一发现令我浮想联翩。</span><span class="english">This discovery intrigued me.</span></p>
 
 <p><span class="chinese">自助美黑还在让你浮想联翩？</span><span class="english">Do self tanners keep you guessing?</span></p>

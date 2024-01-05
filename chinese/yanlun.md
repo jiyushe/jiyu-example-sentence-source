@@ -1,5 +1,7 @@
 # 言论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanlun.md)
+
 <p><span class="chinese">这种言论我以前听过。</span><span class="english">I had heard this before.</span></p>
 
 <p><span class="chinese">至少可以说这种言论太偏激了。</span><span class="english">Extreme to say the least.</span></p>

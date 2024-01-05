@@ -1,5 +1,7 @@
 # 太子参
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taizican.md)
+
 <p><span class="chinese">其中以安徽宣州太子参改善小鼠脾虚症状效果最好。</span><span class="english">Radix Pseudostellariae from Xuanzhou was most effective on spleen-deficiency mice.</span></p>
 
 <p><span class="chinese">目的分析比较不同产地太子参的质量。</span><span class="english">Objective To compare the quality of Radix Pseudostellariae from different growing area.</span></p>

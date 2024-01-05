@@ -1,5 +1,7 @@
 # 姥爷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laoye.md)
+
 <p><span class="chinese">来，你给姥爷表演表演。</span><span class="english">Come on, show your great-grandpa.</span></p>
 
 <p><span class="chinese">最想姥爷的人就是大树了。</span><span class="english">Dashu is the one who misses him the most.</span></p>

@@ -1,5 +1,7 @@
 # too 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/too_1.md)
+
 <p><span class="chinese">酷毙了！</span><span class="english">Too cool.</span></p>
 
 <p><span class="chinese">对啊，我也是。</span><span class="english">Yeah, me too.</span></p>

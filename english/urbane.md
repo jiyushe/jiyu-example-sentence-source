@@ -1,5 +1,7 @@
 # urbane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/urbane.md)
+
 <p><span class="chinese">尽管处于危机之中，董事长的声音还象通常一样温文尔雅。</span><span class="english">Despite the crisis the chairman's voice was urbane as usual.</span></p>
 
 <p><span class="chinese">年轻人应该在举止及言谈上学习彬彬有礼。</span><span class="english">Young people should learn to be urbane in department and speech.</span></p>

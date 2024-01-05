@@ -1,5 +1,7 @@
 # 醋酸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cusuan.md)
+
 <p><span class="chinese">而当酒贮放年限太久也会衰退而有醋酸味。</span><span class="english">A wine that is too old may also be vinegary.</span></p>
 
 <p><span class="chinese">并能减少醋酸致痛小鼠的扭体次数。</span><span class="english">The mice showed less writhes of abdominal cavity.</span></p>

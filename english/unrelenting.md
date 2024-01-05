@@ -1,5 +1,7 @@
 # unrelenting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unrelenting.md)
+
 <p><span class="chinese">但是，暴风雪没有松懈下来的迹象。</span><span class="english">But the storm was unrelenting.</span></p>
 
 <p><span class="chinese">无尽的黑暗则是妨碍深海探索的另一大障碍，因为阳光只能穿透几百米深的海水。</span><span class="english">Unrelenting darkness is another barrier to exploring the deep.</span></p>

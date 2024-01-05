@@ -1,5 +1,7 @@
 # 痛苦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongku_1.md)
+
 <p><span class="chinese">悲伤和痛苦。</span><span class="english">Sadness and pain.</span></p>
 
 <p><span class="chinese">生命只使他痛苦。</span><span class="english">He ached with life.</span></p>

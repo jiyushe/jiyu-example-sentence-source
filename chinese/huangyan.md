@@ -1,5 +1,7 @@
 # 谎言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huangyan.md)
+
 <p><span class="chinese">谎言，全是谎言。</span><span class="english">A lie, all lies.</span></p>
 
 <p><span class="chinese">那些都是谎言。</span><span class="english">These are all lies.</span></p>

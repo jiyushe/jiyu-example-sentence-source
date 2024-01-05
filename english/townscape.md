@@ -1,5 +1,7 @@
 # townscape
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/townscape.md)
+
 <p><span class="chinese">城市景观是一种文化现象，是人们内在精神需求的外在反映。</span><span class="english">Townscape is a cultural phenomenon and a reflection of human spiritual demanding.</span></p>
 
 <p><span class="chinese">19世纪70年代，一个新的关注是建筑中现有的城镇风景被唤起。</span><span class="english">By the 1970s, a new respect for the place of buildings within the existing townscape arose.</span></p>

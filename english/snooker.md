@@ -1,5 +1,7 @@
 # snooker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snooker.md)
+
 <p><span class="chinese">斯诺克需要新观众。</span><span class="english">Snooker needs a new audience.</span></p>
 
 <p><span class="chinese">斯诺克在中国是个大型的运动。</span><span class="english">Snooker is a big sport in China.</span></p>

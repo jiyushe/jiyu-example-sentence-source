@@ -1,5 +1,7 @@
 # 死胡同
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sihutong.md)
+
 <p><span class="chinese">作为一个死胡同青年成员。</span><span class="english">As a member of the dead-end youth.</span></p>
 
 <p><span class="chinese">不要开进去，这是个死胡同。</span><span class="english">Don't drive in. This is a dead end.</span></p>

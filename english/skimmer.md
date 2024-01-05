@@ -1,5 +1,7 @@
 # skimmer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skimmer.md)
+
 <p><span class="chinese">浏览窗则试图从另一个角度来呈现在线新闻。</span><span class="english">The Skimmer takes another approach to presenting news online.</span></p>
 
 <p><span class="chinese">像剪丝绸一样，这只黑剪嘴鸥寻找午餐。</span><span class="english">Like cutting silk, this black skimmer looks for something for lunch.</span></p>

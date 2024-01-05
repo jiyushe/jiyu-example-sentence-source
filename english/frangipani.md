@@ -1,5 +1,7 @@
 # frangipani
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frangipani.md)
+
 <p><span class="chinese">是一家非常具有现代气息的酒吧。</span><span class="english">Frangipani Bar &café is full of modern tinge.</span></p>
 
 <p><span class="chinese">难道他只会成天躺在那里闻岛上的鸡蛋花香吗？</span><span class="english">But did he just lie back and smell the frangipani ?</span></p>

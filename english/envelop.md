@@ -1,5 +1,7 @@
 # envelop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/envelop.md)
+
 <p><span class="chinese">把一张邮票贴在信封上。</span><span class="english">Stick a stamp on the envelop.</span></p>
 
 <p><span class="chinese">你能给我一个回邮信封吗？</span><span class="english">Can you give me a return envelop?</span></p>

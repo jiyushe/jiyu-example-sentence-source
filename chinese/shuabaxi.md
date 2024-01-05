@@ -1,5 +1,7 @@
 # 耍把戏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuabaxi.md)
+
 <p><span class="chinese">别跟我耍把戏。</span><span class="english">Don't get funny with me.</span></p>
 
 <p><span class="chinese">她耍把戏逗我笑。</span><span class="english">She amused me by tricks.</span></p>

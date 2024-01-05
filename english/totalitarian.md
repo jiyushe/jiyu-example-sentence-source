@@ -1,5 +1,7 @@
 # totalitarian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/totalitarian.md)
+
 <p><span class="chinese">极权主义者更加病态，更难让他下台。</span><span class="english">The totalitarian ones are both sicker and harder to dislodge.</span></p>
 
 <p><span class="chinese">几乎所有的政府在战时都采取极权主义的措施。</span><span class="english">Almost all government adopt totalitarian measures in time of war.</span></p>

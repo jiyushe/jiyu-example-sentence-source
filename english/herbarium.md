@@ -1,5 +1,7 @@
 # herbarium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/herbarium.md)
+
 <p><span class="chinese">我喜欢参观植物标本馆。</span><span class="english">I like to visit the Plants Herbarium.</span></p>
 
 <p><span class="chinese">腊叶标本中微小种子表面的污染物会影响对其表面特征的观察。</span><span class="english">Seed surface is unclearly observed of contaminated small seeds collected from herbarium specimens.</span></p>

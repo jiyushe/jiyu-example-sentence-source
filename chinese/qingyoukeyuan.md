@@ -1,5 +1,7 @@
 # 情有可原
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingyoukeyuan.md)
+
 <p><span class="chinese">虽然这种反抗情有可原。</span><span class="english">The resistance is completely understandable.</span></p>
 
 <p><span class="chinese">当然，这也是情有可原的。</span><span class="english">Of course there were extenuating circumstances.</span></p>

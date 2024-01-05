@@ -1,5 +1,7 @@
 # 垂涎欲滴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuixianyudi.md)
+
 <p><span class="chinese">所有人都垂涎欲滴。</span><span class="english">They all but drooled over it.</span></p>
 
 <p><span class="chinese">甜食菜单馋得我垂涎欲滴.</span><span class="english">I was tempted by the dessert menu.</span></p>

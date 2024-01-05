@@ -1,5 +1,7 @@
 # zeolite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zeolite.md)
+
 <p><span class="chinese">对USY分子筛进行HF改性实验。</span><span class="english">USY zeolite was modified by HF.</span></p>
 
 <p><span class="chinese">产物中有类沸石生成。</span><span class="english">The product is propinquity zeolite.</span></p>

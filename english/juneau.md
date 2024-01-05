@@ -1,5 +1,7 @@
 # juneau
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/juneau.md)
+
 <p><span class="chinese">狗雪橇营安置在阿拉斯加的朱诺冰川的顶上。</span><span class="english">Dog Sled Camp atop Juneau Glacier in Alaska.</span></p>
 
 <p><span class="chinese">朱诺为其州府，安克雷奇是最大城市。</span><span class="english">Juneau is the capital and Anchorage the largest city.</span></p>

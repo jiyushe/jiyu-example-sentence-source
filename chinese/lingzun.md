@@ -1,5 +1,7 @@
 # 令尊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingzun.md)
+
 <p><span class="chinese">令尊是做什么的？</span><span class="english">And what does your father do?</span></p>
 
 <p><span class="chinese">令尊是我的朋友。</span><span class="english">Your august father is my friend.</span></p>

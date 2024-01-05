@@ -1,5 +1,7 @@
 # 贪婪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanlan.md)
+
 <p><span class="chinese">他像猪一样贪婪。</span><span class="english">He is greedy like a hog.</span></p>
 
 <p><span class="chinese">这头老虎怎么这么贪婪？</span><span class="english">This tiger how so greedy?</span></p>

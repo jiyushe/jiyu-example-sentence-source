@@ -1,5 +1,7 @@
 # 不依不饶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buyiburao.md)
+
 <p><span class="chinese">你能让你爸爸别对我不依不饶么？</span><span class="english">Won't you tell your dad get off my back?</span></p>
 
 <p><span class="chinese">算上下一个礼物，我将对她不依不饶的要更多的礼物。</span><span class="english">Besides the next gift, I will importunate her for more.</span></p>

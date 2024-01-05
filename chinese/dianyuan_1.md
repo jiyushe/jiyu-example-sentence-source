@@ -1,5 +1,7 @@
 # 电源
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dianyuan_1.md)
+
 <p><span class="chinese">按摩器电源。</span><span class="english">Massage Power.</span></p>
 
 <p><span class="chinese">不间断电源室。</span><span class="english">No-break power room.</span></p>

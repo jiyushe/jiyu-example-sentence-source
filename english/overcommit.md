@@ -1,5 +1,7 @@
 # overcommit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overcommit.md)
+
 <p><span class="chinese">真正实际的解决办法是惩罚严防死守姚明的球队。</span><span class="english">The real solution is to punish teams that overcommit to stopping Yao.</span></p>
 
 <p><span class="chinese">由于线程池过载而拒绝的请求数。</span><span class="english">The number of requests rejected because the thread pool was overcommit ted.</span></p>

@@ -1,5 +1,7 @@
 # 万劫不复
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanjiebufu.md)
+
 <p><span class="chinese">看真理闪躲，万劫不复。</span><span class="english">See skulking Truth to her old cavern fled.</span></p>
 
 <p><span class="chinese">大约六个月后，它开始了万劫不复的下坠。</span><span class="english">Around six months later it started a perpetualdecline.</span></p>

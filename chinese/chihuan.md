@@ -1,5 +1,7 @@
 # 弛缓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chihuan.md)
+
 <p><span class="chinese">停止张力纱弛缓张力。</span><span class="english">Stop tension yarn relaxation tension.</span></p>
 
 <p><span class="chinese">我已经失弛缓症，因为我是7岁。</span><span class="english">I have had achalasia since I was 7 years old.</span></p>

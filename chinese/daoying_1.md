@@ -1,5 +1,7 @@
 # 倒映
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daoying_1.md)
+
 <p><span class="chinese">舞动倒映水中彩霞。</span><span class="english">Choi Ha dance reflecting the water.</span></p>
 
 <p><span class="chinese">垂柳的影子倒映在湖面上。</span><span class="english">The willow's shadow falls on the lake.</span></p>

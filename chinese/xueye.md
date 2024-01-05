@@ -1,5 +1,7 @@
 # 学业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueye.md)
+
 <p><span class="chinese">所以我下定决心重拾学业。</span><span class="english">so I decided to come back.</span></p>
 
 <p><span class="chinese">决不要抛弃你的学业。</span><span class="english">Never fling up your studies.</span></p>

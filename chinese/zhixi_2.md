@@ -1,5 +1,7 @@
 # 知悉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhixi_2.md)
+
 <p><span class="chinese">他否认知悉他们的计划。</span><span class="english">He denied knowing anything about their plans.</span></p>
 
 <p><span class="chinese">让公众知悉我们的研究进展对他们是有好处的。</span><span class="english">It’s good for the public to know how little we know.</span></p>

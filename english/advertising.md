@@ -1,5 +1,7 @@
 # advertising 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/advertising.md)
+
 <p><span class="chinese">任何内容都是广告。</span><span class="english">Any content is advertising.</span></p>
 
 <p><span class="chinese">它都在广告某种事物。</span><span class="english">It's advertising something.</span></p>

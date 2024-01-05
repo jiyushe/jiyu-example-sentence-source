@@ -1,5 +1,7 @@
 # frost
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frost.md)
+
 <p><span class="chinese">霜于沙凝结。</span><span class="english">Frost binds sand.</span></p>
 
 <p><span class="chinese">安妮在冰雪节的造型。</span><span class="english">Annie at Jack Frost.</span></p>

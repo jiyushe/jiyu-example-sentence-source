@@ -1,5 +1,7 @@
 # flat 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flat.md)
+
 <p><span class="chinese">这啤酒走味了。</span><span class="english">The beer is flat.</span></p>
 
 <p><span class="chinese">车胎瘪了。</span><span class="english">The tyre is flat.</span></p>

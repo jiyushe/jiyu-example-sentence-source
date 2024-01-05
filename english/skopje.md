@@ -1,5 +1,7 @@
 # skopje
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skopje.md)
+
 <p><span class="chinese">汉盛总部在纽约，在华盛顿、亚特兰大，布拉格，斯科普里都设有办事处。</span><span class="english">We have offices in New York, Washington D. C. , Atlanta, Prague, Skopje.</span></p>
 
 <p><span class="chinese">最后，开始出现在屏幕上斯科普里现在开始登机的航班。</span><span class="english">Finally, starting to show on the screen to Skopje now begin boarding the flight.</span></p>

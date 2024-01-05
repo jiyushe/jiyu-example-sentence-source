@@ -1,5 +1,7 @@
 # paronychia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paronychia.md)
+
 <p><span class="chinese">不愈合的溃疡性甲沟炎。</span><span class="english">Non-healing ulcerative paronychia.</span></p>
 
 <p><span class="chinese">急性和慢性甲沟炎的手。</span><span class="english">Acute and chronic paronychia of the hand.</span></p>

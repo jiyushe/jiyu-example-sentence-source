@@ -1,5 +1,7 @@
 # prank
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prank.md)
+
 <p><span class="chinese">一幢幢的房子傲然矗立在一度只是破败陋室的地方。</span><span class="english">White houses prank where once were huts.</span></p>
 
 <p><span class="chinese">全世界都没察觉这场胡闹。</span><span class="english">The prank went undetected around the world.</span></p>

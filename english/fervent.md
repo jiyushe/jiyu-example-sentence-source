@@ -1,5 +1,7 @@
 # fervent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fervent.md)
+
 <p><span class="chinese">身为一名卫理公会教徒，他是禁欲的热情拥护者。</span><span class="english">As a methodist he was a fervent advocate of temperance.</span></p>
 
 <p><span class="chinese">当天晚上，罗米拉尤的祷告比以往更加虔诚。</span><span class="english">That night Romilayu's praying was more fervent than ever.</span></p>

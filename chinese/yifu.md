@@ -1,5 +1,7 @@
 # 义父
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yifu.md)
+
 <p><span class="chinese">他的义父两年前去世了。</span><span class="english">His adoptive father died 2 years ago.</span></p>
 
 <p><span class="chinese">义父义父对我比对自己的亲生儿子还要好。</span><span class="english">My adoptive father is nicer to me than to his own son.</span></p>

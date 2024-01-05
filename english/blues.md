@@ -1,5 +1,7 @@
 # blues
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blues.md)
+
 <p><span class="chinese">吃走你的忧郁。</span><span class="english">Eat away your blues.</span></p>
 
 <p><span class="chinese">这就是一个布鲁斯歌者。</span><span class="english">That makes a blues man.</span></p>

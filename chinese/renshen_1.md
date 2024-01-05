@@ -1,5 +1,7 @@
 # 人身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renshen_1.md)
+
 <p><span class="chinese">同时也有人身攻击。</span><span class="english">There were also personal attacks.</span></p>
 
 <p><span class="chinese">这封信有多少涉及人身隐私？</span><span class="english">Just how personal should this letter be?</span></p>

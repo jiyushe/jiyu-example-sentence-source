@@ -1,5 +1,7 @@
 # approximately
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/approximately.md)
+
 <p><span class="chinese">怀孕期约为22个月。</span><span class="english">Gestation is approximately 22 months.</span></p>
 
 <p><span class="chinese">它的长度大约是4180英里。</span><span class="english">Its length is approximately is 4180 miles.</span></p>

@@ -1,5 +1,7 @@
 # 大都会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daduhui.md)
+
 <p><span class="chinese">茫茫大都会不了寂寞情。</span><span class="english">A great city a great loneliness.</span></p>
 
 <p><span class="chinese">然后在大都会去度周末。</span><span class="english">Followed by a weekend at the Metropole.</span></p>

@@ -1,5 +1,7 @@
 # 申雪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenxue.md)
+
 <p><span class="chinese">当然是申雪和赵宏博了，他们之间的配合简直是太默契了。</span><span class="english">Shen Xue and Zhao Hongbo, of course. They skate in perfect unison.</span></p>
 
 <p><span class="chinese">而申雪和赵宏博，在跳接时却没有遇上同样的困难。</span><span class="english">Shen and Zhao, though, did not have the same difficulty finding each other.</span></p>

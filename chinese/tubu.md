@@ -1,5 +1,7 @@
 # 土布
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tubu.md)
+
 <p><span class="chinese">土布是一种织得粗糙的布。</span><span class="english">Homespun is a cloth of coarse weave.</span></p>
 
 <p><span class="chinese">拉祜西妇女头缠黑色土布头巾，身穿无领对襟短衫。</span><span class="english">Lahu women in the West Touchan Tubu black turban, wearing a collarless shirt Duijin.</span></p>

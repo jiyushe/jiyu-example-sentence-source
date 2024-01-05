@@ -1,5 +1,7 @@
 # 落成
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luocheng_1.md)
+
 <p><span class="chinese">它将于五年内落成。</span><span class="english">It will be completed in five years.</span></p>
 
 <p><span class="chinese">新教学楼落成。</span><span class="english">The new teaching building is completive.</span></p>

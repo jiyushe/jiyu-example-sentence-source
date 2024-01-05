@@ -1,5 +1,7 @@
 # 通才
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongcai.md)
+
 <p><span class="chinese">创业家必须要成为通才。</span><span class="english">Entrepreneurs have to be generalists.</span></p>
 
 <p><span class="chinese">我喜欢成为通才的这种观念。</span><span class="english">I love the idea of being a generalist.</span></p>

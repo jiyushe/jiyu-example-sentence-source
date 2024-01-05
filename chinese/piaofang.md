@@ -1,5 +1,7 @@
 # 票房
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaofang.md)
+
 <p><span class="chinese">不，因为电影没有票房。</span><span class="english">No, because they won't make money.</span></p>
 
 <p><span class="chinese">所以被称为“票房毒药”。</span><span class="english">So it was called "box office flop".</span></p>

@@ -1,5 +1,7 @@
 # cyclization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cyclization.md)
+
 <p><span class="chinese">遇到稀碱就容易环化。</span><span class="english">Cyclization occurs readily with dilute alkali.</span></p>
 
 <p><span class="chinese">提出了可能的环化反应机理。</span><span class="english">A possible mechanism for the cyclization reaction was suggested.</span></p>

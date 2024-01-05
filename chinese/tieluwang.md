@@ -1,5 +1,7 @@
 # 铁路网
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tieluwang.md)
+
 <p><span class="chinese">甚至在撞车之前，铁路网也一直受故障的困扰。</span><span class="english">Yet even before the crash, the network was plagued by breakdowns.</span></p>
 
 <p><span class="chinese">即使没有铁路网，东南亚地区也将彼此联系起来。</span><span class="english">Even without a railway network, the region is tying itself together.</span></p>

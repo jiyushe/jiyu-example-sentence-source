@@ -1,5 +1,7 @@
 # 襄理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangli_3.md)
+
 <p><span class="chinese">你生病，我襄理？</span><span class="english">You sick- me help?</span></p>
 
 <p><span class="chinese">请你襄理开个门好吗？</span><span class="english">Would you pleottom open the door for me?</span></p>

@@ -1,5 +1,7 @@
 # 取水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qushui.md)
+
 <p><span class="chinese">斗式排沙装置是该取水头部的关键组成部分。</span><span class="english">Bucket sand drainage installation is its key part.</span></p>
 
 <p><span class="chinese">人们用手掘井取水，却每每挖到顽石。</span><span class="english">People are digging wells by hand, but they hit rock.</span></p>

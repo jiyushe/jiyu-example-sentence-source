@@ -1,5 +1,7 @@
 # magnesian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magnesian.md)
+
 <p><span class="chinese">研究表明，镁摄入量正常可以减少心脏病，降低血压。</span><span class="english">Consider to make clear, magnesian intake can reduce heart disease normally, reduce blood pressure.</span></p>
 
 <p><span class="chinese">辽东硼矿床赋存于辽东古元古代的镁质火山-沉积地层中。</span><span class="english">The boron deposits in eastern Liaoning Province occur in the Paleoproterozoic magnesian volcanic-sedimentary strata.</span></p>

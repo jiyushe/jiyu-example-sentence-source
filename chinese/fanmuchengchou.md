@@ -1,5 +1,7 @@
 # 反目成仇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanmuchengchou.md)
+
 <p><span class="chinese">我不想与你反目成仇。</span><span class="english">I don't want to turn against you.</span></p>
 
 <p><span class="chinese">同胞兄弟反目成仇。</span><span class="english">Sibling rivalry turned into betrayal between two brothers.</span></p>

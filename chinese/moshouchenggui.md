@@ -1,5 +1,7 @@
 # 墨守成规
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moshouchenggui.md)
+
 <p><span class="chinese">特德真是个墨守成规的人。</span><span class="english">Ted is a real stick- in- the- mud.</span></p>
 
 <p><span class="chinese">有些项目就是墨守成规、总是跳不出来。</span><span class="english">Some projects just fall into a rut and never get out.</span></p>

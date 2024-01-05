@@ -1,5 +1,7 @@
 # cloistered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cloistered.md)
+
 <p><span class="chinese">庭院四周围以回廊。</span><span class="english">The courtyard is cloistered.</span></p>
 
 <p><span class="chinese">他隐居于修道院中已三十余年。</span><span class="english">He has cloistered himself in a monastery for more than thirty years.</span></p>

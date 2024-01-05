@@ -1,5 +1,7 @@
 # 君子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junzi.md)
+
 <p><span class="chinese">君子斗数。</span><span class="english">The gentleman Dou counts.</span></p>
 
 <p><span class="chinese">君子坦荡荡。</span><span class="english">A gentleman is calm and poised.</span></p>

@@ -1,5 +1,7 @@
 # fearsome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fearsome.md)
+
 <p><span class="chinese">还有什么生物能比鲨鱼还令人胆战心惊的？</span><span class="english">Is there any creature more fearsome than the shark?</span></p>
 
 <p><span class="chinese">费特身着曼达洛式的可怕盔甲。</span><span class="english">Fett dresses in fearsome armor of Mandalorian design.</span></p>

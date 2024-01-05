@@ -1,5 +1,7 @@
 # 配子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peizi.md)
+
 <p><span class="chinese">动物的雄配子。</span><span class="english">In animals, a male gamete①.</span></p>
 
 <p><span class="chinese">“配子”指精子或卵子。</span><span class="english">"Gamete" means either a sperm or an egg.</span></p>

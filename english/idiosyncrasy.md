@@ -1,5 +1,7 @@
 # idiosyncrasy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/idiosyncrasy.md)
+
 <p><span class="chinese">反对全国性的政府权威，维护地方文化。</span><span class="english">Return to an appreciation of idiosyncrasy as against state regimentation.</span></p>
 
 <p><span class="chinese">人格是生物内在特质旳最高实现。</span><span class="english">Personality is the supreme realization of the innate idiosyncrasy of a living being.</span></p>

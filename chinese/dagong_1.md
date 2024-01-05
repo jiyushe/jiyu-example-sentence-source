@@ -1,5 +1,7 @@
 # 打工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dagong_1.md)
+
 <p><span class="chinese">在我的餐馆里打工如何？</span><span class="english">How about working in my restaurant?</span></p>
 
 <p><span class="chinese">为银行打工就一定是罪恶吗？</span><span class="english">Is working for a bank inherently evil?</span></p>

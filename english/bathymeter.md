@@ -1,5 +1,7 @@
 # bathymeter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bathymeter.md)
+
 <p><span class="chinese">为小型化多波束条带测深仪的进一步完善提供了良好的基础和有利的条件。</span><span class="english">It can used to improve and consummate the miniaturization of multi-beam swath bathymeter further.</span></p>
 
 <p><span class="chinese">本文的工作为浅水多波束条带测深仪进一步的研制工作打下了基础。</span><span class="english">The paper has laid the foundation for the further development of shallow multi-beam swath bathymeter in job.</span></p>

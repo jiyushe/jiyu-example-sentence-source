@@ -1,5 +1,7 @@
 # gervais
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gervais.md)
+
 <p><span class="chinese">但是，此次他作为电影明星登场，我准备好了吗？</span><span class="english">But was I ready for Ricky Gervais the movie star?</span></p>
 
 <p><span class="chinese">格维斯是个喜剧演员，演员兼制片人。以上仅代表他个人观点。</span><span class="english">Gervais is a comedian, actor and producer. The views expressed are his own.</span></p>

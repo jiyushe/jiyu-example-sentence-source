@@ -1,5 +1,7 @@
 # 邻国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linguo.md)
+
 <p><span class="chinese">瞧，邻国的国王与王后带着礼物来了！</span><span class="english">Look, here they come with presents.</span></p>
 
 <p><span class="chinese">库拉索面临着与强大的邻国发生摩擦的危险。</span><span class="english">Cura?ao risks friction with a mighty neighbour.</span></p>

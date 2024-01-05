@@ -1,5 +1,7 @@
 # 钻心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuanxin.md)
+
 <p><span class="chinese">我感到钻心的痛。</span><span class="english">My heart often pained me.</span></p>
 
 <p><span class="chinese">起初是钻心的疼痛，直到失去知觉为止。</span><span class="english">The pain was excruciating at first, until the arm went numb.</span></p>

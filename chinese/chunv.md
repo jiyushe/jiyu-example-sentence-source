@@ -1,5 +1,7 @@
 # 处女
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chunv.md)
+
 <p><span class="chinese">她当时是个处女。</span><span class="english">She was a virgin.</span></p>
 
 <p><span class="chinese">如果我死于处女之身？</span><span class="english">What if I Die a Virgin?</span></p>

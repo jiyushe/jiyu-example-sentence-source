@@ -1,5 +1,7 @@
 # 预祝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuzhu_1.md)
+
 <p><span class="chinese">预祝各位女同胞节日快乐！</span><span class="english">Wish you a nice holiday!</span></p>
 
 <p><span class="chinese">最后，预祝贵会有个成功的球季！</span><span class="english">All the best for the next season.</span></p>

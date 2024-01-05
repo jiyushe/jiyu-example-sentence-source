@@ -1,5 +1,7 @@
 # bloodless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bloodless.md)
+
 <p><span class="chinese">没有血色的嘴唇抖动着一下子抽搐起来。</span><span class="english">That bloodless lip quivered to a temporary spasm.</span></p>
 
 <p><span class="chinese">之后，基本上就是无痛、无血手术了。</span><span class="english">Afterthat it’s basically painless, bloodless surgery.</span></p>

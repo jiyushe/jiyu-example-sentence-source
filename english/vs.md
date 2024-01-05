@@ -1,5 +1,7 @@
 # vs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vs.md)
+
 <p><span class="chinese">超人对决蝙蝠侠？</span><span class="english">Supes Vs. The Bat?</span></p>
 
 <p><span class="chinese">虚拟存储体?。</span><span class="english">VS? Virtual Storage?</span></p>

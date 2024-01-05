@@ -1,5 +1,7 @@
 # shutoff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shutoff.md)
+
 <p><span class="chinese">在冷水进水管上安装一个关断阀。</span><span class="english">Install a shutoff valve in the cold water inlet.</span></p>
 
 <p><span class="chinese">关闭调节阀上游的关断阀。</span><span class="english">Close the shutoff valve upstream of the regulator.</span></p>

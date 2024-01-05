@@ -1,5 +1,7 @@
 # 直辖市
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhixiashi.md)
+
 <p><span class="chinese">直辖市下有自治机关吗?。</span><span class="english">Does Municipalities Have Self-government Organ?</span></p>
 
 <p><span class="chinese">天津是中国的四个直辖市之一。</span><span class="english">Tianjin is one of the four municipalities in China.</span></p>

@@ -1,5 +1,7 @@
 # 矢志不移
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizhibuyi.md)
+
 <p><span class="chinese">矢志不移地追求你的爱恋。</span><span class="english">Your love I do seek.</span></p>
 
 <p><span class="chinese">我愿与你共谱矢志不移的恋歌。</span><span class="english">I am willing to total spectrum lasting love song.</span></p>

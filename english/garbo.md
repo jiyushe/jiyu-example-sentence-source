@@ -1,5 +1,7 @@
 # garbo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/garbo.md)
+
 <p><span class="chinese">嘉宝到底有何神秘之处？</span><span class="english">What was the secret of Greta Garbo?</span></p>
 
 <p><span class="chinese">他的格里塔·格鲁伯的故事他妈的说的是什么?。</span><span class="english">What the fuck was his fucking Greta Garbo story about?</span></p>

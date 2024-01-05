@@ -1,5 +1,7 @@
 # sushi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sushi.md)
+
 <p><span class="chinese">我想要寿司。</span><span class="english">I want sushi.</span></p>
 
 <p><span class="chinese">你喜欢寿司吗？</span><span class="english">Do you like sushi?</span></p>

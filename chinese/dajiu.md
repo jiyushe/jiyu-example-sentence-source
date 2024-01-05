@@ -1,5 +1,7 @@
 # 搭救
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dajiu.md)
+
 <p><span class="chinese">她四处奔波，花钱打点从中搭救。</span><span class="english">She activity-they money to deliver rbis.</span></p>
 
 <p><span class="chinese">五天后，一条过路的油轮搭救了他们</span><span class="english">When a passing tanker rescued them five days later</span></p>

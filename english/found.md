@@ -1,5 +1,7 @@
 # found
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/found.md)
+
 <p><span class="chinese">诺亚方舟遗迹被发现了？</span><span class="english">Noah's Ark Found?</span></p>
 
 <p><span class="chinese">看，我发现了什么。</span><span class="english">Look what I found.</span></p>

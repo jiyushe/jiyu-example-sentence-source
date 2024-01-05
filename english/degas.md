@@ -1,5 +1,7 @@
 # degas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/degas.md)
+
 <p><span class="chinese">芭蕾舞团排演舞台上，由埃德加德加。</span><span class="english">Ballet Rehearsal on the Stage, by Edgar Degas.</span></p>
 
 <p><span class="chinese">摩里索和德加在同一个社交圈出入。</span><span class="english">Morisot and Degas moved in the same social circles.</span></p>

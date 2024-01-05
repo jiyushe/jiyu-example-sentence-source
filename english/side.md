@@ -1,5 +1,7 @@
 # side
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/side.md)
+
 <p><span class="chinese">边沟?。</span><span class="english">Side Ditch?</span></p>
 
 <p><span class="chinese">无副作用。</span><span class="english">No side effects.</span></p>

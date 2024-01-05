@@ -1,5 +1,7 @@
 # goodly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goodly.md)
+
 <p><span class="chinese">是给你的重礼。</span><span class="english">Are goodly gifts for thee.</span></p>
 
 <p><span class="chinese">是的，小王现在混的不好。</span><span class="english">Yes, the kinglet mixs not goodly now.</span></p>

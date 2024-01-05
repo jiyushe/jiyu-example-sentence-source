@@ -1,5 +1,7 @@
 # 节余
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieyu_2.md)
+
 <p><span class="chinese">请把我帐号上的节余金额告诉我好吗？</span><span class="english">Would you please tell me my balance?</span></p>
 
 <p><span class="chinese">我要把观光信用证的节余兑现。</span><span class="english">I want to cash the balance of a traveler's letter of credit.</span></p>

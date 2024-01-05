@@ -1,5 +1,7 @@
 # 梦寐以求
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mengmeiyiqiu.md)
+
 <p><span class="chinese">能够与你共事，是我梦寐以求的事情。</span><span class="english">You are a dream to work with.</span></p>
 
 <p><span class="chinese">哦，神圣的主啊，唯如你所愿乃我梦寐以求。</span><span class="english">Divine Master, grant that I might seek.</span></p>

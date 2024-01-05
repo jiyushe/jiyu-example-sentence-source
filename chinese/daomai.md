@@ -1,5 +1,7 @@
 # 倒卖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daomai.md)
+
 <p><span class="chinese">他在倒卖股票的生意中赚了一大笔。</span><span class="english">He earned a lot by scalping.</span></p>
 
 <p><span class="chinese">但苏联垮了之后，他返回故乡基辅，靠倒卖锰材发了横财，他是多伦多最有钱的俄罗斯移民之一。</span><span class="english">He was one of the richest Russian immigrants in Toronto.</span></p>

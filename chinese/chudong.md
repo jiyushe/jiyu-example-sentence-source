@@ -1,5 +1,7 @@
 # 出动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chudong.md)
+
 <p><span class="chinese">每回我下令出动。</span><span class="english">Every time I order out.</span></p>
 
 <p><span class="chinese">大盗伍佑卫门新时代出动！</span><span class="english">Goemon New Age Shutsudou!</span></p>

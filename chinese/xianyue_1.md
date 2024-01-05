@@ -1,5 +1,7 @@
 # 弦月
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianyue_1.md)
+
 <p><span class="chinese">在上层檐口之上是弦月窗。</span><span class="english">Above the upper cornice are situated the lunettes.</span></p>
 
 <p><span class="chinese">她望羞了星星，也忘羞了上弦月轻倚柳梢头。</span><span class="english">She looked ashamed ashamed stars, also forget the moon light leaning willow.</span></p>

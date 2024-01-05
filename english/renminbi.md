@@ -1,5 +1,7 @@
 # renminbi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/renminbi.md)
+
 <p><span class="chinese">中国的人民币采用的是十进币制。</span><span class="english">China's Renminbi has a decimal system.</span></p>
 
 <p><span class="chinese">既然这样，为什么人民币备受关注呢？</span><span class="english">Why, then, so much focus on the Renminbi?</span></p>

@@ -1,5 +1,7 @@
 # ivy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ivy.md)
+
 <p><span class="chinese">常春藤和苔藓。</span><span class="english">Ivy and moss.</span></p>
 
 <p><span class="chinese">常青藤上的叶子。</span><span class="english">On the ivy vine.</span></p>

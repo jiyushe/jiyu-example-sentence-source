@@ -1,5 +1,7 @@
 # dyer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dyer.md)
+
 <p><span class="chinese">在南非Dyer岛与鲨鱼共舞</span><span class="english">SWIMMING WITH SHARKS, DYER ISLAND, SOUTH AFRICA</span></p>
 
 <p><span class="chinese">羊毛再白，也能染黑。</span><span class="english">Thereis no wool so white but a dyer can make it black.</span></p>

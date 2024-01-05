@@ -1,5 +1,7 @@
 # 立体声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/litisheng.md)
+
 <p><span class="chinese">比如,我有一个立体声音响</span><span class="english">I've got a stereo.</span></p>
 
 <p><span class="chinese">他的立体声收录机接地了。</span><span class="english">His stereo is earthed.</span></p>

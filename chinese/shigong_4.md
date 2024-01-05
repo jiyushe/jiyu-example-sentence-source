@@ -1,5 +1,7 @@
 # 石工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shigong_4.md)
+
 <p><span class="chinese">那你怎么到石工区来了？</span><span class="english">Then why are you in the masonry section?</span></p>
 
 <p><span class="chinese">塔现在不能随着升级石工术来增加胡甲了。</span><span class="english">All human towers are now unaffected by masonry.</span></p>

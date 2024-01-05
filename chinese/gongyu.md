@@ -1,5 +1,7 @@
 # 公寓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongyu.md)
+
 <p><span class="chinese">一套公寓？</span><span class="english">An apartment?</span></p>
 
 <p><span class="chinese">一套公寓？为什么？</span><span class="english">AAn apartment? Why?</span></p>

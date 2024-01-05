@@ -1,5 +1,7 @@
 # gusset
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gusset.md)
+
 <p><span class="chinese">检查扣板，以保证适当的调整。</span><span class="english">Check the gusset to insure proper alignment.</span></p>
 
 <p><span class="chinese">异形长条铝扣板天花。</span><span class="english">Smallpox of abnormity strip aluminous gusset plate.</span></p>

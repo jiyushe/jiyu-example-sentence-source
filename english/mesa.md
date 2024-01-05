@@ -1,5 +1,7 @@
 # mesa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mesa.md)
+
 <p><span class="chinese">梅沙而第被公认为是一个特别的地方。</span><span class="english">Mesa Verde is recognized as a special place.</span></p>
 
 <p><span class="chinese">我要一张靠窗的桌子。</span><span class="english">Me gustaria tener una mesa junto a la ventana.</span></p>

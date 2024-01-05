@@ -1,5 +1,7 @@
 # doest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doest.md)
+
 <p><span class="chinese">但这并没有规定你应该成为什么样的女人。</span><span class="english">It doest define who you are as a woman.</span></p>
 
 <p><span class="chinese">耶和华说，你这样发怒合乎理吗。</span><span class="english">Then said the LORD, Doest thou well to be angry?</span></p>

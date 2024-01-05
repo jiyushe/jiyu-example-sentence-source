@@ -1,5 +1,7 @@
 # 敢死队
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gansidui.md)
+
 <p><span class="chinese">蝗虫敢死队。</span><span class="english">Kamikaze locust.</span></p>
 
 <p><span class="chinese">敢死队对逊尼派的杀戮会增加。</span><span class="english">Death-squad killings of Sunnis would rise.</span></p>

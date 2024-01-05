@@ -1,5 +1,7 @@
 # refresh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refresh.md)
+
 <p><span class="chinese">空气流动，才能生意盎然。</span><span class="english">Air must flow to refresh.</span></p>
 
 <p><span class="chinese">更新你的系统上的GPO。</span><span class="english">Refresh GPOs on your system.</span></p>

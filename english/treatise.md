@@ -1,5 +1,7 @@
 # treatise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/treatise.md)
+
 <p><span class="chinese">这篇深奥的论文很费解。</span><span class="english">The recondite treatise is hard to understand.</span></p>
 
 <p><span class="chinese">这是1642年写成的一篇政论。</span><span class="english">That's the political treatise written in 1642.</span></p>

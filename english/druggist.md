@@ -1,5 +1,7 @@
 # druggist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/druggist.md)
+
 <p><span class="chinese">药房老板拥有一家小店。</span><span class="english">The druggist owns a small store.</span></p>
 
 <p><span class="chinese">药剂师照药方配了药。</span><span class="english">The druggist dispensed a prescription.</span></p>

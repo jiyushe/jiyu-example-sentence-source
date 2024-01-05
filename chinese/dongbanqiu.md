@@ -1,5 +1,7 @@
 # 东半球
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongbanqiu.md)
+
 <p><span class="chinese">如果我们太偏西南，将会到达其它的岛屿，而太偏西北则会使我们错过东印度群岛，最终把我们送回到东半球。</span><span class="english">To be sent too far south-west would lead us to other islands.</span></p>
 
 <p><span class="chinese">东半球一种山罂粟，开白或黄到橙黄色花。</span><span class="english">Old World alpine poppy with white or yellow to orange flowers.</span></p>

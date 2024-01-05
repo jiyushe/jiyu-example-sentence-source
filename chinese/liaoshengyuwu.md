@@ -1,5 +1,7 @@
 # 聊胜于无
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liaoshengyuwu.md)
+
 <p><span class="chinese">亲爱的聊胜于无。</span><span class="english">Dear Better Than Nothing.</span></p>
 
 <p><span class="chinese">聊胜于无。</span><span class="english">Something is better than nothing.</span></p>

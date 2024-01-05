@@ -1,5 +1,7 @@
 # 总数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongshu.md)
+
 <p><span class="chinese">他算出他的债务总数。</span><span class="english">He toted up his debts.</span></p>
 
 <p><span class="chinese">这些数字加起来的总数是450。</span><span class="english">The figures add up to 450.</span></p>

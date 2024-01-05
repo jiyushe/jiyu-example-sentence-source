@@ -1,5 +1,7 @@
 # 领口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingkou.md)
+
 <p><span class="chinese">领口太小了。</span><span class="english">The neckband is too small.</span></p>
 
 <p><span class="chinese">这个领口的钩子怎么也解不开。</span><span class="english">The collar wouldn't unhook.</span></p>

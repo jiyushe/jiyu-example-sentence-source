@@ -1,5 +1,7 @@
 # 定员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingyuan.md)
+
 <p><span class="chinese">这节车厢定员120人。</span><span class="english">This carriage has a seating capacity of 120 people.</span></p>
 
 <p><span class="chinese">是否至少7个定员协助进行系泊操作?。</span><span class="english">Are at least 7 ratings available to assist with mooring operations?</span></p>

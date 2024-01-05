@@ -1,5 +1,7 @@
 # recovery 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recovery.md)
+
 <p><span class="chinese">复苏可能是"W型"?</span><span class="english">W-SHAPED RECOVERY?</span></p>
 
 <p><span class="chinese">退出恢复模式。</span><span class="english">Exit recovery mode.</span></p>

@@ -1,5 +1,7 @@
 # helm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/helm.md)
+
 <p><span class="chinese">测试操舵设备，状态良好。</span><span class="english">Tested helm. Found in good order.</span></p>
 
 <p><span class="chinese">创始人重新掌舵才是王道.</span><span class="english">Founders are back in style at the helm.</span></p>

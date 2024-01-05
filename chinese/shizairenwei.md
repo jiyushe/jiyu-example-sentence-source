@@ -1,5 +1,7 @@
 # 事在人为
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizairenwei.md)
+
 <p><span class="chinese">人类有一天也会面临被事在人为的命运。</span><span class="english">Mankind may one day meet this fate.</span></p>
 
 <p><span class="chinese">事在人为。</span><span class="english">Human effort is the decisive factor.</span></p>

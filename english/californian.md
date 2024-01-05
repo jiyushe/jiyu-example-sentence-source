@@ -1,5 +1,7 @@
 # californian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/californian.md)
+
 <p><span class="chinese">我想还是加州红吧。</span><span class="english">Californian Rose, I think.</span></p>
 
 <p><span class="chinese">这一法案恰好只影响到一座加州城市——弗农市。</span><span class="english">That happens to affect only one Californian city, Vernon.</span></p>

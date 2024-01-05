@@ -1,5 +1,7 @@
 # woolen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/woolen.md)
+
 <p><span class="chinese">他穿着羊毛绑腿。</span><span class="english">He was dressed in woolen leggings.</span></p>
 
 <p><span class="chinese">毛料衣服在热水中会收缩的。</span><span class="english">Woolen clothes shrink in hot water.</span></p>

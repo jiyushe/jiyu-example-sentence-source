@@ -1,5 +1,7 @@
 # 失序
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shixu.md)
+
 <p><span class="chinese">我没有秩序，我处于深深的失序中。</span><span class="english">I have no order, I am in deep disorder.</span></p>
 
 <p><span class="chinese">而如今存在的失序，是因为有划分。</span><span class="english">Now there is disorder because there is division.</span></p>

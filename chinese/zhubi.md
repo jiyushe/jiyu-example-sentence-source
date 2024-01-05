@@ -1,5 +1,7 @@
 # 主笔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhubi.md)
+
 <p><span class="chinese">烹调专栏主笔莫伊拉·弗雷泽会带您了解幕后的故事。</span><span class="english">Cookery Editor Moyra Fraser takes you behind the scenes.</span></p>
 
 <p><span class="chinese">来自加州大学旧金山分校的克里斯汀·比宾斯多明哥是主笔者。</span><span class="english">Kirsten Bibbins-Domingo at the University of California San Francisco, was the lead author.</span></p>

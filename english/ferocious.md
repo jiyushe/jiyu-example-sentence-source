@@ -1,5 +1,7 @@
 # ferocious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ferocious.md)
+
 <p><span class="chinese">那个凶残的匪首被处决了。</span><span class="english">The ferocious chieftain was executed.</span></p>
 
 <p><span class="chinese">中考如同黑色玫瑰，美丽却又狰狞。</span><span class="english">The black rose, beautiful but ferocious.</span></p>

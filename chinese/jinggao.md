@@ -1,5 +1,7 @@
 # 警告
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinggao.md)
+
 <p><span class="chinese">给他警告！</span><span class="english">To warn him!</span></p>
 
 <p><span class="chinese">然后我们警告了他们。</span><span class="english">And we warned 'em.</span></p>

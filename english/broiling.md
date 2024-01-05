@@ -1,5 +1,7 @@
 # broiling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/broiling.md)
+
 <p><span class="chinese">今晚真热死人了。</span><span class="english">It's really broiling tonight.</span></p>
 
 <p><span class="chinese">这热辣辣的太阳快把我烤焦了！</span><span class="english">I am broiling in this hot sun!</span></p>

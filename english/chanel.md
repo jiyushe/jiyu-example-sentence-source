@@ -1,5 +1,7 @@
 # chanel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chanel.md)
+
 <p><span class="chinese">啊，一个香奈儿钱包。</span><span class="english">Ah a Chanel purse.</span></p>
 
 <p><span class="chinese">Chanel就是一个非常完美的例子。</span><span class="english">Chanel is the perfect example of this.</span></p>

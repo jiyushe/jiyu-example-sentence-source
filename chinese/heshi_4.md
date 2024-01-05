@@ -1,5 +1,7 @@
 # 合适
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heshi_4.md)
+
 <p><span class="chinese">那套衣服你穿起来挺合适。</span><span class="english">That dress suits you.</span></p>
 
 <p><span class="chinese">这扇门不太合适。</span><span class="english">This door fits badly.</span></p>

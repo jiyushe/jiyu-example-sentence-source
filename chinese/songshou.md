@@ -1,5 +1,7 @@
 # 松手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songshou.md)
+
 <p><span class="chinese">沉思，然后松手。</span><span class="english">Meditate and let go.</span></p>
 
 <p><span class="chinese">握紧绳子别松手。</span><span class="english">Don't let go the rope.</span></p>

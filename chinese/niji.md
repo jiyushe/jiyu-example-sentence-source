@@ -1,5 +1,7 @@
 # 匿迹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niji.md)
+
 <p><span class="chinese">后来，香市渐渐匿迹了。</span><span class="english">Later, incense gradually concealment of the city.</span></p>
 
 <p><span class="chinese">我们的当前文明将消失匿迹。</span><span class="english">Little trace of our current civilisation will remain.</span></p>

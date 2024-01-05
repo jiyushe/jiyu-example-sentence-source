@@ -1,5 +1,7 @@
 # alcoholism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alcoholism.md)
+
 <p><span class="chinese">酗酒是一种病。</span><span class="english">Alcoholism is a disease.</span></p>
 
 <p><span class="chinese">1970年多萝西的儿子鲍勃死于酒精中毒</span><span class="english">In 1970 Dorothy's son Bob died of alcoholism</span></p>

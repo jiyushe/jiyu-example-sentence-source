@@ -1,5 +1,7 @@
 # 连杆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangan.md)
+
 <p><span class="chinese">曲轴箱连杆密封件损坏。</span><span class="english">Worn crankcase piston rod seals.</span></p>
 
 <p><span class="chinese">断开车轴上稳定杆连杆。</span><span class="english">Disconnect stabilizer bar links at the axle.</span></p>

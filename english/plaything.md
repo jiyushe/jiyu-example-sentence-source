@@ -1,5 +1,7 @@
 # plaything
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plaything.md)
+
 <p><span class="chinese">良多公司对网络不屑一顾，以为那是一般民众的消遣。</span><span class="english">Many scorn the internet as a plaything for plebs.</span></p>
 
 <p><span class="chinese">这是相对玩具来说更舒服的物品。</span><span class="english">This is more of a comfort object than a plaything.</span></p>

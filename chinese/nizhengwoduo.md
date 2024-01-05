@@ -1,5 +1,7 @@
 # 你争我夺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nizhengwoduo.md)
+
 <p><span class="chinese">陷入一场你争我夺的约会战。</span><span class="english">You become embroiled in competitive dating battles.</span></p>
 
 <p><span class="chinese">足球场上你争我夺。</span><span class="english">Each scrambled for the football at the football ground.</span></p>

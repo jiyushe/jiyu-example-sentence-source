@@ -1,5 +1,7 @@
 # 落下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laxia.md)
+
 <p><span class="chinese">落下她紫色的褶边。</span><span class="english">drops her purple hem.</span></p>
 
 <p><span class="chinese">直到落下夜的紫帐。</span><span class="english">Till purple evenings fall.</span></p>

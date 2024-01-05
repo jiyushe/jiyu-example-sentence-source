@@ -1,5 +1,7 @@
 # commandment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commandment.md)
+
 <p><span class="chinese">这是第五条戒律。</span><span class="english">That is the fifth commandment.</span></p>
 
 <p><span class="chinese">这是诫命中的第一，且是最大的。</span><span class="english">This is the first and great commandment.</span></p>

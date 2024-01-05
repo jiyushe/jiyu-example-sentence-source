@@ -1,5 +1,7 @@
 # carborundum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carborundum.md)
+
 <p><span class="chinese">我们采用碳化硅材料，利用捣打技术恢复一号炉卫燃带。</span><span class="english">We repair the burner brand with carborundum by the technique of ramming.</span></p>
 
 <p><span class="chinese">凝固之后，样品表面连续用金钢砂或氧化铝磨平。</span><span class="english">After setting, the surfaces of the specimens are ground down using carborundum and alumina.</span></p>

@@ -1,5 +1,7 @@
 # 脚背
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaobei.md)
+
 <p><span class="chinese">我拱起的脚背仍疼痛著。</span><span class="english">My instep arch not only keeps the ache.</span></p>
 
 <p><span class="chinese">简便的风格上滑横跨脚背的松紧带。</span><span class="english">Easy slip-on style with elastic straps across instep.</span></p>

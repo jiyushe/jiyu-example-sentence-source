@@ -1,5 +1,7 @@
 # 有益
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youyi_4.md)
+
 <p><span class="chinese">这气味有益的！</span><span class="english">This smells good!</span></p>
 
 <p><span class="chinese">征兆是有益的。</span><span class="english">Signs are helpful.</span></p>

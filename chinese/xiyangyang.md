@@ -1,5 +1,7 @@
 # 喜洋洋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiyangyang.md)
+
 <p><span class="chinese">山河处处喜洋洋。</span><span class="english">Joy is everywhere.</span></p>
 
 <p><span class="chinese">有你，喜洋洋，你不在，不胜憧憬。</span><span class="english">Being had to triumph, being lacked to hope.</span></p>

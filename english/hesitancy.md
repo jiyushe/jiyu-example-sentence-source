@@ -1,5 +1,7 @@
 # hesitancy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hesitancy.md)
+
 <p><span class="chinese">病痛与犹豫总是结伴同行的。</span><span class="english">Sickness and hesitancy go hand in hand.</span></p>
 
 <p><span class="chinese">他的犹豫暴露了他的根本不情愿。</span><span class="english">His hesitancy revealed his basic indisposition.</span></p>

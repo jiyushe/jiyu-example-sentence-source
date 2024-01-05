@@ -1,5 +1,7 @@
 # slovak
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slovak.md)
+
 <p><span class="chinese">斯洛伐克碾核乐队流产。</span><span class="english">Slovak grindcore band Abortion.</span></p>
 
 <p><span class="chinese">斯洛伐克宪法规定宗教自由。</span><span class="english">The Slovak constitution guarantees freedom of religion.</span></p>

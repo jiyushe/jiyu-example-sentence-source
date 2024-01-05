@@ -1,5 +1,7 @@
 # 牧童
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mutong.md)
+
 <p><span class="chinese">山坡上躺着一个牧童。</span><span class="english">On the hillside lay a cowboy.</span></p>
 
 <p><span class="chinese">牧童与绵羊，绿树和小溪</span><span class="english">Sheep and shepherds, trees and crooks</span></p>

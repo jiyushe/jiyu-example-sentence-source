@@ -1,5 +1,7 @@
 # 编钟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianzhong.md)
+
 <p><span class="chinese">斯莱编钟是噪声流行描述。</span><span class="english">Sleigh Bells is described as noise-pop.</span></p>
 
 <p><span class="chinese">哭泣的编钟流行，优雅。</span><span class="english">The rows of weeping BianZhong stream, graceful.</span></p>

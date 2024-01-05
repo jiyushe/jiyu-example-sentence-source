@@ -1,5 +1,7 @@
 # impermeability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impermeability.md)
+
 <p><span class="chinese">所述连接体具有高的不透气性以及尺寸稳定性。</span><span class="english">The interconnector has a high impermeability to gas and dimensional stability.</span></p>
 
 <p><span class="chinese">为提高高坝洲水电站二期RCC坝体的抗渗性，在坝体上游面采用防渗护面技术。</span><span class="english">The impervious facing is built on the front side of Gaobazhou RCC dam to improve its impermeability.</span></p>

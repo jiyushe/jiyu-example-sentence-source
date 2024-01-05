@@ -1,5 +1,7 @@
 # 哨所
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaosuo.md)
+
 <p><span class="chinese">是战斗机在掩护附近的巴基斯坦哨所吗？</span><span class="english">Were fighters sheltering near the Pakistani outposts?</span></p>
 
 <p><span class="chinese">必须端掉锯木厂边的哨所。</span><span class="english">It is necessary to exterminate the post at the sawmill.</span></p>

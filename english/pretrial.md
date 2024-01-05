@@ -1,5 +1,7 @@
 # pretrial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pretrial.md)
+
 <p><span class="chinese">所以审判前我不需要经过安全检查？</span><span class="english">I don't need security clearance for the pretrial?</span></p>
 
 <p><span class="chinese">辩护方常利用对其有利的庭审前的阶段。</span><span class="english">The defense uses the pretrial period to its own advantage.</span></p>

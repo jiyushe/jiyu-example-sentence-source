@@ -1,5 +1,7 @@
 # insinuation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insinuation.md)
+
 <p><span class="chinese">没有，他对这种卑鄙的暗示嗤之以鼻。</span><span class="english">No he scorned the base insinuation.</span></p>
 
 <p><span class="chinese">我几乎都想以暗讽之名起诉软银了。</span><span class="english">I almost feel like suing Softbank for the insinuation.</span></p>

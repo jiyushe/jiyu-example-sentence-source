@@ -1,5 +1,7 @@
 # 遗物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiwu_5.md)
+
 <p><span class="chinese">上校身后毫无遗物。</span><span class="english">Nothing remained of the colonel.</span></p>
 
 <p><span class="chinese">和别人对话已经成为上个时代的遗物了。</span><span class="english">Conversation is a relic of a bygone age.</span></p>

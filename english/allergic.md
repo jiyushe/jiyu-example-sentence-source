@@ -1,5 +1,7 @@
 # allergic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allergic.md)
+
 <p><span class="chinese">我对花粉过敏。</span><span class="english">I'm allergic to farina.</span></p>
 
 <p><span class="chinese">不，我对润肤乳过敏。</span><span class="english">No, I'm allergic to lotion.</span></p>

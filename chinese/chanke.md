@@ -1,5 +1,7 @@
 # 产科
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chanke.md)
+
 <p><span class="chinese">一个有30个床位的产科病房。</span><span class="english">A maternity ward with 30 beds.</span></p>
 
 <p><span class="chinese">纰佑•欧康医生是乌干达的产科医生。</span><span class="english">Okong is an obstetrician from Uganda.</span></p>

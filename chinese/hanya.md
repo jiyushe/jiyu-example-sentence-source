@@ -1,5 +1,7 @@
 # 寒鸦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanya.md)
+
 <p><span class="chinese">寒鸦在栖木上又叫了一次。</span><span class="english">The jackdaw perches and starts anew.</span></p>
 
 <p><span class="chinese">寒鸦们不认识自己的敌人。</span><span class="english">The jackdawsdo not know their enemies.</span></p>

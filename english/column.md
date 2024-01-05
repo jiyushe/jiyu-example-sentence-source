@@ -1,5 +1,7 @@
 # column
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/column.md)
+
 <p><span class="chinese">零基列偏移。</span><span class="english">Zero-based column offset.</span></p>
 
 <p><span class="chinese">把这栏的数字合计起来。</span><span class="english">Add this column of figures.</span></p>

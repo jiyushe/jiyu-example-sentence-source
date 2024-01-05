@@ -1,5 +1,7 @@
 # prestigious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prestigious.md)
+
 <p><span class="chinese">这是一本名声遐尔的经贸杂志。</span><span class="english">This is a prestigious business magazine.</span></p>
 
 <p><span class="chinese">她自命为著名舞蹈家。</span><span class="english">She fancied herself as an prestigious dancer.</span></p>

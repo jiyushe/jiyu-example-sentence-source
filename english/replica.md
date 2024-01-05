@@ -1,5 +1,7 @@
 # replica
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/replica.md)
+
 <p><span class="chinese">这是一份底图吗？</span><span class="english">Is this a replica for reproduction?</span></p>
 
 <p><span class="chinese">这将是一个完全的詹戈复制体。</span><span class="english">It would be a pure replica of Jango.</span></p>

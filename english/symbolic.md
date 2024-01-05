@@ -1,5 +1,7 @@
 # symbolic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/symbolic.md)
+
 <p><span class="chinese">弓是恶念的象征。</span><span class="english">The bow is symbolic of evil intentions.</span></p>
 
 <p><span class="chinese">日本天皇的权利是象征性的。</span><span class="english">The power of Mikado in Japan is symbolic.</span></p>

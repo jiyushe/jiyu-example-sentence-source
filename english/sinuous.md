@@ -1,5 +1,7 @@
 # sinuous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sinuous.md)
+
 <p><span class="chinese">而成长就是那弯遥遥迢迢的来时路。</span><span class="english">And growing is that sinuous road.</span></p>
 
 <p><span class="chinese">我行驶在蜿蜒的山路上。</span><span class="english">I drove along sinuous mountain roads.</span></p>

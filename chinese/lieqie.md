@@ -1,5 +1,7 @@
 # 趔趄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lieqie.md)
+
 <p><span class="chinese">突然颠了一下，她向前打了一个趔趄。</span><span class="english">The sudden jolt plunged her forward.</span></p>
 
 <p><span class="chinese">老人在拱形楼附近趔趄了一下。</span><span class="english">The old man stumbled near the archway.</span></p>

@@ -1,5 +1,7 @@
 # 骨膜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gumo_1.md)
+
 <p><span class="chinese">骨膜也会因感染而发红。</span><span class="english">An infection also can make the eardrum red.</span></p>
 
 <p><span class="chinese">新生骨质同骨膜结合紧密。</span><span class="english">Thenew–bone combine with periosteum closely.</span></p>

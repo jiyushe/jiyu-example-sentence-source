@@ -1,5 +1,7 @@
 # 等价交换
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dengjiajiaohuan.md)
+
 <p><span class="chinese">只不过是等价交换。</span><span class="english">Just exchange of values.</span></p>
 
 <p><span class="chinese">那么幸福该用什么做一次等价交换哪？</span><span class="english">So happy what to do once the exchange is equivalent to what?</span></p>

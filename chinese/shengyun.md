@@ -1,5 +1,7 @@
 # 声韵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengyun.md)
+
 <p><span class="chinese">谁散了笛声韵在那里胡乱地涂抹。</span><span class="english">Who is the flute rhyme where casually daub.</span></p>
 
 <p><span class="chinese">我推荐你读一些介绍诗歌声韵知识的书。</span><span class="english">I recommend that you read some books on sound meter.</span></p>

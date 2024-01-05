@@ -1,5 +1,7 @@
 # quasimodo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quasimodo.md)
+
 <p><span class="chinese">卡西莫多的丑陋的怪相给读者留下深刻的印象。</span><span class="english">The ugly and monstrous face of Quasimodo leaves readers a deep impression.</span></p>
 
 <p><span class="chinese">弗洛里试图让加西莫多自由说话，然而加西莫多保持沉默。</span><span class="english">Frollo had tried to set Quasimodo 's tongue free, but Quasimodo made it silent.</span></p>

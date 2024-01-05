@@ -1,5 +1,7 @@
 # 昏黑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hunhei.md)
+
 <p><span class="chinese">昏黑的天空中出现一道彩虹。</span><span class="english">A rainbow rose against the dark sky.</span></p>
 
 <p><span class="chinese">在这�爱，爱上一天，尽管昏黑的。</span><span class="english">A place to stand and love in for a day.</span></p>

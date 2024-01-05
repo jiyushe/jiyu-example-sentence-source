@@ -1,5 +1,7 @@
 # muddle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/muddle.md)
+
 <p><span class="chinese">她把事情搞嘚一塌糊涂。</span><span class="english">She make a muddle of things.</span></p>
 
 <p><span class="chinese">我们一天天地混日子。</span><span class="english">We muddle along from day to day.</span></p>

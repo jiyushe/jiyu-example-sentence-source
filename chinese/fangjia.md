@@ -1,5 +1,7 @@
 # 放假
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangjia.md)
+
 <p><span class="chinese">我真喜欢放假。</span><span class="english">I really like vacations.</span></p>
 
 <p><span class="chinese">是的，先生，今天苍蝇放假。</span><span class="english">Yes Sir, its the flys day off.</span></p>

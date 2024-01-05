@@ -1,5 +1,7 @@
 # sprinkling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sprinkling.md)
+
 <p><span class="chinese">直落落的洒到我的心里。</span><span class="english">Direct sprinkling to in mine heart.</span></p>
 
 <p><span class="chinese">又造一百个金碗。</span><span class="english">He also made a hundred gold sprinkling bowls.</span></p>

@@ -1,5 +1,7 @@
 # badminton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/badminton.md)
+
 <p><span class="chinese">打羽毛球？</span><span class="english">Play badminton?</span></p>
 
 <p><span class="chinese">你羽毛球打的好吗？</span><span class="english">Are you good at badminton?</span></p>

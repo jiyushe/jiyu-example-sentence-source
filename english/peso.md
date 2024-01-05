@@ -1,5 +1,7 @@
 # peso
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peso.md)
+
 <p><span class="chinese">资本战争给予比索施加了很大压力。</span><span class="english">Capital flight is putting pressure on the peso.</span></p>
 
 <p><span class="chinese">这个数目看来不多，但他们每天的收入只得100披索，省得一元是一元。</span><span class="english">When their income is only 100 Pesos a day, every Peso counts.</span></p>

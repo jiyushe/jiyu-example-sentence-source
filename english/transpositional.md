@@ -1,5 +1,7 @@
 # transpositional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transpositional.md)
+
 <p><span class="chinese">集团公司董事、党委副书记王保玉主持书画笔会。</span><span class="english">Group director and deputy party secretary Transpositional chair painting Pen.</span></p>
 
 <p><span class="chinese">通过解剖学研究，设计并应用带血供的臂下内侧骨皮瓣转位术8例。</span><span class="english">The transpositional of pedicled lower medial bone-skin flap of arm was designed and 8 cases were applied according to anatomical study.</span></p>

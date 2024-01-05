@@ -1,5 +1,7 @@
 # ending
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ending.md)
+
 <p><span class="chinese">事实上结局是没有的。</span><span class="english">But there is no ending.</span></p>
 
 <p><span class="chinese">每段故事都有一个结局。</span><span class="english">Every story has an ending.</span></p>

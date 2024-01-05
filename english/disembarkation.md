@@ -1,5 +1,7 @@
 # disembarkation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disembarkation.md)
+
 <p><span class="chinese">请给我一张离机卡好吗?。</span><span class="english">May I have a disembarkation card?</span></p>
 
 <p><span class="chinese">请给人一驰离机卡好吗？</span><span class="english">May I have a disembarkation card?</span></p>

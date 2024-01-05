@@ -1,5 +1,7 @@
 # 信誓旦旦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinshidandan.md)
+
 <p><span class="chinese">说的时候，信誓旦旦，感天动地。</span><span class="english">In saying that, promises, a sense of days vividly.</span></p>
 
 <p><span class="chinese">她信誓旦旦地说一定要把此事告到法庭。</span><span class="english">She vowed that she would take the matter to court.</span></p>

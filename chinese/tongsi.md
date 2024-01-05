@@ -1,5 +1,7 @@
 # 铜丝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongsi.md)
+
 <p><span class="chinese">铜丝。</span><span class="english">Copper wire.</span></p>
 
 <p><span class="chinese">如果是铜丝，我们知道y的大小。</span><span class="english">If we take our copper wire, we know what y is.</span></p>

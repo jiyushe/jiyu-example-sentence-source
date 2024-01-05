@@ -1,5 +1,7 @@
 # rasp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rasp.md)
+
 <p><span class="chinese">时间是没有声音的锉刀。</span><span class="english">Time is the sound of the rasp.</span></p>
 
 <p><span class="chinese">他想把表面锉平。</span><span class="english">He wanted to rasp the surface smooth.</span></p>

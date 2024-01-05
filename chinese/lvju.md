@@ -1,5 +1,7 @@
 # 旅居
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvju.md)
+
 <p><span class="chinese">那么你宁愿旅居海外啦?。</span><span class="english">So you prefer living abroad?</span></p>
 
 <p><span class="chinese">旅居国外也是有得有失。</span><span class="english">There are trade-offs to being an expat.</span></p>

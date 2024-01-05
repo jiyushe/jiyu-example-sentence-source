@@ -1,5 +1,7 @@
 # 水牛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiniu.md)
+
 <p><span class="chinese">他们把水牛视为神圣。</span><span class="english">They hallow the buffalo.</span></p>
 
 <p><span class="chinese">加个词，水牛呢？</span><span class="english">To add the word buffalo?</span></p>

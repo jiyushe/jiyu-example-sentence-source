@@ -1,5 +1,7 @@
 # tuning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tuning.md)
+
 <p><span class="chinese">管弦乐队在定弦。</span><span class="english">The orchestra are tuning up.</span></p>
 
 <p><span class="chinese">有个人正在为钢琴调音。</span><span class="english">TUNE】A man is tuning the piano.</span></p>

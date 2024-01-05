@@ -1,5 +1,7 @@
 # matchmaker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/matchmaker.md)
+
 <p><span class="chinese">万年求来的月老祝福。</span><span class="english">Million years of the matchmaker.</span></p>
 
 <p><span class="chinese">阿母谢媒人。</span><span class="english">The matchmaker her mother declines.</span></p>

@@ -1,5 +1,7 @@
 # roselle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roselle.md)
+
 <p><span class="chinese">洛神葵的肉质花萼可食。</span><span class="english">The fleshy red calyxes of roselle are edible.</span></p>
 
 <p><span class="chinese">光照对悬浮培养的玫瑰茄细胞生物量无影响。</span><span class="english">Light irradiation did not affect the biomass of roselle cell suspension.</span></p>

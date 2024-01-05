@@ -1,5 +1,7 @@
 # ejaculatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ejaculatory.md)
+
 <p><span class="chinese">指定与描述两种射精功能障碍。</span><span class="english">Name and describe two ejaculatory dysfunctions.</span></p>
 
 <p><span class="chinese">射精管梗阻是一种罕见现象，但却是男性不育的重要原因。</span><span class="english">Ejaculatory duct obstruction is a rare but important cause of male infertility.</span></p>

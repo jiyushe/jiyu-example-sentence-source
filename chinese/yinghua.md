@@ -1,5 +1,7 @@
 # 樱花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinghua.md)
+
 <p><span class="chinese">即使有樱花开放。</span><span class="english">Even if cherry-flowers bloom.</span></p>
 
 <p><span class="chinese">去樱花饭店怎么走?</span><span class="english">How do I get to the Sakura Hotel?</span></p>

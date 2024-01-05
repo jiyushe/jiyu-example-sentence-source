@@ -1,5 +1,7 @@
 # 泡泡纱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paopaosha.md)
+
 <p><span class="chinese">CNN也确认该导弹是“泡泡纱”。</span><span class="english">CNN also identified the missile as a Seersucker.</span></p>
 
 <p><span class="chinese">绿白条纹泡泡纱长裙。</span><span class="english">Long dress in green and white striped seersucker.</span></p>

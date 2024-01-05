@@ -1,5 +1,7 @@
 # cashier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cashier.md)
+
 <p><span class="chinese">请来收款台。</span><span class="english">Please come to the cashier.</span></p>
 
 <p><span class="chinese">我和收银员把账结清了。</span><span class="english">I squared up with the cashier.</span></p>

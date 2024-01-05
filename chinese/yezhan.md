@@ -1,5 +1,7 @@
 # 夜战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yezhan.md)
+
 <p><span class="chinese">星球年夜战关于一次年夜冒险。</span><span class="english">Space War is about a great adventure.</span></p>
 
 <p><span class="chinese">我女亲便是第一次天下除夜战的退伍甲士。</span><span class="english">My father was a veteran of World War I.</span></p>

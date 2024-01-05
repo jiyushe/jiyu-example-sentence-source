@@ -1,5 +1,7 @@
 # 铁青
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tieqing.md)
+
 <p><span class="chinese">那张铁青的长脸上神色缓和了。</span><span class="english">The long livid face relaxed.</span></p>
 
 <p><span class="chinese">坟茔中的死鬼，脸色铁青。</span><span class="english">Death grew pale within the grave.</span></p>

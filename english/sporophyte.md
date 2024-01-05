@@ -1,5 +1,7 @@
 # sporophyte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sporophyte.md)
+
 <p><span class="chinese">长时间把温度控制在23℃以上，对幼孢子体生长有抑制作用。</span><span class="english">The growth of young sporophyte was inhibited when temperature was controlled over 23℃ for a long time.</span></p>
 
 <p><span class="chinese">为长柄羽叶藻幼孢子体最佳生长温度，10～20℃为适宜生长温度。</span><span class="english">The optimum growth temperature of young E. arborea sporophyte was 15℃ and suitable growth temperature was 10—20℃.</span></p>

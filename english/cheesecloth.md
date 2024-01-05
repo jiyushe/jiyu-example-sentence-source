@@ -1,5 +1,7 @@
 # cheesecloth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cheesecloth.md)
+
 <p><span class="chinese">用干酪包布做一个大的滤网。</span><span class="english">Line a large sieve with cheesecloth.</span></p>
 
 <p><span class="chinese">缓缓将冷却的油倒入盖有粗棉布的碗里。</span><span class="english">Slowly pour the cool oil into the cheesecloth covered bowl.</span></p>

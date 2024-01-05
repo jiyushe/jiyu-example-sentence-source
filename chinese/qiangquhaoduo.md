@@ -1,5 +1,7 @@
 # 强取豪夺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangquhaoduo.md)
+
 <p><span class="chinese">为了攫取一切有价值的东西，他们一次又一次的回来强取豪夺。</span><span class="english">Again and again they returned to plunder and ravage , to seize everything of value.</span></p>
 
 <p><span class="chinese">他们经历过全球战争、强取豪夺和帝国主义的压迫。</span><span class="english">They had experienced global warfare, dispossession and the oppression of imperialism.</span></p>

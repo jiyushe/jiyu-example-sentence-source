@@ -1,5 +1,7 @@
 # tendentious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tendentious.md)
+
 <p><span class="chinese">这痕迹是朝着上方的。</span><span class="english">The tendentious track is upwards.</span></p>
 
 <p><span class="chinese">这就引出了新闻的倾向性问题。</span><span class="english">This has drawn out the news tendentious question.</span></p>

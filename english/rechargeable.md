@@ -1,5 +1,7 @@
 # rechargeable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rechargeable.md)
+
 <p><span class="chinese">使用USB接口充电的电子产品</span><span class="english">Use USB Rechargeable Electronics</span></p>
 
 <p><span class="chinese">一个顶级的充电电池制造商。</span><span class="english">A top rechargeable battery manufacturer.</span></p>

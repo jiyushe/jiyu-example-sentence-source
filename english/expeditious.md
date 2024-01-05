@@ -1,5 +1,7 @@
 # expeditious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expeditious.md)
+
 <p><span class="chinese">通过应继续不停和迅速进行。</span><span class="english">Passage shall be continuous and expeditious.</span></p>
 
 <p><span class="chinese">在办理展期方面，护照办人员是很迅速的。</span><span class="english">“The passport office is pretty expeditious when it comes to handling renewals,” Teddy said.</span></p>

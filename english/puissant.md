@@ -1,5 +1,7 @@
 # puissant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/puissant.md)
+
 <p><span class="chinese">这个年轻人有一副强壮的身体。</span><span class="english">The young man has a puissant body.</span></p>
 
 <p><span class="chinese">美国有着强盛的幽默写作传统。</span><span class="english">America has a puissant tradition of humorous writing.</span></p>

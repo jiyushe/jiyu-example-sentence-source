@@ -1,5 +1,7 @@
 # 邦交
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bangjiao_1.md)
+
 <p><span class="chinese">中国和老挝直到1988年才恢复邦交正常化。</span><span class="english">China and Laos did not normalize ties until 1988.</span></p>
 
 <p><span class="chinese">圣露西亚成为台湾第二十五个邦交国。</span><span class="english">Saint Lucia became Taiwan's 25th diplomatic ally.</span></p>

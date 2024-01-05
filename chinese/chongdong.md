@@ -1,5 +1,7 @@
 # 冲动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongdong.md)
+
 <p><span class="chinese">切忌冲动购物。</span><span class="english">Avoid impulse buys.</span></p>
 
 <p><span class="chinese">监控你的冲动。</span><span class="english">Monitor your urges.</span></p>

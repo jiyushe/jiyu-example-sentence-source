@@ -1,5 +1,7 @@
 # electronically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electronically.md)
+
 <p><span class="chinese">各道工序都由电脑控制。</span><span class="english">The processes are all electronically controled.</span></p>
 
 <p><span class="chinese">电可擦的，可编程的只读存储器。</span><span class="english">A type of ROM that can be erased electronically.</span></p>

@@ -1,5 +1,7 @@
 # economizer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/economizer.md)
+
 <p><span class="chinese">省煤器泄漏是余热锅炉运行中常遇到的问题。</span><span class="english">Economizer leakage is a main problem in running of heat recovery boiler.</span></p>
 
 <p><span class="chinese">对该节能技术的两种形式-空气节能器与水节能器进行了比较。</span><span class="english">Compares the two energy saving modes, i. e. air economizer and water economizer.</span></p>

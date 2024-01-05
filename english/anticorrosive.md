@@ -1,5 +1,7 @@
 # anticorrosive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anticorrosive.md)
+
 <p><span class="chinese">这种框架容易腐蚀和褪色吗？</span><span class="english">Is this frame anticorrosive and colorfast?</span></p>
 
 <p><span class="chinese">优异的耐水性、和防腐性能。</span><span class="english">Excellent water resistance and anticorrosive property.</span></p>

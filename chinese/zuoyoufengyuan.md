@@ -1,5 +1,7 @@
 # 左右逢源
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoyoufengyuan.md)
+
 <p><span class="chinese">不要想对所有人都左右逢源。</span><span class="english">Don't try to be all things to all people.</span></p>
 
 <p><span class="chinese">然而做纪录片得心应手不代表必然能教课左右逢源。</span><span class="english">But what makes good TV doesn't necessarily make for good teaching.</span></p>

@@ -1,5 +1,7 @@
 # haggai
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haggai.md)
+
 <p><span class="chinese">哈该书的主题是什么？</span><span class="english">What is the theme of Haggai?</span></p>
 
 <p><span class="chinese">其他两位是哈该和撒迦利亚。</span><span class="english">The other two were Haggai and Zechariah.</span></p>

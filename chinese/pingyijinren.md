@@ -1,5 +1,7 @@
 # 平易近人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingyijinren.md)
+
 <p><span class="chinese">他们和我讲话，我显得平易近人。</span><span class="english">They speak to me. I come across as approachable.</span></p>
 
 <p><span class="chinese">对她来说，我很平易近人，是个有点傻气的外国人。</span><span class="english">To her, I'm an easy-going, dim-witted foreigner.</span></p>

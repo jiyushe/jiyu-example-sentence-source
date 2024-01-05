@@ -1,5 +1,7 @@
 # 雅量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaliang.md)
+
 <p><span class="chinese">别如此没有雅量。</span><span class="english">Don't be so intolerant.</span></p>
 
 <p><span class="chinese">他本有雅量做说声抱歉的！</span><span class="english">He might have had the grace to say he was sorry!</span></p>

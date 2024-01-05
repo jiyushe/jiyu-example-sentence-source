@@ -1,5 +1,7 @@
 # carbonation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carbonation.md)
+
 <p><span class="chinese">不过，研究者想弄清楚的是，从味觉意义上，我们是否能够尝到碳酸化合物。</span><span class="english">But researchers got to wondering whether we can taste the carbonation.</span></p>
 
 <p><span class="chinese">这样说可能有点奇怪，不过科学家们发现碳酸化合物确实有味道。</span><span class="english">If that sounds odd, scientists have discovered that carbonation actually has a flavor.</span></p>

@@ -1,5 +1,7 @@
 # shire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shire.md)
+
 <p><span class="chinese">一个哈比人，夏尔的比尔伯·巴金斯。</span><span class="english">A hobbit – Bilbo Baggins of the Shire.</span></p>
 
 <p><span class="chinese">当地有个名叫马尔克姆华莱士的农民。</span><span class="english">Among the farmers of that shire was Malcolm Wallace.</span></p>

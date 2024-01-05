@@ -1,5 +1,7 @@
 # 母性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muxing.md)
+
 <p><span class="chinese">母性。</span><span class="english">Motherhood.</span></p>
 
 <p><span class="chinese">母性会怎么样？</span><span class="english">How about maternal instincts?</span></p>

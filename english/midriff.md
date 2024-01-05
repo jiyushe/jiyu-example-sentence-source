@@ -1,5 +1,7 @@
 # midriff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/midriff.md)
+
 <p><span class="chinese">我们甚至连腹部都没有露出来。</span><span class="english">There wasn't even a midriff on display.</span></p>
 
 <p><span class="chinese">他突然感到腹部一阵剧烈疼痛。</span><span class="english">He was struck by a stabbing pain in his midriff.</span></p>

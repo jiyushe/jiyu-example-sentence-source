@@ -1,5 +1,7 @@
 # 面塑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miansu_1.md)
+
 <p><span class="chinese">色彩艳丽、栩栩如生的面塑寿桃。</span><span class="english">Colorful and vivid dough moulded peaches.</span></p>
 
 <p><span class="chinese">这些惟妙惟肖的面塑福娃出自一个13岁的中国男孩之手。</span><span class="english">These Fuwa dough figurines are made by a 13-year-old boy.</span></p>

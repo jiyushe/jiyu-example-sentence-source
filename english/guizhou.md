@@ -1,5 +1,7 @@
 # guizhou
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guizhou.md)
+
 <p><span class="chinese">云贵高原三种类型。</span><span class="english">Type C is Yunnan and Guizhou plateau.</span></p>
 
 <p><span class="chinese">贵州一煤矿爆炸，7人遇难。</span><span class="english">Colliery gas blast kills 7 in Guizhou.</span></p>

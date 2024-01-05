@@ -1,5 +1,7 @@
 # future
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/future.md)
+
 <p><span class="chinese">它一点未来性都没有。</span><span class="english">It has no future.</span></p>
 
 <p><span class="chinese">前途不明朗？</span><span class="english">No bright future?</span></p>

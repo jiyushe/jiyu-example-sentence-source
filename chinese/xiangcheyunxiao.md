@@ -1,5 +1,7 @@
 # 响彻云霄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangcheyunxiao.md)
+
 <p><span class="chinese">可怕的叫声响彻云霄。</span><span class="english">A terrible cry rent the air.</span></p>
 
 <p><span class="chinese">孤寂却成了响彻云霄的唯一音符。</span><span class="english">Solitude has become a resounding only notes.</span></p>

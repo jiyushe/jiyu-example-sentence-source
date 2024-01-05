@@ -1,5 +1,7 @@
 # buddy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buddy.md)
+
 <p><span class="chinese">哥们儿，怎么样？</span><span class="english">What's up, buddy?</span></p>
 
 <p><span class="chinese">我爱你啊，伙计。</span><span class="english">I love you, buddy.</span></p>

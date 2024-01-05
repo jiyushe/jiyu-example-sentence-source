@@ -1,5 +1,7 @@
 # 镶嵌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangqian_1.md)
+
 <p><span class="chinese">所有的镶嵌都位于正中央。</span><span class="english">All inlays are dead-center.</span></p>
 
 <p><span class="chinese">镶嵌式和长管式水族缸。</span><span class="english">Mosaic and long tube aquaria.</span></p>

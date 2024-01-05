@@ -1,5 +1,7 @@
 # 世世代代
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishidaidai.md)
+
 <p><span class="chinese">这些风俗是世世代代传下来的。</span><span class="english">These customs have been handed down through the ages.</span></p>
 
 <p><span class="chinese">这是他们世世代代永得的分。</span><span class="english">It is their right for ever from generation to generation.</span></p>

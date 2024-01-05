@@ -1,5 +1,7 @@
 # grungy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grungy.md)
+
 <p><span class="chinese">那是一件很脏的夹克。</span><span class="english">That is a really grungy jacket.</span></p>
 
 <p><span class="chinese">把你那双又脏又臭的脚从桌子上放下来！</span><span class="english">Get your grungy feet off the table!</span></p>

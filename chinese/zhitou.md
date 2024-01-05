@@ -1,5 +1,7 @@
 # 指头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhitou.md)
+
 <p><span class="chinese">她弄湿了她的指头。</span><span class="english">So she wets her fingers.</span></p>
 
 <p><span class="chinese">辄我的指头都成了大拇指了。</span><span class="english">My fingers are all thumbs.</span></p>

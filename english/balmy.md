@@ -1,5 +1,7 @@
 # balmy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/balmy.md)
+
 <p><span class="chinese">那是四月，气候和煦。</span><span class="english">It was April, balmy and warm.</span></p>
 
 <p><span class="chinese">哦那些芳香的繁盛的日子。</span><span class="english">Oh the balmy days and palmy days.</span></p>

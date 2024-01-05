@@ -1,5 +1,7 @@
 # liquidate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liquidate.md)
+
 <p><span class="chinese">破产的时候他们确实会变现。</span><span class="english">They do liquidate in bankruptcy, yes.</span></p>
 
 <p><span class="chinese">消除他们的疑虑是有可能的。</span><span class="english">It is possible to liquidate their doubts.</span></p>

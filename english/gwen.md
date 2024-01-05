@@ -1,5 +1,7 @@
 # gwen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gwen.md)
+
 <p><span class="chinese">戈文去过那峡谷吗？</span><span class="english">Has Gwen been to the glen?</span></p>
 
 <p><span class="chinese">罗兰正帮格温买宠物用品。</span><span class="english">Roland is helping Gwen buy pet supplies.</span></p>

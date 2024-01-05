@@ -1,5 +1,7 @@
 # articular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/articular.md)
+
 <p><span class="chinese">关节塌陷与骨小梁吸收有关。</span><span class="english">Conclusion Bone absorption may be the cause of collapse of articular surface.</span></p>
 
 <p><span class="chinese">关节软骨以及软骨下骨的损伤是骨科临床的常见疾病。</span><span class="english">Articular cartilage and subchondral bone damage is a common orthopedic disease.</span></p>

@@ -1,5 +1,7 @@
 # 深谋远虑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenmouyuanlv.md)
+
 <p><span class="chinese">我们是会深谋远虑的肉体</span><span class="english">We are bodies that can plan.</span></p>
 
 <p><span class="chinese">普罗米修斯的名字即「深谋远虑」的意思。</span><span class="english">Plo Michel J is the name of "foresight".</span></p>

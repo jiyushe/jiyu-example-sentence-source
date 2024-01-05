@@ -1,5 +1,7 @@
 # 杂乱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaluan.md)
+
 <p><span class="chinese">这个房间杂乱不堪。</span><span class="english">This room's in a mess.</span></p>
 
 <p><span class="chinese">你的房间杂乱不堪。</span><span class="english">Your room is in a mess.</span></p>

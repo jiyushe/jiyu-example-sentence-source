@@ -1,5 +1,7 @@
 # 热加工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rejiagong.md)
+
 <p><span class="chinese">热加工。</span><span class="english">Hot working.</span></p>
 
 <p><span class="chinese">热加工工艺有哪些?。</span><span class="english">What are the hot working processes?</span></p>

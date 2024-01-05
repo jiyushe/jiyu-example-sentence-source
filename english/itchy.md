@@ -1,5 +1,7 @@
 # itchy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/itchy.md)
+
 <p><span class="chinese">我们憎恨瘙痒。</span><span class="english">We hate itchy.</span></p>
 
 <p><span class="chinese">我的皮肤很痒。</span><span class="english">My skin feels very itchy.</span></p>

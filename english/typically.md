@@ -1,5 +1,7 @@
 # typically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/typically.md)
+
 <p><span class="chinese">印度烤饼基本上是来自?。</span><span class="english">Naan is typically from?</span></p>
 
 <p><span class="chinese">通常是晚上10点。</span><span class="english">Typically I finish about 10 p.m.</span></p>

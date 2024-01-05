@@ -1,5 +1,7 @@
 # discretionarily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discretionarily.md)
+
 <p><span class="chinese">可任意黏贴来达成个性化装饰。</span><span class="english">Stick discretionarily can be reached to personalized decorations.</span></p>
 
 <p><span class="chinese">任何单位或者个人不得擅自进行群体性预防接种。</span><span class="english">No entity or individual shall discretionarily carry out mass vaccination.</span></p>

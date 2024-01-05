@@ -1,5 +1,7 @@
 # community 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/community.md)
+
 <p><span class="chinese">你的社团活动吗？</span><span class="english">Your community?</span></p>
 
 <p><span class="chinese">社区的路要走。</span><span class="english">Community on the go.</span></p>

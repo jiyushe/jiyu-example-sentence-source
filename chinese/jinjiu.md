@@ -1,5 +1,7 @@
 # 禁酒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinjiu.md)
+
 <p><span class="chinese">禁酒会预防犯罪吗？</span><span class="english">Will banning alcohol "prevent" crimes?</span></p>
 
 <p><span class="chinese">他们在不断地提出禁酒。</span><span class="english">They are constantly crusading against '.</span></p>

@@ -1,5 +1,7 @@
 # 亲临
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinlin.md)
+
 <p><span class="chinese">我曾亲临那众多的死亡之海的面前。</span><span class="english">I've been out in front of a dozen dead oceans.</span></p>
 
 <p><span class="chinese">如以现款支付，请亲临本中心交与负责人。</span><span class="english">Payment by cash to be made only at the Centre.</span></p>

@@ -1,5 +1,7 @@
 # 舍不得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shebude.md)
+
 <p><span class="chinese">我知道你连只苍蝇都舍不得杀。</span><span class="english">I know you couldn't hurt a fly.</span></p>
 
 <p><span class="chinese">我知道你连只苍蝇都舍不得杀。</span><span class="english">I know you couldn’t hurt a fly.</span></p>

@@ -1,5 +1,7 @@
 # 知难而退
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhinanertui.md)
+
 <p><span class="chinese">我以为这只小蚂蚁是知难而退。</span><span class="english">I think it is quit small ants.</span></p>
 
 <p><span class="chinese">老实告诉他你很忙，或许可以让他知难而退。</span><span class="english">You should tell him you're busy, or just politely brush him off.</span></p>

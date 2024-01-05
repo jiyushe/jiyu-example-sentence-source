@@ -1,5 +1,7 @@
 # facsimile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/facsimile.md)
+
 <p><span class="chinese">他摊开几份复印的天气图。</span><span class="english">He spread out several facsimile weather charts.</span></p>
 
 <p><span class="chinese">我还会操作使用复印机。</span><span class="english">I can operate a facsimile machine and a photostat.</span></p>

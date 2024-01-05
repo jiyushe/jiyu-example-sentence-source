@@ -1,5 +1,7 @@
 # 喜人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiren.md)
+
 <p><span class="chinese">形势喜人。</span><span class="english">The situation is gratifying.</span></p>
 
 <p><span class="chinese">秋天的时候，呈现出一片长势喜人的麦田。</span><span class="english">When it's fall, there is a fine field of wheat.</span></p>

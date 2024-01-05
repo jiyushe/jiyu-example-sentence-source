@@ -1,5 +1,7 @@
 # versus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/versus.md)
+
 <p><span class="chinese">这就是x-t图</span><span class="english">That is x versus t.</span></p>
 
 <p><span class="chinese">牺牲一个保全五个？</span><span class="english">One life versus five?</span></p>

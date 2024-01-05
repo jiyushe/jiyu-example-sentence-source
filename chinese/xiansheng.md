@@ -1,5 +1,7 @@
 # 先圣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiansheng.md)
+
 <p><span class="chinese">我国先圣孔子说过。</span><span class="english">The Chinese sage Confucius says.</span></p>
 
 <p><span class="chinese">我会将「你必须拯救先圣先贤」这句话牢记在心。</span><span class="english">I will live with the words, "You must save the saints" in my heart.</span></p>

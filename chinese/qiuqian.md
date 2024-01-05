@@ -1,5 +1,7 @@
 # 秋千
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiuqian.md)
+
 <p><span class="chinese">墙里秋千墙外道。</span><span class="english">Qiangli swing wall Road.</span></p>
 
 <p><span class="chinese">孩子打秋千在格陵兰。</span><span class="english">Child swing in Greenland.</span></p>

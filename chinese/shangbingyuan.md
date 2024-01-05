@@ -1,5 +1,7 @@
 # 伤病员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangbingyuan.md)
+
 <p><span class="chinese">护士正在给伤病员敷药。</span><span class="english">To place medicine on a wound.</span></p>
 
 <p><span class="chinese">伤病员很快被送往医院。</span><span class="english">The sick and wounded were soon taken to hospital.</span></p>

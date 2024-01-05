@@ -1,5 +1,7 @@
 # posterior
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/posterior.md)
+
 <p><span class="chinese">后唇瓣花丝无齿的在基部。</span><span class="english">Posterior filaments edentate at base.</span></p>
 
 <p><span class="chinese">四足动物的类似的后部…</span><span class="english">A homologous posterior part in quadrupeds.</span></p>

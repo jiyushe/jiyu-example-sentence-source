@@ -1,5 +1,7 @@
 # 葡萄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/putao.md)
+
 <p><span class="chinese">是吃不着葡萄就说葡萄酸吗？</span><span class="english">Sour grapes?</span></p>
 
 <p><span class="chinese">串串葡萄很美啊！</span><span class="english">Bunches of Grapes!</span></p>

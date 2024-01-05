@@ -1,5 +1,7 @@
 # farmland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/farmland.md)
+
 <p><span class="chinese">农田开始变热。</span><span class="english">Farmland has become hot.</span></p>
 
 <p><span class="chinese">田梦笑了起来。</span><span class="english">The farmland dream smiled.</span></p>

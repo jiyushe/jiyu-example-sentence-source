@@ -1,5 +1,7 @@
 # rpm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rpm.md)
+
 <p><span class="chinese">如何安装和升级一个RPM软件包?。</span><span class="english">How to install or updata RPM package ?</span></p>
 
 <p><span class="chinese">红线是这台发动机在4200转。</span><span class="english">Redline of this engine is at 4200 RPM.</span></p>

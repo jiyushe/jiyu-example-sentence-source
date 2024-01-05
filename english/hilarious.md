@@ -1,5 +1,7 @@
 # hilarious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hilarious.md)
+
 <p><span class="chinese">那是个令人捧腹的笑话。</span><span class="english">That is a hilarious joke.</span></p>
 
 <p><span class="chinese">摩登家庭非常搞笑。</span><span class="english">Modern Family is hilarious.</span></p>

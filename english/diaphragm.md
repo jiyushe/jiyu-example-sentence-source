@@ -1,5 +1,7 @@
 # diaphragm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diaphragm.md)
+
 <p><span class="chinese">膜式燃气表。</span><span class="english">Diaphragm Gas Meter.</span></p>
 
 <p><span class="chinese">更换控制阀皮膜。</span><span class="english">Replace the control valve diaphragm.</span></p>

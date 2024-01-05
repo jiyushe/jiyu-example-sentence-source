@@ -1,5 +1,7 @@
 # nut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nut.md)
+
 <p><span class="chinese">香蕉、坚果。</span><span class="english">Banana nut.</span></p>
 
 <p><span class="chinese">翼形螺母的俯视图。</span><span class="english">Top view of wing nut.</span></p>

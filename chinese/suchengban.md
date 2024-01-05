@@ -1,5 +1,7 @@
 # 速成班
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suchengban.md)
+
 <p><span class="chinese">他要去参加一个法语速成班。</span><span class="english">He will get a crash course in French.</span></p>
 
 <p><span class="chinese">我上了一个15周的打字速成班。</span><span class="english">I did a 15-week crash course in typing.</span></p>

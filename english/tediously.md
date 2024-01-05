@@ -1,5 +1,7 @@
 # tediously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tediously.md)
+
 <p><span class="chinese">五个冗长乏味的星期过去了。</span><span class="english">Five weeks drifted tediously along.</span></p>
 
 <p><span class="chinese">时间慢慢地熬过，相当沉闷。</span><span class="english">The hours drag along, tediously enough.</span></p>

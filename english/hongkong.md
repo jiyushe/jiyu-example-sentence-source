@@ -1,5 +1,7 @@
 # hongkong
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hongkong.md)
+
 <p><span class="chinese">我依家系香港。</span><span class="english">I'm in HongKong now.</span></p>
 
 <p><span class="chinese">我们何时到达香港？</span><span class="english">When do we arrive at Hongkong?</span></p>

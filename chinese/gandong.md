@@ -1,5 +1,7 @@
 # 感动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gandong.md)
+
 <p><span class="chinese">我感动到有点想哭。</span><span class="english">I am touched to cry.</span></p>
 
 <p><span class="chinese">哇噻！我太感动了。</span><span class="english">Wow! I'm so touched.</span></p>

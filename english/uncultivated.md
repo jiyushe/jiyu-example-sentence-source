@@ -1,5 +1,7 @@
 # uncultivated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncultivated.md)
+
 <p><span class="chinese">沙于沙漠为荒沙。</span><span class="english">Sand at desert is uncultivated sand.</span></p>
 
 <p><span class="chinese">世界上还有广阔的未开垦的陆地。</span><span class="english">The world had vast uncultivated land areas.</span></p>

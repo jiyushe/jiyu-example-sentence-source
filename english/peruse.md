@@ -1,5 +1,7 @@
 # peruse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peruse.md)
+
 <p><span class="chinese">学会阅读非小说类的书籍。</span><span class="english">Learn to peruse non-fiction paperbacks.</span></p>
 
 <p><span class="chinese">请在空暇时细读这篇报道。</span><span class="english">Please peruse this report at your leisure.</span></p>

@@ -1,5 +1,7 @@
 # vagrancy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vagrancy.md)
+
 <p><span class="chinese">他曾被指控做流浪者。</span><span class="english">He is charged with vagrancy.</span></p>
 
 <p><span class="chinese">有两个人被指控犯有流浪罪而遭逮捕。</span><span class="english">Two men were arrested and charged with vagrancy.</span></p>

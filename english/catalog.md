@@ -1,5 +1,7 @@
 # catalog
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catalog.md)
+
 <p><span class="chinese">产品目录。</span><span class="english">Product catalog.</span></p>
 
 <p><span class="chinese">“全文本目录名称”。</span><span class="english">Full-text Catalog Name.</span></p>

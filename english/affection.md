@@ -1,5 +1,7 @@
 # affection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/affection.md)
+
 <p><span class="chinese">他蜜意地看着她。</span><span class="english">He looked at her with affection.</span></p>
 
 <p><span class="chinese">锁着我的爱怜。</span><span class="english">There locks my tender affection.</span></p>

@@ -1,5 +1,7 @@
 # 比重
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bizhong.md)
+
 <p><span class="chinese">著色容易、比重轻。</span><span class="english">Easy coloring, light relative density.</span></p>
 
 <p><span class="chinese">检查和纠正支持液的比重。</span><span class="english">Check and correct s. g of support liquid.</span></p>

@@ -1,5 +1,7 @@
 # 宝塔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baota.md)
+
 <p><span class="chinese">此非土聚乃是殊妙大宝塔耳。</span><span class="english">It is a wonderful great Stupa.</span></p>
 
 <p><span class="chinese">天宁宝塔于2004年建成。</span><span class="english">Tianning pagoda was built in 2004.</span></p>

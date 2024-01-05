@@ -1,5 +1,7 @@
 # 天庭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianting.md)
+
 <p><span class="chinese">向上达到天庭！</span><span class="english">Upward to heaven!</span></p>
 
 <p><span class="chinese">她是在天庭被创造的。</span><span class="english">She was made in heaven.</span></p>

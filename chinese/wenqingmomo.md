@@ -1,5 +1,7 @@
 # 温情脉脉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenqingmomo.md)
+
 <p><span class="chinese">希望看到别人眼里送来这温情脉脉的一瞥。</span><span class="english">To have this warm glow that comes from someone else's eyes.</span></p>
 
 <p><span class="chinese">她一言不发，只是温情脉脉地注视着小王。</span><span class="english">Full of tender feelings, she gazes at Xiao Wang, and says nothing.</span></p>

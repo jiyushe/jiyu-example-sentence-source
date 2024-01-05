@@ -1,5 +1,7 @@
 # downhearted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/downhearted.md)
+
 <p><span class="chinese">我感到灰心丧气。</span><span class="english">I'm downhearted.</span></p>
 
 <p><span class="chinese">共和党人都很无精打采。</span><span class="english">The Republicans are downhearted.</span></p>

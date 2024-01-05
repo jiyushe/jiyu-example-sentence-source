@@ -1,5 +1,7 @@
 # rattling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rattling.md)
+
 <p><span class="chinese">我那破车还在跑着。</span><span class="english">My old car is still rattling along.</span></p>
 
 <p><span class="chinese">雹子打在屋顶上乒乓乱响。</span><span class="english">Hailstones were rattling on the roofs.</span></p>

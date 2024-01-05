@@ -1,5 +1,7 @@
 # 活埋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huomai.md)
+
 <p><span class="chinese">她想到会再次被活埋。</span><span class="english">She thinks of being buried alive again.</span></p>
 
 <p><span class="chinese">这是一种害怕被活埋的恐惧。</span><span class="english">It is fear of being out of mobile contact.</span></p>

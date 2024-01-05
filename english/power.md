@@ -1,5 +1,7 @@
 # power 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/power.md)
+
 <p><span class="chinese">我看到力量。</span><span class="english">I see power.</span></p>
 
 <p><span class="chinese">按摩器电源。</span><span class="english">Massage Power.</span></p>

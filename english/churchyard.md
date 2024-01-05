@@ -1,5 +1,7 @@
 # churchyard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/churchyard.md)
+
 <p><span class="chinese">教堂的墓地一阵雨。</span><span class="english">A churchyard shower.</span></p>
 
 <p><span class="chinese">离胡格诺派的教会墓地不远。</span><span class="english">Huguenot churchyard near there.</span></p>

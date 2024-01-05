@@ -1,5 +1,7 @@
 # world
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/world.md)
+
 <p><span class="chinese">世界真小。</span><span class="english">Small world.</span></p>
 
 <p><span class="chinese">百威世界。</span><span class="english">Budweiser World.</span></p>

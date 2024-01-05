@@ -1,5 +1,7 @@
 # kissinger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kissinger.md)
+
 <p><span class="chinese">奥巴马的团队能像尼克松和基辛格那样优雅的跳舞吗？</span><span class="english">Can the Obama team dance as gracefully as Nixon and Kissinger?</span></p>
 
 <p><span class="chinese">我不知道基辛格是何许人，兴许随口问了。</span><span class="english">I didn't know who Henry Kissinger was, and I might have asked.</span></p>

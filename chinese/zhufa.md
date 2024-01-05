@@ -1,5 +1,7 @@
 # 竹筏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhufa.md)
+
 <p><span class="chinese">阳朔河流竹筏！</span><span class="english">Yangshuo river bamboo raft!</span></p>
 
 <p><span class="chinese">但是竹筏上的水越来越多。</span><span class="english">But our bamboo raft had more water on it.</span></p>

@@ -1,5 +1,7 @@
 # stagnate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stagnate.md)
+
 <p><span class="chinese">后来市场就开始变萧条了。</span><span class="english">Later,the market began to stagnate.</span></p>
 
 <p><span class="chinese">然而有的时候，我们会停滞不前。</span><span class="english">Then there are times when we stagnate.</span></p>

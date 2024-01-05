@@ -1,5 +1,7 @@
 # knot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knot.md)
+
 <p><span class="chinese">莫扎特结连理.</span><span class="english">Mozart ties the knot.</span></p>
 
 <p><span class="chinese">你绑上了没有？</span><span class="english">Have you tied the knot?</span></p>

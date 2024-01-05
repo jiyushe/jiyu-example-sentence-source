@@ -1,5 +1,7 @@
 # scattershot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scattershot.md)
+
 <p><span class="chinese">他没驱散射击你就进陷阱了。</span><span class="english">You eat the trap without him blowing scattershot.</span></p>
 
 <p><span class="chinese">该报告谴责美国对工人的培训毫无针对性。</span><span class="english">The report condemns America's scattershot approach to training workers.</span></p>

@@ -1,5 +1,7 @@
 # 繁密
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanmi.md)
+
 <p><span class="chinese">这一地区林木繁密。</span><span class="english">This area is densely wooded.</span></p>
 
 <p><span class="chinese">这片土地曾经被繁密的森林覆盖着。</span><span class="english">The land was once covered with luxuriant forests.</span></p>

@@ -1,5 +1,7 @@
 # 演技
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanji.md)
+
 <p><span class="chinese">她的演技很精湛。</span><span class="english">Her acting is perfect.</span></p>
 
 <p><span class="chinese">她的演技真到火纯青的境界。</span><span class="english">Her acting is really perfect.</span></p>

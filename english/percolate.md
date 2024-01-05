@@ -1,5 +1,7 @@
 # percolate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/percolate.md)
+
 <p><span class="chinese">我用渗滤法煮咖啡。</span><span class="english">I'll percolate some coffee.</span></p>
 
 <p><span class="chinese">把新词铭记于心。</span><span class="english">Let new words percolate in your mind.</span></p>

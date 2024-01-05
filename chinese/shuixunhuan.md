@@ -1,5 +1,7 @@
 # 水循环
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuixunhuan.md)
+
 <p><span class="chinese">水循环利用是一种很好的节约资源的方法。</span><span class="english">Water recycle is a good way to save our resources.</span></p>
 
 <p><span class="chinese">回灰利用、水循环等的处理方法。</span><span class="english">The ways of dust re-use and water re-circulation are described.</span></p>

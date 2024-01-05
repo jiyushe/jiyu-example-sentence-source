@@ -1,5 +1,7 @@
 # dizziness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dizziness.md)
+
 <p><span class="chinese">渔民因此头昏目眩而怨声载道。</span><span class="english">Fishermen complain of dizziness.</span></p>
 
 <p><span class="chinese">那部耸人听闻的书曾轰动一时。</span><span class="english">He had a sensation of dizziness.</span></p>

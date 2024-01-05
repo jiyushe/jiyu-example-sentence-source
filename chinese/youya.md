@@ -1,5 +1,7 @@
 # 优雅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youya.md)
+
 <p><span class="chinese">梦见优雅，儿子。</span><span class="english">Dream grace, son.</span></p>
 
 <p><span class="chinese">解放油罐车挡位和优雅。</span><span class="english">Moving off with grace.</span></p>

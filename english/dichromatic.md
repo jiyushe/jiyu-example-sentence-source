@@ -1,5 +1,7 @@
 # dichromatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dichromatic.md)
+
 <p><span class="chinese">加进黑、白两色。</span><span class="english">Add into black, white dichromatic.</span></p>
 
 <p><span class="chinese">加拿大的国旗由红、白两色组成。</span><span class="english">The national flag of Canada from red, white dichromatic constitute.</span></p>

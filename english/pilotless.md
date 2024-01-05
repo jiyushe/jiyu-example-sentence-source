@@ -1,5 +1,7 @@
 # pilotless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pilotless.md)
+
 <p><span class="chinese">基于无人驾驶飞机航拍数据的葡萄沟葡萄种植面积调查。</span><span class="english">Based on Pilotless Aircraft to the investigation of grape-growing area.</span></p>
 
 <p><span class="chinese">本文介绍“长空”超低空无人驾驶飞机的飞行控制系统。</span><span class="english">The paper introduces the flight control system of the pilotless aircraft.</span></p>

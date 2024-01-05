@@ -1,5 +1,7 @@
 # whilst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whilst.md)
+
 <p><span class="chinese">当你歌声的甘露散发着</span><span class="english">Whilst the dews of your melody scatter</span></p>
 
 <p><span class="chinese">而他悲痛的朋友有的泣语</span><span class="english">Whilst some of their sad friends do say</span></p>

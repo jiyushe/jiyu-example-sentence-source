@@ -1,5 +1,7 @@
 # tax
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tax.md)
+
 <p><span class="chinese">所得税回单。</span><span class="english">Income tax returns.</span></p>
 
 <p><span class="chinese">削减出租车的税费。</span><span class="english">Axe the tax on taxis.</span></p>

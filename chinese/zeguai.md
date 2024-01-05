@@ -1,5 +1,7 @@
 # 责怪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zeguai.md)
+
 <p><span class="chinese">不要责怪任何人。</span><span class="english">Don’t blame anybody.</span></p>
 
 <p><span class="chinese">我责怪陀思妥耶夫斯基。</span><span class="english">I blame Dostoyevsky.</span></p>

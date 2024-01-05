@@ -1,5 +1,7 @@
 # shelve
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shelve.md)
+
 <p><span class="chinese">也一定要把钠盐含量减少的酱油搁置在这里。</span><span class="english">Be sure to shelve reduced-sodium soy sauce here, too.</span></p>
 
 <p><span class="chinese">当使用重油时，将转换开关2K扳到重油档。</span><span class="english">On using heavy oil, put the transfer switch 2K to heavy oil shelve.</span></p>

@@ -1,5 +1,7 @@
 # stetson
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stetson.md)
+
 <p><span class="chinese">我看到了熟人，喊住他，斯坦森！</span><span class="english">There I saw one I knew, and stopped him, crying Stetson !</span></p>
 
 <p><span class="chinese">尝试着戴一顶斯泰森毡帽或者男式软呢帽，然后看看你得到了什么样的反响。</span><span class="english">For fun try wearing a Stetson or fedora, then watch to see what kind of reaction you get.</span></p>

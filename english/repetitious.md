@@ -1,5 +1,7 @@
 # repetitious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repetitious.md)
+
 <p><span class="chinese">实验室里的工作味同嚼蜡翻来复去。</span><span class="english">Lab work is dull and repetitious.</span></p>
 
 <p><span class="chinese">我删掉它是因为它重复了。</span><span class="english">I crossed it out BECause it was repetitious.</span></p>

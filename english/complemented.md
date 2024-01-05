@@ -1,5 +1,7 @@
 # complemented
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/complemented.md)
+
 <p><span class="chinese">随链坠附送镀铑项链。</span><span class="english">Complemented with a rhodium plated chain.</span></p>
 
 <p><span class="chinese">男孩子们穿上整洁的衣服算是十全十美了。</span><span class="english">The boys were complemented on their neat turn-out.</span></p>

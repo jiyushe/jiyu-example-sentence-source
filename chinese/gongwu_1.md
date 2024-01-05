@@ -1,5 +1,7 @@
 # 公物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongwu_1.md)
+
 <p><span class="chinese">严禁破坏公物，禁止在墙上乱写乱画。</span><span class="english">Stop vandalism. Don't scribble on walls.</span></p>
 
 <p><span class="chinese">破坏公物者用刀划破了那些绘画作品。</span><span class="english">Vandals slashed the paintings with knives.</span></p>

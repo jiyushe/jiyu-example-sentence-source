@@ -1,5 +1,7 @@
 # 岩心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanxin.md)
+
 <p><span class="chinese">使用英国石油公司提供的多点岩心取样器，科学家们得到了水下的土壤标本。</span><span class="english">Using a BP-funded multicorer they got underwater soil samples.</span></p>
 
 <p><span class="chinese">岩心样品显示，在400年前，该岛像沙漠一样干旱。</span><span class="english">Core samples revealed that it was desert-like only 400 years ago.</span></p>

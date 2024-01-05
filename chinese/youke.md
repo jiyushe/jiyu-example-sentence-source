@@ -1,5 +1,7 @@
 # 游客
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youke.md)
+
 <p><span class="chinese">一名游客总是呆在巴士里。</span><span class="english">A tourist stays on the bus.</span></p>
 
 <p><span class="chinese">三等舱就是一般游客用的舱座。</span><span class="english">A rd class is a tourist class.</span></p>

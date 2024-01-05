@@ -1,5 +1,7 @@
 # argumentation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/argumentation.md)
+
 <p><span class="chinese">题目要求考生写一篇论说文。</span><span class="english">Examinees are asked to write an argumentation.</span></p>
 
 <p><span class="chinese">然后详细介绍了衡平论证的思想来源。</span><span class="english">The author introduces the resources of equity argumentation.</span></p>

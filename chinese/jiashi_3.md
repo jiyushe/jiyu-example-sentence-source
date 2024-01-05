@@ -1,5 +1,7 @@
 # 家世
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiashi_3.md)
+
 <p><span class="chinese">名字显示你的家世背景。</span><span class="english">Names reveal who your family is.</span></p>
 
 <p><span class="chinese">这部新小说是一怖引人入胜赌家世孝说。</span><span class="english">This new novel is an absorbing saga.</span></p>

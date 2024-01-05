@@ -1,5 +1,7 @@
 # improvable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/improvable.md)
+
 <p><span class="chinese">它将使无线抄表领域更加功能化，更加实用化。</span><span class="english">It will make wireless checking field available and improvable.</span></p>
 
 <p><span class="chinese">最后，还对该控制系统的可改进部分做了展望。</span><span class="english">Finally, the improvable part of the control system is prospected.</span></p>

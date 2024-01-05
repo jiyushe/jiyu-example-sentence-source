@@ -1,5 +1,7 @@
 # 水草
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuicao.md)
+
 <p><span class="chinese">我甘做一条水草！</span><span class="english">I would be a water plant.</span></p>
 
 <p><span class="chinese">一片片的水草漂浮在水面上。</span><span class="english">Patches of weeds float on the water.</span></p>

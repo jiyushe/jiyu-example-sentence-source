@@ -1,5 +1,7 @@
 # stoned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stoned.md)
+
 <p><span class="chinese">他是被人用石块砸死的。</span><span class="english">He was stoned to death.</span></p>
 
 <p><span class="chinese">那些男孩扔石头打狗。</span><span class="english">The boys stoned the dog.</span></p>

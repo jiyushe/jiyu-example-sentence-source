@@ -1,5 +1,7 @@
 # 妖术
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoshu.md)
+
 <p><span class="chinese">漩涡武器现在作用于妖术。</span><span class="english">Maelstrom Weapon now affects Hex.</span></p>
 
 <p><span class="chinese">这小女孩被妖术摄住。</span><span class="english">The little girl was bound by a magic.</span></p>

@@ -1,5 +1,7 @@
 # precis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/precis.md)
+
 <p><span class="chinese">你的报告不够准确。</span><span class="english">Your report lacks precis ion.</span></p>
 
 <p><span class="chinese">用两页写出这一章的大意。</span><span class="english">Precis this chapter in two pages.</span></p>

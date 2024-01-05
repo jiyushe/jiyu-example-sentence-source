@@ -1,5 +1,7 @@
 # dividers
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dividers.md)
+
 <p><span class="chinese">用分隔器整理好东西。</span><span class="english">Use dividers to organize stuff.</span></p>
 
 <p><span class="chinese">我希望在导航条中的每个链接之间创建分隔线。</span><span class="english">I want to create dividers between each link in the nav bar.</span></p>

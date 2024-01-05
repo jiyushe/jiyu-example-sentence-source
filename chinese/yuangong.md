@@ -1,5 +1,7 @@
 # 员工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuangong.md)
+
 <p><span class="chinese">员工意见箱。</span><span class="english">Staff suggestion box.</span></p>
 
 <p><span class="chinese">一位可敬的员工。</span><span class="english">An honorable employee.</span></p>

@@ -1,5 +1,7 @@
 # faction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faction.md)
+
 <p><span class="chinese">小朝廷里充溢阴谋阴谋、倾轧纷争。</span><span class="english">The court with little tricks, faction disputes.</span></p>
 
 <p><span class="chinese">但是王室派系并没有不战而降。</span><span class="english">But the royal faction did not give up without a fight.</span></p>

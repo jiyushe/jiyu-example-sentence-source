@@ -1,5 +1,7 @@
 # auditing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/auditing.md)
+
 <p><span class="chinese">人力资源验核。</span><span class="english">Human Resource Auditing.</span></p>
 
 <p><span class="chinese">注册会计师的首要职责是审计。</span><span class="english">The principal function of CPAs is auditing.</span></p>

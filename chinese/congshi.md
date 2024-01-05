@@ -1,5 +1,7 @@
 # 从事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/congshi.md)
+
 <p><span class="chinese">一个从事打捞工作的人。</span><span class="english">To work as a wrecker.</span></p>
 
 <p><span class="chinese">当时我从事的是金融业,</span><span class="english">I was working in finance</span></p>

@@ -1,5 +1,7 @@
 # lowery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lowery.md)
+
 <p><span class="chinese">克洛伊洛厄一个纯感性的表现。</span><span class="english">A pure sentimental performance from Chloe Lowery.</span></p>
 
 <p><span class="chinese">罗威瑞说，“我和我丈夫想通过做一些事，好使我们离开这间屋子”。</span><span class="english">"My husband and I wanted to do something to get out of the house, " Lowery said.</span></p>

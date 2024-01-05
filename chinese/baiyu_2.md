@@ -1,5 +1,7 @@
 # 白鱼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baiyu_2.md)
+
 <p><span class="chinese">这种酒非常适合白鱼。</span><span class="english">This wine goes very well with white fish.</span></p>
 
 <p><span class="chinese">羽衣甘蓝，皮卡尔香槟是一个伟大的香槟搭配白鱼。</span><span class="english">Collard-Picard champagne is a great champagne to pair with white fish.</span></p>

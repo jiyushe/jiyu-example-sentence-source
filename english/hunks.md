@@ -1,5 +1,7 @@
 # hunks
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hunks.md)
+
 <p><span class="chinese">大块大块脱水的兽皮和脂肪。</span><span class="english">Hunks of desiccated skin and fat.</span></p>
 
 <p><span class="chinese">一个人并非借用自身的灵魂而存在。</span><span class="english">A man doesn't borrow hunks of its soul.</span></p>

@@ -1,5 +1,7 @@
 # 榜样
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bangyang.md)
+
 <p><span class="chinese">谁是你的榜样？</span><span class="english">Who is your role model?</span></p>
 
 <p><span class="chinese">榜样是最好的良言。</span><span class="english">Example is the best precept.</span></p>

@@ -1,5 +1,7 @@
 # asymmetrical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asymmetrical.md)
+
 <p><span class="chinese">眼球是身体中唯一接近空腔球体的视觉器官。</span><span class="english">The eye is a slightly asymmetrical hollow sphere.</span></p>
 
 <p><span class="chinese">额外的潇洒和舒适适合不对称的鞋带设计。</span><span class="english">Asymmetrical lacing design for extra pizazz and a snug fit.</span></p>

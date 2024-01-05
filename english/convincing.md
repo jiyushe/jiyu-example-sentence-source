@@ -1,5 +1,7 @@
 # convincing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/convincing.md)
+
 <p><span class="chinese">他是如此令人信服。</span><span class="english">He was very convincing.</span></p>
 
 <p><span class="chinese">英格兰队的胜利不能令人信服。</span><span class="english">England were not convincing.</span></p>

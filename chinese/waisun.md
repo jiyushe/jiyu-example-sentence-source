@@ -1,5 +1,7 @@
 # 外孙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waisun.md)
+
 <p><span class="chinese">那是他的外孙。</span><span class="english">This was his grandson.</span></p>
 
 <p><span class="chinese">那正是斯托威尔的外孙！</span><span class="english">It was the Stowells' grandson.</span></p>

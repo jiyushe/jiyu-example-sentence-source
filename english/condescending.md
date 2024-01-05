@@ -1,5 +1,7 @@
 # condescending
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/condescending.md)
+
 <p><span class="chinese">他从不喜欢她那欠人钱的语调。</span><span class="english">He’d never liked her condescending tone.</span></p>
 
 <p><span class="chinese">他用迁就的眼光细细地端详了她一下。</span><span class="english">He gave her a critical and condescending look-over.</span></p>

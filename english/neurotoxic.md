@@ -1,5 +1,7 @@
 # neurotoxic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neurotoxic.md)
+
 <p><span class="chinese">迷幻药真的是神经毒吗？</span><span class="english">Is Ecstasy really neurotoxic?</span></p>
 
 <p><span class="chinese">儿童对于铅的神经毒性影响特别脆弱。</span><span class="english">Children are particularly vulnerable to the neurotoxic effects of lead.</span></p>

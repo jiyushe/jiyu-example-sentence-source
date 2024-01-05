@@ -1,5 +1,7 @@
 # daze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/daze.md)
+
 <p><span class="chinese">你是谢达泽先生吗？</span><span class="english">You are Mr. Xie Daze?</span></p>
 
 <p><span class="chinese">我神思恍惚地向英语教室走去。</span><span class="english">I made my way to English in a daze.</span></p>

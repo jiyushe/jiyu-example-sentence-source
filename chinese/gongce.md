@@ -1,5 +1,7 @@
 # 公厕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongce.md)
+
 <p><span class="chinese">我们不需要清洁卫生的公厕！！！</span><span class="english">Say No To Clean Public Toliet! ! !</span></p>
 
 <p><span class="chinese">公厕评定将从一星级一直到五星级。</span><span class="english">Public toilets will be rated from one to five stars.</span></p>

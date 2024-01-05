@@ -1,5 +1,7 @@
 # 潇潇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoxiao_2.md)
+
 <p><span class="chinese">让我们红尘做伴活的潇潇洒洒。</span><span class="english">Let us the company live Xiaoxiao Sasa.</span></p>
 
 <p><span class="chinese">把握青春年华，活得潇潇洒洒。</span><span class="english">So grasp the youth to lead a chic life.</span></p>

@@ -1,5 +1,7 @@
 # 人手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renshou_1.md)
+
 <p><span class="chinese">人手一册。</span><span class="english">Everyone has a copy.</span></p>
 
 <p><span class="chinese">是的，我们现在正缺人手。</span><span class="english">Yeah, we are short-handed now.</span></p>

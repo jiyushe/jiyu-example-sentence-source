@@ -1,5 +1,7 @@
 # 不求甚解
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buqiushenjie.md)
+
 <p><span class="chinese">读书不求甚解，没有什么用处。</span><span class="english">Reading without understand is of no use.</span></p>
 
 <p><span class="chinese">读书不求甚解是无用的。</span><span class="english">It's no use reading without understanding.</span></p>

@@ -1,5 +1,7 @@
 # 虐政
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nvezheng.md)
+
 <p><span class="chinese">爱情是可爱的虐政，情人们甘受它痛苦的折磨。</span><span class="english">Love is a sweet tyranny, because the lover endures his torment of pain.</span></p>
 
 <p><span class="chinese">感情是可爱的虐政，情大家甘受它痛苦的折磨。</span><span class="english">Love is a sweet tyranny, since the lover endures his torment be toingly.</span></p>

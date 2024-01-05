@@ -1,5 +1,7 @@
 # chandler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chandler.md)
+
 <p><span class="chinese">钱德宾的工作为何?。</span><span class="english">What is Chandler Bing's job?</span></p>
 
 <p><span class="chinese">钱德有了一台新电脑。</span><span class="english">Chandler gets a new computer.</span></p>

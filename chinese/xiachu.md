@@ -1,5 +1,7 @@
 # 下厨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiachu.md)
+
 <p><span class="chinese">我不喜欢下厨。</span><span class="english">I hate the Yankees.</span></p>
 
 <p><span class="chinese">很开心为比尔下厨。</span><span class="english">It's fun to cook for Bill.</span></p>

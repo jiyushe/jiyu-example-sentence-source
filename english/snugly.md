@@ -1,5 +1,7 @@
 # snugly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snugly.md)
+
 <p><span class="chinese">他的牛仔裤紧绷绷的。</span><span class="english">His jeans fit snugly.</span></p>
 
 <p><span class="chinese">他把地图整洁地塞进包里。</span><span class="english">He fitted the map snugly into the bag.</span></p>

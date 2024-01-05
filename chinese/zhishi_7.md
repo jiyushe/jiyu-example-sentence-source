@@ -1,5 +1,7 @@
 # 直视
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhishi_7.md)
+
 <p><span class="chinese">我直视着格雷迪丝的眼睛。</span><span class="english">I looked Gladys straight in the eye.</span></p>
 
 <p><span class="chinese">她直视着他--活脱脱一个女巫的神气。</span><span class="english">She gazed at him--a pythoness in humour.</span></p>

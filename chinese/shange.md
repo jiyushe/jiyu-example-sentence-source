@@ -1,5 +1,7 @@
 # 山歌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shange.md)
+
 <p><span class="chinese">山歌不唱忘记多。</span><span class="english">Folks songs are forgotten when not sung.</span></p>
 
 <p><span class="chinese">山歌是右江地区群众最为喜爱的艺术形式。</span><span class="english">Ballad is a favorite art for people in Youjiang area.</span></p>

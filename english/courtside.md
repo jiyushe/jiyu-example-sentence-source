@@ -1,5 +1,7 @@
 # courtside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/courtside.md)
+
 <p><span class="chinese">他们坐在场边。</span><span class="english">They sat courtside.</span></p>
 
 <p><span class="chinese">一个票贩子卖给我们的票正好靠近球场的边缘。</span><span class="english">A scalper sold us tickets for seats right at near the courtside.</span></p>

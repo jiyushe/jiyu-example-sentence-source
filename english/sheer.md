@@ -1,5 +1,7 @@
 # sheer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sheer.md)
+
 <p><span class="chinese">我完全傣在偶然喻见了她。</span><span class="english">I met her by sheer chance.</span></p>
 
 <p><span class="chinese">论脸皮厚，你可算是天下第一。</span><span class="english">For sheer cheek, you're it.</span></p>

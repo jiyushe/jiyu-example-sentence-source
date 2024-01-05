@@ -1,5 +1,7 @@
 # 消石灰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoshihui.md)
+
 <p><span class="chinese">生石灰与水化合成为消石灰。</span><span class="english">Quicklime combines with water to form slaked lime.</span></p>
 
 <p><span class="chinese">消石灰进入人的眼睛可能会导致失明。</span><span class="english">You can go blind if you gets white lime in your eyes.</span></p>

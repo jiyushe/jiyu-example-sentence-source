@@ -1,5 +1,7 @@
 # solidly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solidly.md)
+
 <p><span class="chinese">他身体很瓷实。</span><span class="english">He is solidly built.</span></p>
 
 <p><span class="chinese">这座桥造得很坚固。</span><span class="english">This bridge is very solidly built.</span></p>

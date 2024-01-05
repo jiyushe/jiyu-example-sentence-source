@@ -1,5 +1,7 @@
 # lhasa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lhasa.md)
+
 <p><span class="chinese">联系驻市金融部门、市总工会。</span><span class="english">Contact the financial departments and labor unions in Lhasa.</span></p>
 
 <p><span class="chinese">在当地各大寺庙都挤满了朝圣、转经的人群。</span><span class="english">At that time, all large temples in Lhasa were filled with pilgrims.</span></p>

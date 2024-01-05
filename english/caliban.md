@@ -1,5 +1,7 @@
 # caliban
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caliban.md)
+
 <p><span class="chinese">丑陋重复错误他宣称诅咒。</span><span class="english">Caliban repeats the mistakes he claims to curse.</span></p>
 
 <p><span class="chinese">正如卡列班在镜中看见自身时的狂怒。</span><span class="english">The rage of Caliban seeing his own face in a glass.</span></p>

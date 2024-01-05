@@ -1,5 +1,7 @@
 # 零零星星
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linglingxingxing.md)
+
 <p><span class="chinese">她喜欢书中的零零星星的诗句。</span><span class="english">She liked the scattering of poems.</span></p>
 
 <p><span class="chinese">路旁是一片树林，还有零零星星的几所房子。</span><span class="english">There were woods and few houses along the way.</span></p>

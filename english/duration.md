@@ -1,5 +1,7 @@
 # duration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duration.md)
+
 <p><span class="chinese">持续时间有长有短。</span><span class="english">Duration has long have short.</span></p>
 
 <p><span class="chinese">持续有长有短。</span><span class="english">The duration of a long short.</span></p>

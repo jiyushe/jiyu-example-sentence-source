@@ -1,5 +1,7 @@
 # 音调
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yindiao.md)
+
 <p><span class="chinese">音调优美的。</span><span class="english">EF-a tale of melodic.</span></p>
 
 <p><span class="chinese">你能唱出这个音调吗？</span><span class="english">Can you sing the bass pitch?</span></p>

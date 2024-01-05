@@ -1,5 +1,7 @@
 # photoconductive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photoconductive.md)
+
 <p><span class="chinese">硒是一种光电导物质。</span><span class="english">Selenium is a photoconductive substance.</span></p>
 
 <p><span class="chinese">光敏电阻已经非常是一种成熟的传感器。</span><span class="english">Photoconductive resistance has been very is a mature sensor.</span></p>

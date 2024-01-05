@@ -1,5 +1,7 @@
 # pineal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pineal.md)
+
 <p><span class="chinese">松果体音阶技术对每个个体是不同的。</span><span class="english">The Pineal Toning Technique is different for each individual.</span></p>
 
 <p><span class="chinese">当你们的意识偏离了，就要把它带回到松果体。</span><span class="english">When your mind wanders, you bring it back to the pineal gland.</span></p>

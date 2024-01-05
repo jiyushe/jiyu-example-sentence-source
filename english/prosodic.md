@@ -1,5 +1,7 @@
 # prosodic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prosodic.md)
+
 <p><span class="chinese">本文重点研究了韵律结构预测模型。</span><span class="english">This paper focuses on the prosodic structure prediction model.</span></p>
 
 <p><span class="chinese">韵律翻译既有可能性，也有局限性。</span><span class="english">The possibility and restraint of prosodic translation has been theorized.</span></p>

@@ -1,5 +1,7 @@
 # 面貌一新
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianmaoyixin.md)
+
 <p><span class="chinese">离开这个世界，再面貌一新的回来。</span><span class="english">Left this world and come back changed.</span></p>
 
 <p><span class="chinese">美国总统的椭圆形办公室现在已面貌一新。</span><span class="english">The Oval Office has gotten a makeover.</span></p>

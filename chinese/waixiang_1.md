@@ -1,5 +1,7 @@
 # 外向
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waixiang_1.md)
+
 <p><span class="chinese">我知道你外向性。</span><span class="english">I know you extroversion.</span></p>
 
 <p><span class="chinese">因为我们是外向者。</span><span class="english">Because we’re extroverts.</span></p>

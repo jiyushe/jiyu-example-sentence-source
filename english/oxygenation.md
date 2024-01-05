@@ -1,5 +1,7 @@
 # oxygenation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oxygenation.md)
+
 <p><span class="chinese">肺脏的顶部得到适当的氧合作用。</span><span class="english">The apices of the lungs get proper oxygenation.</span></p>
 
 <p><span class="chinese">它维持细胞氧化，使不发生突变。</span><span class="english">It sustains cell oxygenation so that mutations will not occur.</span></p>

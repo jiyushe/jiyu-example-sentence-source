@@ -1,5 +1,7 @@
 # 靠近
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaojin.md)
+
 <p><span class="chinese">它靠近一条小河。</span><span class="english">It is on a river.</span></p>
 
 <p><span class="chinese">它靠近伯恩茅斯。</span><span class="english">It's near Bournemouth.</span></p>

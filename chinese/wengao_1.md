@@ -1,5 +1,7 @@
 # 文稿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wengao_1.md)
+
 <p><span class="chinese">大多数文稿在表达的时候没有被改善。</span><span class="english">Most drafts do not improve upon delivery.</span></p>
 
 <p><span class="chinese">我们一天收到几份打出的文稿。</span><span class="english">We receive several new typescripts a day.</span></p>

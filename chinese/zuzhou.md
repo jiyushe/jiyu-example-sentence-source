@@ -1,5 +1,7 @@
 # 诅咒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuzhou.md)
+
 <p><span class="chinese">这是我们的诅咒。</span><span class="english">It is our curse.</span></p>
 
 <p><span class="chinese">我诅咒你堕入地狱！</span><span class="english">I curse you in hell!</span></p>

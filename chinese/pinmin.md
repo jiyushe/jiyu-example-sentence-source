@@ -1,5 +1,7 @@
 # 贫民
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinmin.md)
+
 <p><span class="chinese">为贫民举行了义卖。</span><span class="english">A bazaar was held for the poor.</span></p>
 
 <p><span class="chinese">那位医生经常救济贫民。</span><span class="english">The doctor often relieve the poor.</span></p>

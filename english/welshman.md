@@ -1,5 +1,7 @@
 # welshman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/welshman.md)
+
 <p><span class="chinese">老威尔斯人精于木雕。</span><span class="english">The old Welshman was skillful in woodcarving.</span></p>
 
 <p><span class="chinese">安东尼奥•瓦伦西亚沿右路突破，向中路分球找到了威尔士人。</span><span class="english">Antonio Valencia attacked down the right and found the Welshman inside.</span></p>

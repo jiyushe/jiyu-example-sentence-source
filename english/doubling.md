@@ -1,5 +1,7 @@
 # doubling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doubling.md)
+
 <p><span class="chinese">他给美国和俄罗斯当双重间谍。</span><span class="english">He was doubling for America and Russia.</span></p>
 
 <p><span class="chinese">吉夫掉头走了，这次没再回来。</span><span class="english">Giff leaves, not doubling back this time.</span></p>

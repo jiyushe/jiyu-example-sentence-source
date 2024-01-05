@@ -1,5 +1,7 @@
 # 桅杆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weigan.md)
+
 <p><span class="chinese">适合做桅杆和帆桁。</span><span class="english">Suitable for masts and yards.</span></p>
 
 <p><span class="chinese">这种船上有一根桅杆和两面帆。</span><span class="english">The rig is one mast and two sails.</span></p>

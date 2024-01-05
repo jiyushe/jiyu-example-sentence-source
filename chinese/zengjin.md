@@ -1,5 +1,7 @@
 # 增进
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zengjin.md)
+
 <p><span class="chinese">小麦的胚芽对增进健康很有好处。</span><span class="english">Wheat germ is very health-giving.</span></p>
 
 <p><span class="chinese">它能增进亲切感和爱意。</span><span class="english">It promotes affability and affection.</span></p>

@@ -1,5 +1,7 @@
 # cenotaph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cenotaph.md)
+
 <p><span class="chinese">他死后没有找到尸体，只能做了一个衣冠冢。</span><span class="english">They have not found his body so they just make a cenotaph for him.</span></p>
 
 <p><span class="chinese">矗立着的纪念碑是对战争中死难者的纪念。</span><span class="english">The cenotaph stands as a remembrance of those killed during the war.</span></p>

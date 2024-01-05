@@ -1,5 +1,7 @@
 # 会费
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huifei.md)
+
 <p><span class="chinese">保罗还没交会费。</span><span class="english">Paul haven't paid my dues yet.</span></p>
 
 <p><span class="chinese">不过入会费实在太高了。</span><span class="english">But the membership fees are too high.</span></p>

@@ -1,5 +1,7 @@
 # 未了
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiliao.md)
+
 <p><span class="chinese">花事未了。</span><span class="english">Flowerage is not finish.</span></p>
 
 <p><span class="chinese">还想达成什么未了心愿？</span><span class="english">What wish would you fullfill?</span></p>

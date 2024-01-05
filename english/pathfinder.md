@@ -1,5 +1,7 @@
 # pathfinder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pathfinder.md)
+
 <p><span class="chinese">Pathfinder正制造两种款式的产品，但正计划其它产品的生产。</span><span class="english">Pathfinder is making two models but plans others.</span></p>
 
 <p><span class="chinese">保持对象的选定，并打开探路者的调色盘。</span><span class="english">Keep the object selected and open the Pathfinder Palette.</span></p>

@@ -1,5 +1,7 @@
 # leeds
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leeds.md)
+
 <p><span class="chinese">请查一下去里兹的快车。</span><span class="english">Please look up a fast train to Leeds.</span></p>
 
 <p><span class="chinese">狗项圈博物馆，利兹城堡，肯特郡，英国。</span><span class="english">Dog Collar Museum, Leeds Castle, Kent.</span></p>

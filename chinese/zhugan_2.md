@@ -1,5 +1,7 @@
 # 竹竿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhugan_2.md)
+
 <p><span class="chinese">竹竿在水中变弯了。</span><span class="english">The bamboo stick warped in water.</span></p>
 
 <p><span class="chinese">他用竹竿支撑起西红柿秧。</span><span class="english">He staked his tomato vines with bamboo.</span></p>

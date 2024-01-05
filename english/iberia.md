@@ -1,5 +1,7 @@
 # iberia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iberia.md)
+
 <p><span class="chinese">沃尔什和联合工会激战正酣，而伊比利亚却对此不感兴趣。</span><span class="english">Iberia seems unmoved by Mr Walsh's fight with the union.</span></p>
 
 <p><span class="chinese">他现在肯定已经把目光转向了西班牙的伊比利亚航空，或者干脆放弃这个计划。</span><span class="english">He must now turn his attention to Iberia of Spain or be left behind.</span></p>

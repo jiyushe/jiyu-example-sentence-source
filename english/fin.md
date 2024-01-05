@@ -1,5 +1,7 @@
 # fin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fin.md)
+
 <p><span class="chinese">这条鱼的尾鳍受伤了。</span><span class="english">The fish's tail fin was hurt.</span></p>
 
 <p><span class="chinese">中国立法委员呼吁禁止鲨鱼翅交易。</span><span class="english">Lawmaker urges shark fin trading ban.</span></p>

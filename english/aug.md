@@ -1,5 +1,7 @@
 # aug
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aug.md)
+
 <p><span class="chinese">我计划八月一号去姨妈家。</span><span class="english">I plan on Aug. 1 to the aunt.</span></p>
 
 <p><span class="chinese">青年营将于17日闭营。</span><span class="english">The camp will end on Aug. 17.</span></p>

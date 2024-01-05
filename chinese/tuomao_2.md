@@ -1,5 +1,7 @@
 # 驼毛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuomao_2.md)
+
 <p><span class="chinese">驼毛刷是用什么动物的毛做的？</span><span class="english">What is a camel's hair brush made of?</span></p>
 
 <p><span class="chinese">骆驼毛地毯也是旧物件。</span><span class="english">The camel hair carpet is a vintage find.</span></p>

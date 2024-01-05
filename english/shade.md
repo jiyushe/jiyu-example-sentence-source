@@ -1,5 +1,7 @@
 # shade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shade.md)
+
 <p><span class="chinese">没有树荫。</span><span class="english">No shade.</span></p>
 
 <p><span class="chinese">这种植物喜阴处。</span><span class="english">The plant loves shade.</span></p>

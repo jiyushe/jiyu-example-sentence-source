@@ -1,5 +1,7 @@
 # victim 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/victim.md)
+
 <p><span class="chinese">“我是一名受害者”。</span><span class="english">I am a victim.</span></p>
 
 <p><span class="chinese">她的儿子是一位受害者。</span><span class="english">Her son was a victim.</span></p>

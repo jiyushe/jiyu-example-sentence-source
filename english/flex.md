@@ -1,5 +1,7 @@
 # flex
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flex.md)
+
 <p><span class="chinese">或是把地毯折曲。</span><span class="english">Or it is a carpet flex.</span></p>
 
 <p><span class="chinese">要一张全国通用的帐户卡</span><span class="english">Get a Nationwide Flex Account card</span></p>

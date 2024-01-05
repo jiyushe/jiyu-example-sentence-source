@@ -1,5 +1,7 @@
 # particular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/particular.md)
+
 <p><span class="chinese">这个人很特别。</span><span class="english">This one in particular.</span></p>
 
 <p><span class="chinese">每种都有其独特的泛音组合</span><span class="english">It's the particular blend.</span></p>

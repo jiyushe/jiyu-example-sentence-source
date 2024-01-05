@@ -1,5 +1,7 @@
 # gaze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gaze.md)
+
 <p><span class="chinese">转移你的注视。</span><span class="english">Shift your gaze.</span></p>
 
 <p><span class="chinese">他大胆回应她的凝视。</span><span class="english">He met her gaze boldly.</span></p>

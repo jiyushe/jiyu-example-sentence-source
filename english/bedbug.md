@@ -1,5 +1,7 @@
 # bedbug
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bedbug.md)
+
 <p><span class="chinese">臭虫叮咬通常不需要治疗。</span><span class="english">Bedbug bites do not usually require treatment.</span></p>
 
 <p><span class="chinese">臭虫的最佳食品，是三人同睡一床。</span><span class="english">The best bait for bedbug be to sleep three In a bed.</span></p>

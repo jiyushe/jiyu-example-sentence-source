@@ -1,5 +1,7 @@
 # 哨卡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaoqia.md)
+
 <p><span class="chinese">我们安全地溜过了敌人的哨卡。</span><span class="english">We slipped safely through the enemy's post.</span></p>
 
 <p><span class="chinese">废弃的边界警卫哨卡。</span><span class="english">This frontier guard station is abandoned now.</span></p>

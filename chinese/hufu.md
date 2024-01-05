@@ -1,5 +1,7 @@
 # 护符
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hufu.md)
+
 <p><span class="chinese">另外，这将是对护符的最理想的测试。</span><span class="english">Plus, it will be the perfect test for the Talisman.</span></p>
 
 <p><span class="chinese">护符，物神，符咒西非的一种用作物神、符咒、或护身符的物件。</span><span class="english">An object used as a fetish , a charm, or an amulet in West Africa.</span></p>

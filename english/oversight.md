@@ -1,5 +1,7 @@
 # oversight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oversight.md)
+
 <p><span class="chinese">那次疏忽造成了重大损失。</span><span class="english">The oversight issued in heavy losses.</span></p>
 
 <p><span class="chinese">你们需要监管和问责。</span><span class="english">You need oversight and accountability.</span></p>

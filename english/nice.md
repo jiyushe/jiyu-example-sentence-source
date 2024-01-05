@@ -1,5 +1,7 @@
 # nice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nice.md)
+
 <p><span class="chinese">她人好么？</span><span class="english">Is she nice?</span></p>
 
 <p><span class="chinese">很漂亮的。</span><span class="english">It's very nice.</span></p>

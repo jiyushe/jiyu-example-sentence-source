@@ -1,5 +1,7 @@
 # desist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/desist.md)
+
 <p><span class="chinese">你们应该停止这种愚蠢的活动。</span><span class="english">You should desist from such foolish activities.</span></p>
 
 <p><span class="chinese">法官责令他别再威胁他妻子。</span><span class="english">The judge told him to desist from threatening his wife.</span></p>

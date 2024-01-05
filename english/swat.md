@@ -1,5 +1,7 @@
 # swat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swat.md)
+
 <p><span class="chinese">他说，县是想放在一起一特警队的时间。</span><span class="english">She gave him a swat on the head.</span></p>
 
 <p><span class="chinese">蝙蝠纳特用力拍小昆虫马特。</span><span class="english">The bat Nat swat at the gnat Matt.</span></p>

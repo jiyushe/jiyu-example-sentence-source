@@ -1,5 +1,7 @@
 # northumbria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/northumbria.md)
+
 <p><span class="chinese">据诺森比亚警方称，周日晚一男一女人在赫克瑟姆地区被逮捕。</span><span class="english">Northumbria Police said the man and woman, from the Hexham area, had been arrested late on Sunday.</span></p>
 
 <p><span class="chinese">英国诺森比亚大学就多酚类物质对大脑的影响作用展开了两项研究。</span><span class="english">The theory follows two Northumbria University studies into the effects of polyphenols on the mind.</span></p>

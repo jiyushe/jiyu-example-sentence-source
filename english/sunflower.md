@@ -1,5 +1,7 @@
 # sunflower
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sunflower.md)
+
 <p><span class="chinese">她喜欢吃葵花瓜子。</span><span class="english">She likes sunflower seeds.</span></p>
 
 <p><span class="chinese">这朵向日葵是用西瓜精雕细琢而成。</span><span class="english">A sunflower made of watermelon.</span></p>

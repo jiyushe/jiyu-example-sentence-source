@@ -1,5 +1,7 @@
 # 小住
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaozhu.md)
+
 <p><span class="chinese">彼得曾在意大利小住过。</span><span class="english">Peter lived in Italy for a time.</span></p>
 
 <p><span class="chinese">他应该在乡村小住数日。</span><span class="english">He must sojourn in villages and hamlets.</span></p>

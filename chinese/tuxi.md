@@ -1,5 +1,7 @@
 # 突袭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuxi.md)
+
 <p><span class="chinese">然后突袭他。</span><span class="english">Then pounce.</span></p>
 
 <p><span class="chinese">突袭开始了。</span><span class="english">The raid begins.</span></p>

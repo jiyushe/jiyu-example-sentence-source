@@ -1,5 +1,7 @@
 # drumbeat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drumbeat.md)
+
 <p><span class="chinese">他们合着击鼓声跳舞。</span><span class="english">They timed their steps to the drumbeat.</span></p>
 
 <p><span class="chinese">今年它集中于‘关于开放式网络的教育’。</span><span class="english">This year Drumbeat focused on ‘education for the open web’.</span></p>

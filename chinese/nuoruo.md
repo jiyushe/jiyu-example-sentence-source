@@ -1,5 +1,7 @@
 # 懦弱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nuoruo.md)
+
 <p><span class="chinese">我胆怯、懦弱吗？</span><span class="english">I fear, cowardliness?</span></p>
 
 <p><span class="chinese">他是个懦弱的骑士。</span><span class="english">He is a recreant knight.</span></p>

@@ -1,5 +1,7 @@
 # reignite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reignite.md)
+
 <p><span class="chinese">创新是否能够重新搞活缺血的农业融资。</span><span class="english">Can innovations reignite anemic rural finance?</span></p>
 
 <p><span class="chinese">这一发现可能会重新点燃在墨西哥的转基因辩论。</span><span class="english">The discovery could reignite the GM debate in the country.</span></p>

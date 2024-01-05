@@ -1,5 +1,7 @@
 # grassy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grassy.md)
+
 <p><span class="chinese">咱们顺著草坡滑下去。</span><span class="english">We slid down the grassy slope.</span></p>
 
 <p><span class="chinese">一只鹿俯卧在草堤上。</span><span class="english">A deer couched on a grassy bank.</span></p>

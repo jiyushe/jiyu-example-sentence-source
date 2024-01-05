@@ -1,5 +1,7 @@
 # 分力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenli.md)
+
 <p><span class="chinese">方向的分力。，the，y，component。,这是x方向的。</span><span class="english">y This is the x component.</span></p>
 
 <p><span class="chinese">分力新产生的作用相同。</span><span class="english">Components produce the same effect.</span></p>

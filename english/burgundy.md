@@ -1,5 +1,7 @@
 # burgundy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burgundy.md)
+
 <p><span class="chinese">帕克不喜欢布根地？</span><span class="english">Parker not like Burgundy?</span></p>
 
 <p><span class="chinese">你们有1978年份的勃艮地红酒吗？</span><span class="english">Do you have Red Burgundy 1978?</span></p>

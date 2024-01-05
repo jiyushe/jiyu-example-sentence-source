@@ -1,5 +1,7 @@
 # 岔口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chakou.md)
+
 <p><span class="chinese">剡督岔口处向左怪。</span><span class="english">Go to the fork and turn left.</span></p>
 
 <p><span class="chinese">走到岔口处向左拐。</span><span class="english">Go up to the fork and turn left.</span></p>

@@ -1,5 +1,7 @@
 # entrenchment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entrenchment.md)
+
 <p><span class="chinese">但是激励效应和防御效应均不显著。</span><span class="english">However, both the incentive effects and entrenchment effects are not notable.</span></p>
 
 <p><span class="chinese">固守在自我，作为一种自我的重要性，或不安全导致自我消费，扼杀同情。</span><span class="english">Entrenchment in the self, consumption of self as a result of self importance or insecurity, strangles empathy.</span></p>

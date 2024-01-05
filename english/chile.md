@@ -1,5 +1,7 @@
 # chile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chile.md)
+
 <p><span class="chinese">智利硝石。</span><span class="english">Chile saltpeter.</span></p>
 
 <p><span class="chinese">智利硝石。</span><span class="english">Chile saltpetre.</span></p>

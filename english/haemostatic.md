@@ -1,5 +1,7 @@
 # haemostatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haemostatic.md)
+
 <p><span class="chinese">血浆中凝血酶是近年开发的一种新型止血剂。</span><span class="english">Thrombin in blood is a new haemostatic which is exploited in recent years.</span></p>
 
 <p><span class="chinese">我们的产品呢，由胶原蛋白制成，胶原蛋白是一种自然的止血剂,有包覆的作用。</span><span class="english">So our product, made out of collagen, collagen is a natural haemostatic that induces a reaction of cladding.</span></p>

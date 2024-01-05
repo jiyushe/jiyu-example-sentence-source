@@ -1,5 +1,7 @@
 # savior
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/savior.md)
+
 <p><span class="chinese">再说他还是你的救命恩人。</span><span class="english">After all he was your savior.</span></p>
 
 <p><span class="chinese">他们都需要一个救助者，一个救世主。</span><span class="english">They all needed a rescuer, a savior.</span></p>

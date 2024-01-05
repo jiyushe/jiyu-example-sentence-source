@@ -1,5 +1,7 @@
 # laith
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laith.md)
+
 <p><span class="chinese">莱思和他的家人后来就搬走了。</span><span class="english">Laith and his family moved out of the house.</span></p>
 
 <p><span class="chinese">“什么？超麻醉枪竟然对他没用？”显然莱斯十分震惊。</span><span class="english">"What? The super-anesthesia gun is useless to him?" Obviously Laith shocks extremely.</span></p>

@@ -1,5 +1,7 @@
 # dialect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dialect.md)
+
 <p><span class="chinese">它是一种方言吗？</span><span class="english">Is it a dialect?</span></p>
 
 <p><span class="chinese">即闽南方言艺术。</span><span class="english">Minnan dialect that is art.</span></p>

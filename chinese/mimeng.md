@@ -1,5 +1,7 @@
 # 迷梦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mimeng.md)
+
 <p><span class="chinese">驱赶着黑夜的迷梦。</span><span class="english">And drives away dark dreaming night.</span></p>
 
 <p><span class="chinese">但这一切基本上是迷梦和狂想。</span><span class="english">But all this was essentially lunacy.</span></p>

@@ -1,5 +1,7 @@
 # decoction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decoction.md)
+
 <p><span class="chinese">芽用于煎服。</span><span class="english">Buds are used in decoction.</span></p>
 
 <p><span class="chinese">吃一煎药就会好的。</span><span class="english">One decoction will put you right.</span></p>

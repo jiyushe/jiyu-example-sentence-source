@@ -1,5 +1,7 @@
 # 独眼龙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duyanlong.md)
+
 <p><span class="chinese">她的未婚夫是个独眼龙。</span><span class="english">Her fiance is a one-eyed man.</span></p>
 
 <p><span class="chinese">就在那时有一个独眼龙出现了。</span><span class="english">But just then a secon one-eyed man appeared.</span></p>

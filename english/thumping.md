@@ -1,5 +1,7 @@
 # thumping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thumping.md)
+
 <p><span class="chinese">有人在捶门呢。</span><span class="english">Someone is thumping at the door.</span></p>
 
 <p><span class="chinese">她激动得心怦怦直跳。</span><span class="english">Her heart was thumping with emotion.</span></p>

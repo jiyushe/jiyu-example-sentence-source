@@ -1,5 +1,7 @@
 # 工蚁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongyi_3.md)
+
 <p><span class="chinese">工蚁正在清理刚出生的小蚂蚁。</span><span class="english">A worker is cleaning a new-born ant.</span></p>
 
 <p><span class="chinese">蚂蚁城里的所有垃圾由工蚁运出去。</span><span class="english">All rubbish in on ant city by the worker ants.</span></p>

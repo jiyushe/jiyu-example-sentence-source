@@ -1,5 +1,7 @@
 # pale 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pale.md)
+
 <p><span class="chinese">他身体瘦削，面色苍白。</span><span class="english">He is thin, pale.</span></p>
 
 <p><span class="chinese">浅禾秆色。</span><span class="english">Pale straw in color.</span></p>

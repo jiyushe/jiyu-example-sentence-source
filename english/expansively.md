@@ -1,5 +1,7 @@
 # expansively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expansively.md)
+
 <p><span class="chinese">广泛应用于啤酒和白酒行业。</span><span class="english">It is expansively applied to beer and white spirit industries.</span></p>
 
 <p><span class="chinese">城镇的发展，必然带来城镇用地的扩张。</span><span class="english">The development of cities, brings the cities to use expansively the place.</span></p>

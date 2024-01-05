@@ -1,5 +1,7 @@
 # priesthood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/priesthood.md)
+
 <p><span class="chinese">加入英国国教工会。</span><span class="english">You enter the Anglican priesthood.</span></p>
 
 <p><span class="chinese">到了1706年尾，他离开了正职牧师职务。</span><span class="english">In late 1706 he withdrew from active priesthood.</span></p>

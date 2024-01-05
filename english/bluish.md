@@ -1,5 +1,7 @@
 # bluish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bluish.md)
+
 <p><span class="chinese">一张带着蓝色光晕的脸。</span><span class="english">A face in bluish hue.</span></p>
 
 <p><span class="chinese">他已刺入蓝蓝灰色眼睛。</span><span class="english">He has piercing bluish grey eyes.</span></p>

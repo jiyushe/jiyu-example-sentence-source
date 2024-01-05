@@ -1,5 +1,7 @@
 # magical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magical.md)
+
 <p><span class="chinese">第六,神奇式思考</span><span class="english">Magical thinking.</span></p>
 
 <p><span class="chinese">本人有一本魔法书。</span><span class="english">I have a magical book.</span></p>

@@ -1,5 +1,7 @@
 # babyhood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/babyhood.md)
+
 <p><span class="chinese">多数专家都认为孩童时期是接受第二语言的最佳时期。</span><span class="english">Most experts agree that babyhood is the best time to learn a second language.</span></p>
 
 <p><span class="chinese">许多在婴儿期行之有效的方法，此时却成为发展的障碍。</span><span class="english">The effective management methods used in"babyhood"is now becoming barriers of developing.</span></p>

@@ -1,5 +1,7 @@
 # handsome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handsome.md)
+
 <p><span class="chinese">一个俊俏苍白的女孩。</span><span class="english">A handsome pale girl.</span></p>
 
 <p><span class="chinese">他是一位美男子。</span><span class="english">He is a handsome man.</span></p>

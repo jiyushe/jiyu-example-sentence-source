@@ -1,5 +1,7 @@
 # scientific 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scientific.md)
+
 <p><span class="chinese">这是一场科学的争辩。</span><span class="english">That's scientific talk.</span></p>
 
 <p><span class="chinese">一个科学主讲人？</span><span class="english">A scientific explainer-in-chief?</span></p>

@@ -1,5 +1,7 @@
 # challenge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/challenge.md)
+
 <p><span class="chinese">挑战你的想法。</span><span class="english">Challenge your thoughts.</span></p>
 
 <p><span class="chinese">他提出了一个挑战。</span><span class="english">He threw out a challenge.</span></p>

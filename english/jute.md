@@ -1,5 +1,7 @@
 # jute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jute.md)
+
 <p><span class="chinese">一个凉风习习的完成为底的黄麻详细线。</span><span class="english">Jute detail lines midsole for a breezy finish.</span></p>
 
 <p><span class="chinese">黄麻短卸是从哪个舱出来的？</span><span class="english">Which hatch does the shortage of the jute come out of?</span></p>

@@ -1,5 +1,7 @@
 # 白雪皑皑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baixueaiai.md)
+
 <p><span class="chinese">下面是白雪皑皑的群峰。</span><span class="english">There are snowy peaks above.</span></p>
 
 <p><span class="chinese">白雪皑皑的主峰高耸在群峦之上。</span><span class="english">The snowy main peak towers above all the others.</span></p>

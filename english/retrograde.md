@@ -1,5 +1,7 @@
 # retrograde
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retrograde.md)
+
 <p><span class="chinese">啊，这是水星逆行的一部份影响。</span><span class="english">Ah, it's part of the Mercury retrograde process.</span></p>
 
 <p><span class="chinese">这种方向的变化就是逆行。</span><span class="english">This change in direction is known as retrograde motion.</span></p>

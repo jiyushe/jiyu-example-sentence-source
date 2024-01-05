@@ -1,5 +1,7 @@
 # 开山
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaishan.md)
+
 <p><span class="chinese">我们开山凿洞，修建隧道。</span><span class="english">We excavated the mountain for a tunnel.</span></p>
 
 <p><span class="chinese">红山湖和开山岛的学生得乘船去上演。</span><span class="english">Students in Hongshanhu and Kaisandao have to get to school by boat.</span></p>

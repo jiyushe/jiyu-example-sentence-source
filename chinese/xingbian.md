@@ -1,5 +1,7 @@
 # 形变
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingbian.md)
+
 <p><span class="chinese">没有发现形变诱发马氏体相。</span><span class="english">No deformation martensite phase was discovered.</span></p>
 
 <p><span class="chinese">光纤振动时必然导致光纤的弯曲和形变。</span><span class="english">Vibrating optical fiber will bend and be deformed.</span></p>

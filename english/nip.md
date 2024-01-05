@@ -1,5 +1,7 @@
 # nip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nip.md)
+
 <p><span class="chinese">把它消灭在萌芽状态。</span><span class="english">Nip it in the bud.</span></p>
 
 <p><span class="chinese">不要掐花。</span><span class="english">Don't nip off the flowers.</span></p>

@@ -1,5 +1,7 @@
 # 雌雄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cixiong.md)
+
 <p><span class="chinese">雌雄羽色有别，嘴黑色、阔大成铲状。</span><span class="english">Sexes differ but both have black and broad shovel-like bills.</span></p>
 
 <p><span class="chinese">结果，现在雌雄物种越来越少，生产的雏鸡也在变少。</span><span class="english">As a result fewer females breed and fewer chicks are produced.</span></p>

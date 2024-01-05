@@ -1,5 +1,7 @@
 # backstroke
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backstroke.md)
+
 <p><span class="chinese">背部着地滑行，以降低被埋深度。</span><span class="english">Backstroke to decrease burial depth.</span></p>
 
 <p><span class="chinese">你知道如何游仰泳吗？</span><span class="english">Do you know how to do the backstroke.</span></p>

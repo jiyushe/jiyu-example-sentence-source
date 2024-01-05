@@ -1,5 +1,7 @@
 # 唯物辩证法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiwubianzhengfa.md)
+
 <p><span class="chinese">中介是唯物辩证法的一个重要概念。</span><span class="english">The medium is an important concept of the materialist dialectics.</span></p>
 
 <p><span class="chinese">模糊诗学的哲学基础是唯物辩证法。</span><span class="english">The philosophic basis of fuzzy poetics is materialist dialectics.</span></p>

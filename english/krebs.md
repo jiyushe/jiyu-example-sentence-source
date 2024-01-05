@@ -1,5 +1,7 @@
 # krebs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/krebs.md)
+
 <p><span class="chinese">克雷布斯感到了恶心和厌恶。</span><span class="english">Krebs felt sick and vaguely nauseated.</span></p>
 
 <p><span class="chinese">在三羧酸循环中天冬氨酸可以被分解。</span><span class="english">Aspartic acid can be broken down in the KREBS CYCLE.</span></p>

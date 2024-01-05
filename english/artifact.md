@@ -1,5 +1,7 @@
 # artifact
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/artifact.md)
+
 <p><span class="chinese">对于添加的每个工件，您应该选择一种类型。</span><span class="english">For each artifact you add, you choose a type.</span></p>
 
 <p><span class="chinese">我还为每个工件添加了一个描述。</span><span class="english">I also added a description for each artifact.</span></p>

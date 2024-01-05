@@ -1,5 +1,7 @@
 # 舢板
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanban.md)
+
 <p><span class="chinese">课桌是我的舢板。</span><span class="english">The desk is my sampan.</span></p>
 
 <p><span class="chinese">霍华德说他不再租舢板了。</span><span class="english">Howard said that he would not hire a sampan.</span></p>

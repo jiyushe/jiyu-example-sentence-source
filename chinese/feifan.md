@@ -1,5 +1,7 @@
 # 非凡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feifan.md)
+
 <p><span class="chinese">忝为神祇是多麽的价值非凡！</span><span class="english">How worthy it is of the Gods!</span></p>
 
 <p><span class="chinese">我是一个非凡的人。</span><span class="english">I am an extraordinary person.</span></p>

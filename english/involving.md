@@ -1,5 +1,7 @@
 # involving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/involving.md)
+
 <p><span class="chinese">他纵火烧了自己的房子。</span><span class="english">Of or involving arson.</span></p>
 
 <p><span class="chinese">有一点点来教江口味的加香子弹酒。</span><span class="english">Spicy shooter involving a touch of sambal.</span></p>

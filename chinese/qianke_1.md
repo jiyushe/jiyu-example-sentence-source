@@ -1,5 +1,7 @@
 # 掮客
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianke_1.md)
+
 <p><span class="chinese">当放置于掮客视窗后，贩卖容器将可以放置于家中作为傢俱。</span><span class="english">Once placed in the broker window, vendor containers can be placed in your home.</span></p>
 
 <p><span class="chinese">威洛克斯指出，违法的信息掮客甚至可以出售一整套完整的身分信息。</span><span class="english">Criminal information brokers even package up complete identities for sale, according to Willox.</span></p>

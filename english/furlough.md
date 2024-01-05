@@ -1,5 +1,7 @@
 # furlough
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/furlough.md)
+
 <p><span class="chinese">我每三年休假一次。</span><span class="english">I have a furlough every three years.</span></p>
 
 <p><span class="chinese">他拒绝停战</span><span class="english">He refused a furlough to stay and fight.</span></p>

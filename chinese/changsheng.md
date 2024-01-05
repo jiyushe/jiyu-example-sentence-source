@@ -1,5 +1,7 @@
 # 昌盛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/changsheng.md)
+
 <p><span class="chinese">凋敝通向昌盛。</span><span class="english">Bdversity leads to prosperity.</span></p>
 
 <p><span class="chinese">他们延续的时间要远远超过底特律昌盛的时日。</span><span class="english">They far outlived Detroit’s prosperity.</span></p>

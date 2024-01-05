@@ -1,5 +1,7 @@
 # 上回
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanghui.md)
+
 <p><span class="chinese">我记得上回也是你请的。</span><span class="english">I think you got it last time.</span></p>
 
 <p><span class="chinese">上回路加福音结尾是这样的。</span><span class="english">Last time in Luke it ended this way.</span></p>

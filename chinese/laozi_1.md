@@ -1,5 +1,7 @@
 # 老子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laozi_1.md)
+
 <p><span class="chinese">这是老子的火星时间。</span><span class="english">That's my Mars time.</span></p>
 
 <p><span class="chinese">老子戳死你！</span><span class="english">Lao Tze Chuo dies you!</span></p>

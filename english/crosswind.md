@@ -1,5 +1,7 @@
 # crosswind
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crosswind.md)
+
 <p><span class="chinese">向侧风方向压住杆。</span><span class="english">Hold the stick against crosswind.</span></p>
 
 <p><span class="chinese">一股很强的侧风把我们的船吹得倾斜了。</span><span class="english">A strong crosswind caused our ship to lie along.</span></p>

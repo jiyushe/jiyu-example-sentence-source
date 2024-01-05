@@ -1,5 +1,7 @@
 # 摇身一变
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoshenyibian.md)
+
 <p><span class="chinese">如雷诺市已经摇身一变成为了集散中心。</span><span class="english">Reno has turned itself into a distribution hub.</span></p>
 
 <p><span class="chinese">随后就在五月份，他又摇身一变成为了保守党传信联络主管。</span><span class="english">In May he is made Tory director of communications.</span></p>

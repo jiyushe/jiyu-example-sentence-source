@@ -1,5 +1,7 @@
 # agronomist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agronomist.md)
+
 <p><span class="chinese">农学家建议在干涸的河床上种水稻。</span><span class="english">The agronomist suggested growing rice on the dried river bed.</span></p>
 
 <p><span class="chinese">人们公认农学家威廉·F·格里克在1929年首创现代水培法。</span><span class="english">Agronomist William F. Gericke is credited with developing modern hydroponics in 1929.</span></p>

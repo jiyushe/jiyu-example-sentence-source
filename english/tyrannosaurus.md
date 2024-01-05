@@ -1,5 +1,7 @@
 # tyrannosaurus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tyrannosaurus.md)
+
 <p><span class="chinese">那是暴龙。</span><span class="english">That is a Tyrannosaurus.</span></p>
 
 <p><span class="chinese">好了，你喜欢雷克斯龙吗？</span><span class="english">Okay, you like Tyrannosaurus Rex?- Yeah.</span></p>

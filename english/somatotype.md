@@ -1,5 +1,7 @@
 # somatotype
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/somatotype.md)
+
 <p><span class="chinese">女性35岁以后体型变化显著。</span><span class="english">Somatotype obviously changed after 35 in females.</span></p>
 
 <p><span class="chinese">对体型评价方法也进行了讨论。</span><span class="english">A method of somatotype evalution was also discussed.</span></p>

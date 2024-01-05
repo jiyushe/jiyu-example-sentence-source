@@ -1,5 +1,7 @@
 # 大便
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dabian.md)
+
 <p><span class="chinese">只有吃了药才能大便。</span><span class="english">Only when I take medicine.</span></p>
 
 <p><span class="chinese">生活就像是一砣屎，大便，大便！！！</span><span class="english">Life is just like damn shit!</span></p>

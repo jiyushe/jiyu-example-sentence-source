@@ -1,5 +1,7 @@
 # kyoto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kyoto.md)
+
 <p><span class="chinese">京都曾是日本的首都。</span><span class="english">Kyoto used to be the capital of Japan.</span></p>
 
 <p><span class="chinese">祇园区是京都的另一个地标。</span><span class="english">The Gion district is another landmark in Kyoto.</span></p>

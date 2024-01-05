@@ -1,5 +1,7 @@
 # menstruum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/menstruum.md)
+
 <p><span class="chinese">济南哪里可以买到清洗皮沙发用的溶剂啊？</span><span class="english">Where can Jinan purchase the menstruum that the sofa cleaning skin uses?</span></p>
 
 <p><span class="chinese">用前调配，将冻干粉与溶媒混合，摇匀溶解。</span><span class="english">Preparation, Mixed "Freeze-dried Powder" with "Menstruum" together, shaking dissolved.</span></p>

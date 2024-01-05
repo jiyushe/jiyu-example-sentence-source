@@ -1,5 +1,7 @@
 # could
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/could.md)
+
 <p><span class="chinese">我可以去试一试。</span><span class="english">I could go.</span></p>
 
 <p><span class="chinese">他能不能等会儿？</span><span class="english">Could he wait?</span></p>

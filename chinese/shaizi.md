@@ -1,5 +1,7 @@
 # 筛子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaizi.md)
+
 <p><span class="chinese">三个筛子？</span><span class="english">Three sieves?</span></p>
 
 <p><span class="chinese">哪三个筛子？</span><span class="english">Which three sieves?</span></p>

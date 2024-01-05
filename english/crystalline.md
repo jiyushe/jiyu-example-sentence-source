@@ -1,5 +1,7 @@
 # crystalline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crystalline.md)
+
 <p><span class="chinese">水晶体、电子芯片等的抛光。</span><span class="english">Polishing crystalline lens and chip.</span></p>
 
 <p><span class="chinese">五氯酚是结晶固体。</span><span class="english">Pentachlorophenol is a crystalline solid.</span></p>

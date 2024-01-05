@@ -1,5 +1,7 @@
 # purport
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/purport.md)
+
 <p><span class="chinese">有人问禘祭的道理。</span><span class="english">Someone asked the purport of the Di Sacrifice.</span></p>
 
 <p><span class="chinese">历史制度主义的旨趣是关注历史。</span><span class="english">The purport of historical institutionalism is talk about history.</span></p>

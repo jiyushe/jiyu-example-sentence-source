@@ -1,5 +1,7 @@
 # evict
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evict.md)
+
 <p><span class="chinese">警察拒绝对其进行镇压。</span><span class="english">The police refused to evict them.</span></p>
 
 <p><span class="chinese">不要深夜还在卧室看电视。</span><span class="english">Evict late-night television from your bedroom.</span></p>

@@ -1,5 +1,7 @@
 # calumny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calumny.md)
+
 <p><span class="chinese">无论如何，也不能诽谤和诬蔑，没有证据地责难，扭曲事实。</span><span class="english">Calumny , unproved accusations and distortion of the facts should never be permitted.</span></p>
 
 <p><span class="chinese">整个社会转而对他采取敌对态度，对他进行恶意的诽谤和诬蔑，其过分的程度就如当初对他进行赞美和吹捧那样。</span><span class="english">Society turned against him, as lavish now with calumny and spite as it had been with praise and flattery.</span></p>

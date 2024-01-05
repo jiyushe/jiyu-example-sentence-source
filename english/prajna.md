@@ -1,5 +1,7 @@
 # prajna
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prajna.md)
+
 <p><span class="chinese">般若，是人生最真实的宝藏。</span><span class="english">Prajna is our greatest treasure.</span></p>
 
 <p><span class="chinese">有佛法的地方就有般若。</span><span class="english">Where there is Dharma, there is prajna.</span></p>

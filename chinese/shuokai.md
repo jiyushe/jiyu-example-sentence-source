@@ -1,5 +1,7 @@
 # 说开
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuokai.md)
+
 <p><span class="chinese">我以为我们已经把这件事情说开了。</span><span class="english">I thought we were putting this behind us.</span></p>
 
 <p><span class="chinese">鸠山说开咖啡厅是他自己的点子。</span><span class="english">Hatoyama said he came up with the idea himself.</span></p>

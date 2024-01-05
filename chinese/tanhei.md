@@ -1,5 +1,7 @@
 # 炭黑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanhei.md)
+
 <p><span class="chinese">工人摄于炭黑厂约翰瓦谢。</span><span class="english">Photo by Worker at carbon black plant John Vachon.</span></p>
 
 <p><span class="chinese">炭黑吸收阳光辐射，让大气增温。</span><span class="english">Black carbon absorbs solar radiation, warming the atmosphere.</span></p>

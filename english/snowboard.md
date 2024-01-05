@@ -1,5 +1,7 @@
 # snowboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snowboard.md)
+
 <p><span class="chinese">是你和你的滑雪运动的意识。</span><span class="english">Be conscious of your snowboard and your movement.</span></p>
 
 <p><span class="chinese">我爱我的滑雪板，真是美丽的物件！</span><span class="english">I love my snowboard . It's such a beautiful thing!</span></p>

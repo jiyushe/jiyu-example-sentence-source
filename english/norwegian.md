@@ -1,5 +1,7 @@
 # norwegian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/norwegian.md)
+
 <p><span class="chinese">一个挪威漫画角色。</span><span class="english">A Norwegian cartoon, Nemi.</span></p>
 
 <p><span class="chinese">他懂得一点挪威语。</span><span class="english">He knows a little Norwegian.</span></p>

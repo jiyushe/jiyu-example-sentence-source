@@ -1,5 +1,7 @@
 # prescribe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prescribe.md)
+
 <p><span class="chinese">我来给你开点药。</span><span class="english">I'll prescribe some medicine for you.</span></p>
 
 <p><span class="chinese">你能为我开点治背痛的药吗？</span><span class="english">Can you prescribe for the pain in my back?</span></p>

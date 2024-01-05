@@ -1,5 +1,7 @@
 # cutaway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cutaway.md)
+
 <p><span class="chinese">图1表示三螺杆泵的剖视图。</span><span class="english">Figure 1 that the three screw pump cutaway view.</span></p>
 
 <p><span class="chinese">也许说话停顿正成为奥斯卡令人尴尬的镜头？</span><span class="english">Maybe the Unfortunate Pause is the new Awkward Cutaway Shot?</span></p>

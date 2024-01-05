@@ -1,5 +1,7 @@
 # iphone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iphone.md)
+
 <p><span class="chinese">我用我的iPhone接了他的电话。</span><span class="english">I picked up my iPhone.</span></p>
 
 <p><span class="chinese">这是她的第一部iPhone。</span><span class="english">This is her first iPhone.</span></p>

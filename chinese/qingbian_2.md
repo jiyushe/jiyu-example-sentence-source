@@ -1,5 +1,7 @@
 # 轻便
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingbian_2.md)
+
 <p><span class="chinese">我女儿有一张轻便单人床。</span><span class="english">My girl has a cot bed.</span></p>
 
 <p><span class="chinese">我女儿有一张轻便单人床。</span><span class="english">My girl has got a cot bed.</span></p>

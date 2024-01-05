@@ -1,5 +1,7 @@
 # 洗刷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xishua_1.md)
+
 <p><span class="chinese">然后他们就开始洗刷墙壁。</span><span class="english">Then they'll start scrubbing the walls.</span></p>
 
 <p><span class="chinese">使洗刷和做饭也变成沉思。</span><span class="english">Make cleaning and cooking become meditation.</span></p>

@@ -1,5 +1,7 @@
 # unclench
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unclench.md)
+
 <p><span class="chinese">撬开它。</span><span class="english">Unclench it.</span></p>
 
 <p><span class="chinese">我多么希望你能松开你的双拳。</span><span class="english">I wish U'd unclench Ur fists.</span></p>

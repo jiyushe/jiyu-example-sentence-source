@@ -1,5 +1,7 @@
 # slashing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slashing.md)
+
 <p><span class="chinese">零售商用降价对此作出反应。</span><span class="english">Retailers have responded by slashing prices.</span></p>
 
 <p><span class="chinese">他在用刀猛砍她的脸部与脖子。</span><span class="english">He was slashing her face and neck with a knife.</span></p>

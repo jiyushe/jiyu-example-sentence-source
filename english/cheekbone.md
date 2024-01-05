@@ -1,5 +1,7 @@
 # cheekbone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cheekbone.md)
+
 <p><span class="chinese">将动作变大，直至颧骨。</span><span class="english">Continue the movement up to the cheekbone.</span></p>
 
 <p><span class="chinese">他颧骨上有一块三角形的伤疤。</span><span class="english">There was a triangular scar on his cheekbone.</span></p>

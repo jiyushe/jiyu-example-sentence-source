@@ -1,5 +1,7 @@
 # disorganized
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disorganized.md)
+
 <p><span class="chinese">迈克大脑的这部分比较紊乱。</span><span class="english">Mike is quite disorganized there.</span></p>
 
 <p><span class="chinese">他们的背叛瓦解了该党。</span><span class="english">Their betray disorganized the party.</span></p>

@@ -1,5 +1,7 @@
 # efficacy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/efficacy.md)
+
 <p><span class="chinese">功效滋阴补血。</span><span class="english">Efficacy nourishing blood.</span></p>
 
 <p><span class="chinese">功效补肾壮骨。</span><span class="english">Efficacy kidney strong bone.</span></p>

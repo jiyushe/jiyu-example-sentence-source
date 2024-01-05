@@ -1,5 +1,7 @@
 # 桌布
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuobu.md)
+
 <p><span class="chinese">别把桌布弄湿了。</span><span class="english">Don't sodden the tablecloth.</span></p>
 
 <p><span class="chinese">它还是一块漂亮的桌布。</span><span class="english">It was a nice tablecloth, too.</span></p>

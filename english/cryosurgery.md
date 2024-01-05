@@ -1,5 +1,7 @@
 # cryosurgery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cryosurgery.md)
+
 <p><span class="chinese">末次冷冻后1周剖腹行肿瘤细胞减灭术。</span><span class="english">The cytoreductive surgery was performed 1 week after last cryosurgery.</span></p>
 
 <p><span class="chinese">低温手术过程中，组织会发生明显的热应变。</span><span class="english">Apparent thermal strain could be observed during the cryosurgery processes.</span></p>

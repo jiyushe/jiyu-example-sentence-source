@@ -1,5 +1,7 @@
 # 说白
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuobai.md)
+
 <p><span class="chinese">快运说白了就一个字，快。</span><span class="english">Express it is a word, fast.</span></p>
 
 <p><span class="chinese">说白了，它也是一种降级的方法吗?。</span><span class="english">Is it just a way to downgrade?</span></p>

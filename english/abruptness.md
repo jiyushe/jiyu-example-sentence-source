@@ -1,5 +1,7 @@
 # abruptness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abruptness.md)
+
 <p><span class="chinese">命运瞬息万变，令人目眩。</span><span class="english">Fortunes change with dizzy abruptness.</span></p>
 
 <p><span class="chinese">他以粗鲁的态度来掩饰内心的感情。</span><span class="english">He hid his feelings behind a gruff abruptness.</span></p>

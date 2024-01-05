@@ -1,5 +1,7 @@
 # 奕奕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyi.md)
+
 <p><span class="chinese">乔安娜工作时总是精神奕奕。</span><span class="english">Joanna always shows up at work bright-eyed and bushy-tailed.</span></p>
 
 <p><span class="chinese">Kent精神奕奕地进入了和办公室连在一起的小饭厅。</span><span class="english">Kent briskly enters a small dining room connected to his office.</span></p>

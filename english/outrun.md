@@ -1,5 +1,7 @@
 # outrun
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outrun.md)
+
 <p><span class="chinese">你斗不过命运的，大卫。</span><span class="english">You can't outrun your fate, David.</span></p>
 
 <p><span class="chinese">你可以躲，但你肯定躲得过初一躲不过十五。</span><span class="english">You can run but you sure can’t outrun fate.</span></p>

@@ -1,5 +1,7 @@
 # troth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/troth.md)
+
 <p><span class="chinese">我相信他的誓言。</span><span class="english">I believe his troth.</span></p>
 
 <p><span class="chinese">的确，我想她会的。</span><span class="english">In troth I think she would.</span></p>

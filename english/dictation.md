@@ -1,5 +1,7 @@
 # dictation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dictation.md)
+
 <p><span class="chinese">接着我们就做了听写。</span><span class="english">Then we had a dictation.</span></p>
 
 <p><span class="chinese">口授使我喉咙发痛。</span><span class="english">Dictation makes my throat sore.</span></p>

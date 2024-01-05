@@ -1,5 +1,7 @@
 # docile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/docile.md)
+
 <p><span class="chinese">羊是种温顺的动物。</span><span class="english">Sheep are pretty docile creatures.</span></p>
 
 <p><span class="chinese">而你就像一只温顺的小绵羊。</span><span class="english">And you just like a docile yeanling.</span></p>

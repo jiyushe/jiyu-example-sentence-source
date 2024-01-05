@@ -1,5 +1,7 @@
 # chaste
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chaste.md)
+
 <p><span class="chinese">她是那么冰清玉洁。</span><span class="english">She is cold and chaste.</span></p>
 
 <p><span class="chinese">她是一位节烈女子。</span><span class="english">She was a rigorously chaste woman.</span></p>

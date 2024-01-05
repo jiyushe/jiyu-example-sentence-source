@@ -1,5 +1,7 @@
 # wolves
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wolves.md)
+
 <p><span class="chinese">狼为什么嚎叫？</span><span class="english">Why do wolves howl?</span></p>
 
 <p><span class="chinese">狼群撕咬绵羊。</span><span class="english">Wolves worry the sheep.</span></p>

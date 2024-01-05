@@ -1,5 +1,7 @@
 # versailles
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/versailles.md)
+
 <p><span class="chinese">他建立了凡尔赛宫</span><span class="english">He goes out and builds Versailles.</span></p>
 
 <p><span class="chinese">凡尔赛宫廷中奢华的生活。</span><span class="english">The brilliant court life at Versailles.</span></p>

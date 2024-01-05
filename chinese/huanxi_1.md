@@ -1,5 +1,7 @@
 # 欢喜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanxi_1.md)
+
 <p><span class="chinese">我满心欢喜。</span><span class="english">I am bursting with joy.</span></p>
 
 <p><span class="chinese">分享的欢喜是加倍的欢喜。</span><span class="english">And shared joy is double joy.</span></p>

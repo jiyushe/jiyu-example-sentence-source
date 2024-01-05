@@ -1,5 +1,7 @@
 # moveable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moveable.md)
+
 <p><span class="chinese">开槽中刀可移动。</span><span class="english">Slotting middle knife is moveable.</span></p>
 
 <p><span class="chinese">手动泵油润滑所有可移动的部分。</span><span class="english">Manual oil pump lubricates all moveable parts.</span></p>

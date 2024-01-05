@@ -1,5 +1,7 @@
 # magic 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magic.md)
+
 <p><span class="chinese">我会变魔术。</span><span class="english">I can do magic.</span></p>
 
 <p><span class="chinese">就像魔法一样。</span><span class="english">It’s like magic.</span></p>

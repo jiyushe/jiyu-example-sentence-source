@@ -1,5 +1,7 @@
 # dispel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dispel.md)
+
 <p><span class="chinese">师者，传道，授业，解惑也。</span><span class="english">Teacher, preach, teach, dispel doubt also.</span></p>
 
 <p><span class="chinese">但PTZ发布招标后，传闻不攻自破。</span><span class="english">But PTZ issue a tender, dispel speculation.</span></p>

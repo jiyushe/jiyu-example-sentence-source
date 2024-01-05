@@ -1,5 +1,7 @@
 # insulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insulation.md)
+
 <p><span class="chinese">本公司的保温杯。</span><span class="english">Insulation of the Company's Cup.</span></p>
 
 <p><span class="chinese">绝缘阻抗测试可达20mW。</span><span class="english">Insulation resistance up to 20MW.</span></p>

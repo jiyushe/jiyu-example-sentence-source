@@ -1,5 +1,7 @@
 # plastisol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plastisol.md)
+
 <p><span class="chinese">我们是印度第一家生产塑胶墨的本土制造商。</span><span class="english">We are the first indigenous manufacturer of Plastisol Inks in India.</span></p>
 
 <p><span class="chinese">指出塑胶油墨在我国有相当的潜在市场待开发，将大有用武之地。</span><span class="english">For plastisol ink, there is a great potential market to open up in China.</span></p>

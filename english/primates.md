@@ -1,5 +1,7 @@
 # primates
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/primates.md)
+
 <p><span class="chinese">灵长类动物也可以微笑。</span><span class="english">Nonhuman primates smile as well.</span></p>
 
 <p><span class="chinese">这些灵长类动物比安全卫士更有价值。</span><span class="english">These primates are valued as more than security guards.</span></p>

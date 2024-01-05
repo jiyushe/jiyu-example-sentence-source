@@ -1,5 +1,7 @@
 # anyone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anyone.md)
+
 <p><span class="chinese">人人都能当厨师！</span><span class="english">Anyone Can Cook!</span></p>
 
 <p><span class="chinese">任何人都可以做到。</span><span class="english">Anyone could do it.</span></p>

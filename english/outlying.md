@@ -1,5 +1,7 @@
 # outlying
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outlying.md)
+
 <p><span class="chinese">它可以告诉我们是否缺少值，或者是否存在生僻的值。</span><span class="english">It can tell us whether or not values are missing or outlying.</span></p>
 
 <p><span class="chinese">所有在外的圣坛和圣地都必须被消除。</span><span class="english">All of the outlying alters and sacred places must be destroyed.</span></p>

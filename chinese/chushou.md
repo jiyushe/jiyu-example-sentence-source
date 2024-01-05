@@ -1,5 +1,7 @@
 # 出售
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chushou.md)
+
 <p><span class="chinese">出售二手房。</span><span class="english">Sell a second home.</span></p>
 
 <p><span class="chinese">那么何不出售人生？</span><span class="english">Then why not sell it?</span></p>

@@ -1,5 +1,7 @@
 # annual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/annual.md)
+
 <p><span class="chinese">请问一卡通有年费吗?。</span><span class="english">Is there an annual fee?</span></p>
 
 <p><span class="chinese">这些是一年生的植物。</span><span class="english">These are annual plants.</span></p>

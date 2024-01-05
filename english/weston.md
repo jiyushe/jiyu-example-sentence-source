@@ -1,5 +1,7 @@
 # weston
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weston.md)
+
 <p><span class="chinese">韦斯顿先生是百里挑一的人。</span><span class="english">Mr Weston is such an excellent man.</span></p>
 
 <p><span class="chinese">我们必须开车到威斯顿去看。</span><span class="english">We'll hae to drive into Weston to see it.</span></p>

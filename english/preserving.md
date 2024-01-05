@@ -1,5 +1,7 @@
 # preserving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preserving.md)
+
 <p><span class="chinese">把黑话保留下来有什么好处呢？</span><span class="english">What is the use of preserving slang?</span></p>
 
 <p><span class="chinese">是哽咽的苦胆，也是长存的甜蜜。</span><span class="english">A choking gall, and a preserving sweet.</span></p>

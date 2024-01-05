@@ -1,5 +1,7 @@
 # marlin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marlin.md)
+
 <p><span class="chinese">他缓慢地把钓丝放松，尽力想把这条马林鱼拖乏。</span><span class="english">Feeding line slowly, he tried to tire the marlin.</span></p>
 
 <p><span class="chinese">他杀死了正在撕食马林鱼的另一条鲨鱼。</span><span class="english">The other he killed while it tore at the flesh of the marlin.</span></p>

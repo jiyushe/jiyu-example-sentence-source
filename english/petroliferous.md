@@ -1,5 +1,7 @@
 # petroliferous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/petroliferous.md)
+
 <p><span class="chinese">盆地分析研究中流体输导系统的研究是一个重要的方面。</span><span class="english">The analysis of Petroliferous basin is always a comprehensive topic.</span></p>
 
 <p><span class="chinese">世界上大多数含盐盆地都是含油气区。</span><span class="english">The majority of salt-bearing basins in the world are petroliferous basin.</span></p>

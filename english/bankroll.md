@@ -1,5 +1,7 @@
 # bankroll
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bankroll.md)
+
 <p><span class="chinese">你还得管理你的资金。</span><span class="english">You have to manage your bankroll.</span></p>
 
 <p><span class="chinese">设置一个损失上限是资金管理中必可不少的一个部分。</span><span class="english">Setting a loss-limit is an essential part of managing your bankroll.</span></p>

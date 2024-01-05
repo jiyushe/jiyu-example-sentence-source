@@ -1,5 +1,7 @@
 # musicality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/musicality.md)
+
 <p><span class="chinese">音乐性正是造成诗与散文功能性差别的重要因素。</span><span class="english">Musicality is one of the factors inducing the difference.</span></p>
 
 <p><span class="chinese">菲律宾人天生的温暖和音乐性给他留下印象。</span><span class="english">The Filipinos ' innate warmth and musicality impressed him.</span></p>

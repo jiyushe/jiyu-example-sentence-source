@@ -1,5 +1,7 @@
 # journalist 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/journalist.md)
+
 <p><span class="chinese">今天是中国记者节。</span><span class="english">Today is the Journalist day.</span></p>
 
 <p><span class="chinese">陈燕喆并非一位深入调查的记走。</span><span class="english">Chen is not an investigative journalist.</span></p>

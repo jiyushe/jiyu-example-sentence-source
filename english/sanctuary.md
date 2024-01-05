@@ -1,5 +1,7 @@
 # sanctuary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sanctuary.md)
+
 <p><span class="chinese">她已成三一神的圣所。</span><span class="english">She's become the sanctuary of God.</span></p>
 
 <p><span class="chinese">它给圣所留下创痕。</span><span class="english">It scars the face of the sanctuary.</span></p>

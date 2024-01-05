@@ -1,5 +1,7 @@
 # 算学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suanxue.md)
+
 <p><span class="chinese">啊，这是因为我们没有他的算学。</span><span class="english">Ah, we haven't his arithmetic.</span></p>
 
 <p><span class="chinese">我打算学经济学。</span><span class="english">Well, I'm intending to do Economics</span></p>

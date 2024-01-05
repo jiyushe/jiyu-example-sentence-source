@@ -1,5 +1,7 @@
 # 反思
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fansi.md)
+
 <p><span class="chinese">正义需要反思。</span><span class="english">Justice requires reflection.</span></p>
 
 <p><span class="chinese">反思我们过去的流血牺牲？</span><span class="english">All the blood we've shed before?</span></p>

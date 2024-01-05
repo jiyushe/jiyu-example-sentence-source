@@ -1,5 +1,7 @@
 # ovation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ovation.md)
+
 <p><span class="chinese">他在称赞中溺死了“。</span><span class="english">He drowned in the ovation.</span></p>
 
 <p><span class="chinese">观众全体起立，祝贺演出成功。</span><span class="english">The performance received a standing ovation.</span></p>

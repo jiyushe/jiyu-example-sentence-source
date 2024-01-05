@@ -1,5 +1,7 @@
 # baptize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baptize.md)
+
 <p><span class="chinese">他拒绝给她洗礼。</span><span class="english">He refuses to baptize her.</span></p>
 
 <p><span class="chinese">保罗拒绝给她洗礼。</span><span class="english">Paul refuses to baptize her.</span></p>

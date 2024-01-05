@@ -1,5 +1,7 @@
 # loser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loser.md)
+
 <p><span class="chinese">你是个失败者。</span><span class="english">You’re a loser.</span></p>
 
 <p><span class="chinese">那就证明我是个窝囊废。</span><span class="english">Then I’m a loser.</span></p>

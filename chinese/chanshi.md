@@ -1,5 +1,7 @@
 # 禅师
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chanshi.md)
+
 <p><span class="chinese">这就需要禅师的现场感。</span><span class="english">That requires zen-master presence.</span></p>
 
 <p><span class="chinese">感谢雪峰延承禅师提供本文。</span><span class="english">Thank Master Xuefeng contribute this essay.</span></p>

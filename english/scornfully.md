@@ -1,5 +1,7 @@
 # scornfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scornfully.md)
+
 <p><span class="chinese">恺轻蔑地望着他。</span><span class="english">Kay looked at him scornfully.</span></p>
 
 <p><span class="chinese">他轻蔑地谈起物质方面的享受。</span><span class="english">He scornfully talked about material things.</span></p>

@@ -1,5 +1,7 @@
 # 穷光蛋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiongguangdan.md)
+
 <p><span class="chinese">他们嘲笑他是个穷光蛋。</span><span class="english">They mocked at his poverty.</span></p>
 
 <p><span class="chinese">他是同僚中的穷光蛋。</span><span class="english">He is a fellow of the pauper.</span></p>

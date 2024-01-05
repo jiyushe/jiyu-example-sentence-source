@@ -1,5 +1,7 @@
 # ordinarily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ordinarily.md)
+
 <p><span class="chinese">既然是十一月，他们早就该停止活动了。</span><span class="english">Since november ordinarily of it early stoped action.</span></p>
 
 <p><span class="chinese">素常他到十二点钟才睡觉。</span><span class="english">Ordinarily he doesn't go to bed until twelve o'clock.</span></p>

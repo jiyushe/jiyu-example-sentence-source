@@ -1,5 +1,7 @@
 # 排头兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paitoubing.md)
+
 <p><span class="chinese">处理这类突发事件的排头兵就是戴维斯。</span><span class="english">A point man for dealing with the fast-changing events is Mr.</span></p>
 
 <p><span class="chinese">今年，青年成了追求自由的排头兵。</span><span class="english">This year, young people have been on the frontlines for freedom.</span></p>

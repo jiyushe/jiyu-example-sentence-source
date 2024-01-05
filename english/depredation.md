@@ -1,5 +1,7 @@
 # depredation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/depredation.md)
+
 <p><span class="chinese">掠夺与战争与明始终。</span><span class="english">Depredation and war with clear always.</span></p>
 
 <p><span class="chinese">残酷的劫掠行为并非罕见。</span><span class="english">Brutal acts of depredation are not not uncommon.</span></p>

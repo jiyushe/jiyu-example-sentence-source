@@ -1,5 +1,7 @@
 # 排长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paizhang_1.md)
+
 <p><span class="chinese">像两排长着灰白胡子的垂着头的官员。</span><span class="english">like rows of nodding gray-bearded mandarins.</span></p>
 
 <p><span class="chinese">今天早上的交通非常拥挤，汽车大排长龙。</span><span class="english">The traffic was bumper to bumper this morning.</span></p>

@@ -1,5 +1,7 @@
 # ire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ire.md)
+
 <p><span class="chinese">这当然也引起我的忿怒。</span><span class="english">That of course raised my ire.</span></p>
 
 <p><span class="chinese">华尔街优先获得甲流疫苗激起民愤。</span><span class="english">Flu shots for Wall Street stirs ire in NY.</span></p>

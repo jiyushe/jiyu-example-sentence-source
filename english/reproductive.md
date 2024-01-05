@@ -1,5 +1,7 @@
 # reproductive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reproductive.md)
+
 <p><span class="chinese">武汉男性生殖整形医院？</span><span class="english">Wuhan male reproductive plastic hospital?</span></p>
 
 <p><span class="chinese">生育权是一项基本人权。</span><span class="english">Reproductive right is a fundamental human right.</span></p>

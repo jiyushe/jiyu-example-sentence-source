@@ -1,5 +1,7 @@
 # workmanship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/workmanship.md)
+
 <p><span class="chinese">你们的做工如何？</span><span class="english">What about your workmanship?</span></p>
 
 <p><span class="chinese">这件是手艺精巧的稀贵珍品。</span><span class="english">It is a wonder of delicate workmanship.</span></p>

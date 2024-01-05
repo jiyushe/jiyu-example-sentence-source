@@ -1,5 +1,7 @@
 # 来往
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laiwang.md)
+
 <p><span class="chinese">匆忙来往的人群。</span><span class="english">The crowd is hurrying.</span></p>
 
 <p><span class="chinese">不跟差劲的人来往。</span><span class="english">Make no useless acquaintances.</span></p>

@@ -1,5 +1,7 @@
 # 税种
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuizhong_1.md)
+
 <p><span class="chinese">哪些税收属于好的地税税种？</span><span class="english">Which taxes are good local taxes?</span></p>
 
 <p><span class="chinese">税收可分为若干税种？</span><span class="english">Howmany types are taxes divided into?</span></p>

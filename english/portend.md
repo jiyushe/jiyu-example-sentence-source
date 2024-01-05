@@ -1,5 +1,7 @@
 # portend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/portend.md)
+
 <p><span class="chinese">这些奇怪的事件预示着什么?</span><span class="english">What do these strange events portend?</span></p>
 
 <p><span class="chinese">所有的这些预示着在不远的将来会发生什么呢？</span><span class="english">What does all this portend for the near future?</span></p>

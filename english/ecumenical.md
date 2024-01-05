@@ -1,5 +1,7 @@
 # ecumenical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ecumenical.md)
+
 <p><span class="chinese">他的普世精神也同样感人。</span><span class="english">His ecumenical spirit is also impressive.</span></p>
 
 <p><span class="chinese">或许为了交流有针对整个基督教的举措。</span><span class="english">There may be ecumenical efforts for communicate.</span></p>

@@ -1,5 +1,7 @@
 # lara
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lara.md)
+
 <p><span class="chinese">你知不知道拉腊为什么不在这？</span><span class="english">Any idea why Lara is not here?</span></p>
 
 <p><span class="chinese">准备让触及六个月与布赖恩拉腊2008年。</span><span class="english">Prepare to get hit for six with Brian Lara 2008.</span></p>

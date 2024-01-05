@@ -1,5 +1,7 @@
 # sentential
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sentential.md)
+
 <p><span class="chinese">每步都列出一个句型。</span><span class="english">Each step shows the sentential form.</span></p>
 
 <p><span class="chinese">因此，名词绝没有语义上的论元。</span><span class="english">Hence nouns never have sentential arguments, for example.</span></p>

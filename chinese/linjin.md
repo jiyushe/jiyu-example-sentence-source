@@ -1,5 +1,7 @@
 # 临近
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linjin.md)
+
 <p><span class="chinese">这一天临近了。</span><span class="english">The day draws near.</span></p>
 
 <p><span class="chinese">真主的慈恩确是临近行善者的。</span><span class="english">The mercy of God is near.</span></p>

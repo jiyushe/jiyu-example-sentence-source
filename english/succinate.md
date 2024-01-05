@@ -1,5 +1,7 @@
 # succinate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/succinate.md)
+
 <p><span class="chinese">琥珀酸盐在以后的氧消耗中是最有效的基质。</span><span class="english">Succinate was the most effective substrate in following oxygen consumption.</span></p>
 
 <p><span class="chinese">用气相色谱法测定眼药水中琥珀酸钠的含量。</span><span class="english">A gas chromatographic technique tor the analisys of sodium succinate has been studied.</span></p>

@@ -1,5 +1,7 @@
 # 鬼火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guihuo.md)
+
 <p><span class="chinese">我们做鬼火灯笼吧。</span><span class="english">Let's make jack-o'- lanterns.</span></p>
 
 <p><span class="chinese">我们做鬼火灯笼吧。</span><span class="english">They make masks and lanterns.</span></p>

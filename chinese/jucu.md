@@ -1,5 +1,7 @@
 # 局促
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jucu.md)
+
 <p><span class="chinese">这地方太局促了。</span><span class="english">This place is rather cramped.</span></p>
 
 <p><span class="chinese">他局促地眨着眼睛，脸容苍白，面露惧色。</span><span class="english">Blinking nervously, he looked pale and scared.</span></p>

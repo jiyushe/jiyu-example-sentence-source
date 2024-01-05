@@ -1,5 +1,7 @@
 # 开源节流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaiyuanjieliu.md)
+
 <p><span class="chinese">在节后，他们很多人才在生活中开始开源节流。</span><span class="english">After the holidays, many are ready to take control of their lives.</span></p>
 
 <p><span class="chinese">如何“开源节流”成为应对危机的关键。</span><span class="english">Therefore, broadening sources of income and reducing expenditure is the key.</span></p>

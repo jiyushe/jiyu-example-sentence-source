@@ -1,5 +1,7 @@
 # laxative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laxative.md)
+
 <p><span class="chinese">我便秘了。给我点泻药。</span><span class="english">I'm constipated. I need some laxative.</span></p>
 
 <p><span class="chinese">这些药可以起到通便的作用。</span><span class="english">The medicine can be used as a laxative.</span></p>

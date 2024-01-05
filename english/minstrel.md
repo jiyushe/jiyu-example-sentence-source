@@ -1,5 +1,7 @@
 # minstrel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minstrel.md)
+
 <p><span class="chinese">一个游吟歌手迈进了大门！</span><span class="english">A minstrel enters at the door!</span></p>
 
 <p><span class="chinese">压轴巡游演出中的最后艺人。</span><span class="english">The end man in a minstrel show.</span></p>

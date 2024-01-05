@@ -1,5 +1,7 @@
 # armistice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/armistice.md)
+
 <p><span class="chinese">双方没有签署和平条约来结束战争，只是签订了一个停战协定。</span><span class="english">Neither side signed a peace treaty to end the war, only an armistice</span></p>
 
 <p><span class="chinese">双方都没有签署和平条约来结束战争，只有一个停战协议。</span><span class="english">Neither side signed a peace treaty to end the war, only an armistice.</span></p>

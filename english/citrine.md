@@ -1,5 +1,7 @@
 # citrine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/citrine.md)
+
 <p><span class="chinese">黄晶是给出一个希望，青年，健康的象征，和保真度。</span><span class="english">Citrine is given as a symbol of hope, youth, health, and fidelity.</span></p>
 
 <p><span class="chinese">今年布希送给劳拉的生日礼物是一条琥珀色的三排珠水晶项鍊。</span><span class="english">This year, it's a triple-strand necklace with amber-colored citrine.</span></p>

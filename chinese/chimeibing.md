@@ -1,5 +1,7 @@
 # 赤霉病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chimeibing.md)
+
 <p><span class="chinese">长芒大穗，千粒重38克，中抗根腐病、赤霉病。</span><span class="english">Long awns big spike, 1000-grain weight 38 grams, resistant rot, warm.</span></p>
 
 <p><span class="chinese">小麦赤霉病抗性遗传是由细胞核基因控制的。</span><span class="english">The inheritance of scab resistance in wheat is controlled by nuclear genes.</span></p>

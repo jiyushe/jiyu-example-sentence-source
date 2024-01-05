@@ -1,5 +1,7 @@
 # philippi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/philippi.md)
+
 <p><span class="chinese">四小时后，Phhilippi先生说他惊醒了。</span><span class="english">Four hours later, Mr. Philippi says he woke with a start.</span></p>
 
 <p><span class="chinese">为什么说提摩太具备十分的资格，往来腓立比教会带信？</span><span class="english">Why is Timothy highly qualified to take news to and from Philippi?</span></p>

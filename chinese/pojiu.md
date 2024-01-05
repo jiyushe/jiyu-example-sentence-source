@@ -1,5 +1,7 @@
 # 破旧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pojiu.md)
+
 <p><span class="chinese">我用这辆破旧车。</span><span class="english">I'll use this jalopy.</span></p>
 
 <p><span class="chinese">他有一台破旧的收音机。</span><span class="english">He has got a raddled radio.</span></p>

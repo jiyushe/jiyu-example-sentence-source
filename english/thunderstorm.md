@@ -1,5 +1,7 @@
 # thunderstorm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thunderstorm.md)
+
 <p><span class="chinese">雷暴天气使孩子受到了惊吓。</span><span class="english">The thunderstorm terrified the child.</span></p>
 
 <p><span class="chinese">大雷雨惊了牛群。</span><span class="english">The thunderstorm stampeded the cattle.</span></p>

@@ -1,5 +1,7 @@
 # magda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magda.md)
+
 <p><span class="chinese">玛格达马上动手收拾。</span><span class="english">Magda immediately began to tidy up.</span></p>
 
 <p><span class="chinese">玛格达跟着一个魔术师走南闯北。</span><span class="english">Magda tramped about with a magician.</span></p>

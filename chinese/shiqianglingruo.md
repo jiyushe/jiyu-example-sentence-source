@@ -1,5 +1,7 @@
 # 恃强凌弱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiqianglingruo.md)
+
 <p><span class="chinese">约翰毫不畏怯地反抗那个恃强凌弱的家伙。</span><span class="english">John stuck up to the bully without the least timidity.</span></p>
 
 <p><span class="chinese">这是一个用法治取代恃强凌弱规则的世界。</span><span class="english">A world where the rule of law supplants the rule of the jungle.</span></p>

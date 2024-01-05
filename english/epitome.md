@@ -1,5 +1,7 @@
 # epitome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epitome.md)
+
 <p><span class="chinese">这就是我生活的缩影。</span><span class="english">Epitome of my life.</span></p>
 
 <p><span class="chinese">夏天的缩影。</span><span class="english">The epitome of summer.</span></p>

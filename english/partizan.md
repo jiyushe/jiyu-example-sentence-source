@@ -1,5 +1,7 @@
 # partizan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/partizan.md)
+
 <p><span class="chinese">那给游击队的三个盖帽呢？</span><span class="english">And those three blocks against Partizan ?</span></p>
 
 <p><span class="chinese">对阵游击队的比赛对你意味着什么？</span><span class="english">What do those games against Partizan mean for you?</span></p>

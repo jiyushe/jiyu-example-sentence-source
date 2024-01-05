@@ -1,5 +1,7 @@
 # carbon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carbon.md)
+
 <p><span class="chinese">碳排放交易有用吗？</span><span class="english">What about carbon trading?</span></p>
 
 <p><span class="chinese">能容纳4个原子成键。</span><span class="english">CH4 is sp3 carbon hybridization.</span></p>

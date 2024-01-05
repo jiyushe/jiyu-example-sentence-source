@@ -1,5 +1,7 @@
 # denouement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/denouement.md)
+
 <p><span class="chinese">第三幕是收场。</span><span class="english">Act three is the denouement.</span></p>
 
 <p><span class="chinese">土地测量员没想到会是这样一个结局。</span><span class="english">The surveyor had not expected such a dénouement.</span></p>

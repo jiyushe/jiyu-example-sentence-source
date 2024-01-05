@@ -1,5 +1,7 @@
 # proverb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proverb.md)
+
 <p><span class="chinese">我叫泡利的谚语。</span><span class="english">I call this Pauli's proverb.</span></p>
 
 <p><span class="chinese">你知道这个有关“钱”的谚语吗？</span><span class="english">Do you know the proverb about money?</span></p>

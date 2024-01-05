@@ -1,5 +1,7 @@
 # darkly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/darkly.md)
+
 <p><span class="chinese">少数人模糊地谈起了关于谋杀。</span><span class="english">A few spoke darkly of murder.</span></p>
 
 <p><span class="chinese">他们投下炸弹，她阴郁地说。</span><span class="english">They dropped bombs, she says darkly.</span></p>

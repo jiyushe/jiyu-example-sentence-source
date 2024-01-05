@@ -1,5 +1,7 @@
 # decommission
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decommission.md)
+
 <p><span class="chinese">预定义的过渡期结束后，使旧接口退役</span><span class="english">Decommission old interface after a pre-defined grace period</span></p>
 
 <p><span class="chinese">但是要数十年才能完全停止使用该核电站。</span><span class="english">But it could take decades to completely decommission the plant.</span></p>

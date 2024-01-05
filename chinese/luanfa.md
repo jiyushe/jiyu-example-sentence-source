@@ -1,5 +1,7 @@
 # 乱发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luanfa.md)
+
 <p><span class="chinese">请把我纷披的乱发，当作你幽暗的丛林！</span><span class="english">Make thy sad grove in my dishevelled hair.</span></p>
 
 <p><span class="chinese">她的白色围脖不小心掉在了地上，露出粘粘的乱发。</span><span class="english">Soon her boa is on the floor and her hair is mussed and sticky.</span></p>

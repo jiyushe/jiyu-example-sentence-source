@@ -1,5 +1,7 @@
 # 二手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ershou.md)
+
 <p><span class="chinese">我儿子是个二手䜰汽车商。</span><span class="english">My son, a used-car dealer.</span></p>
 
 <p><span class="chinese">可以的话就买二手书。</span><span class="english">Buy used books when you can.</span></p>

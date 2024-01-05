@@ -1,5 +1,7 @@
 # wouldst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wouldst.md)
+
 <p><span class="chinese">你要沉睡到几时？</span><span class="english">How long wouldst thou sleep?</span></p>
 
 <p><span class="chinese">欲在天空飘旋，小心翼翼！</span><span class="english">Wouldst float above the earth, beware!</span></p>

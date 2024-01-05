@@ -1,5 +1,7 @@
 # undetected
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undetected.md)
+
 <p><span class="chinese">钥匙沉默个中藏。</span><span class="english">The key in Silence undetected.</span></p>
 
 <p><span class="chinese">大多数情况下掺假没被检出。</span><span class="english">Mostly, the adulteration went undetected.</span></p>

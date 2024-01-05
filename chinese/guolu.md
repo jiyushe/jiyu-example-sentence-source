@@ -1,5 +1,7 @@
 # 过路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guolu.md)
+
 <p><span class="chinese">它弹进了一辆过路的车。</span><span class="english">It bounced into a passing car.</span></p>
 
 <p><span class="chinese">看看这些过路的人。</span><span class="english">Watch people crossing the road.</span></p>

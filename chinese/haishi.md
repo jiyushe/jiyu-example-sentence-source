@@ -1,5 +1,7 @@
 # 海狮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haishi.md)
+
 <p><span class="chinese">海狮的数量没有恢复。</span><span class="english">Sea lion numbers have not recovered.</span></p>
 
 <p><span class="chinese">那里没有那么多的加利福尼亚海狮。</span><span class="english">Not so many California sea lions down there.</span></p>

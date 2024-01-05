@@ -1,5 +1,7 @@
 # 精怪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingguai.md)
+
 <p><span class="chinese">他的风格是古灵精怪的。</span><span class="english">His style is quaint.</span></p>
 
 <p><span class="chinese">她有种古灵精怪的幽默感。</span><span class="english">She had a wicked sense of humour.</span></p>

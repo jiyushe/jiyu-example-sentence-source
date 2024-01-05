@@ -1,5 +1,7 @@
 # plc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plc.md)
+
 <p><span class="chinese">亲爱的朋友，我怎么能修改三菱M500的PLC的？</span><span class="english">How am I able to modify a Mitsubishi M500 PLC ?</span></p>
 
 <p><span class="chinese">PLC是以微处理器为核心的工业控制装置。</span><span class="english">PLC is a industry control equipment which cores on MPU.</span></p>

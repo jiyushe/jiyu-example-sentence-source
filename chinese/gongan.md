@@ -1,5 +1,7 @@
 # 公安
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongan.md)
+
 <p><span class="chinese">公安指控他犯有盗窃罪。</span><span class="english">The police accemploy him of theft.</span></p>
 
 <p><span class="chinese">公安向小偷猛扑过去。</span><span class="english">The policeman pounced on the thief.</span></p>

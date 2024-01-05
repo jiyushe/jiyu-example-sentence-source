@@ -1,5 +1,7 @@
 # 栓皮栎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuanpili.md)
+
 <p><span class="chinese">栓皮栎体细胞胚胎发生的细胞组织学观察。</span><span class="english">Histological Observation of Somatic Embryogenesis from Cultured Embryos of Quercus variabilis BI.</span></p>
 
 <p><span class="chinese">对陕西境内10个栓皮栎群体栓皮性状变异情况进行了试验分析。</span><span class="english">The variations of cork characters from 10 populations of Quercus variabilis in Shaanxi province are analyzed.</span></p>

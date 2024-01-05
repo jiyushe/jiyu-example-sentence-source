@@ -1,5 +1,7 @@
 # legato
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legato.md)
+
 <p><span class="chinese">以断奏和连奏方式演奏键盘可以得到完全不同的效果。</span><span class="english">The instrument will behave completely different when played 'staccato' than when played ' legato '.</span></p>
 
 <p><span class="chinese">我们在第五章里描述过，实际上连奏的演奏技巧是为了使这些曲调能一起持续发声。</span><span class="english">The physical means for holding these melodies together is the legato technique, which was described in chapter five.</span></p>

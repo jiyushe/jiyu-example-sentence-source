@@ -1,5 +1,7 @@
 # 备课
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beike.md)
+
 <p><span class="chinese">教师为什么备课？</span><span class="english">Why do we plan lessons?</span></p>
 
 <p><span class="chinese">备课时要先考虑语言的输出。</span><span class="english">Consider the language output when you plan.</span></p>

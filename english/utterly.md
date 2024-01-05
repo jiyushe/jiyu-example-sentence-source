@@ -1,5 +1,7 @@
 # utterly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/utterly.md)
+
 <p><span class="chinese">我实在为你感到害臊。</span><span class="english">I am utterly ashamed of you.</span></p>
 
 <p><span class="chinese">一切变了，那么彻底“</span><span class="english">All changed, changed utterly."</span></p>

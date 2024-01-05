@@ -1,5 +1,7 @@
 # southeastern
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/southeastern.md)
+
 <p><span class="chinese">东南风很强。</span><span class="english">The southeastern wind is strong.</span></p>
 
 <p><span class="chinese">开封张，东南大学，中国。</span><span class="english">Kaifeng Zhang, Southeastern University, China.</span></p>

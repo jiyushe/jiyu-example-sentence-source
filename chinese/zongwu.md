@@ -1,5 +1,7 @@
 # 总务
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongwu.md)
+
 <p><span class="chinese">公司总务组发的泰国地图很漂亮。</span><span class="english">Nice Map of Thailand from YS Wu.</span></p>
 
 <p><span class="chinese">请问总务部经理在吗？</span><span class="english">Can I speak to your supply manager, please?</span></p>

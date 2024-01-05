@@ -1,5 +1,7 @@
 # appointment 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appointment.md)
+
 <p><span class="chinese">敬辞你有预约吗?。</span><span class="english">Do you have an appointment?</span></p>
 
 <p><span class="chinese">我想约见陈医生。</span><span class="english">I have appointment tomorrow.</span></p>

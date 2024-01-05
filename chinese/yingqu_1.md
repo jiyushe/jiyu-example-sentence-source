@@ -1,5 +1,7 @@
 # 赢取
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingqu_1.md)
+
 <p><span class="chinese">我追求过她，但没有赢取她。</span><span class="english">I wooed her and I failed to win her.</span></p>
 
 <p><span class="chinese">我来这里就是为了成功和赢取奖杯。</span><span class="english">I am here for success and to win trophies.</span></p>

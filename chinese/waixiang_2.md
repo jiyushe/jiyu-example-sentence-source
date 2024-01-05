@@ -1,5 +1,7 @@
 # 外相
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waixiang_2.md)
+
 <p><span class="chinese">日本新外相松本刚明宣誓就职。</span><span class="english">Japan's new foreign minister sworn in.</span></p>
 
 <p><span class="chinese">如黑铁一般的爪牙，如黑夜一般的外相。</span><span class="english">Claws of black steel. Fur as dark night.</span></p>

@@ -1,5 +1,7 @@
 # 处心积虑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuxinjilv.md)
+
 <p><span class="chinese">他们处心积虑逃离自己的不幸，可是星星又离他们太远。</span><span class="english">From their misery they sought escape, and the stars were too remote for them.</span></p>
 
 <p><span class="chinese">我们从生到死，都在秘密地或处心积虑地，甚至明目张胆地追求快感。</span><span class="english">From childhood until death we are secretly, cunningly or obviously pursuing pleasure.</span></p>

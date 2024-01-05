@@ -1,5 +1,7 @@
 # annihilate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/annihilate.md)
+
 <p><span class="chinese">众神！出来时间和空间，毁灭吧！</span><span class="english">Ye gode! Annihilate but space and time.</span></p>
 
 <p><span class="chinese">要知道，在强也能湮灭在岁月无痕中。</span><span class="english">Should know that the strong can annihilate Seamless in the years to come.</span></p>

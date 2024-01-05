@@ -1,5 +1,7 @@
 # psychological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psychological.md)
+
 <p><span class="chinese">心理分析与禅理外泄。</span><span class="english">Psychological analysis and Buddhism.</span></p>
 
 <p><span class="chinese">一个答案是心理距离。</span><span class="english">One answer is psychological distance.</span></p>

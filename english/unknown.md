@@ -1,5 +1,7 @@
 # unknown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unknown.md)
+
 <p><span class="chinese">它之前都是未可知的。</span><span class="english">It was unknown.</span></p>
 
 <p><span class="chinese">这是一个不明物体。</span><span class="english">It’s an unknown object.</span></p>

@@ -1,5 +1,7 @@
 # hypocalcemia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypocalcemia.md)
+
 <p><span class="chinese">永久性低钙血症的发生2例。</span><span class="english">The incidence of permanent hypocalcemia is 2.</span></p>
 
 <p><span class="chinese">血钙过少会导致延长的QT间隔。</span><span class="english">Hypocalcemia results in prolonged QT intervals.</span></p>

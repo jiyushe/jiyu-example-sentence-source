@@ -1,5 +1,7 @@
 # cirque
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cirque.md)
+
 <p><span class="chinese">这是杰米金和太阳马戏团的首次合作。</span><span class="english">This is Jamie's first show with Cirque du Soleil.</span></p>
 
 <p><span class="chinese">欢迎来到马戏团有什么问题吗?。</span><span class="english">Welcome to the Cirque. What seems to be the problem?</span></p>

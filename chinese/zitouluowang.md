@@ -1,5 +1,7 @@
 # 自投罗网
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zitouluowang.md)
+
 <p><span class="chinese">没有罪犯愿意自投罗网。</span><span class="english">No prisoners would be taken.</span></p>
 
 <p><span class="chinese">即使她是圈套里的诱饵，我也甘愿自投罗网。</span><span class="english">If she is the bait in the trap, I'm willing to spring it.</span></p>

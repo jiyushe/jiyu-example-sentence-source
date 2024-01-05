@@ -1,5 +1,7 @@
 # insulinoma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insulinoma.md)
+
 <p><span class="chinese">目的探讨胰岛素瘤的诊断和外科治疗方法。</span><span class="english">Objective To study the methods used for diagnosis and surgical treatment of insulinoma.</span></p>
 
 <p><span class="chinese">目的探讨胰岛素瘤的临床特点及诊断治疗方法。</span><span class="english">Objective To explore the significance in diagnosis and treatment of pancreatic insulinoma.</span></p>

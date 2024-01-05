@@ -1,5 +1,7 @@
 # 不学无术
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buxuewushu.md)
+
 <p><span class="chinese">艺术的敌人就是不学无术。</span><span class="english">Art has an enemy called ignorance.</span></p>
 
 <p><span class="chinese">不会不学无术，我们追求知识。</span><span class="english">There is no ignorance, there is knowledge.</span></p>

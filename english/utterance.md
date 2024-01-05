@@ -1,5 +1,7 @@
 # utterance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/utterance.md)
+
 <p><span class="chinese">个人言语的表达不过是自我中心主义罢了。</span><span class="english">Personal utterance was only egotism.</span></p>
 
 <p><span class="chinese">一些不高明的意见也在会上提了出来。</span><span class="english">Some unwise suggestions also found utterance at the meeting.</span></p>

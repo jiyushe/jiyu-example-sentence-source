@@ -1,5 +1,7 @@
 # skintight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skintight.md)
+
 <p><span class="chinese">我不喜欢紧身衣。</span><span class="english">I do not like skintight clothes.</span></p>
 
 <p><span class="chinese">她穿着紧身牛仔裤和白色毛衣。</span><span class="english">She wore skintight jeans and a white sweater.</span></p>

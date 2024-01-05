@@ -1,5 +1,7 @@
 # 千载难逢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianzainanfeng.md)
+
 <p><span class="chinese">这机会可谓是千载难逢。</span><span class="english">This may be the chance of a life-time.</span></p>
 
 <p><span class="chinese">这是一个千载难逢的机会。</span><span class="english">This was the once-in-a-thousand-year opportunity.</span></p>

@@ -1,5 +1,7 @@
 # clatter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clatter.md)
+
 <p><span class="chinese">锅盆相碰的咔哒声。</span><span class="english">The clatter of pots and pans.</span></p>
 
 <p><span class="chinese">别把刀叉碰得咔嗒响。</span><span class="english">Don't clatter your knives and forks.</span></p>

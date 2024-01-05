@@ -1,5 +1,7 @@
 # 海波
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haibo.md)
+
 <p><span class="chinese">我叫海波。你呢？</span><span class="english">I'm Haibo. And you?</span></p>
 
 <p><span class="chinese">临近的海波里星是另一个。</span><span class="english">The nearby world of Hypori was another.</span></p>

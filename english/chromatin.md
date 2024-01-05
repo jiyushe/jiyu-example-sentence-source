@@ -1,5 +1,7 @@
 # chromatin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chromatin.md)
+
 <p><span class="chinese">核小体是染色质的基本单位。</span><span class="english">Nucleosome is the basic unit of chromatin.</span></p>
 
 <p><span class="chinese">染色质甲基化后会出现凝缩。</span><span class="english">Methylation of chromatin causes it to condense.</span></p>

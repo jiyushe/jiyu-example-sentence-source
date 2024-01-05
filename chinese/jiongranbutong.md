@@ -1,5 +1,7 @@
 # 迥然不同
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiongranbutong.md)
+
 <p><span class="chinese">但各自原因迥然不同。</span><span class="english">But the reasons for this differ.</span></p>
 
 <p><span class="chinese">男人和女人对理发的看法迥然不同。</span><span class="english">Men and women have very different views on haircuts.</span></p>

@@ -1,5 +1,7 @@
 # smg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smg.md)
+
 <p><span class="chinese">我还有一支冲锋枪。</span><span class="english">I also had a SMG.</span></p>
 
 <p><span class="chinese">你问我在连队里我们用什么型号的冲锋枪。</span><span class="english">You asked me what type of SMG we used in our company.</span></p>

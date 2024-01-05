@@ -1,5 +1,7 @@
 # 推崇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuichong.md)
+
 <p><span class="chinese">而我最推崇的是函馆。</span><span class="english">But I like Hakodate.</span></p>
 
 <p><span class="chinese">我是一个极其推崇简约的人。</span><span class="english">I’m a big fan of simple.</span></p>

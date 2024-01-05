@@ -1,5 +1,7 @@
 # yawning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yawning.md)
+
 <p><span class="chinese">我还打哈欠呢。</span><span class="english">I’m still yawning.</span></p>
 
 <p><span class="chinese">而打哈欠就是其中一部分。</span><span class="english">Yawning may be part of that.</span></p>

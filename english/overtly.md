@@ -1,5 +1,7 @@
 # overtly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overtly.md)
+
 <p><span class="chinese">它的修辞如此平白流畅不带感情，仿佛不是修辞本身。</span><span class="english">Its rhetoric is so flat and unemotional, so overtly unrhetorical.</span></p>
 
 <p><span class="chinese">政治候选人有时候会狡猾的打种族牌，但是很少公开的这样。</span><span class="english">Political candidates sometimes slyly play the race card, but rarely overtly.</span></p>

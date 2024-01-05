@@ -1,5 +1,7 @@
 # conjunctiva
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conjunctiva.md)
+
 <p><span class="chinese">蚕蚀性角膜溃疡的球结膜可能起着局部淋巴结作用。</span><span class="english">Bulbar conjunctiva may act as a local lymph node of Mooren's ulcer.</span></p>
 
 <p><span class="chinese">结论蚕蚀性角膜溃疡的球结膜可能起着局部淋巴结作用。</span><span class="english">Bulbar conjunctiva may act as a local lymph node of Mooren's ulcer.</span></p>

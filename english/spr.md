@@ -1,5 +1,7 @@
 # spr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spr.md)
+
 <p><span class="chinese">表面等离子体子共振传感器已经成为生物传感器研究领域的热点。</span><span class="english">The SPR sensor has become a research frontier in the biosensor field.</span></p>
 
 <p><span class="chinese">在大量的实时应用中，要完全满足这种SPR条件是相当困难的。</span><span class="english">It is very difficult to satisfy the SPR condition in many applications.</span></p>

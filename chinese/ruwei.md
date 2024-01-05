@@ -1,5 +1,7 @@
 # 入味
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruwei.md)
+
 <p><span class="chinese">菜做得很入味。</span><span class="english">The dish is very tasty.</span></p>
 
 <p><span class="chinese">将牛肉用盐和胡椒粉调至入味。</span><span class="english">Season the steak with salt and pepper.</span></p>

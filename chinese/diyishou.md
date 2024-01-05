@@ -1,5 +1,7 @@
 # 第一手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diyishou.md)
+
 <p><span class="chinese">你可以得到第一手的信息。</span><span class="english">You get information first-hand.</span></p>
 
 <p><span class="chinese">或者你有没有听说过一些第一手的事情?</span><span class="english">Or have you heard of some first-hand?</span></p>

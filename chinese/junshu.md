@@ -1,5 +1,7 @@
 # 军属
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junshu.md)
+
 <p><span class="chinese">愿上帝保佑我们的军队和军属。</span><span class="english">May God bless our troops and their families.</span></p>
 
 <p><span class="chinese">我猜想在我们军属家庭中，有许多部署在外的情况被忽略了。</span><span class="english">I suppose there were so many deployments among our military families that it was overlooked.</span></p>

@@ -1,5 +1,7 @@
 # crush
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crush.md)
+
 <p><span class="chinese">让我们把他们碾得粉碎。</span><span class="english">Let's crush them.</span></p>
 
 <p><span class="chinese">别弄皱我的衣服。</span><span class="english">Don't crush my dress.</span></p>

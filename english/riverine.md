@@ -1,5 +1,7 @@
 # riverine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/riverine.md)
+
 <p><span class="chinese">河边发生的大部分事故与它们无关。</span><span class="english">Most riverine accidents had nothing to do with them.</span></p>
 
 <p><span class="chinese">诗巫在砂拉越是一个与木材业的根源沿河镇。</span><span class="english">Sibu is a riverine town in Sarawak with its roots in the timber industry.</span></p>

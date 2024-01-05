@@ -1,5 +1,7 @@
 # vertically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vertically.md)
+
 <p><span class="chinese">所以是纵向相互联系的。</span><span class="english">So it's vertically interconnected.</span></p>
 
 <p><span class="chinese">竖直地将右腿伸直。</span><span class="english">Straighten the right leg vertically.</span></p>

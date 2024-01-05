@@ -1,5 +1,7 @@
 # 林场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linchang_1.md)
+
 <p><span class="chinese">鲁朗林场的一个小孩，别嫌他脏，很可爱。</span><span class="english">Boy, one day you'll be a man.</span></p>
 
 <p><span class="chinese">他在林场里过着孤单的生活?。</span><span class="english">He lives a lonely life in the tree farm.</span></p>

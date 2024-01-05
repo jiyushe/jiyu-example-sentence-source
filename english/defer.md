@@ -1,5 +1,7 @@
 # defer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defer.md)
+
 <p><span class="chinese">我可以延期支付申请费吗?。</span><span class="english">Can I defer the application fee?</span></p>
 
 <p><span class="chinese">我还是把它留给席勒吧</span><span class="english">I'll defer those to Bob Shiller.</span></p>

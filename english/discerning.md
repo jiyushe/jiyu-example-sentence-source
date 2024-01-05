@@ -1,5 +1,7 @@
 # discerning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discerning.md)
+
 <p><span class="chinese">奈何又有多少人身心雪亮知其因？</span><span class="english">But how many people know and discerning for?</span></p>
 
 <p><span class="chinese">分辨人须从分辨诸灵开始。</span><span class="english">Discern life needs start from discerning spirit.</span></p>

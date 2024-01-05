@@ -1,5 +1,7 @@
 # 环形
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanxing_1.md)
+
 <p><span class="chinese">环形光源。</span><span class="english">Ring-shaped light Source.</span></p>
 
 <p><span class="chinese">环形扳手在哪里？</span><span class="english">Where is the ring spanner?</span></p>

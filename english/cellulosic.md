@@ -1,5 +1,7 @@
 # cellulosic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cellulosic.md)
+
 <p><span class="chinese">纤维素生物量的供料是廉价和丰富的。</span><span class="english">Cellulosic biomass feedstock is inexpensive and plentiful.</span></p>
 
 <p><span class="chinese">这往往是些不可食用的纤维作物。</span><span class="english">These are usually non-edible cellulosic crops, " he said."</span></p>

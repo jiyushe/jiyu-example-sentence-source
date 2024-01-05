@@ -1,5 +1,7 @@
 # repeat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repeat.md)
+
 <p><span class="chinese">重复做15-20次。</span><span class="english">Repeat 15-20 times.</span></p>
 
 <p><span class="chinese">沉积，蚀刻，再重复</span><span class="english">Deposit, Etch, Repeat</span></p>

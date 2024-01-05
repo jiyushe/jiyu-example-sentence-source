@@ -1,5 +1,7 @@
 # behalf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/behalf.md)
+
 <p><span class="chinese">他替我说情。</span><span class="english">He interceded in my behalf.</span></p>
 
 <p><span class="chinese">我代表理查德·迪安……</span><span class="english">On behalf of Richard Dean...</span></p>

@@ -1,5 +1,7 @@
 # 概貌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaimao.md)
+
 <p><span class="chinese">农作物名物词的确定及概貌。</span><span class="english">Determination and profile of crop nouns.</span></p>
 
 <p><span class="chinese">这将为你提供一个局势的概貌。</span><span class="english">This will give you an approximate idea of the situation.</span></p>

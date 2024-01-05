@@ -1,5 +1,7 @@
 # 欺骗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qipian.md)
+
 <p><span class="chinese">没有欺骗。</span><span class="english">No deception.</span></p>
 
 <p><span class="chinese">你有可能被欺骗么？</span><span class="english">Can you get scammed?</span></p>

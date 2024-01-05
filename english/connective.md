@@ -1,5 +1,7 @@
 # connective
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/connective.md)
+
 <p><span class="chinese">它就好比惠普云中的结缔组织。</span><span class="english">Think of it as the connective tissue for HP's cloud.</span></p>
 
 <p><span class="chinese">而其中最容易出错的是蕴涵联结词。</span><span class="english">Of them the connective implication is easily mistaken.</span></p>

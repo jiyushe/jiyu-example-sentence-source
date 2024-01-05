@@ -1,5 +1,7 @@
 # 构件
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/goujian.md)
+
 <p><span class="chinese">缝隙将是构件的铸模。</span><span class="english">The gap would be mold of the member.</span></p>
 
 <p><span class="chinese">斗和木共是这一系列构件中最基本的两个。</span><span class="english">Bucket and arch is the basic two parts.</span></p>

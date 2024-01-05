@@ -1,5 +1,7 @@
 # inherit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inherit.md)
+
 <p><span class="chinese">阿道必须继承业务。</span><span class="english">Adolphus must inherit the business.</span></p>
 
 <p><span class="chinese">也许是只有男娃才能继承土地。</span><span class="english">Perhaps only sons may inherit land.</span></p>

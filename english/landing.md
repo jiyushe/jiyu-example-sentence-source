@@ -1,5 +1,7 @@
 # landing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/landing.md)
+
 <p><span class="chinese">软着陆的降落点在哪里?</span><span class="english">WHERE'S THE SOFT LANDING?</span></p>
 
 <p><span class="chinese">第1095号航班马上要着陆了。</span><span class="english">Flight 1095 is landing soon.</span></p>

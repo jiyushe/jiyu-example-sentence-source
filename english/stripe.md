@@ -1,5 +1,7 @@
 # stripe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stripe.md)
+
 <p><span class="chinese">而我是条黄束带。</span><span class="english">I got a yellow stripe.</span></p>
 
 <p><span class="chinese">水平横杆，水平线，水平条。</span><span class="english">A horizontal bar, line, or stripe.</span></p>

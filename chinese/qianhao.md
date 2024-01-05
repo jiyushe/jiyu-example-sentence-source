@@ -1,5 +1,7 @@
 # 堑壕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianhao.md)
+
 <p><span class="chinese">他们重新夺回了堑壕。</span><span class="english">They recaptured their trench.</span></p>
 
 <p><span class="chinese">至死不悔自堑壕升起。</span><span class="english">From their graves in the trenches ascending.</span></p>

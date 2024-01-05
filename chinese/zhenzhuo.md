@@ -1,5 +1,7 @@
 # 斟酌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenzhuo.md)
+
 <p><span class="chinese">生命太短暂，我们没有时间去反复地斟酌比对。</span><span class="english">Life is too short for anyting else.</span></p>
 
 <p><span class="chinese">然后它再斟酌一下</span><span class="english">And then it sort of works backwards.</span></p>

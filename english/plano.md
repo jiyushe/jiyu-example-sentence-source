@@ -1,5 +1,7 @@
 # plano
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plano.md)
+
 <p><span class="chinese">普莱诺高中两度被选为蓝带学校并且是一所德克萨斯模范学校。</span><span class="english">Plano is a two-time Blue Ribbon School and a Texas Exemplary School.</span></p>
 
 <p><span class="chinese">一段2010年的视频显示佩里曾出现在华为在普莱诺的新总部落成的庆祝仪式上。</span><span class="english">A video from October 2010 shows Perry at the ceremony in Plano to celebrate Huawei’s new headquarters.</span></p>

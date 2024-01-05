@@ -1,5 +1,7 @@
 # tasmania
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tasmania.md)
+
 <p><span class="chinese">这发生在塔斯马尼亚岛。</span><span class="english">This is happening on the island of Tasmania.</span></p>
 
 <p><span class="chinese">塔斯曼尼亚是以它的发现者塔斯曼为名。</span><span class="english">Tasmania was named after its discoverer, A J Tasman.</span></p>

@@ -1,5 +1,7 @@
 # temperature 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/temperature_1.md)
+
 <p><span class="chinese">在这个温度上。</span><span class="english">At this temperature.</span></p>
 
 <p><span class="chinese">K9的温度报警。</span><span class="english">K9 warning temperature.</span></p>

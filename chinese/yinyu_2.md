@@ -1,5 +1,7 @@
 # 银鱼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinyu_2.md)
+
 <p><span class="chinese">钓起一条小小的银鱼。</span><span class="english">And caught a little silver trout.</span></p>
 
 <p><span class="chinese">核桃，银鱼柳，培根末，帕玛森芝士，黑橄榄。</span><span class="english">Bacon Bits , Parmesans Cheese , Black Olive.</span></p>

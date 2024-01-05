@@ -1,5 +1,7 @@
 # 氤氲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinyun.md)
+
 <p><span class="chinese">说声再见，便不再相见，说声忘记，一切记忆便氤氲。</span><span class="english">Say goodbye, no longer meet, say forget, all memory is dense.</span></p>
 
 <p><span class="chinese">残月朦胧，很快氤氲的月色已经被一朵黑漆漆的云给遮住了。</span><span class="english">The moon is dim, and soon her moon has been a dark cloud obscured.</span></p>

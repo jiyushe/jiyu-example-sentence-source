@@ -1,5 +1,7 @@
 # biostratigraphic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biostratigraphic.md)
+
 <p><span class="chinese">三叶虫是进化迅速的种型，并广泛用在生物地层学的研究上。</span><span class="english">Trilobites were rapidly evolving forms and are of widespread use in biostratigraphic studies.</span></p>
 
 <p><span class="chinese">古生物地层数据库建设是一项长期而意义深远的学科基础工程。</span><span class="english">Construction of a biostratigraphic database is a long-term basic disciplinary project of far-reaching significance.</span></p>

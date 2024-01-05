@@ -1,5 +1,7 @@
 # 湿漉漉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shilulu.md)
+
 <p><span class="chinese">我脸上有种湿漉漉的感觉。</span><span class="english">A feeling of wet struck on my face.</span></p>
 
 <p><span class="chinese">随后，它顺着湿漉漉的山谷奔跑起来。</span><span class="english">It began running down the wet valley.</span></p>

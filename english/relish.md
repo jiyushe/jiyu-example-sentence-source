@@ -1,5 +1,7 @@
 # relish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relish.md)
+
 <p><span class="chinese">我不喜欢吃火腿色拉。</span><span class="english">I don't relish ham salad.</span></p>
 
 <p><span class="chinese">调味香料使菜肴味美。</span><span class="english">Spices give relish to a dish.</span></p>

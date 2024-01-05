@@ -1,5 +1,7 @@
 # tara
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tara.md)
+
 <p><span class="chinese">你愿意带我去桃瑞园吗？</span><span class="english">Will you take me to Tara?</span></p>
 
 <p><span class="chinese">是啊，可桃瑞园又有什么好呢？</span><span class="english">Yes, and what good is Tara ?</span></p>

@@ -1,5 +1,7 @@
 # radioisotope
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radioisotope.md)
+
 <p><span class="chinese">SLNB采用放射性示踪法和专利蓝法。</span><span class="english">Combining radioisotope tracing and blue patent modus was used for SLNB.</span></p>
 
 <p><span class="chinese">而放射性同位素能量源可以为探测器提供热量和电能。</span><span class="english">A radioisotope power source will provide heat and electric power to the rover.</span></p>

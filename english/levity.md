@@ -1,5 +1,7 @@
 # levity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/levity.md)
+
 <p><span class="chinese">外国人肯定认为我们的轻浮举止不可理喻。</span><span class="english">I am sure foreigners must think our levity is baffling.</span></p>
 
 <p><span class="chinese">那个星期，我给竞选活动增加了一点点轻佻因素。</span><span class="english">I added a needed bit of levity to the campaign that week.</span></p>

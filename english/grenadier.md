@@ -1,5 +1,7 @@
 # grenadier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grenadier.md)
+
 <p><span class="chinese">是的，他是的，近卫步兵，我这样认为。</span><span class="english">Yes he did, Grenadier Guards, I think.</span></p>
 
 <p><span class="chinese">本-凯德尼在掷弹兵卫队服役。</span><span class="english">Ben Kidney served in the Grenadier Guards.</span></p>

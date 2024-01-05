@@ -1,5 +1,7 @@
 # 刀兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daobing.md)
+
 <p><span class="chinese">战争刀兵系列之坦克篇。</span><span class="english">National Geographic War Machines Tank.</span></p>
 
 <p><span class="chinese">我以为这是抵抗压力最有效的刀兵。</span><span class="english">I considered this as the most effective weapon against stress.</span></p>

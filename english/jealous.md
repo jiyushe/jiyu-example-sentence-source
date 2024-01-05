@@ -1,5 +1,7 @@
 # jealous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jealous.md)
+
 <p><span class="chinese">别忌妒。</span><span class="english">Don't get jealous.</span></p>
 
 <p><span class="chinese">我不会这么嫉妒。</span><span class="english">I’m not as jealous.</span></p>

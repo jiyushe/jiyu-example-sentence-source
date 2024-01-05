@@ -1,5 +1,7 @@
 # 不育
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buyu.md)
+
 <p><span class="chinese">因为万物都变得不育而贫瘠</span><span class="english">For all things turn to barrenness</span></p>
 
 <p><span class="chinese">子宫内膜炎是不育的原子。</span><span class="english">Endometritis is a cause of infertility.</span></p>

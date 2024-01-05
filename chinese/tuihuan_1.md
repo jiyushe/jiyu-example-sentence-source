@@ -1,5 +1,7 @@
 # 退还
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuihuan_1.md)
+
 <p><span class="chinese">已缴学费不能退还。</span><span class="english">No tuition will be refunded.</span></p>
 
 <p><span class="chinese">很不幸，我们必须退还它们。</span><span class="english">Too bad we must return them.</span></p>

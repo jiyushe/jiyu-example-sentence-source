@@ -1,5 +1,7 @@
 # 新派
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinpai.md)
+
 <p><span class="chinese">重新派神杀死他。</span><span class="english">Re sends the gods to slay him.</span></p>
 
 <p><span class="chinese">新派神学的衰落和消亡。</span><span class="english">The decline and death of liberalism.</span></p>

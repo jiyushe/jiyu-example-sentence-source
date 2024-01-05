@@ -1,5 +1,7 @@
 # projector
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/projector.md)
+
 <p><span class="chinese">如果投影仪死机了怎么办？</span><span class="english">What if your projector dies?</span></p>
 
 <p><span class="chinese">多动症就像幻灯机。</span><span class="english">ADHD is like a slide projector.</span></p>

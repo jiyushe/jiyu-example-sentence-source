@@ -1,5 +1,7 @@
 # 普及
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/puji.md)
+
 <p><span class="chinese">英语教育在中国也不够普及。</span><span class="english">Few Chinese speak good English.</span></p>
 
 <p><span class="chinese">按使用时段定价的方式开始普及。</span><span class="english">Time-of-use pricing begins to spread.</span></p>

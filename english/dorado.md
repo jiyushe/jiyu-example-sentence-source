@@ -1,5 +1,7 @@
 # dorado
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dorado.md)
+
 <p><span class="chinese">我讲的是一个埃尔多拉多？</span><span class="english">Am I talking of an El Dorado ?</span></p>
 
 <p><span class="chinese">理想中的黄金国正在重新蜕变成沙漠。</span><span class="english">El Dorado is fading back into desert.</span></p>

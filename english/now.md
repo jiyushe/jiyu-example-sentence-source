@@ -1,5 +1,7 @@
 # now 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/now.md)
+
 <p><span class="chinese">现在坐吧。</span><span class="english">Now sit.</span></p>
 
 <p><span class="chinese">你现在走开！</span><span class="english">Now scram!</span></p>

@@ -1,5 +1,7 @@
 # dissonant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissonant.md)
+
 <p><span class="chinese">它们听起来很不协调</span><span class="english">They sound dissonant.</span></p>
 
 <p><span class="chinese">这样呢，和谐还是不和谐？</span><span class="english">What about that?Consonant or dissonant?</span></p>

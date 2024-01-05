@@ -1,5 +1,7 @@
 # 肠胃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/changwei.md)
+
 <p><span class="chinese">冰淇淋实际上是低肠胃的。</span><span class="english">Ice-cream is actually low-GI.</span></p>
 
 <p><span class="chinese">也许是某人的香烟点燃的肠胃气胀。</span><span class="english">Probably flatulence ignited by someones cigarette.</span></p>

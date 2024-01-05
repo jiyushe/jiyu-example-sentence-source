@@ -1,5 +1,7 @@
 # 兵团
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingtuan.md)
+
 <p><span class="chinese">另外，在酒馆中的雇俑兵团的数量会增加。</span><span class="english">Also mercenary groups in taverns are larger.</span></p>
 
 <p><span class="chinese">父子兵团出席动漫展新书签名会…</span><span class="english">Kubi & Leo are signing their names on the new book.</span></p>

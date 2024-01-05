@@ -1,5 +1,7 @@
 # 钓鱼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diaoyu.md)
+
 <p><span class="chinese">钓鱼去吧。</span><span class="english">Go fishing.</span></p>
 
 <p><span class="chinese">喜欢钓鱼吗？</span><span class="english">Like to fish?</span></p>

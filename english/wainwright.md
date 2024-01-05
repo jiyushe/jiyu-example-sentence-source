@@ -1,5 +1,7 @@
 # wainwright
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wainwright.md)
+
 <p><span class="chinese">温赖特的一个手指关节在下巴上搓来搓去。</span><span class="english">Wainwright rubbed a knuckle along the surface of his chin.</span></p>
 
 <p><span class="chinese">他按了按温赖特放下的马尼拉纸文件袋。</span><span class="english">He touched the manila folder which wainwright had put down.</span></p>

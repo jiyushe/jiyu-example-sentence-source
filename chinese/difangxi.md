@@ -1,5 +1,7 @@
 # 地方戏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/difangxi.md)
+
 <p><span class="chinese">中国地方戏种类很多，其中京剧是一个具有代表性的剧种。</span><span class="english">There are many kinds of local operas in our country.</span></p>
 
 <p><span class="chinese">夜色降临，喇叭里传来地方戏的曲调。</span><span class="english">Night fell. From the loud speakers came local opera tunes.</span></p>

@@ -1,5 +1,7 @@
 # 中篇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongpian.md)
+
 <p><span class="chinese">中篇文章克漏字。</span><span class="english">Grammar. Medium length text open cloze.</span></p>
 
 <p><span class="chinese">中篇传奇小说是中国小说发展史上的创举和破例。</span><span class="english">Legendary novelette is an innovative and exceptional genre in the history of Chinese fiction.</span></p>

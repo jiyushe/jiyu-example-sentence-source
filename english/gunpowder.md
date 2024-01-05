@@ -1,5 +1,7 @@
 # gunpowder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gunpowder.md)
+
 <p><span class="chinese">潮湿的火药不会起火。</span><span class="english">Damp gunpowder will not fire.</span></p>
 
 <p><span class="chinese">火药改变了战争的规则。</span><span class="english">Gunpowder changed the rules of war.</span></p>

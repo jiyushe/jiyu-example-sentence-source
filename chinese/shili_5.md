@@ -1,5 +1,7 @@
 # 实利
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shili_5.md)
+
 <p><span class="chinese">“有钱人是很实利的，”我鄙夷的说。</span><span class="english">“Rich men are materialistic,” I scoffed.</span></p>
 
 <p><span class="chinese">这时，制作玻璃用品几乎全都是为了获取实利。</span><span class="english">Glassmaking at this time was almost entirely utilitarian.</span></p>

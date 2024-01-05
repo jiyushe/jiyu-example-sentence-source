@@ -1,5 +1,7 @@
 # tactfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tactfully.md)
+
 <p><span class="chinese">这份通知措辞不太策略。</span><span class="english">The advice wasn't very tactfully worded.</span></p>
 
 <p><span class="chinese">这份通知措辞不太得体。</span><span class="english">The advice wasn't very tactfully worded.</span></p>

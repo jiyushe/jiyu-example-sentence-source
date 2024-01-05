@@ -1,5 +1,7 @@
 # cesspit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cesspit.md)
+
 <p><span class="chinese">那里，几乎可以说曾经是天花和黑死病生生不息的污水坑。</span><span class="english">It was a kind of cesspit constantly seething with smallpox and bubonic plague.</span></p>
 
 <p><span class="chinese">要把官僚主义方式这个极坏的家伙抛到粪缸里去，因为没有一个同志喜欢它。</span><span class="english">The ugly evil of bureaucracy, which no comrade likes, must be thrown into the cesspit.</span></p>

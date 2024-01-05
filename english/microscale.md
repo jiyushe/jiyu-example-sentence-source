@@ -1,5 +1,7 @@
 # microscale
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microscale.md)
+
 <p><span class="chinese">展望了微尺度激光冲击处理技术的发展及应用前景。</span><span class="english">The development of microscale laser shock processing was presented.</span></p>
 
 <p><span class="chinese">概述了微尺度热传导理论的几种模型及其求解方法。</span><span class="english">Theoretical models of microscale heat transfer and solving approaches are summarized.</span></p>

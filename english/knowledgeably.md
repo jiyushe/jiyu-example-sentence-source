@@ -1,5 +1,7 @@
 # knowledgeably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knowledgeably.md)
+
 <p><span class="chinese">于是这给予你需要聪明知晓的资料。</span><span class="english">This then gives you the data needed to proceed knowledgeably.</span></p>
 
 <p><span class="chinese">演讲者头头是地道论述了一系列问题。</span><span class="english">The speaker discoursed knowledgeably on a variety of subjects.</span></p>

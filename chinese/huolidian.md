@@ -1,5 +1,7 @@
 # 火力点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huolidian.md)
+
 <p><span class="chinese">他们分成两组，向两个火力点发起突击。</span><span class="english">These were split into two groups who stormed the two fire bases.</span></p>
 
 <p><span class="chinese">他把枪口对准他刚才见过的日本人的火力点，打了一梭子。</span><span class="english">He directed it to where he had seen the Japanese gunfire and loosed a volley.</span></p>

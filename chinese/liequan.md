@@ -1,5 +1,7 @@
 # 猎犬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liequan.md)
+
 <p><span class="chinese">猫王的猎犬狗.</span><span class="english">Elvis the hound dog.</span></p>
 
 <p><span class="chinese">它是一只真正狩猎用的猎犬。</span><span class="english">He was a hunting hound.</span></p>

@@ -1,5 +1,7 @@
 # dis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dis.md)
+
 <p><span class="chinese">当我们给世界带来新秩序。</span><span class="english">When we bring to the world dis -order.</span></p>
 
 <p><span class="chinese">他会来带我这老黑奴回家的。</span><span class="english">He'll come tek dis ole nigger home agin.</span></p>

@@ -1,5 +1,7 @@
 # microbial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microbial.md)
+
 <p><span class="chinese">虎克把这个称为“微生物的签名”。</span><span class="english">Hulcr calls these "microbial signatures."</span></p>
 
 <p><span class="chinese">微生物絮凝剂是一类新型絮凝剂。</span><span class="english">Microbial flocculant is a new type of flocculant.</span></p>

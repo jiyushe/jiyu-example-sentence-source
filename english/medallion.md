@@ -1,5 +1,7 @@
 # medallion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/medallion.md)
+
 <p><span class="chinese">艺术的大奖章！</span><span class="english">Medallion of art!</span></p>
 
 <p><span class="chinese">这正是这个奖章的活力所在。</span><span class="english">That is the animation of this medallion.</span></p>

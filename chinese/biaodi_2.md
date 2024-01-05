@@ -1,5 +1,7 @@
 # 表弟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaodi_2.md)
+
 <p><span class="chinese">表弟住在奶奶家。</span><span class="english">Cousin in grandma's house.</span></p>
 
 <p><span class="chinese">这是我表弟亚历山大。</span><span class="english">This is my cousin Alessandro.</span></p>

@@ -1,5 +1,7 @@
 # sleepy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sleepy.md)
+
 <p><span class="chinese">感觉想睡了？</span><span class="english">Feeling sleepy?</span></p>
 
 <p><span class="chinese">你看起来很困啊。</span><span class="english">You look sleepy.</span></p>

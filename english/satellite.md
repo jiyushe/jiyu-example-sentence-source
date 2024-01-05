@@ -1,5 +1,7 @@
 # satellite 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/satellite.md)
+
 <p><span class="chinese">卫星广播？</span><span class="english">Satellite radio?</span></p>
 
 <p><span class="chinese">为何要击落卫星呢？</span><span class="english">Why shoot down the satellite?</span></p>

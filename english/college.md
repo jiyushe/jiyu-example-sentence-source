@@ -1,5 +1,7 @@
 # college
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/college.md)
+
 <p><span class="chinese">去上大学。</span><span class="english">Go to college.</span></p>
 
 <p><span class="chinese">大学生活真爽！</span><span class="english">College life rules!</span></p>

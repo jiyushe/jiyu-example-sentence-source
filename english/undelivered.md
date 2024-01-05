@@ -1,5 +1,7 @@
 # undelivered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undelivered.md)
+
 <p><span class="chinese">删除缓冲目录中未投递的邮件吗？</span><span class="english">Remove undelivered mails in spool directory?</span></p>
 
 <p><span class="chinese">协助采购催收应到而未到的物品。</span><span class="english">Assist purchasing clerk to urge the shipment of the undelivered goods.</span></p>

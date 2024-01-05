@@ -1,5 +1,7 @@
 # millivolt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/millivolt.md)
+
 <p><span class="chinese">一毫伏是一伏的千分之一。</span><span class="english">A millivolt is one-thousandth of a volt.</span></p>
 
 <p><span class="chinese">测量热电偶的毫伏输出。</span><span class="english">Measure the thermocouple's millivolt output.</span></p>

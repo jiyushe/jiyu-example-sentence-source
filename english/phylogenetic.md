@@ -1,5 +1,7 @@
 # phylogenetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phylogenetic.md)
+
 <p><span class="chinese">岩梅科的花粉形态和系统与亲缘关系。</span><span class="english">Pollen morphology and phylogenetic relationships in the Diapensiaceae.</span></p>
 
 <p><span class="chinese">用邻接法进行分子系统发育分析。</span><span class="english">Molecular phylogenetic trees were constructed with Neighbor-Joining method.</span></p>

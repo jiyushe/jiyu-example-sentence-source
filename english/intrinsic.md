@@ -1,5 +1,7 @@
 # intrinsic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intrinsic.md)
+
 <p><span class="chinese">自旋也是个本征量。</span><span class="english">Spin is also an intrinsic property.</span></p>
 
 <p><span class="chinese">边缘增强是静电复印术的固有特点。</span><span class="english">Edge enhancement is intrinsic in xerography.</span></p>

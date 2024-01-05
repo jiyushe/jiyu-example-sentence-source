@@ -1,5 +1,7 @@
 # wallace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wallace.md)
+
 <p><span class="chinese">我是威廉姆华莱仕。</span><span class="english">I am william wallace.</span></p>
 
 <p><span class="chinese">谁是威廉华勒斯？</span><span class="english">Who was William Wallace?</span></p>

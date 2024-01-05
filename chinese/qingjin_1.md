@@ -1,5 +1,7 @@
 # 青筋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingjin_1.md)
+
 <p><span class="chinese">他的手臂上青筋暴露。</span><span class="english">His arm veins twitched.</span></p>
 
 <p><span class="chinese">他满是青筋的手祈祷。</span><span class="english">Rubs his thick veined hands. Prays.</span></p>

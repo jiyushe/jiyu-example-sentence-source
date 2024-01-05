@@ -1,5 +1,7 @@
 # 生理盐水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengliyanshui.md)
+
 <p><span class="chinese">生理盐水含有盐分。</span><span class="english">Saline contains salt.</span></p>
 
 <p><span class="chinese">对照组与AD模型组则给予等量的生理盐水灌胃。</span><span class="english">CG and ADG gave the same dose of Sodium Chloride.</span></p>

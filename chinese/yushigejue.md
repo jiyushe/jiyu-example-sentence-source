@@ -1,5 +1,7 @@
 # 与世隔绝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yushigejue.md)
+
 <p><span class="chinese">凡里是一个与世隔绝的国家。</span><span class="english">Vori is an isolationist nation.</span></p>
 
 <p><span class="chinese">不过，他的与世隔绝能够持续多久？</span><span class="english">But how long can his isolation last?</span></p>

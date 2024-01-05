@@ -1,5 +1,7 @@
 # compromising
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compromising.md)
+
 <p><span class="chinese">再说一遍，我们没有在原则上妥协。</span><span class="english">Again, without compromising on principle, " he said.</span></p>
 
 <p><span class="chinese">他对这个问题采取了妥协的态度。</span><span class="english">He took up a compromising attitude towards the question.</span></p>

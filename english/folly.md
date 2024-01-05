@@ -1,5 +1,7 @@
 # folly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/folly.md)
+
 <p><span class="chinese">他嘲笑我的愚蠢。</span><span class="english">He jests me on my folly.</span></p>
 
 <p><span class="chinese">我们的愚蠢把我们毁了。</span><span class="english">Our folly has undone us.</span></p>

@@ -1,5 +1,7 @@
 # 领主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingzhu.md)
+
 <p><span class="chinese">我可以当城堡的领主吗?。</span><span class="english">Can I be Lord of a Holdfast?</span></p>
 
 <p><span class="chinese">他是地狱中最H的领主。</span><span class="english">He is the hest lord in hell.</span></p>

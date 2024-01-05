@@ -1,5 +1,7 @@
 # 救世军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiushijun.md)
+
 <p><span class="chinese">我们救世军能够抹平朝鲜。</span><span class="english">Our Salvation Army could whoop N. Korea.</span></p>
 
 <p><span class="chinese">剩下的就托付给救世军吧。</span><span class="english">Give away the rest to the Salvation Army.</span></p>

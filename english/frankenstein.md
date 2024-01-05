@@ -1,5 +1,7 @@
 # frankenstein
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frankenstein.md)
+
 <p><span class="chinese">我是我自己的弗兰肯斯坦。</span><span class="english">I am my own Frankenstein.</span></p>
 
 <p><span class="chinese">他想装成怪物或吸血鬼。</span><span class="english">He wants to be Frankenstein or a vampire.</span></p>

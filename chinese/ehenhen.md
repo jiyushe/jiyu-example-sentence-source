@@ -1,5 +1,7 @@
 # 恶狠狠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ehenhen.md)
+
 <p><span class="chinese">他恶狠狠地看了我一眼。</span><span class="english">He gave me a black look.</span></p>
 
 <p><span class="chinese">我恶狠狠的盯着窗户外面。</span><span class="english">I glared angrily out the window.</span></p>

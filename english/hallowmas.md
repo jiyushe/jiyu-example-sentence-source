@@ -1,5 +1,7 @@
 # hallowmas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hallowmas.md)
+
 <p><span class="chinese">这是不错的万圣节的贺卡。</span><span class="english">It is a good greeting card for Hallowmas.</span></p>
 
 <p><span class="chinese">人们在万圣节会化妆成不同的人物。</span><span class="english">E. g. People dress up in costumes for Hallowmas.</span></p>

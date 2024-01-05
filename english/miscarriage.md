@@ -1,5 +1,7 @@
 # miscarriage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/miscarriage.md)
+
 <p><span class="chinese">如何能避免刑事错案？</span><span class="english">How to avoid miscarriage cases?</span></p>
 
 <p><span class="chinese">流产的风险约为四百分之一。</span><span class="english">The risk of miscarriage is about 1 in 400.</span></p>

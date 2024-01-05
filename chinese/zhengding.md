@@ -1,5 +1,7 @@
 # 征订
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengding.md)
+
 <p><span class="chinese">新年的第一刊已经开始征订了。</span><span class="english">The subscription of the first edition of the new year has began.</span></p>
 
 <p><span class="chinese">同时我们还可代理征订全国各大出版社教材。</span><span class="english">At the same time, we also subscribe to the major national Acting Press materials.</span></p>

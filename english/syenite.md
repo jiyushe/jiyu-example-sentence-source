@@ -1,5 +1,7 @@
 # syenite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/syenite.md)
+
 <p><span class="chinese">实验的岩石有花岗岩、玄武岩、正长岩和片麻岩。</span><span class="english">The experimental rocks were granite, basalt, syenite and gneiss.</span></p>
 
 <p><span class="chinese">冶父山岩体主体岩性为石英正长斑岩。</span><span class="english">The Yefushan rock mass is mainly composed of quartz syenite porphyry.</span></p>

@@ -1,5 +1,7 @@
 # 综观
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongguan_3.md)
+
 <p><span class="chinese">然而，综观目前研究，学者多聚焦于雍正帝的功业。</span><span class="english">However, the present studies focus on the successes of Yong-Cheng.</span></p>
 
 <p><span class="chinese">综观夏目漱石一生的创作，他塑造了不少女性形象。</span><span class="english">Natsume Sousaki has created many images of the female sex in his works.</span></p>

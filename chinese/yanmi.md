@@ -1,5 +1,7 @@
 # 严密
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanmi.md)
+
 <p><span class="chinese">他以极严密的逻辑争辨。</span><span class="english">He argued with deadly logic.</span></p>
 
 <p><span class="chinese">但是她是非常严密的与我们。</span><span class="english">But sh is vry strict with us.</span></p>

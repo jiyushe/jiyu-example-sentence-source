@@ -1,5 +1,7 @@
 # 田纳西河
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiannaxihe.md)
+
 <p><span class="chinese">有一天，田纳西河沿岸出现了暴风雨。</span><span class="english">One day a thunderstorm blew up along the Tennessee River.</span></p>
 
 <p><span class="chinese">在田纳西河及其支流上都修建了大型水坝。</span><span class="english">Big dams were built across the Tennessee river and its tributaries.</span></p>

@@ -1,5 +1,7 @@
 # cupcake
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cupcake.md)
+
 <p><span class="chinese">和墙上的那个骚货！</span><span class="english">And that cupcake on the wall.</span></p>
 
 <p><span class="chinese">吃一块蛋糕还是吃一个苹果？</span><span class="english">Eating a cupcake or an apple?</span></p>

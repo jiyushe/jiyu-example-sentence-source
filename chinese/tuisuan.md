@@ -1,5 +1,7 @@
 # 推算
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuisuan.md)
+
 <p><span class="chinese">你是说你能推算出来？</span><span class="english">What do you mean, you counted it?</span></p>
 
 <p><span class="chinese">这是一个很有趣的推算过程。</span><span class="english">It's a very interesting little process.</span></p>

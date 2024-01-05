@@ -1,5 +1,7 @@
 # vance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vance.md)
+
 <p><span class="chinese">范斯孟森是一头猪！</span><span class="english">And Vance Munson is a pig!</span></p>
 
 <p><span class="chinese">“你的门牌号码是什么？”万斯太太问。</span><span class="english">"What's your number?" said Mrs. Vance.</span></p>

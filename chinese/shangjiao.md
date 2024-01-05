@@ -1,5 +1,7 @@
 # 上交
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangjiao.md)
+
 <p><span class="chinese">请上交你的作业本。</span><span class="english">Hand in your workbooks, please.</span></p>
 
 <p><span class="chinese">我今天早上上交了我的辞职报告。</span><span class="english">I handed in my resignation this morning.</span></p>

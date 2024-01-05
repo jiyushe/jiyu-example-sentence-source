@@ -1,5 +1,7 @@
 # secession
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/secession.md)
+
 <p><span class="chinese">绝大多数代表拒绝为脱离联邦而投票。</span><span class="english">A majority of the delegates refused to vote for secession.</span></p>
 
 <p><span class="chinese">一个准备脱离联邦的大会正在该州的首府召开。</span><span class="english">A secession convention already was meeting at the state capital.</span></p>

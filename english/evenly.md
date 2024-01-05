@@ -1,5 +1,7 @@
 # evenly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evenly.md)
+
 <p><span class="chinese">“我知道，”她平静地回答。</span><span class="english">“I do,” she replied, evenly.</span></p>
 
 <p><span class="chinese">生铁可均匀地传热。</span><span class="english">Cast iron conducts heat evenly.</span></p>

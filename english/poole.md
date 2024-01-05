@@ -1,5 +1,7 @@
 # poole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poole.md)
+
 <p><span class="chinese">那女人一定是格丽丝·普尔。</span><span class="english">That woman must have been Grace Poole.</span></p>
 
 <p><span class="chinese">那女人正是格雷斯·普尔。</span><span class="english">That woman was no other than Grace Poole.</span></p>

@@ -1,5 +1,7 @@
 # corporate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corporate.md)
+
 <p><span class="chinese">是否有企业会员的方案呢？</span><span class="english">What is a Corporate Purchase?</span></p>
 
 <p><span class="chinese">企业目录管理。</span><span class="english">Corporate Directory Management.</span></p>

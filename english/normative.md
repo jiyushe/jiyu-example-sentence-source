@@ -1,5 +1,7 @@
 # normative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/normative.md)
+
 <p><span class="chinese">总之，自然化认识论仍然是规范的。</span><span class="english">In a word, naturalized epistemology remains normative.</span></p>
 
 <p><span class="chinese">部分特殊的规范或信息性规格。</span><span class="english">Sector-specific normative or informative specifications.</span></p>

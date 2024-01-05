@@ -1,5 +1,7 @@
 # pm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pm.md)
+
 <p><span class="chinese">首相说，“不允许背叛。”</span><span class="english">"No sell-out , " says PM.</span></p>
 
 <p><span class="chinese">小王的换班班次在下午1点。</span><span class="english">Wang works the 1 pm shift.</span></p>

@@ -1,5 +1,7 @@
 # gobbledygook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gobbledygook.md)
+
 <p><span class="chinese">它只是一堆令人费解的符号。</span><span class="english">It’s just a bunch of gobbledygook symbols.</span></p>
 
 <p><span class="chinese">这些话当然是官样文章。</span><span class="english">Of course, those words are gobbledygook on the whole.</span></p>

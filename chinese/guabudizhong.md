@@ -1,5 +1,7 @@
 # 寡不敌众
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guabudizhong.md)
+
 <p><span class="chinese">我和小白寡不敌众。</span><span class="english">"White little" and I are losing the fight.</span></p>
 
 <p><span class="chinese">泰国工人是寡不敌众。</span><span class="english">The Thai workmen were hopelessly outnumbered.</span></p>

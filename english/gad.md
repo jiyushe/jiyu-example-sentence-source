@@ -1,5 +1,7 @@
 # gad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gad.md)
+
 <p><span class="chinese">于是给他起名叫迦得。</span><span class="english">So she named him Gad.</span></p>
 
 <p><span class="chinese">假如能给我从新来一次的机会。</span><span class="english">If gad can give me another chance.</span></p>

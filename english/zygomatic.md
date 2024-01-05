@@ -1,5 +1,7 @@
 # zygomatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zygomatic.md)
+
 <p><span class="chinese">目的研究颧骨复合体骨折手术入路的选择。</span><span class="english">Objective To study the selection of surgical incisions of zygomatic fractures.</span></p>
 
 <p><span class="chinese">颧骨弓处盘状电极减少了活化和伪迹干扰。</span><span class="english">Activation and artifact were reduced in EEG record with zygomatic reference electrode.</span></p>

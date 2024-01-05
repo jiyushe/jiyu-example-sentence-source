@@ -1,5 +1,7 @@
 # tan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tan.md)
+
 <p><span class="chinese">为什么会晒黑？</span><span class="english">Why does skin tan?</span></p>
 
 <p><span class="chinese">我很容易便晒黑。</span><span class="english">Because I tan easily.</span></p>

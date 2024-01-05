@@ -1,5 +1,7 @@
 # cornea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cornea.md)
+
 <p><span class="chinese">他的眼角膜上留下了萝卜花的瘢痕。</span><span class="english">White scars remain on his cornea.</span></p>
 
 <p><span class="chinese">其中11例残留角膜云翳。</span><span class="english">However cornea scar was found in 11 cases.</span></p>

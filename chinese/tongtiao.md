@@ -1,5 +1,7 @@
 # 通条
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongtiao.md)
+
 <p><span class="chinese">爸爸用通条把火捅得更旺。</span><span class="english">Father poked the fire with a poker.</span></p>
 
 <p><span class="chinese">他正用通条捅火。</span><span class="english">He poked the coals up into a blaze.</span></p>

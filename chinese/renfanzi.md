@@ -1,5 +1,7 @@
 # 人贩子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renfanzi.md)
+
 <p><span class="chinese">女孩最害怕人贩子！</span><span class="english">The frightened girl traffickers!</span></p>
 
 <p><span class="chinese">深圳打击人贩子，逮捕17名嫌犯。</span><span class="english">Crackdown on kidnap scams nets 17 suspects.</span></p>

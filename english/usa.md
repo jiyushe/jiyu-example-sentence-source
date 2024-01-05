@@ -1,5 +1,7 @@
 # usa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/usa.md)
+
 <p><span class="chinese">我来自美国，肥东。</span><span class="english">I'm from the USA.</span></p>
 
 <p><span class="chinese">海伦凯勒生活在美国。</span><span class="english">Helen Keller lived in the USA.</span></p>

@@ -1,5 +1,7 @@
 # 祝词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuci_3.md)
+
 <p><span class="chinese">在正式的晚餐时，需要说祝词。</span><span class="english">Toasts are given at formal meals.</span></p>
 
 <p><span class="chinese">不要让他的祝词冲昏你的头脑。</span><span class="english">Don't let his congratulations go to your head.</span></p>

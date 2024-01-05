@@ -1,5 +1,7 @@
 # 至理名言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhilimingyan.md)
+
 <p><span class="chinese">至理名言不会来！</span><span class="english">Words of wisdom will not come!</span></p>
 
 <p><span class="chinese">“画如其人”是至理名言。</span><span class="english">"painting as the person" is the maxim.</span></p>

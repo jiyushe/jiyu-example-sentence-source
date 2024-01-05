@@ -1,5 +1,7 @@
 # 言传身教
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanchuanshenjiao.md)
+
 <p><span class="chinese">你能做到言传身教吗?。</span><span class="english">Can you practice what you preach.</span></p>
 
 <p><span class="chinese">有没有在我的言传身教下走向美好的生活呢？</span><span class="english">There under in my words and deeds toward a better life?</span></p>

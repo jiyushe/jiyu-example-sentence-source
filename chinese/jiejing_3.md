@@ -1,5 +1,7 @@
 # 街景
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiejing_3.md)
+
 <p><span class="chinese">耶路撒冷名胜图片。一条街景在老城市。</span><span class="english">A street scene in the Old City.</span></p>
 
 <p><span class="chinese">在谷歌街景地图中，Cadie取代了pegman人形图标。</span><span class="english">In Google Maps Street View, Cadie replaced pegman.</span></p>

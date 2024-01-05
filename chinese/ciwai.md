@@ -1,5 +1,7 @@
 # 此外
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ciwai.md)
+
 <p><span class="chinese">此外还有汉堡王快餐厅。</span><span class="english">That and Burger King.</span></p>
 
 <p><span class="chinese">此外，不要说谎。</span><span class="english">In addition, no lying.</span></p>

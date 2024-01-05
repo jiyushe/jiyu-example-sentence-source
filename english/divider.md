@@ -1,5 +1,7 @@
 # divider
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/divider.md)
+
 <p><span class="chinese">团结者缘何变成了分裂者？</span><span class="english">How did the uniter become a divider?</span></p>
 
 <p><span class="chinese">泻湖这个“分水岭”是由砂质物构成的。</span><span class="english">This lagoon "divider" consist of sand.</span></p>

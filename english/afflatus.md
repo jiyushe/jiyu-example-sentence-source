@@ -1,5 +1,7 @@
 # afflatus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/afflatus.md)
+
 <p><span class="chinese">如何运作？</span><span class="english">How "Afflatus" Works?</span></p>
 
 <p><span class="chinese">神圣的灵感使嘉莉变得神采奕奕。</span><span class="english">Carrie was now lightened by a touch of this divine afflatus.</span></p>

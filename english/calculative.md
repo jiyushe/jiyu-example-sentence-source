@@ -1,5 +1,7 @@
 # calculative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calculative.md)
+
 <p><span class="chinese">编制了优化设计的计算程序。</span><span class="english">Calculative program of optimized design is programed.</span></p>
 
 <p><span class="chinese">采用粗网格可以提高计算效率。</span><span class="english">Using coarse grids can improve calculative efficiency.</span></p>

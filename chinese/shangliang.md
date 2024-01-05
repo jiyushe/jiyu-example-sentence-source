@@ -1,5 +1,7 @@
 # 商量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangliang.md)
+
 <p><span class="chinese">于是，我就同她商量。</span><span class="english">Then I discussed with her.</span></p>
 
 <p><span class="chinese">你对商量的印相如何？</span><span class="english">How did the plan strike you?</span></p>

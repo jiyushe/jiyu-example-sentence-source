@@ -1,5 +1,7 @@
 # 应该
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinggai.md)
+
 <p><span class="chinese">应该不会吧。</span><span class="english">It shouldn't.</span></p>
 
 <p><span class="chinese">也许你应该努力。</span><span class="english">Maybe Ull try.</span></p>

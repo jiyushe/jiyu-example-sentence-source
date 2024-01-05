@@ -1,5 +1,7 @@
 # waterflood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waterflood.md)
+
 <p><span class="chinese">在胜利油田，D300注水泵机组已成为主力注水泵型。</span><span class="english">D300 pump set has become the main waterflood pump type.</span></p>
 
 <p><span class="chinese">初期采用温和注水方式，水驱效果较好。</span><span class="english">Moderate waterflood is adopted at early stage achieving good response.</span></p>

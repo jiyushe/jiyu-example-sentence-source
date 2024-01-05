@@ -1,5 +1,7 @@
 # liposome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liposome.md)
+
 <p><span class="chinese">目的建立苦参碱脂质体的制备工艺。</span><span class="english">Objective To establish preparation of matrine liposome.</span></p>
 
 <p><span class="chinese">抗体能通过共价键结合在脂质体颗粒上。</span><span class="english">Antibody can be linked to liposome particles by covalent binding.</span></p>

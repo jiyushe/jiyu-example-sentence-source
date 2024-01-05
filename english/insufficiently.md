@@ -1,5 +1,7 @@
 # insufficiently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insufficiently.md)
+
 <p><span class="chinese">百说不如一干。我觉得你们的领导人不够努力。</span><span class="english">Actions speak louder than words. I think your leader insufficiently diligently.</span></p>
 
 <p><span class="chinese">但是仅仅把巴斯夏作为一名经济学家看待，不足以评价他。</span><span class="english">But to think of Bastiat as just an economist is to insufficiently appreciate him.</span></p>

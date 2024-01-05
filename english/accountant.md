@@ -1,5 +1,7 @@
 # accountant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accountant.md)
+
 <p><span class="chinese">那就先请个会计。</span><span class="english">Then get an accountant.</span></p>
 
 <p><span class="chinese">我是一个公司的会计员。</span><span class="english">I'm an accountant company.</span></p>

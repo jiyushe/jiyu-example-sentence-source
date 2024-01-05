@@ -1,5 +1,7 @@
 # 不管三七二十一
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buguansanqiershiyi.md)
+
 <p><span class="chinese">我不管三七二十一。</span><span class="english">I'm not care three seven twenty-one.</span></p>
 
 <p><span class="chinese">公野猪看到了布哈依，就不管三七二十一的冲了过来。</span><span class="english">Boar seen by Buha, the impulse to just-over.</span></p>

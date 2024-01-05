@@ -1,5 +1,7 @@
 # 海带
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haidai.md)
+
 <p><span class="chinese">海带豆腐汤！啊啊啊啊太好吃了！</span><span class="english">Seaweed and tofu soup! Mmmmm yum!</span></p>
 
 <p><span class="chinese">月海带有一丝害怕的感情看着他。</span><span class="english">Tsugumi looked at him with just a trace of fear.</span></p>

@@ -1,5 +1,7 @@
 # 甘愿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganyuan.md)
+
 <p><span class="chinese">仅因为自爱自恋就甘愿断子绝孙？</span><span class="english">Of his self-love, to stop posterity?</span></p>
 
 <p><span class="chinese">他是一个圆的儿子名叫维斯特利甘愿出个。</span><span class="english">He was a rounder's son named Westley.</span></p>

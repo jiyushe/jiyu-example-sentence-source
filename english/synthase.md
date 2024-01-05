@@ -1,5 +1,7 @@
 # synthase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synthase.md)
+
 <p><span class="chinese">本文对现已发现的细菌软骨素合酶系统作一综述。</span><span class="english">This review brie? y introduces the bacterial chondroitin synthase.</span></p>
 
 <p><span class="chinese">几丁质合成酶是生物合成几丁质的关键物质。</span><span class="english">Chitin synthase is the important enzyme that converts UDP-GlcNAc to chitin.</span></p>

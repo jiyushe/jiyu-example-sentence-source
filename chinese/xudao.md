@@ -1,5 +1,7 @@
 # 絮叨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xudao.md)
+
 <p><span class="chinese">这本书是絮叨的么？</span><span class="english">The book is repetitive?</span></p>
 
 <p><span class="chinese">她可真絮叨。</span><span class="english">She is really long-winded.</span></p>

@@ -1,5 +1,7 @@
 # dreadful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dreadful.md)
+
 <p><span class="chinese">那条可怕的黑纱幔！</span><span class="english">The dreadful black veil!</span></p>
 
 <p><span class="chinese">那是为什么可怕的原因。</span><span class="english">That is why it was so dreadful.</span></p>

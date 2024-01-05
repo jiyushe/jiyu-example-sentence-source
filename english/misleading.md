@@ -1,5 +1,7 @@
 # misleading
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misleading.md)
+
 <p><span class="chinese">2014年限期是误导性的。</span><span class="english">The 2014 deadline is misleading.</span></p>
 
 <p><span class="chinese">标志误人，它使我迷了路。</span><span class="english">The misleading sign led me astray.</span></p>

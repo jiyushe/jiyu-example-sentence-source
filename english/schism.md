@@ -1,5 +1,7 @@
 # schism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/schism.md)
+
 <p><span class="chinese">说是分裂大概也不过分。</span><span class="english">Schism is probably not an overstatement.</span></p>
 
 <p><span class="chinese">这样，一种深刻的美国分裂主义诞生了。</span><span class="english">In this way, a deep American schism was born.</span></p>

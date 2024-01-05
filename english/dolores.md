@@ -1,5 +1,7 @@
 # dolores
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dolores.md)
+
 <p><span class="chinese">正式签名时她是多洛雷斯。</span><span class="english">When she was officially signed Dolores.</span></p>
 
 <p><span class="chinese">我喜欢去米申区，去德洛里斯公园逛逛，</span><span class="english">I like to go to the Mission and hang out and like Dolores Park,</span></p>

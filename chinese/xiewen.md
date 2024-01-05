@@ -1,5 +1,7 @@
 # 斜纹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiewen.md)
+
 <p><span class="chinese">斜纹棉布裤可能是卡其色。</span><span class="english">Chinos can be khaki color.</span></p>
 
 <p><span class="chinese">他常穿斜纹软呢服装。</span><span class="english">He often dresses in tweeds.</span></p>

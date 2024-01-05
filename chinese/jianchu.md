@@ -1,5 +1,7 @@
 # 剪除
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianchu.md)
+
 <p><span class="chinese">那条欢乐的小尾巴需要剪除。</span><span class="english">That happy trail needs a prune.</span></p>
 
 <p><span class="chinese">它被彻底剪除了。</span><span class="english">It was exterminated root and branch.</span></p>

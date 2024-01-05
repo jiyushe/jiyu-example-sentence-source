@@ -1,5 +1,7 @@
 # manama
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manama.md)
+
 <p><span class="chinese">上图为麦纳麦医院的一名受伤示威者。</span><span class="english">Above, an injured protester at a Manama hospital.</span></p>
 
 <p><span class="chinese">他们也在巴林曼纳马的地区年会中发表演说。</span><span class="english">They also made a presentation at the district conference in Manama , Bahrain.</span></p>

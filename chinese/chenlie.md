@@ -1,5 +1,7 @@
 # 陈列
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenlie.md)
+
 <p><span class="chinese">展览品陈列于五个大厅。</span><span class="english">They're displayed in five halls.</span></p>
 
 <p><span class="chinese">零售店店主陈列他的商品。</span><span class="english">The storekeeper exposed his wares.</span></p>

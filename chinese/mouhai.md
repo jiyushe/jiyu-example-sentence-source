@@ -1,5 +1,7 @@
 # 谋害
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mouhai.md)
+
 <p><span class="chinese">他将用毒药谋害你。</span><span class="english">He will practise against you by poison.</span></p>
 
 <p><span class="chinese">保罗承认是他下毒谋害总督。</span><span class="english">Paolo admits that he poisoned the doge.</span></p>

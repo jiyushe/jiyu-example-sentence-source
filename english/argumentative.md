@@ -1,5 +1,7 @@
 # argumentative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/argumentative.md)
+
 <p><span class="chinese">儿子插言道，他突然变得很爱争论。</span><span class="english">broke in her son, growing suddenly argumentative.</span></p>
 
 <p><span class="chinese">追根究底，就是对现在的一种终结吧。</span><span class="english">Argumentative , that is, right now the end of a bar.</span></p>

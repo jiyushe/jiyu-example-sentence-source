@@ -1,5 +1,7 @@
 # vasodilatation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vasodilatation.md)
+
 <p><span class="chinese">结论高血压病人内皮依赖性及非内皮依赖性的血管舒张功能均受损。</span><span class="english">Conclusions Both endothelium_dependent and endothelium_independent vasodilatation are impaired in patients with hypertension.</span></p>
 
 <p><span class="chinese">目的研究氟伐他汀对老年高血压病患者内皮依赖性血管舒张功能的影响。</span><span class="english">Objective To investigate the effect of Fluvastatin on the endothelium dependent vasodilatation function in elder hypertensives.</span></p>

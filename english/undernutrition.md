@@ -1,5 +1,7 @@
 # undernutrition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undernutrition.md)
+
 <p><span class="chinese">营养不良或说饥饿是一个世界性的大问题</span><span class="english">Undernutrition or hunger is a major world problem.</span></p>
 
 <p><span class="chinese">两岁以后，营养不良造成的副作用将是不可逆转的了。</span><span class="english">After age two, the negative effects of undernutrition are largely irreversible.</span></p>

@@ -1,5 +1,7 @@
 # 享清福
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangqingfu.md)
+
 <p><span class="chinese">你为什麽不到我这儿来享享清福呢？</span><span class="english">Why don't you come to my place to enjoy the life?</span></p>
 
 <p><span class="chinese">一个鸡蛋五克盐，水果绿茶享清福。</span><span class="english">An egg five grams of salt, fruit, green tea enjoying.</span></p>

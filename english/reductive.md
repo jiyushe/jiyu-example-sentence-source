@@ -1,5 +1,7 @@
 # reductive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reductive.md)
+
 <p><span class="chinese">他帮我还原了只是几天前的！</span><span class="english">He helps me reductive just several days ago!</span></p>
 
 <p><span class="chinese">他们对生活的希望减少了、降低了。</span><span class="english">Their views of life were reductive and depreciatory.</span></p>

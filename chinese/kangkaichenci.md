@@ -1,5 +1,7 @@
 # 慷慨陈词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kangkaichenci.md)
+
 <p><span class="chinese">她慷慨陈词猛烈抨击对纳税人金钱的浪费。</span><span class="english">She was declaiming against the waste of the taxpayers' money.</span></p>
 
 <p><span class="chinese">一些人在慷慨陈词，称汤姆的死事实上对大家来说是一种解脱和一个很好的教训。</span><span class="english">Some declaimed that Tom's death was, in fact, a relief and a good lesson for everyone.</span></p>

@@ -1,5 +1,7 @@
 # Romania
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/romania.md)
+
 <p><span class="chinese">在罗马尼亚你可不能这么做。</span><span class="english">You can't really do that in Romania.</span></p>
 
 <p><span class="chinese">我还以为我在罗马尼亚杀害了这个混蛋。</span><span class="english">Thought I killed that fucker in Romania.</span></p>

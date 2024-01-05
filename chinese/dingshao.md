@@ -1,5 +1,7 @@
 # 盯梢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingshao.md)
+
 <p><span class="chinese">他被警察盯梢。</span><span class="english">He was shadowed by the police.</span></p>
 
 <p><span class="chinese">恐龙伊桑帮他的朋友们盯梢。</span><span class="english">Dinosaur Ethan on a lookout for friends.</span></p>

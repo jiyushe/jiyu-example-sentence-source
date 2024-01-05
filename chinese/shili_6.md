@@ -1,5 +1,7 @@
 # 市里
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shili_6.md)
+
 <p><span class="chinese">我早早地从市里回了家。</span><span class="english">I got home early from the City.</span></p>
 
 <p><span class="chinese">我的公司在市里设有办公室。</span><span class="english">My firm was officed in the city.</span></p>

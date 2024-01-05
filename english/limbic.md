@@ -1,5 +1,7 @@
 # limbic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/limbic.md)
+
 <p><span class="chinese">这是启发式学习而且起作用了，这真的很简单。</span><span class="english">And now, this is limbic learning and it works. This is really simple.</span></p>
 
 <p><span class="chinese">边缘共振该术语就是用来描述一个被另一个所吸引的感觉。</span><span class="english">Limbic resonance is a term used to describe the feeling of attraction to another.</span></p>

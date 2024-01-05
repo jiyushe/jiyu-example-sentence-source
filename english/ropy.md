@@ -1,5 +1,7 @@
 # ropy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ropy.md)
+
 <p><span class="chinese">他们在一个破旧的帐篷里过了一夜。</span><span class="english">They spent the night in a ropy old tent.</span></p>
 
 <p><span class="chinese">黑暗中，有什么粘稠的东西浸湿了他的手。</span><span class="english">In darkness, the thing with ropy what soaked his hand.</span></p>

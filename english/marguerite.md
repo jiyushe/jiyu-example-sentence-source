@@ -1,5 +1,7 @@
 # marguerite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marguerite.md)
+
 <p><span class="chinese">有玛格丽特其人吗？</span><span class="english">Was there a real Marguerite?</span></p>
 
 <p><span class="chinese">呀，耶稣上帝！</span><span class="english">"Ah! Jesus God!" cried Marguerite.</span></p>

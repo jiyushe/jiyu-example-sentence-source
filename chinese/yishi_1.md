@@ -1,5 +1,7 @@
 # 一时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yishi_1.md)
+
 <p><span class="chinese">我一时语塞。</span><span class="english">I was speechless.</span></p>
 
 <p><span class="chinese">那不仅仅是一时的狂热。</span><span class="english">It is not just a fad.</span></p>

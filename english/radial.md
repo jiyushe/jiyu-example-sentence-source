@@ -1,5 +1,7 @@
 # radial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radial.md)
+
 <p><span class="chinese">场是散射状的。</span><span class="english">The field is radial.</span></p>
 
 <p><span class="chinese">径向渐变，黑色到深灰色。</span><span class="english">Use Radial for the Gradient Type.</span></p>

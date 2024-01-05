@@ -1,5 +1,7 @@
 # peroxidase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peroxidase.md)
+
 <p><span class="chinese">包括过氧化氢酶、过氧化物酶、磷酸酯酶。</span><span class="english">Enzymes , catalase, peroxidase and phosphatase are present.</span></p>
 
 <p><span class="chinese">同时测定血清谷光苷肽过氧化物酶活性。</span><span class="english">The activity of glutathione peroxidase of serum was measured.</span></p>

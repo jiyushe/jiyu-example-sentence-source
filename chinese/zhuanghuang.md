@@ -1,5 +1,7 @@
 # 装潢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanghuang.md)
+
 <p><span class="chinese">我喜欢这种装潢。</span><span class="english">I like the decoration.</span></p>
 
 <p><span class="chinese">米米小屋装潢得还不错。</span><span class="english">Mimi cabin decor quite well.</span></p>

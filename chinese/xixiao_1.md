@@ -1,5 +1,7 @@
 # 细小
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xixiao_1.md)
+
 <p><span class="chinese">细小的枝杈，随风摇曳。</span><span class="english">A small twig, the wind swaying.</span></p>
 
 <p><span class="chinese">什么是细小的症状？</span><span class="english">What are the symptoms of Parvo?</span></p>

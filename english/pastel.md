@@ -1,5 +1,7 @@
 # pastel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pastel.md)
+
 <p><span class="chinese">对于非品酒师，一切都是柔和的。</span><span class="english">For non-tasters, everything is pastel.</span></p>
 
 <p><span class="chinese">我们有几个不同血统的“粉彩”。</span><span class="english">We have a few different bloodlines of "Pastel".</span></p>

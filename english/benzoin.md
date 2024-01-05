@@ -1,5 +1,7 @@
 # benzoin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/benzoin.md)
+
 <p><span class="chinese">麝香，鸢尾花，玫瑰，安息香。</span><span class="english">Musk, Iris Powder, Rose Petals, Benzoin Balm.</span></p>
 
 <p><span class="chinese">将洗涤器的一面涂上安息香并将它贴到皮肤上。</span><span class="english">Paint one side of washer with benzoin and apply this side to skin.</span></p>

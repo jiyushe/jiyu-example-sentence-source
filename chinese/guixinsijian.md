@@ -1,5 +1,7 @@
 # 归心似箭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guixinsijian.md)
+
 <p><span class="chinese">我早已归心似箭！</span><span class="english">My heart like a arrow!</span></p>
 
 <p><span class="chinese">丢失的孩子归心似箭。</span><span class="english">The lost child is impatient to come back.</span></p>

@@ -1,5 +1,7 @@
 # rectory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rectory.md)
+
 <p><span class="chinese">我的寓所和她的地产毗邻。</span><span class="english">My small rectory abuts her estate.</span></p>
 
 <p><span class="chinese">教区长的住宅烧毁，但教堂本身幸免。</span><span class="english">The rectory burned but the church itself was spared.</span></p>

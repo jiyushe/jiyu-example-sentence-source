@@ -1,5 +1,7 @@
 # identical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/identical.md)
+
 <p><span class="chinese">但又不完全相同。</span><span class="english">But not identical.</span></p>
 
 <p><span class="chinese">我和“我”就是完全相同的。</span><span class="english">I am identical with me.</span></p>

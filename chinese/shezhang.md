@@ -1,5 +1,7 @@
 # 赊账
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shezhang.md)
+
 <p><span class="chinese">我们可以赊账吗？</span><span class="english">Can we charge it?</span></p>
 
 <p><span class="chinese">我赊账买了这辆自行车。</span><span class="english">I bought the bike on account.</span></p>

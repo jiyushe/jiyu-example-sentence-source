@@ -1,5 +1,7 @@
 # copter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/copter.md)
+
 <p><span class="chinese">一架直升机出现在他们上空。</span><span class="english">A copter appeared in the sky above them.</span></p>
 
 <p><span class="chinese">美国海豹直升机被塔利班击落。</span><span class="english">Seals' copter shot down by Taliban rocket.</span></p>

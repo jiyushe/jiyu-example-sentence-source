@@ -1,5 +1,7 @@
 # 黯然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/anran.md)
+
 <p><span class="chinese">云层使太阳黯然无光。</span><span class="english">Clouds obscure the sun.</span></p>
 
 <p><span class="chinese">陈丰黯然退出。</span><span class="english">Chen Feng is exited cloudily.</span></p>

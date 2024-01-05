@@ -1,5 +1,7 @@
 # thermodynamics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thermodynamics.md)
+
 <p><span class="chinese">热学，动力学理论，和热动力学。</span><span class="english">Heat, Kinetic Theory, and Thermodynamics.</span></p>
 
 <p><span class="chinese">和热力学没有任何关系。</span><span class="english">It has nothing to do with thermodynamics.</span></p>

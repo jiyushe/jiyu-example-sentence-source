@@ -1,5 +1,7 @@
 # parlous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parlous.md)
+
 <p><span class="chinese">现在，很少有人再怀疑，整个世界经济已濒临1930年以来最危险的状态。</span><span class="english">FEW now doubt that the world economy is in its most parlous state since the 1930s.</span></p>
 
 <p><span class="chinese">危险的中国医疗体系也加速宗教力量的发展。</span><span class="english">The parlous state of China's health-care system has also given a powerful boost to religion.</span></p>

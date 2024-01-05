@@ -1,5 +1,7 @@
 # arthur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arthur.md)
+
 <p><span class="chinese">亚瑟总督。</span><span class="english">Governor Arthur.</span></p>
 
 <p><span class="chinese">亚瑟·鲁宾斯坦。</span><span class="english">Arthur Rubinstein.</span></p>

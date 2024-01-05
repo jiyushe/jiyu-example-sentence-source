@@ -1,5 +1,7 @@
 # 直言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiyan.md)
+
 <p><span class="chinese">请让我坦率直言。</span><span class="english">Let me be frank.</span></p>
 
 <p><span class="chinese">我有两个选择，逢场作戏或直言相告。</span><span class="english">I had two choices.</span></p>

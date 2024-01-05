@@ -1,5 +1,7 @@
 # telepathy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/telepathy.md)
+
 <p><span class="chinese">他能用心电感应与她沟通。</span><span class="english">He can communicate with her by telepathy.</span></p>
 
 <p><span class="chinese">如果你能听到任何想法，这就是心灵感应。</span><span class="english">If you hear any thoughts at all, this is telepathy.</span></p>

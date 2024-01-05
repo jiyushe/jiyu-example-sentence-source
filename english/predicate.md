@@ -1,5 +1,7 @@
 # predicate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/predicate.md)
+
 <p><span class="chinese">什么是断言方法？</span><span class="english">What is a predicate method?</span></p>
 
 <p><span class="chinese">我们断言理性是人类的属性。</span><span class="english">We predicate rationality of man.</span></p>

@@ -1,5 +1,7 @@
 # anglophone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anglophone.md)
+
 <p><span class="chinese">能说一口流利英语的人就会被认为是以英语为母语的人。</span><span class="english">A person who speaks English fluently is known as an Anglophone.</span></p>
 
 <p><span class="chinese">对于英语的未来的核心争论在本书的最后两章。</span><span class="english">The future of English is in the hands of countries outside the core Anglophone group.</span></p>

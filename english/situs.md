@@ -1,5 +1,7 @@
 # situs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/situs.md)
+
 <p><span class="chinese">在这个时候，拓扑学被称做位置几何学。</span><span class="english">At is time the subject of topology was known as analysis situs.</span></p>
 
 <p><span class="chinese">财产所在地规则同样适用于有形动产。</span><span class="english">The situs test also applies in relation to tangible movable property.</span></p>

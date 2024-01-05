@@ -1,5 +1,7 @@
 # 狂妄自大
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuangwangzida.md)
+
 <p><span class="chinese">那完全是表现主义、狂妄自大和彻头彻尾的挑衅。</span><span class="english">The exhibitionism of it all. The arrogance.</span></p>
 
 <p><span class="chinese">“狂妄自大”就是过于自信或过于自负。</span><span class="english">“Hubris” is too much self-confidence or ego.</span></p>

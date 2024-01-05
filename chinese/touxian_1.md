@@ -1,5 +1,7 @@
 # 头衔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touxian_1.md)
+
 <p><span class="chinese">我喜欢这个头衔。</span><span class="english">I like the title.</span></p>
 
 <p><span class="chinese">我只是希望再有伯爵的头衔！</span><span class="english">If I only had the barony!</span></p>

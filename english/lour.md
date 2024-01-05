@@ -1,5 +1,7 @@
 # lour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lour.md)
+
 <p><span class="chinese">数字一是什么颜色的？</span><span class="english">What co lour is number one?</span></p>
 
 <p><span class="chinese">这批衣质量高、成色好。</span><span class="english">Those overats are of good quality and nice lour.</span></p>

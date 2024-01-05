@@ -1,5 +1,7 @@
 # postage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/postage.md)
+
 <p><span class="chinese">而现在他们用上了盖戳机。</span><span class="english">Now they use postage meters.</span></p>
 
 <p><span class="chinese">好的.您的邮费是三百二十五元.</span><span class="english">OK, the postage is 325 Yuan.</span></p>

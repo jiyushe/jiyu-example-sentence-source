@@ -1,5 +1,7 @@
 # 重金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongjin.md)
+
 <p><span class="chinese">美国各大电视网会出重金尝试聘用她们。</span><span class="english">CNN and FoxNews will be trying to hire them.</span></p>
 
 <p><span class="chinese">又或者你会不顾自己支付能力花重金请她吃顿饭。</span><span class="english">Or maybe you spend more than you can afford on dinner.</span></p>

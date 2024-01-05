@@ -1,5 +1,7 @@
 # 偏头痛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piantoutong.md)
+
 <p><span class="chinese">在1966年，我开始研究偏头痛患者。</span><span class="english">In 1966, I started working with migraine patients.</span></p>
 
 <p><span class="chinese">预防偏头痛、痛经和关节炎痛。</span><span class="english">Prevent migraine, dysmenorrhea and arthritis pain.</span></p>

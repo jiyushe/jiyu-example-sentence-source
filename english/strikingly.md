@@ -1,5 +1,7 @@
 # strikingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strikingly.md)
+
 <p><span class="chinese">慑人耸立转角处。</span><span class="english">Strikingly stand around the corner.</span></p>
 
 <p><span class="chinese">邬达克在上海的建筑具有明显的折衷主义。</span><span class="english">Hudec's Shanghai buildings are strikingly eclectic.</span></p>

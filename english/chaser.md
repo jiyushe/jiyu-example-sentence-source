@@ -1,5 +1,7 @@
 # chaser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chaser.md)
+
 <p><span class="chinese">那窃贼用刀刺追赶他的人。</span><span class="english">The thief knifed his chaser.</span></p>
 
 <p><span class="chinese">马克过去是个师奶杀手。</span><span class="english">Mark always was a lady-killer, a chaser.</span></p>

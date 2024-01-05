@@ -1,5 +1,7 @@
 # berserker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/berserker.md)
+
 <p><span class="chinese">一个狂暴的巫术师得不到珍贵的记号。</span><span class="english">A berserker wizard gets no score for treasure.</span></p>
 
 <p><span class="chinese">狂暴姿态额外加成从攻击强度变为力量。</span><span class="english">Berserker Stance bonus changed from AP to Strength.</span></p>

@@ -1,5 +1,7 @@
 # 阅览
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuelan.md)
+
 <p><span class="chinese">请出示你的阅览证。</span><span class="english">Please show me your reader's card.</span></p>
 
 <p><span class="chinese">不可以，你只能在这里阅览。</span><span class="english">No. You may not. You can only read here.</span></p>

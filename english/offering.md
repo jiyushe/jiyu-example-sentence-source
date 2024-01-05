@@ -1,5 +1,7 @@
 # offering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/offering.md)
+
 <p><span class="chinese">不用了，但是谢谢你的好意。</span><span class="english">No, but thanks for offering.</span></p>
 
 <p><span class="chinese">因为他们提供优惠券？</span><span class="english">Because they're offering coupons.</span></p>

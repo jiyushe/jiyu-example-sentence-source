@@ -1,5 +1,7 @@
 # resident 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resident_1.md)
+
 <p><span class="chinese">你是本地人，还是外地人？</span><span class="english">Are you a local resident or a outlander?</span></p>
 
 <p><span class="chinese">一段时间后,那位居民又将电话打了回来.“你们将它弄出来了吗?”</span><span class="english">Sometime later the resident called back.</span></p>

@@ -1,5 +1,7 @@
 # 东西
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongxi.md)
+
 <p><span class="chinese">少买东西。</span><span class="english">Less things.</span></p>
 
 <p><span class="chinese">——不戴隐形眼镜我也看得清东西啦！</span><span class="english">Without lenses.</span></p>

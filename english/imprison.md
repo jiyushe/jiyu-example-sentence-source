@@ -1,5 +1,7 @@
 # imprison
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imprison.md)
+
 <p><span class="chinese">他试图囚禁追随者。</span><span class="english">He sought to imprison the followers.</span></p>
 
 <p><span class="chinese">他们通常不监禁初次犯罪的人。</span><span class="english">They don't imprison first-time offenders.</span></p>

@@ -1,5 +1,7 @@
 # corvee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corvee.md)
+
 <p><span class="chinese">基昌看着从头到脚面目一新的英熙后大吃一惊。</span><span class="english">The chang looked at from head to foot the face a new corvee horror.</span></p>
 
 <p><span class="chinese">在有的朝代，酒税还与徭役及其他税赋形式有关。</span><span class="english">In some dynasties, liquor tax with corvee and other tax related forms.</span></p>

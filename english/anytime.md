@@ -1,5 +1,7 @@
 # anytime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anytime.md)
+
 <p><span class="chinese">今天？什么时候都可以？</span><span class="english">Today? Anytime?</span></p>
 
 <p><span class="chinese">我可以随时打败你。</span><span class="english">I can beat you anytime.</span></p>

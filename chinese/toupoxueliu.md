@@ -1,5 +1,7 @@
 # 头破血流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toupoxueliu.md)
+
 <p><span class="chinese">有时候搞的头破血流，管他呢！</span><span class="english">Sometimes make of head, tube he!</span></p>
 
 <p><span class="chinese">莫妮卡和罗斯为家族的“盖勒杯”争得头破血流。</span><span class="english">Monica and Ross compete for the "Geller Cup."</span></p>

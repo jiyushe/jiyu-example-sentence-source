@@ -1,5 +1,7 @@
 # 关怀备至
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guanhuaibeizhi.md)
+
 <p><span class="chinese">妈妈对我总是关怀备至。</span><span class="english">Mother always cares about my studies.</span></p>
 
 <p><span class="chinese">我生病时我的同学对我关怀备至。</span><span class="english">My friend am bad to me when I am ill.</span></p>

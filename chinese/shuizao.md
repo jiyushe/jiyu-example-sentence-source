@@ -1,5 +1,7 @@
 # 水藻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuizao.md)
+
 <p><span class="chinese">拖上来的只是些水藻。</span><span class="english">Drag up just some of the algae.</span></p>
 
 <p><span class="chinese">那么水藻到底是如何进入胚胎里的呢？</span><span class="english">So how might the algae enter the embryos?</span></p>

@@ -1,5 +1,7 @@
 # 碎米
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suimi.md)
+
 <p><span class="chinese">其主要是以碎米和麦芽为原料，采用糖化和发酵的工艺方法。</span><span class="english">Broken rice and malt are made use as its principal raw materials.</span></p>
 
 <p><span class="chinese">以碎米为原料，采用全酶法制备超高麦芽糖浆。</span><span class="english">Extremely high maltose syrup was enzymatically produced from broken rice.</span></p>

@@ -1,5 +1,7 @@
 # 率领
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuailing.md)
+
 <p><span class="chinese">他率领队伍取得了胜利。</span><span class="english">He skippered the team to victory.</span></p>
 
 <p><span class="chinese">这位男子将要率领贸易访问团。</span><span class="english">The man will head the trade delegation.</span></p>

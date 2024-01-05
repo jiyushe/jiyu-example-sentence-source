@@ -1,5 +1,7 @@
 # 一锤定音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yichuidingyin.md)
+
 <p><span class="chinese">这是适度而大胆的行动，一锤定音。</span><span class="english">It is modest and audacious, all at once.</span></p>
 
 <p><span class="chinese">但我们仍然有待找到那颗一锤定音的魔弹。</span><span class="english">But we have yet to find the magic bullet.</span></p>

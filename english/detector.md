@@ -1,5 +1,7 @@
 # detector
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/detector.md)
+
 <p><span class="chinese">视频检波二极管?。</span><span class="english">VDD? Video Detector Diode?</span></p>
 
 <p><span class="chinese">要找到一个优秀的测谎家，如同大海捞针</span><span class="english">A Good Lie Detector is Hard to Find</span></p>

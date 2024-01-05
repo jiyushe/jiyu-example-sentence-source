@@ -1,5 +1,7 @@
 # aged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aged.md)
+
 <p><span class="chinese">这酒陈得很好。</span><span class="english">The wine aged well.</span></p>
 
 <p><span class="chinese">恐惧使他隔宿变老。</span><span class="english">Fear aged him overnight.</span></p>

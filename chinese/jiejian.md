@@ -1,5 +1,7 @@
 # 借鉴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiejian.md)
+
 <p><span class="chinese">陈立旭认为自己的行为是借鉴。</span><span class="english">Chen labelled his action as reference.</span></p>
 
 <p><span class="chinese">有没有可操作的方法供借鉴?。</span><span class="english">Are there exercisable methods to borrow?</span></p>

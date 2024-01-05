@@ -1,5 +1,7 @@
 # 热浪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/relang.md)
+
 <p><span class="chinese">热浪滚滚！</span><span class="english">Hot wave!</span></p>
 
 <p><span class="chinese">在早晨的热浪中，她很快就蔫儿了。</span><span class="english">She soon wilted in the morning heat.</span></p>

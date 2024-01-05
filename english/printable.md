@@ -1,5 +1,7 @@
 # printable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/printable.md)
+
 <p><span class="chinese">把这电邮给一朋友打印版本。</span><span class="english">E-mail this to a friend Printable version.</span></p>
 
 <p><span class="chinese">你再看看所有打印压延需要。</span><span class="english">Look no further for all your printable calender needs.</span></p>

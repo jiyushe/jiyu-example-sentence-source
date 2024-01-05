@@ -1,5 +1,7 @@
 # anyhow 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anyhow.md)
+
 <p><span class="chinese">但是不管怎样，他既然说是有关爱情的，那就算是爱情的吧。</span><span class="english">Anyhow. About love.</span></p>
 
 <p><span class="chinese">反正我不喜欢它。</span><span class="english">Anyhow I don't like it.</span></p>

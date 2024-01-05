@@ -1,5 +1,7 @@
 # dip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dip.md)
+
 <p><span class="chinese">浸到糊状物里。</span><span class="english">Dip into the batter.</span></p>
 
 <p><span class="chinese">鸟在飞行中时高时低。</span><span class="english">Birds rise and dip in flight.</span></p>

@@ -1,5 +1,7 @@
 # adeline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adeline.md)
+
 <p><span class="chinese">艾德琳是我的一位朋友。</span><span class="english">Adeline is a friend of mine.</span></p>
 
 <p><span class="chinese">那么，我想让艾德琳对你讲一讲</span><span class="english">Then I should like Adeline to tell you</span></p>

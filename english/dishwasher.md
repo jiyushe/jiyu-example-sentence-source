@@ -1,5 +1,7 @@
 # dishwasher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dishwasher.md)
+
 <p><span class="chinese">那个洗碗工救了她？</span><span class="english">The dishwasher saved her?</span></p>
 
 <p><span class="chinese">把碗盘放在洗碗机里。</span><span class="english">Put the dishes in the dishwasher.</span></p>

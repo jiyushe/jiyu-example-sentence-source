@@ -1,5 +1,7 @@
 # isn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isn.md)
+
 <p><span class="chinese">这实在不值一提。</span><span class="english">It really isn t worth mentioning.</span></p>
 
 <p><span class="chinese">光射线对你的相机没有损伤。</span><span class="english">X-ray isn t harmful to your camera.</span></p>

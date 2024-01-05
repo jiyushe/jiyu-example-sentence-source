@@ -1,5 +1,7 @@
 # oddity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oddity.md)
+
 <p><span class="chinese">李光耀的出现是个异数。</span><span class="english">Kuan Yew is something of an oddity.</span></p>
 
 <p><span class="chinese">唯一奇怪的就是那些氧气罐。</span><span class="english">The only oddity was the oxygen tanks.</span></p>

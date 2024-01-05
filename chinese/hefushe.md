@@ -1,5 +1,7 @@
 # 核辐射
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hefushe.md)
+
 <p><span class="chinese">核辐射能够改变基因。</span><span class="english">Nuclear radiations can change genes.</span></p>
 
 <p><span class="chinese">钾片碘片都并非“核辐射解毒剂”。</span><span class="english">Potassium iodide pills are not "radiation antidotes".</span></p>

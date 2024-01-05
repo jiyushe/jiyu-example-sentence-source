@@ -1,5 +1,7 @@
 # calligraphic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calligraphic.md)
+
 <p><span class="chinese">我知道我们要去看书法作品对不对？</span><span class="english">I know we are going to see some calligraphic works, right?</span></p>
 
 <p><span class="chinese">第三部分是书法语言论。</span><span class="english">The third is from the point of calligraphic language view.</span></p>

@@ -1,5 +1,7 @@
 # vicenza
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vicenza.md)
+
 <p><span class="chinese">与维琴察的平局已经是过去的新闻了。</span><span class="english">The draw with Vicenza is yesterday's news.</span></p>
 
 <p><span class="chinese">维琴查是很不错的对手，他们为我们制造了一些麻烦。</span><span class="english">Vicenza are a good side and they gave us troubles.</span></p>

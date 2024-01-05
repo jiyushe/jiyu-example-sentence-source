@@ -1,5 +1,7 @@
 # 河狸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heli.md)
+
 <p><span class="chinese">水坝是河狸筑的。</span><span class="english">Dams are built by beavers.</span></p>
 
 <p><span class="chinese">河狸用它那尖锐的牙齿咬树皮。</span><span class="english">The beaver uses its large sharp teeth gnaw it.</span></p>

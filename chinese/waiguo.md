@@ -1,5 +1,7 @@
 # 外国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waiguo.md)
+
 <p><span class="chinese">外国的话是名在前，姓在后。</span><span class="english">My name is Qiying Zhang.</span></p>
 
 <p><span class="chinese">笑声没有外国口音。</span><span class="english">Laughter has no foreign accent.</span></p>

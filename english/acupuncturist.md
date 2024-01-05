@@ -1,5 +1,7 @@
 # acupuncturist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acupuncturist.md)
+
 <p><span class="chinese">那个针灸师对他做了什么？</span><span class="english">Do you know what the acupuncturist did?</span></p>
 
 <p><span class="chinese">预约一名针灸师。</span><span class="english">Make an appointment with an acupuncturist.</span></p>

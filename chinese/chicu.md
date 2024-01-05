@@ -1,5 +1,7 @@
 # 吃醋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chicu.md)
+
 <p><span class="chinese">他那样做是出于吃醋。</span><span class="english">He acted out of jealousy.</span></p>
 
 <p><span class="chinese">听起来你吃醋了。</span><span class="english">It sounds like you are jealous.</span></p>

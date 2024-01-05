@@ -1,5 +1,7 @@
 # 孤苦伶仃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gukulingding.md)
+
 <p><span class="chinese">尽管感到安全，但我还是觉得孤苦伶仃。</span><span class="english">While I felt safe, I was also isolated.</span></p>
 
 <p><span class="chinese">而现在，我一个人孤苦伶仃，没有女友也没有朋友。</span><span class="english">Now I'm single and I have no friends. FML</span></p>

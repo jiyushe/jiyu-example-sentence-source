@@ -1,5 +1,7 @@
 # undignified
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undignified.md)
+
 <p><span class="chinese">随后传来了很不像话的摔门声。</span><span class="english">There followed an undignified slamming of doors.</span></p>
 
 <p><span class="chinese">对于他这种地位的人来说，这样的行为是不庄重的。</span><span class="english">Such conduct is undignified for a person of his position.</span></p>

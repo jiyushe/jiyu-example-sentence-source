@@ -1,5 +1,7 @@
 # snowman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snowman.md)
+
 <p><span class="chinese">唱歌曲“雪人”。</span><span class="english">Sing Frosty the snowman.</span></p>
 
 <p><span class="chinese">因为我能够堆雪人。</span><span class="english">Because I can make a snowman.</span></p>

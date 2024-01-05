@@ -1,5 +1,7 @@
 # toothache
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toothache.md)
+
 <p><span class="chinese">他牙痛。</span><span class="english">He has a toothache.</span></p>
 
 <p><span class="chinese">我牙疼。</span><span class="english">I have a toothache.</span></p>

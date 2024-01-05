@@ -1,5 +1,7 @@
 # nematic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nematic.md)
+
 <p><span class="chinese">最常见的可这里是扭曲向列的类型。</span><span class="english">The most common ones available here are the Twisted Nematic type.</span></p>
 
 <p><span class="chinese">模拟了向列相液晶相位光栅的指向矢分布。</span><span class="english">Director profiles of nematic liquid crystal phase gratings are simulated.</span></p>

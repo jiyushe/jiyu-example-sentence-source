@@ -1,5 +1,7 @@
 # 杳无人烟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaowurenyan.md)
+
 <p><span class="chinese">这地带杳无人烟。</span><span class="english">The land is destitute of inhabitants.</span></p>
 
 <p><span class="chinese">生还者受困在一个杳无人烟的荒岛上。</span><span class="english">The survivors were stranded on a desolate island.</span></p>

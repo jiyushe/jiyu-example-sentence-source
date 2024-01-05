@@ -1,5 +1,7 @@
 # purslane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/purslane.md)
+
 <p><span class="chinese">马齿苋具有延缓衰老、延长寿命的作用。</span><span class="english">Purslane has anti-decrepit and life-prolonging effects.</span></p>
 
 <p><span class="chinese">为马齿苋成为人类的保健食品提供了理论依据。</span><span class="english">Theoretical basis is provided for purslane as health food.</span></p>

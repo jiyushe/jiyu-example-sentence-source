@@ -1,5 +1,7 @@
 # 卤水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lushui.md)
+
 <p><span class="chinese">癌痛喝卤水？？？</span><span class="english">Is cancer painful drink bittern? ?? ?</span></p>
 
 <p><span class="chinese">成矿流体以渗流热卤水为主。</span><span class="english">The ore-forming fluid is mainly vadose hot brine.</span></p>

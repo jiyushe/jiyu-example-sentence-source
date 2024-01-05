@@ -1,5 +1,7 @@
 # 炮制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paozhi_2.md)
+
 <p><span class="chinese">这个清单时不能武断炮制的。</span><span class="english">The lists just can't be arbitrary.</span></p>
 
 <p><span class="chinese">信托公司今年炮制了大量这类产品。</span><span class="english">Trust companies have churned out such products this year.</span></p>

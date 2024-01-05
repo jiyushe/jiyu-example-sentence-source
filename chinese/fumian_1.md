@@ -1,5 +1,7 @@
 # 腹面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fumian_1.md)
+
 <p><span class="chinese">青蛙的腹面是白色的。</span><span class="english">The front side of frogs is white.</span></p>
 
 <p><span class="chinese">头部、腹面有淡褐色纵斑。</span><span class="english">Tawny spots can be found on the head and abdomen.</span></p>

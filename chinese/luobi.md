@@ -1,5 +1,7 @@
 # 落笔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luobi.md)
+
 <p><span class="chinese">你落笔时会颤抖胆怯，还是敏锐果敢？</span><span class="english">Would you strokes be tremblingly timid or brilliantly bold?</span></p>
 
 <p><span class="chinese">所有的人的命运都将在此落笔。</span><span class="english">The destiny of all people will be in this start to write or draw.</span></p>

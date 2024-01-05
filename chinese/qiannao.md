@@ -1,5 +1,7 @@
 # 前脑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiannao.md)
+
 <p><span class="chinese">她开始重新走路，但是会诊医生告诉她的父母“她会像是做过前脑叶白质切除术一样，以后生活中会走路蹒跚。”</span><span class="english">She will be like a toddler for the rest of her life.</span></p>
 
 <p><span class="chinese">那个意外的前脑叶白质切除术将会很难解释。</span><span class="english">That unintentional lobotomy would be hard to explain.</span></p>

@@ -1,5 +1,7 @@
 # 相遇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangyu_2.md)
+
 <p><span class="chinese">依然能相遇在某座城。</span><span class="english">Can meet in a city.</span></p>
 
 <p><span class="chinese">你们再次相遇，再次结合。</span><span class="english">You re-meet, reconnect.</span></p>

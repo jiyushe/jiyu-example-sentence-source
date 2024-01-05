@@ -1,5 +1,7 @@
 # micrometastasis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/micrometastasis.md)
+
 <p><span class="chinese">探讨微转移的方式、顺序。</span><span class="english">The method and order of micrometastasis.</span></p>
 
 <p><span class="chinese">骨髓及淋巴结中的微转移可能与患者预后差相关。</span><span class="english">Micrometastasis in SLN and bone marrow maybe correlate with worse prognosis.</span></p>

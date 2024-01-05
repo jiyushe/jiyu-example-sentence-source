@@ -1,5 +1,7 @@
 # 善后
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanhou.md)
+
 <p><span class="chinese">目前相关善后工作正在进行。</span><span class="english">Relevant follow-up work is underway.</span></p>
 
 <p><span class="chinese">居民善后处理工作进展如何?。</span><span class="english">Q2. And how are residents dealing with aftermath?</span></p>

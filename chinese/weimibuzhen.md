@@ -1,5 +1,7 @@
 # 萎靡不振
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weimibuzhen.md)
+
 <p><span class="chinese">我近来精神萎靡不振。</span><span class="english">I've been depressed lately.</span></p>
 
 <p><span class="chinese">它已经有一些萎靡不振。</span><span class="english">it'd become kind of dormant.</span></p>

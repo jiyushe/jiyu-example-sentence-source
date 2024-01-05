@@ -1,5 +1,7 @@
 # casualties
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/casualties.md)
+
 <p><span class="chinese">双方互有伤亡。</span><span class="english">Both sides have casualties.</span></p>
 
 <p><span class="chinese">受其影响，海南岛中东部受到暴风雨袭击，至今尚无伤亡报道。</span><span class="english">No casualties were reported.</span></p>

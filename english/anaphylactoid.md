@@ -1,5 +1,7 @@
 # anaphylactoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anaphylactoid.md)
+
 <p><span class="chinese">过敏反应与类过敏反应的区别？</span><span class="english">What is the difference between anaphylactic and anaphylactoid reactions?</span></p>
 
 <p><span class="chinese">过敏及类过敏反应，可导致支气管痉挛及肺水肿。</span><span class="english">Anaphylactic and anaphylactoid reactions can be associated with bronchospasm and pulmonary edema.</span></p>

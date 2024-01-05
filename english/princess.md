@@ -1,5 +1,7 @@
 # princess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/princess.md)
+
 <p><span class="chinese">公主奥利夫殿下！</span><span class="english">Ye Princess Olive!</span></p>
 
 <p><span class="chinese">我很清楚，我有公主病。</span><span class="english">I am a proud princess.</span></p>

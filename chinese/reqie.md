@@ -1,5 +1,7 @@
 # 热切
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/reqie.md)
+
 <p><span class="chinese">他的眼珠热切地转动着。</span><span class="english">His eyes goggled with eagerness.</span></p>
 
 <p><span class="chinese">他热切的要开始从事一些工作。</span><span class="english">He was eager to take up some job.</span></p>

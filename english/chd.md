@@ -1,5 +1,7 @@
 # chd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chd.md)
+
 <p><span class="chinese">表1。冠心病组和对照组血巨细胞病毒检测结果。</span><span class="english">Table 1. Detection of hemo in control and CHD group.</span></p>
 
 <p><span class="chinese">方法回顾性分析3146例冠心病住院患者的临床资料。</span><span class="english">METHODS The clinical data of 3146 cases of CHD were reviewed.</span></p>

@@ -1,5 +1,7 @@
 # dialectal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dialectal.md)
+
 <p><span class="chinese">新的方言关系的描写。</span><span class="english">Description of a new dialectal relationship.</span></p>
 
 <p><span class="chinese">本文是一篇研究灌阳话持续体标记的方言语法论文。</span><span class="english">This is a thesis of Guanyang dialectal grammar on the marker of continuous aspect.</span></p>

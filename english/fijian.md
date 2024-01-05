@@ -1,5 +1,7 @@
 # fijian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fijian.md)
+
 <p><span class="chinese">一个斐济岛的暗礁爆炸了，一群有颜色的小鱼群游过去。</span><span class="english">Fijian reef explodes in color as a school of anthias swims past.</span></p>
 
 <p><span class="chinese">斐政府感谢中国多年来一直向斐提供援助。</span><span class="english">The Fijian government thanks China for its assistance over the years.</span></p>

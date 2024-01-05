@@ -1,5 +1,7 @@
 # 前世
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianshi.md)
+
 <p><span class="chinese">仿佛前世注定的一场炼狱。</span><span class="english">Something pre-ordained. A Calvary.</span></p>
 
 <p><span class="chinese">男人们的前世是蜜蜂。</span><span class="english">The preexistence of man ia the bee.</span></p>

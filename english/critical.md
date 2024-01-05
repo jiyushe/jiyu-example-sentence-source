@@ -1,5 +1,7 @@
 # critical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/critical.md)
+
 <p><span class="chinese">葬礼意义重大</span><span class="english">Burial is very critical.</span></p>
 
 <p><span class="chinese">我认为那是最关键的。</span><span class="english">I think that's critical.</span></p>

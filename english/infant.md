@@ -1,5 +1,7 @@
 # infant 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infant.md)
+
 <p><span class="chinese">婴儿呀呀学语。</span><span class="english">The infant babbles.</span></p>
 
 <p><span class="chinese">婴儿、幼儿与儿童餐。</span><span class="english">Baby, Infant and Child Meals.</span></p>

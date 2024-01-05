@@ -1,5 +1,7 @@
 # broadcasting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/broadcasting.md)
+
 <p><span class="chinese">她喜欢“小广播”。</span><span class="english">She is fond of broadcasting.</span></p>
 
 <p><span class="chinese">每个学校都有一个广播室。</span><span class="english">Each school has a broadcasting room.</span></p>

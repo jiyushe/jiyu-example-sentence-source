@@ -1,5 +1,7 @@
 # 折服
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhefu.md)
+
 <p><span class="chinese">疯狂的精神让我们折服。</span><span class="english">I was overawed by crazy spirit.</span></p>
 
 <p><span class="chinese">强词夺理不能折服人。</span><span class="english">No one can be persuaded by sophistry.</span></p>

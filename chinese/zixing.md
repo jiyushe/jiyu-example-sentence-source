@@ -1,5 +1,7 @@
 # 字形
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zixing.md)
+
 <p><span class="chinese">他把金属丝拗成了一个U字形。</span><span class="english">He twisted the wire into a U shape.</span></p>
 
 <p><span class="chinese">精钢，G字形水晶表带。</span><span class="english">Stainless steel crystal G bracelet.</span></p>

@@ -1,5 +1,7 @@
 # chine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chine.md)
+
 <p><span class="chinese">我对中国食物并不在行。</span><span class="english">I am not into chine food.</span></p>
 
 <p><span class="chinese">我将于两天后返回中国。</span><span class="english">I will return to Chine in two days' time.</span></p>

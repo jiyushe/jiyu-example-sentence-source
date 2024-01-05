@@ -1,5 +1,7 @@
 # skilful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skilful.md)
+
 <p><span class="chinese">我擅长水墨丹青。</span><span class="english">I'm skilful in ink and wash.</span></p>
 
 <p><span class="chinese">这便是那些机灵人的理论。</span><span class="english">Such is the theory of the skilful.</span></p>

@@ -1,5 +1,7 @@
 # 同化政策
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tonghuazhengce.md)
+
 <p><span class="chinese">从1965年开始，印尼中央政府对印尼华人执行强制性的同化政策。</span><span class="english">Since 1965, Indonesian central government policy has demanded the assimilation of the ethnic-Chinese.</span></p>
 
 <p><span class="chinese">缅甸国王从17世纪开始推行的同化政策绝不会从新的执政精英们的头脑中消失。</span><span class="english">The policy of assimilation of Burma’s kings from the 17th century will never disappear from the mindset of the new ruling elites.</span></p>

@@ -1,5 +1,7 @@
 # indirection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indirection.md)
+
 <p><span class="chinese">它在设计中引入了另一种间接方法。</span><span class="english">It introduces another indirection in the design.</span></p>
 
 <p><span class="chinese">所以动态语言有效地添加了一级间接寻址。</span><span class="english">So dynamic languages effectively add a level of indirection.</span></p>

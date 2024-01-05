@@ -1,5 +1,7 @@
 # 开路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kailu.md)
+
 <p><span class="chinese">自动开路端点判别。</span><span class="english">Open wire open-side judgement.</span></p>
 
 <p><span class="chinese">开路时电阻为无穷大。</span><span class="english">Has infinite resistance when open.</span></p>

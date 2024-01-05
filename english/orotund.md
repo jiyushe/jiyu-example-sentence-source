@@ -1,5 +1,7 @@
 # orotund
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orotund.md)
+
 <p><span class="chinese">晴朗朗的天，白森森的云，给你一份好心情。</span><span class="english">Orotund blue sky, white cloud , gives you good mood.</span></p>
 
 <p><span class="chinese">这声音犹如铁链在兴奋的大笑。</span><span class="english">This is orotund as if iron fetter at excitement of cachinnation.</span></p>

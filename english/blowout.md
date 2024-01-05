@@ -1,5 +1,7 @@
 # blowout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blowout.md)
+
 <p><span class="chinese">我们用什么来管制封井器呢?。</span><span class="english">What do we use to control the blowout preventer?</span></p>
 
 <p><span class="chinese">但是，国家队最终还是赢得了比赛。</span><span class="english">But hey, the home team won in a wall-to-wall blowout.</span></p>

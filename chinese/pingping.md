@@ -1,5 +1,7 @@
 # 平平
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingping.md)
+
 <p><span class="chinese">他是个手艺平平的厨师。</span><span class="english">He is an indifferent cook.</span></p>
 
 <p><span class="chinese">她穿着平平常常的衣服。</span><span class="english">She was wearing nondescript clothes.</span></p>

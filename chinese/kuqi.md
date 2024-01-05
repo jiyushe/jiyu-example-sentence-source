@@ -1,5 +1,7 @@
 # 哭泣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuqi.md)
+
 <p><span class="chinese">我向主哭泣。</span><span class="english">I cried to God.</span></p>
 
 <p><span class="chinese">在纸张上哭泣。</span><span class="english">Cry on the page.</span></p>

@@ -1,5 +1,7 @@
 # 查案
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaan.md)
+
 <p><span class="chinese">父亲在查案过程中性命受到威胁。</span><span class="english">Father is browbeaten in the life in examining case process.</span></p>
 
 <p><span class="chinese">当前世界正处在查案审判的宽容时期，每个人都要为自己的行动负责。</span><span class="english">All are accountable for their actions while in this world upon probation.</span></p>

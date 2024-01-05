@@ -1,5 +1,7 @@
 # 军费
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junfei.md)
+
 <p><span class="chinese">我们把款项从军费开支转为教育开支。</span><span class="english">We diverted funds from armaments to education.</span></p>
 
 <p><span class="chinese">国会曾拨给查理一世10万镑作军费。</span><span class="english">Parliament voted Charles I &100,000 for the army.</span></p>

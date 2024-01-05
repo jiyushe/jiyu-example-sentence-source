@@ -1,5 +1,7 @@
 # 精化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinghua_2.md)
+
 <p><span class="chinese">每一步中模型都进一步精化，更加形式化。</span><span class="english">At each step, the model is refined and made more formal.</span></p>
 
 <p><span class="chinese">然后要经过一系列的评审会议对模型进行精化。</span><span class="english">You then refine the model during several review sessions.</span></p>

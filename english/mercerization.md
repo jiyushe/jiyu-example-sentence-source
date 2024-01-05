@@ -1,5 +1,7 @@
 # mercerization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mercerization.md)
+
 <p><span class="chinese">棉织物的丝光整理依然很受欢迎。</span><span class="english">Mercerization of cotton fabrics is still very popular.</span></p>
 
 <p><span class="chinese">介绍了对棉条进行丝光加工的装置和加工工艺。</span><span class="english">This paper mainly introduces the processing device and technology of sliver mercerization.</span></p>

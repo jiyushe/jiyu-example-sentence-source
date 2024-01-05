@@ -1,5 +1,7 @@
 # 褒贬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baobian.md)
+
 <p><span class="chinese">多褒贬、多嘉奖，是防止制口业的孬体式格局。</span><span class="english">To criticize less and praise more is a good way to avoid creating negative karma of speech.</span></p>
 
 <p><span class="chinese">从佛教业力的概念来看，实际上属于中性词，本无所谓褒贬。</span><span class="english">In fact, the concept of karma in Buddhism is neither commentary nor derogatory, but a neuter noun.</span></p>

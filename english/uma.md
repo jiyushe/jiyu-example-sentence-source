@@ -1,5 +1,7 @@
 # uma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uma.md)
+
 <p><span class="chinese">我们想去帕罗乌玛酒店用晚餐。</span><span class="english">We want to have dinner in Uma Paro.</span></p>
 
 <p><span class="chinese">小悼念一个伟大的乐队。</span><span class="english">Uma pequena homenagem a uma grande banda.</span></p>

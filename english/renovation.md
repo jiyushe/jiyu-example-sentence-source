@@ -1,5 +1,7 @@
 # renovation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/renovation.md)
+
 <p><span class="chinese">那幢楼在整修之前倾斜得很厉害。</span><span class="english">The building leaned sharply before renovation.</span></p>
 
 <p><span class="chinese">各式大小型房屋装修与设计。</span><span class="english">We specialize in all types of house renovation & design.</span></p>

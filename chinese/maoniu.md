@@ -1,5 +1,7 @@
 # 牦牛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maoniu.md)
+
 <p><span class="chinese">并有特殊的鬼节和舞牦牛。</span><span class="english">And have special Halloween and dance yak.</span></p>
 
 <p><span class="chinese">作者员额用“牦牛”的用户名。</span><span class="english">The author posts using the " yak " username.</span></p>

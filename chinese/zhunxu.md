@@ -1,5 +1,7 @@
 # 准许
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhunxu.md)
+
 <p><span class="chinese">准许为人。</span><span class="english">Permission to be human.</span></p>
 
 <p><span class="chinese">她被准许免交税金。</span><span class="english">She was exempted from paying tax.</span></p>

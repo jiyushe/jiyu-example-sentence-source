@@ -1,5 +1,7 @@
 # 被告人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beigaoren.md)
+
 <p><span class="chinese">被告人有权获得辩护。</span><span class="english">The accused has the right to defense.</span></p>
 
 <p><span class="chinese">被告人不遵守禁令。</span><span class="english">The defendant did not obey the interdict.</span></p>

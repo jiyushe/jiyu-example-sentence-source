@@ -1,5 +1,7 @@
 # munificent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/munificent.md)
+
 <p><span class="chinese">有优厚的技术力量和雄厚的经济基础。</span><span class="english">Has the munificent technical force and the abundant economic basis.</span></p>
 
 <p><span class="chinese">的确，那些传播首神讯息的人们是最慷慨的。</span><span class="english">Certainly those who spread the message of Godhead are most munificent.</span></p>

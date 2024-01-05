@@ -1,5 +1,7 @@
 # 誓约
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyue_1.md)
+
 <p><span class="chinese">年轻人，准备好你的誓约。</span><span class="english">Young man, learn your vows.</span></p>
 
 <p><span class="chinese">哦，祖国，这是我们神圣的誓约。</span><span class="english">Oh fatherland, this be our solemn pledge.</span></p>

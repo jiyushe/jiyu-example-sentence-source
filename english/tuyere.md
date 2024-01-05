@@ -1,5 +1,7 @@
 # tuyere
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tuyere.md)
+
 <p><span class="chinese">利用风口焦炭取样机取得了整个高炉炉缸半径上的焦炭样品。</span><span class="english">The coke of whole hearth radius BF is got by sampling machine of tuyere coke.</span></p>
 
 <p><span class="chinese">氩主要作为覆盖气体对鼓风口提供保护。</span><span class="english">The argon typically acts as a "shroud" gas to provide protection to the tuyere.</span></p>

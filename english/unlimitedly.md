@@ -1,5 +1,7 @@
 # unlimitedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unlimitedly.md)
+
 <p><span class="chinese">我们只能无限接近真相！</span><span class="english">We can only close unlimitedly truth!</span></p>
 
 <p><span class="chinese">该地区的食品供应将不受限制。</span><span class="english">Food will be supplied unlimitedly in that area.</span></p>

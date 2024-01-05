@@ -1,5 +1,7 @@
 # quintuple
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quintuple.md)
+
 <p><span class="chinese">他们想使商店的销售总额增加至五倍。</span><span class="english">They want to quintuple the total sales of their shop.</span></p>
 
 <p><span class="chinese">在此之后，才能处理数据，产生一个平均值的五变量组。</span><span class="english">Only then can the data be processed—and an averaged-out quintuple generated.</span></p>

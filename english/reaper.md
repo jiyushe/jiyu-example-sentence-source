@@ -1,5 +1,7 @@
 # reaper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reaper.md)
+
 <p><span class="chinese">我无法逃脱死神。</span><span class="english">I cannot escape the Grim Reaper.</span></p>
 
 <p><span class="chinese">收割者跃过一堆廉价的武器。</span><span class="english">The  reaper leaped over a heap of cheap  weapons.</span></p>

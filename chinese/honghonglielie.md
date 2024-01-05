@@ -1,5 +1,7 @@
 # 轰轰烈烈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/honghonglielie.md)
+
 <p><span class="chinese">这些事可以轰轰烈烈也可以微风细雨地发生。</span><span class="english">This can happen in tiny ways and huge ones.</span></p>
 
 <p><span class="chinese">我爱你轰轰烈烈，失去你天崩地裂。</span><span class="english">I love you dynamic, lose your earth shattering.</span></p>

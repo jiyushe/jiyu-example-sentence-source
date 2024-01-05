@@ -1,5 +1,7 @@
 # 军政府
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junzhengfu.md)
+
 <p><span class="chinese">不到一年后，军政府即告倒台。</span><span class="english">The junta fell less than a year later.</span></p>
 
 <p><span class="chinese">军政府废除了禁令。</span><span class="english">The military government dissolved the injunction.</span></p>

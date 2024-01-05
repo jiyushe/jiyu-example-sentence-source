@@ -1,5 +1,7 @@
 # wy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wy.md)
+
 <p><span class="chinese">为什么不？</span><span class="english">Wy not?</span></p>
 
 <p><span class="chinese">但是伟易不能这麽说。</span><span class="english">WY can not say that.</span></p>

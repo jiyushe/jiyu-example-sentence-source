@@ -1,5 +1,7 @@
 # interfering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interfering.md)
+
 <p><span class="chinese">爱管闲事的纽伯格夫妇真讨厌！</span><span class="english">Confound those interfering neubergers !</span></p>
 
 <p><span class="chinese">我还没见过那么爱管闲事的小子。</span><span class="english">That's the interfering chap I ever see.</span></p>

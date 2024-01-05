@@ -1,5 +1,7 @@
 # leghorn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leghorn.md)
+
 <p><span class="chinese">他上了船后，船便驶往勒格翁去了。</span><span class="english">He went on board and the ship sailed for Leghorn.</span></p>
 
 <p><span class="chinese">而就在这种对互相都有利的状况之下，他们到达了里窝那。</span><span class="english">In this state of mutual understanding, they reached Leghorn.</span></p>

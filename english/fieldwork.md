@@ -1,5 +1,7 @@
 # fieldwork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fieldwork.md)
+
 <p><span class="chinese">民俗学的知识基础是田野作业。</span><span class="english">Fieldwork is the basic knowledge of folklore.</span></p>
 
 <p><span class="chinese">田野调查是民族学研究的主要方法。</span><span class="english">Fieldwork is the main method applied in ethnological studies.</span></p>

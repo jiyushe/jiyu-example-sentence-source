@@ -1,5 +1,7 @@
 # 通病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongbing.md)
+
 <p><span class="chinese">没有耐心是我们社会的通病。</span><span class="english">Impatience is a disease in our society.</span></p>
 
 <p><span class="chinese">这是基因治疗中的通病</span><span class="english">This is a common problem in gene therapy.</span></p>

@@ -1,5 +1,7 @@
 # sheave
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sheave.md)
+
 <p><span class="chinese">我公司生产的吊钩总成。</span><span class="english">Our company produCes hook range, lifting sheave.</span></p>
 
 <p><span class="chinese">把棕绳穿过天车上的第一个滑轮。</span><span class="english">Reeve the 1 inch manila rope through the first crown sheave.</span></p>

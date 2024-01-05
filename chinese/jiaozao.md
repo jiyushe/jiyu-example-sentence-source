@@ -1,5 +1,7 @@
 # 焦躁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaozao.md)
+
 <p><span class="chinese">我的母亲焦躁地问。</span><span class="english">my mother asked fretfully.</span></p>
 
 <p><span class="chinese">你感觉焦躁不安或急躁。</span><span class="english">You feel restless or irritable.</span></p>

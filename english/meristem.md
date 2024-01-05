@@ -1,5 +1,7 @@
 # meristem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meristem.md)
+
 <p><span class="chinese">花原体于九月下旬起自顶端分生组织凸起。</span><span class="english">Flower primordia are emerged from the shoot apical meristem in late August.</span></p>
 
 <p><span class="chinese">根状茎顶端的原分生组织由3～5个鳞片包被。</span><span class="english">The primordial meristem at the tip of rhizome is surrounded by 3-5 lepises.</span></p>

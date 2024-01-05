@@ -1,5 +1,7 @@
 # 顺手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shunshou.md)
+
 <p><span class="chinese">谁顺手带走了我的笔?</span><span class="english">Who walked away with my pen?</span></p>
 
 <p><span class="chinese">在回家的路上顺手摘几朵花</span><span class="english">Pick wildflowers on the way home.</span></p>

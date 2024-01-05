@@ -1,5 +1,7 @@
 # aachen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aachen.md)
+
 <p><span class="chinese">现在，他在亚琛工业大学教授若干门课程。</span><span class="english">He is giving several courses at RWTH Aachen University.</span></p>
 
 <p><span class="chinese">“可是，这”彩排“并不顺利。拜仁上周六以1-0输给了亚琛。</span><span class="english">Bayern lost Saturday's Bundesliga match 1-0 to Aachen at the Tivoli.</span></p>

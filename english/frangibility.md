@@ -1,5 +1,7 @@
 # frangibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frangibility.md)
+
 <p><span class="chinese">最后探讨阜新市社会脆弱性的主要影响因素。</span><span class="english">The paper discusses the major causes of the frangibility in Fuxin city.</span></p>
 
 <p><span class="chinese">由于农业的弱质性和多功能性，各国普遍对农业实施农业国内支持政策。</span><span class="english">Agricultural domestic support policies, owing to agricultural frangibility and multifunction, were introduced to most countries.</span></p>

@@ -1,5 +1,7 @@
 # 飘飘欲仙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaopiaoyuxian.md)
+
 <p><span class="chinese">这真令我飘飘欲仙。</span><span class="english">It sends me into the sky.</span></p>
 
 <p><span class="chinese">"快乐"一词还不足以表达我的心情，我是乐不可支，飘飘欲仙。</span><span class="english">"Enjoyed" is too mild a word.</span></p>

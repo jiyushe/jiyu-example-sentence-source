@@ -1,5 +1,7 @@
 # catchment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catchment.md)
+
 <p><span class="chinese">山间多河谷盆地。</span><span class="english">Multi-mountain catchment basins.</span></p>
 
 <p><span class="chinese">流域面积约13534平方公里。</span><span class="english">Catchment area of about 13534 square km.</span></p>

@@ -1,5 +1,7 @@
 # chorus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chorus.md)
+
 <p><span class="chinese">我来唱合声。</span><span class="english">I'll sing the chorus.</span></p>
 
 <p><span class="chinese">突然齐声发出喊叫。</span><span class="english">A chorus of shouts broke out.</span></p>

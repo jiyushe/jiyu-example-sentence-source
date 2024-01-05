@@ -1,5 +1,7 @@
 # restless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/restless.md)
+
 <p><span class="chinese">但是今天，我惴惴不安。</span><span class="english">But today I was restless.</span></p>
 
 <p><span class="chinese">不静下心来是没法放松的。</span><span class="english">A restless mind cannot relax.</span></p>

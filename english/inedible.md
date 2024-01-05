@@ -1,5 +1,7 @@
 # inedible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inedible.md)
+
 <p><span class="chinese">你确信这果是不能吃的？</span><span class="english">Are you sure this fruit is inedible?</span></p>
 
 <p><span class="chinese">请丢失内附的保鲜袋。</span><span class="english">Please discard the inedible freshness packet enclosed.</span></p>

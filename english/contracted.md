@@ -1,5 +1,7 @@
 # contracted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contracted.md)
+
 <p><span class="chinese">你得了肝炎。</span><span class="english">You contracted hepatitis.</span></p>
 
 <p><span class="chinese">他养成一种恶习。</span><span class="english">He contracted a bad  habit.</span></p>

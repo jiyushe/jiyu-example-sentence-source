@@ -1,5 +1,7 @@
 # cubic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cubic.md)
+
 <p><span class="chinese">求。的立方根炸弹打中了他。</span><span class="english">Find the cubic root of.</span></p>
 
 <p><span class="chinese">具有完整的立方八面体晶体，高强度和热稳定性。</span><span class="english">It's a cubic crystal inside of it!</span></p>

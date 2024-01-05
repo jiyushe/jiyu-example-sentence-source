@@ -1,5 +1,7 @@
 # papal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/papal.md)
+
 <p><span class="chinese">内侍罗马教皇的名誉侍从。</span><span class="english">An often honorary papal attendant.</span></p>
 
 <p><span class="chinese">教廷外交几乎同教皇的职位一样古老。</span><span class="english">Papal diplomacy is almost as old as the papacy.</span></p>

@@ -1,5 +1,7 @@
 # lampedusa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lampedusa.md)
+
 <p><span class="chinese">极少数移民在兰佩杜萨周一抵达。</span><span class="english">Very few migrants arrived at Lampedusa on Monday.</span></p>
 
 <p><span class="chinese">兰佩杜萨市市长接受媒体采访时表示，“城市即将崩溃。”</span><span class="english">Lampedusa Mayor media interview that "the city is about to collapse."</span></p>

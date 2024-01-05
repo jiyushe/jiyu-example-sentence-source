@@ -1,5 +1,7 @@
 # 金针
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinzhen.md)
+
 <p><span class="chinese">抱着三枚金针，创立峨眉。</span><span class="english">Holding three were founded lily, northern.</span></p>
 
 <p><span class="chinese">金针与银线无法缝合我心灵的伤痕。</span><span class="english">Silver threads and golden needles cannot mend this heart of mine.</span></p>

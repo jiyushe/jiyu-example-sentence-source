@@ -1,5 +1,7 @@
 # 出彩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chucai.md)
+
 <p><span class="chinese">在斯密特眼里，这个造型很出彩。</span><span class="english">To Schmidt's eye, the shape stood out.</span></p>
 
 <p><span class="chinese">下面是他们中的一些出彩的智慧谏言。</span><span class="english">Here are a few of their words of wisdom.</span></p>

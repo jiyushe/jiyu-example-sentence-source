@@ -1,5 +1,7 @@
 # lose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lose.md)
+
 <p><span class="chinese">丢了一页。</span><span class="english">Lose one page.</span></p>
 
 <p><span class="chinese">用它还是失去它？</span><span class="english">Use it or lose it?</span></p>

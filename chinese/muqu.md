@@ -1,5 +1,7 @@
 # 牧区
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muqu.md)
+
 <p><span class="chinese">1959年牧区全面实行了人民公社化。</span><span class="english">From 1959, the pastoral areas practiced people's commune.</span></p>
 
 <p><span class="chinese">那个州是一个天然的放牧区，那里的牧草是吃不完的。</span><span class="english">That state is a natural grazing country and cannot be eaten out.</span></p>

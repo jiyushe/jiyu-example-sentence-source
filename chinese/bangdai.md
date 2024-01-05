@@ -1,5 +1,7 @@
 # 绑带
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bangdai.md)
+
 <p><span class="chinese">看那个木乃伊。他缠着绑带，好酷啊。</span><span class="english">Look at the mummy. He's so cool in his binder.</span></p>
 
 <p><span class="chinese">绑带，他的伤口才算止住血。</span><span class="english">He used a lot of bandages to stop the bleeding.</span></p>

@@ -1,5 +1,7 @@
 # panama
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/panama.md)
+
 <p><span class="chinese">你喜欢巴拿马吗？</span><span class="english">Do you like Panama?</span></p>
 
 <p><span class="chinese">巴拿马运河连通两大洋。</span><span class="english">The Panama Canal joins two oceans.</span></p>

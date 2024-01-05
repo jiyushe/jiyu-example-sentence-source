@@ -1,5 +1,7 @@
 # 女尸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nvshi_1.md)
+
 <p><span class="chinese">我让一具女尸在我身上靠了30分钟。</span><span class="english">I let a dead woman lie on me for 30 minutes.</span></p>
 
 <p><span class="chinese">在一船形木棺中，有一具保存完好的女尸。</span><span class="english">In a boat-shaped Muguan, a well-preserved woman.</span></p>

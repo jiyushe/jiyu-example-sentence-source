@@ -1,5 +1,7 @@
 # 辨别
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianbie.md)
+
 <p><span class="chinese">是，她很难辨别。，No，，she‘</span><span class="english">d be hard to tell.</span></p>
 
 <p><span class="chinese">伤风使某人失去辨别滋味的能力。</span><span class="english">A cold dulls sb. 's taste.</span></p>

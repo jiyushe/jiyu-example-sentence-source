@@ -1,5 +1,7 @@
 # forcible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forcible.md)
+
 <p><span class="chinese">正直的言语力量何其大。</span><span class="english">How forcible are right words!</span></p>
 
 <p><span class="chinese">朝鲜方面已经表示，强行登船搜查的行为将被视为是战争的信号。</span><span class="english">North Korea has said a forcible search would be regarded as an act of war.</span></p>

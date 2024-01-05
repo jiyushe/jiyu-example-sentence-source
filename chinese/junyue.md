@@ -1,5 +1,7 @@
 # 军乐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junyue.md)
+
 <p><span class="chinese">军乐鸣奏，卫兵行礼。</span><span class="english">Military bands played. Soldiers saluted.</span></p>
 
 <p><span class="chinese">扬声器连续不断地放送军乐节目。</span><span class="english">The loudspeakers poured forth a continuous programme of martial music.</span></p>

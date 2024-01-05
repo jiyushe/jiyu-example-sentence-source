@@ -1,5 +1,7 @@
 # 兵源
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingyuan_1.md)
+
 <p><span class="chinese">不管怎样，基地组织已经在英国发现了便利的兵源。</span><span class="english">Either way, in Britain al-Qaeda has found an easy source of recruits.</span></p>
 
 <p><span class="chinese">特拉斯科特的部下正在竭尽全力，但我们没有补充兵源给他们。</span><span class="english">Truscott's men are doing their best, but we have no replacements for them.</span></p>

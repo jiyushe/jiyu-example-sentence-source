@@ -1,5 +1,7 @@
 # 绪言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuyan_1.md)
+
 <p><span class="chinese">第一章，绪言。</span><span class="english">The first chapter is introduction.</span></p>
 
 <p><span class="chinese">论文包括绪言、正文和结论及建议等三部分的内容。</span><span class="english">The paper is composed of preface, text and conclusion.</span></p>

@@ -1,5 +1,7 @@
 # isle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isle.md)
+
 <p><span class="chinese">那小岛上有许多鸟。</span><span class="english">The isle is very birdy.</span></p>
 
 <p><span class="chinese">怀特岛，海边。</span><span class="english">Isle of Wight, sea front.</span></p>

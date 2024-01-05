@@ -1,5 +1,7 @@
 # 大道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dadao_2.md)
+
 <p><span class="chinese">铃木大道C50的。</span><span class="english">Suzuki Boulevard C50.</span></p>
 
 <p><span class="chinese">人生并不都是康庄大道。</span><span class="english">Life is not 'sl roses.</span></p>

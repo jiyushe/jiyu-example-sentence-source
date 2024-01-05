@@ -1,5 +1,7 @@
 # section 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/section.md)
+
 <p><span class="chinese">参见1.14。</span><span class="english">See section 1.14.</span></p>
 
 <p><span class="chinese">我们要非吸烟区的座位.</span><span class="english">Nonsmoking section.</span></p>

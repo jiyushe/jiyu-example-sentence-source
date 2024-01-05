@@ -1,5 +1,7 @@
 # polenta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polenta.md)
+
 <p><span class="chinese">粥和烤牛肉片做的长颈鹿。</span><span class="english">Giraffe made of polenta and roast beef pieces.</span></p>
 
 <p><span class="chinese">加入面粉、玉米粥、发酵粉和小苏打粉。</span><span class="english">Add the flour, polenta , baking powder and baking soda.</span></p>

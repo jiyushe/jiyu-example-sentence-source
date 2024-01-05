@@ -1,5 +1,7 @@
 # rigidity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rigidity.md)
+
 <p><span class="chinese">什么是强直性脊柱炎？</span><span class="english">What is rigidity sex rachitis?</span></p>
 
 <p><span class="chinese">坚硬是一种僵尸的表现。</span><span class="english">Rigidity is a sign of rigor mortis.</span></p>

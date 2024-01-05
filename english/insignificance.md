@@ -1,5 +1,7 @@
 # insignificance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insignificance.md)
+
 <p><span class="chinese">然而，这种看法并不足取。</span><span class="english">However, this view and insignificance.</span></p>
 
 <p><span class="chinese">摆荡在时间的轨迹，个人都发现自己何其渺小。</span><span class="english">Oscillating along the track of time we see our insignificance.</span></p>

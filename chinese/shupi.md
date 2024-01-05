@@ -1,5 +1,7 @@
 # 树皮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shupi.md)
+
 <p><span class="chinese">他还啃树皮。</span><span class="english">He chews bark.</span></p>
 
 <p><span class="chinese">为什么树长着树皮？</span><span class="english">Why do trees have bark?</span></p>

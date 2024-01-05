@@ -1,5 +1,7 @@
 # superfine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superfine.md)
+
 <p><span class="chinese">超细水泥是一种很好的界面剂原材料。</span><span class="english">Superfine cement suits were used as the interfacial agents.</span></p>
 
 <p><span class="chinese">对超细丝拉拔过程中的断线现象进行了研讨。</span><span class="english">The accident of wire breaking in superfine wire drawing is discussed.</span></p>

@@ -1,5 +1,7 @@
 # warlord
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/warlord.md)
+
 <p><span class="chinese">军阀与鸦片结下了不解之缘。</span><span class="english">Warlord and opium forge the indissoluble bound.</span></p>
 
 <p><span class="chinese">的名字，Polemarchus，其实意指，“军阀</span><span class="english">Polemarchus " whose name actually means "warlord."</span></p>

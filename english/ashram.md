@@ -1,5 +1,7 @@
 # ashram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ashram.md)
+
 <p><span class="chinese">在印度她尝试了修行与冥想。</span><span class="english">in India she joined an ashram and meditated.</span></p>
 
 <p><span class="chinese">又过了几个星期我被邀请去现在温哥华的这个静室。</span><span class="english">In a few weeks I was invited to the present day ashram in Vancouver.</span></p>

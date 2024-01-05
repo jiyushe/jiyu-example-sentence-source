@@ -1,5 +1,7 @@
 # 语源学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuyuanxue.md)
+
 <p><span class="chinese">我热爱语源学。</span><span class="english">I love etymology.</span></p>
 
 <p><span class="chinese">意思是“跑道“或从语源学上讲“一项事业“</span><span class="english">which means "a race course" and etymologically "a career."</span></p>

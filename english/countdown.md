@@ -1,5 +1,7 @@
 # countdown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/countdown.md)
+
 <p><span class="chinese">他们正在等候倒记时的开始。</span><span class="english">They were waiting for the countdown.</span></p>
 
 <p><span class="chinese">行人“通行”标志的倒计时钟。</span><span class="english">Countdown clocks on pedestrian "walk" signs.</span></p>

@@ -1,5 +1,7 @@
 # guilty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guilty.md)
+
 <p><span class="chinese">你看上去心虚喜悦。</span><span class="english">You look guilty.</span></p>
 
 <p><span class="chinese">背负着俗世的浮尘和愧罪。</span><span class="english">Guilty of dust and sin.</span></p>

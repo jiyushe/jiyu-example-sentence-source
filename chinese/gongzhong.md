@@ -1,5 +1,7 @@
 # 工种
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongzhong.md)
+
 <p><span class="chinese">各工种配备特定的工具。</span><span class="english">There is a specific tool for each job.</span></p>
 
 <p><span class="chinese">他们工种的技术含量大幅度提高。</span><span class="english">Their jobs have been drastically upskilled.</span></p>

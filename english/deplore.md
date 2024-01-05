@@ -1,5 +1,7 @@
 # deplore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deplore.md)
+
 <p><span class="chinese">我们强烈反对使用核武器。</span><span class="english">We deplore the use of nuclear weapons.</span></p>
 
 <p><span class="chinese">我们强烈反对这个拙劣的、欠考虑的决定。</span><span class="english">We deplore this lamentably ill-advised decision.</span></p>

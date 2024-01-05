@@ -1,5 +1,7 @@
 # contraction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contraction.md)
+
 <p><span class="chinese">那怎么解释这一矛盾呢？</span><span class="english">So what explains the contraction?</span></p>
 
 <p><span class="chinese">其实，收缩是虎头蛇尾。</span><span class="english">In fact, contraction is a cop-out.</span></p>

@@ -1,5 +1,7 @@
 # 小辫子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaobianzi.md)
+
 <p><span class="chinese">安妮猛地一甩红发小辫子。</span><span class="english">Anne tossed her red braids.</span></p>
 
 <p><span class="chinese">对，那你应该更注意，让他抓不住你的小辫子。</span><span class="english">Yeah, well, you should know better. Don't give him no excuses.</span></p>

@@ -1,5 +1,7 @@
 # porcupine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/porcupine.md)
+
 <p><span class="chinese">猎人捕获了一只豪猪。</span><span class="english">The hunter seized a porcupine.</span></p>
 
 <p><span class="chinese">首先，我们看到的是豪猪和狼。</span><span class="english">First, we see is the porcupine and wolves.</span></p>

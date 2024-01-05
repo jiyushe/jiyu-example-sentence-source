@@ -1,5 +1,7 @@
 # cove
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cove.md)
+
 <p><span class="chinese">那老头一定是个犹太人。</span><span class="english">The old cove must be a Jew.</span></p>
 
 <p><span class="chinese">我们在黑湾的农场被弃废了。</span><span class="english">Our farm at Black Cove is abandoned.</span></p>

@@ -1,5 +1,7 @@
 # 三脚架
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanjiaojia.md)
+
 <p><span class="chinese">一定要把三脚架放稳。</span><span class="english">Make sure the tripod is stable.</span></p>
 
 <p><span class="chinese">这个三脚架是翠西珍藏的宝贝。</span><span class="english">This tripod is a treasure Trish cherishes.</span></p>

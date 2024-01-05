@@ -1,5 +1,7 @@
 # childish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/childish.md)
+
 <p><span class="chinese">他的想法很稚子。</span><span class="english">His idea is childish.</span></p>
 
 <p><span class="chinese">他就像一个幼稚的成年人。</span><span class="english">He is like a childish adult.</span></p>

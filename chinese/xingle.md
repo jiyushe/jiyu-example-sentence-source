@@ -1,5 +1,7 @@
 # 行乐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingle.md)
+
 <p><span class="chinese">译成中文就是“人生苦短，及时行乐！”</span><span class="english">Life is too short, enjoy it!</span></p>
 
 <p><span class="chinese">把这紧记在心及时行乐吧。</span><span class="english">Keep that in mind and rejoice.</span></p>

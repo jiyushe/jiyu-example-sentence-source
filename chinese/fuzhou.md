@@ -1,5 +1,7 @@
 # 符咒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuzhou.md)
+
 <p><span class="chinese">你有没有幸运符咒？</span><span class="english">Do you have a lucky charm?</span></p>
 
 <p><span class="chinese">到底是谁给你的那个符咒呢？</span><span class="english">And who exactly gave you that spell?</span></p>

@@ -1,5 +1,7 @@
 # homestay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homestay.md)
+
 <p><span class="chinese">你的寄宿家庭怎么样？</span><span class="english">How's your homestay?</span></p>
 
 <p><span class="chinese">也可以住在当地人家中。</span><span class="english">You could live in a homestay.</span></p>

@@ -1,5 +1,7 @@
 # bevy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bevy.md)
+
 <p><span class="chinese">白妃和我彼此非常了解。</span><span class="english">Bevy and I understand each other perfectly.</span></p>
 
 <p><span class="chinese">这些成群结队的小行星给地球和其他内行星带来了一系列贵金属。</span><span class="english">Those hordes of asteroids brought with them a bevy of precious metals.</span></p>

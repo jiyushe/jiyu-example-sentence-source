@@ -1,5 +1,7 @@
 # kinship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kinship.md)
+
 <p><span class="chinese">我们对你们有一种特殊的亲近感。</span><span class="english">We feel a special kinship with you.</span></p>
 
 <p><span class="chinese">这在显示出了一定程度上的惺惺相惜。</span><span class="english">That shows a certain level of kinship.</span></p>

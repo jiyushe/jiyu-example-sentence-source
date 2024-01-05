@@ -1,5 +1,7 @@
 # downright
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/downright.md)
+
 <p><span class="chinese">我曾经是个直率而爽朗的人。</span><span class="english">I was downright chipper.</span></p>
 
 <p><span class="chinese">有些则完全是污蔑性的。</span><span class="english">Some are downright insulting.</span></p>

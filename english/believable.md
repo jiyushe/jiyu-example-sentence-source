@@ -1,5 +1,7 @@
 # believable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/believable.md)
+
 <p><span class="chinese">仍旧比那些假新闻更可信。</span><span class="english">Still more believable than Faux News.</span></p>
 
 <p><span class="chinese">她的解释听起来的确可信.</span><span class="english">Her explanation certainly sounded believable.</span></p>

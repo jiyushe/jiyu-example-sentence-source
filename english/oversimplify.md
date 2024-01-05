@@ -1,5 +1,7 @@
 # oversimplify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oversimplify.md)
+
 <p><span class="chinese">很容易把涉及的问题看得太简单。</span><span class="english">It's easy to oversimplify the issues involved.</span></p>
 
 <p><span class="chinese">但是通过电脑孩子们只能学会如何简化生活。</span><span class="english">But through computer, children can only learn how to oversimplify the life.</span></p>

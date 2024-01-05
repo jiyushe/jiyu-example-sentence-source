@@ -1,5 +1,7 @@
 # moisten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moisten.md)
+
 <p><span class="chinese">一点一滴，滋润心田。</span><span class="english">Bit by bit, moisten heart.</span></p>
 
 <p><span class="chinese">濡有点如果您有足够的水。</span><span class="english">Moisten it a bit if you have enough water.</span></p>

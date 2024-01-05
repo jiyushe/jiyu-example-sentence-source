@@ -1,5 +1,7 @@
 # 茶树
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chashu_1.md)
+
 <p><span class="chinese">茶树精油、洋甘菊萃取、银杏。</span><span class="english">Tea Tree Oil, Chamomile Extract, Gingko Biloba.</span></p>
 
 <p><span class="chinese">茶树在这片肥沃的山地上长得很好。</span><span class="english">Tea grows well in these fertile mountain fields.</span></p>

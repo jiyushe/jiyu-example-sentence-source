@@ -1,5 +1,7 @@
 # smelting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smelting.md)
+
 <p><span class="chinese">你看他提到了熔炼。</span><span class="english">You see he mentioned smelting.</span></p>
 
 <p><span class="chinese">小坂冶炼的相关人士说。</span><span class="english">Kosaka Smelting stakeholders said.</span></p>

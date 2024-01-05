@@ -1,5 +1,7 @@
 # 债权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaiquan_1.md)
+
 <p><span class="chinese">亚洲蚂蚁积累了大量的蚱蜢窝债权，感觉很富有。</span><span class="english">Asian ants build up piles of grasshopper debt and feel rich.</span></p>
 
 <p><span class="chinese">第三部分是关于债权代位权的实行效果。</span><span class="english">The third part discusses the effete of exercising subrogation.</span></p>

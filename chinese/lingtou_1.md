@@ -1,5 +1,7 @@
 # 领头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingtou_1.md)
+
 <p><span class="chinese">通常情况下设定一个领头者。</span><span class="english">Always, always have a lead.</span></p>
 
 <p><span class="chinese">任何狼都可以成为领头狼。</span><span class="english">Any wolf can become an alpha.</span></p>

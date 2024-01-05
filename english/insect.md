@@ -1,5 +1,7 @@
 # insect 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insect.md)
+
 <p><span class="chinese">这就是一根芒刺。</span><span class="english">That was the insect sting.</span></p>
 
 <p><span class="chinese">你是跟屁虫吗？</span><span class="english">Are you heel fart an insect?</span></p>

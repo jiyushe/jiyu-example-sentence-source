@@ -1,5 +1,7 @@
 # 发人深省
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/farenshenxing.md)
+
 <p><span class="chinese">这部电影发人深省。</span><span class="english">The film is thougt-provoking.</span></p>
 
 <p><span class="chinese">读一点发人深省的东西。</span><span class="english">Read something thought-provoking.</span></p>

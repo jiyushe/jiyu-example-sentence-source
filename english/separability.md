@@ -1,5 +1,7 @@
 # separability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/separability.md)
+
 <p><span class="chinese">本学位论文研究了量子态的可分性和形成纠缠度。</span><span class="english">We investigate separability and entanglement measure for quantum states.</span></p>
 
 <p><span class="chinese">首先我们利用正算子研究量子系统中混合态的可分性。</span><span class="english">Firstly we investigate separability of mixed states via positive operator.</span></p>

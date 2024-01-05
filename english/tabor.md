@@ -1,5 +1,7 @@
 # tabor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tabor.md)
+
 <p><span class="chinese">大博尔山在新约中从未被刻意地提及。</span><span class="english">Mount Tabor is never mentioned expressly in the New Testament.</span></p>
 
 <p><span class="chinese">一切准备就绪之后，我们向他泊山出发。</span><span class="english">When we were ready, we left on to Mount Tabor to get readyfor the fight.</span></p>

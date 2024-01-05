@@ -1,5 +1,7 @@
 # 棋友
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiyou.md)
+
 <p><span class="chinese">在这些新朋友中，有不少中国的棋友。</span><span class="english">Among the new friends, there are also renju friends from China.</span></p>
 
 <p><span class="chinese">每个棋手都有权力自由地选择结交棋友。</span><span class="english">It is every renju players right and free choice to make friends.</span></p>

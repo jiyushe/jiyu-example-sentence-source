@@ -1,5 +1,7 @@
 # disaster 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disaster.md)
+
 <p><span class="chinese">而避免了粪灾。</span><span class="english">Dung disaster averted.</span></p>
 
 <p><span class="chinese">我是个可悲的灾星。</span><span class="english">I'm a pathetic disaster.</span></p>

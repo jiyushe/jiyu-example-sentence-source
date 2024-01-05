@@ -1,5 +1,7 @@
 # depot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/depot.md)
+
 <p><span class="chinese">我。是。一朵。蛋疼。的。女子。</span><span class="english">I'm only a container depot.</span></p>
 
 <p><span class="chinese">仓库游荡没有一个花色货品。</span><span class="english">Depot loafing no one fancies.</span></p>

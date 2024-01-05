@@ -1,5 +1,7 @@
 # rehydration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rehydration.md)
+
 <p><span class="chinese">及早补液可拯救几乎所有霍乱患者的生命。</span><span class="english">Early rehydration can save the lives of nearly all cholera patients.</span></p>
 
 <p><span class="chinese">新厨房从再水化站输送冷热水。</span><span class="english">The new galley delivers hot or cold water from the rehydration station.</span></p>

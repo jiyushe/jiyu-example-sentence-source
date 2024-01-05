@@ -1,5 +1,7 @@
 # emptily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emptily.md)
+
 <p><span class="chinese">他的肚子饿得咕咕作响。</span><span class="english">His stomach rumbled emptily.</span></p>
 
 <p><span class="chinese">他躺在床上，茫然地望着她。</span><span class="english">He lies in bed and stares at her emptily.</span></p>

@@ -1,5 +1,7 @@
 # 预感
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yugan_1.md)
+
 <p><span class="chinese">我的预感应验了。</span><span class="english">My premonition was right.</span></p>
 
 <p><span class="chinese">我预感自己可能会失败。</span><span class="english">I foreboded that I might fail.</span></p>

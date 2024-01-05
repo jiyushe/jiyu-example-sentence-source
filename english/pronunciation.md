@@ -1,5 +1,7 @@
 # pronunciation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pronunciation.md)
+
 <p><span class="chinese">但要检查你的发音。</span><span class="english">Check the pronunciation.</span></p>
 
 <p><span class="chinese">我们更惊叹她那动人的发音。</span><span class="english">We marvel at her pronunciation.</span></p>

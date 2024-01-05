@@ -1,5 +1,7 @@
 # homocentric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homocentric.md)
+
 <p><span class="chinese">汇聚同心的追求，传递同心的力量。</span><span class="english">Converge homocentric aspiration, and transfer homocentric power.</span></p>
 
 <p><span class="chinese">背景由三个同心白色圆形线条组成。</span><span class="english">The background was comprised of three homocentric white circles.</span></p>

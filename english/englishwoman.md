@@ -1,5 +1,7 @@
 # englishwoman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/englishwoman.md)
+
 <p><span class="chinese">有一天，一位英国男士和一位名叫露西。</span><span class="english">One day, an Englishman and an Englishwoman.</span></p>
 
 <p><span class="chinese">通常英国人在街上是会给你指路的。</span><span class="english">Englishwoman can indicate the road for you on the street.</span></p>

@@ -1,5 +1,7 @@
 # finality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/finality.md)
+
 <p><span class="chinese">这是当时打我-的终结这一切。</span><span class="english">And that's when it hit me – the finality of it all.</span></p>
 
 <p><span class="chinese">“不，爸爸。我不想要别的。”辛杜坚决地说。</span><span class="english">"No, Dad. I do not want anything else, " Sindu said with finality.</span></p>

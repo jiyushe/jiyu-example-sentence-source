@@ -1,5 +1,7 @@
 # tricolor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tricolor.md)
+
 <p><span class="chinese">三色旗帜到处都是。</span><span class="english">The tricolor is everywhere.</span></p>
 
 <p><span class="chinese">你必须把三色关在你的房间里。</span><span class="english">You must shut Tricolor in your room.</span></p>

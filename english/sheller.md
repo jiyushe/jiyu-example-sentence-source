@@ -1,5 +1,7 @@
 # sheller
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sheller.md)
+
 <p><span class="chinese">全民温饱计划还有一种是脚踏式的剥壳机。</span><span class="english">The FullBellyProject also has a pedal -powered sheller.</span></p>
 
 <p><span class="chinese">温饱工程也有一种踏板动力脱壳机。</span><span class="english">The Full Belly Project also has a pedal-powered sheller.</span></p>

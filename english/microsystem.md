@@ -1,5 +1,7 @@
 # microsystem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microsystem.md)
+
 <p><span class="chinese">在此基础上，测谎系统微型化是必然发展趋势。</span><span class="english">The development trend is with microsystem for lie detection.</span></p>
 
 <p><span class="chinese">全磊径机电是台湾第一家以微机电制程。制作压力感应器组件。</span><span class="english">Metrodyne Microsystem Corp. is the first one use MEMS. Skill to produce pressure sensor.</span></p>

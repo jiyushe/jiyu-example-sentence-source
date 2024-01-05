@@ -1,5 +1,7 @@
 # 被覆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beifu_2.md)
+
 <p><span class="chinese">身体被覆于皮肤、苔藓、饥渴以及凝固的乳液。</span><span class="english">Body of skin, of moss, of eager and firm milk.</span></p>
 
 <p><span class="chinese">一层厚的黄色渗出物被覆在腹膜外。</span><span class="english">A thick yellow exudate coats the peritoneal surfaces.</span></p>

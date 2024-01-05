@@ -1,5 +1,7 @@
 # discourse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discourse.md)
+
 <p><span class="chinese">话语以白人男性为主。</span><span class="english">Discourse is white male-based.</span></p>
 
 <p><span class="chinese">尚存论说的群体即是市场。</span><span class="english">The community of discourse is the market.</span></p>

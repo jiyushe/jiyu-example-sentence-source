@@ -1,5 +1,7 @@
 # gallon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gallon.md)
+
 <p><span class="chinese">四夸脱构成一加仑。</span><span class="english">Four quarts constitute a gallon.</span></p>
 
 <p><span class="chinese">这是指一加仑汽油可开多远。</span><span class="english">That's how far a gallon of gas goes.</span></p>

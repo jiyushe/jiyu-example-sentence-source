@@ -1,5 +1,7 @@
 # dimly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dimly.md)
+
 <p><span class="chinese">这种想法隐隐约约地浮现在我的脑海中。</span><span class="english">The thought rose dimly in my mind.</span></p>
 
 <p><span class="chinese">月光从树后透过来，显得暗淡。</span><span class="english">The moon shone dimly behind the trees.</span></p>

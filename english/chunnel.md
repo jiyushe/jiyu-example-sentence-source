@@ -1,5 +1,7 @@
 # chunnel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chunnel.md)
+
 <p><span class="chinese">上周当海峡隧道贯通消息公布时。</span><span class="english">Last week, when the news of the Chunnel breakthrough was announced.</span></p>
 
 <p><span class="chinese">英法海底隧道现在也已经竣工。</span><span class="english">The"Chunnel", a tunnel connecting England and France, is now completed.</span></p>

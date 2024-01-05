@@ -1,5 +1,7 @@
 # calla
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calla.md)
+
 <p><span class="chinese">海芋南非是一个美丽的花。</span><span class="english">Calla lily is a beautiful South African flower.</span></p>
 
 <p><span class="chinese">一个简单快速马蹄莲你好，在那里了，你呢？</span><span class="english">A simple calla quick hello, Where have you been?</span></p>

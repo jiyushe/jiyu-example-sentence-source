@@ -1,5 +1,7 @@
 # 消长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaozhang_1.md)
+
 <p><span class="chinese">然则国之老少，又无定形，而实随国民之心力以为消长者也。</span><span class="english">Likewise, the age of a nation is not something fixed.</span></p>
 
 <p><span class="chinese">分析了丁纹豹蛛种群消长动态。</span><span class="english">The population dynamics of Pardosa T-insignita in cotton fields were analysed.</span></p>

@@ -1,5 +1,7 @@
 # rigorous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rigorous.md)
+
 <p><span class="chinese">这个理论是非常严密的。</span><span class="english">This theory is very rigorous.</span></p>
 
 <p><span class="chinese">它们的设计是很严格的。</span><span class="english">They are designed to be rigorous.</span></p>

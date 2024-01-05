@@ -1,5 +1,7 @@
 # 轮流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lunliu.md)
+
 <p><span class="chinese">是固定短语，意为“轮流做某事”。</span><span class="english">C take turns doing sth.</span></p>
 
 <p><span class="chinese">舅舅，叔叔轮流去押车。</span><span class="english">Uncle, uncle turns to guard.</span></p>

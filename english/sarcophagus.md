@@ -1,5 +1,7 @@
 # sarcophagus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sarcophagus.md)
+
 <p><span class="chinese">其中一具石棺仍然密封着。</span><span class="english">One sarcophagus was still sealed.</span></p>
 
 <p><span class="chinese">走进走出石棺，以满足亚瑟王光。</span><span class="english">Walk into the light coming out of the sarcophagus to meet King Arthur.</span></p>

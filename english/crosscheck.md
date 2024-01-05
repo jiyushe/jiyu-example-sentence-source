@@ -1,5 +1,7 @@
 # crosscheck
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crosscheck.md)
+
 <p><span class="chinese">单击确认，确认检查作业。</span><span class="english">Click Submit Job to submit the crosscheck job.</span></p>
 
 <p><span class="chinese">你也准备好交叉测试你心灵感应所听到的任何引导了。</span><span class="english">You are also ready to crosscheck any guidance that you hear telepathically.</span></p>

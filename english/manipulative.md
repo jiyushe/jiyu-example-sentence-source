@@ -1,5 +1,7 @@
 # manipulative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manipulative.md)
+
 <p><span class="chinese">我们也可以控制它。</span><span class="english">But we can also get a little manipulative.</span></p>
 
 <p><span class="chinese">没错我是你个工于心计的神经病婊子！</span><span class="english">Yeah, I am, you manipulative psycho bitch!</span></p>

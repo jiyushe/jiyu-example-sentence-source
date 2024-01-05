@@ -1,5 +1,7 @@
 # civilized
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/civilized.md)
+
 <p><span class="chinese">例8。向文明市民致敬！</span><span class="english">Salute eto Civilized Citizens!</span></p>
 
 <p><span class="chinese">向文明游客致敬！</span><span class="english">Salute to Civilized Tourists !</span></p>

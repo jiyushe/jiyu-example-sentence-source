@@ -1,5 +1,7 @@
 # foolish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foolish.md)
+
 <p><span class="chinese">标题很愚蠢。</span><span class="english">Foolish headline.</span></p>
 
 <p><span class="chinese">为什么我们这么愚蠢呢？</span><span class="english">But why are we so foolish?</span></p>

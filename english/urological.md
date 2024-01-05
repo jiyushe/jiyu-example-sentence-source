@@ -1,5 +1,7 @@
 # urological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/urological.md)
+
 <p><span class="chinese">膀胱癌是我国泌尿系统最常见的恶性肿瘤。</span><span class="english">Bladder cancer is the most common urological malignancy in China.</span></p>
 
 <p><span class="chinese">他昨晚因为摄护腺肥大而住进泌尿科病房。</span><span class="english">He was admitted to the urological ward because of enlarged prostate.</span></p>

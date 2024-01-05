@@ -1,5 +1,7 @@
 # downside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/downside.md)
+
 <p><span class="chinese">但这应该是唯一的缺点了吧。</span><span class="english">But that's really the only major downside.</span></p>
 
 <p><span class="chinese">过度的信息通道有没有负面作用？</span><span class="english">Is there a downside to hyper-information access?</span></p>

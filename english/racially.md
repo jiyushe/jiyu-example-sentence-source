@@ -1,5 +1,7 @@
 # racially
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/racially.md)
+
 <p><span class="chinese">你看见那个和你不同种族，被阉割的人了吗？</span><span class="english">Philip, you see that sexually altered, racially different person?</span></p>
 
 <p><span class="chinese">就种族而言，穆斯林是美国最多元化的群体。</span><span class="english">Muslims also are the most racially diverse group in the United States.</span></p>

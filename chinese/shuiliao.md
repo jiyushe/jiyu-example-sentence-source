@@ -1,5 +1,7 @@
 # 谁料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiliao.md)
+
 <p><span class="chinese">谁料证人带人上来围搅。</span><span class="english">Bring people up who witness stirring.</span></p>
 
 <p><span class="chinese">谁料那巨兽欢快地吼叫着站起身来。</span><span class="english">To his surprise the beast rose up with a roar of glee.</span></p>

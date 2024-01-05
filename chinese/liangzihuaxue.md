@@ -1,5 +1,7 @@
 # 量子化学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangzihuaxue.md)
+
 <p><span class="chinese">量子化学仍处于发展初期。</span><span class="english">Quantum chemistry is in its infancy.</span></p>
 
 <p><span class="chinese">量子化学理论计算方法的基本原理。</span><span class="english">The basic principle and theory of quantum chemistry.</span></p>

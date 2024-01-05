@@ -1,5 +1,7 @@
 # deceleration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deceleration.md)
+
 <p><span class="chinese">络筒机槽筒突然加速、突然减速。</span><span class="english">Sudden acceleration and deceleration of winding drum.</span></p>
 
 <p><span class="chinese">梯度离心，加减速最好在5档以上。</span><span class="english">Gradient centrifugation, deceleration in 5 file above.</span></p>

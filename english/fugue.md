@@ -1,5 +1,7 @@
 # fugue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fugue.md)
+
 <p><span class="chinese">飘流世上一梦千年？</span><span class="english">Fugue world dream of a millennium?</span></p>
 
 <p><span class="chinese">列子把人类的梦，看成是神游。</span><span class="english">Liezi mankind's dream, as a fugue.</span></p>

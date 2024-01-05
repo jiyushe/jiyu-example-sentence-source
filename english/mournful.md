@@ -1,5 +1,7 @@
 # mournful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mournful.md)
+
 <p><span class="chinese">别用悲切的诗句对我唱。</span><span class="english">Tell me not in mournful numbers.</span></p>
 
 <p><span class="chinese">在她的葬礼上他唱起了一道优伤的歌。</span><span class="english">He sang a mournful song at her funeral.</span></p>

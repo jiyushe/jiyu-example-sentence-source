@@ -1,5 +1,7 @@
 # 耕田
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gengtian.md)
+
 <p><span class="chinese">他给马套上马具去耕田。</span><span class="english">He tackled the horse up for plowing.</span></p>
 
 <p><span class="chinese">我们耕田锄地直到胳膊酸痛肿大。</span><span class="english">We plowed and hoed till our arms were sore.</span></p>

@@ -1,5 +1,7 @@
 # 腹地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fudi_4.md)
+
 <p><span class="chinese">中午他已经深入了这个陌生的国度的腹地。</span><span class="english">By noon he was far into the alien country.</span></p>
 
 <p><span class="chinese">他不可能进入雅利安人骄傲的腹地！</span><span class="english">He would not dare enter the very heart of Aryan Pride!</span></p>

@@ -1,5 +1,7 @@
 # 乐坛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuetan.md)
+
 <p><span class="chinese">香港的乐坛又消失左一住焠灿的巨星。</span><span class="english">HK music industry lost a super star.</span></p>
 
 <p><span class="chinese">2001年出现在华语流行乐坛。</span><span class="english">E. appeared on the Mando-pop scene in 2001.</span></p>

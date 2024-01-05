@@ -1,5 +1,7 @@
 # 分队
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fendui.md)
+
 <p><span class="chinese">这些分队的领导叫做项目盟主。</span><span class="english">These team sponsors are called project champions.</span></p>
 
 <p><span class="chinese">我要调整你的方位，擎天柱。赶紧派一个分队来。</span><span class="english">I have a fix on your location, Optimus. Sending a team in now.</span></p>

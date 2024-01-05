@@ -1,5 +1,7 @@
 # proteinuria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proteinuria.md)
+
 <p><span class="chinese">蛋白尿属于中医“精气下泄”范畴。</span><span class="english">Proteinuria is correspondant to "Essence and vital Energy callapse" of TCM.</span></p>
 
 <p><span class="chinese">蛋白尿是难溶性补体C5b-9攻击足细胞的结果。</span><span class="english">Proteinuria is a consequence of sublytic complement C5b-9 attack on podocytes.</span></p>

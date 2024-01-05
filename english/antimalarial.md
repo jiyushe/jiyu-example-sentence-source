@@ -1,5 +1,7 @@
 # antimalarial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antimalarial.md)
+
 <p><span class="chinese">以往使用其它抗疟药已经发生这种情况。</span><span class="english">This has already happened with other antimalarial drugs in the past.</span></p>
 
 <p><span class="chinese">她的研究组仍然在改善这种药物的抗疟功能并在小鼠身上进行试验。</span><span class="english">Her team is still improving the antimalarial function of the drug and testing it in mice.</span></p>

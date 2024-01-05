@@ -1,5 +1,7 @@
 # gird
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gird.md)
+
 <p><span class="chinese">束起你们的腰。</span><span class="english">Gird your loins.</span></p>
 
 <p><span class="chinese">给你美丽的肢体披上盔甲。</span><span class="english">And gird thy beauteous limbs with steel.</span></p>

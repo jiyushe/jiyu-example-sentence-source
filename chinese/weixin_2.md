@@ -1,5 +1,7 @@
 # 维新
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weixin_2.md)
+
 <p><span class="chinese">严复是维新思想的代表人物之一。</span><span class="english">Yan Fu was one of the representative figures of the reform idea.</span></p>
 
 <p><span class="chinese">宋育仁是一位杰出的维新志士。</span><span class="english">Song Yuren was an outstanding person of ideals and integrity on reform.</span></p>

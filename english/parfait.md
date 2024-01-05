@@ -1,5 +1,7 @@
 # parfait
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parfait.md)
+
 <p><span class="chinese">新做的冻糕很不错的。</span><span class="english">The new-made café parfait is really good.</span></p>
 
 <p><span class="chinese">我准备好吃我的冷甜点了。</span><span class="english">I feel much better. I'm ready for a parfait.</span></p>

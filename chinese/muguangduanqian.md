@@ -1,5 +1,7 @@
 # 目光短浅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muguangduanqian.md)
+
 <p><span class="chinese">这个目光短浅的政策导致了致命的后果。</span><span class="english">This short-sighted policy led to fatal results.</span></p>
 
 <p><span class="chinese">现在不应当目光短浅，遗祸子孙。</span><span class="english">We must not be short-sighted and ruin our progeny.</span></p>

@@ -1,5 +1,7 @@
 # shrewdness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shrewdness.md)
+
 <p><span class="chinese">“还允许我搭船回家？”他又加上一句，一副鬼精灵的样子。</span><span class="english">"AND a passage home?" he added with a look of great shrewdness.</span></p>
 
 <p><span class="chinese">我在一霎那间所得的印象，是一个非常精明的知识分子的面孔。</span><span class="english">My fleeting impression was of an intellectual face of great shrewdness.</span></p>

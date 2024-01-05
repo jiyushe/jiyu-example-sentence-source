@@ -1,5 +1,7 @@
 # gingery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gingery.md)
+
 <p><span class="chinese">主轴鼻子上金格里米勒。</span><span class="english">Spindle nose on Gingery miller.</span></p>
 
 <p><span class="chinese">铸件和木材模式的金格里四爪卡盘。</span><span class="english">Castings and wood patterns for the Gingery 4-jaw chuck.</span></p>

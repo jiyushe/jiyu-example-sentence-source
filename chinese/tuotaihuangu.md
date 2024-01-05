@@ -1,5 +1,7 @@
 # 脱胎换骨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuotaihuangu.md)
+
 <p><span class="chinese">你使我脱胎换骨！</span><span class="english">You make my completely reshape myself!</span></p>
 
 <p><span class="chinese">它就像是从内到外脱胎换骨一样。</span><span class="english">It's like being reborn from the inside out.</span></p>

@@ -1,5 +1,7 @@
 # 悲喜交加
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beixijiaojia.md)
+
 <p><span class="chinese">吟唱人生悲喜交加。</span><span class="english">Singing and joyful life.</span></p>
 
 <p><span class="chinese">这种悲喜交加的音色激起了他的艺术激情。</span><span class="english">This bittersweet quality fuels his artistic fires.</span></p>

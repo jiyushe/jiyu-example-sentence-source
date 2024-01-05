@@ -1,5 +1,7 @@
 # pbx
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pbx.md)
+
 <p><span class="chinese">通过基于云的交换机将固话号码映射给SIP电话</span><span class="english">map the phone numbers to the SIP phones via the cloud based PBX</span></p>
 
 <p><span class="chinese">找到一个基于云的网络电话路由器，该设备还提供拨号音。</span><span class="english">find a cloud based VOIP PBX out there that is commercially supported that provides dial tone</span></p>

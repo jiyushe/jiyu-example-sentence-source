@@ -1,5 +1,7 @@
 # democratize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/democratize.md)
+
 <p><span class="chinese">我认为这是作为一种民主化的创新。</span><span class="english">I see this as a way to democratize innovation.</span></p>
 
 <p><span class="chinese">最后，一个国家不可能民主化别的国家。</span><span class="english">In the end, countries cannot democratize others.</span></p>

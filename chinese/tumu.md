@@ -1,5 +1,7 @@
 # 土木
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tumu.md)
+
 <p><span class="chinese">UNB的土木工程学很有名。</span><span class="english">UNB has a very reputation engineering program.</span></p>
 
 <p><span class="chinese">我是土木学院理论与应用力学1班的学生。</span><span class="english">Institute of Theoretical and Applied Mechanics 1 students.</span></p>

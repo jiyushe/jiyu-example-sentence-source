@@ -1,5 +1,7 @@
 # 花团锦簇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huatuanjincu.md)
+
 <p><span class="chinese">舞台上花团锦簇。</span><span class="english">Various flowers damask the stage.</span></p>
 
 <p><span class="chinese">这是一座花团锦簇的花园。</span><span class="english">This is a garden well paved with flowers.</span></p>

@@ -1,5 +1,7 @@
 # 阳伞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangsan.md)
+
 <p><span class="chinese">你替我买把小阳伞行吗？要素底子的。</span><span class="english">Will you get me a quite plain parasol ?</span></p>
 
 <p><span class="chinese">不少女孩子在晴天打著阳伞。</span><span class="english">Many girls carry parasols on sunny days.</span></p>

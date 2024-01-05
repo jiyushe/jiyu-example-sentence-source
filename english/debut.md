@@ -1,5 +1,7 @@
 # debut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/debut.md)
+
 <p><span class="chinese">孙燕姿的首张专辑一炮打响。</span><span class="english">Sun's debut album was a runaway hit.</span></p>
 
 <p><span class="chinese">一个玩笑话将在周二就MTV的处子秀。</span><span class="english">A teaser will debut on Tuesday on MTV.</span></p>

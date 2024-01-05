@@ -1,5 +1,7 @@
 # 膨胀系数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pengzhangxishu.md)
+
 <p><span class="chinese">接口的膨胀系数有多大？</span><span class="english">Interface expansivity how much?</span></p>
 
 <p><span class="chinese">各种金属的膨胀系数都不同。</span><span class="english">Different metals have different coefficients of expansion.</span></p>

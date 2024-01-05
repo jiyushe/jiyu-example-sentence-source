@@ -1,5 +1,7 @@
 # 上层
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangceng.md)
+
 <p><span class="chinese">全面地测试上层本体论。</span><span class="english">Test upper ontologies thoroughly</span></p>
 
 <p><span class="chinese">这是上层喜欢奥普拉的。</span><span class="english">It's like Oprah for the glitterati.</span></p>

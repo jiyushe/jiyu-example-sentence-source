@@ -1,5 +1,7 @@
 # cep
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cep.md)
+
 <p><span class="chinese">我最喜爱的野味非牛肝菌莫属。</span><span class="english">My favourite wild food, of course, is the cep.</span></p>
 
 <p><span class="chinese">负责向冲压件企业销售西依铍成都公司产品。</span><span class="english">Sell CEP Chengdu miniature to small progressive metal stampings.</span></p>

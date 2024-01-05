@@ -1,5 +1,7 @@
 # astronaut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/astronaut.md)
+
 <p><span class="chinese">我将成为宇航员。</span><span class="english">I will be an astronaut.</span></p>
 
 <p><span class="chinese">你是个忍者宇航员。</span><span class="english">You’re a Ninja Astronaut.</span></p>

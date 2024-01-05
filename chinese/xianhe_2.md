@@ -1,5 +1,7 @@
 # 显赫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianhe_2.md)
+
 <p><span class="chinese">他是个声名显赫的政治家。</span><span class="english">He is a statesman of great eminence.</span></p>
 
 <p><span class="chinese">她嫁到一个显赫的家族。</span><span class="english">She married into a prominent family.</span></p>

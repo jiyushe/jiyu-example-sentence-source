@@ -1,5 +1,7 @@
 # brewage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brewage.md)
+
 <p><span class="chinese">产品已经广泛被应用在糖类，饮料类食品中。</span><span class="english">It has been used in candy, drinks and beer brewage.</span></p>
 
 <p><span class="chinese">大家和我一起酿造甜蜜的生活，大家和我一起共享芬芳的思想。</span><span class="english">I wish everybody could brewage the treacly living and enjoy the redolent idea with me.</span></p>

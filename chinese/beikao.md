@@ -1,5 +1,7 @@
 # 备考
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beikao.md)
+
 <p><span class="chinese">魏明是怎样备考的？</span><span class="english">Weiming is how pro forma?</span></p>
 
 <p><span class="chinese">而且我参加了备考的培训班。</span><span class="english">and I did study like a prep class.</span></p>

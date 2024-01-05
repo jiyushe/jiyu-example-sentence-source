@@ -1,5 +1,7 @@
 # 豆腐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/doufu.md)
+
 <p><span class="chinese">把豆腐整平一下。</span><span class="english">The tofu leveling.</span></p>
 
 <p><span class="chinese">我喜欢这个豆腐。</span><span class="english">I like this beancurd.</span></p>

@@ -1,5 +1,7 @@
 # 导尿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daoniao.md)
+
 <p><span class="chinese">现在您需要导尿。</span><span class="english">You are going to have urine catheterization now.</span></p>
 
 <p><span class="chinese">未成功者采用开塞露纳肛方法及行留置导尿术。</span><span class="english">To adopt suggestion way in her mind to induce micturition.</span></p>

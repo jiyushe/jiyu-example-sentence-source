@@ -1,5 +1,7 @@
 # 水产业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuichanye.md)
+
 <p><span class="chinese">这将对水产业造成一定影响。</span><span class="english">To an extent, this will have an impact on aquaculture.</span></p>
 
 <p><span class="chinese">种苗在水产业中，幼鱼畜养在成长区与池塘。</span><span class="english">In aquaculture, young fish for stocking grow-out areas and ponds.</span></p>

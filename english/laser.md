@@ -1,5 +1,7 @@
 # laser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laser.md)
+
 <p><span class="chinese">是激光列阵吗？</span><span class="english">Is that a laser array?</span></p>
 
 <p><span class="chinese">选择半导体激光管。</span><span class="english">To choose laser diode.</span></p>

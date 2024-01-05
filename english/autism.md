@@ -1,5 +1,7 @@
 # autism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autism.md)
+
 <p><span class="chinese">是关于孤独症的严重程度吗</span><span class="english">Is the severity of autism?</span></p>
 
 <p><span class="chinese">这是典型的自闭症便便。</span><span class="english">It was the classic autism poop.</span></p>

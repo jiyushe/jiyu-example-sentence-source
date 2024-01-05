@@ -1,5 +1,7 @@
 # distrustful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distrustful.md)
+
 <p><span class="chinese">从可疑的谈判者那里获取信息</span><span class="english">Getting Information from Distrustful Negotiators</span></p>
 
 <p><span class="chinese">泰瑞藏起了手机，伊菜对她很是怀疑，杰克通过电话另一端倾听着这一切。</span><span class="english">Jack listens as Teri hides the phone from the distrustful Eli.</span></p>

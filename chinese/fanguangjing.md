@@ -1,5 +1,7 @@
 # 反光镜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanguangjing.md)
+
 <p><span class="chinese">一对不反光镜片大约要多少钱？</span><span class="english">How much is a pair of anti-reflection lenses?</span></p>
 
 <p><span class="chinese">他正在使用的是双镜头反光镜相机。</span><span class="english">The camera he's using now is a twin- lens reflex one.</span></p>

@@ -1,5 +1,7 @@
 # biopharmaceutical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biopharmaceutical.md)
+
 <p><span class="chinese">动物吃了这些生物制药的作物后会发生什么？</span><span class="english">What will happen if animals eat the biopharmaceutical crops?</span></p>
 
 <p><span class="chinese">海藻糖广泛应用于生物药物、食品及化妆品等行业。</span><span class="english">It has wide application in biopharmaceutical , food and cosmetic, etc.</span></p>

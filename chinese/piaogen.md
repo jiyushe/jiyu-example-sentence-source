@@ -1,5 +1,7 @@
 # 票根
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaogen.md)
+
 <p><span class="chinese">这是一张票根。</span><span class="english">This is a ticket stub.</span></p>
 
 <p><span class="chinese">把票根留着。</span><span class="english">Keep your ticket stubs.</span></p>

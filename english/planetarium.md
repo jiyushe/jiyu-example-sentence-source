@@ -1,5 +1,7 @@
 # planetarium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/planetarium.md)
+
 <p><span class="chinese">还有个天文馆。</span><span class="english">They have a planetarium.</span></p>
 
 <p><span class="chinese">对空海登天文馆圆顶内。</span><span class="english">The inside of the empty Hayden Planetarium dome.</span></p>

@@ -1,5 +1,7 @@
 # cycloaddition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cycloaddition.md)
+
 <p><span class="chinese">研究结果表明，1，3-偶极环加成反应是以协同反应机理进行的。</span><span class="english">The studies indicate that 1,3-dipolar cycloaddition reactions are concerted reactions.</span></p>
 
 <p><span class="chinese">手性唑硼烷酮能够催化不对称1，3偶极加成反应并取得很好的效果。</span><span class="english">Asymmetric 1,3-dipolar cycloaddition can be strongly catalyzed by chiral oxazaborolidines.</span></p>

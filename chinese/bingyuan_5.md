@@ -1,5 +1,7 @@
 # 病院
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingyuan_5.md)
+
 <p><span class="chinese">我以为城区病院有最好的办事。</span><span class="english">I think Town Theater has the friendiest servic.</span></p>
 
 <p><span class="chinese">病院在离家20英里外的北加利福尼亚的格林威尔。</span><span class="english">The hospital was in Greenville, North Carolina, 20 miles from home.</span></p>

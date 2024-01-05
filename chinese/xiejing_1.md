@@ -1,5 +1,7 @@
 # 斜井
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiejing_1.md)
+
 <p><span class="chinese">侧斜井计算机软件研究。</span><span class="english">Study on the software of side-tracking wells.</span></p>
 
 <p><span class="chinese">双弓形弹簧片套管扶正器是斜井、水平井理想的套管扶正工具。</span><span class="english">It is ideal casing centralizer for both deflecting and horizontal well.</span></p>

@@ -1,5 +1,7 @@
 # hansel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hansel.md)
+
 <p><span class="chinese">汉瑟和葛丽特慢慢地走。</span><span class="english">Hansel and Gretel walk slowly.</span></p>
 
 <p><span class="chinese">汉瑟和葛丽特睡了一整天。</span><span class="english">Hansel and Gretel sleep all day.</span></p>

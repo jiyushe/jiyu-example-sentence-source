@@ -1,5 +1,7 @@
 # sherbet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sherbet.md)
+
 <p><span class="chinese">有冰激凌或者冰冻果子露吗？</span><span class="english">Do you have ice cream or sherbet ?</span></p>
 
 <p><span class="chinese">冰冻果子露是用水果和冰做的。</span><span class="english">Sherbet is made with fruits and ice.</span></p>

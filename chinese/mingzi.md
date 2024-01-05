@@ -1,5 +1,7 @@
 # 名字
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingzi.md)
+
 <p><span class="chinese">它的名字？</span><span class="english">Its name?</span></p>
 
 <p><span class="chinese">她地名字叫李玲。</span><span class="english">Her name is ms.</span></p>

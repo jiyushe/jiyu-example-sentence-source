@@ -1,5 +1,7 @@
 # excitation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/excitation.md)
+
 <p><span class="chinese">白狼兴奋起来。</span><span class="english">The white wolf excitation get up.</span></p>
 
 <p><span class="chinese">你检查过励磁回路的接地吗?。</span><span class="english">Have you checked the excitation circuit grounding?</span></p>

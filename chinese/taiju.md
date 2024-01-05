@@ -1,5 +1,7 @@
 # 抬举
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taiju.md)
+
 <p><span class="chinese">他们真地是我有受到抬举的感觉。</span><span class="english">They really make me feel welcome.</span></p>
 
 <p><span class="chinese">你原谅我把你抬举的如此之高。</span><span class="english">You forgive me for raising you up so high.</span></p>

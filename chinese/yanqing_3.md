@@ -1,5 +1,7 @@
 # 言情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanqing_3.md)
+
 <p><span class="chinese">那部言情电影真是令人泪下如注。</span><span class="english">That romance movie is a real tear-jerker.</span></p>
 
 <p><span class="chinese">我喜欢惊险片，不喜欢言情影片。</span><span class="english">I like thrillers but I don't like romances.</span></p>

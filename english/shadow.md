@@ -1,5 +1,7 @@
 # shadow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shadow.md)
+
 <p><span class="chinese">我们只是阴影幢幢。</span><span class="english">And we are only shadow.</span></p>
 
 <p><span class="chinese">我躺倒在那暗影里。</span><span class="english">I lie down in the shadow.</span></p>

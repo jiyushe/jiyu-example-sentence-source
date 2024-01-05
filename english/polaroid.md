@@ -1,5 +1,7 @@
 # polaroid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polaroid.md)
+
 <p><span class="chinese">这是架宝丽来快速相机。</span><span class="english">This is a Polaroid Land camera.</span></p>
 
 <p><span class="chinese">宝丽来胶卷感光性非常强。</span><span class="english">Polaroid film is very sensitive.</span></p>

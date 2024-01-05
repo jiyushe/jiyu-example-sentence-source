@@ -1,5 +1,7 @@
 # 释疑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyi_9.md)
+
 <p><span class="chinese">像约翰那样，我们必须给耶稣一个释疑的机会。</span><span class="english">Like John, we must give Jesus an opportunity to reply.</span></p>
 
 <p><span class="chinese">但后来我又想了一想，试图为自己释疑。</span><span class="english">But then I thought again and tried to restrain my doubts.</span></p>

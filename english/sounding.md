@@ -1,5 +1,7 @@
 # sounding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sounding.md)
+
 <p><span class="chinese">响沙湾？</span><span class="english">Sounding Sand Bay?</span></p>
 
 <p><span class="chinese">你们的身体是试探水深的船板。</span><span class="english">Your body is a sounding board.</span></p>

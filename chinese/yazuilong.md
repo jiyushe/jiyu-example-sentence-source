@@ -1,5 +1,7 @@
 # 鸭嘴龙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yazuilong.md)
+
 <p><span class="chinese">鸭嘴龙要吃很多针叶树叶，这些针叶树确实含有已知的致癌物。</span><span class="english">Hadrosaurs ate plenty of them and they did contain known carcinogens.</span></p>
 
 <p><span class="chinese">鸭嘴龙也称为鸭嘴兽，是白垩纪后期鸟盘目草食性恐龙家族的一员。</span><span class="english">Yazui Long also known as the platypus, is the late Cretaceous bird-head herbivorous dinosaur of a family.</span></p>

@@ -1,5 +1,7 @@
 # personae
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/personae.md)
+
 <p><span class="chinese">定义角色和工作流。</span><span class="english">Define personae and workflows.</span></p>
 
 <p><span class="chinese">请注意，这些角色完全都是非技术性的。</span><span class="english">Notice that these personae are completely nontechnical.</span></p>

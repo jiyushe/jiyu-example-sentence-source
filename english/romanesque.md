@@ -1,5 +1,7 @@
 # romanesque
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/romanesque.md)
+
 <p><span class="chinese">罗马式教堂建筑采用典型的罗马式拱券结构。</span><span class="english">Rome church-building using a typical Romanesque arch structure.</span></p>
 
 <p><span class="chinese">朱莉偏爱哥特式建筑风格，而我则更喜欢罗马式的。</span><span class="english">Julie prefers the gothic architectural style while I like romanesque.</span></p>

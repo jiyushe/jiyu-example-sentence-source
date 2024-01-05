@@ -1,5 +1,7 @@
 # evilness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evilness.md)
+
 <p><span class="chinese">人本性是被邪恶的东西吸引吗？</span><span class="english">Is human always attracted to evilness?</span></p>
 
 <p><span class="chinese">他的邪恶给他的良心让了路。</span><span class="english">His evilness gave way to his conscience.</span></p>

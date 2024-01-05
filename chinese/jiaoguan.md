@@ -1,5 +1,7 @@
 # 娇惯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoguan.md)
+
 <p><span class="chinese">不要娇惯我。</span><span class="english">Don't spoil me.</span></p>
 
 <p><span class="chinese">她像对待小孩子那样娇惯他。</span><span class="english">She coddles him like a child.</span></p>

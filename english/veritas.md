@@ -1,5 +1,7 @@
 # veritas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/veritas.md)
+
 <p><span class="chinese">哈佛的箴言是“真理”。</span><span class="english">Harvard's motto is "Veritas."</span></p>
 
 <p><span class="chinese">您的安全是真相航空的首要工作。</span><span class="english">At Veritas Airways, your safety is our first priority.</span></p>

@@ -1,5 +1,7 @@
 # sideshow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sideshow.md)
+
 <p><span class="chinese">但是这最多像是一个杂耍。</span><span class="english">But this is mostly a sideshow.</span></p>
 
 <p><span class="chinese">今年或许我再没有把玩叶子的余兴。</span><span class="english">This year I may never play leaves the sideshow.</span></p>

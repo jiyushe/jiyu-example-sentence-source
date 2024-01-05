@@ -1,5 +1,7 @@
 # 定向
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingxiang_1.md)
+
 <p><span class="chinese">重定向到下一个网页。</span><span class="english">Redirect to the next page.</span></p>
 
 <p><span class="chinese">这条链接需要重定向了。</span><span class="english">This one needs a redirect.</span></p>

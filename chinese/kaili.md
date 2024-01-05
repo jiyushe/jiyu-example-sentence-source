@@ -1,5 +1,7 @@
 # 开立
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaili.md)
+
 <p><span class="chinese">是否要开立多货币帐户？</span><span class="english">Do you wish to open Multi-Currency Account?</span></p>
 
 <p><span class="chinese">我想开立一个新加坡元的账户。</span><span class="english">I’d like to open a Singapore dollar account.</span></p>

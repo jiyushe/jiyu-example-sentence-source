@@ -1,5 +1,7 @@
 # tracer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tracer.md)
+
 <p><span class="chinese">安元奎是一个历史追溯者。</span><span class="english">An Yuankui is a tracer to history.</span></p>
 
 <p><span class="chinese">芳踪渐逝冬夜寒。</span><span class="english">Fang tracer gradually die winter cold.</span></p>

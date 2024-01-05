@@ -1,5 +1,7 @@
 # purr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/purr.md)
+
 <p><span class="chinese">她快乐地咕噜咕噜叫。</span><span class="english">She purred a happy purr.</span></p>
 
 <p><span class="chinese">我能滚球还能咕噜咕噜叫。</span><span class="english">I can roll a ball and I can purr.</span></p>

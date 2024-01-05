@@ -1,5 +1,7 @@
 # assurance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assurance.md)
+
 <p><span class="chinese">测试和质量保证。</span><span class="english">Test and quality assurance.</span></p>
 
 <p><span class="chinese">他做了一个虚情假意的承诺。</span><span class="english">He made an unctuous assurance.</span></p>

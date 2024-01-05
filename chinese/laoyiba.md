@@ -1,5 +1,7 @@
 # 捞一把
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laoyiba.md)
+
 <p><span class="chinese">我认为比尔是想伺机捞一把。</span><span class="english">I thought Bill intended to be on the grab.</span></p>
 
 <p><span class="chinese">他想在这笔肮脏的交易中捞一把。</span><span class="english">He tried to profiteer from this dirty deal.</span></p>

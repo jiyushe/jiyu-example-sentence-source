@@ -1,5 +1,7 @@
 # mari
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mari.md)
+
 <p><span class="chinese">我猜玛丽·安比我更现实。</span><span class="english">I guess Mari Ann is more practical than me.</span></p>
 
 <p><span class="chinese">我出了门，在马雷市温暖的夜晚中漫步。</span><span class="english">I wandered out into the warm night of Mari.</span></p>

@@ -1,5 +1,7 @@
 # sirian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sirian.md)
+
 <p><span class="chinese">啊，这是和天狼星的高级祭司有关系的。</span><span class="english">Ah, well this has to do with the Sirian High Priests.</span></p>
 
 <p><span class="chinese">这种人类是天狼星文明播种于地球的。</span><span class="english">Such humans were seeded upon earth by the Sirian human civilization.</span></p>

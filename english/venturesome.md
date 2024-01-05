@@ -1,5 +1,7 @@
 # venturesome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/venturesome.md)
+
 <p><span class="chinese">他是个大胆的投资者。</span><span class="english">He is a venturesome investor.</span></p>
 
 <p><span class="chinese">全部研究都是一个冒险的生意。</span><span class="english">All research is a venturesome business.</span></p>

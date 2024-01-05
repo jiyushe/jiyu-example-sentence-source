@@ -1,5 +1,7 @@
 # 馨香
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinxiang_2.md)
+
 <p><span class="chinese">当春天的馨香把他们吹遍</span><span class="english">And they are swept by balms of spring</span></p>
 
 <p><span class="chinese">尝到她温润馨香的味道她笑了。</span><span class="english">She smiled, as she tasted its rich aroma.</span></p>

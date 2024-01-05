@@ -1,5 +1,7 @@
 # flail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flail.md)
+
 <p><span class="chinese">我们并不清楚其他任何鸟类种群是否将身体充当连枷。</span><span class="english">We don't know of any other species that uses its body like a flail.</span></p>
 
 <p><span class="chinese">目的探讨创伤性连枷胸的治疗经验。</span><span class="english">Objective To discuss the surgical experience of traumatic flail chest.</span></p>

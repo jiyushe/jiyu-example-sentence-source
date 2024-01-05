@@ -1,5 +1,7 @@
 # ineffectual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ineffectual.md)
+
 <p><span class="chinese">抢救无效。</span><span class="english">All rescue measures proved ineffectual.</span></p>
 
 <p><span class="chinese">所有抢救措施都证明无效。</span><span class="english">All rescue measures proved ineffectual.</span></p>

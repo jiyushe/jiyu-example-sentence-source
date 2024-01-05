@@ -1,5 +1,7 @@
 # dissenting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissenting.md)
+
 <p><span class="chinese">和谐也往往是通过对不同意见的压制实现的。</span><span class="english">Harmony is too often achieved by the repression of dissenting views.</span></p>
 
 <p><span class="chinese">它不许可有对存在的持任何异议的权利。</span><span class="english">It does not acknowledge any dissenting opinion's right to existence.</span></p>

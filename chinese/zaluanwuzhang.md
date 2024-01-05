@@ -1,5 +1,7 @@
 # 杂乱无章
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaluanwuzhang.md)
+
 <p><span class="chinese">没有线缆，没有杂乱无章。</span><span class="english">No cables, no muss, no fuss.</span></p>
 
 <p><span class="chinese">现在这些照片是杂乱无章的。</span><span class="english">Now, these pictures can be a bit messy.</span></p>

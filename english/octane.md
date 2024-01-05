@@ -1,5 +1,7 @@
 # octane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/octane.md)
+
 <p><span class="chinese">什么是“辛烷值”是什么意思？</span><span class="english">What does "octane number" mean?</span></p>
 
 <p><span class="chinese">低辛烷费用少，但你应该使用它？</span><span class="english">Lower octane costs less, but should you use it?</span></p>

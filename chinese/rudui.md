@@ -1,5 +1,7 @@
 # 入队
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rudui.md)
+
 <p><span class="chinese">如果我是教练我会将他招入队中。</span><span class="english">If I was coach, he would always be in my team.</span></p>
 
 <p><span class="chinese">我们跑得快，所以他们今年让我们如入队。</span><span class="english">We run really fast so they let us on the team this year.</span></p>

@@ -1,5 +1,7 @@
 # 故土
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gutu.md)
+
 <p><span class="chinese">故土不离不亲，人不离不近。</span><span class="english">Home from close, people do not close.</span></p>
 
 <p><span class="chinese">红色故土长眠千万壮士英豪。</span><span class="english">The red land with thousand of heroes sleeping in.</span></p>

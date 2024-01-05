@@ -1,5 +1,7 @@
 # universalist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/universalist.md)
+
 <p><span class="chinese">普遍论者的立场改由一条间接的途径得出。</span><span class="english">The universalist position is arrived at instead by an indirect route.</span></p>
 
 <p><span class="chinese">星期天她会去沿途的一神信普救教堂。</span><span class="english">On Sundays, she goes to Unitarian Universalist churches along the way.</span></p>

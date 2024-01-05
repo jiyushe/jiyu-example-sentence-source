@@ -1,5 +1,7 @@
 # dover
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dover.md)
+
 <p><span class="chinese">多佛尔版。</span><span class="english">Dover Edition.</span></p>
 
 <p><span class="chinese">是多佛邮车吗？</span><span class="english">Is that the Dover mail?</span></p>

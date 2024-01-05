@@ -1,5 +1,7 @@
 # waif
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waif.md)
+
 <p><span class="chinese">我是一个流浪者。</span><span class="english">I am a waif.</span></p>
 
 <p><span class="chinese">街上有一个流浪儿正在乞讨。</span><span class="english">A waif is begging on the street.</span></p>

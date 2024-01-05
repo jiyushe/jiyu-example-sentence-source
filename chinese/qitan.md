@@ -1,5 +1,7 @@
 # 奇谈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qitan.md)
+
 <p><span class="chinese">很多心理学家都是夸夸奇谈，不实之徒。</span><span class="english">A lot of psychology is charlatanry, chicanery.</span></p>
 
 <p><span class="chinese">德约科维奇谈到高达华氏95度的气温，“但是，情况就是那样，我只得尽力去应付。</span><span class="english">But, you know, that was the situation. I just have to cope with it.</span></p>

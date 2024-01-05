@@ -1,5 +1,7 @@
 # 献血
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianxue.md)
+
 <p><span class="chinese">献血是我们的义务。</span><span class="english">To donate is our duty.</span></p>
 
 <p><span class="chinese">我为什么应该献血？</span><span class="english">Why should I donate blood?</span></p>

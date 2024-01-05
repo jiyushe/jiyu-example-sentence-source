@@ -1,5 +1,7 @@
 # desalt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/desalt.md)
+
 <p><span class="chinese">淡化各种色斑，抚平细小皱纹。</span><span class="english">Desalt all kinds of splashes and smooth tiny wrinkles.</span></p>
 
 <p><span class="chinese">怎么样才可以让身上的疤淡化?。</span><span class="english">How can ability let the scar desalt that goes up personally?</span></p>

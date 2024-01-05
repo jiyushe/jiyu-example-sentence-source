@@ -1,5 +1,7 @@
 # glutinous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glutinous.md)
+
 <p><span class="chinese">汤圆是由糯米粉做成的。</span><span class="english">Tangyuan is made from glutinous rice flour.</span></p>
 
 <p><span class="chinese">我早知叫只糯米鸡。</span><span class="english">I should, ve ordered glutinous rice chicken.</span></p>

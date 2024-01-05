@@ -1,5 +1,7 @@
 # 胖乎乎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/panghuhu.md)
+
 <p><span class="chinese">她现在变得胖乎乎的。</span><span class="english">She is beginning to plump out now.</span></p>
 
 <p><span class="chinese">在苹果星球里，住着一条胖乎乎的肉虫子。</span><span class="english">There is a fat worm living in this planet.</span></p>

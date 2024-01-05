@@ -1,5 +1,7 @@
 # cirrhosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cirrhosis.md)
+
 <p><span class="chinese">肝硬化是威胁到生命安全的。</span><span class="english">Cirrhosis of the liver is life threatening.</span></p>
 
 <p><span class="chinese">部分脂肪肝可发展为脂肪性肝炎、肝硬化。</span><span class="english">Some cases may progress to fatty hepatitis and cirrhosis.</span></p>

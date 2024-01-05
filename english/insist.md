@@ -1,5 +1,7 @@
 # insist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insist.md)
+
 <p><span class="chinese">坚持家庭聚餐。</span><span class="english">Insist on family meals.</span></p>
 
 <p><span class="chinese">哦，亲爱的。如果你坚持的话。</span><span class="english">Yes daer. If you insist.</span></p>

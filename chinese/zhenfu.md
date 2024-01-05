@@ -1,5 +1,7 @@
 # 振幅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenfu.md)
+
 <p><span class="chinese">这是振幅。</span><span class="english">This is the amplitude.</span></p>
 
 <p><span class="chinese">小振幅的振动剪切流。</span><span class="english">Small-amplitude oscillatory shear flow.</span></p>

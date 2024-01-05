@@ -1,5 +1,7 @@
 # jest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jest.md)
+
 <p><span class="chinese">真笑话非笑话。</span><span class="english">A true jest is no jest.</span></p>
 
 <p><span class="chinese">宁失一虐，不失一友。</span><span class="english">Better lose a jest than a friend.</span></p>

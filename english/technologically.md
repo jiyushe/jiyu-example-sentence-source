@@ -1,5 +1,7 @@
 # technologically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/technologically.md)
+
 <p><span class="chinese">此外，还介绍了HN-5C在技术上所进行的重要改进。</span><span class="english">Moreover, It also briefs technologically the important improvements.</span></p>
 
 <p><span class="chinese">使用先进技术的冷却风扇托盘为系统降温。</span><span class="english">Cool your system with our technologically advanced colling fan trays.</span></p>

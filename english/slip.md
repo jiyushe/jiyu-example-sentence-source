@@ -1,5 +1,7 @@
 # slip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slip.md)
+
 <p><span class="chinese">我的衬裙露出来了吗?</span><span class="english">Did my slip show?</span></p>
 
 <p><span class="chinese">跟我别玩花样。</span><span class="english">Don't slip up to me!</span></p>

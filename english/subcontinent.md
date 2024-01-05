@@ -1,5 +1,7 @@
 # subcontinent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subcontinent.md)
+
 <p><span class="chinese">海的那一边有富饶的印度次大陆。</span><span class="english">Beyond this ocean lies the rich subcontinent of India.</span></p>
 
 <p><span class="chinese">基孔肯雅热发生在非洲、亚洲和印度次大陆。</span><span class="english">Chikungunya occurs in Africa, Asia and the Indian subcontinent.</span></p>

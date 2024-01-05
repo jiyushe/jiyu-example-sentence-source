@@ -1,5 +1,7 @@
 # stably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stably.md)
+
 <p><span class="chinese">轮子转得又快又稳。</span><span class="english">The wheel turns as fast as stably.</span></p>
 
 <p><span class="chinese">这样可以站得稳一点。</span><span class="english">This way, we can stand more stably.</span></p>

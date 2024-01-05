@@ -1,5 +1,7 @@
 # 委托
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weituo.md)
+
 <p><span class="chinese">说明一个双参数委托。</span><span class="english">Describes a two-argument delegate.</span></p>
 
 <p><span class="chinese">我委托他传送。</span><span class="english">I entrusted him with its transmission.</span></p>

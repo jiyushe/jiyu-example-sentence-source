@@ -1,5 +1,7 @@
 # prognostication
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prognostication.md)
+
 <p><span class="chinese">从“全球变暖教堂”传出更多预言。</span><span class="english">More prognostication from the Church of Global Warming.</span></p>
 
 <p><span class="chinese">迄今为止，预言往往是一种最具风险的专家言论。</span><span class="english">Prognostication is by far the riskiest form of punditry.</span></p>

@@ -1,5 +1,7 @@
 # ethnic 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ethnic.md)
+
 <p><span class="chinese">三道茶是白族的一种饮茶习俗。</span><span class="english">It's a Bai ethnic tea tradition.</span></p>
 
 <p><span class="chinese">新疆是个少数民族问题的火药箱。</span><span class="english">Xijiang is an ethnic tinder-box.</span></p>

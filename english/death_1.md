@@ -1,5 +1,7 @@
 # death 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/death_1.md)
+
 <p><span class="chinese">死亡和交税.</span><span class="english">Death and taxes.</span></p>
 
 <p><span class="chinese">死亡就是终结。</span><span class="english">Death is the end.</span></p>

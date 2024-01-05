@@ -1,5 +1,7 @@
 # 散失
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanshi_1.md)
+
 <p><span class="chinese">烟对于防止热量散失没有作用。</span><span class="english">Smoke has no value in preventing heat-loss.</span></p>
 
 <p><span class="chinese">结果其中大部分能量散失于空气中。</span><span class="english">As a result, much of the energy is lost to air.</span></p>

@@ -1,5 +1,7 @@
 # 极乐世界
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jileshijie.md)
+
 <p><span class="chinese">那些极乐世界的仙女们。</span><span class="english">Those fairy forms of bliss Elysian.</span></p>
 
 <p><span class="chinese">极乐世界是有快乐和悲伤的吗？</span><span class="english">Is Elysium there are joy and sadness?</span></p>

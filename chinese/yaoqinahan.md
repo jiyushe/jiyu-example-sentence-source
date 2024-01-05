@@ -1,5 +1,7 @@
 # 摇旗呐喊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoqinahan.md)
+
 <p><span class="chinese">他们都是些摇旗呐喊的人。</span><span class="english">They are waver of flags and shouters of slogans.</span></p>
 
 <p><span class="chinese">他们是摇旗呐喊之辈。</span><span class="english">They are wavers of flags and shouters of slogans.</span></p>

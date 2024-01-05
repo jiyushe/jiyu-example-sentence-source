@@ -1,5 +1,7 @@
 # kindergarten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kindergarten.md)
+
 <p><span class="chinese">去我的幼儿园。</span><span class="english">To my kindergarten.</span></p>
 
 <p><span class="chinese">那个幼儿园里的虎子很多。</span><span class="english">It is in the kindergarten.</span></p>

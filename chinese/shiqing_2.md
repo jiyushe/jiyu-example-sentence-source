@@ -1,5 +1,7 @@
 # 实情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiqing_2.md)
+
 <p><span class="chinese">他讲的是确凿不移的实情。</span><span class="english">He told the strict truth.</span></p>
 
 <p><span class="chinese">他告诉了我实情。</span><span class="english">And he tells me the truth.</span></p>

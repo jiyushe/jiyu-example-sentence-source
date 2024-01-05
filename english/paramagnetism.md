@@ -1,5 +1,7 @@
 # paramagnetism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paramagnetism.md)
+
 <p><span class="chinese">产生的结果就是顺磁性。</span><span class="english">And so what happens is the result is paramagnetism.</span></p>
 
 <p><span class="chinese">这会导致顺磁性,这是因为有相互诱导作用。</span><span class="english">Here this leads to paramagnetism because there is some mutual induction.</span></p>

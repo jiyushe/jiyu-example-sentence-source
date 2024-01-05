@@ -1,5 +1,7 @@
 # degradable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/degradable.md)
+
 <p><span class="chinese">磷酸酯类聚合物在自然界中可以降解，是环境友好的化学品。</span><span class="english">Phosphate ester polymers are degradable in nature, and environment-friendly.</span></p>
 
 <p><span class="chinese">用它制造的瓶子、酸奶杯和糖果包装都是可降解的。</span><span class="english">Bottles, yogurt tubs o candy wrappers made of LeanMaterial would all be degradable.</span></p>

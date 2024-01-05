@@ -1,5 +1,7 @@
 # pardonable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pardonable.md)
+
 <p><span class="chinese">不会追究犯了那么小的舛讹的。</span><span class="english">Such a small mistake is pardonable.</span></p>
 
 <p><span class="chinese">难怪我这么喜欢看电影。</span><span class="english">Pardonable I like to see a movie so.</span></p>

@@ -1,5 +1,7 @@
 # 联机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianji.md)
+
 <p><span class="chinese">第二种模式是始终联机模式。</span><span class="english">The next pattern is the always-online pattern.</span></p>
 
 <p><span class="chinese">使您可以搜索其他联机帮助。</span><span class="english">Allows you to search for additional help online.</span></p>

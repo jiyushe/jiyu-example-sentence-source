@@ -1,5 +1,7 @@
 # kerala
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kerala.md)
+
 <p><span class="chinese">印度的喀拉拉邦便是一例。</span><span class="english">India's Kerala state is one such example.</span></p>
 
 <p><span class="chinese">这些工作主要以加尔各答，海德拉巴和喀拉拉邦为中心。</span><span class="english">The work is centered in Kolkata, Hyderabad and Kerala province.</span></p>

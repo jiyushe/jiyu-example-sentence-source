@@ -1,5 +1,7 @@
 # splendidly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/splendidly.md)
+
 <p><span class="chinese">圣乔治堂被布置得富丽堂皇。</span><span class="english">St. George's Hall was splendidly decorated.</span></p>
 
 <p><span class="chinese">那位老妇人穿著更为华丽。</span><span class="english">The old woman dressed even more splendidly.</span></p>

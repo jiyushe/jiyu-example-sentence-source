@@ -1,5 +1,7 @@
 # allude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allude.md)
+
 <p><span class="chinese">你且谈另外一件吧。</span><span class="english">You allude to something else.</span></p>
 
 <p><span class="chinese">我并未影射如何人或任何事。</span><span class="english">I didn't allude to anybody or anything.</span></p>

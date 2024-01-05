@@ -1,5 +1,7 @@
 # 踏青
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taqing.md)
+
 <p><span class="chinese">我们应去哪里踏青？</span><span class="english">Where shall we go for outing?</span></p>
 
 <p><span class="chinese">踏青又叫春游。</span><span class="english">Outing also known as spring tour.</span></p>

@@ -1,5 +1,7 @@
 # clayton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clayton.md)
+
 <p><span class="chinese">皮尔在1996年至2004年期间是克莱顿尤治的律师。</span><span class="english">Pill was a Clayton Utz lawyer from 1996 to 2004.</span></p>
 
 <p><span class="chinese">在克莱顿的抒情的小酒馆再喝上最后一杯咖啡。</span><span class="english">To drink one last cup of coffeeat the Lyric Bistro in Clayton.</span></p>

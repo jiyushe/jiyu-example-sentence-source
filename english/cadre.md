@@ -1,5 +1,7 @@
 # cadre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cadre.md)
+
 <p><span class="chinese">学期的班干部竞选也开始了。</span><span class="english">The class cadre campaign began.</span></p>
 
 <p><span class="chinese">她的母亲也是个忠诚的干部。</span><span class="english">Her mother was another loyal cadre.</span></p>

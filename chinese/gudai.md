@@ -1,5 +1,7 @@
 # 古代
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gudai.md)
+
 <p><span class="chinese">那是一个古代的蓄水池。</span><span class="english">It is an old cistern.</span></p>
 
 <p><span class="chinese">这就是古代的云锦吧？</span><span class="english">Is this ancient Yunjin?</span></p>

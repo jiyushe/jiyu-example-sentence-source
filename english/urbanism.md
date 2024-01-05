@@ -1,5 +1,7 @@
 # urbanism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/urbanism.md)
+
 <p><span class="chinese">如果新都市主义不解决问题，什么将会解决呢？</span><span class="english">If the New Urbanism Does Not Solve the Issue, What will?</span></p>
 
 <p><span class="chinese">高楼林立的都市生活使人们更渴望亲近自然。</span><span class="english">The urbanism with bristly high-rise makes people longs to be close to nature more.</span></p>

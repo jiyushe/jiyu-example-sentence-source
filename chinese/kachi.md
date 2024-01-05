@@ -1,5 +1,7 @@
 # 卡尺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kachi.md)
+
 <p><span class="chinese">你可以购买自己的卡尺。</span><span class="english">You can buy your own calipers.</span></p>
 
 <p><span class="chinese">提出一些使用数字卡尺时常见的问题。</span><span class="english">Presents the common issues in using digital callipers.</span></p>

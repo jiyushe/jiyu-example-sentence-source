@@ -1,5 +1,7 @@
 # stretcher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stretcher.md)
+
 <p><span class="chinese">担架上的一位男士开始呼吸沉重。</span><span class="english">A man on a stretcher begins to breathe heavily.</span></p>
 
 <p><span class="chinese">他们在担架旁围得更紧了。</span><span class="english">They crowded more closely around the stretcher.</span></p>

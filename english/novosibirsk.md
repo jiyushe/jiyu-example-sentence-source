@@ -1,5 +1,7 @@
 # novosibirsk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/novosibirsk.md)
+
 <p><span class="chinese">这是新西伯利亚最高的建筑群。</span><span class="english">This stack is the highest construction in Novosibirsk.</span></p>
 
 <p><span class="chinese">久闻新西伯利亚有座科学城。</span><span class="english">I have long heard about the Science City of Novosibirsk.</span></p>

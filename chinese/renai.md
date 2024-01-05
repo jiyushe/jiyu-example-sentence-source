@@ -1,5 +1,7 @@
 # 仁爱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renai.md)
+
 <p><span class="chinese">我要去仁爱国小上学。</span><span class="english">I go to Ren-Ai Elementary school.</span></p>
 
 <p><span class="chinese">没有仁爱的美丽毫无用处。</span><span class="english">Beauty without bounty avails nought.</span></p>

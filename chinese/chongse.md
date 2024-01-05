@@ -1,5 +1,7 @@
 # 充塞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongse.md)
+
 <p><span class="chinese">很轻易就充塞那小小的剧院。</span><span class="english">Filling the little theatre. with ease.</span></p>
 
 <p><span class="chinese">鱼的瀑布，青花鱼充塞的大海</span><span class="english">The salmon-falls, the mackerel-crowded seas</span></p>

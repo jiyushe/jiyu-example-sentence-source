@@ -1,5 +1,7 @@
 # parsimonious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parsimonious.md)
+
 <p><span class="chinese">而物理学家的原则是使用尽量少的假定。</span><span class="english">And physicists are very parsimonious with postulates.</span></p>
 
 <p><span class="chinese">不赊吗？我需要在离婚后继续活着！</span><span class="english">Parsimonious? I still need to make a living after divorce!</span></p>

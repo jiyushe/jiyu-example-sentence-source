@@ -1,5 +1,7 @@
 # eyeshot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eyeshot.md)
+
 <p><span class="chinese">当浮空平台摇摆幅度较大时，地标上的某些信标点可能会偏出视场。</span><span class="english">Sometimes, the platform may shake acutely, and the beaconing can leave the eyeshot of CCD.</span></p>
 
 <p><span class="chinese">为此，唐格视界提供品牌战略系统化服务起到了肯定性的作用。</span><span class="english">To this end, Tanger Eyeshot plays a positive roal in providing brand strategy systematic services.</span></p>

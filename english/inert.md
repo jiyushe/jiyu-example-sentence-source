@@ -1,5 +1,7 @@
 # inert
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inert.md)
+
 <p><span class="chinese">没有惰性气体。</span><span class="english">There's no inert gas.</span></p>
 
 <p><span class="chinese">它们的化学性质不活泼。</span><span class="english">They are chemically inert.</span></p>

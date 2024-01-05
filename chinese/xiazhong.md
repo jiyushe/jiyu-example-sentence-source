@@ -1,5 +1,7 @@
 # 下种
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiazhong.md)
+
 <p><span class="chinese">这种子用撒播法下种。</span><span class="english">The seeds were sown broadcast.</span></p>
 
 <p><span class="chinese">农民往地里下种。</span><span class="english">Farmers put seed in the ground.</span></p>

@@ -1,5 +1,7 @@
 # 人满为患
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renmanweihuan.md)
+
 <p><span class="chinese">斯利那加的旅馆、游艇、餐馆都人满为患。</span><span class="english">Srinagar's hotels, houseboats and cafés are crammed.</span></p>
 
 <p><span class="chinese">芭比专卖店在周末的这个时候人满为患。</span><span class="english">The Barbie store is packed on weekends at the moment.</span></p>

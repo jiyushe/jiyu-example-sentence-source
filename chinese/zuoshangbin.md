@@ -1,5 +1,7 @@
 # 座上宾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoshangbin.md)
+
 <p><span class="chinese">真是“昨日冷落客，今日座上宾”。</span><span class="english">A "cold-shouldered off yesterday, today Zuoshang Bin."</span></p>
 
 <p><span class="chinese">他是国际名流和皇室的座上宾。</span><span class="english">He is a favorite of international socialites and royalty.</span></p>

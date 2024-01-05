@@ -1,5 +1,7 @@
 # dope
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dope.md)
+
 <p><span class="chinese">不要紧，他知道自己只是愣神了。</span><span class="english">It don't matter, he's dope.</span></p>
 
 <p><span class="chinese">原液染色，永不退色。</span><span class="english">Fourth, dope dyed, will never fade.</span></p>

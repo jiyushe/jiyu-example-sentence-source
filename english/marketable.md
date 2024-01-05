@@ -1,5 +1,7 @@
 # marketable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marketable.md)
+
 <p><span class="chinese">丝绸服装的销路不错。</span><span class="english">The silk garment is a widely marketable product.</span></p>
 
 <p><span class="chinese">这种型号的电脑可能很有销路。</span><span class="english">The type of computer may be very marketable in my.</span></p>

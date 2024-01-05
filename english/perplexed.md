@@ -1,5 +1,7 @@
 # perplexed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perplexed.md)
+
 <p><span class="chinese">我完全不知所措。</span><span class="english">I was perplexed.</span></p>
 
 <p><span class="chinese">儿子满眼不惑。</span><span class="english">Son eyeful perplexed.</span></p>

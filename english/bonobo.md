@@ -1,5 +1,7 @@
 # bonobo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bonobo.md)
+
 <p><span class="chinese">倭黑猩猩是猿的一种。</span><span class="english">The bonobo is a type of ape.</span></p>
 
 <p><span class="chinese">女性更善于使用工具？</span><span class="english">bonobo females better tool users than males.</span></p>

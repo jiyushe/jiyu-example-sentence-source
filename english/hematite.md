@@ -1,5 +1,7 @@
 # hematite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hematite.md)
+
 <p><span class="chinese">赤铁矿是一种具有深红颜色的氧化铁。</span><span class="english">Hematite is an iron oxide that is deep red in color.</span></p>
 
 <p><span class="chinese">安徽庐江龙桥铁矿属一大型隐伏磁铁矿矿床。</span><span class="english">Iron ores of greatest economic interest contain magnetite and hematite.</span></p>

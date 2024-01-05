@@ -1,5 +1,7 @@
 # unsuccessfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsuccessfully.md)
+
 <p><span class="chinese">研究者们在基于血液的探索中已经失败过。</span><span class="english">Researchers have tried unsuccessfully to use blood.</span></p>
 
 <p><span class="chinese">菲奥莉娜女士去年曾竞选参议员失利。</span><span class="english">Ms Fiorina ran unsuccessfully for the Senate last year.</span></p>

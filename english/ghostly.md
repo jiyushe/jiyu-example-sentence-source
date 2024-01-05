@@ -1,5 +1,7 @@
 # ghostly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ghostly.md)
+
 <p><span class="chinese">雾中显现出影影绰绰的轮廓。</span><span class="english">Ghostly shapes loomed out of the fog.</span></p>
 
 <p><span class="chinese">她吓得面色惨白。</span><span class="english">Her face was ghostly pale with fright.</span></p>

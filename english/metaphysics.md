@@ -1,5 +1,7 @@
 # metaphysics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metaphysics.md)
+
 <p><span class="chinese">这就是柏拉图眼中的形而上学</span><span class="english">That's Plato's picture of metaphysics.</span></p>
 
 <p><span class="chinese">假设我们承认这些形而上学。</span><span class="english">Suppose we accept all that metaphysics.</span></p>

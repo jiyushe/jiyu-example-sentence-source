@@ -1,5 +1,7 @@
 # 无效
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuxiao.md)
+
 <p><span class="chinese">这契约无效。</span><span class="english">The contract is void.</span></p>
 
 <p><span class="chinese">他的一切尝试全归无效。</span><span class="english">All his try are in vain.</span></p>

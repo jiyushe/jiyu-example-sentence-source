@@ -1,5 +1,7 @@
 # bearish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bearish.md)
+
 <p><span class="chinese">欧元人气极度利空**</span><span class="english">EXTREME BEARISH EURO SENTIMENT</span></p>
 
 <p><span class="chinese">许多投资商都‘熊市’的关系而悲观失望。</span><span class="english">Many investors were cast down for the bearish market.</span></p>

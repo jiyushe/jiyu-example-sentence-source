@@ -1,5 +1,7 @@
 # 木架
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mujia.md)
+
 <p><span class="chinese">放在两个木架上，上面盖了一块盖棺布。</span><span class="english">It stands on two trestles, under the pall.</span></p>
 
 <p><span class="chinese">船的木架在暴风雨中发出声响。</span><span class="english">The ship 's timbers groaned during the storm.</span></p>

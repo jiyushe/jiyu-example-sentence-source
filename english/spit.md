@@ -1,5 +1,7 @@
 # spit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spit.md)
+
 <p><span class="chinese">有虫吐出即愈。</span><span class="english">Worm spit Jiyu.</span></p>
 
 <p><span class="chinese">烤肉店吐出。</span><span class="english">Rotisserie spit.</span></p>

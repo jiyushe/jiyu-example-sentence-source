@@ -1,5 +1,7 @@
 # multispectral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multispectral.md)
+
 <p><span class="chinese">提出一种三维多光谱图像数据压缩的新方法。</span><span class="english">A new method is proposed for multispectral image data compression.</span></p>
 
 <p><span class="chinese">本文讨论了航天遥感多光谱扫描仪的辐射灵敏度计算。</span><span class="english">Calculation of radiant sensitivity for space-borne multispectral scanner is presented.</span></p>

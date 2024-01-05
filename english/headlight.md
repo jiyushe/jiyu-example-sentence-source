@@ -1,5 +1,7 @@
 # headlight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/headlight.md)
+
 <p><span class="chinese">这辆车需要新的前灯。</span><span class="english">The car needs a new headlight.</span></p>
 
 <p><span class="chinese">前照灯拉出来对你。</span><span class="english">Pull headlight out towards you.</span></p>

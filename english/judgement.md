@@ -1,5 +1,7 @@
 # judgement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/judgement.md)
+
 <p><span class="chinese">会如此出现在审判日。</span><span class="english">Come on Judgement Day.</span></p>
 
 <p><span class="chinese">他相信他的判断。</span><span class="english">He trusted in his judgement.</span></p>

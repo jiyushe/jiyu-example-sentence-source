@@ -1,5 +1,7 @@
 # 物性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuxing_5.md)
+
 <p><span class="chinese">它是一种无创伤非药物性绿色的自然疗法。</span><span class="english">It is a green naturopathy without insult and drugs.</span></p>
 
 <p><span class="chinese">进一步的信息，请参考我们的物性表，或与我们联系。</span><span class="english">For further details please refer to our data sheets or contact us.</span></p>

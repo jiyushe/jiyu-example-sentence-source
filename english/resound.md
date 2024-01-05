@@ -1,5 +1,7 @@
 # resound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resound.md)
+
 <p><span class="chinese">号角声和锣鼓声回荡山谷。</span><span class="english">The trumpets and drums resound.</span></p>
 
 <p><span class="chinese">他的名字将万古流芳。</span><span class="english">His name will resound through ages.</span></p>

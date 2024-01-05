@@ -1,5 +1,7 @@
 # unpersuasive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unpersuasive.md)
+
 <p><span class="chinese">谁找到这个论点不太可信的地方？</span><span class="english">Who finds that argument unpersuasive?</span></p>
 
 <p><span class="chinese">它是有说服力的，还是没有。</span><span class="english">whether it's persuasive or unpersuasive.</span></p>

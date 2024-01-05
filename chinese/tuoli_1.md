@@ -1,5 +1,7 @@
 # 脱粒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuoli_1.md)
+
 <p><span class="chinese">我们同在打扫脱粒桨。</span><span class="english">On we sweep with threshing oar.</span></p>
 
 <p><span class="chinese">他将你们脱粒，使你们赤裸。</span><span class="english">He threshes you to make you naked.</span></p>

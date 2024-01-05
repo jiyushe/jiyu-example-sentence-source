@@ -1,5 +1,7 @@
 # tenet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tenet.md)
+
 <p><span class="chinese">这是他们宗教的基本原则。</span><span class="english">It is a basic tenet of their religion.</span></p>
 
 <p><span class="chinese">地势坤，君子以厚德载物“。</span><span class="english">Terrain-kun, the gentleman should tenet"."</span></p>

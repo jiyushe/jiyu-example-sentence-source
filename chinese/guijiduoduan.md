@@ -1,5 +1,7 @@
 # 诡计多端
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guijiduoduan.md)
+
 <p><span class="chinese">他是诡计多端的老狐狸。</span><span class="english">He’s a cunning old fox.</span></p>
 
 <p><span class="chinese">他真是诡计多端。</span><span class="english">He's real sly and crafty.</span></p>

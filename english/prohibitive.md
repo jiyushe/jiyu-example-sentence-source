@@ -1,5 +1,7 @@
 # prohibitive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prohibitive.md)
+
 <p><span class="chinese">费用高得使人不敢问津。</span><span class="english">The expense is prohibitive.</span></p>
 
 <p><span class="chinese">索道运行过程中，请勿吸烟。</span><span class="english">Smoking is prohibitive in process of the cableway.</span></p>

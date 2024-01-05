@@ -1,5 +1,7 @@
 # 极为
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiwei.md)
+
 <p><span class="chinese">这令我极为关切。</span><span class="english">This concerns me deeply.</span></p>
 
 <p><span class="chinese">那曲新戏剧极为滑稽可笑。</span><span class="english">The new play was a scream.</span></p>

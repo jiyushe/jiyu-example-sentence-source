@@ -1,5 +1,7 @@
 # osa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/osa.md)
+
 <p><span class="chinese">在后来他也被诊断患有严重的阻塞性睡眠呼吸暂停综合症。</span><span class="english">He, too, was diagnosed later with severe OSA.</span></p>
 
 <p><span class="chinese">机动车相撞是阻塞性睡眠呼吸暂停综合症患者的另一个危险。</span><span class="english">Motor-vehicle crashes are another risk in people with OSA.</span></p>

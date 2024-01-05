@@ -1,5 +1,7 @@
 # taipei
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taipei.md)
+
 <p><span class="chinese">台北我们需要同志模范生吗?。</span><span class="english">Do Taipei need Gay symbol?</span></p>
 
 <p><span class="chinese">台北市精致租屋服务。</span><span class="english">Taipei apartment for rent.</span></p>

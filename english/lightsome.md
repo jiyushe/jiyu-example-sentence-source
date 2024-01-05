@@ -1,5 +1,7 @@
 # lightsome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lightsome.md)
+
 <p><span class="chinese">如此的轻盈妩媚！</span><span class="english">So lightsome and ethereal and seductive!</span></p>
 
 <p><span class="chinese">尽可能地让书房多一些轻盈。</span><span class="english">Make a study as far as possible some more lightsome.</span></p>

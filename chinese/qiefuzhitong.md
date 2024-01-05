@@ -1,5 +1,7 @@
 # 切肤之痛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiefuzhitong.md)
+
 <p><span class="chinese">太太身故后，他感到切肤之痛。</span><span class="english">He was rather cut up after his wife passed away.</span></p>
 
 <p><span class="chinese">不过仅仅是到了日本公司才感到切肤之痛。</span><span class="english">But only now are Japanese companies starting to feel the real pinch.</span></p>

@@ -1,5 +1,7 @@
 # proactive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proactive.md)
+
 <p><span class="chinese">这是积极的东西。</span><span class="english">So it's a proactive thing.</span></p>
 
 <p><span class="chinese">对此，你必须要主动。</span><span class="english">You have to be proactive about this.</span></p>

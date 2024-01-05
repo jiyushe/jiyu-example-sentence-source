@@ -1,5 +1,7 @@
 # that
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/that.md)
+
 <p><span class="chinese">又是那首诗。</span><span class="english">That poem!</span></p>
 
 <p><span class="chinese">我照做了。</span><span class="english">I did that.</span></p>

@@ -1,5 +1,7 @@
 # unfruitful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unfruitful.md)
+
 <p><span class="chinese">停止无谓的努力。</span><span class="english">Stop unfruitful effort.</span></p>
 
 <p><span class="chinese">就算房间再多、再大，也是徒然。</span><span class="english">Consider a room again again much, big, also be unfruitful.</span></p>

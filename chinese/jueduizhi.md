@@ -1,5 +1,7 @@
 # 绝对值
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jueduizhi.md)
+
 <p><span class="chinese">它绝对值得一看。</span><span class="english">It’s worth seeing.</span></p>
 
 <p><span class="chinese">这些人的糖化血红蛋白绝对值下降了0.53。</span><span class="english">The absolute drop in a1c was 0.53</span></p>

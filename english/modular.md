@@ -1,5 +1,7 @@
 # modular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/modular.md)
+
 <p><span class="chinese">训练模块控制面板。</span><span class="english">A training modular control panel.</span></p>
 
 <p><span class="chinese">因此，我们需要一个更模块化的方法。</span><span class="english">So we needed a more modular approach.</span></p>

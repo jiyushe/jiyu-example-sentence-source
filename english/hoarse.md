@@ -1,5 +1,7 @@
 # hoarse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hoarse.md)
+
 <p><span class="chinese">我咳得声音都沙哑了。</span><span class="english">I have a hoarse cough.</span></p>
 
 <p><span class="chinese">他叫嚷得嗓子都哑了。</span><span class="english">He raved himself hoarse.</span></p>

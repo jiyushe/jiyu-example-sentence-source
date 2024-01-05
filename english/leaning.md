@@ -1,5 +1,7 @@
 # leaning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leaning.md)
+
 <p><span class="chinese">你同意还是反对这个计划？</span><span class="english">He is leaning agaist the tree.</span></p>
 
 <p><span class="chinese">那座塔轻微倾斜。</span><span class="english">The tower is leaning slightly.</span></p>

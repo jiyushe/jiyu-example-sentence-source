@@ -1,5 +1,7 @@
 # liaoning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liaoning.md)
+
 <p><span class="chinese">我是辽宁人。</span><span class="english">I am from Liaoning.</span></p>
 
 <p><span class="chinese">杨利伟是辽宁人。</span><span class="english">Yang Liwei is from Liaoning.</span></p>

@@ -1,5 +1,7 @@
 # 早操
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaocao.md)
+
 <p><span class="chinese">你早晨做早操吗/锻炼吗?。</span><span class="english">Do you do morning exercises?</span></p>
 
 <p><span class="chinese">我们在做早操！</span><span class="english">We are doing morning exercise!</span></p>

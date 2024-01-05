@@ -1,5 +1,7 @@
 # harpy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harpy.md)
+
 <p><span class="chinese">实际上，我喜欢鹰妖。</span><span class="english">Besides, I loved the harpy.</span></p>
 
 <p><span class="chinese">命运提醒我，不要以貌取人。</span><span class="english">Fate has reminded me not to be such a judgmental harpy.</span></p>

@@ -1,5 +1,7 @@
 # franchiser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/franchiser.md)
+
 <p><span class="chinese">供货商与经销商的关系是卖家与买家的关系。</span><span class="english">The relationship between the supplier and franchiser is the seller and buyer.</span></p>
 
 <p><span class="chinese">特许人不得假借特许经营的名义，非法从事传销活动。</span><span class="english">No franchiser may undertake illegal pyramid selling activities in the name of franchising.</span></p>

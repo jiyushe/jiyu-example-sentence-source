@@ -1,5 +1,7 @@
 # 凝集
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ningji.md)
+
 <p><span class="chinese">我总会深深地被兄弟们的凝集力激动着。</span><span class="english">I was deeply touched by the brothers cohesion.</span></p>
 
 <p><span class="chinese">在试管凝集反应中，水浴温度为40℃，可延缓自凝现象的出现。</span><span class="english">So did it in tube agglutination conducted in bath at 40℃.</span></p>

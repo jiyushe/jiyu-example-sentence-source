@@ -1,5 +1,7 @@
 # threadbare
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/threadbare.md)
+
 <p><span class="chinese">骄傲可能会潜藏在穿旧的斗篷下。</span><span class="english">Pride may lurk under a threadbare cloak.</span></p>
 
 <p><span class="chinese">我的衣服和鞋子一直要穿到破了为止。</span><span class="english">I use my clothes and shoes until they are threadbare. Really.</span></p>

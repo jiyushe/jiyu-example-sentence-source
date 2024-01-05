@@ -1,5 +1,7 @@
 # overbought
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overbought.md)
+
 <p><span class="chinese">是否已超买?</span><span class="english">OVERBOUGHT?</span></p>
 
 <p><span class="chinese">M30已进入87的超买区域，但未形成下探信号。</span><span class="english">M30 has entered the overbought area 87, but failed to test a low-signal.</span></p>

@@ -1,5 +1,7 @@
 # impartiality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impartiality.md)
+
 <p><span class="chinese">法官最要紧的是公正无私。</span><span class="english">Impartiality is absolutely essential to a judge.</span></p>
 
 <p><span class="chinese">他已经危机他公正的名声。</span><span class="english">He has compromised his reputation for impartiality.</span></p>

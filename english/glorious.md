@@ -1,5 +1,7 @@
 # glorious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glorious.md)
+
 <p><span class="chinese">任何变化都可以是辉煌的。</span><span class="english">Any change can be glorious.</span></p>
 
 <p><span class="chinese">“生的伟大，死的光荣”。</span><span class="english">It's great, the glorious dead.</span></p>

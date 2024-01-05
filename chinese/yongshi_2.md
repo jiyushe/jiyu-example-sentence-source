@@ -1,5 +1,7 @@
 # 用事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongshi_2.md)
+
 <p><span class="chinese">天地不情感用事，对万物一视同仁。</span><span class="english">Heaven and earth do not act emotional, of all things equally.</span></p>
 
 <p><span class="chinese">大体有用事与用辞两端。</span><span class="english">Roughly speaking Su Dongpo used affairs and rhetoric in versifying.</span></p>

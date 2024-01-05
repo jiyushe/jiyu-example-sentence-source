@@ -1,5 +1,7 @@
 # 五花肉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuhuarou.md)
+
 <p><span class="chinese">如何挑选五花肉？</span><span class="english">How do you choose pork belly?</span></p>
 
 <p><span class="chinese">用手搅拌五花肉。最后提前一天腌制好。</span><span class="english">Stir them by hands. Cure the pork one day early.</span></p>

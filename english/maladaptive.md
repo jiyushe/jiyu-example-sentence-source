@@ -1,5 +1,7 @@
 # maladaptive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maladaptive.md)
+
 <p><span class="chinese">也就是说，市场可能适应不良。</span><span class="english">In other words, markets may be maladaptive.</span></p>
 
 <p><span class="chinese">乍一看，这种行为似乎是不适应的。</span><span class="english">At first glance, the behavior would seem to be maladaptive.</span></p>

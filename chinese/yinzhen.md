@@ -1,5 +1,7 @@
 # 银针
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinzhen.md)
+
 <p><span class="chinese">白毫银针是嫩嫩的茶芽，芽上面有白色的小细毛。</span><span class="english">It has really tender leaves. The leaves have small and tiny hair.</span></p>
 
 <p><span class="chinese">本品系选优质烘青银针绿茶，用茉莉花熏制而成。</span><span class="english">High quality dry tip green tea was chosen to fume with the jasmine.</span></p>

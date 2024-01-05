@@ -1,5 +1,7 @@
 # 缩编
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suobian.md)
+
 <p><span class="chinese">第4交响曲缩编谱，为双钢琴而作。</span><span class="english">Reduction of Symphony No. 4, for two pianos.</span></p>
 
 <p><span class="chinese">为双钢琴而作的第1钢琴协奏曲缩编谱。</span><span class="english">Reduction of Piano Concerto No. 1, for two pianos.</span></p>

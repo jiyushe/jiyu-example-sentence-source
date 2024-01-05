@@ -1,5 +1,7 @@
 # eec
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eec.md)
+
 <p><span class="chinese">这个国家是欧洲经济共同体的成员国。</span><span class="english">The country is a member country of EEC.</span></p>
 
 <p><span class="chinese">因生产过剩，欧洲共同体经济严重失衡。</span><span class="english">Over-production is seriously unbalancing the EEC economy.</span></p>

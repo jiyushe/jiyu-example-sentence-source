@@ -1,5 +1,7 @@
 # snub
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snub.md)
+
 <p><span class="chinese">丹尼尔虽然成了明星，却对李君没有怠慢半分。</span><span class="english">Although Daniel become a star, but no snub to Li Jun.</span></p>
 
 <p><span class="chinese">印度的拒绝可能被华盛顿的某些人视为对美国的怠慢。</span><span class="english">The rejection may be seen as a snub by many in Washington.</span></p>

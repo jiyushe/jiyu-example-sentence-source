@@ -1,5 +1,7 @@
 # prudential
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prudential.md)
+
 <p><span class="chinese">谭天忠正是塔克在保诚保险的继任者。</span><span class="english">Thiam is Tucker’s successor at Prudential.</span></p>
 
 <p><span class="chinese">一名保德信投资证券的发言人士并未对此立即发表评论.</span><span class="english">A Prudential Investment spokesman had no immediate comment.</span></p>

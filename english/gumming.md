@@ -1,5 +1,7 @@
 # gumming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gumming.md)
+
 <p><span class="chinese">不会产生任何形式的胶状物。</span><span class="english">Elimination of gel formation and gumming deposits.</span></p>
 
 <p><span class="chinese">史上确实有口香糖粘住了肠子的病案。</span><span class="english">There have been genuine cases of gum gumming up intestines.</span></p>

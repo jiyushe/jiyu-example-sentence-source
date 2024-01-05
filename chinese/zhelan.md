@@ -1,5 +1,7 @@
 # 遮拦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhelan.md)
+
 <p><span class="chinese">是没有生命的敌人，以保护口没遮拦自治反对。</span><span class="english">There is no life enemy to protect one's-self against.</span></p>
 
 <p><span class="chinese">他们口无遮拦，把纸张扔得满天飞。</span><span class="english">They are talking out of turn, they are throwing paper.</span></p>

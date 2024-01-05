@@ -1,5 +1,7 @@
 # pendulous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pendulous.md)
+
 <p><span class="chinese">它们的名字是从下垂的鼻子衍生而来。</span><span class="english">Their name comes from that pendulous nose.</span></p>
 
 <p><span class="chinese">喉部不应该下垂或过于夸张。</span><span class="english">The dewlap should not be pendulous and excessive.</span></p>

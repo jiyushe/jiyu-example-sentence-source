@@ -1,5 +1,7 @@
 # dacron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dacron.md)
+
 <p><span class="chinese">我认为棉布比的确良要好。</span><span class="english">I think cotton has the edge over dacron.</span></p>
 
 <p><span class="chinese">那件混纺的确良衬衣花了我九块钱。</span><span class="english">That mixed dacron shirt cost me nine yuan.</span></p>

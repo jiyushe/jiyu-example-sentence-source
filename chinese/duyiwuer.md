@@ -1,5 +1,7 @@
 # 独一无二
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duyiwuer.md)
+
 <p><span class="chinese">某种独一无二的念珠？</span><span class="english">Some unique chaplet?</span></p>
 
 <p><span class="chinese">“中心城”是独一无二的吗？</span><span class="english">Is The Center unique?</span></p>

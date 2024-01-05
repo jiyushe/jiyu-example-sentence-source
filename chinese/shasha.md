@@ -1,5 +1,7 @@
 # 沙沙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shasha.md)
+
 <p><span class="chinese">我们听到树叶沙沙响。</span><span class="english">We heard a rustle of leaves.</span></p>
 
 <p><span class="chinese">风吹树叶沙沙作响。</span><span class="english">The leaves rustled in the wind.</span></p>

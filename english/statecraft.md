@@ -1,5 +1,7 @@
 # statecraft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/statecraft.md)
+
 <p><span class="chinese">历史中有一切治国之道。</span><span class="english">In history lies all the secrets of statecraft.</span></p>
 
 <p><span class="chinese">经世致用是儒学的传统。</span><span class="english">Emphasizing statecraft is a tradition of Confucianism.</span></p>

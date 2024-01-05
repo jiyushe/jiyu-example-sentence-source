@@ -1,5 +1,7 @@
 # 敬献
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingxian_1.md)
+
 <p><span class="chinese">在教师节里，我向您敬献一份崇高的敬意。</span><span class="english">On this Teachers Day, I respectfully pay you my highest tribute.</span></p>
 
 <p><span class="chinese">所有来访的国家元首敬献花圈都是外交礼仪。</span><span class="english">It is diplomatic protocol for all visiting heads of state to lay a wreath here.</span></p>

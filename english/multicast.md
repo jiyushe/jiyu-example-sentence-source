@@ -1,5 +1,7 @@
 # multicast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multicast.md)
+
 <p><span class="chinese">创建一个多播套接字。</span><span class="english">Create a multicast socket.</span></p>
 
 <p><span class="chinese">组播链路本地地址。</span><span class="english">Multicast link-local address.</span></p>

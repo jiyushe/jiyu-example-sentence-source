@@ -1,5 +1,7 @@
 # nonchalance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonchalance.md)
+
 <p><span class="chinese">如何解释这种冷漠呢？</span><span class="english">What explains this nonchalance?</span></p>
 
 <p><span class="chinese">一些记者批评她的冷淡与漠不关心。</span><span class="english">Some journalists criticize her nonchalance and indifference.</span></p>

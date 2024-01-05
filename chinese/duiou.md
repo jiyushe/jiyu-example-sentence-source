@@ -1,5 +1,7 @@
 # 对偶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duiou.md)
+
 <p><span class="chinese">每个问题都有对偶性。</span><span class="english">Every problem has a dual equivalent.</span></p>
 
 <p><span class="chinese">“自互为对偶”是一个新概念。</span><span class="english">Self-mutual-dual" is a new concept."</span></p>

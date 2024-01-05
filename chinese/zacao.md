@@ -1,5 +1,7 @@
 # 杂草
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zacao.md)
+
 <p><span class="chinese">他们挖掉杂草。</span><span class="english">They dug out the weeds.</span></p>
 
 <p><span class="chinese">么有花园无杂草。</span><span class="english">No garden lacking weeds.</span></p>

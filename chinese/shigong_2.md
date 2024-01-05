@@ -1,5 +1,7 @@
 # 施工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shigong_2.md)
+
 <p><span class="chinese">危险，上面有人施工！</span><span class="english">Danger, men working over-head!</span></p>
 
 <p><span class="chinese">小面积施工或修补可采用刷涂或辊涂。</span><span class="english">Brush or roller for small areas.</span></p>

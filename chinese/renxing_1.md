@@ -1,5 +1,7 @@
 # 人性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renxing_1.md)
+
 <p><span class="chinese">人性讲堂</span><span class="english">Inner Core</span></p>
 
 <p><span class="chinese">这是没有人性的政策。</span><span class="english">It's sub-human policy.</span></p>

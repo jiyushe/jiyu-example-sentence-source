@@ -1,5 +1,7 @@
 # roundup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roundup.md)
+
 <p><span class="chinese">孟山都公司制造草甘磷作物。</span><span class="english">The Monsanto Company makes Roundup Ready crops.</span></p>
 
 <p><span class="chinese">牛仔在赶拢的牲口群中给100头小牛打烙印。</span><span class="english">The cowboys branded a hundred calves in the roundup.</span></p>

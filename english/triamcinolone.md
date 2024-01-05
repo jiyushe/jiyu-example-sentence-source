@@ -1,5 +1,7 @@
 # triamcinolone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/triamcinolone.md)
+
 <p><span class="chinese">糜烂面积很小时，可以注射曲安奈德或甲泼尼龙。</span><span class="english">Small lesions may be injected with triamcinolone or methylprednisolone.</span></p>
 
 <p><span class="chinese">曲安奈德属于皮质甾类一类的药品。</span><span class="english">Triamcinolone belongs to a group of medicines known as corticosteroids.</span></p>

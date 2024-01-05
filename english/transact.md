@@ -1,5 +1,7 @@
 # transact
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transact.md)
+
 <p><span class="chinese">我们将与他们就停火进行谈判。</span><span class="english">We will transact with them for truce.</span></p>
 
 <p><span class="chinese">接下来，你可以办理你的就业证了。</span><span class="english">Next you can transact Employment permit.</span></p>

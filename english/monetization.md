@@ -1,5 +1,7 @@
 # monetization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monetization.md)
+
 <p><span class="chinese">货币化引擎打开。</span><span class="english">Monetization engines to turn on.</span></p>
 
 <p><span class="chinese">写博客是一回事，博客盈利是另外一回事。</span><span class="english">Blogging is one thing, and blog monetization is another.</span></p>

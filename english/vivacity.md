@@ -1,5 +1,7 @@
 # vivacity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vivacity.md)
+
 <p><span class="chinese">她的魅力存在于她的活泼。</span><span class="english">Her charm resides in her vivacity.</span></p>
 
 <p><span class="chinese">这是我，快活和可爱的女孩！</span><span class="english">This is me, a vivacity and lovely girl!</span></p>

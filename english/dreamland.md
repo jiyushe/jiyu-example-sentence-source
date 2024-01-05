@@ -1,5 +1,7 @@
 # dreamland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dreamland.md)
+
 <p><span class="chinese">睡梦中听见盛世的欢唱。</span><span class="english">Hearing the song of prosperity in my dreamland.</span></p>
 
 <p><span class="chinese">真实肯定要来冲破这个梦境了。</span><span class="english">Reality had to come crashing into the dreamland.</span></p>

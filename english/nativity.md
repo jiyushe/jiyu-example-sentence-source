@@ -1,5 +1,7 @@
 # nativity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nativity.md)
+
 <p><span class="chinese">请你想像一个来自郊区基督诞生地的活泼的少年歌手。</span><span class="english">Imagine a light-up choirboy from a suburban Nativity scene.</span></p>
 
 <p><span class="chinese">每年圣诞节孩子们都演耶稣诞生的戏剧。</span><span class="english">The children always perform a nativity play every Christmas.</span></p>

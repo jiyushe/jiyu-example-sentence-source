@@ -1,5 +1,7 @@
 # 可取
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kequ.md)
+
 <p><span class="chinese">“一顿雪餐”则不可取。</span><span class="english">"A meal of snow" is not.</span></p>
 
 <p><span class="chinese">非吸烟者是可取的。</span><span class="english">Non-smoker is preferable.</span></p>

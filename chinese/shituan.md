@@ -1,5 +1,7 @@
 # 使团
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shituan.md)
+
 <p><span class="chinese">各位使节及使团同事，各位来宾，女士们，先生们</span><span class="english">Distinguished Guests, Ladies and Gentlemen</span></p>
 
 <p><span class="chinese">中国驻欧盟使团团长宋哲大使在与欧洲高校研究生交流时的讲话</span><span class="english">Head of the Chinese Mission to the European Union</span></p>

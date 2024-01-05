@@ -1,5 +1,7 @@
 # 灵魂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linghun.md)
+
 <p><span class="chinese">你的灵魂。</span><span class="english">Your soul.</span></p>
 
 <p><span class="chinese">灵魂是否是不朽的</span><span class="english">Is it immortal?"</span></p>

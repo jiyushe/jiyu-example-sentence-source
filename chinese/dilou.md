@@ -1,5 +1,7 @@
 # 地漏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dilou.md)
+
 <p><span class="chinese">这个工厂生产瓶型气隔和地漏。</span><span class="english">This factory manufactures bottle traps and floor drains.</span></p>
 
 <p><span class="chinese">不断检查酒店及外围地区的地漏。</span><span class="english">Constantly check drainage in hotel and surrounding areas.</span></p>

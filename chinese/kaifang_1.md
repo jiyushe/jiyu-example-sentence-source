@@ -1,5 +1,7 @@
 # 开放
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaifang_1.md)
+
 <p><span class="chinese">思想开放点。</span><span class="english">Be open-minded.</span></p>
 
 <p><span class="chinese">什么是“开放”？</span><span class="english">What is "Open"?</span></p>

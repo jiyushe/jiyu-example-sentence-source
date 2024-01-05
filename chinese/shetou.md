@@ -1,5 +1,7 @@
 # 舌头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shetou.md)
+
 <p><span class="chinese">我觉得舌头有点麻麻的。</span><span class="english">My tongue feels numb.</span></p>
 
 <p><span class="chinese">他伸出了舌头。</span><span class="english">He protruded his tongue.</span></p>

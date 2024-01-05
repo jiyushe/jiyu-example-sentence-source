@@ -1,5 +1,7 @@
 # 香蒲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangpu_1.md)
+
 <p><span class="chinese">还记得香蒲丛中有青蛙，就在旋转式铁桥旁？</span><span class="english">Frogs in the cattails where the swing-bridge was? –</span></p>
 
 <p><span class="chinese">对香蒲类植物的花粉蒲黄中的抑藻物质进行提取、分离、鉴定。</span><span class="english">The ethyl acetate extract of Typha latifolia inhibit the growth of some algae.</span></p>

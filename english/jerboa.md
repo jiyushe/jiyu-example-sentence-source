@@ -1,5 +1,7 @@
 # jerboa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jerboa.md)
+
 <p><span class="chinese">其后腿长，耳和眼都大，尾细长，外表像跳鼠或更格卢鼠。</span><span class="english">Its long hind legs, ears and eyes are large, slender tail, looks like a jerboa or dipodomys.</span></p>
 
 <p><span class="chinese">正在吃昆虫的这种长耳跳鼠如今只生活在蒙古西部地区。</span><span class="english">The tiny, insect-eating Long-Eared Jerboa lives only in one small area of south west Mongolia.</span></p>

@@ -1,5 +1,7 @@
 # 岔道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chadao.md)
+
 <p><span class="chinese">他的车在大街上滑了一段路，然后拐上了一条岔道。</span><span class="english">He skids along an avenue then turns down an alley.</span></p>
 
 <p><span class="chinese">我们可能会在各种各样的荆棘岔道上迷失自己。</span><span class="english">We can lose ourselves in all sorts of thorny byways.</span></p>

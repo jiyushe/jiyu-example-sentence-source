@@ -1,5 +1,7 @@
 # neck
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neck.md)
+
 <p><span class="chinese">扭扭脖子。</span><span class="english">Twist your neck.</span></p>
 
 <p><span class="chinese">他的脖子是廋的。</span><span class="english">His neck is thin.</span></p>

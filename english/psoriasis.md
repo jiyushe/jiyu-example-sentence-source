@@ -1,5 +1,7 @@
 # psoriasis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psoriasis.md)
+
 <p><span class="chinese">牛皮痫已经扩散到他身体的很多部位。</span><span class="english">Psoriasis has affected many areas of his body.</span></p>
 
 <p><span class="chinese">患有类似湿疹或牛皮癣吗？</span><span class="english">Suffer from a skin condition like eczema or psoriasis?</span></p>

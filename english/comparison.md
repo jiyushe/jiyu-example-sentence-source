@@ -1,5 +1,7 @@
 # comparison 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comparison.md)
+
 <p><span class="chinese">而攀比则强化了这种情绪。</span><span class="english">Comparison strengthens it.</span></p>
 
 <p><span class="chinese">在诸多方面，这个对比是恰当的。</span><span class="english">In many ways, the comparison is apt.</span></p>

@@ -1,5 +1,7 @@
 # drawstring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drawstring.md)
+
 <p><span class="chinese">抽绳花边关闭。</span><span class="english">Drawstring lace closure.</span></p>
 
 <p><span class="chinese">抽绳底部底边。</span><span class="english">Drawstring bottom hemline.</span></p>

@@ -1,5 +1,7 @@
 # enamelling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enamelling.md)
+
 <p><span class="chinese">和锤打的金子所制作的式样</span><span class="english">Of hammered gold and gold enamelling</span></p>
 
 <p><span class="chinese">上釉的景泰蓝制品完全作为金属器皿装饰之用是相对近期的进口品。</span><span class="english">Cloisonné enamelling as an overall decoration of metal vessels was a relatively late import.</span></p>

@@ -1,5 +1,7 @@
 # painfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/painfully.md)
+
 <p><span class="chinese">我还是会痛苦嚎哭。</span><span class="english">I would still wail painfully.</span></p>
 
 <p><span class="chinese">可是，忽然，他紧紧张张地嗅着空气。</span><span class="english">But then he sniffed the air painfully.</span></p>

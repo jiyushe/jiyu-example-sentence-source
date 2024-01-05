@@ -1,5 +1,7 @@
 # 脚踏车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaotache.md)
+
 <p><span class="chinese">道路内脚踏车车道?。</span><span class="english">On-street Bike Lane?</span></p>
 
 <p><span class="chinese">道路外脚踏车车道?。</span><span class="english">Off-street Bike Lane?</span></p>

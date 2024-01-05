@@ -1,5 +1,7 @@
 # 内陆河
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neiluhe.md)
+
 <p><span class="chinese">塔里木河是我国最长的内陆河。</span><span class="english">Tarim River is one longest inland river of China.</span></p>
 
 <p><span class="chinese">黑河是我国西北地区一个较大的内陆河。</span><span class="english">The Heihe River is a wide inland river in Northwest China.</span></p>

@@ -1,5 +1,7 @@
 # 唇枪舌剑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chunqiangshejian.md)
+
 <p><span class="chinese">里，双方更是唇枪舌剑，你来我挡，难解难分。</span><span class="english">In the next free debate, the two sides are more thrust, I block you, and neck.</span></p>
 
 <p><span class="chinese">成语“风马牛不相及”的典故，就是源于这一次交战前的唇枪舌剑。</span><span class="english">Idiom "irrelevant" the story is that it stems from a war of words before the war.</span></p>

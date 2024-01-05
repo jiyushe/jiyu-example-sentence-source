@@ -1,5 +1,7 @@
 # observance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/observance.md)
+
 <p><span class="chinese">七会员遵守之公约。</span><span class="english">Pacts for the observance of its members.</span></p>
 
 <p><span class="chinese">愚人节是一个“仅为娱乐”的节日。</span><span class="english">April Fool's Day is a "for-fun-only" observance.</span></p>

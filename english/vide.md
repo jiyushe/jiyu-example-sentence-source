@@ -1,5 +1,7 @@
 # vide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vide.md)
+
 <p><span class="chinese">提供分析竞争对手的亲身经验。</span><span class="english">To pro vide first hand experience on ways to do competitor analysis.</span></p>
 
 <p><span class="chinese">氦离子显微镜无需导电涂层就可以提供极好的成像。</span><span class="english">HIM can pro- vide excellent imaging without the need for conductive coatings.</span></p>

@@ -1,5 +1,7 @@
 # nelumbo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nelumbo.md)
+
 <p><span class="chinese">莲属具特殊的形态。</span><span class="english">Nelumbo had particular morphologies.</span></p>
 
 <p><span class="chinese">我国是荷的原产国，荷在我国栽培历史悠久。</span><span class="english">Nelumbo nucifera has a long history in our country.</span></p>

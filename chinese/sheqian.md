@@ -1,5 +1,7 @@
 # 赊欠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sheqian.md)
+
 <p><span class="chinese">抱歉，现金交易不赊欠。</span><span class="english">Sorry, cash only. No credit.</span></p>
 
 <p><span class="chinese">这家商店概不赊欠。</span><span class="english">No credit is given at this shop.</span></p>

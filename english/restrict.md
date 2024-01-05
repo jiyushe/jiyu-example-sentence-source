@@ -1,5 +1,7 @@
 # restrict 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/restrict.md)
+
 <p><span class="chinese">限制你的股份限制。</span><span class="english">Restrict your share restrictions.</span></p>
 
 <p><span class="chinese">不要拘束她的正当活动。</span><span class="english">Don't restrict her proper activities.</span></p>

@@ -1,5 +1,7 @@
 # jell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jell.md)
+
 <p><span class="chinese">果子冻凝结不起来。</span><span class="english">The jelly won't jell.</span></p>
 
 <p><span class="chinese">计划开始定形。</span><span class="english">The plan began to jell.</span></p>

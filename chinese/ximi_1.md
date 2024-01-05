@@ -1,5 +1,7 @@
 # 细密
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ximi_1.md)
+
 <p><span class="chinese">这一部分的布局相当细密。</span><span class="english">This part is fairly compactly laid out.</span></p>
 
 <p><span class="chinese">薄织的麻布是细密地编织成的棉织布。</span><span class="english">Batiste is a cotton fabric with a fine weave.</span></p>

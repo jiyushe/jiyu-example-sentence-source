@@ -1,5 +1,7 @@
 # ailing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ailing.md)
+
 <p><span class="chinese">她身体不适已有一段时间了。</span><span class="english">She's been ailing for some time.</span></p>
 
 <p><span class="chinese">这个男孩已经生病好几个月了。</span><span class="english">The boy has been ailing for several months.</span></p>

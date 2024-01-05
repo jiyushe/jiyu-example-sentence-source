@@ -1,5 +1,7 @@
 # retaliate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retaliate.md)
+
 <p><span class="chinese">他没有回敬你他跟你讲道理…</span><span class="english">He didn't try to retaliate. He moralized.</span></p>
 
 <p><span class="chinese">此外，中国势必要进行报复。</span><span class="english">Moreover, China would be bound to retaliate.</span></p>

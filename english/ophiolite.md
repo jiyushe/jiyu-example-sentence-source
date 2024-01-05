@@ -1,5 +1,7 @@
 # ophiolite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ophiolite.md)
+
 <p><span class="chinese">蛇绿岩环境分析表明，部分为洋中脊环境，大部分为洋岛环境。</span><span class="english">The ophiolite partly formed ocean ridge, mainly formed in an ocean island.</span></p>
 
 <p><span class="chinese">弧后盆地扩张到达小洋盆，出现蛇绿混杂岩。</span><span class="english">The small ocean basin is formed and the ophiolite appear when back arc basin expands.</span></p>

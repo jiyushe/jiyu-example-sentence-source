@@ -1,5 +1,7 @@
 # watermark
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/watermark.md)
+
 <p><span class="chinese">他们与我的水印图案。</span><span class="english">Watermark them with my logo.</span></p>
 
 <p><span class="chinese">卷纹石，我要一个答案。</span><span class="english">Watermark stone, I want an answer.</span></p>

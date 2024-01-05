@@ -1,5 +1,7 @@
 # 衣食父母
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yishifumu.md)
+
 <p><span class="chinese">波段是我们的衣食父母！</span><span class="english">The god of our band!</span></p>
 
 <p><span class="chinese">顾客是衣食父母。</span><span class="english">King is our customer's name.</span></p>

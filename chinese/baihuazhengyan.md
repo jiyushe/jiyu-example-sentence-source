@@ -1,5 +1,7 @@
 # 百花争艳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baihuazhengyan.md)
+
 <p><span class="chinese">春天真是一个百花争艳的季节。</span><span class="english">Spring is a flower blooming season.</span></p>
 
 <p><span class="chinese">百花争艳。</span><span class="english">Flowers blossom in a riot of colour.</span></p>

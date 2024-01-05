@@ -1,5 +1,7 @@
 # 有时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youshi_2.md)
+
 <p><span class="chinese">有时我会担心。</span><span class="english">Sometimes I worry.</span></p>
 
 <p><span class="chinese">做“哈利·波特”有时还真是件麻烦事。</span><span class="english">being Harry Potter.</span></p>

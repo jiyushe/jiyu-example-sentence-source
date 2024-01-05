@@ -1,5 +1,7 @@
 # 蒸蒸日上
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengzhengrishang.md)
+
 <p><span class="chinese">最初，祝永旺将来的日子蒸蒸日上！</span><span class="english">Finally, I wish the future be on the upgrade of aeon!</span></p>
 
 <p><span class="chinese">值此新春佳节之际，恭祝事业蒸蒸日上。</span><span class="english">On the occasion of the Spring Festival, good business.</span></p>

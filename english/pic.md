@@ -1,5 +1,7 @@
 # pic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pic.md)
+
 <p><span class="chinese">这里有张照片。</span><span class="english">Here is a pic.</span></p>
 
 <p><span class="chinese">参看右边的图。</span><span class="english">See pic at right.</span></p>

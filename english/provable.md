@@ -1,5 +1,7 @@
 # provable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/provable.md)
+
 <p><span class="chinese">“标准兼容”终获证明</span><span class="english">“Standards compliant” is finally provable</span></p>
 
 <p><span class="chinese">可证明安全是现代密码方案的基本要求。</span><span class="english">Provable Security is the essential requirement of modern cryptographic schemes.</span></p>

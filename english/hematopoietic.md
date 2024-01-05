@@ -1,5 +1,7 @@
 # hematopoietic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hematopoietic.md)
+
 <p><span class="chinese">什么是造血干细胞?。</span><span class="english">What is Hematopoietic stem cell?</span></p>
 
 <p><span class="chinese">造血干细胞的研究是一门新兴的学科。</span><span class="english">Hematopoietic stem cell research is a new subject.</span></p>

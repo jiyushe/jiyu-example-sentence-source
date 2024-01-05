@@ -1,5 +1,7 @@
 # monad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monad.md)
+
 <p><span class="chinese">但这只是一个单子。</span><span class="english">But it's just one monad.</span></p>
 
 <p><span class="chinese">更进一步，将像一个解析器的单子是我最喜欢的例子。</span><span class="english">To go further, introducing something like a Parser monad is a favorite example of mine.</span></p>

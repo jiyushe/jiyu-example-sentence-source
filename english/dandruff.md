@@ -1,5 +1,7 @@
 # dandruff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dandruff.md)
+
 <p><span class="chinese">我正在用一种去头皮屑的洗发液。</span><span class="english">I'm using a dandruff shampoo.</span></p>
 
 <p><span class="chinese">你头发里有很多头皮屑。</span><span class="english">You hair has a lot of dandruff.</span></p>

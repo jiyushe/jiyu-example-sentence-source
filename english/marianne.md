@@ -1,5 +1,7 @@
 # marianne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marianne.md)
+
 <p><span class="chinese">你看呢，玛丽安？</span><span class="english">What say you, Marianne?</span></p>
 
 <p><span class="chinese">玛丽安简直不知说什么好。</span><span class="english">Marianne hardly knew what to say.</span></p>

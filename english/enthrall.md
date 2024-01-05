@@ -1,5 +1,7 @@
 # enthrall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enthrall.md)
+
 <p><span class="chinese">倘若不被你奴役，我绝不会自由自在。</span><span class="english">Except you enthrall me, never shall be free.</span></p>
 
 <p><span class="chinese">它仍然保留了冲击力，移动和迷住今天的读者。</span><span class="english">It still retains the power to shock, move, and enthrall readers today.</span></p>

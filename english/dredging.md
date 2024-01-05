@@ -1,5 +1,7 @@
 # dredging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dredging.md)
+
 <p><span class="chinese">你船拖锚了吗？</span><span class="english">Are you dredging anchor?</span></p>
 
 <p><span class="chinese">是的，我船拖锚。</span><span class="english">Yes, I am dredging anchor.</span></p>

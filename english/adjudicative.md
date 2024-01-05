@@ -1,5 +1,7 @@
 # adjudicative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adjudicative.md)
+
 <p><span class="chinese">司法经验与智慧是裁判文书的灵魂。</span><span class="english">Judicial experience and wisdom is the soul of a judicial adjudicative document.</span></p>
 
 <p><span class="chinese">王宏丞则认为，赔偿标准的确定一直是判决难点。</span><span class="english">Wang Hongcheng thinks, compensating for a standard is adjudicative difficulty all the time surely really.</span></p>

@@ -1,5 +1,7 @@
 # 下流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xialiu.md)
+
 <p><span class="chinese">说说下流的政治。</span><span class="english">Talk about dirty politics.</span></p>
 
 <p><span class="chinese">他们沿河向下流漂去。</span><span class="english">They floated down the river.</span></p>

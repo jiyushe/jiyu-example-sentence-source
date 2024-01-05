@@ -1,5 +1,7 @@
 # infrasound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infrasound.md)
+
 <p><span class="chinese">目的研究次声对大鼠血液流变特性的影响。</span><span class="english">AIM To study the effect of infrasound on the hemorheology of rats.</span></p>
 
 <p><span class="chinese">结论次声能够影响机体免疫淋巴细胞的功能。</span><span class="english">Conclusion Infrasound can influence the function of immune lymphocytes in body.</span></p>

@@ -1,5 +1,7 @@
 # commandant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commandant.md)
+
 <p><span class="chinese">司令官这一天过得真倒楣。</span><span class="english">The Commandant has had a rotten day.</span></p>
 
 <p><span class="chinese">克莱默是卑尔根贝尔森集中营的指挥官。</span><span class="english">Kramer was the Commandant of the Bergen-Belsen concentration camp.</span></p>

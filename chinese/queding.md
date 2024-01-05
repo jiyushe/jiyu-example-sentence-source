@@ -1,5 +1,7 @@
 # 确定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/queding.md)
+
 <p><span class="chinese">升高，-你确定？</span><span class="english">Higher. -Really?</span></p>
 
 <p><span class="chinese">如果你确定的话。</span><span class="english">If you are sure.</span></p>

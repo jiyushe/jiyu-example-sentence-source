@@ -1,5 +1,7 @@
 # 不断
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buduan.md)
+
 <p><span class="chinese">然后不断扩大。</span><span class="english">And then it expands.</span></p>
 
 <p><span class="chinese">我们正在不断前进。</span><span class="english">We are moving forward.</span></p>

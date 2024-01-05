@@ -1,5 +1,7 @@
 # coralline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coralline.md)
+
 <p><span class="chinese">黄色沙石和珊瑚石岩满地都是。</span><span class="english">Yellow sandstone and masses of coralline limestone abounded.</span></p>
 
 <p><span class="chinese">在石鳖吃珊瑚线藻时，它的粉色背景起到了伪装作用，使它免遭捕食者伤害。</span><span class="english">The chiton’s pinkbackground camouflages it from predators as it feeds on coralline algae.</span></p>

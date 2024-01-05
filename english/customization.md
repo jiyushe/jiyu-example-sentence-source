@@ -1,5 +1,7 @@
 # customization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/customization.md)
+
 <p><span class="chinese">在没有进行编程的情况下自定义</span><span class="english">Customization without programming</span></p>
 
 <p><span class="chinese">一个IP板卡论坛定制。</span><span class="english">The customization of a IP Boards forum.</span></p>

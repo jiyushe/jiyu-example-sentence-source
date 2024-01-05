@@ -1,5 +1,7 @@
 # 眯缝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mifeng_1.md)
+
 <p><span class="chinese">我眯缝起眼睛。</span><span class="english">My eyes narrowed.</span></p>
 
 <p><span class="chinese">他的眼睛眯缝起来。</span><span class="english">His eyes narrowed.</span></p>

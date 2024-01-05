@@ -1,5 +1,7 @@
 # simulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/simulation.md)
+
 <p><span class="chinese">本次任务只是一场模拟。</span><span class="english">This mission is just a simulation.</span></p>
 
 <p><span class="chinese">验证和仿真工具。</span><span class="english">VST, Verfication and Simulation Tools.</span></p>

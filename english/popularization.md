@@ -1,5 +1,7 @@
 # popularization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/popularization.md)
+
 <p><span class="chinese">随着便携式家用血糖仪的普及。</span><span class="english">Along with portable home use glucometer's popularization.</span></p>
 
 <p><span class="chinese">大众传媒是科学普及的一个主要途径。</span><span class="english">Mass media is a dominant means of science popularization.</span></p>

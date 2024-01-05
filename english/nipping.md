@@ -1,5 +1,7 @@
 # nipping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nipping.md)
+
 <p><span class="chinese">那狗咬着她的脚腕子了。</span><span class="english">The dog was nipping at her ankles.</span></p>
 
 <p><span class="chinese">尽管大多数调查中，凯恩是紧追罗姆尼其后。</span><span class="english">In most, though, he is nipping at Mr Romney’s heels.</span></p>

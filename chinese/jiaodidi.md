@@ -1,5 +1,7 @@
 # 娇滴滴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaodidi.md)
+
 <p><span class="chinese">他尖着嗓子娇滴滴的扮狗狗说话真是让我无语了。</span><span class="english">He speaks in a cutesy voice on behalf of the dog.</span></p>
 
 <p><span class="chinese">长头发在传统上被认为是娇滴滴的象征。</span><span class="english">Long hair was traditionally regarded as a sign of femininity.</span></p>

@@ -1,5 +1,7 @@
 # thein
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thein.md)
+
 <p><span class="chinese">吴登盛在国内也得不到多少尊重。</span><span class="english">Thein Sein was not given much respect at home, either.</span></p>
 
 <p><span class="chinese">现在大多数人甚至不知道登盛是谁。</span><span class="english">Most people right now do not even know who Thein Sein is.</span></p>

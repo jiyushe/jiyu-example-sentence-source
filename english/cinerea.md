@@ -1,5 +1,7 @@
 # cinerea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cinerea.md)
+
 <p><span class="chinese">灰霉由于具有广泛的宿主范围，因而可以引起农业生产中的巨大损失。</span><span class="english">Botrytis cinerea can cause great lose in crop production because of the wide host area.</span></p>
 
 <p><span class="chinese">对大鼠大脑灰质的防治效果比对大鼠大脑白质的防治效果好。</span><span class="english">And better effects can be achieved in prevention and treatment of brain cinerea than alba.</span></p>

@@ -1,5 +1,7 @@
 # 贫农
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinnong.md)
+
 <p><span class="chinese">他出生在一个贫农家庭。</span><span class="english">He came of a poor peasant family.</span></p>
 
 <p><span class="chinese">冉阿让生在布里的一个贫农家里。</span><span class="english">Jean Valjean came from a poor peasant family of Brie.</span></p>

@@ -1,5 +1,7 @@
 # pyongyang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pyongyang.md)
+
 <p><span class="chinese">这是位于平壤市中央的九川塔。</span><span class="english">This is the Juche Tower, in central Pyongyang.</span></p>
 
 <p><span class="chinese">在平壤，讲到韩国泡菜时要小心。</span><span class="english">Be careful what you say about kimchi in Pyongyang.</span></p>

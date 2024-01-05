@@ -1,5 +1,7 @@
 # 骗局
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianju.md)
+
 <p><span class="chinese">这是一个骗局。</span><span class="english">It was a trick.</span></p>
 
 <p><span class="chinese">没有垃圾邮件，也不骗局。</span><span class="english">No spam, nor scam.</span></p>

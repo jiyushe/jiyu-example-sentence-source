@@ -1,5 +1,7 @@
 # 书架
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shujia.md)
+
 <p><span class="chinese">咖啡馆式的图书架。</span><span class="english">The Cafe Shelf.</span></p>
 
 <p><span class="chinese">书架上堆满了书籍。</span><span class="english">The shelf groans with books.</span></p>

@@ -1,5 +1,7 @@
 # companion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/companion.md)
+
 <p><span class="chinese">农夫的好伙伴儿。</span><span class="english">A good companion of Nung-fu.</span></p>
 
 <p><span class="chinese">科科是出色的伴侣。</span><span class="english">He is a wonderful companion.</span></p>

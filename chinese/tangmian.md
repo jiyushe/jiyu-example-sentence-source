@@ -1,5 +1,7 @@
 # 汤面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tangmian.md)
+
 <p><span class="chinese">这里有汤面吗？</span><span class="english">Do you have Chinese noodle soup?</span></p>
 
 <p><span class="chinese">好想来一碗牛肉汤面！</span><span class="english">I need a bowl of beef noodle soup.</span></p>

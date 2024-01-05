@@ -1,5 +1,7 @@
 # kayak
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kayak.md)
+
 <p><span class="chinese">他划独木舟很拿手。</span><span class="english">He can kayak very well.</span></p>
 
 <p><span class="chinese">一些勇敢的洛杉矶人甚至在河上滑行皮划艇。</span><span class="english">A few brave Angelenos even kayak on it.</span></p>

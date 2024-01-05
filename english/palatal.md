@@ -1,5 +1,7 @@
 # palatal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palatal.md)
+
 <p><span class="chinese">口腔矫治器能减少上腭振颤和舌根鼾症？</span><span class="english">Does an oral appliance reduce palatal flutter and tongue base snoring?</span></p>
 
 <p><span class="chinese">测量每个实验步骤结束时腭中缝的宽度。</span><span class="english">The breadth of the rat palatal suture after each experiment phases was measured.</span></p>

@@ -1,5 +1,7 @@
 # 刀法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daofa.md)
+
 <p><span class="chinese">第四阶段学习刀法。</span><span class="english">Phase IV study sword skill.</span></p>
 
 <p><span class="chinese">看他们的刀法就知道不简单。</span><span class="english">Just look at the way they slice up the meat.</span></p>

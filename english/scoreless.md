@@ -1,5 +1,7 @@
 # scoreless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scoreless.md)
+
 <p><span class="chinese">他下半场几乎是在板凳上度过的。</span><span class="english">He was benched for much of his scoreless second half.</span></p>
 
 <p><span class="chinese">科比上场45分钟得了37分，而防守科比的罗斯一分未得。</span><span class="english">Bryant scored 37 points in 45 minutes. Ross went scoreless.</span></p>

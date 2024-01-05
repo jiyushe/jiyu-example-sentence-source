@@ -1,5 +1,7 @@
 # botany
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/botany.md)
+
 <p><span class="chinese">他们在谈植物学。</span><span class="english">They were discussing botany.</span></p>
 
 <p><span class="chinese">这辆车云不去植物园？</span><span class="english">Does this bus go to the botany?</span></p>

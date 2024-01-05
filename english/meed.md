@@ -1,5 +1,7 @@
 # meed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meed.md)
+
 <p><span class="chinese">但是，我不必总告诉您，对吗？</span><span class="english">But I don't meed to tell you.</span></p>
 
 <p><span class="chinese">我不想停止帮助那些已经获得奖赏的人们。</span><span class="english">I won't stop helping people who are in meed.</span></p>

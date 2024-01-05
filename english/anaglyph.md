@@ -1,5 +1,7 @@
 # anaglyph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anaglyph.md)
+
 <p><span class="chinese">在这里有时分式、互补式等立体图片资料。</span><span class="english">Time-sequential, Anaglyph 3D images and other 3D pictures are listed here.</span></p>
 
 <p><span class="chinese">互补色分像法立体电视系统简便实用，利于推广普及。</span><span class="english">The anaglyph stereoscopic TV system is Simple, practical and easy to be popularized.</span></p>

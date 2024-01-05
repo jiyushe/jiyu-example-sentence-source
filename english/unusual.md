@@ -1,5 +1,7 @@
 # unusual 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unusual.md)
+
 <p><span class="chinese">这一数字非比寻常。</span><span class="english">That's unusual.</span></p>
 
 <p><span class="chinese">这是不寻常的。</span><span class="english">This is unusual.</span></p>

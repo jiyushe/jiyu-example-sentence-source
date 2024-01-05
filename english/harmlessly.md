@@ -1,5 +1,7 @@
 # harmlessly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harmlessly.md)
+
 <p><span class="chinese">他必项依靠自己为生而无损于人。</span><span class="english">Let him live harmlessly on what is his own.</span></p>
 
 <p><span class="chinese">而行业人士声称数据是无害使用的。</span><span class="english">And the industry says the data are used harmlessly.</span></p>

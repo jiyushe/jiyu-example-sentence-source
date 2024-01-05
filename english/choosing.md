@@ -1,5 +1,7 @@
 # choosing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/choosing.md)
+
 <p><span class="chinese">没人选上吗</span><span class="english">No one's choosing Up?</span></p>
 
 <p><span class="chinese">我为什么选择了平衡？</span><span class="english">Why am I choosing balance?</span></p>

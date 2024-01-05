@@ -1,5 +1,7 @@
 # 月薪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuexin.md)
+
 <p><span class="chinese">请谈下你的月薪要求…？</span><span class="english">What salary do you expect?</span></p>
 
 <p><span class="chinese">你目前的月薪是多少？</span><span class="english">What’s your monthly salary now?</span></p>

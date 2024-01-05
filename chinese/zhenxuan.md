@@ -1,5 +1,7 @@
 # 甄选
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenxuan.md)
+
 <p><span class="chinese">他们是怎样被甄选出来的？</span><span class="english">How were they selected?</span></p>
 
 <p><span class="chinese">针对第一部分的课程甄选足额的教员。</span><span class="english">How does a Division get started with the RLI program?</span></p>

@@ -1,5 +1,7 @@
 # 史前
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiqian_1.md)
+
 <p><span class="chinese">史前人用打火石刀。</span><span class="english">Prehistoric man used flint knives.</span></p>
 
 <p><span class="chinese">史前时期是父系氏族。</span><span class="english">Prehistory was strongly patriarchal.</span></p>

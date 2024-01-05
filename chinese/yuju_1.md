@@ -1,5 +1,7 @@
 # 豫剧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuju_1.md)
+
 <p><span class="chinese">我奶奶是豫剧专家。</span><span class="english">My granny is an expert of Henan Opera.</span></p>
 
 <p><span class="chinese">豫剧是比京剧更古老的剧种。</span><span class="english">Henan Opera is more ancient than the Peking Opera.</span></p>

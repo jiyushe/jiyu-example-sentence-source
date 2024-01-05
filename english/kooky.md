@@ -1,5 +1,7 @@
 # kooky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kooky.md)
+
 <p><span class="chinese">我就像一个小丑。</span><span class="english">I'm a little kooky.</span></p>
 
 <p><span class="chinese">那个人真怪。</span><span class="english">That man is really kooky.</span></p>

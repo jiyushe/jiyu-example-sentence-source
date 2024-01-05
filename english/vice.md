@@ -1,5 +1,7 @@
 # vice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vice.md)
+
 <p><span class="chinese">台虎钳?。</span><span class="english">Table vice?</span></p>
 
 <p><span class="chinese">这无可厚非</span><span class="english">It's not a vice.</span></p>

@@ -1,5 +1,7 @@
 # propagandistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/propagandistic.md)
+
 <p><span class="chinese">它用华丽的词藻堆砌起来的散文劝诱和操纵读者。</span><span class="english">It is propagandistic and manipulates the reader with purple prose.</span></p>
 
 <p><span class="chinese">典型报道一直以来都是电视新闻宣传的拳头产品。</span><span class="english">Typical report has long been the most competitive product in TV propagandistic news.</span></p>

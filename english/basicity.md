@@ -1,5 +1,7 @@
 # basicity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/basicity.md)
+
 <p><span class="chinese">同时导出了适用于此种渣系的碱度公式。</span><span class="english">A basicity formula for this slag system has been given.</span></p>
 
 <p><span class="chinese">讨论了光学碱度在冶金渣中的应用。</span><span class="english">Application of optical basicity to metallurgical slags was discussed.</span></p>

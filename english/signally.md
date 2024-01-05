@@ -1,5 +1,7 @@
 # signally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/signally.md)
+
 <p><span class="chinese">布朗本人也曾保证过给这个停滞不前、软弱无力的政府带去新的能量，但是很明显他失败了。</span><span class="english">Mr Brown himself has failed signally to breathe new energy into an exhausted government.</span></p>
 
 <p><span class="chinese">他们减少了与十四个邻国的边界争端，这是个非凡的成就。</span><span class="english">They have signally reduced the number of land-border disputes with their fourteen neighbors.</span></p>

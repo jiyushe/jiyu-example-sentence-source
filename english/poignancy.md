@@ -1,5 +1,7 @@
 # poignancy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poignancy.md)
+
 <p><span class="chinese">当她坐在教堂里时，脸上带着一种哀婉和辛辣的表情。</span><span class="english">As she sat in church her face had a pathos and poignancy.</span></p>
 
 <p><span class="chinese">这些画面虽然寻常，却丝毫没有减弱其中蕴含的辛酸和感染力。</span><span class="english">These images lose none of their poignancy or power in this familiarity.</span></p>

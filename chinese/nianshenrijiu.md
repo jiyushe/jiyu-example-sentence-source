@@ -1,5 +1,7 @@
 # 年深日久
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianshenrijiu.md)
+
 <p><span class="chinese">纪念碑上有年深日久的痕迹。</span><span class="english">The monument bears the mark of age.</span></p>
 
 <p><span class="chinese">那面红旗因年深日久而褪色了。</span><span class="english">The colour of the red flag has been dulled by age.</span></p>

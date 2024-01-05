@@ -1,5 +1,7 @@
 # frication
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frication.md)
+
 <p><span class="chinese">主要考虑了摩擦力、空气阻力等因素对弹丸的速度和轨迹的影响。</span><span class="english">The effects of frication , air frication on the speed and trajectory of projectiles have been fully considered.</span></p>
 
 <p><span class="chinese">提出一种基于匹配追随算法的摩擦力自适应辨识与补偿新方法。</span><span class="english">A new method for adaptive identification and compensation of frication based on the matching pursuit method was presented.</span></p>

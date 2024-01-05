@@ -1,5 +1,7 @@
 # nebulae
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nebulae.md)
+
 <p><span class="chinese">关于星云，他做出了重大发现。</span><span class="english">And he made an important discovery about nebulae.</span></p>
 
 <p><span class="chinese">你可以在较暗的地区用双筒望远镜看到这两个星云。</span><span class="english">These nebulae can be seen with binoculars from a dark location.</span></p>

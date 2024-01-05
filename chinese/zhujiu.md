@@ -1,5 +1,7 @@
 # 祝酒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhujiu.md)
+
 <p><span class="chinese">最后让我来祝酒。</span><span class="english">So I end with a toast.</span></p>
 
 <p><span class="chinese">为一个好日子举杯祝酒。</span><span class="english">Raise a toast to a good day.</span></p>

@@ -1,5 +1,7 @@
 # 实力派
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shilipai.md)
+
 <p><span class="chinese">笑宇，一位非主流实力派歌手！</span><span class="english">Xiaoyu, a non-mainstream singer!</span></p>
 
 <p><span class="chinese">他既是实力派，也是偶像派。</span><span class="english">He is strength, is also idol pie.</span></p>

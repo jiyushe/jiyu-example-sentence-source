@@ -1,5 +1,7 @@
 # dissatisfied
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissatisfied.md)
+
 <p><span class="chinese">你对什么事不满意?</span><span class="english">What are you dissatisfied about?</span></p>
 
 <p><span class="chinese">那项新计划令人人不满。</span><span class="english">That new plan dissatisfied everyone.</span></p>

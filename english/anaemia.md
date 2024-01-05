@@ -1,5 +1,7 @@
 # anaemia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anaemia.md)
+
 <p><span class="chinese">缺铁可导致贫血。</span><span class="english">Iron deficiency can lead to anaemia.</span></p>
 
 <p><span class="chinese">病毒唑增加贫血的风险。</span><span class="english">Ribavirin increased the risk of anaemia.</span></p>

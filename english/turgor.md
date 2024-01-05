@@ -1,5 +1,7 @@
 # turgor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turgor.md)
+
 <p><span class="chinese">由于失水造成的细胞膨胀性的消失。</span><span class="english">Wilting The loss of turgor due to lack of water.</span></p>
 
 <p><span class="chinese">MRM可展示充盈缺损和肿块，定位明确。</span><span class="english">MRM can display turgor defect and tum or with precise location.</span></p>

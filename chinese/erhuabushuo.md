@@ -1,5 +1,7 @@
 # 二话不说
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/erhuabushuo.md)
+
 <p><span class="chinese">教练一笑，二话不说，就把我拉了起来。</span><span class="english">Coach a laugh, and the word, you pull me up.</span></p>
 
 <p><span class="chinese">我去看一场怪诞秀，他们二话不说就让我进去了。</span><span class="english">I went to a freak show and they let me in for nothing.</span></p>

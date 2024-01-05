@@ -1,5 +1,7 @@
 # registrar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/registrar.md)
+
 <p><span class="chinese">注册主任会公布时间表。</span><span class="english">The registrar will publish the schedule.</span></p>
 
 <p><span class="chinese">找一家便宜的注册公司，注册你的域名。</span><span class="english">Find an inexpensive registrar and register your domain.</span></p>

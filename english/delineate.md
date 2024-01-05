@@ -1,5 +1,7 @@
 # delineate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/delineate.md)
+
 <p><span class="chinese">白线是城市边界。</span><span class="english">White lines delineate city limits.</span></p>
 
 <p><span class="chinese">行动会描述和定义你。</span><span class="english">Action will delineate and define you.</span></p>

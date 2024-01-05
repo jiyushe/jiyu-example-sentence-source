@@ -1,5 +1,7 @@
 # spartan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spartan.md)
+
 <p><span class="chinese">根据斯巴达法典，我们将直起腰身，战斗直至死去。</span><span class="english">And by Spartan law, we will stand and fight. And die.</span></p>
 
 <p><span class="chinese">探监之前，她必须先接受搜身，然后被带到一个斯巴达式的简陋食堂，这就是他们见面的地方。</span><span class="english">She is strip-searched, and taken into a spartan canteen.</span></p>

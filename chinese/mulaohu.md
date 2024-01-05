@@ -1,5 +1,7 @@
 # 母老虎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mulaohu.md)
+
 <p><span class="chinese">他的妻子是母老虎。</span><span class="english">His wife is a virago.</span></p>
 
 <p><span class="chinese">那小娘儿们可真是个母老虎。</span><span class="english">That chick’s a real tiger.</span></p>

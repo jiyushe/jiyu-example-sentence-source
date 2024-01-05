@@ -1,5 +1,7 @@
 # fluorouracil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fluorouracil.md)
+
 <p><span class="chinese">卡培他滨和氟尿嘧啶的毒副作用相似。</span><span class="english">Toxic effects of capecitabine and fluorouracil were similar.</span></p>
 
 <p><span class="chinese">目的制备氟尿嘧啶壳聚糖微球。</span><span class="english">OBJECTIVE To investigate the preparation of fluorouracil loaded chitosan microspheres.</span></p>

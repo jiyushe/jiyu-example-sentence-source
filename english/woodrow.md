@@ -1,5 +1,7 @@
 # woodrow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/woodrow.md)
+
 <p><span class="chinese">我也在考虑到伍德罗·威尔逊学院学习。</span><span class="english">and also thinking of Woodrow Wilson School.</span></p>
 
 <p><span class="chinese">伍德罗.威尔逊总统曾希望建立一个“国际联盟”。</span><span class="english">Woodrow Wilson wished for a League of Nations.</span></p>

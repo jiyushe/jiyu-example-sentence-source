@@ -1,5 +1,7 @@
 # clindamycin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clindamycin.md)
+
 <p><span class="chinese">采用高效液相色谱法测定盐酸克林霉素的含量。</span><span class="english">HPLC method was adopted to determine the content of clindamycin.</span></p>
 
 <p><span class="chinese">局部用克林霉素有报道可致假膜性结肠炎。</span><span class="english">Pseudomembranous colitis has been reported with topical clindamycin.</span></p>

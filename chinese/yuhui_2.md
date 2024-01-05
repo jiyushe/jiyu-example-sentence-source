@@ -1,5 +1,7 @@
 # 余辉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuhui_2.md)
+
 <p><span class="chinese">我们为落日的余辉而激动。</span><span class="english">We get excited about sunsets.</span></p>
 
 <p><span class="chinese">再无需加演，因为有余辉。</span><span class="english">No more encore except for the afterglow.</span></p>

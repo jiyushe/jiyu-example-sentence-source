@@ -1,5 +1,7 @@
 # puree
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/puree.md)
+
 <p><span class="chinese">用搅拌机打成黄瓜泥。</span><span class="english">Puree cucumber in a blender.</span></p>
 
 <p><span class="chinese">加入退冰后的蓝莓打成泥状。</span><span class="english">Add thawed blueberries in and puree.</span></p>

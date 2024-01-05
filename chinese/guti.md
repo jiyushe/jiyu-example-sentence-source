@@ -1,5 +1,7 @@
 # 固体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guti.md)
+
 <p><span class="chinese">铁、木和冰是固体。</span><span class="english">A dice is a solid.</span></p>
 
 <p><span class="chinese">液体的体积是小于固体的。</span><span class="english">Liquid is less than solid.</span></p>

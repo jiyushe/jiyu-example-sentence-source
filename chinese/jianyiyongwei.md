@@ -1,5 +1,7 @@
 # 见义勇为
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianyiyongwei.md)
+
 <p><span class="chinese">第四章见义勇为行为立法完善的构想。</span><span class="english">Chapter 4 The idea of perfecting the law.</span></p>
 
 <p><span class="chinese">他见义勇为地拯救落水儿童。</span><span class="english">He acted heroically saving the child from drowning.</span></p>

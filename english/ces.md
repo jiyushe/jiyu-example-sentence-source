@@ -1,5 +1,7 @@
 # ces
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ces.md)
+
 <p><span class="chinese">中企捷购多年来得到各界的支撑。</span><span class="english">CES have all the support over the years.</span></p>
 
 <p><span class="chinese">这里是网件在CES上公布的技术规格</span><span class="english">Here are the published specs that Netgear announced at CES</span></p>

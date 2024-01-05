@@ -1,5 +1,7 @@
 # 恒定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hengding.md)
+
 <p><span class="chinese">还要求该恒定电流。</span><span class="english">Also calls the constant current.</span></p>
 
 <p><span class="chinese">当我保持压强恒定。</span><span class="english">If I keep the pressure constant.</span></p>

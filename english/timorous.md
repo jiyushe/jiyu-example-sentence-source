@@ -1,5 +1,7 @@
 # timorous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/timorous.md)
+
 <p><span class="chinese">在那次事件中他是个胆小鬼。</span><span class="english">He was the most timorous person in that event.</span></p>
 
 <p><span class="chinese">像一只羞怯的鸟，你满怀热爱地飞到我胸前。</span><span class="english">Like a timorous bird you fly to my breast with eager love.</span></p>

@@ -1,5 +1,7 @@
 # 无非
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wufei.md)
+
 <p><span class="chinese">人生呵，无非是虚梦一场！</span><span class="english">Life is but an empty dream!</span></p>
 
 <p><span class="chinese">无非是老生常谈。</span><span class="english">It's no more than a platitude.</span></p>

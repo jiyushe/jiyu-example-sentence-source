@@ -1,5 +1,7 @@
 # nationalisation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nationalisation.md)
+
 <p><span class="chinese">执行国家化大交通运输计划。</span><span class="english">Implementing plans for the nationalisation of a major carrier.</span></p>
 
 <p><span class="chinese">营建业已经在收归国有的过程受伤惨重。</span><span class="english">The construction industry has been badly hurt by nationalisation.</span></p>

@@ -1,5 +1,7 @@
 # brinell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brinell.md)
+
 <p><span class="chinese">布氏硬度最大将达到223，具有球化结构。</span><span class="english">Brinell hardness will be 223 maximum with a spheroidized structure.</span></p>
 
 <p><span class="chinese">布氏硬度，锥体压痕硬度，球体压痕硬度。</span><span class="english">Brinell hardness, cone impression hardness, ball impression hardness.</span></p>

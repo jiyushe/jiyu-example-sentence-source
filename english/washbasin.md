@@ -1,5 +1,7 @@
 # washbasin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/washbasin.md)
+
 <p><span class="chinese">脸盆边上有个小豁口。</span><span class="english">The washbasin had a small chip.</span></p>
 
 <p><span class="chinese">给我拿一个脸盆和一个水桶。</span><span class="english">Bring me a washbasin and a pail.</span></p>

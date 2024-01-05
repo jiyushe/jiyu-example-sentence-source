@@ -1,5 +1,7 @@
 # annihilator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/annihilator.md)
+
 <p><span class="chinese">如果最坏的最坏的情况下，使用便携式零化子您头盔。</span><span class="english">If the worst comes to the worst, use the portable annihilator in your helmet.</span></p>
 
 <p><span class="chinese">灭火后不留痕迹，是取代卤代烷灭火器的替代品。</span><span class="english">It leaves no trace after fire extinguishing. It replaces for alkylogen annihilator.</span></p>

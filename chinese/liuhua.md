@@ -1,5 +1,7 @@
 # 硫化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liuhua.md)
+
 <p><span class="chinese">在早上，我会倒入室温硫化。</span><span class="english">In the morning I will pour the RTV.</span></p>
 
 <p><span class="chinese">周围的硫化银呈皮壳状、放射状。</span><span class="english">Crust or radial shape of silver sulphide.</span></p>

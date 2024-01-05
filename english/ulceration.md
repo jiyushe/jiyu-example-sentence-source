@@ -1,5 +1,7 @@
 # ulceration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ulceration.md)
+
 <p><span class="chinese">该患者患有臀沟和脐溃疡以及肛周脓肿。</span><span class="english">The patient had a natal cleft and umbilical ulceration and a perianal abscess.</span></p>
 
 <p><span class="chinese">例2在脚趾根部出现痛性网状紫斑及皮肤溃疡。</span><span class="english">In case 2, painful skin ulceration of the dorsum of the right foot was developed.</span></p>

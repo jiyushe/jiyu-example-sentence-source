@@ -1,5 +1,7 @@
 # jackass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jackass.md)
+
 <p><span class="chinese">你怎么让一头蠢驴处于悬念中呢？</span><span class="english">How do you keep a jackass in suspense?</span></p>
 
 <p><span class="chinese">他是个愚蠢的家伙，没有人喜欢他。</span><span class="english">He is such a jackass . Nobody likes him.</span></p>

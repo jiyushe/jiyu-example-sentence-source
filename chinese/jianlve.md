@@ -1,5 +1,7 @@
 # 简略
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianlve.md)
+
 <p><span class="chinese">邮件都是简略和客气的。</span><span class="english">The emails are brief and polite.</span></p>
 
 <p><span class="chinese">他简略写出了小说的情节。</span><span class="english">He roughcast the plot of the novel.</span></p>

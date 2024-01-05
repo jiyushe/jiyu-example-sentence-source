@@ -1,5 +1,7 @@
 # 纱锭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shading.md)
+
 <p><span class="chinese">我绕啊绕啊，但是纱锭一直是满满的。</span><span class="english">I reeled and reeled and the spool remained full.</span></p>
 
 <p><span class="chinese">一旦她碰触了她刺了她的手指纱锭。</span><span class="english">As soon as she touched the spindle she pricked her finger.</span></p>

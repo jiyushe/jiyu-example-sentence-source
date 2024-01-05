@@ -1,5 +1,7 @@
 # 砖雕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuandiao.md)
+
 <p><span class="chinese">我在研究这里的砖雕啊。</span><span class="english">I'm studying this brick carving here.</span></p>
 
 <p><span class="chinese">大牛，你看那边墙上的砖雕。</span><span class="english">Daniel, look at the brick carvings over there.</span></p>

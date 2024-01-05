@@ -1,5 +1,7 @@
 # creationism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/creationism.md)
+
 <p><span class="chinese">由此可知，智能设计论与创造论并不相同。</span><span class="english">This theory is not the same as creationism.</span></p>
 
 <p><span class="chinese">近年来创世说也潜入了美国教室。</span><span class="english">Creationism has crept into US classrooms in recent years, too.</span></p>

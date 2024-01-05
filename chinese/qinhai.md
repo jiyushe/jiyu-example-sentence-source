@@ -1,5 +1,7 @@
 # 侵害
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinhai.md)
+
 <p><span class="chinese">人权侵害数据库。</span><span class="english">Human rights violation database.</span></p>
 
 <p><span class="chinese">这种疾病侵害了谷类作物。</span><span class="english">The disease attacks cereal crop.</span></p>

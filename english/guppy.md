@@ -1,5 +1,7 @@
 # guppy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guppy.md)
+
 <p><span class="chinese">这只孔雀鱼在韦德后面追着。</span><span class="english">And the guppy raced after him.</span></p>
 
 <p><span class="chinese">第一种方法是顾比复合移动平均线。</span><span class="english">The first is the Guppy Multiple Moving Average.</span></p>

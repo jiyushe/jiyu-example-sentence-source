@@ -1,5 +1,7 @@
 # 肌肤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jifu.md)
+
 <p><span class="chinese">面部肌肤更是水水嫩嫩。</span><span class="english">Facial skin is water.</span></p>
 
 <p><span class="chinese">柔软的滑过我的肌肤。</span><span class="english">Layin' soft upon my skin.</span></p>

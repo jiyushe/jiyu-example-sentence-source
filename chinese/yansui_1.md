@@ -1,5 +1,7 @@
 # 芫荽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yansui_1.md)
+
 <p><span class="chinese">用芫荽或欧芹和樱桃装饰。</span><span class="english">Garnish with coriander and cherry.</span></p>
 
 <p><span class="chinese">由青椒，芫荽叶和黄瓜。</span><span class="english">It’s green pepper, cilantro, and cucumbers.</span></p>

@@ -1,5 +1,7 @@
 # 审计
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenji_1.md)
+
 <p><span class="chinese">可能的审计类型列表。</span><span class="english">List of possible audit types.</span></p>
 
 <p><span class="chinese">抓紧培训审计人才。</span><span class="english">Grasp trining talents for audit.</span></p>

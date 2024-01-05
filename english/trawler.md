@@ -1,5 +1,7 @@
 # trawler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trawler.md)
+
 <p><span class="chinese">我与他一度同在一艘拖网船上工作。</span><span class="english">He and i were shipmates on a trawler once.</span></p>
 
 <p><span class="chinese">第四架飞机在一艘荷兰拖网渔船旁迫降。</span><span class="english">He and i were shipmates on a trawler once.</span></p>

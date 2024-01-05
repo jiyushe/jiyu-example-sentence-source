@@ -1,5 +1,7 @@
 # 连年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liannian.md)
+
 <p><span class="chinese">产量连年上升。</span><span class="english">Output increases year after year.</span></p>
 
 <p><span class="chinese">灾祸连年。</span><span class="english">Calamity occurs in successive years.</span></p>

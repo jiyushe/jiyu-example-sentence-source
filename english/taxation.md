@@ -1,5 +1,7 @@
 # taxation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taxation.md)
+
 <p><span class="chinese">没有双重征税。</span><span class="english">No double taxation.</span></p>
 
 <p><span class="chinese">并且在此制度下的税收是很重的</span><span class="english">He wanted huge taxation.</span></p>

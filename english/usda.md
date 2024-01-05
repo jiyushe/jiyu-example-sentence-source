@@ -1,5 +1,7 @@
 # usda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/usda.md)
+
 <p><span class="chinese">不能用USDA印章或认证标志。</span><span class="english">No use of USDA seal or certifier's logo.</span></p>
 
 <p><span class="chinese">寻找标有“美国农业部有机”的绿色图章。</span><span class="english">Look for the green seal that says USDA Organic.</span></p>

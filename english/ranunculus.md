@@ -1,5 +1,7 @@
 # ranunculus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ranunculus.md)
+
 <p><span class="chinese">目的研究猫爪草的化学成分。</span><span class="english">OBJECTIVE To study the chemical constituents of Ranunculus tematus Thunb.</span></p>
 
 <p><span class="chinese">普通认为，前者的花瓣与毛茛属植物花萼同源。</span><span class="english">The former are considered to be homologous with the sepals of Ranunculus.</span></p>

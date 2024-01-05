@@ -1,5 +1,7 @@
 # 年假
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianjia.md)
+
 <p><span class="chinese">我今年还没有休年假。</span><span class="english">I haven't taken any vacation days yet.</span></p>
 
 <p><span class="chinese">我筹算在这个年假打篮球。</span><span class="english">I intend to play basketball thellos winter.</span></p>

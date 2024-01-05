@@ -1,5 +1,7 @@
 # 正负
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengfu_2.md)
+
 <p><span class="chinese">不要直接用手接触电容器正负极。</span><span class="english">Do not directly touch terminal by hand.</span></p>
 
 <p><span class="chinese">就此案例而言，是1995年6月，正负1.7年。</span><span class="english">In this case, June 1995, plus or minus 1.7 years.</span></p>

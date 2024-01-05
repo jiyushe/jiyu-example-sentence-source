@@ -1,5 +1,7 @@
 # productivity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/productivity.md)
+
 <p><span class="chinese">您的生产力是什么?</span><span class="english">What is your productivity?</span></p>
 
 <p><span class="chinese">您度量生产力吗？</span><span class="english">Do you measure productivity?</span></p>

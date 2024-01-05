@@ -1,5 +1,7 @@
 # chengdu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chengdu.md)
+
 <p><span class="chinese">萨利与成都谢菲联足球俱乐部签约</span><span class="english">Salley signs with Chengdu Blades</span></p>
 
 <p><span class="chinese">是的，去了。我还去了成都。</span><span class="english">Yes, I did. I also went to Chengdu.</span></p>

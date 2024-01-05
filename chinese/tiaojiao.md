@@ -1,5 +1,7 @@
 # 跳脚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaojiao.md)
+
 <p><span class="chinese">哇，他真的让你措手不及！难怪你气得跳脚。</span><span class="english">Wow, he really threw you a curveball! No wonder you're so pissed off.</span></p>
 
 <p><span class="chinese">所以当我听说能自行搅拌的茶杯时，我即时兴奋地直跳脚。</span><span class="english">So when I heard the news about a self-stirring cup, I immediately jumped.</span></p>

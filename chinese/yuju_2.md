@@ -1,5 +1,7 @@
 # 雨具
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuju_2.md)
+
 <p><span class="chinese">包括衣服、头盔、手套、鞋袜、背包、雨具、探照灯、控制柄及其他自行车部件、配饰等。</span><span class="english">other cycle parts and accessories, etc.</span></p>
 
 <p><span class="chinese">一天孔子出门，让子路准备雨具。</span><span class="english">One day the master go out, to prepare zi lu rain gear.</span></p>

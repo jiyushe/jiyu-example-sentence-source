@@ -1,5 +1,7 @@
 # 受惊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoujing.md)
+
 <p><span class="chinese">鹿是一种易受惊的动物。</span><span class="english">A deer is a shy animal.</span></p>
 
 <p><span class="chinese">他看起来有一点受惊了。</span><span class="english">He looked a bit scared.</span></p>

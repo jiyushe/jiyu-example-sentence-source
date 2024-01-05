@@ -1,5 +1,7 @@
 # lei
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lei.md)
+
 <p><span class="chinese">他是一个雷锋式的人物。</span><span class="english">He is a Lei Feng.</span></p>
 
 <p><span class="chinese">自我介绍我的名字是李蕾。</span><span class="english">My name is Li Lei.</span></p>

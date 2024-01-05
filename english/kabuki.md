@@ -1,5 +1,7 @@
 # kabuki
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kabuki.md)
+
 <p><span class="chinese">日本的歌舞伎兴起于十七世纪中叶。</span><span class="english">Kabuki appeared in the mid-seventeenth century in Japan.</span></p>
 
 <p><span class="chinese">塔座周围有砖雕歌舞伎，是辽代砖雕艺术的珍品。</span><span class="english">Tazuo surrounded by brick Kabuki is a Liao Dynasty brick art treasures.</span></p>

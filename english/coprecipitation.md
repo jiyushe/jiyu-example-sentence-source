@@ -1,5 +1,7 @@
 # coprecipitation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coprecipitation.md)
+
 <p><span class="chinese">采用氯化铈铽水溶液与草酸为原料，合成了铈铽共晶氧化物。</span><span class="english">The ceriumterbium coprecipitation oxide was prepared using oxalic acid and cerium chloride.</span></p>
 
 <p><span class="chinese">本实验采用草酸盐共沉淀法制备含掺杂物的高性能PTC粉体。</span><span class="english">In this experiment, high quality PTC powder was prepared by oxalate coprecipitation process.</span></p>

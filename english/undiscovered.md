@@ -1,5 +1,7 @@
 # undiscovered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undiscovered.md)
+
 <p><span class="chinese">像荒山里无人问津的拙玉</span><span class="english">Like crude jade undiscovered on a barren hill</span></p>
 
 <p><span class="chinese">公开的档案也包括从未公开的隐情。</span><span class="english">The public archives, too, contain undiscovered stories.</span></p>

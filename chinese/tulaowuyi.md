@@ -1,5 +1,7 @@
 # 徒劳无益
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tulaowuyi.md)
+
 <p><span class="chinese">撒网捕风，徒劳无益。</span><span class="english">Catch the wind with a net.</span></p>
 
 <p><span class="chinese">这种企图其实是徒劳无益的。</span><span class="english">This attempt is actually in vain.</span></p>

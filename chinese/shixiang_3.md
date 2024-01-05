@@ -1,5 +1,7 @@
 # 识相
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shixiang_3.md)
+
 <p><span class="chinese">他做得很识相。</span><span class="english">That is very sensible of him.</span></p>
 
 <p><span class="chinese">你们最好给我识相点！</span><span class="english">You had better make me understand to mutually order!</span></p>

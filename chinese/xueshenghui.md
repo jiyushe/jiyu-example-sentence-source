@@ -1,5 +1,7 @@
 # 学生会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueshenghui.md)
+
 <p><span class="chinese">顽皮大胆的小学生会往上爬。</span><span class="english">Adventurous schoolboys climbed up them.</span></p>
 
 <p><span class="chinese">请尽快在学生会壁报上报名！</span><span class="english">Please sign up at the notice board ASAP!</span></p>

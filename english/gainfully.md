@@ -1,5 +1,7 @@
 # gainfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gainfully.md)
+
 <p><span class="chinese">他们是健康又高薪的年轻人。</span><span class="english">They are healthy, gainfully employed young people.</span></p>
 
 <p><span class="chinese">假如他们能就业拿工资，他们的犯罪倾向会有所减弱。</span><span class="english">If they could be gainfully employed, their tendency toward crime would be reduced.</span></p>

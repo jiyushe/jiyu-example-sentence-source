@@ -1,5 +1,7 @@
 # goodwill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goodwill.md)
+
 <p><span class="chinese">友好运动会田径赛。</span><span class="english">Goodwill Games Track and Field.</span></p>
 
 <p><span class="chinese">我只买我的牛仔裤在善意。</span><span class="english">I only buy my jeans at Goodwill.</span></p>

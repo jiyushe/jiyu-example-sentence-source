@@ -1,5 +1,7 @@
 # innovator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/innovator.md)
+
 <p><span class="chinese">朱利安·阿桑奇也是一个革新者。</span><span class="english">Julian Assange is also an innovator.</span></p>
 
 <p><span class="chinese">美国作为技术创新者有巨大的优势。</span><span class="english">America has huge advantages as an innovator.</span></p>

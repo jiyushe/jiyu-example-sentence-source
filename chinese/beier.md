@@ -1,5 +1,7 @@
 # 倍儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beier.md)
+
 <p><span class="chinese">他说，“他们办事效率都倍儿高！”</span><span class="english">They are just super efficient!</span></p>
 
 <p><span class="chinese">居然，依然倍儿堵成这样。</span><span class="english">Actually, it still plugging like this.</span></p>

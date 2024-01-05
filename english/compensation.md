@@ -1,5 +1,7 @@
 # compensation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compensation.md)
+
 <p><span class="chinese">踩坏了照价赔偿。</span><span class="english">Put a bad price as compensation.</span></p>
 
 <p><span class="chinese">他们要求额外的赔偿。</span><span class="english">They asked for extra compensation.</span></p>

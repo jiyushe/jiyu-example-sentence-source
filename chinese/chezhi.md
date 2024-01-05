@@ -1,5 +1,7 @@
 # 撤职
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chezhi.md)
+
 <p><span class="chinese">济南铁路局的两位高官已被撤职。</span><span class="english">Two top officials of the Jinan Railway Bureau were sacked.</span></p>
 
 <p><span class="chinese">这些“阴谋家”被依法撤职逮捕。</span><span class="english">The " plotters " were then ordered to be placed under arrest.</span></p>

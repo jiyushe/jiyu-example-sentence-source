@@ -1,5 +1,7 @@
 # sclc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sclc.md)
+
 <p><span class="chinese">大多数人有限的生存阶段小细胞肺癌。</span><span class="english">Most of those who survive have limited stage SCLC.</span></p>
 
 <p><span class="chinese">对于小细胞肺癌而言，通常不选择手术疗法。</span><span class="english">Surgery is unfortunately not usually an option in SCLC.</span></p>

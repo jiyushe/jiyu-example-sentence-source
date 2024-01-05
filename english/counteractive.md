@@ -1,5 +1,7 @@
 # counteractive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/counteractive.md)
+
 <p><span class="chinese">对反抗疲惫与消极情绪有一定的作用。</span><span class="english">Have certain effect to counteractive exhaustion and negative sentiment.</span></p>
 
 <p><span class="chinese">哪一种蔬菜具有抵抗肠胃癌的功能？</span><span class="english">Do which kind of vegetable have the function of counteractive stomach cancer?</span></p>

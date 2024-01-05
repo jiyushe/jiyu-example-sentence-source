@@ -1,5 +1,7 @@
 # 油然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youran_2.md)
+
 <p><span class="chinese">将南瓜拌油然后加入茴香等香料。</span><span class="english">Set aside. Toss squash with oil, then cumin mixture.</span></p>
 
 <p><span class="chinese">一种深深的知足和感恩心油然生起。</span><span class="english">A deep feeling of contentment and appreciation arose.</span></p>

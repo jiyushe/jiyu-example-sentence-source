@@ -1,5 +1,7 @@
 # serially
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/serially.md)
+
 <p><span class="chinese">串行接口，8位LED显示驱动程序。</span><span class="english">Serially interfaced, 8-digit LED display driver.</span></p>
 
 <p><span class="chinese">听说要连播十天呢，接下来的节目我还是要看的。</span><span class="english">Heard that must broadcast serially ten days, the program then I must look.</span></p>

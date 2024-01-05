@@ -1,5 +1,7 @@
 # 印刷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinshua.md)
+
 <p><span class="chinese">正电极双层印刷。</span><span class="english">Finger double printing.</span></p>
 
 <p><span class="chinese">这会不会是印刷错误？</span><span class="english">Could this be a misprint?</span></p>

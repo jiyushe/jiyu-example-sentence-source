@@ -1,5 +1,7 @@
 # 鸡胸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jixiong.md)
+
 <p><span class="chinese">我炸蝴蝶火鸡胸。</span><span class="english">I fry the butterfly turkey breast instead.</span></p>
 
 <p><span class="chinese">鸡胸朝下、放在烤架上、再把烤架放到一个浅烤盘上。</span><span class="english">Place breast side down on a roasting rack in a shallow roasting pan.</span></p>

@@ -1,5 +1,7 @@
 # 可能
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/keneng.md)
+
 <p><span class="chinese">我能，无限可能！</span><span class="english">I can plar!</span></p>
 
 <p><span class="chinese">不可能。</span><span class="english">Not likely.</span></p>

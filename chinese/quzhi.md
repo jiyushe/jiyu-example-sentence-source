@@ -1,5 +1,7 @@
 # 去职
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quzhi.md)
+
 <p><span class="chinese">我为了找更高之职位，而请求去职。</span><span class="english">I left the position with the desire of improving my position.</span></p>
 
 <p><span class="chinese">由于所服务的公司解散，只好去职。</span><span class="english">I left the office on acount of the discontinuance of the business.</span></p>

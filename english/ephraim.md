@@ -1,5 +1,7 @@
 # ephraim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ephraim.md)
+
 <p><span class="chinese">可莲和可荔却能融入社会。</span><span class="english">But Ephraim and could fit into society.</span></p>
 
 <p><span class="chinese">他住在以法莲山地的沙密。</span><span class="english">He lived in Shamir, in the hill country of Ephraim.</span></p>

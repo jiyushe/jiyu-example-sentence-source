@@ -1,5 +1,7 @@
 # cosmos
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cosmos.md)
+
 <p><span class="chinese">神奇望远镜揭示宇宙新瑰奇</span><span class="english">Awesome telescope sheds new light on cosmos</span></p>
 
 <p><span class="chinese">我们的世界仅仅是宇宙的一小部分而已。</span><span class="english">Our world is but a small part of the cosmos.</span></p>

@@ -1,5 +1,7 @@
 # 耳环
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/erhuan.md)
+
 <p><span class="chinese">我遗失了我的耳环。</span><span class="english">I lost my ear-ring.</span></p>
 
 <p><span class="chinese">罗斯得到一副耳环。</span><span class="english">Ross gets an ear-ring.</span></p>

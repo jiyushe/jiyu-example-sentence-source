@@ -1,5 +1,7 @@
 # 探究
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanjiu.md)
+
 <p><span class="chinese">需要进一步探究的方法.</span><span class="english">B. Areas for further exploration.</span></p>
 
 <p><span class="chinese">我们将在下面探究该问题。</span><span class="english">We will explore this question below.</span></p>

@@ -1,5 +1,7 @@
 # tone 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tone.md)
+
 <p><span class="chinese">赫兹压服口风。</span><span class="english">Hz squelch tone.</span></p>
 
 <p><span class="chinese">语气是要命。</span><span class="english">Tone was awsome.</span></p>

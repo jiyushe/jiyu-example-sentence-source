@@ -1,5 +1,7 @@
 # insulting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insulting.md)
+
 <p><span class="chinese">这很侮辱人。</span><span class="english">It's insulting.</span></p>
 
 <p><span class="chinese">你是在故意侮辱她！</span><span class="english">You are being insulting her!</span></p>

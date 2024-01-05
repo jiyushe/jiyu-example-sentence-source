@@ -1,5 +1,7 @@
 # 花言巧语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huayanqiaoyu.md)
+
 <p><span class="chinese">你甭想花言巧语来骗我。</span><span class="english">You don't want to sweet-talk me.</span></p>
 
 <p><span class="chinese">不要对我花言巧语。</span><span class="english">Don't give me some cooked-up yarn!</span></p>

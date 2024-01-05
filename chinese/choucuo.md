@@ -1,5 +1,7 @@
 # 筹措
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/choucuo.md)
+
 <p><span class="chinese">有关方面可以为初次购买房者筹措资金。</span><span class="english">Finance can be arranged for first-time home buyers.</span></p>
 
 <p><span class="chinese">黄敏归来，西凤筹措人人吃团聚饭。</span><span class="english">Huang, west chicken raising everyone eat reunion dinner.</span></p>

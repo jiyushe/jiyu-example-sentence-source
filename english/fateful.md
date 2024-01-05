@@ -1,5 +1,7 @@
 # fateful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fateful.md)
+
 <p><span class="chinese">谁在这决定命运的早上叫钱先生？</span><span class="english">Who called Mr. Qian on that fateful morning?</span></p>
 
 <p><span class="chinese">这一步骤带来了许多严重的后果。</span><span class="english">This step involved many fateful consequences.</span></p>

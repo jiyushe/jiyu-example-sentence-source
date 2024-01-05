@@ -1,5 +1,7 @@
 # excimer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/excimer.md)
+
 <p><span class="chinese">讨论了准分子激光的输出特性。</span><span class="english">The output performance of excimer laser is discussed.</span></p>
 
 <p><span class="chinese">准分子激光屈光手术是近几年眼科领域的研究热点。</span><span class="english">Excimer laser refractive surgery is the focus in recent years.</span></p>

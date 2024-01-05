@@ -1,5 +1,7 @@
 # locally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/locally.md)
+
 <p><span class="chinese">它能当地化制造。</span><span class="english">It can be made locally.</span></p>
 
 <p><span class="chinese">弗莱德，我的情夫，就是的。</span><span class="english">Fred, my leman, is locally.</span></p>

@@ -1,5 +1,7 @@
 # 盲从
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mangcong.md)
+
 <p><span class="chinese">不要盲从于你周围的人。</span><span class="english">Don't aimlessly listen to those around you.</span></p>
 
 <p><span class="chinese">对社会习俗盲从是愚蠢的。</span><span class="english">It is silly to is a slave to social convention.</span></p>

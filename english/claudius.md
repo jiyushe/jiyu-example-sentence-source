@@ -1,5 +1,7 @@
 # claudius
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/claudius.md)
+
 <p><span class="chinese">秦淮河向革老汇报。</span><span class="english">Qinhuai river report to claudius.</span></p>
 
 <p><span class="chinese">林婴婴把情报交给革老。</span><span class="english">Lin Ying baby give intelligence to claudius.</span></p>

@@ -1,5 +1,7 @@
 # 平手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingshou.md)
+
 <p><span class="chinese">我们又打平手了。</span><span class="english">We're tying again.</span></p>
 
 <p><span class="chinese">因此，这一局是平手。</span><span class="english">So this category is a draw.</span></p>

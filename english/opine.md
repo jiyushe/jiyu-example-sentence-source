@@ -1,5 +1,7 @@
 # opine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/opine.md)
+
 <p><span class="chinese">我想天黑以前要下雨的。</span><span class="english">I opine that it will rain before night.</span></p>
 
 <p><span class="chinese">我认为美国不会涉及台湾的援助。</span><span class="english">I opine the US would not come to Taiwan's aid.</span></p>

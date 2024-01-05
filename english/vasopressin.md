@@ -1,5 +1,7 @@
 # vasopressin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vasopressin.md)
+
 <p><span class="chinese">抗利尿激素和催产素就是从这里进入这个科学传说的。</span><span class="english">This is where the vasopressin and oxytocin come in.</span></p>
 
 <p><span class="chinese">垂体后叶加压素在依恋中也继续着它的角色。</span><span class="english">Vasopressin also continues to play a role in attachment.</span></p>

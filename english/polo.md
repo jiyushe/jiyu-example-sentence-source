@@ -1,5 +1,7 @@
 # polo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polo.md)
+
 <p><span class="chinese">足球还是水球？</span><span class="english">Football or polo?</span></p>
 
 <p><span class="chinese">他喜欢打马球。</span><span class="english">He likes playing polo.</span></p>

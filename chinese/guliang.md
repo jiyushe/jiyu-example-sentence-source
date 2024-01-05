@@ -1,5 +1,7 @@
 # 估量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guliang.md)
+
 <p><span class="chinese">我估量她大要35岁。</span><span class="english">I put her at 35.</span></p>
 
 <p><span class="chinese">我估量她有30岁。</span><span class="english">I estimate her age at 30.</span></p>

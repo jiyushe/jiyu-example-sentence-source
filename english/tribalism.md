@@ -1,5 +1,7 @@
 # tribalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tribalism.md)
+
 <p><span class="chinese">因为我们还在以部落主义的方式思考。</span><span class="english">Because we are still thinking in terms of tribalism.</span></p>
 
 <p><span class="chinese">新部落主义在欧洲也越来越明显。</span><span class="english">The new tribalism is also increasingly evident in Europe.</span></p>

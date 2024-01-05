@@ -1,5 +1,7 @@
 # start
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/start.md)
+
 <p><span class="chinese">早早开始，一日之计在于晨。</span><span class="english">Start early.</span></p>
 
 <p><span class="chinese">那就从这开始。</span><span class="english">Start there.</span></p>

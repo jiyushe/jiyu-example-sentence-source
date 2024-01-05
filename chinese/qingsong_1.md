@@ -1,5 +1,7 @@
 # 青松
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingsong_1.md)
+
 <p><span class="chinese">我爱你青松气质。</span><span class="english">I love your temperament of verdant pines.</span></p>
 
 <p><span class="chinese">我的生活很执著，想青松一样屹立不倒。</span><span class="english">My life is dedicated, to survive, like pine.</span></p>

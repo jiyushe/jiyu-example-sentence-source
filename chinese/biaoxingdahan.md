@@ -1,5 +1,7 @@
 # 彪形大汉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaoxingdahan.md)
+
 <p><span class="chinese">他真像个彪形大汉。</span><span class="english">He looks a real bruiser.</span></p>
 
 <p><span class="chinese">你没看到那些彪形大汉吗？</span><span class="english">Uh, hello, Did you see those men?</span></p>

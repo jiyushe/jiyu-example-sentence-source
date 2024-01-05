@@ -1,5 +1,7 @@
 # 科普
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kepu.md)
+
 <p><span class="chinese">是什么科普读物吗？</span><span class="english">Is it a popular science reading?</span></p>
 
 <p><span class="chinese">汤姆喜欢读科普书。</span><span class="english">Tom likes to read science books.</span></p>

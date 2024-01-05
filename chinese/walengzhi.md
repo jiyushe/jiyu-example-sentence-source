@@ -1,5 +1,7 @@
 # 瓦楞纸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/walengzhi.md)
+
 <p><span class="chinese">斯文森64型切割博思格瓦楞纸板。</span><span class="english">Swenson Model 64 cutting BlueScope corrugated panel.</span></p>
 
 <p><span class="chinese">可提供瓦楞纸板生产线改造用刀分纸机。</span><span class="english">Suitable for corrugated sheet producing line as well.</span></p>

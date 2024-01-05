@@ -1,5 +1,7 @@
 # spiteful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spiteful.md)
+
 <p><span class="chinese">你真刻毒。</span><span class="english">You're being very spiteful.</span></p>
 
 <p><span class="chinese">娜娜当然是没有恶意的。</span><span class="english">Nana was certainly not spiteful.</span></p>

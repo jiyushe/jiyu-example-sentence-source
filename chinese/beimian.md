@@ -1,5 +1,7 @@
 # 被面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beimian.md)
+
 <p><span class="chinese">绸缎做被面很受欢迎。</span><span class="english">Silk is popular for quilt coverings.</span></p>
 
 <p><span class="chinese">我因此而被面墙罚站10分钟。</span><span class="english">I had to stand by a wall for 10 minutes.</span></p>

@@ -1,5 +1,7 @@
 # hopi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hopi.md)
+
 <p><span class="chinese">一种霍比人说的肖松尼语。</span><span class="english">Shoshonean language spoken by the Hopi people.</span></p>
 
 <p><span class="chinese">作为一个已婚男子，我希望成为一个好丈夫。</span><span class="english">As a married man, I was hopi ng to be a good husband.</span></p>

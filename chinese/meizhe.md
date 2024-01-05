@@ -1,5 +1,7 @@
 # 没辙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meizhe.md)
+
 <p><span class="chinese">他拿她没辙了。</span><span class="english">He took her Meizhe had.</span></p>
 
 <p><span class="chinese">恩，基本上你就没辙了。</span><span class="english">Well, you're basically out of luck.</span></p>

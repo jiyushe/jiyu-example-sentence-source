@@ -1,5 +1,7 @@
 # astonished
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/astonished.md)
+
 <p><span class="chinese">他的话使大家感到惊讶。</span><span class="english">His words astonished all.</span></p>
 
 <p><span class="chinese">她惊讶地看着我。</span><span class="english">She looked at me, astonished.</span></p>

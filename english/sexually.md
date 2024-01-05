@@ -1,5 +1,7 @@
 # sexually
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sexually.md)
+
 <p><span class="chinese">我在火车上遇到了性骚扰。</span><span class="english">I was sexually accosted on the train.</span></p>
 
 <p><span class="chinese">但是在性上面，鸟类并不排他。</span><span class="english">Yet, they are not sexually exclusive.</span></p>

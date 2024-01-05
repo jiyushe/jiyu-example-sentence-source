@@ -1,5 +1,7 @@
 # 凶器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongqi.md)
+
 <p><span class="chinese">那简直就是一件凶器。</span><span class="english">It looked like a weapon.</span></p>
 
 <p><span class="chinese">警察在这个地区仔细搜索，寻找凶器。</span><span class="english">Police combed the area for the murder weapon.</span></p>

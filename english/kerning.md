@@ -1,5 +1,7 @@
 # kerning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kerning.md)
+
 <p><span class="chinese">你会成为废弃都市伟大的领导者！</span><span class="english">You'll do a great job leading Kerning City!</span></p>
 
 <p><span class="chinese">是否有解决方法，以获得字距调整的工作？</span><span class="english">Is there a workaround to get kerning working?</span></p>

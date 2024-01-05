@@ -1,5 +1,7 @@
 # bodice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bodice.md)
+
 <p><span class="chinese">褶围兜装饰傻眼了。</span><span class="english">Pleated bib adorns the bodice.</span></p>
 
 <p><span class="chinese">帝国胸衣与打褶细节。</span><span class="english">Empire bodice with pleated detail.</span></p>

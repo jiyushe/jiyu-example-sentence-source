@@ -1,5 +1,7 @@
 # partridge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/partridge.md)
+
 <p><span class="chinese">和一只鹧鸪在梨树。</span><span class="english">And a Partridge in a Pear Tree.</span></p>
 
 <p><span class="chinese">更远些，那些鹌鹑蛋。</span><span class="english">And even further, partridge eggs.</span></p>

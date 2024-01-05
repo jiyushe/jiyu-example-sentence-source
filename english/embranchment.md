@@ -1,5 +1,7 @@
 # embranchment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/embranchment.md)
+
 <p><span class="chinese">基于形状的物体识别是X射线检测技术的一个分支。</span><span class="english">Object recognition based on shape is an embranchment of X-ray detection techniques.</span></p>
 
 <p><span class="chinese">小波方法是目前图像超分辨率复原研究的一个重要分支。</span><span class="english">Wavelet method has become the important embranchment of super-resolution restoration.</span></p>

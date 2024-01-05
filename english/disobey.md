@@ -1,5 +1,7 @@
 # disobey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disobey.md)
+
 <p><span class="chinese">你故意忤逆我。</span><span class="english">You deliberately disobey me.</span></p>
 
 <p><span class="chinese">只会选择不顺服神。</span><span class="english">It only chooses to disobey God.</span></p>

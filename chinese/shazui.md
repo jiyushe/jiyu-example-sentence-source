@@ -1,5 +1,7 @@
 # 沙嘴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shazui.md)
+
 <p><span class="chinese">我会住在九龙尖沙嘴的酒店。</span><span class="english">I am staying at hotel in Kowloon.</span></p>
 
 <p><span class="chinese">从尖沙嘴看港岛，中国银行西边最高的一幢楼是什么楼。</span><span class="english">Bank of China on one block west of the highest floor is.</span></p>

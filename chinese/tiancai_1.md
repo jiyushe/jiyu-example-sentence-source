@@ -1,5 +1,7 @@
 # 甜菜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiancai_1.md)
+
 <p><span class="chinese">甜菜泡沫?</span><span class="english">Beetroot froth?</span></p>
 
 <p><span class="chinese">玉米和糖用甜菜可能是未来的出路。</span><span class="english">Corn and sugar beets could be the future.</span></p>

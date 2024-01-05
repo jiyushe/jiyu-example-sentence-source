@@ -1,5 +1,7 @@
 # bisector
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bisector.md)
+
 <p><span class="chinese">线段AB是一条平分线。</span><span class="english">The line AB is a bisector.</span></p>
 
 <p><span class="chinese">一江离恨恰平分。</span><span class="english">Jiang from hate exactly one bisector.</span></p>

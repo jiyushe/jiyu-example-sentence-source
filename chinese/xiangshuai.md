@@ -1,5 +1,7 @@
 # 相率
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangshuai.md)
+
 <p><span class="chinese">这就是吉布斯相率，对吗？</span><span class="english">Which is the Gibbs phase rule, right?</span></p>
 
 <p><span class="chinese">我们今天要做的事证明这个相率。</span><span class="english">And where we're going to start today is by proving this.</span></p>

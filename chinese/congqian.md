@@ -1,5 +1,7 @@
 # 从前
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/congqian.md)
+
 <p><span class="chinese">我从前常抽烟斗。</span><span class="english">I used to smoke a pipe.</span></p>
 
 <p><span class="chinese">让过去的就从前吧。</span><span class="english">Let bygones be bygones.</span></p>

@@ -1,5 +1,7 @@
 # inevitable 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inevitable.md)
+
 <p><span class="chinese">冗余是不可避免的。</span><span class="english">Redundancy is inevitable.</span></p>
 
 <p><span class="chinese">黄金年是不可避免的。</span><span class="english">The golden years are inevitable.</span></p>

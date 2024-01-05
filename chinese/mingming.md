@@ -1,5 +1,7 @@
 # 冥冥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingming.md)
+
 <p><span class="chinese">也就是冥冥中注定的那一个。</span><span class="english">Also is the one that doomed.</span></p>
 
 <p><span class="chinese">也就是冥冥中注定的那一个。</span><span class="english">Also is the one that doomed devine.</span></p>

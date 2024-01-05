@@ -1,5 +1,7 @@
 # astrometry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/astrometry.md)
+
 <p><span class="chinese">天体测量也有其他优势。</span><span class="english">Astrometry has other advantages as well.</span></p>
 
 <p><span class="chinese">它是空间测量学专业船只。</span><span class="english">It is specialized in astrometry and survey operations.</span></p>

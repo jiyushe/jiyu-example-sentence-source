@@ -1,5 +1,7 @@
 # 隐没
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinmei.md)
+
 <p><span class="chinese">小山隐没在浓雾之中.</span><span class="english">The hills were wrapped in mist.</span></p>
 
 <p><span class="chinese">真正的战争永远会隐没于历史的黑暗面。</span><span class="english">The real war will never get in the books.</span></p>

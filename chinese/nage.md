@@ -1,5 +1,7 @@
 # 那个
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nage.md)
+
 <p><span class="chinese">那个值。</span><span class="english">That value.</span></p>
 
 <p><span class="chinese">那个法官呢？</span><span class="english">And the judge?</span></p>

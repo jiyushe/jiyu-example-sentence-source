@@ -1,5 +1,7 @@
 # 生出
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengchu_1.md)
+
 <p><span class="chinese">繁重的劳动使他的双手生出茧子来。</span><span class="english">Heavy work callused his hands.</span></p>
 
 <p><span class="chinese">我们誓将这希望的花朵生出超越过去的更大的果实</span><span class="english">Flower of hope ever so blossoming</span></p>

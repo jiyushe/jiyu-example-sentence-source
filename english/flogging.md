@@ -1,5 +1,7 @@
 # flogging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flogging.md)
+
 <p><span class="chinese">停止对过去犯下的错误的自责。</span><span class="english">Stop flogging yourself over mistakes over the past.</span></p>
 
 <p><span class="chinese">只要回忆起农民被鞭笞的事就叫我够受的了。</span><span class="english">It is enough for me to recall the flogging of peasants.</span></p>

@@ -1,5 +1,7 @@
 # unpleasing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unpleasing.md)
+
 <p><span class="chinese">不要人为地去掩饰生活中的不尽人意之处。</span><span class="english">Don't engage in a personal cover-up of areas that are unpleasing in your life.</span></p>
 
 <p><span class="chinese">正是那云雀唱得如此走调、扯起嘶哑的喉咙、发出讨厌的尖叫声。</span><span class="english">It is the lark that sings so out of them, straining harsh discords and unpleasing sharps.</span></p>

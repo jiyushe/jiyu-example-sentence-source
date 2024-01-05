@@ -1,5 +1,7 @@
 # 童稚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongzhi_1.md)
+
 <p><span class="chinese">我喜欢她童稚般的纯真。</span><span class="english">I enjoy her childlike innocence.</span></p>
 
 <p><span class="chinese">老人是第二次当童稚。</span><span class="english">Old men are children for a second time.</span></p>

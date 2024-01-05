@@ -1,5 +1,7 @@
 # 年岁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niansui.md)
+
 <p><span class="chinese">生命之刀！随着年岁切割着你。</span><span class="english">Cut you with the age!</span></p>
 
 <p><span class="chinese">他年岁已高。</span><span class="english">He is advanced in years.</span></p>

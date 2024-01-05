@@ -1,5 +1,7 @@
 # untended
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/untended.md)
+
 <p><span class="chinese">你的行李是否有无人照看的时候？</span><span class="english">Have you left your baggage untended at any time?</span></p>
 
 <p><span class="chinese">一片被忽视的草坪或者一座荒废的花园显示主人不在家。</span><span class="english">An untended lawn or garden can signal an absent owner.</span></p>

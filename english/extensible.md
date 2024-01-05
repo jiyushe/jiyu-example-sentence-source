@@ -1,5 +1,7 @@
 # extensible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extensible.md)
+
 <p><span class="chinese">它是一个开放性的平台，可扩展的设计。</span><span class="english">It's an open-platform, extensible design.</span></p>
 
 <p><span class="chinese">非常简单且条理清楚的可扩展格式。</span><span class="english">A clean, extensible format that's very simple.</span></p>

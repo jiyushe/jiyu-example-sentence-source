@@ -1,5 +1,7 @@
 # 名位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingwei.md)
+
 <p><span class="chinese">有了名位，嫉妒和仇恨便接踵而至。</span><span class="english">After honor And state, follow envy And hate.</span></p>
 
 <p><span class="chinese">有了名位，嫉妒和仇恨便接踵而来。</span><span class="english">After honor and state, follow envy and hate.</span></p>

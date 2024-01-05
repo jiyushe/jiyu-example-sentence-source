@@ -1,5 +1,7 @@
 # 明丽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingli_2.md)
+
 <p><span class="chinese">阳光明丽舞妙曼。</span><span class="english">Dance to their romance in the sun.</span></p>
 
 <p><span class="chinese">明丽的六月你吹拂玫瑰。</span><span class="english">Do not the bright June roses blow.</span></p>

@@ -1,5 +1,7 @@
 # 枢纽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuniu.md)
+
 <p><span class="chinese">有些人就像这些交通枢纽。</span><span class="english">Some people are hubs.</span></p>
 
 <p><span class="chinese">西朗综合枢纽区。</span><span class="english">Serang integrated hub area.</span></p>

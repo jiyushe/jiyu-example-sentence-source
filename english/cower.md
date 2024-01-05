@@ -1,5 +1,7 @@
 # cower
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cower.md)
+
 <p><span class="chinese">他们惊恐，畏缩。</span><span class="english">They're terrified, they cower.</span></p>
 
 <p><span class="chinese">你不会含屈忍辱畏缩不前。</span><span class="english">Thou wilt not cower in the dust.</span></p>

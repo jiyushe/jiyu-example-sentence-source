@@ -1,5 +1,7 @@
 # secretary 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/secretary.md)
+
 <p><span class="chinese">他是我们的支部书记。</span><span class="english">He is secretary of our branch.</span></p>
 
 <p><span class="chinese">国内安全部长。</span><span class="english">Secretary of Homeland Security.</span></p>

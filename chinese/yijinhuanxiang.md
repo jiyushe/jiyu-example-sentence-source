@@ -1,5 +1,7 @@
 # 衣锦还乡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yijinhuanxiang.md)
+
 <p><span class="chinese">有朝一日，我会衣锦还乡。</span><span class="english">I'll come back with honors someday.</span></p>
 
 <p><span class="chinese">他离开时贫穷，但后来衣锦还乡。</span><span class="english">He left poor and later returned with ship coming home.</span></p>

@@ -1,5 +1,7 @@
 # equator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equator.md)
+
 <p><span class="chinese">赤道反气旋。</span><span class="english">Anti- cyclone in the equator.</span></p>
 
 <p><span class="chinese">赤道环绕地球。</span><span class="english">The equator engirds the earth.</span></p>

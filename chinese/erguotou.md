@@ -1,5 +1,7 @@
 # 二锅头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/erguotou.md)
+
 <p><span class="chinese">二锅头。</span><span class="english">Two pots of heads.</span></p>
 
 <p><span class="chinese">于是的上帝给了他更多哒二锅头。</span><span class="english">So God gave him more Erguotou.</span></p>

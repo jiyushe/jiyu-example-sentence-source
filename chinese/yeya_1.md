@@ -1,5 +1,7 @@
 # 野鸭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yeya_1.md)
+
 <p><span class="chinese">野鸭飞落在水池。</span><span class="english">Ducks lit on the pond.</span></p>
 
 <p><span class="chinese">野鸭们散布在各处。</span><span class="english">Ducks are spread everywhere.</span></p>

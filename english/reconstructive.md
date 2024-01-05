@@ -1,5 +1,7 @@
 # reconstructive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reconstructive.md)
+
 <p><span class="chinese">若要了解更多关于膝盖手术和重建膝部手术，请访问我们。</span><span class="english">To learn more about Knee Surgery and Reconstructive Knee Surgery , visit us.</span></p>
 
 <p><span class="chinese">没有重构过程可以再降低图案的能量级别。</span><span class="english">There is no reconstructive process that can lower the pattern's energy level.</span></p>

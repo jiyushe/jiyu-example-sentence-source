@@ -1,5 +1,7 @@
 # 才貌双全
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caimaoshuangquan.md)
+
 <p><span class="chinese">她是相当地才貌双全。</span><span class="english">She was a total knockout.</span></p>
 
 <p><span class="chinese">SDZ总想娶一个才貌双全的姑娘为妻。</span><span class="english">SDZ wants to marry a girl who is both pretty and clever.</span></p>

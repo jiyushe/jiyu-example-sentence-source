@@ -1,5 +1,7 @@
 # mutinous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mutinous.md)
+
 <p><span class="chinese">有反抗心理的孩子们拒绝听老师的话。</span><span class="english">The mutinous children refused to obey their teacher.</span></p>
 
 <p><span class="chinese">以这个名义，他收集了搞叛变和颠覆活动的阴谋计划的情报。</span><span class="english">In this guise he gathered information about mutinous and subversive designs.</span></p>

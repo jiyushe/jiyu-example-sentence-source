@@ -1,5 +1,7 @@
 # primo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/primo.md)
+
 <p><span class="chinese">什么时候第一次上场检验？</span><span class="english">Il primo test sul campo?</span></p>
 
 <p><span class="chinese">警方仍然在寻找他的其他同伙。</span><span class="english">Police are still looking for his primo buddies.</span></p>

@@ -1,5 +1,7 @@
 # annex
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/annex.md)
+
 <p><span class="chinese">注注释被移到附录A。</span><span class="english">NOTE Note moved to Annex A.</span></p>
 
 <p><span class="chinese">它想占有耶路撒冷。</span><span class="english">It wants to annex Jerusalem.</span></p>

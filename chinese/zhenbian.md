@@ -1,5 +1,7 @@
 # 针砭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenbian.md)
+
 <p><span class="chinese">我接受你的针砭箴规。</span><span class="english">i'll take your advice.</span></p>
 
 <p><span class="chinese">我只有一个针砭针砭给你——做你本身的主人。</span><span class="english">I have but one counsel for you-be your own master.</span></p>

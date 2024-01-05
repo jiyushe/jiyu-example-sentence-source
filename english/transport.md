@@ -1,5 +1,7 @@
 # transport
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transport.md)
+
 <p><span class="chinese">公交也便宜得多。</span><span class="english">Transport is much cheaper.</span></p>
 
 <p><span class="chinese">遣送是间歇性的。</span><span class="english">The transport is spasmodic.</span></p>

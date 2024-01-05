@@ -1,5 +1,7 @@
 # noel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noel.md)
+
 <p><span class="chinese">纳尔感到有一股血液直往脸上冲。</span><span class="english">Noel felt the blood drain from her face.</span></p>
 
 <p><span class="chinese">该隐和亚伯，莱纳斯和露西，里昂和诺埃尔。</span><span class="english">Cain and Abel, Linus and Lucy, Liam and Noel.</span></p>

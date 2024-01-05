@@ -1,5 +1,7 @@
 # 水轮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuilun.md)
+
 <p><span class="chinese">风水轮流转，轮到我吃亏…</span><span class="english">It's just my turn to suffer loses.</span></p>
 
 <p><span class="chinese">风水轮流转，肯定会来到我们的身边。</span><span class="english">What goes around surely will come around.</span></p>

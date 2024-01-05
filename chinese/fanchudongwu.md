@@ -1,5 +1,7 @@
 # 反刍动物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanchudongwu.md)
+
 <p><span class="chinese">用作食物的反刍动物的胃的内层。</span><span class="english">Lining of the stomach of a ruminant used as food.</span></p>
 
 <p><span class="chinese">蓝舌病发生于大多数家生的和野生的反刍动物。</span><span class="english">Bluetongue occurs in most species of ruminants, both domestic and wild.</span></p>

@@ -1,5 +1,7 @@
 # tutelary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tutelary.md)
+
 <p><span class="chinese">从那时起，陆羽被奉为中国茶商的守护神。</span><span class="english">He has since been worshipped as the tutelary god of the Chinese tea merchants.</span></p>
 
 <p><span class="chinese">检察制度是现代法治的标志之一，检察官更是被称为法律守护人。</span><span class="english">Procurator system is a sign of law rule, and public prosecutor is also called Law Tutelary.</span></p>

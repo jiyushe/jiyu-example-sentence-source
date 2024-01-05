@@ -1,5 +1,7 @@
 # valid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/valid.md)
+
 <p><span class="chinese">输入一个有效的文件名称。</span><span class="english">Enter a valid file name.</span></p>
 
 <p><span class="chinese">否认疼痛是有确实根据的。</span><span class="english">Disavowal of pain is valid.</span></p>

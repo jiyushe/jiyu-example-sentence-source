@@ -1,5 +1,7 @@
 # 口感
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kougan.md)
+
 <p><span class="chinese">口感圆润滑顺。</span><span class="english">Round and smooth mouth.</span></p>
 
 <p><span class="chinese">整道菜口感辛辣又不失美味。</span><span class="english">It is spicy but delicious.</span></p>

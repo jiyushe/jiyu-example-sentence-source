@@ -1,5 +1,7 @@
 # synchronicity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synchronicity.md)
+
 <p><span class="chinese">除此之外还有很多其他类似的“同步”的例子。</span><span class="english">There are many other examples of such "Synchronicity".</span></p>
 
 <p><span class="chinese">根据维基百科，关于同步性的定义是</span><span class="english">According to Wikipedia, the definition of Synchronicity is</span></p>

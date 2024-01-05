@@ -1,5 +1,7 @@
 # forman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forman.md)
+
 <p><span class="chinese">受第一次的启发，福曼认为自己可以有更好的成绩。</span><span class="english">Inspired by his first try, Forman thought he could do even better.</span></p>
 
 <p><span class="chinese">她正根据他的口述记录西蒙·福曼的日记。</span><span class="english">She is transcribing, from his dictation, the diaries of Simon Forman.</span></p>

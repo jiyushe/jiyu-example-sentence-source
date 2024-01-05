@@ -1,5 +1,7 @@
 # threw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/threw.md)
+
 <p><span class="chinese">我们就把它扔了。啊。</span><span class="english">We threw it away.</span></p>
 
 <p><span class="chinese">他向她送了一个飞吻。</span><span class="english">He threw her a kiss.</span></p>

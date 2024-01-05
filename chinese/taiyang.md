@@ -1,5 +1,7 @@
 # 太阳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taiyang.md)
+
 <p><span class="chinese">太阳的梦！</span><span class="english">Of sun!</span></p>
 
 <p><span class="chinese">太阳是什么？</span><span class="english">What is sun?</span></p>

@@ -1,5 +1,7 @@
 # goodbye
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goodbye.md)
+
 <p><span class="chinese">再见埃伦。</span><span class="english">Ellen goodbye.</span></p>
 
 <p><span class="chinese">然后我说再见。</span><span class="english">Then I said goodbye.</span></p>

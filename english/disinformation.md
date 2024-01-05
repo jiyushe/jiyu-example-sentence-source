@@ -1,5 +1,7 @@
 # disinformation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disinformation.md)
+
 <p><span class="chinese">媒体的造谣变得制度化了。</span><span class="english">Media disinformation has become institutionalized.</span></p>
 
 <p><span class="chinese">这里中共的虚假情报成分好象更多一些。</span><span class="english">This seems to be more Chicom disinformation more than anything else.</span></p>

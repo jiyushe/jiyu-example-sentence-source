@@ -1,5 +1,7 @@
 # sesame
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sesame.md)
+
 <p><span class="chinese">我还吃过一根带黑芝麻的冰棍。</span><span class="english">I also ate a sesame ice-cream.</span></p>
 
 <p><span class="chinese">淋上蜂蜜，撒上白芝麻即可。</span><span class="english">Pour honey and strew white sesame.</span></p>

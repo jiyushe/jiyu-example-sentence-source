@@ -1,5 +1,7 @@
 # bifilar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bifilar.md)
+
 <p><span class="chinese">元件系用双股绕线网缠绕在一块绝缘基板上。</span><span class="english">The element employs a bifilar wound wire grid on an insulating substrate.</span></p>
 
 <p><span class="chinese">文中对磁聚焦螺线的双线分裂现象进行了讨论。</span><span class="english">This paper discusses the bifilar splitting phenomenon of magnetic focusing spiral curve.</span></p>

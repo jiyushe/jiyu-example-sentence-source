@@ -1,5 +1,7 @@
 # 不符
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bufu_1.md)
+
 <p><span class="chinese">他的话与事实不符。</span><span class="english">His remark discords with the fact.</span></p>
 
 <p><span class="chinese">这些结论与事实不符。</span><span class="english">The conclusions disagree with the facts.</span></p>

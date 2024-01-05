@@ -1,5 +1,7 @@
 # perilla
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perilla.md)
+
 <p><span class="chinese">在紫苏园里，你可以找到答案。</span><span class="english">In Perilla campus, you will find the answer.</span></p>
 
 <p><span class="chinese">浅黄色油状液体，具有紫苏特有的气味，滋味柔和。</span><span class="english">Pale yellow oily liquid, With Perilla -specific odor, Taste of soft.</span></p>

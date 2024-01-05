@@ -1,5 +1,7 @@
 # samarium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/samarium.md)
+
 <p><span class="chinese">钐，金属钐，钐金属。</span><span class="english">Samarium, Samarium Metal, Metal Samarium.</span></p>
 
 <p><span class="chinese">用流变相合成了水杨酸钐。</span><span class="english">Samarium salicylate is synthesized by the rheological phase reaction method.</span></p>

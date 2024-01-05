@@ -1,5 +1,7 @@
 # 遗传
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yichuan.md)
+
 <p><span class="chinese">那么，这是遗传的吗？</span><span class="english">Well, is it genetic?</span></p>
 
 <p><span class="chinese">习癖是遗传的。</span><span class="english">Habits are inherited.</span></p>

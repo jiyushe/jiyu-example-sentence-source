@@ -1,5 +1,7 @@
 # 林地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lindi.md)
+
 <p><span class="chinese">独自居住于蜂鸣喧响的林地。</span><span class="english">And live alone in the bee-loud glade.</span></p>
 
 <p><span class="chinese">草丛微动，他的林地里散发着印第安人气味。</span><span class="english">The moving grass, the Indian in his glade.</span></p>

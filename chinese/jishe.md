@@ -1,5 +1,7 @@
 # 鸡舍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jishe.md)
+
 <p><span class="chinese">加入社区农场或杂货鸡舍。</span><span class="english">Join a community farm or grocery coop.</span></p>
 
 <p><span class="chinese">于是“狐狸溜进了皮克斯的鸡舍”</span><span class="english">Then a fox snuck into Pixar’s henhouse.</span></p>

@@ -1,5 +1,7 @@
 # 乒乓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingpang.md)
+
 <p><span class="chinese">也有乒乓桌。</span><span class="english">There is table-tennis table.</span></p>
 
 <p><span class="chinese">我们乒乓队球技超群。</span><span class="english">Our ping-pong team is red hot.</span></p>

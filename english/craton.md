@@ -1,5 +1,7 @@
 # craton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/craton.md)
+
 <p><span class="chinese">因而提出了海南克拉通的概念。</span><span class="english">Therefore the author Proposed the concept of Hainan Craton.</span></p>
 
 <p><span class="chinese">通常引用的克拉通实例是加拿大地盾。</span><span class="english">A commonly cited example of a craton is the Canadian Shield.</span></p>

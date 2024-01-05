@@ -1,5 +1,7 @@
 # 民以食为天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minyishiweitian.md)
+
 <p><span class="chinese">国以民为本，民以食为天，食以安为先！</span><span class="english">States to the people and food to safety first!</span></p>
 
 <p><span class="chinese">民以食为天！请尊重我们的衣食父母吧！</span><span class="english">Food is important to the people! Please respect the farmer!</span></p>

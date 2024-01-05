@@ -1,5 +1,7 @@
 # imperative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imperative.md)
+
 <p><span class="chinese">使用命令性安全检查。</span><span class="english">Using imperative security checks.</span></p>
 
 <p><span class="chinese">而这就是程序性知识。</span><span class="english">And that's what imperative knowledge is.</span></p>

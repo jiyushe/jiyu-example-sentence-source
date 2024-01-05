@@ -1,5 +1,7 @@
 # 将将
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangqiang.md)
+
 <p><span class="chinese">近亲结婚将将西班牙哈普斯堡皇室引向衰退。</span><span class="english">Inbreeding seen to bring down Spain's Habsburgs.</span></p>
 
 <p><span class="chinese">秦岚却在他将将躺下的时候，突然开了口。</span><span class="english">Qin Lan but when he will lie down, suddenly open mouth.</span></p>

@@ -1,5 +1,7 @@
 # 网虫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangchong.md)
+
 <p><span class="chinese">他是个网虫。</span><span class="english">He is a nethead.</span></p>
 
 <p><span class="chinese">你是网虫吗?</span><span class="english">Are you a nethead?</span></p>

@@ -1,5 +1,7 @@
 # stuffing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stuffing.md)
+
 <p><span class="chinese">绿色甘蓝菜等填料。</span><span class="english">Collard greens. Stuffing.</span></p>
 
 <p><span class="chinese">拆卸填料函。</span><span class="english">Dismantle the stuffing box.</span></p>

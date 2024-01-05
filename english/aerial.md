@@ -1,5 +1,7 @@
 # aerial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aerial.md)
+
 <p><span class="chinese">自支持架空安装。</span><span class="english">Self-support aerial installation.</span></p>
 
 <p><span class="chinese">鸟瞰维米，爪哇，印度尼西亚，1994。</span><span class="english">Vimy Aerial View, Java, Indonesia, 1994</span></p>

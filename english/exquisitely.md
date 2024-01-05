@@ -1,5 +1,7 @@
 # exquisitely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exquisitely.md)
+
 <p><span class="chinese">那真是一个异常美丽的地方。</span><span class="english">It is an exquisitely beautiful spot.</span></p>
 
 <p><span class="chinese">植物化石被精巧地保存了下来。</span><span class="english">The plant fossils are exquisitely preserved.</span></p>

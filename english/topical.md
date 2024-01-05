@@ -1,5 +1,7 @@
 # topical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/topical.md)
+
 <p><span class="chinese">所以，头发不需要任何局部护理。</span><span class="english">So, hair doesn’t need any topical treatment.</span></p>
 
 <p><span class="chinese">用来治疗眼睛传染疾病的磺胺药物。</span><span class="english">A topical sulfonamide used to treat eye infections.</span></p>

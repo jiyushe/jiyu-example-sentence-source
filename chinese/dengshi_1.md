@@ -1,5 +1,7 @@
 # 登时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dengshi_1.md)
+
 <p><span class="chinese">一听那话她脸色登时变得苍白，直白到嘴唇了。</span><span class="english">On hearing that, her face went white to the lips.</span></p>
 
 <p><span class="chinese">至于约翰我将登时给他写信。</span><span class="english">Regarding John I will write to him simultaneously.</span></p>

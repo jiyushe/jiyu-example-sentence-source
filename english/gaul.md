@@ -1,5 +1,7 @@
 # gaul
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gaul.md)
+
 <p><span class="chinese">凯撒在公元前五十年时征服高卢。</span><span class="english">Caesar subdued Gaul in 50 B. C.</span></p>
 
 <p><span class="chinese">这是一尊“垂死挣扎的高卢人”的雕塑。</span><span class="english">It is the statue of the "Dying Gaul".</span></p>

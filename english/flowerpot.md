@@ -1,5 +1,7 @@
 # flowerpot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flowerpot.md)
+
 <p><span class="chinese">她告诉他，不要把花盆打破。</span><span class="english">She tells him not to break the flowerpot.</span></p>
 
 <p><span class="chinese">你想让我把花盆里的土都吃了还是咋地？</span><span class="english">Do you want me to eat dirt from a flowerpot?</span></p>

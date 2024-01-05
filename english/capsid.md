@@ -1,5 +1,7 @@
 # capsid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capsid.md)
+
 <p><span class="chinese">动态异构控制a-hiv衣壳相互亲。</span><span class="english">Dynamic allostery governs cyclophilin A-HIV capsid interplay.</span></p>
 
 <p><span class="chinese">近年来国外开始把B19的衣壳蛋白作为疫苗抗原进行研究。</span><span class="english">Recently recombination of B19 capsid protein as vaccine antigen is processing in fremdness.</span></p>

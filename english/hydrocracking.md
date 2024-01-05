@@ -1,5 +1,7 @@
 # hydrocracking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrocracking.md)
+
 <p><span class="chinese">塔底重油作催化裂化或加氢裂扮装置的原料。</span><span class="english">Bottom heavy oil as the FCC or hydrocracking equipment materials.</span></p>
 
 <p><span class="chinese">开发了一种具有较高的中油选择性的加氢裂化催化剂。</span><span class="english">A hydrocracking catalyst with high selectivity to middle distillates was developed.</span></p>

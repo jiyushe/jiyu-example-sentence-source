@@ -1,5 +1,7 @@
 # tailoring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tailoring.md)
+
 <p><span class="chinese">裁剪Rational统一过程为项目管理知识体系最佳实践</span><span class="english">Tailoring RUP to PMBOK best practices</span></p>
 
 <p><span class="chinese">从裁剪上来讲，定做的西装是最好的。</span><span class="english">For tailoring options, the bespoke suit is the finest.</span></p>

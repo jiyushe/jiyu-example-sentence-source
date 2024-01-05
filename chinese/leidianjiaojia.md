@@ -1,5 +1,7 @@
 # 雷电交加
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leidianjiaojia.md)
+
 <p><span class="chinese">那个暴风雨之夜雷电交加。</span><span class="english">It thundered and lightened that stormy night.</span></p>
 
 <p><span class="chinese">有一场雷电交加的大暴雨。</span><span class="english">There was a heavy storm with thunder and lightning.</span></p>

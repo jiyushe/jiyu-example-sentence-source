@@ -1,5 +1,7 @@
 # devolatilization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/devolatilization.md)
+
 <p><span class="chinese">主要挥发分析出后热膨胀引起的破碎可以忽略。</span><span class="english">The fragmentation which induces thermal expansion can be neglected after the main devolatilization.</span></p>
 
 <p><span class="chinese">本文在自行搭建的小型流化床实验台上进行了油页岩脱挥发分试验研究。</span><span class="english">The devolatilization characteristics of Wangqing oil shale were studied in a laboratory scale fluidized bed.</span></p>

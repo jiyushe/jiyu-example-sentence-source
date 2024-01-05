@@ -1,5 +1,7 @@
 # 改判
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaipan.md)
+
 <p><span class="chinese">比赛中有时改判，请大家不要介意，角度不同嘛。</span><span class="english">Due to different angles, there might be overrules , please don't mind.</span></p>
 
 <p><span class="chinese">信守这一原则，奥巴马应该改判波拉德的刑期。</span><span class="english">With these principles in mind, Obama should commute Pollard's sentence to time served.</span></p>

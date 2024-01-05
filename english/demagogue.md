@@ -1,5 +1,7 @@
 # demagogue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demagogue.md)
+
 <p><span class="chinese">他们称他为政治煽动家。</span><span class="english">They labeled him a demagogue.</span></p>
 
 <p><span class="chinese">我不想把话夸大。</span><span class="english">I don't want to demagogue my talk.</span></p>

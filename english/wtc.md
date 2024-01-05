@@ -1,5 +1,7 @@
 # wtc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wtc.md)
+
 <p><span class="chinese">你们谁知道“WTC”是什么意思？</span><span class="english">Do any of you know what "WTC" means?</span></p>
 
 <p><span class="chinese">梅里曼的世台会在地方和球连结，连接器和狗骨的所有连接。</span><span class="english">Merriman's WTC in place and ball link connectors and dog bone all hooked up.</span></p>

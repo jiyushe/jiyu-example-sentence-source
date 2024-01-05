@@ -1,5 +1,7 @@
 # radwaste
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radwaste.md)
+
 <p><span class="chinese">对运载着放射性废料的卡车的称重是个必要的过程。</span><span class="english">Weighting of radwaste machines is a necessary procedure.</span></p>
 
 <p><span class="chinese">核电站关闭的时候，我们要把核废料放哪儿？</span><span class="english">When the nuclear power plant closes, where shall we put the radwaste?</span></p>

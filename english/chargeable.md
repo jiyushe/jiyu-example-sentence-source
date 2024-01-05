@@ -1,5 +1,7 @@
 # chargeable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chargeable.md)
+
 <p><span class="chinese">这些债可记在我的账上。</span><span class="english">These debts are chargeable to me.</span></p>
 
 <p><span class="chinese">房间里的所有东西都是收费的。</span><span class="english">All things in the room are chargeable.</span></p>

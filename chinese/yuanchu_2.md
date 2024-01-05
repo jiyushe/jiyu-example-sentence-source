@@ -1,5 +1,7 @@
 # 远处
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanchu_2.md)
+
 <p><span class="chinese">远处若隐若现的车流喧嚣。</span><span class="english">Distant traffic noises.</span></p>
 
 <p><span class="chinese">他直勾勾地盯着远处看。</span><span class="english">He stared fixedly at me.</span></p>

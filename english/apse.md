@@ -1,5 +1,7 @@
 # apse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apse.md)
+
 <p><span class="chinese">拱点的或与之相关的。</span><span class="english">Of or relating an apse.</span></p>
 
 <p><span class="chinese">在北侧半圆壁龛另有一块相似的石头。</span><span class="english">A similar rocky protrusion was noticed in the north apse.</span></p>

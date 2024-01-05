@@ -1,5 +1,7 @@
 # 狂怒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuangnu.md)
+
 <p><span class="chinese">狂怒现在成为巧妙的技能。</span><span class="english">Fury now became skill.</span></p>
 
 <p><span class="chinese">她的脸上全是狂怒的表情。</span><span class="english">Her face was a mask of rage.</span></p>

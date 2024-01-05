@@ -1,5 +1,7 @@
 # gaoler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gaoler.md)
+
 <p><span class="chinese">狱卒急切地观察着。</span><span class="english">The gaoler looked on eagerly.</span></p>
 
 <p><span class="chinese">好心的看守答应帮犯人寄信。</span><span class="english">The kind gaoler agreed to post the letter for the prisoner.</span></p>

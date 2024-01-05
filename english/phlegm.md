@@ -1,5 +1,7 @@
 # phlegm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phlegm.md)
+
 <p><span class="chinese">痰是什么颜色的?。</span><span class="english">What colour is the phlegm?</span></p>
 
 <p><span class="chinese">你咳嗽有痰吗？</span><span class="english">Are you coughing up phlegm?</span></p>

@@ -1,5 +1,7 @@
 # relativistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relativistic.md)
+
 <p><span class="chinese">我们已经有一个可用的相对性方程。</span><span class="english">We had a relativistic equation which worked.</span></p>
 
 <p><span class="chinese">就在相对论的探索前站不住了。</span><span class="english">It breaks down in the face of relativistic exploration.</span></p>

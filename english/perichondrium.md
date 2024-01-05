@@ -1,5 +1,7 @@
 # perichondrium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perichondrium.md)
+
 <p><span class="chinese">刮除软骨膜，暴露软骨。</span><span class="english">The cartilage was exposed by scraping the perichondrium.</span></p>
 
 <p><span class="chinese">软骨膜是向软骨输送血液的。</span><span class="english">The perichondrium carries the blood supply to the cartilage.</span></p>

@@ -1,5 +1,7 @@
 # 栽倒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaidao.md)
+
 <p><span class="chinese">老族长眼一黑差点栽倒。</span><span class="english">Old clan long eye a black almost fall down.</span></p>
 
 <p><span class="chinese">穿新鞋时一头栽倒了？</span><span class="english">Falling head over heels with your new shoes?</span></p>

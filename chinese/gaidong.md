@@ -1,5 +1,7 @@
 # 改动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaidong.md)
+
 <p><span class="chinese">让我稍微改动一下儿这个游戏。</span><span class="english">Let me change the game slightly.</span></p>
 
 <p><span class="chinese">译本文字未改动。</span><span class="english">No changes in text of librettos.</span></p>

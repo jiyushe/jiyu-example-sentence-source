@@ -1,5 +1,7 @@
 # semiquantitative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semiquantitative.md)
+
 <p><span class="chinese">定量测定与定性的结果一致。</span><span class="english">The quantitative and semiquantitative results were consistent.</span></p>
 
 <p><span class="chinese">图像分析采用视觉分析及半定量方法。</span><span class="english">Visual and semiquantitative analysis were adopted to analyze the images.</span></p>

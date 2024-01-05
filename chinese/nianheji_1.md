@@ -1,5 +1,7 @@
 # 黏合剂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianheji_1.md)
+
 <p><span class="chinese">对女性来说，谈话是保持关系的黏合剂。</span><span class="english">For women, conversation is the glue that holds relationships together.</span></p>
 
 <p><span class="chinese">目的探讨医用黏合剂ZT胶在延缓肝脏内碘化油代谢过程的作用。</span><span class="english">Objective To study the ZT glue postpone iodinated oil metabolism in liver.</span></p>

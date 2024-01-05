@@ -1,5 +1,7 @@
 # maya
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maya.md)
+
 <p><span class="chinese">你在告别自己不好的一面，玛雅。</span><span class="english">You go on with your bad self, Maya.</span></p>
 
 <p><span class="chinese">墨西哥卡拉克穆尔的玛雅古城。</span><span class="english">The ancient Maya city of Calakmul, Mexico.</span></p>

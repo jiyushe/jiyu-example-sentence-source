@@ -1,5 +1,7 @@
 # 铁骑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tieqi.md)
+
 <p><span class="chinese">凯撒铁骑,剑指高卢</span><span class="english">Caesar beat the Gauls.</span></p>
 
 <p><span class="chinese">将会存在采矿铁骑吗？</span><span class="english">Will there be mining fighters?</span></p>

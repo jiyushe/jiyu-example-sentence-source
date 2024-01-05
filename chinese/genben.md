@@ -1,5 +1,7 @@
 # 根本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/genben.md)
+
 <p><span class="chinese">这种想法根本无用</span><span class="english">That's hopeless.</span></p>
 
 <p><span class="chinese">你根本做不到</span><span class="english">You can't do it.</span></p>

@@ -1,5 +1,7 @@
 # earphone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/earphone.md)
+
 <p><span class="chinese">我的新收音机耳机。</span><span class="english">It's my new radio earphone.</span></p>
 
 <p><span class="chinese">这是我新的耳机收音机。</span><span class="english">It's my new radio earphone.</span></p>

@@ -1,5 +1,7 @@
 # 奴才
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nucai.md)
+
 <p><span class="chinese">奴才巴结主子。</span><span class="english">Underlings fawn on their bosses.</span></p>
 
 <p><span class="chinese">这是一种奴才心理。</span><span class="english">This is psychology of a kind of flunky.</span></p>

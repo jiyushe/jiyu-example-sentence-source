@@ -1,5 +1,7 @@
 # sufferance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sufferance.md)
+
 <p><span class="chinese">她勉强获准留在这里。</span><span class="english">I'm here on sufferance.</span></p>
 
 <p><span class="chinese">她勉强获准留在这里。</span><span class="english">She is here on sufferance.</span></p>

@@ -1,5 +1,7 @@
 # bluefin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bluefin.md)
+
 <p><span class="chinese">抢救黑鲔鱼！</span><span class="english">Save the Bluefin Tuna!</span></p>
 
 <p><span class="chinese">潜水者和蓝鳍金枪鱼。</span><span class="english">Diver and Bluefin tuna.</span></p>

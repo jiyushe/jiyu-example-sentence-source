@@ -1,5 +1,7 @@
 # champaign
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/champaign.md)
+
 <p><span class="chinese">乌尔班纳伊利诺伊州中东部的城市，临近尚佩恩。</span><span class="english">A city of east-central Illinois adjoining Champaign.</span></p>
 
 <p><span class="chinese">香槟和葡萄酒都为有益消化的发酵食品。</span><span class="english">Champaign and wine are a good digestive as they are a fermented food.</span></p>

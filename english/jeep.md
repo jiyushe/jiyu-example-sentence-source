@@ -1,5 +1,7 @@
 # jeep
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jeep.md)
+
 <p><span class="chinese">这是一辆北京吉普车。</span><span class="english">This is a Beijing jeep.</span></p>
 
 <p><span class="chinese">使用的吉普车牧马人的硬上衣。</span><span class="english">Jeep Wrangler with a hard coat.</span></p>

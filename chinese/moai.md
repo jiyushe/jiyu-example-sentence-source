@@ -1,5 +1,7 @@
 # 默哀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moai.md)
+
 <p><span class="chinese">谢谢您，曾祖母。重孙在此为您默哀。</span><span class="english">So, thank you. I'll mourn for you.</span></p>
 
 <p><span class="chinese">学生们围成圈默哀。</span><span class="english">The students circle surrounded silence.</span></p>

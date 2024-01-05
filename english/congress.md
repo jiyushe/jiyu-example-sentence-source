@@ -1,5 +1,7 @@
 # congress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/congress.md)
+
 <p><span class="chinese">国会大刀阔斧地削减预算。</span><span class="english">Congress axed the budget.</span></p>
 
 <p><span class="chinese">议会再颁布了那个法律。</span><span class="english">Congress reenacted the law.</span></p>

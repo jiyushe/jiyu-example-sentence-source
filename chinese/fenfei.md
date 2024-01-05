@@ -1,5 +1,7 @@
 # 纷飞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenfei.md)
+
 <p><span class="chinese">树叶纷飞。</span><span class="english">The leaves fly.</span></p>
 
 <p><span class="chinese">七月的雨纷飞，漫天遍野。</span><span class="english">July fiercely, sky filled by the rain.</span></p>

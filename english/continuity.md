@@ -1,5 +1,7 @@
 # continuity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/continuity.md)
+
 <p><span class="chinese">这实实在在有一连串。</span><span class="english">There was the true continuity.</span></p>
 
 <p><span class="chinese">业务连续性是非常重要的，您不能心存侥幸。</span><span class="english">Business continuity is essential.</span></p>

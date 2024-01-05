@@ -1,5 +1,7 @@
 # periderm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/periderm.md)
+
 <p><span class="chinese">它以周皮代替表皮。</span><span class="english">The periderm of root replaces epidermis.</span></p>
 
 <p><span class="chinese">由中柱鞘产生侧根及周皮。</span><span class="english">The pericycle produces the latent roots and periderm.</span></p>

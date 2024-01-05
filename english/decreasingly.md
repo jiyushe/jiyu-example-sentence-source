@@ -1,5 +1,7 @@
 # decreasingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decreasingly.md)
+
 <p><span class="chinese">连续地传递同样的讯息，其精确性会逐渐降低。</span><span class="english">Successive transmissions of the same message are decreasingly accurate.</span></p>
 
 <p><span class="chinese">随着事件的流逝，这些尝试在实际的负载下似乎是渐渐的失去效果。</span><span class="english">But across time, these heuristics appear to be decreasingly effective under real loads.</span></p>

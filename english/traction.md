@@ -1,5 +1,7 @@
 # traction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/traction.md)
+
 <p><span class="chinese">人造唯一的牵引带。</span><span class="english">Man-made sole with traction.</span></p>
 
 <p><span class="chinese">最大牵引凸耳的大底。</span><span class="english">Lugged outsole for maximum traction.</span></p>

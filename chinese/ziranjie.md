@@ -1,5 +1,7 @@
 # 自然界
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziranjie.md)
+
 <p><span class="chinese">在自然界中，泰加是吃鱼的。</span><span class="english">Tegus eat fish in nature also.</span></p>
 
 <p><span class="chinese">对一个贪婪者，整个自然界都嫌小。</span><span class="english">For greed, all nature is too little.</span></p>

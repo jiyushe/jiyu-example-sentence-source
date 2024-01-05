@@ -1,5 +1,7 @@
 # sully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sully.md)
+
 <p><span class="chinese">萨利有一个凸出的高鼻子。</span><span class="english">Sully has a prominent nose.</span></p>
 
 <p><span class="chinese">那就让我们污染暴君的空气。</span><span class="english">Let us sully the air for the oppressor</span></p>

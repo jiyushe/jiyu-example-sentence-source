@@ -1,5 +1,7 @@
 # asinine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asinine.md)
+
 <p><span class="chinese">那是个愚蠢透顶的讨论。</span><span class="english">It is an asinine discussion.</span></p>
 
 <p><span class="chinese">我认为这绝对是愚蠢的。</span><span class="english">I think that's totally asinine.</span></p>

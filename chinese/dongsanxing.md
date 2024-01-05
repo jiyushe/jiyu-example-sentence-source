@@ -1,5 +1,7 @@
 # 东三省
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongsanxing.md)
+
 <p><span class="chinese">此时围绕“门户开放”的斗争主要在中国的东三省展开。</span><span class="english">At this time the struggle around the Open Door started in the Northeast China.</span></p>
 
 <p><span class="chinese">为收回东三省，清政府从1901年开始与沙俄进行了断断续续的交涉。</span><span class="english">In order to retake the northeast of China, Qing government began to negotiate with Russia from 1901.</span></p>

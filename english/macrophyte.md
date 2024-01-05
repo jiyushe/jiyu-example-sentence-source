@@ -1,5 +1,7 @@
 # macrophyte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/macrophyte.md)
+
 <p><span class="chinese">随着湖泊水草生物量的增加，浮游动物的多样性指数也随之而增加。</span><span class="english">The diversity index of zooplankton increased with the increase of macrophyte biomass.</span></p>
 
 <p><span class="chinese">仅从不同生态类型的湖区比较结果看，草型湖区比藻型湖区有更高的氮磷交换通量。</span><span class="english">Compared with the two lake zones with different ecotypes, macrophyte dominated one had higher nutrients fluxes than the algae one.</span></p>

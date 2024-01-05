@@ -1,5 +1,7 @@
 # insole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insole.md)
+
 <p><span class="chinese">皮质里衬和鞋垫。</span><span class="english">Leather lining and insole.</span></p>
 
 <p><span class="chinese">这个问题更多是由鞋垫引起的。</span><span class="english">This was more of an insole issue.</span></p>

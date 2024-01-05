@@ -1,5 +1,7 @@
 # axe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/axe.md)
+
 <p><span class="chinese">它，便是手斧。</span><span class="english">it's the hand axe.</span></p>
 
 <p><span class="chinese">于是穆那查到了斧头那里。</span><span class="english">He came to the axe.</span></p>

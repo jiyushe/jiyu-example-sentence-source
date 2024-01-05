@@ -1,5 +1,7 @@
 # 转身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanshen.md)
+
 <p><span class="chinese">然后转身走掉。</span><span class="english">Then turn away.</span></p>
 
 <p><span class="chinese">亲爱的请别转身离去。</span><span class="english">Darlin don't turn away.</span></p>

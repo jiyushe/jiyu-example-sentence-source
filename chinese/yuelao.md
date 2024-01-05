@@ -1,5 +1,7 @@
 # 月老
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuelao.md)
+
 <p><span class="chinese">万年求来的月老祝福。</span><span class="english">Million years of the matchmaker.</span></p>
 
 <p><span class="chinese">宿命就是等待月老吗？</span><span class="english">The fate is waits for the matchmaker?</span></p>

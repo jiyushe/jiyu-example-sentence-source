@@ -1,5 +1,7 @@
 # englishmen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/englishmen.md)
+
 <p><span class="chinese">这条路是英国人宣布革命”。</span><span class="english">It was the way Englishmen announced revolution.</span></p>
 
 <p><span class="chinese">只有狗和英国人才在中午的太阳底下在外面乱跑。</span><span class="english">But mad dogs and Englishmen go out in the midday sun.</span></p>

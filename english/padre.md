@@ -1,5 +1,7 @@
 # padre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/padre.md)
+
 <p><span class="chinese">我去见了牧师。</span><span class="english">I went to see the padre.</span></p>
 
 <p><span class="chinese">教父和父亲看起来都情绪高涨。</span><span class="english">Both padre and padrone seemed in fine fettle.</span></p>

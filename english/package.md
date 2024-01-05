@@ -1,5 +1,7 @@
 # package
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/package.md)
+
 <p><span class="chinese">包密封。</span><span class="english">Package sealing.</span></p>
 
 <p><span class="chinese">打开此包。</span><span class="english">Open this package.</span></p>

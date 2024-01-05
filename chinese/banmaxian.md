@@ -1,5 +1,7 @@
 # 斑马线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banmaxian.md)
+
 <p><span class="chinese">所有车辆都要在斑马线前停下。</span><span class="english">All car should stop at the zebra crossing.</span></p>
 
 <p><span class="chinese">当我到了斑马线前时，绿灯了。</span><span class="english">When I got to the zebra crossing, traffic light.</span></p>

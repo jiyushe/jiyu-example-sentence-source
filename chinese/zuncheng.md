@@ -1,5 +1,7 @@
 # 尊称
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuncheng.md)
+
 <p><span class="chinese">她在家族里的尊称是“公爵夫人”。</span><span class="english">She was known in her family as ‘the Duchess’.</span></p>
 
 <p><span class="chinese">在此种场合下，太尉是作为武人的尊称。</span><span class="english">In such occasions, Qiu as Taketo the honorific.</span></p>

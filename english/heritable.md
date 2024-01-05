@@ -1,5 +1,7 @@
 # heritable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heritable.md)
+
 <p><span class="chinese">可引起可遗传的基因突变。</span><span class="english">R46 May cause heritable genetic damage.</span></p>
 
 <p><span class="chinese">可能引起遗传性基因损害。</span><span class="english">R46 May cause heritable genetic damage.</span></p>

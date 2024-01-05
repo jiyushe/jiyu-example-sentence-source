@@ -1,5 +1,7 @@
 # 暗访
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/anfang.md)
+
 <p><span class="chinese">全新越野面包车搬家出租暗访40元起！</span><span class="english">New off-road minibuses 40 yuan up!</span></p>
 
 <p><span class="chinese">这次暗访一定要把社会的阴暗面全部暴光。</span><span class="english">The secret enquiry this time is aimed at completely exposing the underside of society.</span></p>

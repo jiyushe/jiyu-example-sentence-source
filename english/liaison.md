@@ -1,5 +1,7 @@
 # liaison
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liaison.md)
+
 <p><span class="chinese">商洽联络作用。</span><span class="english">Negotiate liaison role.</span></p>
 
 <p><span class="chinese">你成为联系官多久了？</span><span class="english">How long have you beena liaison?</span></p>

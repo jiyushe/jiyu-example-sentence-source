@@ -1,5 +1,7 @@
 # sarawak
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sarawak.md)
+
 <p><span class="chinese">沙巴和沙捞越的自主权在哪里？</span><span class="english">Where is the Sabah and Sarawak autonomy?</span></p>
 
 <p><span class="chinese">砂拉越原住民音乐跟例外人，独特的绝配！</span><span class="english">Sarawak ethnic music and the Remnant, unique and perfect combination!</span></p>

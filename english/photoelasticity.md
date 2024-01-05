@@ -1,5 +1,7 @@
 # photoelasticity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photoelasticity.md)
+
 <p><span class="chinese">本文提出光弹性中的一个应力连续分析法。</span><span class="english">In this paper a method for continuous analysis of stresses in photoelasticity is presented.</span></p>
 
 <p><span class="chinese">通过光弹性实验，分析机器人桥架连接处的受力形式。</span><span class="english">The acting form of the load at the joint of the bridge is discussed through a photoelasticity experiment.</span></p>

@@ -1,5 +1,7 @@
 # 入射角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rushejiao.md)
+
 <p><span class="chinese">对于电磁波来说它的入射角为复角。</span><span class="english">The angle of incidence may be complex for electromagnetic waves.</span></p>
 
 <p><span class="chinese">对椭圆偏振法的入射角和波长进行了探讨。</span><span class="english">Angle of incidence and wave length for ellipsometry method were studied.</span></p>

@@ -1,5 +1,7 @@
 # impetuously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impetuously.md)
+
 <p><span class="chinese">起义者激烈地开火。</span><span class="english">The insurgents fired impetuously.</span></p>
 
 <p><span class="chinese">道格拉斯喝了很多红酒，吃了不少烤猪肉。</span><span class="english">Douglas impetuously drinks wine and eats roast pork.</span></p>

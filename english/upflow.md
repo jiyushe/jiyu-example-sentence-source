@@ -1,5 +1,7 @@
 # upflow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upflow.md)
+
 <p><span class="chinese">出水回流对上流式厌氧滤器的影响非常复杂。</span><span class="english">The action of effluent recycle on an upflow anaerobic filter is very complex.</span></p>
 
 <p><span class="chinese">对上向流直接供氧生物膜硝化动力学进行了试验和讨论。</span><span class="english">The kinetics of nitrification biofilm in upflow and pure oxygen has been studied.</span></p>

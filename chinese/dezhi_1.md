@@ -1,5 +1,7 @@
 # 得知
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dezhi_1.md)
+
 <p><span class="chinese">但这无从得知。</span><span class="english">No way to tell.</span></p>
 
 <p><span class="chinese">我得知这个消息后很难过。</span><span class="english">The bad news saddened me.</span></p>

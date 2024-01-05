@@ -1,5 +1,7 @@
 # disunity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disunity.md)
+
 <p><span class="chinese">单个国家为不团结付出的代价也不一样。</span><span class="english">Nor do the costs of disunity fall equally.</span></p>
 
 <p><span class="chinese">对俄罗斯步调不一有损欧盟的整体利益吗？</span><span class="english">Does disunity towards Russia hurt the common EU interest?</span></p>

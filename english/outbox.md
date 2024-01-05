@@ -1,5 +1,7 @@
 # outbox
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outbox.md)
+
 <p><span class="chinese">然后我查看了发件箱。</span><span class="english">Next I checked my Outbox.</span></p>
 
 <p><span class="chinese">在上一个传递周期内出错。您是否仍想发送“发件箱”中的邮件?。</span><span class="english">Would you still like to send the messages that are in your Outbox?</span></p>

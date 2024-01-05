@@ -1,5 +1,7 @@
 # 心窝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinwo.md)
+
 <p><span class="chinese">好像乳汁滋润着我的心窝！</span><span class="english">Nourishing my heart like milk!</span></p>
 
 <p><span class="chinese">九个，这个词像一把匕首捅进她的心窝。</span><span class="english">Nine. The word was a dagger in her heart.</span></p>

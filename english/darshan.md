@@ -1,5 +1,7 @@
 # darshan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/darshan.md)
+
 <p><span class="chinese">一个达显旅游持续5天。</span><span class="english">A darshan tour lasted for 5 days.</span></p>
 
 <p><span class="chinese">错位的噶大山的魔鬼。</span><span class="english">Misplaced to the darshan of the devil.</span></p>

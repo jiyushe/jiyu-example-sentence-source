@@ -1,5 +1,7 @@
 # reversal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reversal.md)
+
 <p><span class="chinese">翻转开始了！</span><span class="english">A Reversal Begins!</span></p>
 
 <p><span class="chinese">电流方向倒换。</span><span class="english">Reversal of current direction.</span></p>

@@ -1,5 +1,7 @@
 # fervency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fervency.md)
+
 <p><span class="chinese">他们对工作和生活充满热情。</span><span class="english">They are full of fervency to the job and life.</span></p>
 
 <p><span class="chinese">工作热情高，有强烈的责任心。</span><span class="english">Job fervency high , has intense sense of responsibility.</span></p>

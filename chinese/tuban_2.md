@@ -1,5 +1,7 @@
 # 图板
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuban_2.md)
+
 <p><span class="chinese">用户体验情节串连图板。</span><span class="english">User experience storyboard.</span></p>
 
 <p><span class="chinese">你能匀出你的画图板吗?。</span><span class="english">You are sure you can spare the drawing-board?</span></p>

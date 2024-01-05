@@ -1,5 +1,7 @@
 # 采访
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caifang.md)
+
 <p><span class="chinese">你们大部分人采访报道过我。</span><span class="english">Most of you covered me.</span></p>
 
 <p><span class="chinese">答应这次采访。</span><span class="english">Agreeing to this interview.</span></p>

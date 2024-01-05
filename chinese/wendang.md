@@ -1,5 +1,7 @@
 # 稳当
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wendang.md)
+
 <p><span class="chinese">门已闩稳当了。</span><span class="english">The door is secured with bolts.</span></p>
 
 <p><span class="chinese">把舵的不慌，乘船的稳当。</span><span class="english">Do not fear the helm, the boat secure.</span></p>

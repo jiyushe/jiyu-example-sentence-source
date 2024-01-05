@@ -1,5 +1,7 @@
 # overconfident
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overconfident.md)
+
 <p><span class="chinese">我也不自量力一回，也对这些研究做一番研究。</span><span class="english">I have a back overconfident , but also to do a study of these studies.</span></p>
 
 <p><span class="chinese">到那时，我才敢想望，但是我不敢太过自信，我怕下地狱。</span><span class="english">Until then, I'm hopeful, but I'll be damned if I'm going to get overconfident.</span></p>

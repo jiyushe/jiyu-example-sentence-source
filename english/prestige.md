@@ -1,5 +1,7 @@
 # prestige
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prestige.md)
+
 <p><span class="chinese">你想耍点威风吗？</span><span class="english">You want some prestige?</span></p>
 
 <p><span class="chinese">以此带来美名，</span><span class="english">to bring in that prestige and</span></p>

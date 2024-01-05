@@ -1,5 +1,7 @@
 # 为首
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weishou.md)
+
 <p><span class="chinese">这些是以玛拉为首的助教团队</span><span class="english">We have Mara's group of TAs.</span></p>
 
 <p><span class="chinese">万恶淫为首，百善孝为先。</span><span class="english">Her evil, headed by a hundred good filial first.</span></p>

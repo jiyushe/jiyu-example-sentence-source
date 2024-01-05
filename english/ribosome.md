@@ -1,5 +1,7 @@
 # ribosome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ribosome.md)
+
 <p><span class="chinese">结果，核糖体产生了只有过滤性毒菌的蛋白质。</span><span class="english">As a result, the ribosome produces only viral proteins.</span></p>
 
 <p><span class="chinese">在这里您可以看到一个名为颗粒细胞的核糖体。</span><span class="english">Here you can see a particulate organelle called the ribosome.</span></p>

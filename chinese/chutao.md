@@ -1,5 +1,7 @@
 # 出逃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chutao.md)
+
 <p><span class="chinese">他仓皇出逃，一路悲歌。</span><span class="english">He fled in panic, all the way Elegy.</span></p>
 
 <p><span class="chinese">这对情侣从家乡私奔出逃。</span><span class="english">The couple had eloped from their hometown.</span></p>

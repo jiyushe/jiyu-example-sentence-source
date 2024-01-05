@@ -1,5 +1,7 @@
 # mamba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mamba.md)
+
 <p><span class="chinese">她在他住的活动屋里放了条黑曼巴。</span><span class="english">She put a black mamba in his camper.</span></p>
 
 <p><span class="chinese">黑曼巴没有设立特别保护区。</span><span class="english">The black mamba has no special conservation status.</span></p>

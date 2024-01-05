@@ -1,5 +1,7 @@
 # 同伴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongban.md)
+
 <p><span class="chinese">他的同伴正在打瞌睡。</span><span class="english">His companions doze.</span></p>
 
 <p><span class="chinese">狗啃骨头无同伴。</span><span class="english">A dog gnawing a bone.</span></p>

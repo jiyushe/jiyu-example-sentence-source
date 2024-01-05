@@ -1,5 +1,7 @@
 # presentative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/presentative.md)
+
 <p><span class="chinese">也是一个人的能力，性格，文化水平的表现。</span><span class="english">It's a ability, character and culture's presentative for a person.</span></p>
 
 <p><span class="chinese">它是中国所有戏曲中最有影响力和最具代表性的。</span><span class="english">It is the most influential and presentative of all operas in china.</span></p>

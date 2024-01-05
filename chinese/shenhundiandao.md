@@ -1,5 +1,7 @@
 # 神魂颠倒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenhundiandao.md)
+
 <p><span class="chinese">噢，鲍勃真让我神魂颠倒。</span><span class="english">Oh,Bob really turns me on.</span></p>
 
 <p><span class="chinese">是的，汤姆真让我神魂颠倒。</span><span class="english">Yes, Tom really turns me on.</span></p>

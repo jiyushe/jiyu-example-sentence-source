@@ -1,5 +1,7 @@
 # eos
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eos.md)
+
 <p><span class="chinese">黎明女神，赫利俄斯的妹妹。</span><span class="english">Eos The goddess of the dawn, the sister of Heios.</span></p>
 
 <p><span class="chinese">论文第一章给出了固体及物态方程的基础知识。</span><span class="english">In chapter one, the basic knowledge of the solids and EOS is given.</span></p>

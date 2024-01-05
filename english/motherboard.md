@@ -1,5 +1,7 @@
 # motherboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/motherboard.md)
+
 <p><span class="chinese">我的是技嘉785的主板。</span><span class="english">My motherboard is a Gigabyte 785.</span></p>
 
 <p><span class="chinese">底板采用坚固槽钢。</span><span class="english">Motherboard adopts hard notch steel.</span></p>

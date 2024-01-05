@@ -1,5 +1,7 @@
 # 首脑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shounao.md)
+
 <p><span class="chinese">由总理大臣担任首脑。</span><span class="english">It is chaired by the Prime Minister.</span></p>
 
 <p><span class="chinese">克里希那穆提成为了明星社的首脑。</span><span class="english">Krishnamurti was made Head of the Order.</span></p>

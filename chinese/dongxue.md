@@ -1,5 +1,7 @@
 # 洞穴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongxue.md)
+
 <p><span class="chinese">洞穴不为人居住而存在。</span><span class="english">A cave is not FOR dwelling.</span></p>
 
 <p><span class="chinese">在一洞穴里，刀疤正在捕食。</span><span class="english">In a cave, Scar is praying.</span></p>

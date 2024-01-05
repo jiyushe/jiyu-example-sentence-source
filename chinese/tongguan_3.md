@@ -1,5 +1,7 @@
 # 通观
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongguan_3.md)
+
 <p><span class="chinese">通观世界，晚睡的人常常被认为是懒惰的人。</span><span class="english">Throughout the world, people whosleep late are too often assumed to be lazy.</span></p>
 
 <p><span class="chinese">人学首先以人自身为研究对象，并将人纳入自然界和宇宙之中予以通观。</span><span class="english">This science focuses on human itself and admits its existence in the nature and universe.</span></p>

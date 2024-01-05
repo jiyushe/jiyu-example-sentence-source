@@ -1,5 +1,7 @@
 # autolysis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autolysis.md)
+
 <p><span class="chinese">胎儿尸检显示非特异性自溶现象。</span><span class="english">Necropsy of the fetus reveals autolysis which is nonspecific.</span></p>
 
 <p><span class="chinese">在典型的自溶工艺中，核酸被转化3'-核苷酸。</span><span class="english">In a typical autolysis process, nucleic acids are converted to 3?</span></p>

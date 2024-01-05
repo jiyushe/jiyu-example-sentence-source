@@ -1,5 +1,7 @@
 # 辞令
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ciling.md)
+
 <p><span class="chinese">他的辞令通常都能打动人心，但有时也让人心惊肉跳！</span><span class="english">Oftenest persuasive, but sometimes terrible!</span></p>
 
 <p><span class="chinese">这位演讲者无疑善于辞令。</span><span class="english">The key-note speaker certainly has the gift of gab.</span></p>

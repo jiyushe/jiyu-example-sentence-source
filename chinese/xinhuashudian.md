@@ -1,5 +1,7 @@
 # 新华书店
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinhuashudian.md)
+
 <p><span class="chinese">吉林市船营新华书店。</span><span class="english">City boat battalion Xinhua Bookstore.</span></p>
 
 <p><span class="chinese">我从新华书店买了一本书.</span><span class="english">I bought a book from Xinhua book-shop.</span></p>

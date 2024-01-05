@@ -1,5 +1,7 @@
 # 适者生存
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizheshengcun.md)
+
 <p><span class="chinese">适者生存。</span><span class="english">Those that naturalize would live.</span></p>
 
 <p><span class="chinese">适者生存是物竞天择过程中的一部分吗？</span><span class="english">Is it part of the natural selection process?</span></p>

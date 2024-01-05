@@ -1,5 +1,7 @@
 # 老妈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laoma.md)
+
 <p><span class="chinese">或是我老妈的"帕罗西汀"。</span><span class="english">Or my mom's paxil?</span></p>
 
 <p><span class="chinese">别惹老妈。</span><span class="english">Don’t mess with moms.</span></p>

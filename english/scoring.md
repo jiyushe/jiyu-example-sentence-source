@@ -1,5 +1,7 @@
 # scoring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scoring.md)
+
 <p><span class="chinese">好莱坞计分法。</span><span class="english">Hollywood Scoring.</span></p>
 
 <p><span class="chinese">卢克和卡森得分多。</span><span class="english">Luc and Carson are scoring big.</span></p>

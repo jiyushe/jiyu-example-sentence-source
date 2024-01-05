@@ -1,5 +1,7 @@
 # fac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fac.md)
+
 <p><span class="chinese">这个呼叫由前沿空中管制官或近距离空中支援飞机发出。</span><span class="english">This call is given either by the FAC or the CAS Aircraft.</span></p>
 
 <p><span class="chinese">抽烟是导致癌症的一个主要因素。</span><span class="english">Cigarette smoking is a major fac tor contributing to cancer.</span></p>

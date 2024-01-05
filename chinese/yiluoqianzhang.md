@@ -1,5 +1,7 @@
 # 一落千丈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiluoqianzhang.md)
+
 <p><span class="chinese">继而乌克兰的经济一落千丈。</span><span class="english">Then Ukraine's economy nosedived.</span></p>
 
 <p><span class="chinese">然而其他时候，事情却会一落千丈。</span><span class="english">Other times though, things take a nosedive.</span></p>

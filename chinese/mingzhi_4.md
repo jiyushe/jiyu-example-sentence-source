@@ -1,5 +1,7 @@
 # 明知
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingzhi_4.md)
+
 <p><span class="chinese">明知不可能获胜，他们还是进行了拼争。</span><span class="english">It was futile,still they fought.</span></p>
 
 <p><span class="chinese">有时候、明知没路了。</span><span class="english">Sometimes, not knowing the road, and.</span></p>

@@ -1,5 +1,7 @@
 # hemihydrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hemihydrate.md)
+
 <p><span class="chinese">半水物硫酸钙可以用来代替石膏。</span><span class="english">Hemihydrate can be used instead of gypsum.</span></p>
 
 <p><span class="chinese">过高温度导致生成半水物。</span><span class="english">Excessively high temperature causes formation of hemihydrate.</span></p>

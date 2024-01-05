@@ -1,5 +1,7 @@
 # 承蒙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengmeng.md)
+
 <p><span class="chinese">图片承蒙世界自然基金会惠赠</span><span class="english">Photograph courtesy World Wildlife Fund</span></p>
 
 <p><span class="chinese">承蒙主席光临，不胜荣幸。</span><span class="english">We were graced with the presence of our chairman.</span></p>

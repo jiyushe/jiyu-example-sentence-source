@@ -1,5 +1,7 @@
 # paroxysm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paroxysm.md)
+
 <p><span class="chinese">目前，塞尔维亚人会悲痛和愤怒。</span><span class="english">For now, there will be a paroxysm of anger and mourning.</span></p>
 
 <p><span class="chinese">一大群观众，乐到发狂，嘴里胡言乱语，都跟着走。</span><span class="english">The cloud of spectators followed, jestIng, In a paroxysm of delight.</span></p>

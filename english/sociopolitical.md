@@ -1,5 +1,7 @@
 # sociopolitical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sociopolitical.md)
+
 <p><span class="chinese">实际上这也是我多年来一直持守的社会政治理念。</span><span class="english">In fact, these are just sociopolitical ideas I've held for years.</span></p>
 
 <p><span class="chinese">中国知识分子的革命和社会政治改革运动。</span><span class="english">Chinese intellectual revolution and sociopolitical reform movement.</span></p>

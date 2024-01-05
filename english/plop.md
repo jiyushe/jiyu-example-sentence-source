@@ -1,5 +1,7 @@
 # plop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plop.md)
+
 <p><span class="chinese">瓶塞扑通一声地拔了出来。</span><span class="english">The cork came out plop.</span></p>
 
 <p><span class="chinese">有些令人失望地“扑通”的掉下去了。</span><span class="english">Others plop disappointingly.</span></p>

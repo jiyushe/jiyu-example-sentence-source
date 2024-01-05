@@ -1,5 +1,7 @@
 # unisexual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unisexual.md)
+
 <p><span class="chinese">花单性。雄蕊和雌花退化雄蕊均无毛。</span><span class="english">Flowers unisexual. Stamens and staminodes of pistillate flower all glabrous.</span></p>
 
 <p><span class="chinese">花两性，稀单性，多数为辐射对称，亦有左右对称。</span><span class="english">The flower is bisexual, rare unisexual , majority is radiation semmetry, also have or so semmetry.</span></p>

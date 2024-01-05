@@ -1,5 +1,7 @@
 # forefinger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forefinger.md)
+
 <p><span class="chinese">他用食指指著我，表示责备的意思。</span><span class="english">He pointed his forefinger at me reprovingly.</span></p>
 
 <p><span class="chinese">他的示指被刀划破了，流了很多血。</span><span class="english">His forefinger was cut by knife and bled a lot.</span></p>

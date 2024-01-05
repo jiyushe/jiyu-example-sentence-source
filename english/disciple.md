@@ -1,5 +1,7 @@
 # disciple
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disciple.md)
+
 <p><span class="chinese">但这位门徒依然屹立不动。</span><span class="english">But the disciple didn't move.</span></p>
 
 <p><span class="chinese">你是个斯宾塞的信徒！</span><span class="english">You are a disciple of Spencer!</span></p>

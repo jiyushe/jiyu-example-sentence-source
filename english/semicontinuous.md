@@ -1,5 +1,7 @@
 # semicontinuous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semicontinuous.md)
+
 <p><span class="chinese">着重于半连续格范畴的态射类的构成，给出了一个新的刻画。</span><span class="english">Especially gives a new characterization on morphisms of category of semicontinuous lattices.</span></p>
 
 <p><span class="chinese">本文介绍了一种用于食用菌培养的液体静置培养方法。</span><span class="english">A liquid stationary culture method is applied to culture mushroom in semicontinuous culture system.</span></p>

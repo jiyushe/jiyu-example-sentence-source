@@ -1,5 +1,7 @@
 # 四环素
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sihuansu.md)
+
 <p><span class="chinese">这才是真实的二甲胺四环素。</span><span class="english">That will likely be true of minocycline.</span></p>
 
 <p><span class="chinese">四环素牙是永久性的，但是现在已不用四环素了。</span><span class="english">Is permanent, but now no longer a tetracycline.</span></p>

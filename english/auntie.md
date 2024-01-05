@@ -1,5 +1,7 @@
 # auntie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/auntie.md)
+
 <p><span class="chinese">回头见，阿姨。</span><span class="english">Bye now, auntie.</span></p>
 
 <p><span class="chinese">姨妈，请您别拔啦。</span><span class="english">Please don't, auntie.</span></p>

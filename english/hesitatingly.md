@@ -1,5 +1,7 @@
 # hesitatingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hesitatingly.md)
+
 <p><span class="chinese">我想弟妇也总很好，”他躇踌着说道。</span><span class="english">I suppose your wife is all right, " he said hesitatingly ."</span></p>
 
 <p><span class="chinese">想好的话到嘴边处，又吞吞吐吐。</span><span class="english">Think good words to the mouth side, speak hesitatingly again.</span></p>

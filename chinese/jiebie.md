@@ -1,5 +1,7 @@
 # 界别
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiebie.md)
+
 <p><span class="chinese">是否跨界别合作计划？</span><span class="english">Is this a cross-sectoral project?</span></p>
 
 <p><span class="chinese">然后最迟于2016年，全面取消功能界别议席。</span><span class="english">By 2016 at the latest, abolish all Functional Constituencies.</span></p>

@@ -1,5 +1,7 @@
 # multan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multan.md)
+
 <p><span class="chinese">木尔坦还因有许多苏非神殿而闻名，如背景中十四世纪的白圆顶墓。</span><span class="english">Multan is also known for its many Sufi shrines, like the 14th-century, white-domed tomb in the background.</span></p>
 
 <p><span class="chinese">地主法依萨·阿巴斯在木尔坦附近自家的场院训练马跳舞，他在寻求业余爱好。</span><span class="english">Dancing horses are trained by Faizal Abbas, a feudal landlord who pursues the hobby at his compound near Multan.</span></p>

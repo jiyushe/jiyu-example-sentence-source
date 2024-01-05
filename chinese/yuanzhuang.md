@@ -1,5 +1,7 @@
 # 原状
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanzhuang.md)
+
 <p><span class="chinese">氧化物表层上面的氮化物保持原状不动。</span><span class="english">The nitride on oxide layers remains intact.</span></p>
 
 <p><span class="chinese">在这样的姿态下，“你根本无法恢复原状。</span><span class="english">From such a position, "you just can't recover.</span></p>

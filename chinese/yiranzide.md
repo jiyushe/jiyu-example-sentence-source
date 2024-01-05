@@ -1,5 +1,7 @@
 # 怡然自得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiranzide.md)
+
 <p><span class="chinese">人要有空间才能怡然自得。</span><span class="english">One needs space to be oneself.</span></p>
 
 <p><span class="chinese">牛羊骏马在这里怡然自得。</span><span class="english">Cattle, sheep and horses graze leisurely.</span></p>

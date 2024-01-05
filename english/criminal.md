@@ -1,5 +1,7 @@
 # criminal 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/criminal.md)
+
 <p><span class="chinese">是一桩刑事案吗？</span><span class="english">Is it a criminal case?</span></p>
 
 <p><span class="chinese">我感觉像个罪犯。</span><span class="english">I felt like a criminal.</span></p>

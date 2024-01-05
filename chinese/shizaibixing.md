@@ -1,5 +1,7 @@
 # 势在必行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizaibixing.md)
+
 <p><span class="chinese">此项改革势在必行。</span><span class="english">This reform must be enforced.</span></p>
 
 <p><span class="chinese">因此，网络纵深防御，势在必行。</span><span class="english">Thus, network defense-in-depth is imperative.</span></p>

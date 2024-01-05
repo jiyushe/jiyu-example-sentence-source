@@ -1,5 +1,7 @@
 # 得数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/deshu.md)
+
 <p><span class="chinese">他的得数只比正确答案多二。</span><span class="english">He was only wrong by Two.</span></p>
 
 <p><span class="chinese">因为我的得数算对了写错了！</span><span class="english">Because I was right the wrong!</span></p>

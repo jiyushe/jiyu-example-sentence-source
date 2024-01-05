@@ -1,5 +1,7 @@
 # compatibly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compatibly.md)
+
 <p><span class="chinese">在这里我们彼此协调地工作。</span><span class="english">Here we work compatibly with one another.</span></p>
 
 <p><span class="chinese">这个软件与许多机器兼容运行。</span><span class="english">The software runs compatibly with many machines.</span></p>

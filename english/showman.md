@@ -1,5 +1,7 @@
 # showman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/showman.md)
+
 <p><span class="chinese">他是一个典型的好炫耀者，有一种近乎傲慢的自负。</span><span class="english">He was a typical showman with a brashness bordering on arrogance.</span></p>
 
 <p><span class="chinese">这样一个高调的人将自己的人生看作是一场戏剧是不足为奇的。</span><span class="english">It's not surprising that such a showman sees his life as a drama.</span></p>

@@ -1,5 +1,7 @@
 # ague
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ague.md)
+
 <p><span class="chinese">你和受害者起过争执吗？</span><span class="english">Did you ague with the victim?</span></p>
 
 <p><span class="chinese">中国人认为疟疾是怎样产生的呢？</span><span class="english">Q. How do the Chinese think ague arises?</span></p>

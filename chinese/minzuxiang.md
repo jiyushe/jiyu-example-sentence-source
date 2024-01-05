@@ -1,5 +1,7 @@
 # 民族乡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minzuxiang.md)
+
 <p><span class="chinese">乡、民族乡、镇的人民政府也可以悬挂国徽。</span><span class="english">The township-level people's government also can hang the national emblem.</span></p>
 
 <p><span class="chinese">独山子岩画位于米泉市柏杨河哈萨克民族乡独山子村。</span><span class="english">Rock Paintings in Dushanzi Miquan City, Bo Yang River Kazakhstan nationality townships Dushanzi village.</span></p>

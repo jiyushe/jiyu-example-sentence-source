@@ -1,5 +1,7 @@
 # 辈分
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beifen_2.md)
+
 <p><span class="chinese">她的辈分比我小。</span><span class="english">She ranks as my junior in the clan.</span></p>
 
 <p><span class="chinese">辈分大的人。听从长辈的劝告吧。</span><span class="english">Listen to the counsel of your elders.</span></p>

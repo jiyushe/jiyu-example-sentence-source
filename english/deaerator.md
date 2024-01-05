@@ -1,5 +1,7 @@
 # deaerator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deaerator.md)
+
 <p><span class="chinese">介绍了旋膜式除氧器的主要结构和工作原理。</span><span class="english">The main structures and work principle of Rotating-film deaerator was introduced.</span></p>
 
 <p><span class="chinese">除氧器低位露天布置可以大大降低工程造价。</span><span class="english">The low-level arrangement of the deaerator can greatly reduce the engineering cost.</span></p>

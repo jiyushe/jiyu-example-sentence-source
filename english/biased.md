@@ -1,5 +1,7 @@
 # biased
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biased.md)
+
 <p><span class="chinese">当然，我或许过于偏颇。</span><span class="english">Of course, I'm biased.</span></p>
 
 <p><span class="chinese">我认为它们是有偏见。</span><span class="english">I think they're biased.</span></p>

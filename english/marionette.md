@@ -1,5 +1,7 @@
 # marionette
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marionette.md)
+
 <p><span class="chinese">你知道，那是一个提线木偶。</span><span class="english">You know, one of those marionette things.</span></p>
 
 <p><span class="chinese">我衷心机你成功，亲爱的木偶。</span><span class="english">I wish you all good luck, dear Marionette.</span></p>

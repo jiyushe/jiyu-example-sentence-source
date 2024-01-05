@@ -1,5 +1,7 @@
 # bray
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bray.md)
+
 <p><span class="chinese">每只驴子都爱听自己叫。</span><span class="english">Every ass loves to hear himself bray.</span></p>
 
 <p><span class="chinese">驴子向你嘶叫，你可别也向他嘶叫。</span><span class="english">If a donkey brays at you, don't bray at him.</span></p>

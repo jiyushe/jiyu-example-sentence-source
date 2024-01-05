@@ -1,5 +1,7 @@
 # deregulate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deregulate.md)
+
 <p><span class="chinese">某些银行现已开始解除控制。</span><span class="english">Some banks have already started to deregulate.</span></p>
 
 <p><span class="chinese">缩减税收和消费，私有化，接触管制。</span><span class="english">Cut taxes and spending, privatize, and deregulate.</span></p>

@@ -1,5 +1,7 @@
 # lawfulness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lawfulness.md)
+
 <p><span class="chinese">战争的合法性有关系吗？</span><span class="english">Does the Lawfulness of War Matter?</span></p>
 
 <p><span class="chinese">不具备合法性和真实性的其他证据材料。</span><span class="english">Other evidence materials that lack lawfulness and authenticity.</span></p>

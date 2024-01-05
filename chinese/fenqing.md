@@ -1,5 +1,7 @@
 # 分清
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenqing.md)
+
 <p><span class="chinese">你应该分清是非。</span><span class="english">You should know right from wrong.</span></p>
 
 <p><span class="chinese">你能分清是非吗?</span><span class="english">Can you distinguish right from wrong?</span></p>

@@ -1,5 +1,7 @@
 # 志同道合
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhitongdaohe.md)
+
 <p><span class="chinese">也怪不得他们会有一点点”志同道合“。</span><span class="english">No wonder they had something in common.</span></p>
 
 <p><span class="chinese">“和一组崇高的志同道合的人士，”她说。</span><span class="english">And a group of noble-minded people, " she adds."</span></p>

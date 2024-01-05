@@ -1,5 +1,7 @@
 # nepheline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nepheline.md)
+
 <p><span class="chinese">霞石为典型的碱性矿物，主要生成于碱性岩及其伟晶岩中。</span><span class="english">Nepheline is a typical kind of alkaline mineral, which forms mainly in alkaline deposit and its pegmatite.</span></p>
 
 <p><span class="chinese">长石和霞石正长岩的市场前景在很大程度上取决于玻璃容器制造业的发展形势。</span><span class="english">The outlook for feldspar and nepheline syenite depends to a large extent on the strength of the glass container industry.</span></p>

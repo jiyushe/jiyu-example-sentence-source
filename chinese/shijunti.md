@@ -1,5 +1,7 @@
 # 噬菌体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shijunti.md)
+
 <p><span class="chinese">噬菌体，顾名思义它们能感染细菌。</span><span class="english">As their name suggests, these infect bacteria.</span></p>
 
 <p><span class="chinese">噬菌体是一种攻击并吞食细菌的病毒。</span><span class="english">Bacteriophages are viruses that attack and eat bacteria.</span></p>

@@ -1,5 +1,7 @@
 # inconstant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inconstant.md)
+
 <p><span class="chinese">在爱情上变化无常的女子。</span><span class="english">A woman inconstant in love.</span></p>
 
 <p><span class="chinese">人生是一场稍稍不那么无常的梦而已。</span><span class="english">Life is a dream a little less inconstant.</span></p>

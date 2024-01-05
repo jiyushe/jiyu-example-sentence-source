@@ -1,5 +1,7 @@
 # diffusive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diffusive.md)
+
 <p><span class="chinese">研究了静态定向结晶过程中的双扩散对流现象。</span><span class="english">Double diffusive convection during static crystallization was studied.</span></p>
 
 <p><span class="chinese">大小对电粘性效应产生的通道流量损失比的变化规律。</span><span class="english">The effects of diffusive angle on flow rate loss are also investigated.</span></p>

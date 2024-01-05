@@ -1,5 +1,7 @@
 # unscramble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unscramble.md)
+
 <p><span class="chinese">这段话如何解读。</span><span class="english">Unscramble that one.</span></p>
 
 <p><span class="chinese">多数银行不喜欢收拾零散的鸡蛋。</span><span class="english">Most banks hate the idea of having to unscramble eggs.</span></p>

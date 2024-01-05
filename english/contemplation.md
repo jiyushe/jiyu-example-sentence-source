@@ -1,5 +1,7 @@
 # contemplation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contemplation.md)
+
 <p><span class="chinese">假如在幽思的引导下，偶然有缘分。</span><span class="english">If chance, by lonely contemplation led.</span></p>
 
 <p><span class="chinese">她静静地沈思了一个小时。</span><span class="english">She spent an hour in quiet contemplation.</span></p>

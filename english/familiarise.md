@@ -1,5 +1,7 @@
 # familiarise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/familiarise.md)
+
 <p><span class="chinese">我来使你熟悉这些事实。</span><span class="english">Let me familiarise you with the facts.</span></p>
 
 <p><span class="chinese">对你来说把熟悉它们是个不错的主意。</span><span class="english">It is a good idea to familiarise yourself with them.</span></p>

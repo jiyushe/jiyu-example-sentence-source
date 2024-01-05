@@ -1,5 +1,7 @@
 # emi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emi.md)
+
 <p><span class="chinese">EMI没有采用任何藏头缩尾的软件。</span><span class="english">EMI is not using any software that hides traces of the program.</span></p>
 
 <p><span class="chinese">描述了这两种光电倍增管的各单项性能。</span><span class="english">The performances of the two kinds of EMI PMTs are described here.</span></p>

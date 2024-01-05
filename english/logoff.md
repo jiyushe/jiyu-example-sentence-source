@@ -1,5 +1,7 @@
 # logoff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/logoff.md)
+
 <p><span class="chinese">何谓自动下线？</span><span class="english">What is automatic logoff?</span></p>
 
 <p><span class="chinese">法规遵从性和自动下线</span><span class="english">Regulatory compliance and automatic logoff</span></p>

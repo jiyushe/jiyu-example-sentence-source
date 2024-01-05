@@ -1,5 +1,7 @@
 # correlative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/correlative.md)
+
 <p><span class="chinese">TFM是一种相关相移键控信号。</span><span class="english">TFM belongs to Correlative Phase Shift Keying.</span></p>
 
 <p><span class="chinese">任意性和差异性是两个相关的属性。</span><span class="english">Arbitrary and differential are two correlative qualities.</span></p>

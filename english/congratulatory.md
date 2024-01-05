@@ -1,5 +1,7 @@
 # congratulatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/congratulatory.md)
+
 <p><span class="chinese">平常的庆贺人群明显稀稀拉拉。</span><span class="english">The usual congratulatory crowd was conspicuously absent.</span></p>
 
 <p><span class="chinese">我为这家公司的开业写了一幅贺联。</span><span class="english">I wrote a congratulatory couplet for the opening of the company.</span></p>

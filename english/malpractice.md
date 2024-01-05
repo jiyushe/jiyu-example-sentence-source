@@ -1,5 +1,7 @@
 # malpractice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malpractice.md)
+
 <p><span class="chinese">这是一起正在审理的医疗事故讼案。</span><span class="english">This is an ongoing malpractice suit.</span></p>
 
 <p><span class="chinese">人们甚至可以将它称为营销违规行为。</span><span class="english">One could even say it is marketing malpractice.</span></p>

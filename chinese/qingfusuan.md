@@ -1,5 +1,7 @@
 # 氢氟酸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingfusuan.md)
+
 <p><span class="chinese">底泥则经氢氟酸和高氯酸消化。</span><span class="english">Bed mud was digested by HF and HClO4.</span></p>
 
 <p><span class="chinese">氢氟酸是一种强烈的反应剂。</span><span class="english">Hydrofluoric is an extremely reactive agent.</span></p>

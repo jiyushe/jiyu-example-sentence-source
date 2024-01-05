@@ -1,5 +1,7 @@
 # predecessor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/predecessor.md)
+
 <p><span class="chinese">油炸面团是甜甜圈的前身。</span><span class="english">The doughboy was a predecessor of the doughnut.</span></p>
 
 <p><span class="chinese">我的前辈安德鲁·卡尔德更守纪律。</span><span class="english">my predecessor Andrew Card was much disciplined.</span></p>

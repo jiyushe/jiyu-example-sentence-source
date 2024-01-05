@@ -1,5 +1,7 @@
 # 难兄难弟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanxiongnandi.md)
+
 <p><span class="chinese">一定程度上，医生和患者都是陷于在癌症困境中的难兄难弟。</span><span class="english">In part, doctors and patients are stuck in a sort of cancer time warp.</span></p>
 
 <p><span class="chinese">在那段期间，这对难兄难弟以骑机车、坐飞机和步行的方式旅行。</span><span class="english">During that time, the pair travels by motorcycle, airplane, and on foot.</span></p>

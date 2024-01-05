@@ -1,5 +1,7 @@
 # 义正词严
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizhengciyan.md)
+
 <p><span class="chinese">义正词严骂女主角的，BS下。</span><span class="english">Actress sternly scolded, under BS.</span></p>
 
 <p><span class="chinese">那时候，她义正词严地加以否认。</span><span class="english">At the time, she had strongly denied it.</span></p>

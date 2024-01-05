@@ -1,5 +1,7 @@
 # perforate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perforate.md)
+
 <p><span class="chinese">这台机器能在整版邮票上打孔。</span><span class="english">This machine can perforate the sheets of stamps.</span></p>
 
 <p><span class="chinese">硬的塑料灌肠嘴会刺破直肠。</span><span class="english">Hard plastic enema tips can perforate the rectum.</span></p>

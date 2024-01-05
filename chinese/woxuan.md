@@ -1,5 +1,7 @@
 # 涡旋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/woxuan.md)
+
 <p><span class="chinese">我们所在的银河系以及我们的紧邻仙女座星系都属于涡旋状星系，而银河系又是一个棒旋星系。</span><span class="english">The Milky Way is a barred spiral.</span></p>
 
 <p><span class="chinese">我们对小涡旋雷诺数的流动进行了求解。</span><span class="english">We solve the case of small vortex Reynolds number flows.</span></p>

@@ -1,5 +1,7 @@
 # thenceforth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thenceforth.md)
+
 <p><span class="chinese">老电影此后用于蚀刻。</span><span class="english">Old studio thenceforth used for etchings.</span></p>
 
 <p><span class="chinese">从那时起，我就有一个绿色的梦想。</span><span class="english">Thenceforth rises, I have the dream of a green.</span></p>

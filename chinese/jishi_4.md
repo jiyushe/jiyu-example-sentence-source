@@ -1,5 +1,7 @@
 # 机师
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jishi_4.md)
+
 <p><span class="chinese">轮机师决定用水冲洗船舱。</span><span class="english">The engineer decided to flush the hold of the ship.</span></p>
 
 <p><span class="chinese">这个年轻的美国机师咬住了嘴唇，摇了摇头。</span><span class="english">The young American pilot bit his lip, shaking his head.</span></p>

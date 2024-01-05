@@ -1,5 +1,7 @@
 # dividing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dividing.md)
+
 <p><span class="chinese">你不能通过分解财富来使它翻倍。</span><span class="english">You cannot multiply wealth by dividing it.</span></p>
 
 <p><span class="chinese">一个中心的分界线就是特性或者产品。</span><span class="english">A central dividing line is feature or product.</span></p>

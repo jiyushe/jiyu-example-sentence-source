@@ -1,5 +1,7 @@
 # baggy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baggy.md)
+
 <p><span class="chinese">他的裤子在膝盖处鼓鼓囊囊的。</span><span class="english">His pants were baggy at the knees.</span></p>
 
 <p><span class="chinese">宽松的牛仔裤是美国说唱歌手典型的风格。</span><span class="english">The baggy style is typical for American rappers.</span></p>

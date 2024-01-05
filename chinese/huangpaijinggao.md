@@ -1,5 +1,7 @@
 # 黄牌警告
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huangpaijinggao.md)
+
 <p><span class="chinese">唉，托马斯为此而被黄牌警告真不幸。</span><span class="english">Well, Thomas is unlucky to be booked for that.</span></p>
 
 <p><span class="chinese">裁判会将此动作记为失误，并向踢球者出示黄牌警告。</span><span class="english">Record the kick as a miss and show the kicker a yellow card.</span></p>

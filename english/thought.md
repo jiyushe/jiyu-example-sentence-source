@@ -1,5 +1,7 @@
 # thought
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thought.md)
+
 <p><span class="chinese">上帝！我唉叹。</span><span class="english">Good Lord, I thought.</span></p>
 
 <p><span class="chinese">我以为镇服了她。</span><span class="english">I had her, I thought.</span></p>

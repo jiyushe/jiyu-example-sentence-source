@@ -1,5 +1,7 @@
 # 武士
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wushi_6.md)
+
 <p><span class="chinese">接受绝地武士的训练。</span><span class="english">Jedi training.</span></p>
 
 <p><span class="chinese">我是蓝武士阿啾！</span><span class="english">I'm a blue samurai !</span></p>

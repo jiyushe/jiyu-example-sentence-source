@@ -1,5 +1,7 @@
 # anticonvulsant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anticonvulsant.md)
+
 <p><span class="chinese">结论GBP片剂有明显的抗惊厥作用。</span><span class="english">CONCLUSION GBP table had anticonvulsant action with significance.</span></p>
 
 <p><span class="chinese">有抗凝血酶效果，具有镇静、镇痛、解热、抗惊厥等作用。</span><span class="english">Have anti-thrombin effect, with calm, the town Pain, antipyretic, anticonvulsant and so on.</span></p>

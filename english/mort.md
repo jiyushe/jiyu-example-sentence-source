@@ -1,5 +1,7 @@
 # mort
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mort.md)
+
 <p><span class="chinese">如果有必要，应检查砂浆的强度。</span><span class="english">If necessary, the strength of the mort.</span></p>
 
 <p><span class="chinese">莫特一直为准备考试而复习。</span><span class="english">Mort does always some revision for the exam.</span></p>

@@ -1,5 +1,7 @@
 # 行家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hangjia.md)
+
 <p><span class="chinese">你都是半个行家了。</span><span class="english">You are a semi-pro.</span></p>
 
 <p><span class="chinese">这方面，我是个行家。</span><span class="english">Of that I am an expert.</span></p>

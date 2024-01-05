@@ -1,5 +1,7 @@
 # naughty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/naughty.md)
+
 <p><span class="chinese">我是坏小孩。</span><span class="english">I'm a naughty child.</span></p>
 
 <p><span class="chinese">去！你这顽皮的小孩！</span><span class="english">Begone! you naughty boy!</span></p>

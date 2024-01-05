@@ -1,5 +1,7 @@
 # mekong
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mekong.md)
+
 <p><span class="chinese">中国船员泰国湄公河遭劫，13人全部遇害。</span><span class="english">Attack on Chinese boats on Mekong River kills 13.</span></p>
 
 <p><span class="chinese">黄昏时刻，传统的小船划过湄公河。</span><span class="english">Traditional boats cross the Mekong River at dusk.</span></p>

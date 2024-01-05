@@ -1,5 +1,7 @@
 # terrene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/terrene.md)
+
 <p><span class="chinese">土楼作为一种独特的地域性建筑，深深扎根于中国的乡村社会。</span><span class="english">The terrene building is a special kind construction in a special region of Chinese country.</span></p>
 
 <p><span class="chinese">簇射芯位重建是基于地面的宇宙线观测实验的关键工作之一。</span><span class="english">The reconstruction of shower core is one of the key works of cosmic ray experiment based on terrene.</span></p>

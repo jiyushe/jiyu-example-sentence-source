@@ -1,5 +1,7 @@
 # 缔约
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diyue.md)
+
 <p><span class="chinese">我是撕裂你的缔约方会议我偷现金的药品。</span><span class="english">I Am The Cop That Rips You OffI Steal Drugs For Cash.</span></p>
 
 <p><span class="chinese">该裁判属终局裁判，对缔约双方均有拘束力。</span><span class="english">Such decision shall be final and binding on the Parties.</span></p>

@@ -1,5 +1,7 @@
 # amritsar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amritsar.md)
+
 <p><span class="chinese">1915年，他被授予的爵士爵位，但在1919年阿姆利则惨案后，他毅然拒绝了这个荣誉。</span><span class="english">In 1915, he was knighted but repudiated the honour in 1919 after the Amritsar Massacre.</span></p>
 
 <p><span class="chinese">电影展示大量有关的场面，影片背景设在果亚阿姆利则的海滨度假区。</span><span class="english">They are quite lavish. The setting is Amritsar with a holiday on the beachfront in Goa.</span></p>

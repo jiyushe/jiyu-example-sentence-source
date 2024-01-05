@@ -1,5 +1,7 @@
 # fresco
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fresco.md)
+
 <p><span class="chinese">17世纪的一幅壁画。</span><span class="english">A fresco painting of the 17th century.</span></p>
 
 <p><span class="chinese">抱厦上绘有精美的壁画。</span><span class="english">There is an exquisite fresco on that porch.</span></p>

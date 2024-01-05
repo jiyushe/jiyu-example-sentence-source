@@ -1,5 +1,7 @@
 # prophesy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prophesy.md)
+
 <p><span class="chinese">吾主上主发了言，谁能不传他的话？</span><span class="english">The Lord God hath spoken, who shall not prophesy?</span></p>
 
 <p><span class="chinese">假冒为善的人哪，以赛亚指着你们说的预言，是不错的。</span><span class="english">Ye hypocrites, well did Esaias prophesy of you, saying</span></p>

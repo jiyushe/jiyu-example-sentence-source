@@ -1,5 +1,7 @@
 # shape
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shape.md)
+
 <p><span class="chinese">半圆形形状工具。</span><span class="english">Semicircle shape tool.</span></p>
 
 <p><span class="chinese">寿桃造型准确。</span><span class="english">Peach is accurate shape.</span></p>

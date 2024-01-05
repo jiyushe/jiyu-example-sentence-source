@@ -1,5 +1,7 @@
 # dominant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dominant.md)
+
 <p><span class="chinese">农业是当时的主导产业。</span><span class="english">Agriculture was dominant.</span></p>
 
 <p><span class="chinese">这就是狗儿怎么变得支配欲强的。</span><span class="english">That's how dogs become dominant.</span></p>

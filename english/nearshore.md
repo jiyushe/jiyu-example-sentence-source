@@ -1,5 +1,7 @@
 # nearshore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nearshore.md)
+
 <p><span class="chinese">这意味着陆源污染和人群活动对近岸海区大气的影响。</span><span class="english">It means that there was the influence of land pollution and human activity on the nearshore waters.</span></p>
 
 <p><span class="chinese">近岸泥沙运动是造成岸滩演变、航道淤积的主要原因。</span><span class="english">Nearshore sediment transport play a significant role in the coastal evolution and channel siltation.</span></p>

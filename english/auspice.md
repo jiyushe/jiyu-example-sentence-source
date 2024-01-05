@@ -1,5 +1,7 @@
 # auspice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/auspice.md)
+
 <p><span class="chinese">他把那看作是幸福的徵兆。</span><span class="english">He took that as an auspice of happiness.</span></p>
 
 <p><span class="chinese">人们将其视为幸福吉祥之鸟。</span><span class="english">People regard it as bird of happiness and auspice.</span></p>

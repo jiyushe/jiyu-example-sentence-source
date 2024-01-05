@@ -1,5 +1,7 @@
 # 办案
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banan.md)
+
 <p><span class="chinese">律师依据事实办案。</span><span class="english">A lawyer Builds his case on facts.</span></p>
 
 <p><span class="chinese">据办案人员介绍，现年45岁的陈某是武汉人。</span><span class="english">According to personnel, the 45-year-old Chen was the Wuhan people.</span></p>

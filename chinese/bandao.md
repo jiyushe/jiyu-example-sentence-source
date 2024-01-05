@@ -1,5 +1,7 @@
 # 半岛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bandao.md)
+
 <p><span class="chinese">大石？半岛抑是岛？</span><span class="english">Rock? peninsula or island?</span></p>
 
 <p><span class="chinese">这就是巴丹半岛的死亡行军。</span><span class="english">This was the Bataan death march.</span></p>

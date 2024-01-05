@@ -1,5 +1,7 @@
 # rabbinic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rabbinic.md)
+
 <p><span class="chinese">哈加达一词在拉比学术界中使用。</span><span class="english">The term Haggadah is used in rabbinic scholarship.</span></p>
 
 <p><span class="chinese">犹太教圣经形成于拉比时期。</span><span class="english">The Jewish bible started developing in the Rabbinic period.</span></p>

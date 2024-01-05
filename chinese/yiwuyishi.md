@@ -1,5 +1,7 @@
 # 一五一十
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiwuyishi.md)
+
 <p><span class="chinese">她把她的过去一五一十地告诉了他。</span><span class="english">She told him the gory details of her past.</span></p>
 
 <p><span class="chinese">她把事情一五一十地告诉了我。</span><span class="english">She told me the whole story word for word.</span></p>

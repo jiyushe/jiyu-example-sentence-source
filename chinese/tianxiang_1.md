@@ -1,5 +1,7 @@
 # 天象
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianxiang_1.md)
+
 <p><span class="chinese">中国大部分地区可观看到这个天象奇观。</span><span class="english">Most part of China can observe this wonderful event.</span></p>
 
 <p><span class="chinese">流星雨是最富浪漫色彩的天象奇观。</span><span class="english">Meteor shower is one of the most romantic spectacle Sky.</span></p>

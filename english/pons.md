@@ -1,5 +1,7 @@
 # pons
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pons.md)
+
 <p><span class="chinese">游戏中武器的概述。</span><span class="english">Overview of wea pons used in game.</span></p>
 
 <p><span class="chinese">这些神经细胞位于脑干的脑桥部位。</span><span class="english">They are in the pons part of the brain stem.</span></p>

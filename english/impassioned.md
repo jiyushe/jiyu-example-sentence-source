@@ -1,5 +1,7 @@
 # impassioned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impassioned.md)
+
 <p><span class="chinese">然而，慷慨激昂的歌声也获得通过。</span><span class="english">However, the impassioned singing did get through.</span></p>
 
 <p><span class="chinese">听，那或激昂或低沉的读书声！</span><span class="english">Listen, the impassioned or deep-throated reading sounds!</span></p>

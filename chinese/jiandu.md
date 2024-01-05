@@ -1,5 +1,7 @@
 # 建都
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiandu.md)
+
 <p><span class="chinese">闪光的纷歧建都是金子。</span><span class="english">Bll that glitters is not gold.</span></p>
 
 <p><span class="chinese">闪光的不一建都是金子。</span><span class="english">All which glitters is not gold.</span></p>

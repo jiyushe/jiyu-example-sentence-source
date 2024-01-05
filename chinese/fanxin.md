@@ -1,5 +1,7 @@
 # 烦心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanxin.md)
+
 <p><span class="chinese">那个坏消息让我烦心了。</span><span class="english">The bad news bothered me.</span></p>
 
 <p><span class="chinese">微笑能使烦心事随风而逝，并且继续前进。</span><span class="english">Laugh to let it go and move on.</span></p>

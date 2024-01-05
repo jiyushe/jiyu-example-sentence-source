@@ -1,5 +1,7 @@
 # 肄业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiye.md)
+
 <p><span class="chinese">在那之前，周日协议就只能算是“肄业”。</span><span class="english">Until then, the Sunday deal gets an incomplete.</span></p>
 
 <p><span class="chinese">他曾在北京大学物理系肄业两年。</span><span class="english">He studied physics in Beijing University for two years.</span></p>

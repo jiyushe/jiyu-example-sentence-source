@@ -1,5 +1,7 @@
 # spillage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spillage.md)
+
 <p><span class="chinese">不得将制动液溢溅到车漆上。</span><span class="english">Will not the brake fluid spillage to car paint.</span></p>
 
 <p><span class="chinese">溢出的地方，须用水冲洗并用另外的海绵擦拭。</span><span class="english">The spillage area should be washed with water, by means of another sponge.</span></p>

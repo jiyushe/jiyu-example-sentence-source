@@ -1,5 +1,7 @@
 # tantalus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tantalus.md)
+
 <p><span class="chinese">翻译坦塔罗斯是罗底亚富有而又强大的国王。</span><span class="english">Tantalus was the rich and mighty king of Lydia.</span></p>
 
 <p><span class="chinese">教一个做母亲的人受那种眼睁睁的生离死别的苦痛，您觉得有什么可说的吗？</span><span class="english">What say you to that torture of Tantalus as applied to a mother?</span></p>

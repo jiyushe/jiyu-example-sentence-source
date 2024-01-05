@@ -1,5 +1,7 @@
 # 交好
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaohao.md)
+
 <p><span class="chinese">我和朋友们依旧交好如昔吗？</span><span class="english">Am I still friends with Colleen.</span></p>
 
 <p><span class="chinese">他们可能与我们交好，他们也可能会吃掉我们。</span><span class="english">They might befriend us. They might eat us.</span></p>

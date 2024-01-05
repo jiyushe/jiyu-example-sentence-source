@@ -1,5 +1,7 @@
 # 冷床
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lengchuang.md)
+
 <p><span class="chinese">提出了冷床改进的几点建议。</span><span class="english">The proposal has been made to improve cooling table.</span></p>
 
 <p><span class="chinese">分析了冷床送钢系统的工艺过程，给出了参数计算模型。</span><span class="english">Process of feeding steel system is analyzed, and parameter calculating model is given.</span></p>

@@ -1,5 +1,7 @@
 # senate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/senate.md)
+
 <p><span class="chinese">参议院的投票结果是65比31。</span><span class="english">The Senate vote was 65-31.</span></p>
 
 <p><span class="chinese">一个低贱的平民进入元老院?。</span><span class="english">A lowly pleb in the Senate?</span></p>

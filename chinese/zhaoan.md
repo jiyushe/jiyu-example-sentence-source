@@ -1,5 +1,7 @@
 # 招安
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoan.md)
+
 <p><span class="chinese">因此真核生物基因内区的构造可能来自细菌，是通过招安线粒体塞进来的。</span><span class="english">So introns probably came from bacteria via the mitochondria.</span></p>
 
 <p><span class="chinese">李逵受招安后被封为镇江润州都统制。</span><span class="english">Li Kui after being labeled by the amnesty are Runzhou control.</span></p>

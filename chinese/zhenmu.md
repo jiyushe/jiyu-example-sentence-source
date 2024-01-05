@@ -1,5 +1,7 @@
 # 枕木
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenmu.md)
+
 <p><span class="chinese">铁路枕木上散放着几块木板。</span><span class="english">Some boards laid loosely on the railroad crossties.</span></p>
 
 <p><span class="chinese">枕木和衬垫的组合应为套件的形式。</span><span class="english">Connection of sleepers and plate pads shall be screw-type.</span></p>

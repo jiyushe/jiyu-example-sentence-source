@@ -1,5 +1,7 @@
 # suk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suk.md)
+
 <p><span class="chinese">张根硕面对面地说。</span><span class="english">Jang Keun Suk said face to face.</span></p>
 
 <p><span class="chinese">石是一名很棒的球员，并且他总是竭尽全力。</span><span class="english">Suk is a good player and he always does his utmost.</span></p>

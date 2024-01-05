@@ -1,5 +1,7 @@
 # colorimetry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colorimetry.md)
+
 <p><span class="chinese">方法采用苯酚-硫酸比色法。</span><span class="english">Method Content determination with phenol-vitriolic colorimetry.</span></p>
 
 <p><span class="chinese">用酸性染料比色法测定制剂中乌头总生物碱。</span><span class="english">Total alkaloids of aconite was determined by acid dye colorimetry.</span></p>

@@ -1,5 +1,7 @@
 # interspecific
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interspecific.md)
+
 <p><span class="chinese">有一种看法认为种间杂种是罕见的，这种看法是无根据的。</span><span class="english">The notion that interspecific hybrids are rare is ill-founded.</span></p>
 
 <p><span class="chinese">种间杂交后代中，抗性基因的作用表现为加性效应。</span><span class="english">The additive effect of resistant gene was found among the interspecific hybrids.</span></p>

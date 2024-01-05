@@ -1,5 +1,7 @@
 # manilla
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manilla.md)
+
 <p><span class="chinese">马尼拉文件夹做一个伟大的礼物包装纸张来源。</span><span class="english">Manilla folders make a great paper source for gift wrapping.</span></p>
 
 <p><span class="chinese">马尼拉信封做一个伟大的礼物包装纸张来源。</span><span class="english">Manilla envelopes make a great paper source for gift wrapping.</span></p>

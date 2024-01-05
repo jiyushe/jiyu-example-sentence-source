@@ -1,5 +1,7 @@
 # 鼓捣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gudao_3.md)
+
 <p><span class="chinese">Wilson在几个小时内鼓捣出一堆StringIO的测试规格。</span><span class="english">Wilson hammered out a bunch of StringIO specs in a couple hours.</span></p>
 
 <p><span class="chinese">他还说别鼓捣电话机，可是，我想我是把电话拨到澳大利亚去了。</span><span class="english">He also said don't fool around with his phone, but I think I called Australia.</span></p>

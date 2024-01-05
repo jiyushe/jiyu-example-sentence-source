@@ -1,5 +1,7 @@
 # 同床异梦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongchuangyimeng.md)
+
 <p><span class="chinese">政治常制造一些奇怪的同床异梦者。</span><span class="english">Politics makes strange bedfellows.</span></p>
 
 <p><span class="chinese">因而我和爱便同床异梦。</span><span class="english">Therefore I'll lie with love, and love with me.</span></p>

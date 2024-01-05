@@ -1,5 +1,7 @@
 # vociferous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vociferous.md)
+
 <p><span class="chinese">当然，也有一些人嚷嚷着要修建跨海隧道。</span><span class="english">There was also a vociferous tunnel party.</span></p>
 
 <p><span class="chinese">第二股势力是一批气壮如牛的空军元帅。</span><span class="english">The second was a group of vociferous Air Marshales.</span></p>

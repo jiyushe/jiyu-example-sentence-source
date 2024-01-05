@@ -1,5 +1,7 @@
 # halide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/halide.md)
+
 <p><span class="chinese">以醛酮为原料合成卤代乙烯类化合物。</span><span class="english">Preparing alkenyl halide from aldehyde and ketone.</span></p>
 
 <p><span class="chinese">采用热挤压法成型制备出卤化银多晶光纤。</span><span class="english">The silver halide fibers were made by means of hot extrusion.</span></p>

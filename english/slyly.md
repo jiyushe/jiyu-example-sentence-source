@@ -1,5 +1,7 @@
 # slyly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slyly.md)
+
 <p><span class="chinese">“我仅是花园里的一条小青蛇”他狡猾地吐着舌信笑着说。</span><span class="english">"I'm just a little garden snake, " he grinned slyly.</span></p>
 
 <p><span class="chinese">我要悄悄地开放花瓣儿，看着你工作。</span><span class="english">I should slyly open my petals and watch you at your work.</span></p>

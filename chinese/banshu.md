@@ -1,5 +1,7 @@
 # 板书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banshu.md)
+
 <p><span class="chinese">教师领读板书。</span><span class="english">Yes, I like reading books.</span></p>
 
 <p><span class="chinese">很容易做硬板书签。</span><span class="english">Easy to laminate the bookmarks.</span></p>

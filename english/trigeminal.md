@@ -1,5 +1,7 @@
 # trigeminal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trigeminal.md)
+
 <p><span class="chinese">三叉神经痛的取穴原则。</span><span class="english">The rules of point selection of trigeminal neuralgia.</span></p>
 
 <p><span class="chinese">窝器内有三叉神经节的神经纤维。</span><span class="english">The pit organ contains nerve fibres known as trigeminal ganglia.</span></p>

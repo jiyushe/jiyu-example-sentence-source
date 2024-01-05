@@ -1,5 +1,7 @@
 # restudy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/restudy.md)
+
 <p><span class="chinese">让我们再学一遍第十五课。</span><span class="english">Let's restudy Lesson Fifteen.</span></p>
 
 <p><span class="chinese">经最近的工作又新发现了7种铋硫盐。</span><span class="english">The restudy reveals 7 new bismuth salt minerals ie.</span></p>

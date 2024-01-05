@@ -1,5 +1,7 @@
 # hestia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hestia.md)
+
 <p><span class="chinese">赫斯提，壁炉之女神，并不喜好性。</span><span class="english">Hestia , Goddess of the Hearth, did not enjoy sex.</span></p>
 
 <p><span class="chinese">赫斯提亚是宙斯、波塞冬和哈迪斯的姐姐。</span><span class="english">Hestia is the sister to Zeus, Poseidon, and Hades.</span></p>

@@ -1,5 +1,7 @@
 # artfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/artfully.md)
+
 <p><span class="chinese">我并没有如我所愿的过着艺术的人生，但我希望拥有那样的人生。</span><span class="english">I haven’t lived my life as artfully as I might have wished. But I want to.</span></p>
 
 <p><span class="chinese">布什助选团巧妙地拖延，然后对辩论形式提出异议。</span><span class="english">The Bush campaign artfully dawdled, then took issue with the debate format.</span></p>

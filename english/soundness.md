@@ -1,5 +1,7 @@
 # soundness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soundness.md)
+
 <p><span class="chinese">最后还证明了该方法的可靠性和完全性。</span><span class="english">The soundness and completeness of this method are also proved.</span></p>
 
 <p><span class="chinese">所以完好性与,有效性和前提真理有关。</span><span class="english">So soundness has to do with both validity and the truth of the premise.</span></p>

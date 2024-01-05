@@ -1,5 +1,7 @@
 # 攀谈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pantan.md)
+
 <p><span class="chinese">他感到很难在聚会上与人攀谈。</span><span class="english">He finds it hard to mix at parties.</span></p>
 
 <p><span class="chinese">“他们很喜欢你，你知道，”他攀谈道。</span><span class="english">They like you, you know, " he said conversationally."</span></p>

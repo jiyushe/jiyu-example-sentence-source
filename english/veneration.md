@@ -1,5 +1,7 @@
 # veneration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/veneration.md)
+
 <p><span class="chinese">在下对前辈的景仰有如滔滔江水，绵绵不绝。</span><span class="english">My veneration for your honor will go on and on just like the surging river.</span></p>
 
 <p><span class="chinese">公众对他的景仰是如何折磨着他，那痛苦是难以想见的！</span><span class="english">It is inconceivable, the agony with which this public veneration tortured him!</span></p>

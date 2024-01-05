@@ -1,5 +1,7 @@
 # 松涛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songtao.md)
+
 <p><span class="chinese">有时神透过松涛低语说话。</span><span class="english">Sometime God speaks through whispering pine.</span></p>
 
 <p><span class="chinese">大冷山尽是奇峰幽谷，林海松涛。</span><span class="english">Cold Mountain is full of great piz Valley, Tao.</span></p>

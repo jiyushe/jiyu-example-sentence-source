@@ -1,5 +1,7 @@
 # idyll
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/idyll.md)
+
 <p><span class="chinese">我只作了一首田园诗。</span><span class="english">I've composed only one idyll.</span></p>
 
 <p><span class="chinese">上周，这田园诗般的生活似乎要终结了。</span><span class="english">Last week the idyll seemed to be over.</span></p>

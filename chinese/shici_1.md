@@ -1,5 +1,7 @@
 # 誓词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shici_1.md)
+
 <p><span class="chinese">他们将会在婚礼誓词上说什么呢？</span><span class="english">What will they say in their vows?</span></p>
 
 <p><span class="chinese">互诉结婚誓词的那幕。</span><span class="english">The part where we exchanged marriage vows.</span></p>

@@ -1,5 +1,7 @@
 # multipoint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multipoint.md)
+
 <p><span class="chinese">它是多点线路中的线路标识的一部分。</span><span class="english">Part of the line identification for a multipoint line.</span></p>
 
 <p><span class="chinese">多点网络拓扑结构设计问题是NP-完全问题。</span><span class="english">The problem of multipoint network topological design is NP-complete.</span></p>

@@ -1,5 +1,7 @@
 # buckingham
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buckingham.md)
+
 <p><span class="chinese">它是白金汉宫？</span><span class="english">Is it Buckingham Palace?</span></p>
 
 <p><span class="chinese">我们先往看看白金汉宫如何样？</span><span class="english">What if we go to see Buckingham Palace first?</span></p>

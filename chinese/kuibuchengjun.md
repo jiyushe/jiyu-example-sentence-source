@@ -1,5 +1,7 @@
 # 溃不成军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuibuchengjun.md)
+
 <p><span class="chinese">到目前为止，苹果的竞争对手都溃不成军。</span><span class="english">Rivals have been routed so far.</span></p>
 
 <p><span class="chinese">傻瓜才在爱情战役里溃不成军。</span><span class="english">A fool in love battle be utterly routed.</span></p>

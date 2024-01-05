@@ -1,5 +1,7 @@
 # 英两
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingliang.md)
+
 <p><span class="chinese">一磅等于16英两。</span><span class="english">A pound contains 16 ounces.</span></p>
 
 <p><span class="chinese">祝中英两国人民幸福安康！</span><span class="english">I wish our two peoples greater happiness.</span></p>

@@ -1,5 +1,7 @@
 # feverish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feverish.md)
+
 <p><span class="chinese">你的头摸起来发烧。</span><span class="english">Your head feels feverish.</span></p>
 
 <p><span class="chinese">给发高烧病人服用了奎宁。</span><span class="english">Feverish patients were dosed with quinine.</span></p>

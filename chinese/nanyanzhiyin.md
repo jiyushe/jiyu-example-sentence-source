@@ -1,5 +1,7 @@
 # 难言之隐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanyanzhiyin.md)
+
 <p><span class="chinese">我知道你有难言之隐。</span><span class="english">I know you have something difficult to tell.</span></p>
 
 <p><span class="chinese">你不告诉我是有什么难言之隐吗？</span><span class="english">Is there a reason you didn't tell me this before?</span></p>

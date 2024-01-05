@@ -1,5 +1,7 @@
 # underperform
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underperform.md)
+
 <p><span class="chinese">我对你们说没有股票,会有比市场表现的好,或者差的可能性。</span><span class="english">I said that no stock is likely to outperform the market or underperform the market.</span></p>
 
 <p><span class="chinese">不过，即便是在国际足联排名出台之前，热门球队在世界杯上通常都是表现欠佳。</span><span class="english">But even prior to the FIFA ranking system, favorites have tended to underperform at the World Cup.</span></p>

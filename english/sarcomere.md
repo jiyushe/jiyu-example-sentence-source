@@ -1,5 +1,7 @@
 # sarcomere
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sarcomere.md)
+
 <p><span class="chinese">目的观察尸僵再形成中肌节长度的变化。</span><span class="english">Objective To observe changes of the length of sarcomere of rat when restiffening.</span></p>
 
 <p><span class="chinese">肉样经HMP处理后，肌节基本上保持原有结构，只是Z盘处稍有弱化发生。</span><span class="english">The sarcomere struture of HMP also remained basic structure except the weakening at Z disk.</span></p>

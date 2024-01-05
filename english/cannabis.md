@@ -1,5 +1,7 @@
 # cannabis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cannabis.md)
+
 <p><span class="chinese">还可以闻到大麻在某处燃烧。</span><span class="english">Cannabis could be smelled cooking somewhere too.</span></p>
 
 <p><span class="chinese">他为大麻合法化而斗争。</span><span class="english">He's campaigning for the decriminalization of cannabis.</span></p>

@@ -1,5 +1,7 @@
 # 捆扎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kunzha.md)
+
 <p><span class="chinese">他用细绳来捆扎包裹。</span><span class="english">He tied the parcel with twine.</span></p>
 
 <p><span class="chinese">你的行李捆扎好了吗?</span><span class="english">Have you swaddled your luggage?</span></p>

@@ -1,5 +1,7 @@
 # 火苗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huomiao.md)
+
 <p><span class="chinese">然后去把火苗儿吹起。</span><span class="english">I went to blow the fire aflame.</span></p>
 
 <p><span class="chinese">拨动灰烬使火苗燃烧起来。</span><span class="english">The ashes were quickened into flames.</span></p>

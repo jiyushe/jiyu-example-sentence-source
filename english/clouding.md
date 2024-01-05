@@ -1,5 +1,7 @@
 # clouding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clouding.md)
+
 <p><span class="chinese">我的眼镜一直模糊起来。</span><span class="english">My glasses kept clouding up.</span></p>
 
 <p><span class="chinese">他眼前云遮雾罩。</span><span class="english">And now, his sight was clouding over.</span></p>

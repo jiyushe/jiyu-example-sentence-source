@@ -1,5 +1,7 @@
 # fish 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fish.md)
+
 <p><span class="chinese">鱼是我。</span><span class="english">Fish is I.</span></p>
 
 <p><span class="chinese">史莱克鱼？</span><span class="english">Shrek fish?</span></p>

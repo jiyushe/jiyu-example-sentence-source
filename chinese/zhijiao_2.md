@@ -1,5 +1,7 @@
 # 治教
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhijiao_2.md)
+
 <p><span class="chinese">以德治教是理想的教育境界。</span><span class="english">Running a school by virtue is an ideal realm of education.</span></p>
 
 <p><span class="chinese">依法治教是高等教育质量提高的法律保障。</span><span class="english">The management of higher education by laws is legal guarantee.</span></p>

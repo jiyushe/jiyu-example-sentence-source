@@ -1,5 +1,7 @@
 # 淅沥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xili_2.md)
+
 <p><span class="chinese">昨日阴霾，今夜雨淅沥。</span><span class="english">Yesterday haze, tonight rain.</span></p>
 
 <p><span class="chinese">淅沥。淅沥。满满的幸福就快要溢出来了…</span><span class="english">Full of happiness is about to overflow to the.</span></p>

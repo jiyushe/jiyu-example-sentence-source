@@ -1,5 +1,7 @@
 # weatherstrip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weatherstrip.md)
+
 <p><span class="chinese">安装装饰带嵌条及防水饰条密封。</span><span class="english">Install beltline molding and weatherstrip seals.</span></p>
 
 <p><span class="chinese">拆卸内部和外部的带状防水饰条。</span><span class="english">Remove the inner and outer beltline weatherstrip.</span></p>

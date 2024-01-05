@@ -1,5 +1,7 @@
 # 原稿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuangao_1.md)
+
 <p><span class="chinese">开启原稿外盖。</span><span class="english">Open the document cover.</span></p>
 
 <p><span class="chinese">传输单面原稿时选择。</span><span class="english">Select to transmit 1-sided documents.</span></p>

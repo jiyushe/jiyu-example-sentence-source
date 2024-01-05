@@ -1,5 +1,7 @@
 # 熊市
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongshi.md)
+
 <p><span class="chinese">浣熊市?。</span><span class="english">Raccoon city? biohazard?</span></p>
 
 <p><span class="chinese">米加熊市论者仍占少数。</span><span class="english">“Mega-bears” are still a small minority.</span></p>

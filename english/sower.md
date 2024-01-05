@@ -1,5 +1,7 @@
 # sower
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sower.md)
+
 <p><span class="chinese">撒种之人所撒的，就是道。</span><span class="english">The sower soweth the word.</span></p>
 
 <p><span class="chinese">有一个撒种的出去撒种。</span><span class="english">Behold, a sower went out to sow.</span></p>

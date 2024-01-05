@@ -1,5 +1,7 @@
 # radome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radome.md)
+
 <p><span class="chinese">雷达天线罩以铰链方式安装以便于检修雷达。</span><span class="english">The radome was hinged to permit easier access to the radar.</span></p>
 
 <p><span class="chinese">地面检查雷达罩和右发进气道正常，右发风扇叶片正常，涵道正常。</span><span class="english">GND check found radome R engine normal, engine fan blades bypass normal.</span></p>

@@ -1,5 +1,7 @@
 # tuberculosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tuberculosis.md)
+
 <p><span class="chinese">她被传染上了肺结核。</span><span class="english">She was infected with tuberculosis.</span></p>
 
 <p><span class="chinese">王林被诊断为肺结核。</span><span class="english">Wang was diagnosed with tuberculosis.</span></p>

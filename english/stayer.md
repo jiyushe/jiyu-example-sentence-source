@@ -1,5 +1,7 @@
 # stayer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stayer.md)
+
 <p><span class="chinese">你是一名务工佣人吗？</span><span class="english">Are you a stayer?</span></p>
 
 <p><span class="chinese">你是一个务工佣人。</span><span class="english">You are a stayer.</span></p>

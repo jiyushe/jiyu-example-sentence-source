@@ -1,5 +1,7 @@
 # 邮品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youpin.md)
+
 <p><span class="chinese">将于周六开始的苏黎世亚洲的拍卖会将是到迄今为止规模最大的邮品拍卖会。</span><span class="english">Zurich Asia's auction, which starts Saturday, is its biggest to date.</span></p>
 
 <p><span class="chinese">年「邮品订购服务」申请表格填写付款资料。</span><span class="english">Please fill in your payment details in the 2009 LSOS Application Form.</span></p>

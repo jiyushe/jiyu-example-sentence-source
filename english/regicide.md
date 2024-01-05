@@ -1,5 +1,7 @@
 # regicide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regicide.md)
+
 <p><span class="chinese">革命和杀死沙皇都是伟大的事业吗？</span><span class="english">Revolution and regicide a grand fact?</span></p>
 
 <p><span class="chinese">他因弑君的行为被捕了。</span><span class="english">He was arrested for being the regicide.</span></p>

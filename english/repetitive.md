@@ -1,5 +1,7 @@
 # repetitive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repetitive.md)
+
 <p><span class="chinese">这本书是絮叨的么？</span><span class="english">The book is repetitive?</span></p>
 
 <p><span class="chinese">而传统的回铃音是重复的“嘟--嘟”声。</span><span class="english">The standard tone is a repetitive ring.</span></p>

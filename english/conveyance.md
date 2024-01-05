@@ -1,5 +1,7 @@
 # conveyance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conveyance.md)
+
 <p><span class="chinese">垂直运输机具准备就绪。</span><span class="english">Vertical Conveyance machines are Ready.</span></p>
 
 <p><span class="chinese">马奥尼以前从来没有见过这样的运输工具。</span><span class="english">Mahoney had never seen such a conveyance before.</span></p>

@@ -1,5 +1,7 @@
 # exaggerative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exaggerative.md)
+
 <p><span class="chinese">我这么写太夸张了。</span><span class="english">I so write too exaggerative.</span></p>
 
 <p><span class="chinese">是一种夸张的说法。</span><span class="english">It's an exaggerative expression.</span></p>

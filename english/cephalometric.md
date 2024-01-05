@@ -1,5 +1,7 @@
 # cephalometric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cephalometric.md)
+
 <p><span class="chinese">对两名医生描点的可重复性相关因素进行分析。</span><span class="english">The cephalometric analysis were automated by the computer.</span></p>
 
 <p><span class="chinese">图4。矫正治疗前之测颅X光片，描绘及分析。</span><span class="english">Cephalometric X-ray, tracing, and analysis before orthodontic treatment.</span></p>

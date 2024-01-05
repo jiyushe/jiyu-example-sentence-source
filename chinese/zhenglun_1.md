@@ -1,5 +1,7 @@
 # 政论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenglun_1.md)
+
 <p><span class="chinese">这是1642年写成的一篇政论。</span><span class="english">That's the political treatise written in 1642.</span></p>
 
 <p><span class="chinese">报纸内容以政论性的宣传鼓动文章为主，读者则多为社会上的精英分子阶层。</span><span class="english">The content give priority to agitprop, and readers are super classes of society.</span></p>

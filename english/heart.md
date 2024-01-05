@@ -1,5 +1,7 @@
 # heart
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heart.md)
+
 <p><span class="chinese">我的心灵？</span><span class="english">My heart?</span></p>
 
 <p><span class="chinese">心冷了。</span><span class="english">Cold heart.</span></p>

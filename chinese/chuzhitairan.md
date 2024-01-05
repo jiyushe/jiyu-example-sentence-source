@@ -1,5 +1,7 @@
 # 处之泰然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuzhitairan.md)
+
 <p><span class="chinese">他受到这些指控仍处之泰然。</span><span class="english">He remained unruffled by the charges.</span></p>
 
 <p><span class="chinese">当你对死亡处之泰然，你才能对生命处之泰然。</span><span class="english">Until you are free to die, you are not free to live.</span></p>

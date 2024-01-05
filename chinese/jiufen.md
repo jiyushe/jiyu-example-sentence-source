@@ -1,5 +1,7 @@
 # 纠纷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiufen.md)
+
 <p><span class="chinese">哦,离婚纠纷</span><span class="english">Okay, in divorce struggles, okay.</span></p>
 
 <p><span class="chinese">是继承纠纷还是析产纠纷?。</span><span class="english">Dispute of Inheritance or Division?</span></p>

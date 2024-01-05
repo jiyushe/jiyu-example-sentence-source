@@ -1,5 +1,7 @@
 # asserted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asserted.md)
+
 <p><span class="chinese">“我不！”一个刺耳的男性声音辩护道。</span><span class="english">I won't! " a raspy male voice asserted."</span></p>
 
 <p><span class="chinese">“那还用说，”理发师斩钉截铁地说。</span><span class="english">"Without a doubt, " the barber asserted.</span></p>

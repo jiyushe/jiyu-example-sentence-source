@@ -1,5 +1,7 @@
 # 风雨飘摇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengyupiaoyao.md)
+
 <p><span class="chinese">在风雨飘摇的日子，风暴将窃取我的痛苦。</span><span class="english">In the stormy days, storms will steal my pain.</span></p>
 
 <p><span class="chinese">但是现在，美国汽车工业正在风雨飘摇的危机之中，通用和克莱斯勒需要联邦政府在12月份提供130亿美元的财政援助以防止破产。</span><span class="english">But not now. American automakers are in crisis.</span></p>

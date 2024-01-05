@@ -1,5 +1,7 @@
 # 教师
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoshi_1.md)
+
 <p><span class="chinese">教师将钟拨到一点。</span><span class="english">It's One o'clock.</span></p>
 
 <p><span class="chinese">家庭教师驾驶着一辆车子。</span><span class="english">The tutor drove a car.</span></p>

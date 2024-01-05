@@ -1,5 +1,7 @@
 # unauthorized
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unauthorized.md)
+
 <p><span class="chinese">这是骗局、猜测、还是一次未经授权的泄密？</span><span class="english">Was it a hoax, a guess or an unauthorized leak?</span></p>
 
 <p><span class="chinese">鲁道尔夫正在起诉对它红鼻子滥用。</span><span class="english">Rudolf was suing over unauthorized use of his nose.</span></p>

@@ -1,5 +1,7 @@
 # 山丘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanqiu.md)
+
 <p><span class="chinese">雪覆盖了山丘。</span><span class="english">Snow mantled the hill.</span></p>
 
 <p><span class="chinese">一座白塔屹立在山丘上。</span><span class="english">A white tower stands on the hill.</span></p>

@@ -1,5 +1,7 @@
 # regretful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regretful.md)
+
 <p><span class="chinese">对于呢地事我都几内疚架。</span><span class="english">For that, I felt so regretful.</span></p>
 
 <p><span class="chinese">对于遗憾来说这是一个好消息。</span><span class="english">That's good news for the regretful.</span></p>

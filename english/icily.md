@@ -1,5 +1,7 @@
 # icily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/icily.md)
+
 <p><span class="chinese">白色的冰冷的水在右舷一边泛著泡沫飞溅著。</span><span class="english">White icily -cold water foamed over the starboard side.</span></p>
 
 <p><span class="chinese">我冷冰冰地没有反应，但自顾自把我的半碗粥吃完。</span><span class="english">I icily didn't respond, but selfish my half bowl the gruel finishes eating.</span></p>

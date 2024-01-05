@@ -1,5 +1,7 @@
 # 实效
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shixiao_2.md)
+
 <p><span class="chinese">这就是我对于“实效权威”的看法。</span><span class="english">This is my idea of pragmatic authority.</span></p>
 
 <p><span class="chinese">大家好，我是来自实效家族的妮可！</span><span class="english">Hello, everybody! I'm Nicole, from the EOE family.</span></p>

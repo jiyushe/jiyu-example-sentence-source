@@ -1,5 +1,7 @@
 # 自由市场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziyoushichang.md)
+
 <p><span class="chinese">仅仅是为了纯正的"自由市场"理想?</span><span class="english">Just to satisfy a purist "free market" ideal?</span></p>
 
 <p><span class="chinese">对于自由市场主义者而言，解决的方法显而易见。</span><span class="english">The solution, to free-marketeers, seems obvious.</span></p>

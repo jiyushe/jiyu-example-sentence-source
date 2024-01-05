@@ -1,5 +1,7 @@
 # maintenance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maintenance.md)
+
 <p><span class="chinese">维护阶段。</span><span class="english">Maintenance stage.</span></p>
 
 <p><span class="chinese">有维修服务吗？</span><span class="english">Is there maintenance service?</span></p>

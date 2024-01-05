@@ -1,5 +1,7 @@
 # 马不停蹄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mabutingti.md)
+
 <p><span class="chinese">好马不停蹄，好牛不停犁。</span><span class="english">Good non-stop, good cattle kept plow.</span></p>
 
 <p><span class="chinese">而且七月正在马不停蹄地超越六月。</span><span class="english">And July is doing its best to outdo June.</span></p>

@@ -1,5 +1,7 @@
 # 宣传画
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanchuanhua.md)
+
 <p><span class="chinese">一些宣传画。</span><span class="english">Some posters.</span></p>
 
 <p><span class="chinese">他的艺术几乎不能被当做宣传画来解读。</span><span class="english">His art rarely read as propaganda.</span></p>

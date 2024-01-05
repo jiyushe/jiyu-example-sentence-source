@@ -1,5 +1,7 @@
 # 渔村
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yucun.md)
+
 <p><span class="chinese">正在建筑中的东大渔村岛护堤。</span><span class="english">Berms under construction at East Grand Terre Island.</span></p>
 
 <p><span class="chinese">早上好，东海渔村酒楼，你需要什么？</span><span class="english">Good morning. East Sea Fishing Village. May I help you?</span></p>

@@ -1,5 +1,7 @@
 # 壮阔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangkuo.md)
+
 <p><span class="chinese">厚积薄发，描绘帝豪壮阔蓝图！</span><span class="english">Accumulating all skills, depicting imperial magnificent blueprint!</span></p>
 
 <p><span class="chinese">此刻大海无比壮阔，观者心胸开阔，视野无限。</span><span class="english">At this moment the sea very broad, open-minded guests, unlimited horizons.</span></p>

@@ -1,5 +1,7 @@
 # lahore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lahore.md)
+
 <p><span class="chinese">非常与众不同，开始在拉合尔。</span><span class="english">It's very different, set in Lahore.</span></p>
 
 <p><span class="chinese">这个临时修建的摔跤场地在拉合尔郊外。</span><span class="english">This makeshift ring is on the outskirts of Lahore.</span></p>

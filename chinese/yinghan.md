@@ -1,5 +1,7 @@
 # 硬汉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinghan.md)
+
 <p><span class="chinese">他是一条硬汉。</span><span class="english">He is a sluggard.</span></p>
 
 <p><span class="chinese">硬汉团杀身成仁我牢记。</span><span class="english">Hard Corps is the only way I know.</span></p>

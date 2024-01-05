@@ -1,5 +1,7 @@
 # cellulolytic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cellulolytic.md)
+
 <p><span class="chinese">这些被称为腐菌或分解纤维素的真菌。</span><span class="english">Those are called decay fungi or cellulolytic fungi.</span></p>
 
 <p><span class="chinese">它们释放复杂的可以水解纤维素的酶，能够有效地水解纤维素纤维。</span><span class="english">They release a complex of cellulolytic enzymes which efficiently hydrolyze cellulose ?ber.</span></p>

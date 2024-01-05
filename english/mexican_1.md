@@ -1,5 +1,7 @@
 # Mexican
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mexican_1.md)
+
 <p><span class="chinese">玉米卷是墨西哥菜。</span><span class="english">An enchilada is a Mexican dish.</span></p>
 
 <p><span class="chinese">420头鲸鲨，惊现墨西哥海岸</span><span class="english">Whale Sharks Swarm Mexican Coastline.</span></p>

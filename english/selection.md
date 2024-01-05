@@ -1,5 +1,7 @@
 # selection 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/selection.md)
+
 <p><span class="chinese">生物材料的选择。</span><span class="english">Selection of biomaterials.</span></p>
 
 <p><span class="chinese">第一个答案是亲缘选择。</span><span class="english">One answer is kin selection.</span></p>

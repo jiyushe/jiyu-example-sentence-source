@@ -1,5 +1,7 @@
 # nadine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nadine.md)
+
 <p><span class="chinese">纳丁快速环视了一下，看看是否有她认识的人。</span><span class="english">Nadine to see if there was anyone that she knew.</span></p>
 
 <p><span class="chinese">我是美丽的女王有什么可以效劳的？</span><span class="english">Ahh! nadine the beauty queen. how can I help you?</span></p>

@@ -1,5 +1,7 @@
 # byline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/byline.md)
+
 <p><span class="chinese">那么删除署名。</span><span class="english">Then remove the byline.</span></p>
 
 <p><span class="chinese">我等着看你的大作-西德尼！</span><span class="english">I'll look for your byline . Sidney!</span></p>

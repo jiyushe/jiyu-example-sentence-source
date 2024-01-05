@@ -1,5 +1,7 @@
 # bite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bite.md)
+
 <p><span class="chinese">他咬人吗？</span><span class="english">Does he bite?</span></p>
 
 <p><span class="chinese">他咬下一口。</span><span class="english">He took a bite.</span></p>

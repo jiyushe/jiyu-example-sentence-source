@@ -1,5 +1,7 @@
 # immutable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immutable.md)
+
 <p><span class="chinese">而且，人性是永久不变的么？</span><span class="english">Moreover, human nature is immutable Mody?</span></p>
 
 <p><span class="chinese">该类的实例是不可变的。</span><span class="english">The instances of this class are immutable.</span></p>

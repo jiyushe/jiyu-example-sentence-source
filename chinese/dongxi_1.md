@@ -1,5 +1,7 @@
 # 洞悉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongxi_1.md)
+
 <p><span class="chinese">恶魔们即使在黑暗当中也能洞悉任何事物。</span><span class="english">Demons have to be able to see in the dark.</span></p>
 
 <p><span class="chinese">洞悉不能以肉眼所见之事。</span><span class="english">Perceive that which cannot be seen with the eye.</span></p>

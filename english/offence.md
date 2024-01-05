@@ -1,5 +1,7 @@
 # offence 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/offence.md)
+
 <p><span class="chinese">你要拒绝来是会得罪人的。</span><span class="english">He is swift to take offence.</span></p>
 
 <p><span class="chinese">进攻是最好的防御。</span><span class="english">Offence is the best defence.</span></p>

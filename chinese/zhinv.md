@@ -1,5 +1,7 @@
 # 侄女
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhinv.md)
+
 <p><span class="chinese">我的侄女是个调皮鬼。</span><span class="english">My niece is a little devil.</span></p>
 
 <p><span class="chinese">我的小侄女很可爱。</span><span class="english">My little niece is very cute.</span></p>

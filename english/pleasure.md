@@ -1,5 +1,7 @@
 # pleasure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pleasure.md)
+
 <p><span class="chinese">我是观光旅行。</span><span class="english">I'm on a pleasure trip.</span></p>
 
 <p><span class="chinese">他是个浪荡子。</span><span class="english">He is a man of pleasure.</span></p>

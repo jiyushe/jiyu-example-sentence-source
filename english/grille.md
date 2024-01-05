@@ -1,5 +1,7 @@
 # grille
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grille.md)
+
 <p><span class="chinese">前网罩的作用是保护驱动单元。</span><span class="english">The front grille serves to protect the drive units.</span></p>
 
 <p><span class="chinese">格栅网对裂缝有补强作用。</span><span class="english">In addition, the grille net has crack resisting reinforcing effect.</span></p>

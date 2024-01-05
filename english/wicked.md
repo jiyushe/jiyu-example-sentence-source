@@ -1,5 +1,7 @@
 # wicked
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wicked.md)
+
 <p><span class="chinese">我有着坏的一面。</span><span class="english">I have a wicked side.</span></p>
 
 <p><span class="chinese">这东西很邪门！</span><span class="english">This thing is wicked.</span></p>

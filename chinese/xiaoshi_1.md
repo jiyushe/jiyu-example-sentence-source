@@ -1,5 +1,7 @@
 # 小视
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoshi_1.md)
+
 <p><span class="chinese">在我看来，这件问题不容小视。</span><span class="english">This is not, in my view, a minor matter.</span></p>
 
 <p><span class="chinese">本赛季对球队的影响也不容小视。</span><span class="english">J. has had an impact on the team this season.</span></p>

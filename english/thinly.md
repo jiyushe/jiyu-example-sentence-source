@@ -1,5 +1,7 @@
 # thinly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thinly.md)
+
 <p><span class="chinese">薄薄地涂一层黄油。</span><span class="english">Spread the butter thinly.</span></p>
 
 <p><span class="chinese">把黄瓜切成薄薄的片。</span><span class="english">Slice the cucumber thinly.</span></p>

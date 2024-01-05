@@ -1,5 +1,7 @@
 # yours
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yours.md)
+
 <p><span class="chinese">那些是你的吗？</span><span class="english">Are those yours?</span></p>
 
 <p><span class="chinese">我能用一下你的吗？</span><span class="english">May I use yours?</span></p>

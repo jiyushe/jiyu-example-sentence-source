@@ -1,5 +1,7 @@
 # homemade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homemade.md)
+
 <p><span class="chinese">你有吃过自制的冰淇淋吗？</span><span class="english">HaWe you ever tried homemade ice cream?</span></p>
 
 <p><span class="chinese">我那锅里有自己做的汤。</span><span class="english">I've got some homemade soup in the pan.</span></p>

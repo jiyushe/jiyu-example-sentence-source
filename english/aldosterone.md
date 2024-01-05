@@ -1,5 +1,7 @@
 # aldosterone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aldosterone.md)
+
 <p><span class="chinese">依普利酮是选择性的醛甾酮拮抗药。</span><span class="english">Eplerenone is a selective aldosterone antagonist.</span></p>
 
 <p><span class="chinese">在液体容量不足的患者，醛固酮水平应该降低。</span><span class="english">Aldosterone levels should be low in volume-replete patients.</span></p>

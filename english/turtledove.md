@@ -1,5 +1,7 @@
 # turtledove
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turtledove.md)
+
 <p><span class="chinese">那斑鸠唤来的奔骤的风雨！</span><span class="english">The rain called up by the turtledove.</span></p>
 
 <p><span class="chinese">你可听到那斑鸠的叫唤？</span><span class="english">Do you hear the cooing of the turtledove?</span></p>

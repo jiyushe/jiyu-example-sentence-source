@@ -1,5 +1,7 @@
 # 屏弃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingqi_1.md)
+
 <p><span class="chinese">不要屏弃梦想，没有梦想就没有希望。</span><span class="english">To be without dreams is to be without hope.</span></p>
 
 <p><span class="chinese">永恒主阿，你为甚么屏弃了我？为甚么掩面不顾我？</span><span class="english">Why, O Lord , do you reject me and hide your face from me?</span></p>

@@ -1,5 +1,7 @@
 # discretion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discretion.md)
+
 <p><span class="chinese">敏捷为管理提供了这种谨慎。</span><span class="english">Agile offers management that discretion.</span></p>
 
 <p><span class="chinese">演说的辨别力不止是雄辩。</span><span class="english">Discretion in speech is more than eloquence.</span></p>

@@ -1,5 +1,7 @@
 # snooty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snooty.md)
+
 <p><span class="chinese">它是一只非常傲慢的猫。</span><span class="english">She's a very snooty cat.</span></p>
 
 <p><span class="chinese">他们总是那么的傲慢。</span><span class="english">They were always so snooty.</span></p>

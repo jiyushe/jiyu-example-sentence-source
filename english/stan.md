@@ -1,5 +1,7 @@
 # stan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stan.md)
+
 <p><span class="chinese">欢迎您。</span><span class="english">Stan Stan, Welcome.</span></p>
 
 <p><span class="chinese">斯坦从他的魔术帽里把兔子那出来。</span><span class="english">Stan took a rabbit form his magic hat.</span></p>

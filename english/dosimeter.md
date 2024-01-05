@@ -1,5 +1,7 @@
 # dosimeter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dosimeter.md)
+
 <p><span class="chinese">虽然如此，它仍适合作为临床剂量计使用。</span><span class="english">However, it is still a reliable dosimeter for clinical dosimetry.</span></p>
 
 <p><span class="chinese">半导体单道剂量仪是一种测量仪器。</span><span class="english">The single-channel dosimeter of semiconductor is an instrument of measurement.</span></p>

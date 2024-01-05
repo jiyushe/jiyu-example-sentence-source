@@ -1,5 +1,7 @@
 # 错综复杂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuozongfuza.md)
+
 <p><span class="chinese">健康和休息是错综复杂的。</span><span class="english">Health and rest are intertwined.</span></p>
 
 <p><span class="chinese">柳宗元在柳州时期的情感是错综复杂的。</span><span class="english">Liu Zongyuan's feelings was intriguing in Liuzhou.</span></p>

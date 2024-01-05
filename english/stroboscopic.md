@@ -1,5 +1,7 @@
 # stroboscopic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stroboscopic.md)
+
 <p><span class="chinese">普通灯都是交流驱动，就必然产生频闪。</span><span class="english">Ordinary lights are AC drive. it will inevitably produce a stroboscopic.</span></p>
 
 <p><span class="chinese">声控，自动调速，激光矩阵频闪闪光控制。</span><span class="english">Voice control, automatic control, laser matrix stroboscopic flash control.</span></p>

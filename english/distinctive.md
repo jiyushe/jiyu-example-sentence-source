@@ -1,5 +1,7 @@
 # distinctive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distinctive.md)
+
 <p><span class="chinese">本王绝饶不了你！</span><span class="english">This king distinctive Rao not you!</span></p>
 
 <p><span class="chinese">王禹偁的诗歌，艺术特色鲜明。</span><span class="english">Wang Yucheng's poem is distinctive.</span></p>

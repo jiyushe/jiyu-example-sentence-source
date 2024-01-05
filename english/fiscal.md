@@ -1,5 +1,7 @@
 # fiscal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fiscal.md)
+
 <p><span class="chinese">我在讲一个财政演算。</span><span class="english">I am talking about a fiscal exercise.</span></p>
 
 <p><span class="chinese">同样的，财政政策也可以提供支持。</span><span class="english">Equally, fiscal policy will be a prop.</span></p>

@@ -1,5 +1,7 @@
 # 起运
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiyun_2.md)
+
 <p><span class="chinese">货物已起运。</span><span class="english">The goods are on their way.</span></p>
 
 <p><span class="chinese">最少一立方起运！</span><span class="english">Marine transportation A Yuan per cubic !</span></p>

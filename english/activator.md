@@ -1,5 +1,7 @@
 # activator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/activator.md)
+
 <p><span class="chinese">激活剂会结冰吗？如果结冰，该怎么办？</span><span class="english">Will the Activator Solution freeze? If so, what should I do?</span></p>
 
 <p><span class="chinese">向导将给我们提供用于生成插件激活器的选项。</span><span class="english">The wizard gives us an option to generate a plug-in activator.</span></p>

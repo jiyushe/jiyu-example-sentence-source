@@ -1,5 +1,7 @@
 # 开辟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaipi.md)
+
 <p><span class="chinese">但今天，我们已开辟了一个新方向。</span><span class="english">Today, we’ve set a new direction.</span></p>
 
 <p><span class="chinese">我们开辟出上山的路。</span><span class="english">We hewed out path up the mountain.</span></p>

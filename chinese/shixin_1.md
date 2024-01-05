@@ -1,5 +1,7 @@
 # 实心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shixin_1.md)
+
 <p><span class="chinese">垒球是实心的。</span><span class="english">The softball is solid.</span></p>
 
 <p><span class="chinese">你只要实心要，我给你开个实价。</span><span class="english">I can tell you love dogs.</span></p>

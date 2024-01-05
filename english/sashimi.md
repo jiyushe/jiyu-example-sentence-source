@@ -1,5 +1,7 @@
 # sashimi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sashimi.md)
+
 <p><span class="chinese">再说了，寿司会很好吃的。</span><span class="english">Moreover, the sashimi will be great.</span></p>
 
 <p><span class="chinese">有看到那些色彩鲜艳的刺身吗？</span><span class="english">Have you notice the Sashimi in wonderful colors?</span></p>

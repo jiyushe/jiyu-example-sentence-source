@@ -1,5 +1,7 @@
 # 制宜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiyi.md)
+
 <p><span class="chinese">你可以身着戏服，或者休闲装，随天气制宜。</span><span class="english">You can come in costume, or dress casually, according to the weather.</span></p>
 
 <p><span class="chinese">技术路线要体现结果可靠、因事制宜、以简代繁的原则。</span><span class="english">The principles of technical design should be reliable, flexible and simple.</span></p>

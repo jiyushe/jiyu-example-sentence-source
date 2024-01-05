@@ -1,5 +1,7 @@
 # 流浪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liulang.md)
+
 <p><span class="chinese">他最后沦落到了流浪人的贫民区。</span><span class="english">He ended up on skid row.</span></p>
 
 <p><span class="chinese">他的后半生一直过着流浪的生活。</span><span class="english">He hoboed his last years.</span></p>

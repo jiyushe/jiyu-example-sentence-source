@@ -1,5 +1,7 @@
 # intraventricular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intraventricular.md)
+
 <p><span class="chinese">目的研究高血压性脑室出血的新疗法。</span><span class="english">Objective To study the new treatment for hypertensive intraventricular hemorrhage.</span></p>
 
 <p><span class="chinese">脑室内原发性中枢神经系统淋巴瘤非常罕见，仅可见少量文献报道。</span><span class="english">Intraventricular primary CNS lymphoma is very rare, with few cases reported in the literature.</span></p>

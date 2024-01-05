@@ -1,5 +1,7 @@
 # 心悦诚服
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinyuechengfu.md)
+
 <p><span class="chinese">我也来顶一下啦！真的是心悦诚服！</span><span class="english">I say not flatteringly but with sincere conviction.</span></p>
 
 <p><span class="chinese">看了他的画，我们会觉得心悦诚服。</span><span class="english">Seeing his painting, we will be sincerely convinced.</span></p>

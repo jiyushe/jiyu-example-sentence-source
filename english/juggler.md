@@ -1,5 +1,7 @@
 # juggler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/juggler.md)
+
 <p><span class="chinese">变戏法的人讨厌推搡。</span><span class="english">Or a juggler hates a shove.</span></p>
 
 <p><span class="chinese">为什么不问问你那个变戏法的呢？</span><span class="english">Why don't you ask the juggler?</span></p>

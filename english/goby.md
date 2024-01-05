@@ -1,5 +1,7 @@
 # goby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goby.md)
+
 <p><span class="chinese">我乘出租车去。</span><span class="english">I goby taxi.</span></p>
 
 <p><span class="chinese">Goby——旅游搜索引擎，有一个可爱的小鱼标识。</span><span class="english">Goby – travel search engine with a cute fish logo.</span></p>

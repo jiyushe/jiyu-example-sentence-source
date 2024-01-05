@@ -1,5 +1,7 @@
 # serf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/serf.md)
+
 <p><span class="chinese">这个农奴被蹂躏致死。</span><span class="english">The serf was trod to death.</span></p>
 
 <p><span class="chinese">那个奴隶喘着气跟在主人的马后。</span><span class="english">The serf pant along behind his master's horse.</span></p>

@@ -1,5 +1,7 @@
 # 无能为力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wunengweili.md)
+
 <p><span class="chinese">警察也无能为力。</span><span class="english">The police could do nothing.</span></p>
 
 <p><span class="chinese">它对复制自己无能为力。</span><span class="english">It's incapable of repeating itself.</span></p>

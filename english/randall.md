@@ -1,5 +1,7 @@
 # randall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/randall.md)
+
 <p><span class="chinese">兰德尔?史蒂芬森没有时间疑虑。</span><span class="english">RANDALL STEPHENSON has no time for doubts.</span></p>
 
 <p><span class="chinese">蓝道和兄弟姊妹的感情一直都很好。</span><span class="english">Randall has always had a good relationship with his siblings.</span></p>

@@ -1,5 +1,7 @@
 # 乡村
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangcun.md)
+
 <p><span class="chinese">那你对我们的乡村有什么想法？</span><span class="english">What do you think of ours?</span></p>
 
 <p><span class="chinese">乡村路带我回家。</span><span class="english">Country road, take me home.</span></p>

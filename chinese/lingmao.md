@@ -1,5 +1,7 @@
 # 翎毛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingmao.md)
+
 <p><span class="chinese">它的翎毛只是太亮。</span><span class="english">their feathers are just too bright.</span></p>
 
 <p><span class="chinese">衣是翎毛钱是胆。</span><span class="english">Clothing is feathers money is bravery.</span></p>

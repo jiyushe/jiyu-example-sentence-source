@@ -1,5 +1,7 @@
 # periodization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/periodization.md)
+
 <p><span class="chinese">三段分期法。</span><span class="english">The three paragraphs periodization.</span></p>
 
 <p><span class="chinese">历史分期是历史编纂的核心问题之一。</span><span class="english">Periodization is one of the central issues in historiography.</span></p>

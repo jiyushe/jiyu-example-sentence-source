@@ -1,5 +1,7 @@
 # habituation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/habituation.md)
+
 <p><span class="chinese">第一个原则是习惯化。</span><span class="english">The first is habituation.</span></p>
 
 <p><span class="chinese">习惯化是厌倦这个词的一种华丽表达</span><span class="english">Habituation is a fancy word for boredom.</span></p>

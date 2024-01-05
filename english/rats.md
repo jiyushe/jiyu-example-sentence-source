@@ -1,5 +1,7 @@
 # rats
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rats.md)
+
 <p><span class="chinese">猫和老鼠一样坏吗？</span><span class="english">Cats as bad as rats?</span></p>
 
 <p><span class="chinese">老鼠喜欢被挠痒痒。</span><span class="english">Rats like to be tickled.</span></p>

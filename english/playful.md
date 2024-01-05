@@ -1,5 +1,7 @@
 # playful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/playful.md)
+
 <p><span class="chinese">约翰很贪玩。</span><span class="english">John is very playful.</span></p>
 
 <p><span class="chinese">特别是那两张脸，很俏皮！</span><span class="english">Especially the faces, so playful.</span></p>

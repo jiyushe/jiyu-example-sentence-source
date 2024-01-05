@@ -1,5 +1,7 @@
 # jazzy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jazzy.md)
+
 <p><span class="chinese">嗨，我喜欢那条鲜艳的领带。</span><span class="english">Hey, I like that jazzy tie.</span></p>
 
 <p><span class="chinese">但有一点东西优雅爵士乐和时髦。</span><span class="english">Something a bit classy yet jazzy and funky.</span></p>

@@ -1,5 +1,7 @@
 # hydrometallurgical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrometallurgical.md)
+
 <p><span class="chinese">介绍了辉钼矿湿法冶金工艺研究进展。</span><span class="english">The development of hydrometallurgical processes of molybdenite are given.</span></p>
 
 <p><span class="chinese">提出了一个湿法从氰化金泥中提取金、银、铜、铅的新工艺。</span><span class="english">The hydrometallurgical process extracting gold, silver, copper and lead is presented.</span></p>

@@ -1,5 +1,7 @@
 # appointee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appointee.md)
+
 <p><span class="chinese">这一年，是新人辈出的一年。</span><span class="english">This year, is a year that New appointee generation out.</span></p>
 
 <p><span class="chinese">受聘人将须因应运作需要而不定时工作。</span><span class="english">The appointee will be required to work irregular hours subject to operational needs.</span></p>

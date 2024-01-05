@@ -1,5 +1,7 @@
 # 天主堂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianzhutang.md)
+
 <p><span class="chinese">这儿有天主堂和清真寺。</span><span class="english">There are churches and mosques here.</span></p>
 
 <p><span class="chinese">一天，在天主堂里，他这样布道</span><span class="english">One day he preached the following sermon in the cathedral</span></p>

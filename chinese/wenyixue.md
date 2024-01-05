@@ -1,5 +1,7 @@
 # 文艺学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenyixue.md)
+
 <p><span class="chinese">文艺学研究正处于一个转型或新变的时期。</span><span class="english">Now, the literary research is at the changing point.</span></p>
 
 <p><span class="chinese">钟敬文先生是我国著名的民俗学家、民间文艺学家。</span><span class="english">Zhong Jingwen is a famous folklorist and folk artist in China.</span></p>

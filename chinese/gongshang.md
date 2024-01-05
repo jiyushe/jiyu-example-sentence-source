@@ -1,5 +1,7 @@
 # 工伤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongshang.md)
+
 <p><span class="chinese">扩大了工伤保险适用范围。</span><span class="english">Insurance coverage expanded.</span></p>
 
 <p><span class="chinese">你不能工作是因为工伤或疾病吗？</span><span class="english">Are you unable to work because of an injury or illness?</span></p>

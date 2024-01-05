@@ -1,5 +1,7 @@
 # coed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coed.md)
+
 <p><span class="chinese">你们学校是男女合校吗?。</span><span class="english">Is your school coed?</span></p>
 
 <p><span class="chinese">他们想要一所男女同校的大学！</span><span class="english">They want a coed university!</span></p>

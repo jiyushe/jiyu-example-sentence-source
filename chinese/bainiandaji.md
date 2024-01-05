@@ -1,5 +1,7 @@
 # 百年大计
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bainiandaji.md)
+
 <p><span class="chinese">百年大计，教育为本。</span><span class="english">The great project, educates for this.</span></p>
 
 <p><span class="chinese">百年大计，教育为本。</span><span class="english">A hundred years account greatly, educating for the origin.</span></p>

@@ -1,5 +1,7 @@
 # 欲擒故纵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuqinguzong.md)
+
 <p><span class="chinese">我不想玩欲擒故纵的游戏。</span><span class="english">I am not playing hard to get.</span></p>
 
 <p><span class="chinese">你看欲擒故纵我想约见史密斯师长。</span><span class="english">I'd like to make a meeting with Mr.</span></p>

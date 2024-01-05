@@ -1,5 +1,7 @@
 # 一律
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yilv.md)
+
 <p><span class="chinese">所有动物一律平等。</span><span class="english">All animals are equal.</span></p>
 
 <p><span class="chinese">小标题一律居中。</span><span class="english">Please centre the subheads.</span></p>

@@ -1,5 +1,7 @@
 # spotted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spotted.md)
+
 <p><span class="chinese">它瞅准一只蜥蜴。</span><span class="english">It has spotted a lizard.</span></p>
 
 <p><span class="chinese">泥污弄脏了地毯。</span><span class="english">The mud spotted the rug.</span></p>

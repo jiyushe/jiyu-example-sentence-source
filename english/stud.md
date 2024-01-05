@@ -1,5 +1,7 @@
 # stud
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stud.md)
+
 <p><span class="chinese">底脚螺栓松动。</span><span class="english">Foot stud loose.</span></p>
 
 <p><span class="chinese">星星散布在天空上。</span><span class="english">Stars stud the sky.</span></p>

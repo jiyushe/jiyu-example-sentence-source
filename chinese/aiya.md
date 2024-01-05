@@ -1,5 +1,7 @@
 # 哎呀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aiya.md)
+
 <p><span class="chinese">他说，哎呀“</span><span class="english">He says, "Oops!"</span></p>
 
 <p><span class="chinese">哎呀，你看看我。</span><span class="english">Oops. Look at me.</span></p>

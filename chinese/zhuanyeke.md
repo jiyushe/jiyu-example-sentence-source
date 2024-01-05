@@ -1,5 +1,7 @@
 # 专业课
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanyeke.md)
+
 <p><span class="chinese">在你上学的大学里，你花了多长时间修完了你的专业课？</span><span class="english">How many times do you go to your university to study your subjects?</span></p>
 
 <p><span class="chinese">对工科学生而百，专业课的重要性是不言而喻的。</span><span class="english">It is important for engineering students to master specialty courses knowledge.</span></p>

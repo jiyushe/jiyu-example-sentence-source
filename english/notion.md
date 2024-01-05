@@ -1,5 +1,7 @@
 # notion 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/notion.md)
+
 <p><span class="chinese">这个说法使我为之忘形。</span><span class="english">The notion overwhelmed me.</span></p>
 
 <p><span class="chinese">这已经变成了一种概念。</span><span class="english">It has become just a notion.</span></p>

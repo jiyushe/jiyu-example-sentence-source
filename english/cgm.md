@@ -1,5 +1,7 @@
 # cgm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cgm.md)
+
 <p><span class="chinese">但是，在儿童和青少年中，持续频繁应用CGM技术较成年人中少见。</span><span class="english">However, sustained frequent use of CGM is less likely in children and adolescents than in adults.</span></p>
 
 <p><span class="chinese">本文主要介绍了CGM高强无收缩灌浆料用于北京理工大学体育馆工程的施工技术特点、技术要求和施工工艺。</span><span class="english">This thesis mainly introduces CGM high-strength non-shrinkage grouting material construction technical features and requirements in P.</span></p>

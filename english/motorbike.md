@@ -1,5 +1,7 @@
 # motorbike
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/motorbike.md)
+
 <p><span class="chinese">那辆摩托车倒在沟中。</span><span class="english">The motorbike lay on its side in the gutter.</span></p>
 
 <p><span class="chinese">摩托车当然会发出令人感到烦恼的噪音。</span><span class="english">The motorbike is supposed to make annoying noise.</span></p>

@@ -1,5 +1,7 @@
 # illogical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illogical.md)
+
 <p><span class="chinese">这是完全不合逻辑的和错误的。</span><span class="english">This is totally illogical and false.</span></p>
 
 <p><span class="chinese">对他们而言，撒谎残忍而不合逻辑。</span><span class="english">To them, lying is cruel and illogical.</span></p>

@@ -1,5 +1,7 @@
 # 积存
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jicun.md)
+
 <p><span class="chinese">他把容器里积存的油全部倒出来了。</span><span class="english">He drained all the old oil out of the container.</span></p>
 
 <p><span class="chinese">我们积存一大笔钱留到明年用。</span><span class="english">We carried over a large sum of money for next year.</span></p>

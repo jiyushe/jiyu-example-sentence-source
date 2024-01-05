@@ -1,5 +1,7 @@
 # 内勤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neiqin.md)
+
 <p><span class="chinese">我的第一份工作是在个皮草公司做内勤。</span><span class="english">My first job I was in-house at a fur company.</span></p>
 
 <p><span class="chinese">公司也看出外贸业务的确难开展，便让我做内勤工作。</span><span class="english">Leader also understood it is hard to open the abroad market and let me do inside job.</span></p>

@@ -1,5 +1,7 @@
 # 改组
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaizu.md)
+
 <p><span class="chinese">内阁正在改组。</span><span class="english">The cabinet is restructuring.</span></p>
 
 <p><span class="chinese">他们正在改组内阁。</span><span class="english">They are recomposing the cabinet.</span></p>

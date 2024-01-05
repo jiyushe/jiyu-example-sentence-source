@@ -1,5 +1,7 @@
 # 炉灰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luhui.md)
+
 <p><span class="chinese">同样的，这些炉灰都是关于自由。</span><span class="english">Similarly, the ashes are all about freedom.</span></p>
 
 <p><span class="chinese">我厌恶自己，在尘土和炉灰中懊悔。</span><span class="english">I abhor myself and repent in dust and ashes.</span></p>

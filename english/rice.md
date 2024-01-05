@@ -1,5 +1,7 @@
 # rice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rice.md)
+
 <p><span class="chinese">他种稻。</span><span class="english">He grows rice.</span></p>
 
 <p><span class="chinese">加了一些饭。</span><span class="english">I add some rice.</span></p>

@@ -1,5 +1,7 @@
 # 组织法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuzhifa.md)
+
 <p><span class="chinese">新国防部暨国军组织法已通过议会表决。</span><span class="english">The new Organic Act of eROC Military Law has been approved by eROC Congress.</span></p>
 
 <p><span class="chinese">它标志着世卫组织第一次运用其组织法权力，颁布一项国际卫生条约。</span><span class="english">It marked the first use of WHO’s constitutional authority to issue an international health treaty.</span></p>

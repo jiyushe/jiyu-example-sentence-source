@@ -1,5 +1,7 @@
 # surge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surge.md)
+
 <p><span class="chinese">那么，是什么助长了升势？</span><span class="english">So what is fueling the surge?</span></p>
 
 <p><span class="chinese">心沉落，泪涌似涛。</span><span class="english">My heart down, tears surge out.</span></p>

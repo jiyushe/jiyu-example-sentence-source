@@ -1,5 +1,7 @@
 # vouch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vouch.md)
+
 <p><span class="chinese">我的朋友们可以为我作保。</span><span class="english">My friends will vouch for me.</span></p>
 
 <p><span class="chinese">由专家确认该画是否为真迹。</span><span class="english">Experts vouch for the painting's authenticity.</span></p>

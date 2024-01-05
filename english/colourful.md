@@ -1,5 +1,7 @@
 # colourful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colourful.md)
+
 <p><span class="chinese">它非常的五彩缤纷。</span><span class="english">It’s very colourful.</span></p>
 
 <p><span class="chinese">一张五颜六色的席子做！</span><span class="english">A colourful mat is done!</span></p>

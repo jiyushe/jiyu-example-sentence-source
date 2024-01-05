@@ -1,5 +1,7 @@
 # rory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rory.md)
+
 <p><span class="chinese">罗里·凯兰-琼斯报道。</span><span class="english">Rory Cellan-Jones reports.</span></p>
 
 <p><span class="chinese">罗里弗里德曼，“瘦母狗”的共同作者。</span><span class="english">Rory Freedman, co-author of Skinny Bitch</span></p>

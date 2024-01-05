@@ -1,5 +1,7 @@
 # 结识
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieshi_2.md)
+
 <p><span class="chinese">他身材瘦长而结识，动作敏捷，身体强壮。</span><span class="english">He was wiry, quick, strong.</span></p>
 
 <p><span class="chinese">你是怎么结识新朋友的？</span><span class="english">How can you meet new friends?</span></p>

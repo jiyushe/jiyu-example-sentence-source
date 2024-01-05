@@ -1,5 +1,7 @@
 # pester
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pester.md)
+
 <p><span class="chinese">所以，我们总是死乞白赖地讨猪油。</span><span class="english">Therefore, we always pester for lard.</span></p>
 
 <p><span class="chinese">他告诉她不要为了琐事和他纠缠。</span><span class="english">He told her not to pester him with trifles.</span></p>

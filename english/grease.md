@@ -1,5 +1,7 @@
 # grease
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grease.md)
+
 <p><span class="chinese">煎锅放油。</span><span class="english">Grease the pan.</span></p>
 
 <p><span class="chinese">油污堵塞了下水道。</span><span class="english">Grease fouled the drain.</span></p>

@@ -1,5 +1,7 @@
 # 男装
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanzhuang.md)
+
 <p><span class="chinese">她穿上男服女扮男装。</span><span class="english">She disguised herself in man's clothes.</span></p>
 
 <p><span class="chinese">中国著名西装品牌，柒牌男装。</span><span class="english">The famous brand of men's suit in China.</span></p>

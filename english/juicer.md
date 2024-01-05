@@ -1,5 +1,7 @@
 # juicer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/juicer.md)
+
 <p><span class="chinese">这台榨汁机你卖多少钱？</span><span class="english">How much do you sell this juicer for?</span></p>
 
 <p><span class="chinese">好啊。我上次听她说想买个榨汁机呢。</span><span class="english">OK. Last time I heard that she wanted to buy a juicer.</span></p>

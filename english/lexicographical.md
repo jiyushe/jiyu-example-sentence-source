@@ -1,5 +1,7 @@
 # lexicographical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lexicographical.md)
+
 <p><span class="chinese">一个对你有位辞书琐事。</span><span class="english">A bit of lexicographical trivia for you there.</span></p>
 
 <p><span class="chinese">其他三个标准为适用性、明性和规范性。</span><span class="english">Being usable, concise and standard is the other three criteria for good lexicographical translation.</span></p>

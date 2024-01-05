@@ -1,5 +1,7 @@
 # brave 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brave.md)
+
 <p><span class="chinese">这个愚勇的傻瓜。</span><span class="english">The brave fool.</span></p>
 
 <p><span class="chinese">我是个勇敢的寻宝人。</span><span class="english">I'm a brave worker.</span></p>

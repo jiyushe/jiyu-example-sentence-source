@@ -1,5 +1,7 @@
 # formatting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/formatting.md)
+
 <p><span class="chinese">数字格式相当琐碎。</span><span class="english">Number formatting is rather trivial.</span></p>
 
 <p><span class="chinese">添加预先创建的样式和格式</span><span class="english">Adding pre-created styles and formatting</span></p>

@@ -1,5 +1,7 @@
 # massiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/massiness.md)
+
 <p><span class="chinese">底妆更亚光，但不厚重。</span><span class="english">Bottom makeup more inferior smooth, but not massiness.</span></p>
 
 <p><span class="chinese">可手指就不同了。它不会随时随地都那么绵软、厚重。</span><span class="english">But finger is different. It won't at any time and place so soft, massiness.</span></p>

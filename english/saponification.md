@@ -1,5 +1,7 @@
 # saponification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saponification.md)
+
 <p><span class="chinese">肥皂是在皂化这个化学反应过程中生成的。</span><span class="english">Soap is made from a chemical reaction called saponification.</span></p>
 
 <p><span class="chinese">葵花油皂化制备脂肪酸。</span><span class="english">Fatty acids were prepared through the saponification of sunflower oil.</span></p>

@@ -1,5 +1,7 @@
 # superhero
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superhero.md)
+
 <p><span class="chinese">汉考克是个没人爱的超人。</span><span class="english">Hancock is the superhero nobody likes.</span></p>
 
 <p><span class="chinese">但是，如果你的超人梦与我的南辕北辙，请看“梦到降落”。</span><span class="english">But what if your superhero dreams go south?</span></p>

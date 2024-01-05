@@ -1,5 +1,7 @@
 # headwater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/headwater.md)
+
 <p><span class="chinese">青藏高原东部是亚洲一些大河的发源地。</span><span class="english">The eastern Qinghai Plateau is the headwater area for many large Asiatic rivers.</span></p>
 
 <p><span class="chinese">香溪河流域河流中树叶分解速率的比较研究。</span><span class="english">Comparison of leaf decomposing rate in a headwater stream in Xiangxi River catchment.</span></p>

@@ -1,5 +1,7 @@
 # uninjured
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uninjured.md)
+
 <p><span class="chinese">顾客，坐在酒吧与女服务员，是未受伤害的。</span><span class="english">The customer, sitting at the bar with the waitress, was uninjured.</span></p>
 
 <p><span class="chinese">下肢力线的恢复以健侧为参照标准。</span><span class="english">The restoration standard was in accordance with the uninjured side limb.</span></p>

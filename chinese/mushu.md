@@ -1,5 +1,7 @@
 # 木薯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mushu.md)
+
 <p><span class="chinese">这会儿我们正在吃木薯和玉米粉。</span><span class="english">We're eating cassava and ugali.</span></p>
 
 <p><span class="chinese">木薯片干燥以后，就会变轻。</span><span class="english">As the chips dry, they become lighter.</span></p>

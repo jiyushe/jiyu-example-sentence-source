@@ -1,5 +1,7 @@
 # tortilla
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tortilla.md)
+
 <p><span class="chinese">吃用蓝色玉米制作的薄烙饼。</span><span class="english">Eat blue corn tortilla chips.</span></p>
 
 <p><span class="chinese">玉米薄饼烘烤的恰到好处。</span><span class="english">The tortilla chips were right out of the oven.</span></p>

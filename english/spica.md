@@ -1,5 +1,7 @@
 # spica
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spica.md)
+
 <p><span class="chinese">还有另外一个方法来找角宿。</span><span class="english">There's another way to find Spica.</span></p>
 
 <p><span class="chinese">熏衣草的花语是等待爱情的奇迹。</span><span class="english">The lavandula spica colored language is waits for love the miracle.</span></p>

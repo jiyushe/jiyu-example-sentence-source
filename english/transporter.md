@@ -1,5 +1,7 @@
 # transporter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transporter.md)
+
 <p><span class="chinese">精氨酸载体使这一夙愿成为可能。</span><span class="english">The arginine transporter makes this possible.</span></p>
 
 <p><span class="chinese">转向系统是大型平板车行驶的核心部件。</span><span class="english">Steering system is the core component of shipyard transporter.</span></p>

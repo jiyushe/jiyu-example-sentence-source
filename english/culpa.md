@@ -1,5 +1,7 @@
 # culpa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/culpa.md)
+
 <p><span class="chinese">人类以比栖居的这个星球更快的速度变得冷漠。</span><span class="english">Nostra culpa. Man grows cold faster than the planet he inhabits.</span></p>
 
 <p><span class="chinese">理查德斯在大卫·莱特曼的电视秀和雷伍·杰西·杰克逊的电台节目中认错道歉。</span><span class="english">Richards issued his mea culpa on David Letterman's TV show as well as on the Rev.</span></p>

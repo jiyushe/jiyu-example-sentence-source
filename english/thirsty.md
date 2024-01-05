@@ -1,5 +1,7 @@
 # thirsty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thirsty.md)
+
 <p><span class="chinese">我很渴。</span><span class="english">I'm quite thirsty.</span></p>
 
 <p><span class="chinese">我很渴。</span><span class="english">I am quite thirsty.</span></p>

@@ -1,5 +1,7 @@
 # acetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acetic.md)
+
 <p><span class="chinese">乙酸甲基戊酯。</span><span class="english">Acetic acid methyl amyl ester.</span></p>
 
 <p><span class="chinese">也可以加醋，乙酸去除水垢。</span><span class="english">Or add some vinegar, acetic acid to remove scale.</span></p>

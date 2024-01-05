@@ -1,5 +1,7 @@
 # shag
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shag.md)
+
 <p><span class="chinese">就是说，等我上你那天，我已经老了？</span><span class="english">So the day l shag you, l'm old?</span></p>
 
 <p><span class="chinese">粗毛地毯已经不流行了。</span><span class="english">The shag carpet is out of style.</span></p>

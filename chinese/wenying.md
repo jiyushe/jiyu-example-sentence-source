@@ -1,5 +1,7 @@
 # 蚊蝇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenying.md)
+
 <p><span class="chinese">采取有效的灭蚊蝇、蟑螂等虫害措施。</span><span class="english">I . Measures of pest control taken.</span></p>
 
 <p><span class="chinese">蜻蜓捕食蚊蝇。</span><span class="english">The dragonfly feeds on mosquitoes and flies.</span></p>

@@ -1,5 +1,7 @@
 # 完人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanren.md)
+
 <p><span class="chinese">接受彼此的不同，因为人无完人。</span><span class="english">Accept differences--No one is perfect.</span></p>
 
 <p><span class="chinese">你知道，金无足赤，人无完人的道理吧。</span><span class="english">Never a rose without a prick, you know.</span></p>

@@ -1,5 +1,7 @@
 # cordon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cordon.md)
+
 <p><span class="chinese">金黄色的酒液，还有精致的小气泡。</span><span class="english">Golden, with a very fine cordon of bubbles.</span></p>
 
 <p><span class="chinese">在警方封锁线外聚集了不少围观群众。</span><span class="english">In the police cordon the crowd gathered outside a lot.</span></p>

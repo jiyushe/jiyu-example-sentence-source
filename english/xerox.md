@@ -1,5 +1,7 @@
 # xerox
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xerox.md)
+
 <p><span class="chinese">那就用那台复印机。</span><span class="english">Then use the xerox machine.</span></p>
 
 <p><span class="chinese">施乐有很长的创新历史。</span><span class="english">Xerox has a long history of innovation.</span></p>

@@ -1,5 +1,7 @@
 # canterbury
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/canterbury.md)
+
 <p><span class="chinese">坎特伯雷大主教柏克特T。</span><span class="english">Thomas ket, Archbishop of Canterbury.</span></p>
 
 <p><span class="chinese">坎特伯雷大主教柏克特T。</span><span class="english">Thomas Becket, Archbishop of Canterbury.</span></p>

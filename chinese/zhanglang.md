@@ -1,5 +1,7 @@
 # 蟑螂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanglang.md)
+
 <p><span class="chinese">你家有蟑螂吗？</span><span class="english">Got Roaches?</span></p>
 
 <p><span class="chinese">我有蟑螂的问题。</span><span class="english">I have problem with roaches.</span></p>

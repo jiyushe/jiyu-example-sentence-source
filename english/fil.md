@@ -1,5 +1,7 @@
 # fil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fil.md)
+
 <p><span class="chinese">你认为昨天晚上我们看的电影怎么样？</span><span class="english">What do you think of the fil we saw last night?</span></p>
 
 <p><span class="chinese">假如你要忙着将水壶灌满，来吧，到我的湖上吧。</span><span class="english">If you would be busy and fil your pitcher, come, O come to my lake.</span></p>

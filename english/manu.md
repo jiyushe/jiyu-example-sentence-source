@@ -1,5 +1,7 @@
 # manu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manu.md)
+
 <p><span class="chinese">“绝对无误，”他回答说，而Manu也点了点头。</span><span class="english">“Absolutely,” he replied, as Manu nodded.</span></p>
 
 <p><span class="chinese">然后让我很愉快的是，Jim和Manu也被带来了。</span><span class="english">Then, to my delight, Jim and Manu were brought in.</span></p>

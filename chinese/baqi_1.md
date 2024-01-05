@@ -1,5 +1,7 @@
 # 霸气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baqi_1.md)
+
 <p><span class="chinese">还有一些被霸气十足的神龙盘绕着。</span><span class="english">Others are coiled by daunting dragons.</span></p>
 
 <p><span class="chinese">参议员杰夫·弗莱克假期度得非常霸气。</span><span class="english">Senator Jeff Flake vacations like a boss.</span></p>

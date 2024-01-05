@@ -1,5 +1,7 @@
 # glycerine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glycerine.md)
+
 <p><span class="chinese">甘油是首选的润滑剂。</span><span class="english">Glycerine is the preferred emollient.</span></p>
 
 <p><span class="chinese">磺甘油能去除牙结石吗?。</span><span class="english">Sulphur glycerine can is purify tooth calculous ?</span></p>

@@ -1,5 +1,7 @@
 # 昙花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanhua.md)
+
 <p><span class="chinese">那只是一朵昙花呢？</span><span class="english">That is just a night-blooming flower?</span></p>
 
 <p><span class="chinese">约而能攀，昙花阐明。</span><span class="english">And about to climb, Tan Hua explained.</span></p>

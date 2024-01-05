@@ -1,5 +1,7 @@
 # ghost
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ghost.md)
+
 <p><span class="chinese">斯巴达战鬼…?。</span><span class="english">Ghost of Sparta?</span></p>
 
 <p><span class="chinese">那鬼竟然是个色鬼！</span><span class="english">He was a ghost pervert!</span></p>

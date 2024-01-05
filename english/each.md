@@ -1,5 +1,7 @@
 # each 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/each.md)
+
 <p><span class="chinese">你们相亲相爱吧。</span><span class="english">Love each other.</span></p>
 
 <p><span class="chinese">向对方唱情歌。</span><span class="english">Sing to each other.</span></p>

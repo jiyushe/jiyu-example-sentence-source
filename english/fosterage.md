@@ -1,5 +1,7 @@
 # fosterage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fosterage.md)
+
 <p><span class="chinese">原来，她们是孤儿，被分别寄养。</span><span class="english">Original, they are orphan, fosterage be partinged.</span></p>
 
 <p><span class="chinese">那男孩被认养到美国发生在早先的时期。</span><span class="english">The boy's fosterage to America came at an early age.</span></p>

@@ -1,5 +1,7 @@
 # ecotone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ecotone.md)
+
 <p><span class="chinese">在生态交错带边缘管理外来物种入侵。</span><span class="english">Manage invasive species at ecotone edges.</span></p>
 
 <p><span class="chinese">但太多的变化也会把你害死。</span><span class="english">But too much change will kill you too. You go from an ecocline to ecotone.</span></p>

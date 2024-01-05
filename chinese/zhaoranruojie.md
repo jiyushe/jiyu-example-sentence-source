@@ -1,5 +1,7 @@
 # 昭然若揭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoranruojie.md)
+
 <p><span class="chinese">如果知道是谁建立的殖民地,原因就昭然若揭了</span><span class="english">Well, if you see who does then you may have a clue.</span></p>
 
 <p><span class="chinese">背叛则是将它劈开并使它昭然若揭的闪电。</span><span class="english">Betrayal is the lightning that cleaves and reveals it.</span></p>

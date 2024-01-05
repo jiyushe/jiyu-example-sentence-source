@@ -1,5 +1,7 @@
 # 麦芽糖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maiyatang.md)
+
 <p><span class="chinese">文火熬出麦芽糖。</span><span class="english">A soft fire make sweet malt.</span></p>
 
 <p><span class="chinese">到底哪种才是麦芽糖的味道。</span><span class="english">In the end what is the taste of maltose.</span></p>

@@ -1,5 +1,7 @@
 # breaker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/breaker.md)
+
 <p><span class="chinese">哦，织梦人，那碎心人。</span><span class="english">Oh, dream maker, you heart breaker.</span></p>
 
 <p><span class="chinese">电机不转检查断路器及电机接线。</span><span class="english">Check motor wiring and circuit breaker.</span></p>

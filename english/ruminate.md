@@ -1,5 +1,7 @@
 # ruminate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ruminate.md)
+
 <p><span class="chinese">当然你不要自个把事情翻来覆去地想个不停。</span><span class="english">And certainly don't ruminate on your own.</span></p>
 
 <p><span class="chinese">莫要沉湎于过去所受的侮辱或者不公平。</span><span class="english">Dont ruminate on past affronts or injustices.</span></p>

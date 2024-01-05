@@ -1,5 +1,7 @@
 # 天女
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiannv.md)
+
 <p><span class="chinese">天女，是神的使者。</span><span class="english">Girl, is the messenger of god.</span></p>
 
 <p><span class="chinese">昆仑山的天女来到了人间。</span><span class="english">Kunlun Mountains angel came to earth.</span></p>

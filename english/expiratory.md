@@ -1,5 +1,7 @@
 # expiratory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expiratory.md)
+
 <p><span class="chinese">阶段II是呼气上升支。</span><span class="english">Phase II is the expiratory upstroke.</span></p>
 
 <p><span class="chinese">成年人在呼气是，有关生理变化是?。</span><span class="english">Adult is in expiratory be, is concerned physiology change?</span></p>

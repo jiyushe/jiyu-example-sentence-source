@@ -1,5 +1,7 @@
 # 牙粉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yafen.md)
+
 <p><span class="chinese">那人是一个兜卖整套牙齿、牙膏、牙粉和药酒的走江湖的牙科医生。</span><span class="english">A substance, such as a paste or powder, for cleaning the teeth.</span></p>
 
 <p><span class="chinese">为了产生较佳的泡沫效果，18世纪末牙粉中又添加了硼砂粉。</span><span class="english">Borax powder was added at the end of the 18th Century to produce a favourable foaming effect.</span></p>

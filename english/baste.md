@@ -1,5 +1,7 @@
 # baste
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baste.md)
+
 <p><span class="chinese">我将边浇油边烤这块肉。</span><span class="english">I'll baste the meat.</span></p>
 
 <p><span class="chinese">然后绷你，你不会得到强硬。</span><span class="english">Then baste you so you won't get tough.</span></p>

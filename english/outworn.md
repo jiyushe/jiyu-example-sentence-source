@@ -1,5 +1,7 @@
 # outworn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outworn.md)
+
 <p><span class="chinese">这样，他的朱颜是古代的图志。</span><span class="english">Thus is his cheek the map of days outworn.</span></p>
 
 <p><span class="chinese">但是你不必继续用这些人的陈旧愿景模型了。</span><span class="english">But you need not follow their outworn models.</span></p>

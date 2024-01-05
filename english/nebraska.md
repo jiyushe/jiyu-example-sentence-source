@@ -1,5 +1,7 @@
 # nebraska
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nebraska.md)
+
 <p><span class="chinese">这是我第一次访问内布拉斯加州。</span><span class="english">This is my first time in Nebraska.</span></p>
 
 <p><span class="chinese">植树日是起源于内华达洲。</span><span class="english">The idea for Arbor Day originated in Nebraska.</span></p>

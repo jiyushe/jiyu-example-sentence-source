@@ -1,5 +1,7 @@
 # 怜惜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianxi_2.md)
+
 <p><span class="chinese">不要怜惜恶人!</span><span class="english">Don't take pity on evil people!</span></p>
 
 <p><span class="chinese">你是否常常自我怜惜，若是如此，为什么?。</span><span class="english">Do you often feel self-pity, and if so why?</span></p>

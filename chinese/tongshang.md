@@ -1,5 +1,7 @@
 # 同上
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongshang.md)
+
 <p><span class="chinese">同上。</span><span class="english">Ibid., p. 82.</span></p>
 
 <p><span class="chinese">剂量、时间同上。</span><span class="english">Dosage, time is Alexandrine.</span></p>

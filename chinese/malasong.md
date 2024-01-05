@@ -1,5 +1,7 @@
 # 马拉松
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/malasong.md)
+
 <p><span class="chinese">一个4小时的马拉松选手呢？</span><span class="english">A 4-hour marathoner?</span></p>
 
 <p><span class="chinese">一个5小时的马拉松选手呢？</span><span class="english">A 5-hour marathoner?</span></p>

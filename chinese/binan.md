@@ -1,5 +1,7 @@
 # 避难
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/binan.md)
+
 <p><span class="chinese">人们央求政治避难。</span><span class="english">The people ask for political asylum.</span></p>
 
 <p><span class="chinese">许多在屋顶避难的人被冲走。</span><span class="english">Some swept away after clinging to rooftops.</span></p>

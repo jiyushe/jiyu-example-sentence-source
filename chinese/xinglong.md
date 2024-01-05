@@ -1,5 +1,7 @@
 # 兴隆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinglong.md)
+
 <p><span class="chinese">买卖兴隆。</span><span class="english">The business is brisk.</span></p>
 
 <p><span class="chinese">在此祝贺啦啦生意兴隆！财源滚滚！</span><span class="english">Good luck in your new business!</span></p>

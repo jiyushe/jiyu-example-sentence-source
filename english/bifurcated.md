@@ -1,5 +1,7 @@
 # bifurcated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bifurcated.md)
+
 <p><span class="chinese">吴福常曾在八岔和同江工作过，是赫哲族文化研究员。</span><span class="english">Wu often bifurcated in eight and worked with Jiang is a Fellow Hezhe culture.</span></p>
 
 <p><span class="chinese">数值研究气相爆轰波在分叉管中的传播现象。</span><span class="english">Gaseous detonation propagation through a bifurcated tube was numerically investigated.</span></p>

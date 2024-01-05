@@ -1,5 +1,7 @@
 # ofr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ofr.md)
+
 <p><span class="chinese">记住，运动后一小时不能吃东西。</span><span class="english">Remember, dont eat anything ofr one hour afterwards.</span></p>
 
 <p><span class="chinese">大家以后常持火炬，纪念我国这位圣女。</span><span class="english">This torch we'll always carry ofr our nation's golden child.</span></p>

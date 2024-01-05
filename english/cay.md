@@ -1,5 +1,7 @@
 # cay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cay.md)
+
 <p><span class="chinese">可以去掉这块污渍吗？</span><span class="english">Cay you remove the stain?</span></p>
 
 <p><span class="chinese">好了，我们对上托塞岛了解多少？</span><span class="english">All right, well, what do we know about Topsail Cay?</span></p>

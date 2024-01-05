@@ -1,5 +1,7 @@
 # amen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amen.md)
+
 <p><span class="chinese">我能得到一个神吗？</span><span class="english">Can I get an amen?</span></p>
 
 <p><span class="chinese">奉祢的名求，阿们。</span><span class="english">In your name, Amen.</span></p>

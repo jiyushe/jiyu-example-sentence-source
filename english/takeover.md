@@ -1,5 +1,7 @@
 # takeover
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/takeover.md)
+
 <p><span class="chinese">白色骑士，收购竞价中友好的一方。</span><span class="english">White Knight, a friendly party in a takeover bid.</span></p>
 
 <p><span class="chinese">为什么西克斯和吉雷特拒绝再售？</span><span class="english">Why are Hicks and Gillett resisting the takeover?</span></p>

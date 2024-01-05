@@ -1,5 +1,7 @@
 # 丑化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chouhua.md)
+
 <p><span class="chinese">爱情是一个巨大的丑化家。</span><span class="english">Love is a great beautifier.</span></p>
 
 <p><span class="chinese">希望会丑化丑恶的东西。</span><span class="english">Desire beautifies what is ugly.</span></p>

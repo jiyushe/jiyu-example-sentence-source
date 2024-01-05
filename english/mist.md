@@ -1,5 +1,7 @@
 # mist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mist.md)
+
 <p><span class="chinese">哦，原来是晨雾。</span><span class="english">Oh, yes morning mist.</span></p>
 
 <p><span class="chinese">薄雾笼罩着城市。</span><span class="english">Mist canopied the city.</span></p>

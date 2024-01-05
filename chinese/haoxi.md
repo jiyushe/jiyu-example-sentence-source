@@ -1,5 +1,7 @@
 # 好戏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haoxi.md)
+
 <p><span class="chinese">一场好戏即将开锣。</span><span class="english">A good play will begin soon.</span></p>
 
 <p><span class="chinese">为什么帅男有如此多的好戏呢？</span><span class="english">Why so much action for handsome men?</span></p>

@@ -1,5 +1,7 @@
 # 变卦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biangua.md)
+
 <p><span class="chinese">你很快就变卦了。</span><span class="english">You soon give in.</span></p>
 
 <p><span class="chinese">何以变卦?</span><span class="english">Why all this sudden change?</span></p>

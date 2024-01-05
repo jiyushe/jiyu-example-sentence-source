@@ -1,5 +1,7 @@
 # silage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/silage.md)
+
 <p><span class="chinese">发酵不好的青贮料其味道腐臭。</span><span class="english">Poorly fermented silage smells rancid.</span></p>
 
 <p><span class="chinese">种植的首选饲料作物是青贮玉米和紫花苜蓿。</span><span class="english">Silage corn and alfalfa is two feed crops to be grown.</span></p>

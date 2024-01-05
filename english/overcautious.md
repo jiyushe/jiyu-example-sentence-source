@@ -1,5 +1,7 @@
 # overcautious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overcautious.md)
+
 <p><span class="chinese">那位先生在工作中束手束脚。</span><span class="english">The gentleman is overcautious in his work.</span></p>
 
 <p><span class="chinese">工作你尽管大胆去干，别缩手缩脚的。</span><span class="english">Be bold in doing your work and don't be overcautious.</span></p>

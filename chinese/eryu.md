@@ -1,5 +1,7 @@
 # 耳语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/eryu.md)
+
 <p><span class="chinese">我对艾思梅耳语道。</span><span class="english">I whispered to Esme.</span></p>
 
 <p><span class="chinese">哪怕是一声耳语，一个念想。</span><span class="english">Not a whisper, not a thought.</span></p>

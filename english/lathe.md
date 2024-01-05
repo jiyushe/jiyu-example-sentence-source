@@ -1,5 +1,7 @@
 # lathe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lathe.md)
+
 <p><span class="chinese">他在车床上车削了那块木料。</span><span class="english">He turned the wood on a lathe.</span></p>
 
 <p><span class="chinese">这台机床容易操作。</span><span class="english">This lathe is easy to operate.</span></p>

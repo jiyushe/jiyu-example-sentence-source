@@ -1,5 +1,7 @@
 # 救治
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuzhi.md)
+
 <p><span class="chinese">此时应迅速寻求急诊来救治可能的低体温症。</span><span class="english">Seek emergency help right away for possible hypothermia.</span></p>
 
 <p><span class="chinese">黑蚁一边救治大妹，一边又施法让大妹昏迷不醒。</span><span class="english">Black ant treatment big sister, coma and makes big sister.</span></p>

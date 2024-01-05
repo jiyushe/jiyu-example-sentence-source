@@ -1,5 +1,7 @@
 # indecency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indecency.md)
+
 <p><span class="chinese">他已经受到恐吓和公然猥亵罪的指控。</span><span class="english">He's been charged of menacing and public indecency.</span></p>
 
 <p><span class="chinese">这里面暴露了他的赤裸裸的动机，竟达到有失体统的地步。</span><span class="english">It carried naked truth about his motives into indecency.</span></p>

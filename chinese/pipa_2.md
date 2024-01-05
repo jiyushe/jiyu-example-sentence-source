@@ -1,5 +1,7 @@
 # 枇杷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pipa_2.md)
+
 <p><span class="chinese">采摘枇杷可伤脑筋。</span><span class="english">Now I got problem picking loquats.</span></p>
 
 <p><span class="chinese">在这个世界上，我最爱的水果就是枇杷了。</span><span class="english">In the world, my favorite fruit is loquat.</span></p>

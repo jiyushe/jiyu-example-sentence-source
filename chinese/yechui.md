@@ -1,5 +1,7 @@
 # 野炊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yechui.md)
+
 <p><span class="chinese">我们在进行野炊。</span><span class="english">We are having our picnic.</span></p>
 
 <p><span class="chinese">我们打算明天去野炊。</span><span class="english">We are going to have a picnic tomorrow.</span></p>

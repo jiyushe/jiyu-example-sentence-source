@@ -1,5 +1,7 @@
 # castile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/castile.md)
+
 <p><span class="chinese">卡斯蒂尔王子是被毒死的吗？</span><span class="english">WaS Prince Sancho de Castile Poisoned?</span></p>
 
 <p><span class="chinese">要么丧失一切，要么使长斯提尔居世界之首。</span><span class="english">Either all is lost, or else Castile will be head of the world.</span></p>

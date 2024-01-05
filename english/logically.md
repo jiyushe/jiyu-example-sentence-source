@@ -1,5 +1,7 @@
 # logically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/logically.md)
+
 <p><span class="chinese">我这里所指的,都是指逻辑上的可能性</span><span class="english">All we mean here is logically possible.</span></p>
 
 <p><span class="chinese">上下句意要合乎逻辑。</span><span class="english">Move logically from one idea to the next.</span></p>

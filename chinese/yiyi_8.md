@@ -1,5 +1,7 @@
 # 薏苡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyi_8.md)
+
 <p><span class="chinese">薏苡内酯的提取及分离纯化条件的研究。</span><span class="english">Study on Extraction and Separation of Lactone for Coix Lachrymajobi L.</span></p>
 
 <p><span class="chinese">本发明另外还公开了采用上述的薏苡米酒浸泡而成的薏苡米药酒。</span><span class="english">The invention also discloses a coix seed medicinal liquor obtained by soaking the coix seed wine.</span></p>

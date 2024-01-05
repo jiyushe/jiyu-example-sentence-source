@@ -1,5 +1,7 @@
 # stillness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stillness.md)
+
 <p><span class="chinese">经历，享受安静。</span><span class="english">Experience, embrace stillness.</span></p>
 
 <p><span class="chinese">即享受安静这一理念。</span><span class="english">The notion of embracing stillness.</span></p>

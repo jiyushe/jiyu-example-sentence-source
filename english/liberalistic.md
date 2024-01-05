@@ -1,5 +1,7 @@
 # liberalistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liberalistic.md)
+
 <p><span class="chinese">刘海波虽然被称为“哈耶克式的自由主义学者”，但事实上他的教育观念是与哈邓克的思想完全相悖的。</span><span class="english">Although being called "a liberalistic Hayekic scholar", his ideas of education are opposite to Friedrich Hayek's.</span></p>
 
 <p><span class="chinese">在基本价值观明确的基础上，采用一定的自由主义德育方法可能是德育教育的最佳选择。</span><span class="english">Based on the clear fundamental values, it is the best choice to adopt some methods of liberalistic moral education.</span></p>

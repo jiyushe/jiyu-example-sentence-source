@@ -1,5 +1,7 @@
 # 总额
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zonge.md)
+
 <p><span class="chinese">你所定的比铲饼总额为170元。</span><span class="english">Your order comes to 170 yuan.</span></p>
 
 <p><span class="chinese">把第二笔总额加在第三笔总额上。</span><span class="english">Add the second total to the third.</span></p>

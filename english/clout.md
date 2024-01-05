@@ -1,5 +1,7 @@
 # clout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clout.md)
+
 <p><span class="chinese">引用上司的联合署名加以强调。</span><span class="english">Add clout by having a superior co-sign.</span></p>
 
 <p><span class="chinese">内利先生在这一带很有影响力。</span><span class="english">Mr. Neely has a lot of clout around here.</span></p>

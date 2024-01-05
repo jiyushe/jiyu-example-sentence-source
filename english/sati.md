@@ -1,5 +1,7 @@
 # sati
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sati.md)
+
 <p><span class="chinese">如此就可以产生并发展正念。</span><span class="english">In this way sati can arise and it can be developed.</span></p>
 
 <p><span class="chinese">培养觉性就是在唤醒一个人的觉知元素。</span><span class="english">To develop sati is to shake the knowing element of a person.</span></p>

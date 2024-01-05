@@ -1,5 +1,7 @@
 # pent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pent.md)
+
 <p><span class="chinese">我们将担任领导角色，这样的要求现在被压制着。</span><span class="english">We will lead. There is a pent up need for this.</span></p>
 
 <p><span class="chinese">他把因挫败而郁积的怒气发泄在家人身上。</span><span class="english">He took his pent up frustration out on his family.</span></p>

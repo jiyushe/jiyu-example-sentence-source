@@ -1,5 +1,7 @@
 # mnemonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mnemonic.md)
+
 <p><span class="chinese">所以这是一种能够帮助记忆的手段</span><span class="english">So it's a great mnemonic device.</span></p>
 
 <p><span class="chinese">他们中很多人都是用了助记符的方法。</span><span class="english">Many of them use a mnemonic method.</span></p>

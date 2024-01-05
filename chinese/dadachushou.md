@@ -1,5 +1,7 @@
 # 大打出手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dadachushou.md)
+
 <p><span class="chinese">他们大打出手，从来没有这麽厉害。</span><span class="english">They had the most frightful set-to.</span></p>
 
 <p><span class="chinese">两个人为一根焦黑的骨头大打出手。</span><span class="english">Two women fought over a charred bone.</span></p>

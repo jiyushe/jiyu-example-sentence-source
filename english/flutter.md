@@ -1,5 +1,7 @@
 # flutter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flutter.md)
+
 <p><span class="chinese">摇摇摆摆落向地面。</span><span class="english">Flutter down to the ground.</span></p>
 
 <p><span class="chinese">所有人都心神不定。</span><span class="english">All the people were in a flutter.</span></p>

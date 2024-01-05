@@ -1,5 +1,7 @@
 # got
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/got.md)
+
 <p><span class="chinese">我骗倒你了！</span><span class="english">I got you!</span></p>
 
 <p><span class="chinese">你说动我了。</span><span class="english">You got me.</span></p>

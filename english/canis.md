@@ -1,5 +1,7 @@
 # canis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/canis.md)
+
 <p><span class="chinese">因为巴贝西虫能通过输血传播。</span><span class="english">Canis because it can be transmitted through blood transfusions.</span></p>
 
 <p><span class="chinese">目的观察犬弓首线虫幼虫在小鼠体内的移行情况。</span><span class="english">Objective To observe the migratory route of Toxocara canis larvae in mice.</span></p>

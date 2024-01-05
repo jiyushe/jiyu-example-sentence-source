@@ -1,5 +1,7 @@
 # quarterly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quarterly.md)
+
 <p><span class="chinese">您希望收到季度报告表吗？</span><span class="english">Would you like quarterly statements?</span></p>
 
 <p><span class="chinese">2级″至少每个季度要打个电话或是发封邮件。</span><span class="english">A “2″ gets a quarterly call or e-mail.</span></p>

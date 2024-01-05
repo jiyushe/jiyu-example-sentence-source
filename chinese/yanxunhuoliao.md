@@ -1,5 +1,7 @@
 # 烟熏火燎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanxunhuoliao.md)
+
 <p><span class="chinese">烧烤。烟熏火燎中坚守岗位的老爹。</span><span class="english">Barbeque. Dad sticked to his work despite of the smoke.</span></p>
 
 <p><span class="chinese">每天在世界各地有数百万人要烟熏火燎地做饭。</span><span class="english">Millions of people around the world cook their food over a smoky fire every day.</span></p>

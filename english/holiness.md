@@ -1,5 +1,7 @@
 # holiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/holiness.md)
+
 <p><span class="chinese">并明认他在神圣之境中与你一体。</span><span class="english">Acknowledging that he is one with you in holiness.</span></p>
 
 <p><span class="chinese">在基督里，我们将会成为一个在圣洁中成长的族类。</span><span class="english">In Christ we will be a people growing in holiness.</span></p>

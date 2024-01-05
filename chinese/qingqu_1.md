@@ -1,5 +1,7 @@
 # 轻取
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingqu_1.md)
+
 <p><span class="chinese">牛津队轻取剑桥队。</span><span class="english">The Oxford crew walked away from Cambridge.</span></p>
 
 <p><span class="chinese">达夫随爱尔兰客场2-0轻取法罗群岛。</span><span class="english">Ireland and Duff win 2-0 in the Faroe Islands.</span></p>

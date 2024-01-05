@@ -1,5 +1,7 @@
 # 特性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/texing.md)
+
 <p><span class="chinese">这是一个高级特性。</span><span class="english">This is an advanced feature.</span></p>
 
 <p><span class="chinese">我应该使用哪些特性？</span><span class="english">Which features should I use?</span></p>

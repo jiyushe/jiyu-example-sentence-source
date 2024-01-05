@@ -1,5 +1,7 @@
 # inciting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inciting.md)
+
 <p><span class="chinese">你们干吗在这里煽动骚动的叛乱呀。</span><span class="english">What are you up to inciting mutiny and insubordination?</span></p>
 
 <p><span class="chinese">指定替罪羔羊，煽动其他人鞭挞他们。</span><span class="english">Identifying scapegoats and inciting others to castigate them.</span></p>

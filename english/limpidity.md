@@ -1,5 +1,7 @@
 # limpidity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/limpidity.md)
+
 <p><span class="chinese">即将到来的澎湃都已在心中预演。心灵的清澈才是最终的归宿。</span><span class="english">The limpidity of the state of mind is the final home.</span></p>
 
 <p><span class="chinese">可是多瑙河，哪能有她这般清澈？</span><span class="english">But how could the Danube compare with such limpidity ?</span></p>

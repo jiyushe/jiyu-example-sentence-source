@@ -1,5 +1,7 @@
 # histochemistry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/histochemistry.md)
+
 <p><span class="chinese">采用组织化学技术和图像分析系统检测血管内皮细胞NOS活性。</span><span class="english">The NOS expression of VEC were assayed by histochemistry method and image analysis system.</span></p>
 
 <p><span class="chinese">改良了组织原位杂交和原位酶组织化学分析的方法。</span><span class="english">Improved methods for both in situ hybridization and in situ enzyme histochemistry were described.</span></p>

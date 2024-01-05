@@ -1,5 +1,7 @@
 # canvas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/canvas.md)
+
 <p><span class="chinese">帆布干时变硬。</span><span class="english">Canvas stiffens as it dries.</span></p>
 
 <p><span class="chinese">帆布袋内充水。</span><span class="english">Canvas Bag Filled with Water.</span></p>

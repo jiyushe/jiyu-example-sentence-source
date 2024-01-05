@@ -1,5 +1,7 @@
 # 东洋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongyang.md)
+
 <p><span class="chinese">这些电子器件都是从东洋进口的。</span><span class="english">Those electronic devices are imported from Japan.</span></p>
 
 <p><span class="chinese">在54种当地繁殖鸟类中，东洋界37种。</span><span class="english">Among 54 local breed species, 37 species distribute in Oriental.</span></p>

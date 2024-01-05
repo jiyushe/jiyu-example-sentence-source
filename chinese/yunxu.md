@@ -1,5 +1,7 @@
 # 允许
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunxu.md)
+
 <p><span class="chinese">不要允许这样做。</span><span class="english">Do not allow it.</span></p>
 
 <p><span class="chinese">请允许我澄清一下。</span><span class="english">Allow me to clarify.</span></p>

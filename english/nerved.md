@@ -1,5 +1,7 @@
 # nerved
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nerved.md)
+
 <p><span class="chinese">他大胆地问了另一个问题。</span><span class="english">He nerved himself to ask another question.</span></p>
 
 <p><span class="chinese">佳丽与雷电都是弱神经型的犬。</span><span class="english">Both Callie and Thunder are weak nerved dogs.</span></p>

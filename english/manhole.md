@@ -1,5 +1,7 @@
 # manhole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manhole.md)
+
 <p><span class="chinese">放回沙井盖。</span><span class="english">Replace the manhole cover.</span></p>
 
 <p><span class="chinese">为什么下水道癿亐盖是囿癿？</span><span class="english">Why are manhole covers round?</span></p>

@@ -1,5 +1,7 @@
 # 速写
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suxie.md)
+
 <p><span class="chinese">他正在把一幅速写加工成一幅画。</span><span class="english">He is working up a sketch into a picture.</span></p>
 
 <p><span class="chinese">他在速写簿上画出了男孩头像素描。</span><span class="english">He sketched a boy's head on the sketchpad.</span></p>

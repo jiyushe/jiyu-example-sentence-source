@@ -1,5 +1,7 @@
 # 跨步
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuabu.md)
+
 <p><span class="chinese">小裁缝跨步上前鞠躬。</span><span class="english">The little tailor stepped up and bowed.</span></p>
 
 <p><span class="chinese">对于这种大跨步，我已经习惯了。</span><span class="english">And to this stride I had got accustomed.</span></p>

@@ -1,5 +1,7 @@
 # 痛定思痛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongdingsitong.md)
+
 <p><span class="chinese">痛能使我们痛定思痛，得以成长。</span><span class="english">Pain and enable us to learn from their mistakes, to grow.</span></p>
 
 <p><span class="chinese">陈超痛定思痛后振作起来，开端跑组生活运营本人的人生。</span><span class="english">Chen cheer up, beginning after mounted run group operation I life.</span></p>

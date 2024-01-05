@@ -1,5 +1,7 @@
 # tester
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tester.md)
+
 <p><span class="chinese">哦，这是试用品。</span><span class="english">Oh, Here is the tester.</span></p>
 
 <p><span class="chinese">介绍一种新型的直角尺检查仪。</span><span class="english">A new square tester is introduced.</span></p>

@@ -1,5 +1,7 @@
 # disputation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disputation.md)
+
 <p><span class="chinese">关于这种论题的正式辩论。</span><span class="english">Formal disputation of such an issue.</span></p>
 
 <p><span class="chinese">经过大量法庭辩论后，我们辞职的权利得到了认可。</span><span class="english">After much legal disputation our right to resign was established.</span></p>

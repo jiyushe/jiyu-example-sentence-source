@@ -1,5 +1,7 @@
 # latticed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/latticed.md)
+
 <p><span class="chinese">斯沃琪手表店即将在一间带有格子窗的建筑里开业。</span><span class="english">There's a Swatch store about to open under a latticed terrace.</span></p>
 
 <p><span class="chinese">提出了一种适用于网壳结构的模态测试方法。</span><span class="english">A modal testing method for latticed shell structures was presented.</span></p>

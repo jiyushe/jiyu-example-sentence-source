@@ -1,5 +1,7 @@
 # fitful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fitful.md)
+
 <p><span class="chinese">昨晚在泥地里断断续续地睡了一夜。</span><span class="english">I spent a fitful night in the mud.</span></p>
 
 <p><span class="chinese">我半个晚上都一直在担心，故而时醒时睡。</span><span class="english">I worried half the night and have a fitful sleep.</span></p>

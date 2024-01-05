@@ -1,5 +1,7 @@
 # 责任
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zeren.md)
+
 <p><span class="chinese">他从不逃避责任。</span><span class="english">He never dodges.</span></p>
 
 <p><span class="chinese">谁是有责任的？</span><span class="english">Who is accountable?</span></p>

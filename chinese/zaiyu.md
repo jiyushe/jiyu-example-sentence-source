@@ -1,5 +1,7 @@
 # 在于
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaiyu.md)
+
 <p><span class="chinese">早早开始，一日之计在于晨。</span><span class="english">Start early.</span></p>
 
 <p><span class="chinese">奥秘在于韵律</span><span class="english">It's the rhythm.</span></p>

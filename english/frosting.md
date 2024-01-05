@@ -1,5 +1,7 @@
 # frosting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frosting.md)
+
 <p><span class="chinese">举行的结霜帮助它到位。</span><span class="english">The frosting helps hold it in place.</span></p>
 
 <p><span class="chinese">必须所有结霜在您的耳朵。</span><span class="english">Must be all the frosting in your ear.</span></p>

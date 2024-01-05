@@ -1,5 +1,7 @@
 # 探讨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tantao.md)
+
 <p><span class="chinese">因此当我们在一起探讨。</span><span class="english">So when we are discussing.</span></p>
 
 <p><span class="chinese">下面来探讨另一个话题。</span><span class="english">Now I'd like to shift heels.</span></p>

@@ -1,5 +1,7 @@
 # 统筹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongchou.md)
+
 <p><span class="chinese">屋宇署电话热线由「1823电话中心」统筹处理。</span><span class="english">BD hotline is handled by '1823 Call Centre'.</span></p>
 
 <p><span class="chinese">谁应当领导这场改革及统筹支援？</span><span class="english">Who should lead change and gather support for it?</span></p>

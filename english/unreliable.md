@@ -1,5 +1,7 @@
 # unreliable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unreliable.md)
+
 <p><span class="chinese">但这种说法是靠不住的。</span><span class="english">But it's unreliable.</span></p>
 
 <p><span class="chinese">凯斯特灯浮不可靠。</span><span class="english">Caister Light buoy unreliable.</span></p>

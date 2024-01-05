@@ -1,5 +1,7 @@
 # 看法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kanfa.md)
+
 <p><span class="chinese">我同意她的看法。</span><span class="english">I agree with her.</span></p>
 
 <p><span class="chinese">对此，你的看法是什么？</span><span class="english">What's you opion.</span></p>

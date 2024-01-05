@@ -1,5 +1,7 @@
 # bribery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bribery.md)
+
 <p><span class="chinese">这次我试着贿赂她。</span><span class="english">This time I tried bribery.</span></p>
 
 <p><span class="chinese">他不受贿赂。</span><span class="english">He is proof against bribery.</span></p>

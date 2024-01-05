@@ -1,5 +1,7 @@
 # unknowing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unknowing.md)
+
 <p><span class="chinese">大部分动作都是不知不觉。</span><span class="english">Most gestures are used unknowing ly.</span></p>
 
 <p><span class="chinese">你叫我怎样等下去?这就战争的代价。</span><span class="english">How can I wait unknowing?This is the price of war.</span></p>

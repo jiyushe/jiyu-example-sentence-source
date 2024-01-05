@@ -1,5 +1,7 @@
 # 迷惘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miwang.md)
+
 <p><span class="chinese">可怜！迷惘的一代！</span><span class="english">Pity the Lost Generation.</span></p>
 
 <p><span class="chinese">一只红色小猫迷惘地躺在白杨树下。</span><span class="english">One red mitten lying lost under a poplar tree.</span></p>

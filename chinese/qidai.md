@@ -1,5 +1,7 @@
 # 期待
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qidai.md)
+
 <p><span class="chinese">期待它。</span><span class="english">Expect it.</span></p>
 
 <p><span class="chinese">你在期待什么?。</span><span class="english">What didy expect?</span></p>

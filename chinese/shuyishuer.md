@@ -1,5 +1,7 @@
 # 数一数二
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuyishuer.md)
+
 <p><span class="chinese">他是班上数一数二的好学生。</span><span class="english">He is at the top of his class.</span></p>
 
 <p><span class="chinese">两者的动力都是同级别车中数一数二的。</span><span class="english">Both are the same power level in one of the vehicles.</span></p>

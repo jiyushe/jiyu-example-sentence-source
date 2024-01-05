@@ -1,5 +1,7 @@
 # 白血球
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baixueqiu.md)
+
 <p><span class="chinese">白血球偏低应注意什么？</span><span class="english">What should leucocyte on the low side notice?</span></p>
 
 <p><span class="chinese">他们的心脏都有杂音，七位患者血中白血球上升。</span><span class="english">All had cardiac murmur and seven had leukocytosis.</span></p>

@@ -1,5 +1,7 @@
 # 水粉画
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuifenhua.md)
+
 <p><span class="chinese">我喷一点酒精的湿层水粉画。</span><span class="english">I spray a bit of alcohol on the wet layer of gouache.</span></p>
 
 <p><span class="chinese">水粉画颜料在干湿不同。</span><span class="english">Gouache paintings in the wet and dry pigments different.</span></p>

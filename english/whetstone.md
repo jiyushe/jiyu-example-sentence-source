@@ -1,5 +1,7 @@
 # whetstone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whetstone.md)
+
 <p><span class="chinese">用磨刀石磨利。</span><span class="english">To sharpen on such a whetstone.</span></p>
 
 <p><span class="chinese">竞争磨炼才能。</span><span class="english">Competition is the whetstone of talent.</span></p>

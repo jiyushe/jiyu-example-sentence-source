@@ -1,5 +1,7 @@
 # 老主顾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laozhugu.md)
+
 <p><span class="chinese">你将有多少老主顾啊？</span><span class="english">How many regular buyers would you have?</span></p>
 
 <p><span class="chinese">我们的老主顾、读者、听众等。</span><span class="english">Our regular customers, readers, listeners, etc.</span></p>

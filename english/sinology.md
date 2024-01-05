@@ -1,5 +1,7 @@
 # sinology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sinology.md)
+
 <p><span class="chinese">其他书名传教士汉学硏究。</span><span class="english">The study of missionary sinology.</span></p>
 
 <p><span class="chinese">戴仁是法国当代汉学界的主将。</span><span class="english">Dai is a Contemporary French sinology commanding general.</span></p>

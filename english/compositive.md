@@ -1,5 +1,7 @@
 # compositive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compositive.md)
+
 <p><span class="chinese">热风炉高风温是一项综合技术。</span><span class="english">Hot-blast stove's high-temperature is a compositive technology.</span></p>
 
 <p><span class="chinese">协同成本的动因在于联产品的组成变量。</span><span class="english">The cost driver of cooperation cost lies on compositive variables.</span></p>

@@ -1,5 +1,7 @@
 # algerian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/algerian.md)
+
 <p><span class="chinese">我对阿尔及利亚难民和偷渡有了很多了解。</span><span class="english">I got to know a lot of Algerian refugees and stowaways.</span></p>
 
 <p><span class="chinese">这至少是阿尔及尔之夏的苦涩训诫。</span><span class="english">This, at least, is the bitter lesson of Algerian summers.</span></p>

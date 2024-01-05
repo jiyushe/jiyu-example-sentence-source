@@ -1,5 +1,7 @@
 # 模具
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muju.md)
+
 <p><span class="chinese">需要模具气弹簧？</span><span class="english">Need Die Springs?</span></p>
 
 <p><span class="chinese">请告知更换模具的时间。</span><span class="english">Please advise the lead-time.</span></p>

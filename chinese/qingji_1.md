@@ -1,5 +1,7 @@
 # 请寄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingji_1.md)
+
 <p><span class="chinese">请寄一本样书给我。</span><span class="english">Please send a sample copy to me.</span></p>
 
 <p><span class="chinese">请寄大码的生产前办！</span><span class="english">Pls send PP sample in size large!</span></p>

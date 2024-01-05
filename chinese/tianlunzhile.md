@@ -1,5 +1,7 @@
 # 天伦之乐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianlunzhile.md)
+
 <p><span class="chinese">我们享受着融融的天伦之乐。</span><span class="english">We basked in the love of our family.</span></p>
 
 <p><span class="chinese">那位老人家正享受着融融的天伦之乐。</span><span class="english">That old man is basking in the love of his family.</span></p>

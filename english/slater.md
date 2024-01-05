@@ -1,5 +1,7 @@
 # slater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slater.md)
+
 <p><span class="chinese">罗德尼.斯莱特放弃了为州检察长史蒂夫.克拉克工作，到我这里来帮忙。</span><span class="english">Rodney Slater left Attorney General Steve Clark’s staff to help.</span></p>
 
 <p><span class="chinese">首先是因为德普，再次是因为史蒂芬金。</span><span class="english">Johnny Depp is better in a Stephen King film than Christian Slater.</span></p>

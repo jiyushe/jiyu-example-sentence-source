@@ -1,5 +1,7 @@
 # midcourse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/midcourse.md)
+
 <p><span class="chinese">研究了中远程多用途导弹由中间段制导向末段制导过渡的交接班问题。</span><span class="english">To study the handing over between midcourse guidance and terminal guidance for medium and long range multi purpose missiles.</span></p>
 
 <p><span class="chinese">据新华社报道，中国11日在境内进行了一次陆基中段反导拦截技术试验。</span><span class="english">China conducted a test on ground-based midcourse missile interception technology within its territory Monday, Xinhua reported.</span></p>

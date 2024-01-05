@@ -1,5 +1,7 @@
 # 歇歇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiexie.md)
+
 <p><span class="chinese">让我们歇歇喝杯茶吧。</span><span class="english">Let's pause for a cup of tea.</span></p>
 
 <p><span class="chinese">看的都要吐了，要歇歇再看。</span><span class="english">I need you more than you need me.</span></p>

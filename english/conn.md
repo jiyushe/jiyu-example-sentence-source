@@ -1,5 +1,7 @@
 # conn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conn.md)
+
 <p><span class="chinese">我到过康涅狄格州的布里奇港，还去过洛杉矶市。</span><span class="english">I have been to Bridgeport , Conn. , and to Los Angeles.</span></p>
 
 <p><span class="chinese">自1966年起，摩根号就一直停靠在康涅狄格州的米斯迪克。</span><span class="english">The Morgan has been docked in Mystic, Conn., since 1966.</span></p>

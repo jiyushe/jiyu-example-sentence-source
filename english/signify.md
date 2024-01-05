@@ -1,5 +1,7 @@
 # signify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/signify.md)
+
 <p><span class="chinese">这些信息表示哪些含义？</span><span class="english">What does this information signify?</span></p>
 
 <p><span class="chinese">那么这次批评意味着什么呢？</span><span class="english">So what might the criticism signify?</span></p>

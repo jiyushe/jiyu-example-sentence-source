@@ -1,5 +1,7 @@
 # 微薄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weibo_1.md)
+
 <p><span class="chinese">让我们为恺威尽一份微薄之力。</span><span class="english">Let us do our endeavor for Hawick.</span></p>
 
 <p><span class="chinese">他会很高兴地接受一份微薄的奖金。</span><span class="english">He'll be happy to get a paltry bonus.</span></p>

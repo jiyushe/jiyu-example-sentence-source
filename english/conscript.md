@@ -1,5 +1,7 @@
 # conscript
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conscript.md)
+
 <p><span class="chinese">他们打算把资金和劳力一起征用。</span><span class="english">They proposed to conscript both capital and labour.</span></p>
 
 <p><span class="chinese">政府可以征兵并把人们送到战场么？</span><span class="english">Can the government conscript people and send them into battle?</span></p>

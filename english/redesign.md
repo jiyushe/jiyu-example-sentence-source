@@ -1,5 +1,7 @@
 # redesign
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redesign.md)
+
 <p><span class="chinese">毫米会要求了完成重新设计。</span><span class="english">A 42mm would have required a complete redesign.</span></p>
 
 <p><span class="chinese">如果有必要，重新分析或重新设计系统。</span><span class="english">If necessary, reanalyze or redesign the system.</span></p>

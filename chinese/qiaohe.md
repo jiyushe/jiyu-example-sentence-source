@@ -1,5 +1,7 @@
 # 巧合
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaohe.md)
+
 <p><span class="chinese">巧合知多少！</span><span class="english">What a Coincidence!</span></p>
 
 <p><span class="chinese">这是巧合吗？</span><span class="english">Is this coincidence?</span></p>

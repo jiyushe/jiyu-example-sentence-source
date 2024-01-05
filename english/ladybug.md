@@ -1,5 +1,7 @@
 # ladybug
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ladybug.md)
+
 <p><span class="chinese">螵虫在灌木上爬。</span><span class="english">The ladybug crawls on the bush.</span></p>
 
 <p><span class="chinese">这是一只很特别的瓢虫，贝蒂。</span><span class="english">It's a very special ladybug betty.</span></p>

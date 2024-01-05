@@ -1,5 +1,7 @@
 # merchandiser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/merchandiser.md)
+
 <p><span class="chinese">审核跟单部所有批复的样衣，并提出有效建议。</span><span class="english">Audit all samples of merchandiser dept and give comment.</span></p>
 
 <p><span class="chinese">明年这里将建成一个大型的一站式大卖场。</span><span class="english">A large one-stop merchandiser will be built here next year.</span></p>

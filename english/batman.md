@@ -1,5 +1,7 @@
 # batman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/batman.md)
+
 <p><span class="chinese">蝙蝠侠和罗宾救民于危难……</span><span class="english">Batman and Robin to the rescue.</span></p>
 
 <p><span class="chinese">蝙蝠侠和神奇女侠的婚礼</span><span class="english">Batman and Wonder Woman Wedding</span></p>

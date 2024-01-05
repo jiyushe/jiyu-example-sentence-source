@@ -1,5 +1,7 @@
 # onset
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/onset.md)
+
 <p><span class="chinese">没有一个人能够阻止冬天的“进攻”。</span><span class="english">No one can stop the onset of winter.</span></p>
 
 <p><span class="chinese">多数在儿童煳青少年期起病。</span><span class="english">Most of onset in children and adolescents.</span></p>

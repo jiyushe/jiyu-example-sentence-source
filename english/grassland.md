@@ -1,5 +1,7 @@
 # grassland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grassland.md)
+
 <p><span class="chinese">那喀拉峻草原呢？</span><span class="english">And the Kalajun Grassland?</span></p>
 
 <p><span class="chinese">乳牛在草地上徘徊。</span><span class="english">Cows were roaming the grassland.</span></p>

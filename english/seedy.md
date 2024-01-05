@@ -1,5 +1,7 @@
 # seedy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seedy.md)
+
 <p><span class="chinese">某破烂的旅馆房间。</span><span class="english">A SEEDY HOTEL ROOM.</span></p>
 
 <p><span class="chinese">三杯酒下肚，他就感到恶心了。</span><span class="english">He felt seedy after only three cups of wine.</span></p>

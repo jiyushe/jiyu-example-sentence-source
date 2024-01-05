@@ -1,5 +1,7 @@
 # xenogeneic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xenogeneic.md)
+
 <p><span class="chinese">目前应进一步加强异种器官移植的基础研究。</span><span class="english">At present time the basic research of xenogeneic transplantation should be mainly emphasized.</span></p>
 
 <p><span class="chinese">目的用改良的化学萃取方法，制备去细胞异种神经支架。</span><span class="english">Objective To prepare the xenogeneic acellular nerve scaffold used a modified chemical extraction method.</span></p>

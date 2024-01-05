@@ -1,5 +1,7 @@
 # mobilisation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mobilisation.md)
+
 <p><span class="chinese">动员大量的业内精英也是非常必要的。</span><span class="english">A massive mobilisation of talent will be needed.</span></p>
 
 <p><span class="chinese">持续的动员也荡然无存，而没有持续的动员，就不能逐走这些旧秩序。</span><span class="english">Gone too is the sustained mobilisation without which the old order can't be dislodged.</span></p>

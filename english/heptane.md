@@ -1,5 +1,7 @@
 # heptane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heptane.md)
+
 <p><span class="chinese">对于庚烷溶剂，温度降低，有利于TAE的选择性反应。</span><span class="english">TAE will be selected better as decrease temperature in heptane.</span></p>
 
 <p><span class="chinese">随着油相中庚烷的增多，界面张力降低。</span><span class="english">As the heptane in oil phase increases, the interfacial tension decreases.</span></p>

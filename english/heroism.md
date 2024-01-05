@@ -1,5 +1,7 @@
 # heroism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heroism.md)
+
 <p><span class="chinese">什么是英雄主义？</span><span class="english">What is heroism?</span></p>
 
 <p><span class="chinese">他由于英勇而获得一枚奖章。</span><span class="english">He received a medal for his heroism.</span></p>

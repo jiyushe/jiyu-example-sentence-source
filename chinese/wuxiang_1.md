@@ -1,5 +1,7 @@
 # 物象
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuxiang_1.md)
+
 <p><span class="chinese">它们在视野中物象周围，产生有色环纹。</span><span class="english">And they produce colored fringes around objects in the field.</span></p>
 
 <p><span class="chinese">人们使用的物象的特征非常重要。</span><span class="english">The characteristics of the images one uses are very important.</span></p>

@@ -1,5 +1,7 @@
 # 组阁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuge.md)
+
 <p><span class="chinese">日本的当选首相今日将完成组阁。</span><span class="english">Japan'sPrime Minister- designate is completing his Cabinet today.</span></p>
 
 <p><span class="chinese">在组阁过程中，布肯南没有征求史蒂芬.道格拉斯参议员的意见。</span><span class="english">In forming his cabinet, Buchanan did not ask for advice from Senator Stephen Douglas of Illinois.</span></p>

@@ -1,5 +1,7 @@
 # doily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doily.md)
+
 <p><span class="chinese">提供一个很好的装饰桌巾的心形包。</span><span class="english">A doily provides nice trim for the heart-shaped package.</span></p>
 
 <p><span class="chinese">的往往是一个被子，床用织物亚麻布，或垫。</span><span class="english">The fabric is often used for a quilt, bed linen, or doily.</span></p>

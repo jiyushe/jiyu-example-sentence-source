@@ -1,5 +1,7 @@
 # craig
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/craig.md)
+
 <p><span class="chinese">今天，我们将听到克雷格和艾尔莎。</span><span class="english">Today, we'll listen to Craig and Elsa.</span></p>
 
 <p><span class="chinese">菲丽丝？是你吗？我是克莱格?马司特斯。</span><span class="english">Phyllis ? Is that you? It's Craig Masters.</span></p>

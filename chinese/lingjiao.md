@@ -1,5 +1,7 @@
 # 菱角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingjiao.md)
+
 <p><span class="chinese">你老娘喜欢给你准备剥好的菱角和雪豆。</span><span class="english">Your mother made you peel water chestnuts and snow peas.</span></p>
 
 <p><span class="chinese">先把自己的菱角磨圆就不会处处碰到别人的尖角。</span><span class="english">Round Your Rough Edges. Than You Will Not Bump Against Others.</span></p>

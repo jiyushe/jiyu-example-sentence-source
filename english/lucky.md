@@ -1,5 +1,7 @@
 # lucky 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lucky.md)
+
 <p><span class="chinese">我们是幸运的。</span><span class="english">We were lucky.</span></p>
 
 <p><span class="chinese">不过我是幸运的。</span><span class="english">But I am lucky.</span></p>

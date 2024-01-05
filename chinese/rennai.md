@@ -1,5 +1,7 @@
 # 忍耐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rennai.md)
+
 <p><span class="chinese">无法忍耐。</span><span class="english">Just can't stop.</span></p>
 
 <p><span class="chinese">我不要再忍耐和强逼自己忘记从前。</span><span class="english">Do not let me alone, plz.</span></p>

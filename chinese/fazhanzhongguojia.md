@@ -1,5 +1,7 @@
 # 发展中国家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fazhanzhongguojia.md)
+
 <p><span class="chinese">而国际社会必须更加关注劣药——这是发展中国家的一个迫切问题。</span><span class="english">And the international community must give</span></p>
 
 <p><span class="chinese">中国是“发展中国家”的一个新形态。</span><span class="english">China is a new form of Developmental State.</span></p>

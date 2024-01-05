@@ -1,5 +1,7 @@
 # deepness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deepness.md)
+
 <p><span class="chinese">他洞察力的深远不可衡量。</span><span class="english">The deepness of his insight is unmeasurable.</span></p>
 
 <p><span class="chinese">我们说，深度在逐步增加。</span><span class="english">We say that the deepness gradually increases.</span></p>

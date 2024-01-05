@@ -1,5 +1,7 @@
 # categorial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/categorial.md)
+
 <p><span class="chinese">情态是人类语言中一个重要的语法范畴。</span><span class="english">This is a difference between Chinese and English categorial grammar.</span></p>
 
 <p><span class="chinese">本文在语段理论框架下，对定冠词的语类身份进行分析研究。</span><span class="english">The present thesis carries a study on the categorial status of the definite article within the framework of phase theory.</span></p>

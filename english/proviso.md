@@ -1,5 +1,7 @@
 # proviso
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proviso.md)
+
 <p><span class="chinese">这个遗赠附带一项限制性条款。</span><span class="english">One proviso attaches to the legacy.</span></p>
 
 <p><span class="chinese">这个遗赠附带一项限制性条款。</span><span class="english">One proviso  is attached to this legacy.</span></p>

@@ -1,5 +1,7 @@
 # 戏装
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xizhuang.md)
+
 <p><span class="chinese">一个人进了家戏装店。</span><span class="english">A guy goes into a costume shop.</span></p>
 
 <p><span class="chinese">穿警察戏装的演员。</span><span class="english">The actors wore Roman costumes.</span></p>

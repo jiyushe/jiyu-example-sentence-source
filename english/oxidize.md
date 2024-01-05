@@ -1,5 +1,7 @@
 # oxidize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oxidize.md)
+
 <p><span class="chinese">使铜氧化变成氧化铜。</span><span class="english">Oxidize copper to copper oxide.</span></p>
 
 <p><span class="chinese">容易氧化的倾向时热。</span><span class="english">Tendency to oxidize readily when hot.</span></p>

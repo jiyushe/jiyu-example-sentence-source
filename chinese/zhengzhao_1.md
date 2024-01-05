@@ -1,5 +1,7 @@
 # 征召
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengzhao_1.md)
+
 <p><span class="chinese">你是想征召我入伍吗？</span><span class="english">Are you recruiting me?</span></p>
 
 <p><span class="chinese">他响应征召入伍从军。</span><span class="english">He answered the call to army.</span></p>

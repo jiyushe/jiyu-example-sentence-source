@@ -1,5 +1,7 @@
 # 遒劲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiujing.md)
+
 <p><span class="chinese">四周耐咀嚼的苍翠，遒劲有力地直指苍穹。</span><span class="english">Around chewy lush, powerful ground against the sky.</span></p>
 
 <p><span class="chinese">石鼓文具有遒劲凝重的风格。</span><span class="english">Ancient Proses on Stones with Qiu Jin dignified style.</span></p>

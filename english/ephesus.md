@@ -1,5 +1,7 @@
 # ephesus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ephesus.md)
+
 <p><span class="chinese">于是开船离了以弗所。</span><span class="english">And he sailed from Ephesus.</span></p>
 
 <p><span class="chinese">12我已经打发推基古往以弗所去。</span><span class="english">I sent Tychicus to Ephesus.</span></p>

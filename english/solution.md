@@ -1,5 +1,7 @@
 # solution 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solution.md)
+
 <p><span class="chinese">解决现金流问题。</span><span class="english">Cashflow Solution.</span></p>
 
 <p><span class="chinese">输输的解决方案。</span><span class="english">Lose lose solution.</span></p>

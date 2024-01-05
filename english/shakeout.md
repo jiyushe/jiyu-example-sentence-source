@@ -1,5 +1,7 @@
 # shakeout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shakeout.md)
+
 <p><span class="chinese">标准之下的失败者和获胜者</span><span class="english">Winners and Losers from a Standards Shakeout</span></p>
 
 <p><span class="chinese">在这段小小的崩跌过程中，我输掉了约三分之一的仓位。</span><span class="english">I lost some one third of my position on that little shakeout.</span></p>

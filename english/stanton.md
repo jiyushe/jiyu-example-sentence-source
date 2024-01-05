@@ -1,5 +1,7 @@
 # stanton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stanton.md)
+
 <p><span class="chinese">我很爱她。你觉得奇利斯·斯坦顿很优秀吗？</span><span class="english">I love her. Do you think Chiles Stanton is pretty?</span></p>
 
 <p><span class="chinese">伊丽莎白凯迪斯坦顿和她的女儿哈里奥特。</span><span class="english">Elizabeth Cady Stanton and her daughter, Harriot, 1856.</span></p>

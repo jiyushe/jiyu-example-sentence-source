@@ -1,5 +1,7 @@
 # 献金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianjin_1.md)
+
 <p><span class="chinese">献金应放进奉献箱里。</span><span class="english">Money should be put in the offertory box.</span></p>
 
 <p><span class="chinese">但是这只是对对外献金作评价。</span><span class="english">But the work only assesses external funding.</span></p>

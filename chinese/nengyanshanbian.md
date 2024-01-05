@@ -1,5 +1,7 @@
 # 能言善辩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nengyanshanbian.md)
+
 <p><span class="chinese">许多人认为政客必须要能言善辩。</span><span class="english">Many believe that a politician has to be silver-tongued.</span></p>
 
 <p><span class="chinese">他们两位都很年轻，能言善辩，都是毕业于哈佛大学的进步主义者。</span><span class="english">Both were young, articulate, Harvard-educated progressives.</span></p>

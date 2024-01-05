@@ -1,5 +1,7 @@
 # sainthood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sainthood.md)
+
 <p><span class="chinese">封圣——最后宣告为圣徒，需要更多奇迹。</span><span class="english">Canonization, the final declaration of sainthood , requires at least one more.</span></p>
 
 <p><span class="chinese">因此，天主教关于圣徒身份的辩论既是文化上的辩论又是政治上的辩论。</span><span class="english">The debate in the Church about sainthood is thus just as much cultural as political.</span></p>

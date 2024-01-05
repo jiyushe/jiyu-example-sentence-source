@@ -1,5 +1,7 @@
 # jasper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jasper.md)
+
 <p><span class="chinese">“对不起，”贾斯帕喃喃低语。</span><span class="english">“Sorry, ” Jasper muttered.</span></p>
 
 <p><span class="chinese">爱丽丝，贾斯帕——你们开那辆黑色的梅赛德斯。</span><span class="english">Alice, Jasper — take the Mercedes.</span></p>

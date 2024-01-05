@@ -1,5 +1,7 @@
 # 强横
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangheng.md)
+
 <p><span class="chinese">突然，一道强横的光芒直刺入我的眼睛。</span><span class="english">Suddenly, a strong light cut into my eyes.</span></p>
 
 <p><span class="chinese">亮光不照恶人、强横的膀臂也必折断。</span><span class="english">The wicked are denied their light, and their upraised arm is broken.</span></p>

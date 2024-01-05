@@ -1,5 +1,7 @@
 # 称许
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengxu_1.md)
+
 <p><span class="chinese">他的工作博得广大群众的称许。</span><span class="english">His work won the praise of the broad masses.</span></p>
 
 <p><span class="chinese">有人称许这段经文，是「保罗所写的一段最深刻有力的伟大宣言」。</span><span class="english">It has been called the 'greatest, strongest, deepest words Paul ever wrote'.</span></p>

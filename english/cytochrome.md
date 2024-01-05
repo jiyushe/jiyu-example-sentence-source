@@ -1,5 +1,7 @@
 # cytochrome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cytochrome.md)
+
 <p><span class="chinese">细胞色素P450酶是自然界中最万能的生物酶之一。</span><span class="english">Cytochrome P450 is one of the most versatile enzymes in nature.</span></p>
 
 <p><span class="chinese">中国汉族人群细胞色素氧化酶CYP2C19表型存在多态性。</span><span class="english">The Han nationality have the genotype polymorphism of cytochrome CYP2C19.</span></p>

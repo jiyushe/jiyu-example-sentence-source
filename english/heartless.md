@@ -1,5 +1,7 @@
 # heartless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heartless.md)
+
 <p><span class="chinese">是的，我没心。</span><span class="english">Yes I am heartless.</span></p>
 
 <p><span class="chinese">他是个寡情薄义的人。</span><span class="english">He is a heartless man.</span></p>

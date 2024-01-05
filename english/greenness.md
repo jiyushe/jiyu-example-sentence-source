@@ -1,5 +1,7 @@
 # greenness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/greenness.md)
+
 <p><span class="chinese">绿色内脏。</span><span class="english">Entrails of greenness.</span></p>
 
 <p><span class="chinese">一团不断扩展、不断加深的绿色</span><span class="english">A widening deepening greenness</span></p>

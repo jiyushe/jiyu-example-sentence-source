@@ -1,5 +1,7 @@
 # 一刀两断
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yidaoliangduan.md)
+
 <p><span class="chinese">我跟庞家一刀两断了。</span><span class="english">I've finished with the Pangs.</span></p>
 
 <p><span class="chinese">你最好与他一刀两断。</span><span class="english">You'd better break off with him.</span></p>

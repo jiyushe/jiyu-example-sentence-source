@@ -1,5 +1,7 @@
 # sphinx
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sphinx.md)
+
 <p><span class="chinese">俄狄浦斯上遇到了狮身人面像悬崖。</span><span class="english">Oedipus met Sphinx on a cliff.</span></p>
 
 <p><span class="chinese">斯芬尼克斯给俄狄浦斯线索了吗?。</span><span class="english">Did the Sphinx give Oedipus a clue?</span></p>

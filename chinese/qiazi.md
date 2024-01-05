@@ -1,5 +1,7 @@
 # 卡子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiazi.md)
+
 <p><span class="chinese">这个箱子的盖子非常沉重，上面有一把锋利的大铁卡子。</span><span class="english">The chest had a large heavy lid with a large sharp iron lock.</span></p>
 
 <p><span class="chinese">介绍了固定卡子零件的多工位连续模的设计。</span><span class="english">The design of a multi-station progressive die of fixed clamp has been presented.</span></p>

@@ -1,5 +1,7 @@
 # 打草惊蛇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dacaojingshe.md)
+
 <p><span class="chinese">切莫打草惊蛇。</span><span class="english">A snake in the grass.</span></p>
 
 <p><span class="chinese">我知道如何不打草惊蛇。</span><span class="english">I know how to be invisible.</span></p>

@@ -1,5 +1,7 @@
 # despondency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/despondency.md)
+
 <p><span class="chinese">沮丧失望情绪的散布者。</span><span class="english">A pedlar of gloom and despondency.</span></p>
 
 <p><span class="chinese">此刻他就沉浸在怅惘之中。</span><span class="english">Now he bathed himself in despondency.</span></p>

@@ -1,5 +1,7 @@
 # forebear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forebear.md)
+
 <p><span class="chinese">他是一个老好人，善于克制自我、隐忍无奈。</span><span class="english">He was a good man , but always forebear his wrath and complaint.</span></p>
 
 <p><span class="chinese">它比它的先祖75要大多了，或许可以说它是75的超大版本。</span><span class="english">It's much larger than its 75 forebear . Perhaps it could be the 75 OS.</span></p>

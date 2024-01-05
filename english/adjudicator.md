@@ -1,5 +1,7 @@
 # adjudicator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adjudicator.md)
+
 <p><span class="chinese">判决者必须在双方当事人中做公正的裁决。</span><span class="english">The adjudicator has to decide impartially between the two parties.</span></p>
 
 <p><span class="chinese">大会不设上诉，以总裁判的最终判决为准。</span><span class="english">No appeals will be accepted. The decision of the Chief Adjudicator shall be final.</span></p>

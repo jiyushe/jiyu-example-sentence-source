@@ -1,5 +1,7 @@
 # 被服
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beifu_1.md)
+
 <p><span class="chinese">不如饮美酒，被服纨与素。</span><span class="english">As the wine, Wan and clothing.</span></p>
 
 <p><span class="chinese">当我们今天洗脚时，让我们被服事的爱来洗涤。</span><span class="english">So as we wash feet today, let us be "washed" by the Lord's attitude of loving service.</span></p>

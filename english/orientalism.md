@@ -1,5 +1,7 @@
 # orientalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orientalism.md)
+
 <p><span class="chinese">近来，东方学的名声很糟糕。</span><span class="english">These days Orientalism has a bad name.</span></p>
 
 <p><span class="chinese">语言学是东方主义的一个溺子。</span><span class="english">Linguistics is a spoiled son of the Orientalism.</span></p>

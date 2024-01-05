@@ -1,5 +1,7 @@
 # 遥远
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoyuan_1.md)
+
 <p><span class="chinese">我来自遥远彼方。</span><span class="english">I came from very far.</span></p>
 
 <p><span class="chinese">俄国如此遥远</span><span class="english">Russia was that far away.</span></p>

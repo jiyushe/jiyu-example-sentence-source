@@ -1,5 +1,7 @@
 # 防患于未然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanghuanyuweiran.md)
+
 <p><span class="chinese">只有经常的清洁才能防患于未然。</span><span class="english">Opt for frequent cleanings to nip tarnish in the bud.</span></p>
 
 <p><span class="chinese">关于这批运输货品，我们最好防患于未然。</span><span class="english">E. g. Regarding this shipment, we'd better stem the tide.</span></p>

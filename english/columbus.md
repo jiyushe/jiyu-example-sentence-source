@@ -1,5 +1,7 @@
 # columbus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/columbus.md)
+
 <p><span class="chinese">为什么会有哥伦布日？</span><span class="english">So Why Columbus Day?</span></p>
 
 <p><span class="chinese">何时是哥伦布日?。</span><span class="english">When is Columbus Day?</span></p>

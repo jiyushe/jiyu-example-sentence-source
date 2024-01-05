@@ -1,5 +1,7 @@
 # disposed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disposed.md)
+
 <p><span class="chinese">垃圾处置是否合适？</span><span class="english">Is rubbish disposed of properly?</span></p>
 
 <p><span class="chinese">他将自己的钱用于慈善事业。</span><span class="english">He disposed his money in charity.</span></p>

@@ -1,5 +1,7 @@
 # spongiform
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spongiform.md)
+
 <p><span class="chinese">目的了解海洛因海绵状白质脑病的病理特征。</span><span class="english">Objective To investigate the pathological characteristics of heroin spongiform leukoencephalopathy.</span></p>
 
 <p><span class="chinese">结论空洞内丝状、絮状、海绵状影为本病CT特征性表现。</span><span class="english">Conclusion Pulmonary filamentous flocculent and spongiform image in the cavity is the CT features of CNPA.</span></p>

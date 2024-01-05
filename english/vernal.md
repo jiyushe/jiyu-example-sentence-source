@@ -1,5 +1,7 @@
 # vernal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vernal.md)
+
 <p><span class="chinese">吱喳鸣叫着她春天的歌。</span><span class="english">The linnet chirps her vernal song.</span></p>
 
 <p><span class="chinese">让郁金香相信春天的绵绵细雨</span><span class="english">Let tulips trust not the warm vernal rain</span></p>

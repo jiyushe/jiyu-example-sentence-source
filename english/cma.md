@@ -1,5 +1,7 @@
 # cma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cma.md)
+
 <p><span class="chinese">欢迎参加凯德商用在线学院课程问卷调查。</span><span class="english">Welcome to CMA E-campus Course Evaluation Survey.</span></p>
 
 <p><span class="chinese">第四十四奖颁发中国气象局去年十一月在田纳西州纳什维尔。</span><span class="english">The forty-fourth CMA Awards were presented last November in Nashville, Tennessee.</span></p>

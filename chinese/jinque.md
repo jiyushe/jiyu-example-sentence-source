@@ -1,5 +1,7 @@
 # 紧缺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinque.md)
+
 <p><span class="chinese">本科毕业生也不在是紧缺资源。</span><span class="english">College graduates are not in short supply.</span></p>
 
 <p><span class="chinese">丙酸是目前国内十分紧缺的一种产品。</span><span class="english">Propionic acid is product heavily short of in our country.</span></p>

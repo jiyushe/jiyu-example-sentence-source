@@ -1,5 +1,7 @@
 # 南朝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanchao.md)
+
 <p><span class="chinese">南朝，鸡首型青釉茶壶。</span><span class="english">Southern Dynasties, blue-glaze teapot with a chicken head.</span></p>
 
 <p><span class="chinese">范晔所处的南朝时代，政权更迭频繁。</span><span class="english">In FanYe's time-South Dynasties , regime alternated frequently.</span></p>

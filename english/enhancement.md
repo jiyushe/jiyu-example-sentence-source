@@ -1,5 +1,7 @@
 # enhancement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enhancement.md)
+
 <p><span class="chinese">这将是一个很好的增强功能。</span><span class="english">This would be a nice enhancement.</span></p>
 
 <p><span class="chinese">我们不认为增强萨满需要AE。</span><span class="english">We're not convinced Enhancement needs AE.</span></p>

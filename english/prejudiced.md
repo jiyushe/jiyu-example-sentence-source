@@ -1,5 +1,7 @@
 # prejudiced
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prejudiced.md)
+
 <p><span class="chinese">是什么使你对现代音乐抱有成见?。</span><span class="english">What has prejudiced you against modern music?</span></p>
 
 <p><span class="chinese">她姿色迷人，因而评委都偏向她。</span><span class="english">Her charm prejudiced the judges in her favour.</span></p>

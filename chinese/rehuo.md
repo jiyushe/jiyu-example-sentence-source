@@ -1,5 +1,7 @@
 # 惹祸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rehuo.md)
+
 <p><span class="chinese">送礼不当可能会使你惹祸上身。</span><span class="english">Giving certain gifts could get you in trouble.</span></p>
 
 <p><span class="chinese">惹祸的招子，怕别想要了。</span><span class="english">Bring misfortune of recruit son, terrified don't want.</span></p>

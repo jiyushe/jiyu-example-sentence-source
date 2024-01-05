@@ -1,5 +1,7 @@
 # vox
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vox.md)
+
 <p><span class="chinese">Vox是每个中国乐队巡演的必经之地。</span><span class="english">Vox is a must-stop for every Chinese touring band.</span></p>
 
 <p><span class="chinese">看看方程，很简单，就是。</span><span class="english">That is that equation, vox that is simply v zero x.</span></p>

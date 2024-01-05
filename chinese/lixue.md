@@ -1,5 +1,7 @@
 # 力学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lixue.md)
+
 <p><span class="chinese">哦，我得到了波动力学。</span><span class="english">Oh, I got wave mechanics.</span></p>
 
 <p><span class="chinese">听力学与神经耳科学。</span><span class="english">Audiology and Neuro-Otology.</span></p>

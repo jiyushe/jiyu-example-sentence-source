@@ -1,5 +1,7 @@
 # 住院
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuyuan.md)
+
 <p><span class="chinese">我必须要住院吗？</span><span class="english">Should I be hospitalize?</span></p>
 
 <p><span class="chinese">住院医期间没有胜者或败者。</span><span class="english">There are no winners or losers.</span></p>

@@ -1,5 +1,7 @@
 # 天命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianming.md)
+
 <p><span class="chinese">我正在控制天命。</span><span class="english">I am manipulating destiny.</span></p>
 
 <p><span class="chinese">事业方向上的转变说来也是一种天命。</span><span class="english">The change in direction was kismet.</span></p>

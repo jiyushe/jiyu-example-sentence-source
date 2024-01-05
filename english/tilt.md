@@ -1,5 +1,7 @@
 # tilt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tilt.md)
+
 <p><span class="chinese">他和我撞了个满怀。</span><span class="english">He ran full tilt into me.</span></p>
 
 <p><span class="chinese">胯部稍向前顷斜并维持住。</span><span class="english">Tilt your hips forward and hold.</span></p>

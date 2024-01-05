@@ -1,5 +1,7 @@
 # 女伴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nvban.md)
+
 <p><span class="chinese">不带女伴的男人在海湾是危险的敌人。</span><span class="english">A stag at bay is a dangerous foe.</span></p>
 
 <p><span class="chinese">瑙西卡和她的女伴们在玩球。</span><span class="english">Nausikaa and her maids play ball.</span></p>

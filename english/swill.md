@@ -1,5 +1,7 @@
 # swill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swill.md)
+
 <p><span class="chinese">好好冲洗水桶。</span><span class="english">Give the pail a good swill.</span></p>
 
 <p><span class="chinese">否则汝必后悔！</span><span class="english">Otherwise, you swill regret.</span></p>

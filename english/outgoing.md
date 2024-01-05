@@ -1,5 +1,7 @@
 # outgoing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outgoing.md)
+
 <p><span class="chinese">欢欢是即将离任和热情。</span><span class="english">Huanhuan is outgoing and enthusiastic.</span></p>
 
 <p><span class="chinese">我是一个活泼开朗，乐于助人的女孩。</span><span class="english">I'm an outgoing and kind-hearted girl.</span></p>

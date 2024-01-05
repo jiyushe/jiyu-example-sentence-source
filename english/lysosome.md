@@ -1,5 +1,7 @@
 # lysosome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lysosome.md)
+
 <p><span class="chinese">正常溶酶体的酶为某些组织所外排。</span><span class="english">Enzymes from normal lysosome are exocytosed by some tissues.</span></p>
 
 <p><span class="chinese">肾小管微绒毛脱落，细胞内溶酶体增多。</span><span class="english">The lysosome in renal tubular epithelial cell was increased.</span></p>

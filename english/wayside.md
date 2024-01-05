@@ -1,5 +1,7 @@
 # wayside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wayside.md)
+
 <p><span class="chinese">路边的蝴蝶花。</span><span class="english">The voice of wayside pansies.</span></p>
 
 <p><span class="chinese">可以种植于庭园或路旁。</span><span class="english">Can cultivate at curtilage or wayside.</span></p>

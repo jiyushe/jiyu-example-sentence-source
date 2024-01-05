@@ -1,5 +1,7 @@
 # 夜来香
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yelaixiang.md)
+
 <p><span class="chinese">让我们嗅到了夜来香吐露的芬芳？</span><span class="english">Let us smell the fragrance of Tuberose reveal?</span></p>
 
 <p><span class="chinese">说起夜来香，我还有一个小小的美好的回忆，闹出了笑话。</span><span class="english">Speaking of Tuberose, I have fond memories of a small, sudden, a joke.</span></p>

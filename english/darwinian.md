@@ -1,5 +1,7 @@
 # darwinian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/darwinian.md)
+
 <p><span class="chinese">一旦推崇达尔文主义进化论，它会大放异彩。</span><span class="english">Once you light Darwinian evolution, it takes off.</span></p>
 
 <p><span class="chinese">他在乎的只是宏大的达尔文式的思想竞赛。</span><span class="english">What moves him is the grand Darwinian competition among ideas.</span></p>

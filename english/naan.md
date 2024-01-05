@@ -1,5 +1,7 @@
 # naan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/naan.md)
+
 <p><span class="chinese">印度烤饼基本上是来自?。</span><span class="english">Naan is typically from?</span></p>
 
 <p><span class="chinese">这就是馕面包，已经做好了，请尝尝。</span><span class="english">And this naan bread. This thing’s ready t go.</span></p>

@@ -1,5 +1,7 @@
 # kilogram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kilogram.md)
+
 <p><span class="chinese">你能增加一公斤吗？</span><span class="english">Can you add one kilogram now?</span></p>
 
 <p><span class="chinese">鸡蛋按仟剋诎售。</span><span class="english">Eggs are sold by the kilogram.</span></p>

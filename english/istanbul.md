@@ -1,5 +1,7 @@
 # istanbul
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/istanbul.md)
+
 <p><span class="chinese">夏天我去了土耳其的伊斯坦堡。</span><span class="english">I went to Istanbul , Turkey this summer.</span></p>
 
 <p><span class="chinese">起初我祖母从伊斯坦布尔给他寄钱。</span><span class="english">At first, my grandmother sent him money from Istanbul.</span></p>

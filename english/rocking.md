@@ -1,5 +1,7 @@
 # rocking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rocking.md)
+
 <p><span class="chinese">它在那正在暗下去的芦苇丛中摇晃不已。</span><span class="english">Rocking in darkening reeds.</span></p>
 
 <p><span class="chinese">烦恼就像一把摇椅。</span><span class="english">Worry is like a rocking chair.</span></p>

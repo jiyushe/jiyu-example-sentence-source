@@ -1,5 +1,7 @@
 # focus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/focus.md)
+
 <p><span class="chinese">找到你的焦点。</span><span class="english">Find your focus.</span></p>
 
 <p><span class="chinese">找一个新的聚焦点。</span><span class="english">Get a new focus.</span></p>

@@ -1,5 +1,7 @@
 # superheavy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superheavy.md)
+
 <p><span class="chinese">这种超重元素通常是具有非常强的放射性，并且几乎立即会发生衰变。</span><span class="english">Such superheavy elements are usually very radioactive and decay away almost instantly.</span></p>
 
 <p><span class="chinese">然而，理论预测生命周期仅有几分钟的超重同位素可以制造出来。</span><span class="english">Theory predicts, however, that superheavy isotopes with lifetimes of minutes can be made.</span></p>

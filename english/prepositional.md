@@ -1,5 +1,7 @@
 # prepositional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prepositional.md)
+
 <p><span class="chinese">你们有注意到前置词结尾吗？</span><span class="english">Did you catch the prepositional ending?</span></p>
 
 <p><span class="chinese">这个介词短语的作用是什么？</span><span class="english">What is the function of the prepositional phrase?</span></p>

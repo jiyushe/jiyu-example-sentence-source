@@ -1,5 +1,7 @@
 # 泡影
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paoying.md)
+
 <p><span class="chinese">他的企图成了泡影。</span><span class="english">He failed in his attempt.</span></p>
 
 <p><span class="chinese">这场战争使他所有的希望都化成了泡影。</span><span class="english">The war cut off all his hopes.</span></p>

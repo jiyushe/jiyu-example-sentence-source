@@ -1,5 +1,7 @@
 # 混为一谈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hunweiyitan.md)
+
 <p><span class="chinese">我不想把工作和约会混为一谈。</span><span class="english">I don't mix work and dating.</span></p>
 
 <p><span class="chinese">别将事实与虚构混为一谈。</span><span class="english">Don't braid fact with fiction.</span></p>

@@ -1,5 +1,7 @@
 # county
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/county.md)
+
 <p><span class="chinese">我们那儿是个小县份。</span><span class="english">Ours is a small county.</span></p>
 
 <p><span class="chinese">在弗里蒙特的那座？</span><span class="english">Over in Fremont County?</span></p>

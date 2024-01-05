@@ -1,5 +1,7 @@
 # 顺理成章
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shunlichengzhang.md)
+
 <p><span class="chinese">这显然是顺理成章的。</span><span class="english">This is undoubtedly logical.</span></p>
 
 <p><span class="chinese">顺理成章，灵魂无法被分裂。</span><span class="english">It would follow,then,that souls can't split.</span></p>

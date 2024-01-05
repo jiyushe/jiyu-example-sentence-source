@@ -1,5 +1,7 @@
 # salute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salute.md)
+
 <p><span class="chinese">叛军们，我向你们敬礼。</span><span class="english">I salute you, rebels.</span></p>
 
 <p><span class="chinese">他利索地敬了一个礼。</span><span class="english">He gave a smart salute.</span></p>

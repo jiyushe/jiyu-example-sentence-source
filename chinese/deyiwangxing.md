@@ -1,5 +1,7 @@
 # 得意忘形
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/deyiwangxing.md)
+
 <p><span class="chinese">不要得意忘形。</span><span class="english">Don't get carried away.</span></p>
 
 <p><span class="chinese">当我们赢得了比赛，我们高兴的得意忘形。</span><span class="english">We were carried away when we won the game.</span></p>

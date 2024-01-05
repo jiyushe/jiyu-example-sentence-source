@@ -1,5 +1,7 @@
 # ticklish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ticklish.md)
+
 <p><span class="chinese">你知道我怕痒。</span><span class="english">You know I'm ticklish.</span></p>
 
 <p><span class="chinese">我的脚很怕痒。</span><span class="english">My feet are very ticklish.</span></p>

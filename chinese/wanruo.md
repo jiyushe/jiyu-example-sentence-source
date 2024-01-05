@@ -1,5 +1,7 @@
 # 宛若
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanruo.md)
+
 <p><span class="chinese">宛若朔风冲着云雾。</span><span class="english">As the north wind to the clouds.</span></p>
 
 <p><span class="chinese">今天他将死去，宛若那玫瑰凋零。</span><span class="english">Today he will die, as roses die.</span></p>

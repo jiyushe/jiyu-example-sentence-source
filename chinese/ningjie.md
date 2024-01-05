@@ -1,5 +1,7 @@
 # 凝结
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ningjie.md)
+
 <p><span class="chinese">霜于沙凝结。</span><span class="english">Frost binds sand.</span></p>
 
 <p><span class="chinese">肉冻凝结起来了。</span><span class="english">The jelly has set.</span></p>

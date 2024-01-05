@@ -1,5 +1,7 @@
 # 趾高气扬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhigaoqiyang.md)
+
 <p><span class="chinese">他因骄傲而趾高气扬。</span><span class="english">He is puffed up with pride.</span></p>
 
 <p><span class="chinese">他的父亲趾高气扬在草地上来回地走。？</span><span class="english">His father was peacocking about on the lawn.</span></p>

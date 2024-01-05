@@ -1,5 +1,7 @@
 # madeira
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/madeira.md)
+
 <p><span class="chinese">蘑菇和红葡萄酒或马德拉白葡萄酒做成的褐色沙司。</span><span class="english">Brown sauce with mushrooms and red wine or madeira.</span></p>
 
 <p><span class="chinese">在炖李子时我常加些马德拉葡萄酒在汤里。</span><span class="english">I always add a little Madeira to the liquid when I stew prunes.</span></p>

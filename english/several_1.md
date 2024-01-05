@@ -1,5 +1,7 @@
 # several 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/several_1.md)
+
 <p><span class="chinese">我们有几部汽车。</span><span class="english">We own several cars.</span></p>
 
 <p><span class="chinese">我们这有好几位姓张的。</span><span class="english">We have several Zhangs.</span></p>

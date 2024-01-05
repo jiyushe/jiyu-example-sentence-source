@@ -1,5 +1,7 @@
 # coeducation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coeducation.md)
+
 <p><span class="chinese">男女同校的现象在北美非常普遍。</span><span class="english">Coeducation is very common in North America.</span></p>
 
 <p><span class="chinese">总而言之，男女合班利多于弊。</span><span class="english">To sum up, coeducation does more good than harm.</span></p>

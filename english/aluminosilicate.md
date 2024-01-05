@@ -1,5 +1,7 @@
 # aluminosilicate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aluminosilicate.md)
+
 <p><span class="chinese">无碱铝硅酸盐玻璃是一种应用范围较广的特种玻璃。</span><span class="english">Alkali-free aluminosilicate glass is a kind of special glass used in many fields.</span></p>
 
 <p><span class="chinese">研究了熔制温度对铋离子掺杂钡铝硅酸盐玻璃发光性能的影响。</span><span class="english">Bismuth-doped barium aluminosilicate glasses were prepared at various melting temperatures.</span></p>

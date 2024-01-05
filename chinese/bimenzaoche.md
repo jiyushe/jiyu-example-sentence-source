@@ -1,5 +1,7 @@
 # 闭门造车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bimenzaoche.md)
+
 <p><span class="chinese">旧式的品牌管理就是上令下行、闭门造车、办公室政治加上编造预算。</span><span class="english">Brand management was top down, internally focused, political and money based.</span></p>
 
 <p><span class="chinese">做各种规划或计划，是绝不可以坐在家里凭空想像、闭门造车的。</span><span class="english">A variety of planning or plan to do is sit at home must not be imagined, behind closed doors.</span></p>

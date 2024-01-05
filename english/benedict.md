@@ -1,5 +1,7 @@
 # benedict
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/benedict.md)
+
 <p><span class="chinese">圣本笃教堂，室内。</span><span class="english">St. Benedict Chapel, Interior.</span></p>
 
 <p><span class="chinese">他们推选了一个新的教皇，本笃十六世。</span><span class="english">They chose a new pope, Benedict XVI.</span></p>

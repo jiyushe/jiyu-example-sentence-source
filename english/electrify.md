@@ -1,5 +1,7 @@
 # electrify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electrify.md)
+
 <p><span class="chinese">他需要钱把他的地面铁路电气化。</span><span class="english">He needs money to electrify his surface lines.</span></p>
 
 <p><span class="chinese">电气化交通业，重造我们的电网</span><span class="english">Electrify transportation and re-invent our electric grid</span></p>

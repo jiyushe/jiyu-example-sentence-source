@@ -1,5 +1,7 @@
 # biometrics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biometrics.md)
+
 <p><span class="chinese">各种基于生物特征的非接触式识别技术应运而生。</span><span class="english">Therefore, all kinds of non-contact biometrics based on biometrics have emerged.</span></p>
 
 <p><span class="chinese">克拉姆瓦森表示，迄今为止，语音生物测定的应用规模较小。</span><span class="english">So far, voice biometrics implementations have been small scale, says Mr Cramoyson.</span></p>

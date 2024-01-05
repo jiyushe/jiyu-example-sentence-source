@@ -1,5 +1,7 @@
 # telephone 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/telephone.md)
+
 <p><span class="chinese">我的电话？</span><span class="english">My telephone?</span></p>
 
 <p><span class="chinese">我能用一下电话吗？我姓沈。</span><span class="english">May I use the telephone?</span></p>

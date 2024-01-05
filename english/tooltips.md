@@ -1,5 +1,7 @@
 # tooltips
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tooltips.md)
+
 <p><span class="chinese">为了进行对比，测试页面还提供一些内置的工具提示。</span><span class="english">For comparison, your test page will also illustrate some built-in tooltips.</span></p>
 
 <p><span class="chinese">而且，这些更为精致的工具提示的所有参数都是可配置的。</span><span class="english">And, all of the parameters of these more elaborate tooltips are configurable.</span></p>

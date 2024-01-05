@@ -1,5 +1,7 @@
 # 俨如
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanru.md)
+
 <p><span class="chinese">我觉得自己俨如一个国王。</span><span class="english">I felt like a king.</span></p>
 
 <p><span class="chinese">他在办公室里俨如一个专制暴君。</span><span class="english">He is a high-handed tyrant in his office.</span></p>

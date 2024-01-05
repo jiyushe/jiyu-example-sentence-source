@@ -1,5 +1,7 @@
 # reconcilable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reconcilable.md)
+
 <p><span class="chinese">约翰和玛丽有希和解吗？</span><span class="english">Are John and Mary reconcilable?</span></p>
 
 <p><span class="chinese">一种不可调和的分离，每天比对而存。</span><span class="english">A separation not reconcilable is in opposite existence every day.</span></p>

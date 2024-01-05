@@ -1,5 +1,7 @@
 # pulp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pulp.md)
+
 <p><span class="chinese">机械木浆。</span><span class="english">Mechanical wood pulp.</span></p>
 
 <p><span class="chinese">牙髓被感染。</span><span class="english">The pulp becomes infected.</span></p>

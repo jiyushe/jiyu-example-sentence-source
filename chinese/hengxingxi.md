@@ -1,5 +1,7 @@
 # 恒星系
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hengxingxi.md)
+
 <p><span class="chinese">游戏包括16个恒星系，你可以驾驶4种不同的飞船。</span><span class="english">There are 16 star systems, and you get to fly 4 ships.</span></p>
 
 <p><span class="chinese">在空间站中或者团队中的时候恒星系星图调用将不再会失败。</span><span class="english">System map no longer fails to load while docked and in a gang.</span></p>

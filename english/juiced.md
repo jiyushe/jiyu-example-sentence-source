@@ -1,5 +1,7 @@
 # juiced
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/juiced.md)
+
 <p><span class="chinese">她用一直橙子榨汁作为早餐饮料。</span><span class="english">She juiced an orange for breakfast.</span></p>
 
 <p><span class="chinese">我稍稍捏了一只柠檬，柠檬汁自然而然地就滴下。</span><span class="english">I put the squeeze on a lemon and it soon juiced.</span></p>

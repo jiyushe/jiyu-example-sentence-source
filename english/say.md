@@ -1,5 +1,7 @@
 # say
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/say.md)
+
 <p><span class="chinese">我说全是！</span><span class="english">I say all!</span></p>
 
 <p><span class="chinese">说“啊”。</span><span class="english">Say “ahhh.”</span></p>

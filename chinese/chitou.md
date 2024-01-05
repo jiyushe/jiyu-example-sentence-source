@@ -1,5 +1,7 @@
 # 吃透
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chitou.md)
+
 <p><span class="chinese">中国以惊人的速度吃透了资本主义。</span><span class="english">China has learned capitalism at a staggering rate.</span></p>
 
 <p><span class="chinese">在资料现身的第一时间吃透他！</span><span class="english">Learn material the very first time it's presented.</span></p>

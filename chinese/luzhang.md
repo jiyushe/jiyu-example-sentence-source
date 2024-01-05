@@ -1,5 +1,7 @@
 # 路障
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luzhang.md)
+
 <p><span class="chinese">也被称为鱼梁，与路障。</span><span class="english">Also called weir, and barricade.</span></p>
 
 <p><span class="chinese">他们得绕过路障。</span><span class="english">They had to detour a road-block.</span></p>

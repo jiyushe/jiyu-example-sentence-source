@@ -1,5 +1,7 @@
 # synchronously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synchronously.md)
+
 <p><span class="chinese">五轴可同步或单步运作。</span><span class="english">The five axis can work single-step or synchronously.</span></p>
 
 <p><span class="chinese">它既可以同步完成，也可以异步完成。</span><span class="english">It can do this either synchronously or asynchronously.</span></p>

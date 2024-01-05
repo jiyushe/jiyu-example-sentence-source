@@ -1,5 +1,7 @@
 # 剔除
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tichu.md)
+
 <p><span class="chinese">剔除他它们</span><span class="english">Delete those.</span></p>
 
 <p><span class="chinese">你必须剔除朽木。</span><span class="english">You must remove the deadwood.</span></p>

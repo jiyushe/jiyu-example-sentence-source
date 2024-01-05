@@ -1,5 +1,7 @@
 # 避暑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bishu.md)
+
 <p><span class="chinese">我们在克什米尔避暑。</span><span class="english">We summered in Kashmir.</span></p>
 
 <p><span class="chinese">他们在海浜避暑。</span><span class="english">They summer at the seashore.</span></p>

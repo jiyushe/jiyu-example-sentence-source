@@ -1,5 +1,7 @@
 # endotoxin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endotoxin.md)
+
 <p><span class="chinese">较主要的热原是内毒素。</span><span class="english">The main source of pyrogens is endotoxin.</span></p>
 
 <p><span class="chinese">内毒素测定采用鲎试验偶氮基质显色法。</span><span class="english">Serum endotoxin was determined by limulus ameobatic chromogenic assay.</span></p>

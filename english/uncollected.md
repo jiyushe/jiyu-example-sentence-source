@@ -1,5 +1,7 @@
 # uncollected
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncollected.md)
+
 <p><span class="chinese">未收的垃圾在市区街道上越积越多。</span><span class="english">The uncollected garbage mounts in city streets.</span></p>
 
 <p><span class="chinese">改完的服装过3个月不取将被销毁。</span><span class="english">Goods uncollected after 3 months will be destroyed.</span></p>

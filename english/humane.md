@@ -1,5 +1,7 @@
 # humane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humane.md)
+
 <p><span class="chinese">现代人文精神应当怎样？</span><span class="english">How should be modern humane spirit?</span></p>
 
 <p><span class="chinese">或许最人道的方式是对它安乐死。</span><span class="english">The most humane thing to do was euthanasia.</span></p>

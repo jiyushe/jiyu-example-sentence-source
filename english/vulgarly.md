@@ -1,5 +1,7 @@
 # vulgarly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vulgarly.md)
+
 <p><span class="chinese">这是头上簪菊的变俗。</span><span class="english">This is on hairpin chrysanthemum changes vulgarly.</span></p>
 
 <p><span class="chinese">而在人类社会中，人们普遍称拥有此特征的人为侏儒。</span><span class="english">In people the condition is known vulgarly as dwarfism.</span></p>

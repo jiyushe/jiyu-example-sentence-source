@@ -1,5 +1,7 @@
 # 小儿麻痹症
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoermabizheng.md)
+
 <p><span class="chinese">为什么根除小儿麻痹症如此重要？</span><span class="english">Why is it so important to end polio?</span></p>
 
 <p><span class="chinese">他在两岁半的时候患了小儿麻痹症。</span><span class="english">He had poliomyelitis at two and a half.</span></p>

@@ -1,5 +1,7 @@
 # 世人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiren.md)
+
 <p><span class="chinese">克劳斯津津有味地体验着世人的关注。</span><span class="english">Klaus relishes the attention.</span></p>
 
 <p><span class="chinese">世人对他真是称羡不已。</span><span class="english">He was very much admired indeed.</span></p>

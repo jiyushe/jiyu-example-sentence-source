@@ -1,5 +1,7 @@
 # discontented
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discontented.md)
+
 <p><span class="chinese">也许你对于自己非常不满意。</span><span class="english">You may be very discontented with yourself.</span></p>
 
 <p><span class="chinese">直到你开始不满意之前，什么事都不会发生。</span><span class="english">Nothing happens until you become discontented.</span></p>

@@ -1,5 +1,7 @@
 # cockpit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cockpit.md)
+
 <p><span class="chinese">驾驶舱风挡、窗口加大。</span><span class="english">The windshield of the cockpit is enlarged.</span></p>
 
 <p><span class="chinese">马克一边厉声地说，一边钻进驾驶舱。</span><span class="english">Mark snaps as he climbs back into the cockpit.</span></p>

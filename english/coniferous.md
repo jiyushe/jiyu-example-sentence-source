@@ -1,5 +1,7 @@
 # coniferous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coniferous.md)
+
 <p><span class="chinese">松树和枞树都是结球果的植物。</span><span class="english">The pine and fir are coniferous trees.</span></p>
 
 <p><span class="chinese">西康产六种球果植物之木材解剖。</span><span class="english">Anatomy of six coniferous woods of Sikang.</span></p>

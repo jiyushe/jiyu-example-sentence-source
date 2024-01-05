@@ -1,5 +1,7 @@
 # obscenity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obscenity.md)
+
 <p><span class="chinese">即使是在淫秽这个问题上。</span><span class="english">Even in the case of question about obscenity.</span></p>
 
 <p><span class="chinese">规范淫秽材料的最佳办法是目标清晰。</span><span class="english">The best approach to regulating obscenity is a focused one.</span></p>

@@ -1,5 +1,7 @@
 # jaundiced
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jaundiced.md)
+
 <p><span class="chinese">西方又一个有偏见的观点。</span><span class="english">A jaundiced POV from the biased Occident.</span></p>
 
 <p><span class="chinese">她因为黄疸而难看的面色来了又去。</span><span class="english">Her bad — jaundiced — color comes and goes.</span></p>

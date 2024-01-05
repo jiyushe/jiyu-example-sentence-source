@@ -1,5 +1,7 @@
 # 撤除
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chechu.md)
+
 <p><span class="chinese">眼科大夫从他眼中撤除一个异物。</span><span class="english">The oculist removed a foreign object from his eye.</span></p>
 
 <p><span class="chinese">现在，我已经认识到‘重新部署’并非‘撤除’。</span><span class="english">Now I understand the word 'redeploy' isn't 'remove.</span></p>

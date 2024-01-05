@@ -1,5 +1,7 @@
 # 悔过自新
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huiguozixin.md)
+
 <p><span class="chinese">你问我有没有悔过自新？</span><span class="english">Have I rehabilitated myself, you ask?</span></p>
 
 <p><span class="chinese">难道我们不能悔过自新，渴望重建联盟吗？</span><span class="english">Do not we become penitent and remorseful and crave for reunion?</span></p>

@@ -1,5 +1,7 @@
 # profundity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/profundity.md)
+
 <p><span class="chinese">这正是我们世界的深奥之处。</span><span class="english">This is the profundity of our world.</span></p>
 
 <p><span class="chinese">他缺乏深度和分析的精确性。</span><span class="english">He lacked profundity and analytical precision.</span></p>

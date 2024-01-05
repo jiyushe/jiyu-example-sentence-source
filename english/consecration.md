@@ -1,5 +1,7 @@
 # consecration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consecration.md)
+
 <p><span class="chinese">我们的所作所为其本身是一种神圣的贡献。</span><span class="english">What we did had a consecration of its own.</span></p>
 
 <p><span class="chinese">这里有完全奉献的功课。</span><span class="english">There is the lesson of entire consecration.</span></p>

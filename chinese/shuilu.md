@@ -1,5 +1,7 @@
 # 水路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuilu.md)
+
 <p><span class="chinese">休伦湖作为一条水路。</span><span class="english">Lake Huron as a waterway.</span></p>
 
 <p><span class="chinese">生活水水路无需安全阀，预防漏水。</span><span class="english">No safety valve in D. H. W.</span></p>

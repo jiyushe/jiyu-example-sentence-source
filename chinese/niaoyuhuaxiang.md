@@ -1,5 +1,7 @@
 # 鸟语花香
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niaoyuhuaxiang.md)
+
 <p><span class="chinese">春光明媚，鸟语花香。</span><span class="english">Spring is gay with flower and song.</span></p>
 
 <p><span class="chinese">北部树木幽静，鸟语花香。</span><span class="english">Quiet northern part of trees, flowers.</span></p>

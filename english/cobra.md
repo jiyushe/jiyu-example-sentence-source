@@ -1,5 +1,7 @@
 # cobra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cobra.md)
+
 <p><span class="chinese">吸气，进入眼镜蛇式。</span><span class="english">Inhale into Cobra pose.</span></p>
 
 <p><span class="chinese">那支称为眼镜蛇的乐队真能唱。</span><span class="english">The band called Cobra can really jam.</span></p>

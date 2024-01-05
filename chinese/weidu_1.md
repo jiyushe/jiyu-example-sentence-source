@@ -1,5 +1,7 @@
 # 惟独
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weidu_1.md)
+
 <p><span class="chinese">大家都讨厌我，惟独你不。</span><span class="english">Everybody is down on me except you.</span></p>
 
 <p><span class="chinese">惟独犹大家归从大卫。</span><span class="english">But the house of Judah followed David.</span></p>

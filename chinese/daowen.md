@@ -1,5 +1,7 @@
 # 祷文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daowen.md)
+
 <p><span class="chinese">和李阳一起读巴哈伊祷文。</span><span class="english">Read Bahai prayers with Li Yang.</span></p>
 
 <p><span class="chinese">我试图背诵主祷文。</span><span class="english">I tried to say the lord's prayer.</span></p>

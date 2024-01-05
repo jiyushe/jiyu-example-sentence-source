@@ -1,5 +1,7 @@
 # 例句
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liju.md)
+
 <p><span class="chinese">把我给你们的例句都记下来。</span><span class="english">Take dhave the CASEs I give you.</span></p>
 
 <p><span class="chinese">双语例句今天一个鸡蛋，胜过明天一只小母鸡。</span><span class="english">Better an egg today than a pullet.</span></p>

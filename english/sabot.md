@@ -1,5 +1,7 @@
 # sabot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sabot.md)
+
 <p><span class="chinese">我们在里面挑选做工精致的小木鞋。</span><span class="english">We are inside a small selection of exquisite workmanship sabot.</span></p>
 
 <p><span class="chinese">一对对色彩鲜艳、精致绚丽，象征着甜蜜爱情的木鞋！</span><span class="english">A right color bright, fine gorgeous, is drafting the happy love sabot likely!</span></p>

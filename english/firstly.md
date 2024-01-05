@@ -1,5 +1,7 @@
 # firstly 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/firstly.md)
+
 <p><span class="chinese">我们先称义神。</span><span class="english">We firstly justified God.</span></p>
 
 <p><span class="chinese">首先他说尤文还是那支尤文。</span><span class="english">Firstly he said Juve are still Juve.</span></p>

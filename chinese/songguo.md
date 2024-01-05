@@ -1,5 +1,7 @@
 # 松果
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songguo.md)
+
 <p><span class="chinese">对了，像个大松果。</span><span class="english">Right, it also looks like a pinecone.</span></p>
 
 <p><span class="chinese">松果杖代表着塔罗牌“月亮”。</span><span class="english">Thyrsus epitomize the tarot card of The Moon.</span></p>

@@ -1,5 +1,7 @@
 # 雨幕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yumu_1.md)
+
 <p><span class="chinese">藏身在风雪雨幕之后。</span><span class="english">Hiding from the rain &snow.</span></p>
 
 <p><span class="chinese">我问道，眯着眼透过雨幕看去。</span><span class="english">I asked, squinting through the rain.</span></p>

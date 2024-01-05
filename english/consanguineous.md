@@ -1,5 +1,7 @@
 # consanguineous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consanguineous.md)
+
 <p><span class="chinese">人类最早的家庭形式应是群婚家庭而非血缘家庭。</span><span class="english">Communal marriage is the first form of human family instead of consanguineous family.</span></p>
 
 <p><span class="chinese">日本与中国毗邻，且两国之间经济联系密切。</span><span class="english">Japan abuts China, and the two countries have a consanguineous relationship in economy.</span></p>

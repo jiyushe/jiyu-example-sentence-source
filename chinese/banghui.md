@@ -1,5 +1,7 @@
 # 帮会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banghui.md)
+
 <p><span class="chinese">要求做帮会、反动、黄色图案的。</span><span class="english">asked to do gang reactionary yellow pattern.</span></p>
 
 <p><span class="chinese">他是一个参与帮会犯罪的恶棍。</span><span class="english">‘He’s a gangster involved in organised crime.</span></p>

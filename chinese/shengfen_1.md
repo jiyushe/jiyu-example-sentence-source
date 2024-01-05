@@ -1,5 +1,7 @@
 # 省份
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengfen_1.md)
+
 <p><span class="chinese">辽宁是中国的一个省份。</span><span class="english">Liaoning is one of China's provinces.</span></p>
 
 <p><span class="chinese">它于1905年成为加拿大的一个省份。</span><span class="english">It became a province of Canada in 1905.</span></p>

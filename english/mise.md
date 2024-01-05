@@ -1,5 +1,7 @@
 # mise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mise.md)
+
 <p><span class="chinese">基本的准备工作。</span><span class="english">Mise en place basic preparation.</span></p>
 
 <p><span class="chinese">路易的判决1264年在亚眠公布，被称为“亚眠协定”。</span><span class="english">Louis' judgment was issued at Amiens in January 1264, and was known as the Mise of Amiens.</span></p>

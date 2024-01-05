@@ -1,5 +1,7 @@
 # 岁数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suishu.md)
+
 <p><span class="chinese">脱衣舞女的岁数都大了。</span><span class="english">The strippers were older.</span></p>
 
 <p><span class="chinese">我个头大岁数大，怎么会要输？</span><span class="english">I was bigger, older, yet losing?</span></p>

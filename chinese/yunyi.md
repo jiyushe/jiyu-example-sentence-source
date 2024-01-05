@@ -1,5 +1,7 @@
 # 云翳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunyi.md)
+
 <p><span class="chinese">哦，云翳呀，展开！</span><span class="english">Bring me my spear! O clouds unfold!</span></p>
 
 <p><span class="chinese">其中11例残留角膜云翳。</span><span class="english">However cornea scar was found in 11 cases.</span></p>

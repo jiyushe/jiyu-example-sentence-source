@@ -1,5 +1,7 @@
 # 狐狸精
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hulijing.md)
+
 <p><span class="chinese">中国早期传统中的狐狸精</span><span class="english">Foxes in Early Chinese Tradition ‘4</span></p>
 
 <p><span class="chinese">成功是金，失败是狐狸精。</span><span class="english">Success is gold, failure is a bitch.</span></p>

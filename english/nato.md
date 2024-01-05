@@ -1,5 +1,7 @@
 # nato
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nato.md)
+
 <p><span class="chinese">拉斯姆森在北约峰会上说。</span><span class="english">Rasmussen said at the NATO summit.</span></p>
 
 <p><span class="chinese">难道北约还没有满足他的血腥的欲望吗？</span><span class="english">Hasn't NATO slaked his lust for blood?</span></p>

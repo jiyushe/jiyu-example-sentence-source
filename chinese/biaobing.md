@@ -1,5 +1,7 @@
 # 彪炳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaobing.md)
+
 <p><span class="chinese">它是一首能彪炳若干世纪的佳作。</span><span class="english">It was a poem of centuries.</span></p>
 
 <p><span class="chinese">但是他们不年轻，却是彪炳的男人。</span><span class="english">But they weren't young, dashing men.</span></p>

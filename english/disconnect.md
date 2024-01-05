@@ -1,5 +1,7 @@
 # disconnect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disconnect.md)
+
 <p><span class="chinese">但这里存在一个断开。</span><span class="english">But there is a disconnect.</span></p>
 
 <p><span class="chinese">断开数据库连接。</span><span class="english">Disconnect from the database.</span></p>

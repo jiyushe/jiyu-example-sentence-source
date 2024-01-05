@@ -1,5 +1,7 @@
 # monitory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monitory.md)
+
 <p><span class="chinese">监视高并行批处理作业的步骤如下所示</span><span class="english">The steps for monitory highly parallelized batch jobs are</span></p>
 
 <p><span class="chinese">要熟读法律要做金融上的专家要精通银行的业务和税务。</span><span class="english">Be legally adept be a monitory expert. be competent with taxes and banking.</span></p>

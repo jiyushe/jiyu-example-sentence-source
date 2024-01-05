@@ -1,5 +1,7 @@
 # fallback
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fallback.md)
+
 <p><span class="chinese">先走一步付出一些，在退一步忍让一些。</span><span class="english">A step ahead of pay, in some fallback to be patient.</span></p>
 
 <p><span class="chinese">创造论者的退守策略在法律上的前景如何？</span><span class="english">What are the legal prospects of the creationist fallback strategy?</span></p>

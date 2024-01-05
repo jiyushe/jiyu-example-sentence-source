@@ -1,5 +1,7 @@
 # 食指
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizhi_5.md)
+
 <p><span class="chinese">用大拇指和食指捏住耳垂温柔的向下拉，轻轻的向外呼气，重复6次。</span><span class="english">Breathe out gently. Repeat six times.</span></p>
 
 <p><span class="chinese">下一步是把故事用食指在打字机上慢慢地打出来。</span><span class="english">The next step was pecking out stories.</span></p>

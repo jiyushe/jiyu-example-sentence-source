@@ -1,5 +1,7 @@
 # 共处
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongchu.md)
+
 <p><span class="chinese">两者能协力共处吗？</span><span class="english">Can they be brought together?</span></p>
 
 <p><span class="chinese">失去他们,还是与我共处。</span><span class="english">If I am to miss you, or they.</span></p>

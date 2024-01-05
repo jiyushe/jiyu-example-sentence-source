@@ -1,5 +1,7 @@
 # thrombocytopenia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thrombocytopenia.md)
+
 <p><span class="chinese">各组间的血小板减少的发生率相似。</span><span class="english">Thrombocytopenia rates were similar between groups.</span></p>
 
 <p><span class="chinese">血小板减少症是动物最常见的出血性疾病之一。</span><span class="english">Thrombocytopenia is one of the most common bleeding disorders of animals.</span></p>

@@ -1,5 +1,7 @@
 # impersonal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impersonal.md)
+
 <p><span class="chinese">客观存在的法律对他不具备约束力。</span><span class="english">Impersonal laws cannot rule over him.</span></p>
 
 <p><span class="chinese">他的态度似乎很生硬冷淡。</span><span class="english">His manner seemed rather stiff and impersonal.</span></p>

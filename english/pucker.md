@@ -1,5 +1,7 @@
 # pucker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pucker.md)
+
 <p><span class="chinese">这酸糖果使我酸得武官凑在一起。</span><span class="english">The sour candy made me pucker up.</span></p>
 
 <p><span class="chinese">那么，我们为什么那么喜欢把嘴撅起来呢？</span><span class="english">So why is it that we love to pucker up?</span></p>

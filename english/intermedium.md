@@ -1,5 +1,7 @@
 # intermedium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intermedium.md)
+
 <p><span class="chinese">电子预印本是一种开放的学术信息交流媒介。</span><span class="english">E-print is an open communication intermedium of scholarly information.</span></p>
 
 <p><span class="chinese">颈动脉内膜中层厚度应用高分辨B-型超声仪测定。</span><span class="english">The carotid intermedium thickness was detected with high-resolution B-ultrasound.</span></p>

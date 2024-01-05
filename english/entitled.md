@@ -1,5 +1,7 @@
 # entitled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entitled.md)
+
 <p><span class="chinese">她有权表达她的意见。</span><span class="english">Shes entitled to her own opinion.</span></p>
 
 <p><span class="chinese">领主有权实行监护。</span><span class="english">The lord was entitled to wardship.</span></p>

@@ -1,5 +1,7 @@
 # puny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/puny.md)
+
 <p><span class="chinese">这些小小豆荚如何保护你的肌肤呢？</span><span class="english">And how do these puny pods protect your face?</span></p>
 
 <p><span class="chinese">所以如此小的压强,导致了数米高的水柱。</span><span class="english">So that puny little pressure ends up being meters high.</span></p>

@@ -1,5 +1,7 @@
 # 定夺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingduo.md)
+
 <p><span class="chinese">谁能定夺所谓的公平？</span><span class="english">Who decides what is fair?</span></p>
 
 <p><span class="chinese">他已定夺辞去他的职业。</span><span class="english">Hehas mcl poste up his mind to quit his job.</span></p>

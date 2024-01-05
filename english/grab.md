@@ -1,5 +1,7 @@
 # grab
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grab.md)
+
 <p><span class="chinese">他们抓走了金伯利。</span><span class="english">They grab Kimberly.</span></p>
 
 <p><span class="chinese">拿一块饺子皮。</span><span class="english">Grab a dumpling skin.</span></p>

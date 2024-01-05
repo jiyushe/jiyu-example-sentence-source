@@ -1,5 +1,7 @@
 # session
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/session.md)
+
 <p><span class="chinese">请坐下！本庭现在开庭。</span><span class="english">This court is now in session.</span></p>
 
 <p><span class="chinese">这是吴医生在讲习会的开始所说的。</span><span class="english">Ng at the start of the session.</span></p>

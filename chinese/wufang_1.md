@@ -1,5 +1,7 @@
 # 无方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wufang_1.md)
+
 <p><span class="chinese">你可以听见黑暗中无方的狗叫声。</span><span class="english">You can bear dogs bark in the distance in the dark.</span></p>
 
 <p><span class="chinese">她因对预算的管理无方而被夸奖。事实上在职研究生学历证书。</span><span class="english">She was praised for her economical management of the budget.</span></p>

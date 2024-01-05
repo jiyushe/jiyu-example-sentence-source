@@ -1,5 +1,7 @@
 # luxuriant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luxuriant.md)
+
 <p><span class="chinese">她长着密密的金发。</span><span class="english">She had luxuriant golden hair.</span></p>
 
 <p><span class="chinese">整体声音华丽而细致。</span><span class="english">Integral voice luxuriant and meticulous.</span></p>

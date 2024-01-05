@@ -1,5 +1,7 @@
 # 构筑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gouzhu.md)
+
 <p><span class="chinese">它需要构筑和成长。</span><span class="english">It builds and it grows.</span></p>
 
 <p><span class="chinese">如何构筑“从外向内看”的视角</span><span class="english">How to Build an External Perspective</span></p>

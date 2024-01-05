@@ -1,5 +1,7 @@
 # legitimization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legitimization.md)
+
 <p><span class="chinese">您如何看待同性恋婚姻的合法化这一问题。</span><span class="english">What do you think about the legitimization of the marriage of the homosexuals?</span></p>
 
 <p><span class="chinese">从国情看，中国已具备安乐死的社会条件，安乐死合法化具有可行性。</span><span class="english">From the viewpoint of the situation of China, legitimization of euthanasia has been feasible.</span></p>

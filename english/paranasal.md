@@ -1,5 +1,7 @@
 # paranasal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paranasal.md)
+
 <p><span class="chinese">硬脑膜强化，伴有邻近的鼻旁窦强化。</span><span class="english">Dural enhancement with enhancement in adjacent paranasal sinus.</span></p>
 
 <p><span class="chinese">则需二次手术，重新开放闭锁了的鼻窦。</span><span class="english">Then needs two times the surgery, opened the block system paranasal sinus.</span></p>

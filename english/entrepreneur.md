@@ -1,5 +1,7 @@
 # entrepreneur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entrepreneur.md)
+
 <p><span class="chinese">为什么您会成为一位企业家？</span><span class="english">Why did you become an entrepreneur?</span></p>
 
 <p><span class="chinese">嘉宾作家维韦克瓦德瓦是一个企业家变成学者。</span><span class="english">is an entrepreneur turned academic.</span></p>

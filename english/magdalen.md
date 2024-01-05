@@ -1,5 +1,7 @@
 # magdalen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magdalen.md)
+
 <p><span class="chinese">发现者塔也是莫德林学院的一座塔。</span><span class="english">Founders Tower is also a tower in Magdalen College.</span></p>
 
 <p><span class="chinese">他很少想到走在他身边的也许是个抹大拉女人。</span><span class="english">He little thought that the Magdalen might be at his side.</span></p>

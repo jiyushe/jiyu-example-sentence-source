@@ -1,5 +1,7 @@
 # cherish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cherish.md)
+
 <p><span class="chinese">爱护动物，珍惜生命。</span><span class="english">Love animals, cherish life.</span></p>
 
 <p><span class="chinese">花时间关爱吧，那是生命之喜悦。</span><span class="english">Cherish anima, do not be damage.</span></p>

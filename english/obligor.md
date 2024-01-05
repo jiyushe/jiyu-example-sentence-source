@@ -1,5 +1,7 @@
 # obligor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obligor.md)
+
 <p><span class="chinese">债务人可以向受让人主张抵销。</span><span class="english">The obligor May avail itself of any set-off against the assignee.</span></p>
 
 <p><span class="chinese">但是，让与人可能因而向债务人承担违约义务。</span><span class="english">However, the assignor may be liable to the obligor for breach of contract.</span></p>

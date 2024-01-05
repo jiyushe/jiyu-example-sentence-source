@@ -1,5 +1,7 @@
 # classy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/classy.md)
+
 <p><span class="chinese">这样至少你显得高贵。</span><span class="english">At least you appear classy.</span></p>
 
 <p><span class="chinese">你认为梁咏琪很有气质？</span><span class="english">Do you think Gigi is a classy girl?</span></p>

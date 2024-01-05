@@ -1,5 +1,7 @@
 # sump
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sump.md)
+
 <p><span class="chinese">是发动机油底壳或湿干油底壳？</span><span class="english">Is the engine dry sump or wet sump?</span></p>
 
 <p><span class="chinese">受损的油槽里喷出了污浊的原油。</span><span class="english">The damaged sump spouted dirty oil.</span></p>

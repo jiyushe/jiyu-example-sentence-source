@@ -1,5 +1,7 @@
 # 使节
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shijie.md)
+
 <p><span class="chinese">各位使节，各位国务大臣，各位将军，各位议员</span><span class="english">Your Excellencies, Ministers, Generals</span></p>
 
 <p><span class="chinese">各位使节及使团同事，各位来宾，女士们，先生们</span><span class="english">Distinguished Guests, Ladies and Gentlemen</span></p>

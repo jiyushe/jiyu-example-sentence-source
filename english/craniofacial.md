@@ -1,5 +1,7 @@
 # craniofacial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/craniofacial.md)
+
 <p><span class="chinese">结论儿童呼吸方式与颅面形态具有一定相关性。</span><span class="english">Conclusions Craniofacial morphology was related to the respiratory mode.</span></p>
 
 <p><span class="chinese">介入性栓塞治疗本病安全有效。</span><span class="english">Embolization is the safety and the best method to treat craniofacial hemangioma racemose.</span></p>

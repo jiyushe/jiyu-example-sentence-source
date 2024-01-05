@@ -1,5 +1,7 @@
 # 回敬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huijing.md)
+
 <p><span class="chinese">“说谎，”我咧着嘴笑，回敬了他一句。</span><span class="english">“Liar,” I shot back with a grin.</span></p>
 
 <p><span class="chinese">普洛尼科夫对他撒谎，他也用谎话来回敬。</span><span class="english">Pronnikov lied to him, and he lied back.</span></p>

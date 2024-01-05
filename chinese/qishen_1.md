@@ -1,5 +1,7 @@
 # 起身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qishen_1.md)
+
 <p><span class="chinese">他坐起身来，睁大眼看。</span><span class="english">He sits up, eyes wide.</span></p>
 
 <p><span class="chinese">所以你起身回家去吧。</span><span class="english">As for you, go back home.</span></p>

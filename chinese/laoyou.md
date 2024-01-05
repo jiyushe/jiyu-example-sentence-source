@@ -1,5 +1,7 @@
 # 老友
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laoyou.md)
+
 <p><span class="chinese">两个老友人，替何张皇？</span><span class="english">Two old friends, why panic?</span></p>
 
 <p><span class="chinese">他是我的一位老友</span><span class="english">This is an old friend of mine.</span></p>

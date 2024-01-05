@@ -1,5 +1,7 @@
 # 围攻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weigong.md)
+
 <p><span class="chinese">我们遭受敌人围攻。</span><span class="english">We were beset by enemies.</span></p>
 
 <p><span class="chinese">部队围攻城堡。</span><span class="english">The troops besieged the fort.</span></p>

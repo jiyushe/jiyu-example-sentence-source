@@ -1,5 +1,7 @@
 # 邮车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youche_1.md)
+
 <p><span class="chinese">是多佛邮车吗？</span><span class="english">Is that the Dover mail?</span></p>
 
 <p><span class="chinese">我能赶上今天最后一班的邮车吗？</span><span class="english">Can I catch the last mail today?</span></p>

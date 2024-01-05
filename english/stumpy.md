@@ -1,5 +1,7 @@
 # stumpy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stumpy.md)
+
 <p><span class="chinese">斯达姆和玛莎答应了，于是就坐上了飞机。</span><span class="english">Stumpy and Martha agreed and up they went.</span></p>
 
 <p><span class="chinese">它粗短的尾巴上鬃毛浓密。</span><span class="english">It has a short stumpy tail covered with bristles.</span></p>

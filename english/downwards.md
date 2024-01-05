@@ -1,5 +1,7 @@
 # downwards
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/downwards.md)
+
 <p><span class="chinese">向下拔出固定板。</span><span class="english">Pull out retainer plate downwards.</span></p>
 
 <p><span class="chinese">它同样是，开口向下的一条抛物线。</span><span class="english">It's, again, a parabola going downwards.</span></p>

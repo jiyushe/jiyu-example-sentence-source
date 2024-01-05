@@ -1,5 +1,7 @@
 # 党史
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangshi.md)
+
 <p><span class="chinese">他将给我们做个关于党史的报告。</span><span class="english">He will give us a talk on the history of the Party.</span></p>
 
 <p><span class="chinese">党史党建界对其党建思想的研究还不够全面、深入。</span><span class="english">The study on his thought isn't enough and thorough.</span></p>

@@ -1,5 +1,7 @@
 # 如日中天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rurizhongtian.md)
+
 <p><span class="chinese">一位事业已经如日中天的成功女艺人，还有谁不认识的呢？</span><span class="english">Who doesn't know this successful artiste whose career is at its prime?</span></p>
 
 <p><span class="chinese">贱人我正如日中天，高高在上，小子几天以后我就要自由了。</span><span class="english">I'm high as a bitch, up up and away, man I come down in a couple of days.</span></p>

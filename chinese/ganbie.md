@@ -1,5 +1,7 @@
 # 干瘪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganbie.md)
+
 <p><span class="chinese">那手看上去粗糙干瘪。</span><span class="english">The hand looked chapped and wizened.</span></p>
 
 <p><span class="chinese">放弃一切的人看上去会很干瘪。</span><span class="english">The man who renounces all looks dry.</span></p>

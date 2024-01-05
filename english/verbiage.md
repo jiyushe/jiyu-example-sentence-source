@@ -1,5 +1,7 @@
 # verbiage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/verbiage.md)
+
 <p><span class="chinese">删除无关紧要的空话。</span><span class="english">Slough off unimportant verbiage.</span></p>
 
 <p><span class="chinese">毫无疑问，我这啰嗦的解释最终变得冗长无比。</span><span class="english">Verily, this vichyssoise of verbiage veers most verbose.</span></p>

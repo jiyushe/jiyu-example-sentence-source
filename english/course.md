@@ -1,5 +1,7 @@
 # course 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/course.md)
+
 <p><span class="chinese">当然没有。</span><span class="english">Of course no.</span></p>
 
 <p><span class="chinese">我当然看好她。</span><span class="english">Of course Ido.</span></p>

@@ -1,5 +1,7 @@
 # despairingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/despairingly.md)
+
 <p><span class="chinese">黄土，他绝望地想。</span><span class="english">Loess, he had thought despairingly.</span></p>
 
 <p><span class="chinese">他绝望地放弃了寻找。</span><span class="english">He despairingly abandoned his search.</span></p>

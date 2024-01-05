@@ -1,5 +1,7 @@
 # michael
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/michael.md)
+
 <p><span class="chinese">迈克尔·摩尔。</span><span class="english">Michael Moore.</span></p>
 
 <p><span class="chinese">嗯，迈克尔·维克。</span><span class="english">Um, Michael Vick.</span></p>

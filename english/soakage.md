@@ -1,5 +1,7 @@
 # soakage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soakage.md)
+
 <p><span class="chinese">表达及血管计数与膀胱癌的复发呈正相关关系。</span><span class="english">So HIF-1 has close relation to soakage and transfer of cancer cell.</span></p>
 
 <p><span class="chinese">可以用更简便的直接浸润刃天青纸片法替代定量唾液刃天青纸片法。</span><span class="english">The simpler direct soakage RD TEST can replace the quantificational saliva RD TEST.</span></p>

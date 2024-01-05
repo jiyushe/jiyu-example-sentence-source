@@ -1,5 +1,7 @@
 # merchant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/merchant.md)
+
 <p><span class="chinese">一些商人以贩卖军火赚钱。</span><span class="english">He is a coal merchant.</span></p>
 
 <p><span class="chinese">我也是军火贩子。</span><span class="english">And I am the arms merchant.</span></p>

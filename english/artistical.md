@@ -1,5 +1,7 @@
 # artistical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/artistical.md)
+
 <p><span class="chinese">这座建筑装饰得很艺术。</span><span class="english">The decoration of this building is very artistical.</span></p>
 
 <p><span class="chinese">病例设计必须有科学性、针对性、艺术性。</span><span class="english">It needs to be scientific, directional and artistical.</span></p>

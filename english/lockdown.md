@@ -1,5 +1,7 @@
 # lockdown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lockdown.md)
+
 <p><span class="chinese">运营商锁定延缓了升级。</span><span class="english">Carrier lockdown has slowed upgrades.</span></p>
 
 <p><span class="chinese">现在这座南部的港口城市确实已经进入在高度戒备状态了。</span><span class="english">And so this southern port city is truly in lockdown.</span></p>

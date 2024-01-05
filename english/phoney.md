@@ -1,5 +1,7 @@
 # phoney
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phoney.md)
+
 <p><span class="chinese">他像三美元的纸币那样假。</span><span class="english">That professor is as phoney as a three-dollar bill.</span></p>
 
 <p><span class="chinese">今天的小规模冲突会迅速演变成真正的混战。</span><span class="english">Today's phoney war could quickly turn into a real dogfight.</span></p>

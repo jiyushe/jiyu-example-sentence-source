@@ -1,5 +1,7 @@
 # 实施
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishi_8.md)
+
 <p><span class="chinese">儿童疾病综合管理是如何实施的？</span><span class="english">How is IMCI implemented?</span></p>
 
 <p><span class="chinese">不过，撒切尔还是以自己的准绳贯彻实施了法律。</span><span class="english">Thatcher laid down the law.</span></p>

@@ -1,5 +1,7 @@
 # 陛下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bixia_1.md)
+
 <p><span class="chinese">陛下之臣下。</span><span class="english">His Majesty's lieges.</span></p>
 
 <p><span class="chinese">我可以走了吗，陛下？</span><span class="english">Shall I leave, milord?</span></p>

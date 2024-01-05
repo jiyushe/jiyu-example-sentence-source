@@ -1,5 +1,7 @@
 # 势不可挡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shibukedang.md)
+
 <p><span class="chinese">芬格兰绿色时代势不可挡！</span><span class="english">FGR'Green Era Is Inundant!</span></p>
 
 <p><span class="chinese">然而，坏的压力则是势不可挡的。</span><span class="english">However, bad stress can be overwhelming.</span></p>

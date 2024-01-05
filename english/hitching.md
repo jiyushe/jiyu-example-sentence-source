@@ -1,5 +1,7 @@
 # hitching
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hitching.md)
+
 <p><span class="chinese">我看见一位老人拄著手杖蹒跚而行。</span><span class="english">I saw an old man hitching along on his stick.</span></p>
 
 <p><span class="chinese">当客户端固定服务器拴马是闲置拳打脚踢。</span><span class="english">Fixed server hitching when client is kicked for inactivity.</span></p>

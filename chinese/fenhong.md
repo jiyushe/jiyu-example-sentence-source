@@ -1,5 +1,7 @@
 # 分洪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenhong.md)
+
 <p><span class="chinese">就在今天我们有史以来第一次打开了三个主要的分洪河道。</span><span class="english">Today's the first day in the history of our nation that we've had 3 major floodways open.</span></p>
 
 <p><span class="chinese">都江堰历经2260年的历史，现今依然发挥着分洪减灾，引水灌田等重大的作用。</span><span class="english">For over 2260 years, the dam has continued to make the most of the water conservancy works.</span></p>

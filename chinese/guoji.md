@@ -1,5 +1,7 @@
 # 过继
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guoji.md)
+
 <p><span class="chinese">由于他的死亡，他所有的财产都过继给了他妻子。</span><span class="english">Upon his decease all his properties passed to his wife.</span></p>
 
 <p><span class="chinese">我没儿子，就从大哥家过继了一个嗣子。</span><span class="english">I haven't got a son, so I adopted one from my eldest brother.</span></p>

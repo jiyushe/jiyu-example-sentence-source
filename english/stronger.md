@@ -1,5 +1,7 @@
 # stronger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stronger.md)
+
 <p><span class="chinese">是的，甚至比尤文还强大。</span><span class="english">Yes, even stronger than Juve.</span></p>
 
 <p><span class="chinese">但是我们什么时候会更强大呢？</span><span class="english">But when shall we be stronger?</span></p>

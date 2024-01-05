@@ -1,5 +1,7 @@
 # 铁皮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiepi.md)
+
 <p><span class="chinese">他将铁皮镀锌。</span><span class="english">He galvanized iron.</span></p>
 
 <p><span class="chinese">你这个铁皮叛徒！</span><span class="english">Why, you tin-plated traitor!</span></p>

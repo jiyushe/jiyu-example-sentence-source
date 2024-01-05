@@ -1,5 +1,7 @@
 # mhz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mhz.md)
+
 <p><span class="chinese">港台工作频率为8.7768兆赫。</span><span class="english">RTHK frequency of 8.7768 MHz.</span></p>
 
 <p><span class="chinese">激光器单频可调范围经塞曼效应展宽后达2500兆赫以上。</span><span class="english">Its frequency tuning range broadened by Zeeman effect was more than 2500 MHz.</span></p>

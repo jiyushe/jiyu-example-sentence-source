@@ -1,5 +1,7 @@
 # 小菜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaocai.md)
+
 <p><span class="chinese">对我来说，小菜一碟。</span><span class="english">It is a piece of cake for me.</span></p>
 
 <p><span class="chinese">捉奸，小菜一碟拉！</span><span class="english">Sex, a piece of cake to pull!</span></p>

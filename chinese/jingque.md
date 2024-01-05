@@ -1,5 +1,7 @@
 # 精确
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingque.md)
+
 <p><span class="chinese">我把它看作是精确的。</span><span class="english">I see it as accurate.</span></p>
 
 <p><span class="chinese">这很难精确说明。</span><span class="english">Hard to say precisely.</span></p>

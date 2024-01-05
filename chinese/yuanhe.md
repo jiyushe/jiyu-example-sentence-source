@@ -1,5 +1,7 @@
 # 缘何
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanhe.md)
+
 <p><span class="chinese">不确定性缘何如此危险？</span><span class="english">Why is uncertainty so dangerous?</span></p>
 
 <p><span class="chinese">团结者缘何变成了分裂者？</span><span class="english">How did the uniter become a divider?</span></p>

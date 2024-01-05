@@ -1,5 +1,7 @@
 # obese
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obese.md)
+
 <p><span class="chinese">肥胖的人乘飞机要多交钱！</span><span class="english">Obese flyers need to pay more!</span></p>
 
 <p><span class="chinese">肥胖和健康可以兼而有之吗</span><span class="english">Can you be both obese and healthy?</span></p>

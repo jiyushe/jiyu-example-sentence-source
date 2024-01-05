@@ -1,5 +1,7 @@
 # decelerate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decelerate.md)
+
 <p><span class="chinese">中国炙热的经济必须减速。</span><span class="english">The economy with Chinese broil must decelerate.</span></p>
 
 <p><span class="chinese">因为它可以减慢食物变坏的速度。</span><span class="english">Because it can decelerate the speed of food addle.</span></p>

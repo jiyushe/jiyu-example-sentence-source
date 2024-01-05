@@ -1,5 +1,7 @@
 # 打破
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dapo.md)
+
 <p><span class="chinese">打破常规。</span><span class="english">Break the routine.</span></p>
 
 <p><span class="chinese">坏打破，福禄克的目标。</span><span class="english">Bad break, fluke goal.</span></p>

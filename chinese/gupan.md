@@ -1,5 +1,7 @@
 # 顾盼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gupan.md)
+
 <p><span class="chinese">生活没有教她顾盼自得。</span><span class="english">Life had not taught her domination.</span></p>
 
 <p><span class="chinese">顾盼着身影，诅咒自己的生辰。</span><span class="english">And look upon my self and curse my fate.</span></p>

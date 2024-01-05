@@ -1,5 +1,7 @@
 # 生子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengzi_1.md)
+
 <p><span class="chinese">我就娶妻生子﹐住下来了。</span><span class="english">I think I've come down with the flu.</span></p>
 
 <p><span class="chinese">我就娶妻生子﹐住下来了。</span><span class="english">I got a wife and son and settled down.</span></p>

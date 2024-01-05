@@ -1,5 +1,7 @@
 # 卖弄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mainong.md)
+
 <p><span class="chinese">她是个卖弄风情的女人。</span><span class="english">She is a flirt.</span></p>
 
 <p><span class="chinese">你是一个爱卖弄风骚的人吗？</span><span class="english">Are you a good flirter?</span></p>

@@ -1,5 +1,7 @@
 # astrid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/astrid.md)
+
 <p><span class="chinese">阿丝翠得赢得了比赛！</span><span class="english">Astrid takes the game!</span></p>
 
 <p><span class="chinese">小说从阿斯特里德十二岁时开始写起。</span><span class="english">The novel opens when Astrid is twelve.</span></p>

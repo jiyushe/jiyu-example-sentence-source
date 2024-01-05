@@ -1,5 +1,7 @@
 # fraud
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fraud.md)
+
 <p><span class="chinese">所有在延髓是欺诈。</span><span class="english">All in DVC is fraud.</span></p>
 
 <p><span class="chinese">我识破了那个骗局。</span><span class="english">I saw through the fraud.</span></p>

@@ -1,5 +1,7 @@
 # caledonian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caledonian.md)
+
 <p><span class="chinese">该区金直接来源于加里东和华力西花岗岩。</span><span class="english">Gold source is from Caledonian and Hercynian granite.</span></p>
 
 <p><span class="chinese">海洋山花岗岩体位于华南加里东花岗岩带内。</span><span class="english">The Haiyangshan granite plutons is in the Caledonian granitonian belt.</span></p>

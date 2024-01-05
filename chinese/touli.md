@@ -1,5 +1,7 @@
 # 头里
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touli.md)
+
 <p><span class="chinese">食物装在罐头里。</span><span class="english">The food is packed in tins.</span></p>
 
 <p><span class="chinese">她把脸埋在枕头里。</span><span class="english">She buried face in the pillow.</span></p>

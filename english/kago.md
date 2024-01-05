@@ -1,5 +1,7 @@
 # kago
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kago.md)
+
 <p><span class="chinese">为完成上轿，轿子在旅馆区域可触地。</span><span class="english">The Kago may touch the floor of the Kago Zone for the purpose of boarding.</span></p>
 
 <p><span class="chinese">当轿子到达旅馆时，旅行机器人应上轿子。</span><span class="english">The Traveller Robot shall board the Kago when the Kago arrives at the Lodge.</span></p>

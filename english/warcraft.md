@@ -1,5 +1,7 @@
 # warcraft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/warcraft.md)
+
 <p><span class="chinese">参与一次魔兽世界的突袭行动。</span><span class="english">Participate in a World of Warcraft raid.</span></p>
 
 <p><span class="chinese">我没有自己的权利魔兽等等。</span><span class="english">I do not own the rights to Warcraft etc. etc.</span></p>

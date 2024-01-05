@@ -1,5 +1,7 @@
 # 爱护
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aihu_1.md)
+
 <p><span class="chinese">这对双胞胎互相爱护。</span><span class="english">The twins love each other.</span></p>
 
 <p><span class="chinese">爱护动物，珍惜生命。</span><span class="english">Love animals, cherish life.</span></p>

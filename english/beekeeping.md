@@ -1,5 +1,7 @@
 # beekeeping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beekeeping.md)
+
 <p><span class="chinese">一些养蜂企业遭到打击。</span><span class="english">And some beekeeping businesses have failed.</span></p>
 
 <p><span class="chinese">但是，城市养蜂是要负责任的。</span><span class="english">But with urban beekeeping comes responsibility.</span></p>

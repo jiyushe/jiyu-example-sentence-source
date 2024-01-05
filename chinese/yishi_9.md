@@ -1,5 +1,7 @@
 # 议事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yishi_9.md)
+
 <p><span class="chinese">那就让贵族议事会公开宣誓。</span><span class="english">So let the council swear publicly.</span></p>
 
 <p><span class="chinese">我希望把我的看法记入议事录。</span><span class="english">I want my disagreement to be minuted.</span></p>

@@ -1,5 +1,7 @@
 # shebang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shebang.md)
+
 <p><span class="chinese">我对整个这件事发腻了。</span><span class="english">I'm sick of the whole shebang.</span></p>
 
 <p><span class="chinese">我对整个这件事腻歪透了。</span><span class="english">I'm sick of the whole shebang.</span></p>

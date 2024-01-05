@@ -1,5 +1,7 @@
 # attended
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attended.md)
+
 <p><span class="chinese">今天我参加了一个招聘会。</span><span class="english">Today I attended a job fair.</span></p>
 
 <p><span class="chinese">我们全体都参加了会议。</span><span class="english">We all attended the meeting.</span></p>

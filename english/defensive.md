@@ -1,5 +1,7 @@
 # defensive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defensive.md)
+
 <p><span class="chinese">是半场进攻，还是以快攻为主，或者是以防守见长？</span><span class="english">Are they defensive oriented?</span></p>
 
 <p><span class="chinese">在一场防御战中，中国将获得胜利。</span><span class="english">In a defensive war she will win.</span></p>

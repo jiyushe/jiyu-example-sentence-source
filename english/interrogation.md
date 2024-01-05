@@ -1,5 +1,7 @@
 # interrogation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interrogation.md)
+
 <p><span class="chinese">审问小黑狗！</span><span class="english">Interrogation little black dog!</span></p>
 
 <p><span class="chinese">审问一直持续到第二天早上。</span><span class="english">The interrogation lasted until the next morning.</span></p>

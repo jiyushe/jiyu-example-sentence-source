@@ -1,5 +1,7 @@
 # 影影绰绰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingyingchuochuo.md)
+
 <p><span class="chinese">远处影影绰绰地有一些小山。</span><span class="english">Some hills loomed in the distance.</span></p>
 
 <p><span class="chinese">雾中显现出影影绰绰的轮廓。</span><span class="english">Ghostly shapes loomed out of the fog.</span></p>

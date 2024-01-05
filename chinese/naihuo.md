@@ -1,5 +1,7 @@
 # 耐火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naihuo.md)
+
 <p><span class="chinese">用于耐火制品。</span><span class="english">Used for fire-resistant products.</span></p>
 
 <p><span class="chinese">耐火度达1200摄氏度。</span><span class="english">Our logs can resist 1200 centigrade.</span></p>

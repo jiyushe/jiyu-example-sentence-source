@@ -1,5 +1,7 @@
 # fatah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fatah.md)
+
 <p><span class="chinese">这次搜捕行动是哈马斯加强镇压法塔赫的一部分。</span><span class="english">The raid is part of an intensifying Hamas crackdown on Fatah.</span></p>
 
 <p><span class="chinese">哈马斯的竞争对手法塔赫党也不可能利用以色列提供的坦克贸然重回加沙。</span><span class="english">Nor can the rival Fatah party risk returning to Gaza courtesy of Israel’s tanks.</span></p>

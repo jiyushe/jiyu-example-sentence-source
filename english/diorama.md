@@ -1,5 +1,7 @@
 # diorama
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diorama.md)
+
 <p><span class="chinese">不能把它看作是一个场景。</span><span class="english">Don't see it as a diorama.</span></p>
 
 <p><span class="chinese">构建这本书中任何一章节的结构图。</span><span class="english">Construct a diorama for any section in the book.</span></p>

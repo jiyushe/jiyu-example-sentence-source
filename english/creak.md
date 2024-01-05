@@ -1,5 +1,7 @@
 # creak
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/creak.md)
+
 <p><span class="chinese">不要把门弄得吱吱地响。</span><span class="english">Don't creak the door.</span></p>
 
 <p><span class="chinese">那扇门嘎地一声开了。</span><span class="english">The door opened with a creak.</span></p>

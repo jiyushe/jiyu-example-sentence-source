@@ -1,5 +1,7 @@
 # 圣庙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengmiao.md)
+
 <p><span class="chinese">他给予我们圣庙作为家。</span><span class="english">He gave us our home as a temple.</span></p>
 
 <p><span class="chinese">大圣庙坛中的老孙金身。</span><span class="english">A gilded Monkey enshrined in his "Great Sage" temple.</span></p>

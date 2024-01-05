@@ -1,5 +1,7 @@
 # enclothe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enclothe.md)
+
 <p><span class="chinese">她的客户从印度，到印尼，再到欧美，都有覆盖。</span><span class="english">Her client from India, arrive Indonesian, arrive again Euramerican, have enclothe.</span></p>
 
 <p><span class="chinese">墙布和覆盖在墙面的涂料层上要有醒目的水平图案。</span><span class="english">Wall cloth and enclothe there should be striking horizontal pattern on the coating layer of metope.</span></p>

@@ -1,5 +1,7 @@
 # 劳逸结合
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laoyijiehe.md)
+
 <p><span class="chinese">但是，劳逸结合也许会让你更加辛苦。</span><span class="english">They may actually get more toil out of you.</span></p>
 
 <p><span class="chinese">为了保持健康，我们每个人都应劳逸结合。</span><span class="english">To keep healthy, every one of us should work and rest.</span></p>

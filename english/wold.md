@@ -1,5 +1,7 @@
 # wold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wold.md)
+
 <p><span class="chinese">我高兴到了极点。</span><span class="english">I am on top of the wold.</span></p>
 
 <p><span class="chinese">远离家。在我的梦想里。我甚麽都没有。</span><span class="english">What am i in a wold so far away from home.</span></p>

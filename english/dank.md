@@ -1,5 +1,7 @@
 # dank
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dank.md)
+
 <p><span class="chinese">一个朝下的又深又潮的黑洞。</span><span class="english">Down the deep damp dark dank den.</span></p>
 
 <p><span class="chinese">这阴暗潮湿的山洞使我感到心惊肉跳。</span><span class="english">The dark, dank cave gave me the willies.</span></p>

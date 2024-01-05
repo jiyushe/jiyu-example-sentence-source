@@ -1,5 +1,7 @@
 # 若果
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruoguo.md)
+
 <p><span class="chinese">若果硬件能跟上定义好的FPS，那没问题。</span><span class="english">If the hardware can handle the defined FPS, no problem.</span></p>
 
 <p><span class="chinese">若果这件事情使你感到不爽我们感到非常的抱歉。</span><span class="english">If it makes you uncomfortable, we feel very sorry for it.</span></p>

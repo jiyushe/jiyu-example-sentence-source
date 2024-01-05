@@ -1,5 +1,7 @@
 # multifarious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multifarious.md)
+
 <p><span class="chinese">人的因素是一个多样性的问题。</span><span class="english">The human element is a multifarious issue.</span></p>
 
 <p><span class="chinese">他们无力承担这些五花八门的开支。</span><span class="english">They can ill afford the multifarious expenses.</span></p>

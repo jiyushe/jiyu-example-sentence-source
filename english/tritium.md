@@ -1,5 +1,7 @@
 # tritium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tritium.md)
+
 <p><span class="chinese">每周氚问题会议。</span><span class="english">Weekly tritium issues meetings.</span></p>
 
 <p><span class="chinese">氚原子多了两个中子。</span><span class="english">A tritium atom has two extra neutrons.</span></p>

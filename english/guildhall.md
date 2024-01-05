@@ -1,5 +1,7 @@
 # guildhall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guildhall.md)
+
 <p><span class="chinese">他给市政厅和交易所建了图书馆。</span><span class="english">He gave libraries to Guildhall and Greyfairs.</span></p>
 
 <p><span class="chinese">市政厅内部，为维多利亚女王举办的宴会上，1839年。</span><span class="english">Guildhall interior at a banquet given for Queen Victoria in 1839.</span></p>

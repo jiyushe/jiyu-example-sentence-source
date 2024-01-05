@@ -1,5 +1,7 @@
 # cafe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cafe.md)
+
 <p><span class="chinese">咖啡馆式的图书架。</span><span class="english">The Cafe Shelf.</span></p>
 
 <p><span class="chinese">我在咖啡馆工作。</span><span class="english">I work in the cafe.</span></p>

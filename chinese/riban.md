@@ -1,5 +1,7 @@
 # 日班
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/riban.md)
+
 <p><span class="chinese">他们等待着日班的工人来接班。</span><span class="english">I work on the day shift.</span></p>
 
 <p><span class="chinese">一名合格的、优秀的值日班干！</span><span class="english">A qualified, excellent class cadre on duty!</span></p>

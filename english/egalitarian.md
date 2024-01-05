@@ -1,5 +1,7 @@
 # egalitarian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/egalitarian.md)
+
 <p><span class="chinese">很多日本人努力保持平等待人的形象。</span><span class="english">MANY Japanese strive to keep up egalitarian appearances.</span></p>
 
 <p><span class="chinese">当我们还是狩猎者时，我们是相当平等的。</span><span class="english">When we were hunter-gatherers, we were relatively egalitarian.</span></p>

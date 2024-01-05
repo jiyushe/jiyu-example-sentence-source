@@ -1,5 +1,7 @@
 # redoubtable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redoubtable.md)
+
 <p><span class="chinese">他是一位可敬的战士。</span><span class="english">He is a redoubtable fighter.</span></p>
 
 <p><span class="chinese">可敬的美国妇女作出了其贡献。</span><span class="english">The redoubtable American woman played her part.</span></p>

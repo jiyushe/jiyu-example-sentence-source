@@ -1,5 +1,7 @@
 # 瀑布
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pubu.md)
+
 <p><span class="chinese">你去过黄果树瀑布吗？</span><span class="english">Have you seen the waterfall?</span></p>
 
 <p><span class="chinese">我喜欢徒步观赏瀑布。</span><span class="english">I’d like to hike the Cascades.</span></p>

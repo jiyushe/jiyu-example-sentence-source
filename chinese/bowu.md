@@ -1,5 +1,7 @@
 # 博物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bowu.md)
+
 <p><span class="chinese">你们是来参观南通博物苑的吗？</span><span class="english">Are you here to visit Nantong Museum?</span></p>
 
 <p><span class="chinese">因为一座伟大的博物馆取决于伟大的博物管理员工。</span><span class="english">Because a great museum depends on a great curatorial staff.</span></p>

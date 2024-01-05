@@ -1,5 +1,7 @@
 # 文艺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenyi_1.md)
+
 <p><span class="chinese">我答应去观看文艺演出。</span><span class="english">I promised to attend the show.</span></p>
 
 <p><span class="chinese">在学校大厅举办文艺晚会。</span><span class="english">Held in the school hall variety show.</span></p>

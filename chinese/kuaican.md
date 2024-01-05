@@ -1,5 +1,7 @@
 # 快餐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuaican.md)
+
 <p><span class="chinese">需要一份快餐吗？</span><span class="english">Need a quick snack?</span></p>
 
 <p><span class="chinese">我们买一些快餐，好吗？</span><span class="english">Shall we buy some snacks?</span></p>

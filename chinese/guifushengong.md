@@ -1,5 +1,7 @@
 # 鬼斧神工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guifushengong.md)
+
 <p><span class="chinese">那个沙丘是大自然的鬼斧神工。</span><span class="english">That sand dune is a splendid work of nature.</span></p>
 
 <p><span class="chinese">大自然的鬼斧神工造化了灵山奇石。</span><span class="english">The nature's great power creates lingshan's spirit stones.</span></p>

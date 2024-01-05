@@ -1,5 +1,7 @@
 # stammer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stammer.md)
+
 <p><span class="chinese">嘲笑主人磕巴的口齿？</span><span class="english">Mocked the host's stammer?</span></p>
 
 <p><span class="chinese">很多小孩口吃，但长大就改过来了。</span><span class="english">Many children stammer but grow out of it.</span></p>

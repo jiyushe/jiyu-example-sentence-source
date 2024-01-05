@@ -1,5 +1,7 @@
 # writable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/writable.md)
+
 <p><span class="chinese">可以书写的表面让学习如何报时变得更加有趣。</span><span class="english">Writable surface makes learning how to tell time much more fun.</span></p>
 
 <p><span class="chinese">不受支持的一些功能包括完全触发器支持和可写视图。</span><span class="english">Some features left out are complete trigger support and writable views.</span></p>

@@ -1,5 +1,7 @@
 # 户口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hukou.md)
+
 <p><span class="chinese">在中国人人都有户口。</span><span class="english">Everyone has a hukou in China.</span></p>
 
 <p><span class="chinese">请别因此取消我的户口。</span><span class="english">Please don't revoke my citizenship.</span></p>

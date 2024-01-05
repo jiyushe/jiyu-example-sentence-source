@@ -1,5 +1,7 @@
 # crossbow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crossbow.md)
+
 <p><span class="chinese">＝我需要弩箭！</span><span class="english">I need crossbow bolts!</span></p>
 
 <p><span class="chinese">你必须成为“火弩”。</span><span class="english">You can’t “sort of” fire a crossbow.</span></p>

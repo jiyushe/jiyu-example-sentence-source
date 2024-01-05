@@ -1,5 +1,7 @@
 # atypical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atypical.md)
+
 <p><span class="chinese">我是非典型的一员。</span><span class="english">I am an atypical sort.</span></p>
 
 <p><span class="chinese">非典型抗精神病药物的角色</span><span class="english">Role of Atypical Antipsychotics</span></p>

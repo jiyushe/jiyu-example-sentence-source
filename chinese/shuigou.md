@@ -1,5 +1,7 @@
 # 水垢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuigou.md)
+
 <p><span class="chinese">硬水导致的水垢是怎么回事？</span><span class="english">What is Hard Water Scale?</span></p>
 
 <p><span class="chinese">也可以加醋，乙酸去除水垢。</span><span class="english">Or add some vinegar, acetic acid to remove scale.</span></p>

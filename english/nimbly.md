@@ -1,5 +1,7 @@
 # nimbly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nimbly.md)
+
 <p><span class="chinese">那只狡猾的狐狸灵活地躲避开那群狗。</span><span class="english">The sly fox nimbly eluded the dogs.</span></p>
 
 <p><span class="chinese">那耗子灵活地顺着马腿爬上去。</span><span class="english">The mouse ran nimbly up the horse's leg.</span></p>

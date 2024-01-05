@@ -1,5 +1,7 @@
 # 分外
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenwai_1.md)
+
 <p><span class="chinese">龙的血盆大口分外显眼，显然是一只凶险的野兽。</span><span class="english">A dangerous beast, this.</span></p>
 
 <p><span class="chinese">爱情和不可征服的人心也分外亲切。</span><span class="english">And love, and man's unconquerable mind.</span></p>

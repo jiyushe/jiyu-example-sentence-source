@@ -1,5 +1,7 @@
 # 只争朝夕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizhengzhaoxi.md)
+
 <p><span class="chinese">现在正是时候/只争朝夕。</span><span class="english">No time like the present.</span></p>
 
 <p><span class="chinese">不争论，只争朝夕！</span><span class="english">Not arguing seize the day!</span></p>

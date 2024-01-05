@@ -1,5 +1,7 @@
 # snazzy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snazzy.md)
+
 <p><span class="chinese">创新不仅仅只是设计出更多的时髦产品。</span><span class="english">Innovation is about more than designing snazzy products.</span></p>
 
 <p><span class="chinese">开襟毛衣一件时髦的毛衣可以立即打亮整套造型。</span><span class="english">Cardigan A snazzy sweater instantly dresses up any outfit.</span></p>

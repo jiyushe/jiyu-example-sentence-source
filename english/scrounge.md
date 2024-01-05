@@ -1,5 +1,7 @@
 # scrounge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scrounge.md)
+
 <p><span class="chinese">我不允许，你不能擅自拿我的钢笔用!</span><span class="english">Don't scrounge my pen without my allowance!</span></p>
 
 <p><span class="chinese">我花了一个月的时间才攒了足够的钱。</span><span class="english">It took me a month to scrounge up enough money.</span></p>

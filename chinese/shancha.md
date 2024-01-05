@@ -1,5 +1,7 @@
 # 山茶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shancha.md)
+
 <p><span class="chinese">山茶红似火。</span><span class="english">The camellia blossoms are a more fiery scarlet.</span></p>
 
 <p><span class="chinese">杜鹃红山茶是一种珍贵珍稀濒危植物，属山茶科山茶属。</span><span class="english">Camellia azalea is a rare plant which is in face of danger.</span></p>

@@ -1,5 +1,7 @@
 # 迈开
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maikai.md)
+
 <p><span class="chinese">迈开了烟花的新时代纪元？</span><span class="english">Taking a new era of era of fireworks.</span></p>
 
 <p><span class="chinese">而汉语应该继续迈开成长的步伐。</span><span class="english">Yet Mandarin ought to continue to grow.</span></p>

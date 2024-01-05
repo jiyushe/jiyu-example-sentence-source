@@ -1,5 +1,7 @@
 # suddenness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suddenness.md)
+
 <p><span class="chinese">总统的最后决定之突然令人吃惊。</span><span class="english">The President's final decision came with stunning suddenness.</span></p>
 
 <p><span class="chinese">你说认识我是意外，我想是因为我们有缘份吧！</span><span class="english">You said knowing me was suddenness , but I think it's our destination!</span></p>

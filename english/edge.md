@@ -1,5 +1,7 @@
 # edge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/edge.md)
+
 <p><span class="chinese">我们丢掉了锐气。</span><span class="english">We lost our edge.</span></p>
 
 <p><span class="chinese">你的优势在哪里？</span><span class="english">What’s your edge?</span></p>

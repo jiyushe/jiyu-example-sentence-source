@@ -1,5 +1,7 @@
 # hippocampus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hippocampus.md)
+
 <p><span class="chinese">正常衰老的同时，海马体也会收缩。</span><span class="english">As part of normal aging, the hippocampus shrinks.</span></p>
 
 <p><span class="chinese">在这里海马体的作用十分重要。</span><span class="english">And the hippocampus plays an important role there.</span></p>

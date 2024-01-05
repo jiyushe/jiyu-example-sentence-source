@@ -1,5 +1,7 @@
 # 不痛不痒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/butongbuyang.md)
+
 <p><span class="chinese">这项决议案不痛不痒。</span><span class="english">This is an innocuous resolution.</span></p>
 
 <p><span class="chinese">他在会上讲了些不痛不痒的话。</span><span class="english">He made some perfunctory remarks at the meeting.</span></p>

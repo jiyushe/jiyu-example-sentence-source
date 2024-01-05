@@ -1,5 +1,7 @@
 # dastardly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dastardly.md)
+
 <p><span class="chinese">薄煎饼和香肠是早餐桌上的可怕搭配。</span><span class="english">Pancakes and sausage are the dastardly duo of the breakfast table.</span></p>
 
 <p><span class="chinese">巴基斯坦外交部称这次埋伏袭击是一次“卑鄙的恐怖行为。”</span><span class="english">The foreign ministry called the ambush a "dastardly terrorist act."</span></p>

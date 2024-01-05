@@ -1,5 +1,7 @@
 # transportable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transportable.md)
+
 <p><span class="chinese">小型的P型船都可以携带于每部车的顶部。</span><span class="english">Small "P"Jons are transportable on the top of each car.</span></p>
 
 <p><span class="chinese">设备应小，便宜，简单，可移动。</span><span class="english">The equipment shall be small, cheap, simple and transportable.</span></p>

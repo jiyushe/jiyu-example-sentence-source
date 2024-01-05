@@ -1,5 +1,7 @@
 # transparence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transparence.md)
+
 <p><span class="chinese">它漫长，厌恶透明。</span><span class="english">That it's long and abhors transparence.</span></p>
 
 <p><span class="chinese">分散剂有利于透明改性。</span><span class="english">Disperse additive is advantageous to transparence.</span></p>

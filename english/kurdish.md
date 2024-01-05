@@ -1,5 +1,7 @@
 # kurdish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kurdish.md)
+
 <p><span class="chinese">雪苏莱曼尼亚位于伊拉克的北库尔德地区，离巴格达很远很远。</span><span class="english">Snowy Sulaimaniya in the Iraq's northern Kurdish region.</span></p>
 
 <p><span class="chinese">库尔德的建筑工人阿姆贾德·阿卜杜拉扎德也投票给穆萨维。</span><span class="english">Kurdish construction worker Amjad Abdollazadeh voted for Mousavi too.</span></p>

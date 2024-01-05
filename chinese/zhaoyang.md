@@ -1,5 +1,7 @@
 # 照样
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoyang.md)
+
 <p><span class="chinese">耶利米就照样行了。</span><span class="english">And Jeremiah did so.</span></p>
 
 <p><span class="chinese">注意看着我然后照样做。</span><span class="english">Watch me and do likewise.</span></p>

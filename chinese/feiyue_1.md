@@ -1,5 +1,7 @@
 # 飞跃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feiyue_1.md)
+
 <p><span class="chinese">创新将在这里飞跃！</span><span class="english">Innovation will fly in MSTC!</span></p>
 
 <p><span class="chinese">这是飞跃道为士力架拍摄广告时的制作花絮。</span><span class="english">This is the making of the Snicker TVC.</span></p>

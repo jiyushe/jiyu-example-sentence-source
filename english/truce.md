@@ -1,5 +1,7 @@
 # truce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/truce.md)
+
 <p><span class="chinese">休战条约已草草订就了。</span><span class="english">A truce has been patched up.</span></p>
 
 <p><span class="chinese">我们将与他们就停火进行谈判。</span><span class="english">We will transact with them for truce.</span></p>

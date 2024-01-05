@@ -1,5 +1,7 @@
 # leper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leper.md)
+
 <p><span class="chinese">一个正在用餐的痲疯病人。</span><span class="english">A leper who was eating a meal.</span></p>
 
 <p><span class="chinese">它就像是麻风病人的身体。</span><span class="english">It is like the body of a leper.</span></p>

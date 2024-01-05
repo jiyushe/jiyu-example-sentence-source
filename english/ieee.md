@@ -1,5 +1,7 @@
 # ieee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ieee.md)
+
 <p><span class="chinese">IEEE1451标准正是为了解决这一问题。</span><span class="english">IEEE 1451 is proposed to solve the above problems.</span></p>
 
 <p><span class="chinese">他是ACM和IEEE计算机协会的成员之一。</span><span class="english">He is a member of the ACM and the IEEE Computer Society.</span></p>

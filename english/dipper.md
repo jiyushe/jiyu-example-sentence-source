@@ -1,5 +1,7 @@
 # dipper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dipper.md)
+
 <p><span class="chinese">你能看到北斗七星吗？</span><span class="english">Can you see the great dipper ?</span></p>
 
 <p><span class="chinese">有没有南斗星?。</span><span class="english">Do have the south dipper star?</span></p>

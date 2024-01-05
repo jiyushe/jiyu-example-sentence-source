@@ -1,5 +1,7 @@
 # mccoy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mccoy.md)
+
 <p><span class="chinese">这只劳力士表是真货。</span><span class="english">E. g. This Rolex is the real McCoy.</span></p>
 
 <p><span class="chinese">喂，这是麦考伊的办公室。</span><span class="english">Hello, this is McCoy 's office speaking.</span></p>

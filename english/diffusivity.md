@@ -1,5 +1,7 @@
 # diffusivity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diffusivity.md)
+
 <p><span class="chinese">测量了钢和石墨的热扩散率。</span><span class="english">The thermal diffusivity of steel and graphite is measured.</span></p>
 
 <p><span class="chinese">煤的灰层扩散系数对煤粒的燃烧有较大的影响。</span><span class="english">The barrier diffusivity of coal effects its combustion greatly.</span></p>

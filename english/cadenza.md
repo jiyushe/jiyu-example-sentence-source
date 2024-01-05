@@ -1,5 +1,7 @@
 # cadenza
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cadenza.md)
+
 <p><span class="chinese">建议准备一首华彩乐段。</span><span class="english">The preparation of one cadenza is expected.</span></p>
 
 <p><span class="chinese">这就是查克·曼卓林,和他的萨克斯手一起演出的一段华彩乐章</span><span class="english">So here's Chuck Mangione with his saxophonist and a saxophone cadenza.</span></p>

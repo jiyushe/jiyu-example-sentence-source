@@ -1,5 +1,7 @@
 # 号啕大哭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haotaodaku.md)
+
 <p><span class="chinese">我号啕大哭。</span><span class="english">I howled.</span></p>
 
 <p><span class="chinese">两秒钟，你像个婴儿一样号啕大哭。</span><span class="english">Two seconds, you're bawling like a baby.</span></p>

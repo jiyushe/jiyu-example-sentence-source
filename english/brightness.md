@@ -1,5 +1,7 @@
 # brightness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brightness.md)
+
 <p><span class="chinese">明度水平影响辨识的效应。</span><span class="english">The influence of changing brightness.</span></p>
 
 <p><span class="chinese">只要一个高亮度的LED灯就够了。</span><span class="english">A single high brightness LED is enough.</span></p>

@@ -1,5 +1,7 @@
 # tinea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tinea.md)
+
 <p><span class="chinese">如果脸上起了癣怎么办?。</span><span class="english">If how tinea rose to do on the face?</span></p>
 
 <p><span class="chinese">脖子上长癣用什么方法好冶？</span><span class="english">What method good smelt metal does long tinea use on the neck?</span></p>

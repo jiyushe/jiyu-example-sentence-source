@@ -1,5 +1,7 @@
 # radiotracer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radiotracer.md)
+
 <p><span class="chinese">SPECT成像显示额颞叶放射性摄取减低。</span><span class="english">SPECT imaging will demonstrate decreased radiotracer uptake in the frontal and temporal lobes.</span></p>
 
 <p><span class="chinese">污垢的定量分析在化学的重量分析以及放射性跟踪技术协助下，已能进行。</span><span class="english">Quantitative soil analyses have been accomplished by chemical gravimetric and radiotracer techniques.</span></p>

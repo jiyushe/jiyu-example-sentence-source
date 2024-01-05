@@ -1,5 +1,7 @@
 # 外事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waishi.md)
+
 <p><span class="chinese">一套礼服适合外事招待会。</span><span class="english">A formal gown befits the diplomatic reception.</span></p>
 
 <p><span class="chinese">他在公司的外事部工作。</span><span class="english">He works in the foreign division of the company.</span></p>

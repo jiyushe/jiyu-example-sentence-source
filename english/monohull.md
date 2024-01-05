@@ -1,5 +1,7 @@
 # monohull
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monohull.md)
+
 <p><span class="chinese">给出一种考虑粘性影响的单体复合船型运动预报的数值方法。</span><span class="english">A new method for predicting the motion of the hybrid monohull in regular wave is presented.</span></p>
 
 <p><span class="chinese">这在一定程度上说明双层油轮的制造费用与单体油轮相当。</span><span class="english">This means the expense for building a tandem hull is commensurate with that for a monohull.</span></p>

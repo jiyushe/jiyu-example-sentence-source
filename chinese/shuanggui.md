@@ -1,5 +1,7 @@
 # 双轨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuanggui.md)
+
 <p><span class="chinese">我们支持“双轨”战略。</span><span class="english">We stay committed to the "dual-track" strategy.</span></p>
 
 <p><span class="chinese">我们支持通过“双轨”战略处理伊朗核问题。</span><span class="english">We favor settling the issue through the "dual track" strategy.</span></p>

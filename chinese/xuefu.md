@@ -1,5 +1,7 @@
 # 学府
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuefu.md)
+
 <p><span class="chinese">这些高等学府对此做得足够多吗？</span><span class="english">Are we doing enough?</span></p>
 
 <p><span class="chinese">高等学府还能做些什么呢？</span><span class="english">What else can higher education do?</span></p>

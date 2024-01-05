@@ -1,5 +1,7 @@
 # 煞白
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shabai.md)
+
 <p><span class="chinese">阿切尔太太脸色煞白。</span><span class="english">Mrs. Archer paled.</span></p>
 
 <p><span class="chinese">高格看见了那支枪，脸色煞白。</span><span class="english">Gog saw the gun and his face went white.</span></p>

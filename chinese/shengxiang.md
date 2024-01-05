@@ -1,5 +1,7 @@
 # 圣像
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengxiang.md)
+
 <p><span class="chinese">他们在修道院中发现了一个圣像。</span><span class="english">They found an icon in the monastery.</span></p>
 
 <p><span class="chinese">圣像画匠的办公室，他们在隔壁工作。</span><span class="english">Icon painters’ premises. They work next door.</span></p>

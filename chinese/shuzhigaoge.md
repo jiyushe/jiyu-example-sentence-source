@@ -1,5 +1,7 @@
 # 束之高阁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuzhigaoge.md)
+
 <p><span class="chinese">那个自私的人把自己束之高阁。</span><span class="english">The  selfish man put himself on the  shelf.</span></p>
 
 <p><span class="chinese">我把和父亲有关的想法都束之高阁。</span><span class="english">I steeled myself against thoughts of my father.</span></p>

@@ -1,5 +1,7 @@
 # troponin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/troponin.md)
+
 <p><span class="chinese">研究表明肌钙蛋白实验能够检测无症状的心脏损伤。</span><span class="english">Studies have found that troponin testing can detect asymptomatic cardiac injury.</span></p>
 
 <p><span class="chinese">在开始跑步后一到两个小时内，所有人的肌钙蛋白水平都有增高。</span><span class="english">All had marked increases in troponin within one to two hours after they started running.</span></p>

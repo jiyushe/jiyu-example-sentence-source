@@ -1,5 +1,7 @@
 # 揭破
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiepo.md)
+
 <p><span class="chinese">奇怪的是没有一个人来揭破真面目。</span><span class="english">It was strange that no one pricked the bubble.</span></p>
 
 <p><span class="chinese">谎言被我揭破了，但他却一点也不羞愧。</span><span class="english">I exposed his lies, but he seemed not be ashamed at all.</span></p>

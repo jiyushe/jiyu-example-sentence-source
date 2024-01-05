@@ -1,5 +1,7 @@
 # 文房四宝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenfangsibao.md)
+
 <p><span class="chinese">什么是中国的文房四宝？</span><span class="english">What are China's four treasures of study?</span></p>
 
 <p><span class="chinese">被列为中国的文房四宝之一。</span><span class="english">Is listed as one of China's four treasures.</span></p>

@@ -1,5 +1,7 @@
 # 让开
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rangkai.md)
+
 <p><span class="chinese">快给我让开。</span><span class="english">Quick to me to open.</span></p>
 
 <p><span class="chinese">让开！你挡住我的路了！</span><span class="english">Step aside! You're in my way!</span></p>

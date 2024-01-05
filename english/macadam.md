@@ -1,5 +1,7 @@
 # macadam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/macadam.md)
+
 <p><span class="chinese">本工程为换填级配碎石。</span><span class="english">This engineering is change fill macadam.</span></p>
 
 <p><span class="chinese">这个名称的碎石建设原则，是目前仍在使用的。</span><span class="english">This name for the MacAdam building principle is still in use today.</span></p>

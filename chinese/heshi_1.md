@@ -1,5 +1,7 @@
 # 何时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heshi_1.md)
+
 <p><span class="chinese">何时迁移？</span><span class="english">When to migrate?</span></p>
 
 <p><span class="chinese">何时进行编译？</span><span class="english">When it compiles?</span></p>

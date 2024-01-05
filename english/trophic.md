@@ -1,5 +1,7 @@
 # trophic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trophic.md)
+
 <p><span class="chinese">喜马拉雅山南坡蚤类营养生态位的研究。</span><span class="english">Trophic niche of flea in the southern slope of the Himalaya Mountains.</span></p>
 
 <p><span class="chinese">路径多样性是反映生态系统营养结构多样性的一个重要侧面。</span><span class="english">The path diversity is one aspect of the trophic structure diversity of ecosystems.</span></p>

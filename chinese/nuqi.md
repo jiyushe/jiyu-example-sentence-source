@@ -1,5 +1,7 @@
 # 怒气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nuqi.md)
+
 <p><span class="chinese">他的怒气逐渐平息下来了。</span><span class="english">His anger died away.</span></p>
 
 <p><span class="chinese">他的怒气消了。</span><span class="english">His anger has abated.</span></p>

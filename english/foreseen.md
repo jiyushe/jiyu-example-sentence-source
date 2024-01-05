@@ -1,5 +1,7 @@
 # foreseen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foreseen.md)
+
 <p><span class="chinese">预见隐患犹如防患一半。</span><span class="english">A danger foreseen is half avoided.</span></p>
 
 <p><span class="chinese">室外消火栓系统不设计给水泵。</span><span class="english">No feeding pump is foreseen for external fire hydrant system.</span></p>

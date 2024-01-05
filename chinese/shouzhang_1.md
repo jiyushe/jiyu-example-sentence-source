@@ -1,5 +1,7 @@
 # 首长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouzhang_1.md)
+
 <p><span class="chinese">想成为一个省的警察首长吗？</span><span class="english">Want to be a provincial police chief?</span></p>
 
 <p><span class="chinese">但行政首长负责制的缺点也是明显的。</span><span class="english">But this plan also has obvious drawbacks.</span></p>

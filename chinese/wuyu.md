@@ -1,5 +1,7 @@
 # 吴语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuyu.md)
+
 <p><span class="chinese">本文集中讨论吴语遂昌话的后置成分。</span><span class="english">This thesis mainly discusses the post-positions of Suichang dialect, a Wu dialect.</span></p>
 
 <p><span class="chinese">这与吴语正在接近动词居末类型的事实是相和谐的。</span><span class="english">This feature accords with the fact that Wu dialects are approaching to a verb-final type.</span></p>

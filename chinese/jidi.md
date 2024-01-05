@@ -1,5 +1,7 @@
 # 迹地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jidi.md)
+
 <p><span class="chinese">此外，本研究也可用于指导毛竹林火烧迹地上的更新工作。</span><span class="english">Besides, this study also could be used in regeneration of fire-slash bamboo forest.</span></p>
 
 <p><span class="chinese">采伐剩余物迹地清理是森林作业的重要组成部分之一。</span><span class="english">Forest harvesting slash disposal is one of the important parts of forest operations.</span></p>

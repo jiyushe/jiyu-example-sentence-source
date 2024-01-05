@@ -1,5 +1,7 @@
 # 红茶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongcha.md)
+
 <p><span class="chinese">请给冰红茶！</span><span class="english">Ice tea, please.</span></p>
 
 <p><span class="chinese">那是泡沫红茶。</span><span class="english">It's bubble tea.</span></p>

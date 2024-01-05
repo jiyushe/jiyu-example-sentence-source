@@ -1,5 +1,7 @@
 # 鬼鬼祟祟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guiguisuisui.md)
+
 <p><span class="chinese">他骂他是一个鬼鬼祟祟的呆子。</span><span class="english">He calls him a sneaking fool!</span></p>
 
 <p><span class="chinese">她们看起来十分紧张，甚至有些鬼鬼祟祟。</span><span class="english">They were nervous, furtive even.</span></p>

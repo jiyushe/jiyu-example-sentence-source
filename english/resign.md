@@ -1,5 +1,7 @@
 # resign
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resign.md)
+
 <p><span class="chinese">弼成为此，引咎辞职。</span><span class="english">Bute into this, resign.</span></p>
 
 <p><span class="chinese">人们都传说他要辞职了。</span><span class="english">It is said he would resign.</span></p>

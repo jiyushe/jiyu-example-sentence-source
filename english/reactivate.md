@@ -1,5 +1,7 @@
 # reactivate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reactivate.md)
+
 <p><span class="chinese">—压力会重新启动坏习惯的循环。</span><span class="english">Stress can reactivate the bad-habit circuitry.</span></p>
 
 <p><span class="chinese">基米，你可以重新启动您的脑下垂体。</span><span class="english">With KIMI, you can reactivate your pituitary gland.</span></p>

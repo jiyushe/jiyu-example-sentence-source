@@ -1,5 +1,7 @@
 # 死刑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sixing.md)
+
 <p><span class="chinese">他被判处死刑。</span><span class="english">He was sentenced to death.</span></p>
 
 <p><span class="chinese">嘿，死刑能把你从中国弄出去！</span><span class="english">Hey, it gets you out of China!</span></p>

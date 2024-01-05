@@ -1,5 +1,7 @@
 # 胶带
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaodai_1.md)
+
 <p><span class="chinese">李夫人想要一些胶带。</span><span class="english">Mrs Li wants some tape.</span></p>
 
 <p><span class="chinese">封箱胶带请封2层。</span><span class="english">Do tape 2 layers of carton.</span></p>

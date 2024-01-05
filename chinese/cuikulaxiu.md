@@ -1,5 +1,7 @@
 # 摧枯拉朽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuikulaxiu.md)
+
 <p><span class="chinese">他们仇恨摧枯拉朽的民主春风。</span><span class="english">Theyhate the liberating breeze of democracy.</span></p>
 
 <p><span class="chinese">树木被切割机摧枯拉朽般砍倒。</span><span class="english">Trees are slashed down by the PLASMA CUTTERS.</span></p>

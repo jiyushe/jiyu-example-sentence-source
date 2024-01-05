@@ -1,5 +1,7 @@
 # 机器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiqi.md)
+
 <p><span class="chinese">机器运转良好。</span><span class="english">The machine works well.</span></p>
 
 <p><span class="chinese">那么，谁造了那些机器？</span><span class="english">So who made the machines?</span></p>

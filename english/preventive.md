@@ -1,5 +1,7 @@
 # preventive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preventive.md)
+
 <p><span class="chinese">做些预防治疗。</span><span class="english">Do some preventive self-treatment.</span></p>
 
 <p><span class="chinese">种了一次牛痘，起预防作用。</span><span class="english">Vaccination has a preventive effect.</span></p>

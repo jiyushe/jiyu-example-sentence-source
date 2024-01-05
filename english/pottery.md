@@ -1,5 +1,7 @@
 # pottery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pottery.md)
+
 <p><span class="chinese">我喜欢种盆栽和做陶艺。</span><span class="english">I fancy bonsai and pottery.</span></p>
 
 <p><span class="chinese">它们是陶土烧制而成的。</span><span class="english">They are kiln-fired pottery.</span></p>

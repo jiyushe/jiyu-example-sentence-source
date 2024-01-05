@@ -1,5 +1,7 @@
 # 干冷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganleng.md)
+
 <p><span class="chinese">第四步、吹干冷却管。</span><span class="english">Finally, the cooling pipe is dried.</span></p>
 
 <p><span class="chinese">冬天，空气干冷，寒风凛冽。</span><span class="english">It was winter with cold air and strong wind.</span></p>

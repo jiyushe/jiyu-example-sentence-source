@@ -1,5 +1,7 @@
 # 书卷气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shujuanqi.md)
+
 <p><span class="chinese">换言之“书卷气”是写在每个人脸上的。</span><span class="english">In the other word, it can be shown on people’s face.</span></p>
 
 <p><span class="chinese">我一向以为“书卷气”首先是可以“学而知之”的。</span><span class="english">that the scholarliness can be first be gained by social learning.</span></p>

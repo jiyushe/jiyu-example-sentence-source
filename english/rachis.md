@@ -1,5 +1,7 @@
 # rachis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rachis.md)
+
 <p><span class="chinese">花序轴“之”字形弯曲的有限花序。</span><span class="english">A determinate cymose inflorescence with a zigzag rachis.</span></p>
 
 <p><span class="chinese">这就很有趣了，因为羽轴似乎有助于飞行。</span><span class="english">That is interesting because the rachis seems to aid in flight.</span></p>

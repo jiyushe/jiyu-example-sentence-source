@@ -1,5 +1,7 @@
 # ingratiate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ingratiate.md)
+
 <p><span class="chinese">我以前常常对这样的“讨好”感到厌烦。</span><span class="english">I used to be upset by these attempts to ingratiate.</span></p>
 
 <p><span class="chinese">可是我这样的性格，实在不讨人喜欢。</span><span class="english">But my character is really cannot ingratiate others.</span></p>

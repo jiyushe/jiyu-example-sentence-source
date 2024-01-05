@@ -1,5 +1,7 @@
 # 应声虫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingshengchong.md)
+
 <p><span class="chinese">他是个应声虫。</span><span class="english">He is a yes -man.</span></p>
 
 <p><span class="chinese">他是主人的应声虫。</span><span class="english">He is an echo of his master.</span></p>

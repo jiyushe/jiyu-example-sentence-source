@@ -1,5 +1,7 @@
 # superannuation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superannuation.md)
+
 <p><span class="chinese">个人财务规划与退休金。</span><span class="english">Personal Financial Planning & Superannuation.</span></p>
 
 <p><span class="chinese">现在的教师得纳入国家退休金体系。</span><span class="english">Teachers now have to come under the State Superannuation Scheme.</span></p>

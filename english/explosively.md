@@ -1,5 +1,7 @@
 # explosively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/explosively.md)
+
 <p><span class="chinese">蒸汽可能引起闪火或具有爆炸性。</span><span class="english">Vapors may cause a flash fire or ignite explosively.</span></p>
 
 <p><span class="chinese">然而基督徒的人数却持续有爆炸性地成长。</span><span class="english">Yet the number of Christians continues to grow explosively.</span></p>

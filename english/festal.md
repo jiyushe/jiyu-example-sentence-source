@@ -1,5 +1,7 @@
 # festal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/festal.md)
+
 <p><span class="chinese">老师，节日快乐！</span><span class="english">Teacher, festal joy!</span></p>
 
 <p><span class="chinese">各族人民都沉浸在节日的气氛之中。</span><span class="english">The peoples are in a festal atmosphere.</span></p>

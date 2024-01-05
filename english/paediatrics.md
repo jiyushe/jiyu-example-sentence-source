@@ -1,5 +1,7 @@
 # paediatrics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paediatrics.md)
+
 <p><span class="chinese">有儿科专家吗？来帮帮我啊？</span><span class="english">Is there paediatrics expert? Will help me?</span></p>
 
 <p><span class="chinese">认知-行为疗法与儿科密切相关?。</span><span class="english">How Relevant is Cognitive-Behavioural Therapy in Paediatrics ?</span></p>

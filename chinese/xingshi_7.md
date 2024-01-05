@@ -1,5 +1,7 @@
 # 行使
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingshi_7.md)
+
 <p><span class="chinese">他喜欢行使自己的权力。</span><span class="english">He likes to exert his authority.</span></p>
 
 <p><span class="chinese">总统行使了他的否决权。</span><span class="english">The president used the power of veto.</span></p>

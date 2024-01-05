@@ -1,5 +1,7 @@
 # crewman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crewman.md)
+
 <p><span class="chinese">我除了在走廊里贴了应变部署表，还给每个人写了床头卡。</span><span class="english">I pasted contingency plan in corridor, besides, I wrote cards for every crewman.</span></p>
 
 <p><span class="chinese">载具乘员装备中的扳手比工兵的要弱一些。</span><span class="english">Carried by Crewmen, the Crewman Wrench is a much weaker version of the Engineer Wrench.</span></p>

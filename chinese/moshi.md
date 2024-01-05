@@ -1,5 +1,7 @@
 # 末世
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moshi.md)
+
 <p><span class="chinese">末世论是什么？</span><span class="english">What's eschatology?</span></p>
 
 <p><span class="chinese">我们生活在末世！</span><span class="english">We are living in the end-time!</span></p>

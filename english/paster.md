@@ -1,5 +1,7 @@
 # paster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paster.md)
+
 <p><span class="chinese">“就像有颗定时炸弹，”帕斯特女士说。</span><span class="english">“It seems like there’s a ticking time bomb, ” Ms. Paster said.</span></p>
 
 <p><span class="chinese">表面可喷不同的漆，可贴纸，打LOGO。</span><span class="english">The surface may gush different lacquer, but paster , strike LOGO.</span></p>

@@ -1,5 +1,7 @@
 # dm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dm.md)
+
 <p><span class="chinese">我真的不在意某些人的看法。</span><span class="english">I really don't care what the DM sour gits think.</span></p>
 
 <p><span class="chinese">但不要发一些机密的信息，除非你发的是私信。</span><span class="english">But avoid anything confidential unless it's a DM.</span></p>

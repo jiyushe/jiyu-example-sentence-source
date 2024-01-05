@@ -1,5 +1,7 @@
 # nm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nm.md)
+
 <p><span class="chinese">一纳米是十亿分之一米。</span><span class="english">One NM is one-1 billionth meter.</span></p>
 
 <p><span class="chinese">红外线发射器。峰值波长880纳米。</span><span class="english">Infrared emitter. Peak wavelength 880 nm.</span></p>

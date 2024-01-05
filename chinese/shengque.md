@@ -1,5 +1,7 @@
 # 省却
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengque.md)
+
 <p><span class="chinese">打个马虎眼有时可省却许多口舌来解释。</span><span class="english">A little inaccuracy sometimes saves tons of explanation.</span></p>
 
 <p><span class="chinese">这是显而易见的，从本质省却及拔萃管辖权。</span><span class="english">This is evident from the nature of dispensation and of diocesan jurisdiction.</span></p>

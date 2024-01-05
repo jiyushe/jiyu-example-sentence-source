@@ -1,5 +1,7 @@
 # corroborate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corroborate.md)
+
 <p><span class="chinese">问问你的朋友，他会向你证实这一点的。</span><span class="english">Your friend will corroborate this – ask them.</span></p>
 
 <p><span class="chinese">奥特先生表示最近的数据也符合这些趋势。</span><span class="english">Mr Autor says that more recent data corroborate these trends.</span></p>

@@ -1,5 +1,7 @@
 # 专柜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangui.md)
+
 <p><span class="chinese">专柜的背背佳多少钱？</span><span class="english">Back back good counter how much?</span></p>
 
 <p><span class="chinese">您得到袜子专柜去买。</span><span class="english">You can get them at the hosiery department.</span></p>

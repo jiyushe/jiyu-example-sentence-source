@@ -1,5 +1,7 @@
 # 政经
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengjing.md)
+
 <p><span class="chinese">野田佳彦是松下政经塾第一位执掌日本的校友。</span><span class="english">Mr Noda is the first Matsushita alumnus to lead Japan.</span></p>
 
 <p><span class="chinese">同时必须改变该地区的政经情况。</span><span class="english">It must also transform the region’s politics and economics.</span></p>

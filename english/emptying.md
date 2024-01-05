@@ -1,5 +1,7 @@
 # emptying
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emptying.md)
+
 <p><span class="chinese">在那之后就不要喝水，常上厕所。</span><span class="english">Stop drinking after that and keep emptying your bladder.</span></p>
 
 <p><span class="chinese">清空你的大脑可以让这些乱飞的思绪发生奇迹！</span><span class="english">Emptying your mind can do wonders for scattered thoughts!</span></p>

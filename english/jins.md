@@ -1,5 +1,7 @@
 # jins
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jins.md)
+
 <p><span class="chinese">放下千斤斧，快去勤植树！</span><span class="english">Put one thousand jins axe, go often plant trees!</span></p>
 
 <p><span class="chinese">一个月后，每匹马各瘦了二十斤。</span><span class="english">After a month, every horse each became thin 20 jins.</span></p>

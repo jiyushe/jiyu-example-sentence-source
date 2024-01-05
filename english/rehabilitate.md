@@ -1,5 +1,7 @@
 # rehabilitate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rehabilitate.md)
+
 <p><span class="chinese">普林西比希望为炼金术讨回名声。</span><span class="english">Dr Principe wants to rehabilitate alchemy.</span></p>
 
 <p><span class="chinese">而现在时间会为炼金术士们正名。</span><span class="english">Time, then, to rehabilitate the alchemists.</span></p>

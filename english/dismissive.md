@@ -1,5 +1,7 @@
 # dismissive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dismissive.md)
+
 <p><span class="chinese">“哦，你知道的，”他不满的摆了摆手。</span><span class="english">Oh, you know, " he waved a dismissive hand."</span></p>
 
 <p><span class="chinese">他做了一个很不屑的手势。“随你便。”</span><span class="english">He made a dismissive gesture. 'Suit yourself. '</span></p>

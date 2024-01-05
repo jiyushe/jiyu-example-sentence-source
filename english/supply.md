@@ -1,5 +1,7 @@
 # supply 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supply.md)
+
 <p><span class="chinese">嗨，是总务处吗？</span><span class="english">Hi. Is this supply?</span></p>
 
 <p><span class="chinese">您一定得输入作品名称。</span><span class="english">You must supply a title.</span></p>

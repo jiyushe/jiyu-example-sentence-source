@@ -1,5 +1,7 @@
 # 欢娱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanyu_1.md)
+
 <p><span class="chinese">当忆酷夏兮，鸡尾酒会欢娱。</span><span class="english">Hot summer. Cheerful Cocktail.</span></p>
 
 <p><span class="chinese">是的，我知道你们的欢娱与惆怅。</span><span class="english">Ay, I knew your joy and your pain.</span></p>

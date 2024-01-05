@@ -1,5 +1,7 @@
 # 盐湖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanhu_1.md)
+
 <p><span class="chinese">盐沼，盐泉，盐塘或盐湖。</span><span class="english">A salt marsh, spring, pond, or lake.</span></p>
 
 <p><span class="chinese">青海湖是中国最大的一个盐湖。</span><span class="english">Qinghai Lake is the biggest salt lake in China.</span></p>

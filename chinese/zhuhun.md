@@ -1,5 +1,7 @@
 # 主婚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuhun.md)
+
 <p><span class="chinese">我想知道谁将他们主婚。</span><span class="english">I wonder who will marry them.</span></p>
 
 <p><span class="chinese">这个牧师在教堂为这对夫妇主婚。</span><span class="english">The minister married the couple in the church.</span></p>

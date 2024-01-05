@@ -1,5 +1,7 @@
 # thd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thd.md)
+
 <p><span class="chinese">Trainz模拟器总谐波失真是Android的一个世界第一！</span><span class="english">Trainz Simulator THD is a world first for Android!</span></p>
 
 <p><span class="chinese">这位讲师细心准备课程。</span><span class="english">The instructor prepared thd class lesson carefully.</span></p>

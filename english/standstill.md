@@ -1,5 +1,7 @@
 # standstill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/standstill.md)
+
 <p><span class="chinese">却在断裂处停顿。</span><span class="english">But in the breaks in a standstill.</span></p>
 
 <p><span class="chinese">鲍勃把马骑得走不动了。</span><span class="english">Bob rode his horse to a standstill.</span></p>

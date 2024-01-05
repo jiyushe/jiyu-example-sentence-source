@@ -1,5 +1,7 @@
 # 松鼠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songshu.md)
+
 <p><span class="chinese">松鼠是非常温驯的。</span><span class="english">The squirrels are very tame.</span></p>
 
 <p><span class="chinese">松鼠喜欢吃榛子。</span><span class="english">Squirrels like to eat hazels.</span></p>

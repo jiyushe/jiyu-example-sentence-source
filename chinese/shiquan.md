@@ -1,5 +1,7 @@
 # 事权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiquan.md)
+
 <p><span class="chinese">安能摧眉折腰事权贵，使我不得开心颜。</span><span class="english">Such things can never make my heart rejoice.</span></p>
 
 <p><span class="chinese">合伙伙伴对信用卡协议中的条款拥有话事权。</span><span class="english">Partners also have a say in the terms of the credit agreements.</span></p>

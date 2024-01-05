@@ -1,5 +1,7 @@
 # 融会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ronghui.md)
+
 <p><span class="chinese">一旦盐份融会，会留下灰白色的物质，这就是碳酸钾。</span><span class="english">Once the salts melt, a gray-white substance is left. This is potash.</span></p>
 
 <p><span class="chinese">它拔取物理的办法，融会双面的导电线路拆开。</span><span class="english">It uses the methods in physics, electrical transfixion double-sided circuit connection.</span></p>

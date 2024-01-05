@@ -1,5 +1,7 @@
 # cathepsin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cathepsin.md)
+
 <p><span class="chinese">基质金属蛋白酶-8，11，19和组织蛋白酶B在异常胎盘绒毛组织中的表达。</span><span class="english">Expression of matrix metalloproteinase-8,11,19 and cathepsin B in abnormal placental tissues.</span></p>
 
 <p><span class="chinese">组织蛋白酶D检测有助于了解含黏液腺癌的胃癌的生物学行为。</span><span class="english">Cathepsin D expression can help for understanding the biological behavior of CMAC of the stomach.</span></p>

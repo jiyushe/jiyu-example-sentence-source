@@ -1,5 +1,7 @@
 # crate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crate.md)
+
 <p><span class="chinese">他喝了整箱啤酒吧！</span><span class="english">He drank a whole crate of beer!</span></p>
 
 <p><span class="chinese">我可以把你放在板条箱里运出去。</span><span class="english">I can ship you out in my crate.</span></p>

@@ -1,5 +1,7 @@
 # acid 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acid_1.md)
+
 <p><span class="chinese">死去的婴儿都是酸。</span><span class="english">Dead ones are acid.</span></p>
 
 <p><span class="chinese">酸腐蚀金属。</span><span class="english">Acid eats into metal.</span></p>

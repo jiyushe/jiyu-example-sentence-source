@@ -1,5 +1,7 @@
 # shrilly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shrilly.md)
+
 <p><span class="chinese">几只蚊子发出咻咻的尖声。</span><span class="english">A few mosquitoes are pinging shrilly.</span></p>
 
 <p><span class="chinese">然后他下降，他尖声大叫一次。</span><span class="english">And then as he dropped, he screamed once shrilly.</span></p>

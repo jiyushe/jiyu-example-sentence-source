@@ -1,5 +1,7 @@
 # condom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/condom.md)
+
 <p><span class="chinese">发明了老二皮的保险套？</span><span class="english">I made a dick-skin condom?</span></p>
 
 <p><span class="chinese">何时使用女用避孕套？</span><span class="english">When to use a female condom?</span></p>

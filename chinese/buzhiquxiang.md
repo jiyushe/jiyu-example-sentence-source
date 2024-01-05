@@ -1,5 +1,7 @@
 # 不知去向
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buzhiquxiang.md)
+
 <p><span class="chinese">汤姆不知去向了，我们再未听见他的消息。</span><span class="english">Tom disappeared and we never heard of him.</span></p>
 
 <p><span class="chinese">大家再睁眼看时，江已经不知去向了。</span><span class="english">When they could see again, Chiang was gone.</span></p>

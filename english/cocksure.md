@@ -1,5 +1,7 @@
 # cocksure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cocksure.md)
+
 <p><span class="chinese">小公鸡自然是极其自信的。</span><span class="english">The cockerel is, naturally, cocksure.</span></p>
 
 <p><span class="chinese">小公鸡自然是极其自傲的。</span><span class="english">The cockerel is, naturally, cocksure.</span></p>

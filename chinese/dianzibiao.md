@@ -1,5 +1,7 @@
 # 电子表
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dianzibiao.md)
+
 <p><span class="chinese">你那个是电子表吗？</span><span class="english">Is your watch digital.</span></p>
 
 <p><span class="chinese">这是一块电子表。</span><span class="english">This is a digital watch.</span></p>

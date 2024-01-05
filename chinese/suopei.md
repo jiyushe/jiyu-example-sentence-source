@@ -1,5 +1,7 @@
 # 索赔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suopei.md)
+
 <p><span class="chinese">设置索赔金额。</span><span class="english">Sets the claim amount.</span></p>
 
 <p><span class="chinese">索赔金额正在理算中。</span><span class="english">The claim is being adjusted.</span></p>

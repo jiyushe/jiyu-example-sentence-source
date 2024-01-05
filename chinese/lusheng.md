@@ -1,5 +1,7 @@
 # 芦笙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lusheng.md)
+
 <p><span class="chinese">吹起芦笙，弹起牛腿琴。</span><span class="english">Lusheng blowing, bouncing Qin bracket.</span></p>
 
 <p><span class="chinese">拉祜族节日跳芦笙舞，澜沧县还过“葫芦节”。</span><span class="english">Lusheng dance is performed on Lahu traditional festivals such as Gourd Festival.</span></p>

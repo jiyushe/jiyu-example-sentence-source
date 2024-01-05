@@ -1,5 +1,7 @@
 # belligerent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/belligerent.md)
+
 <p><span class="chinese">男人只有在好斗的时候才像男人。</span><span class="english">A men is virile only when he is belligerent.</span></p>
 
 <p><span class="chinese">一个全国好战的国家？</span><span class="english">A whole nation of belligerent , snappish people ?</span></p>

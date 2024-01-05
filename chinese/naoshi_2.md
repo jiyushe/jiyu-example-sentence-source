@@ -1,5 +1,7 @@
 # 闹市
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naoshi_2.md)
+
 <p><span class="chinese">此时传来一声喊叫，似乎一个男人叫喊着闹市大街的沙丁鱼。</span><span class="english">Now a cry sounded, as of a man calling pilchards in a main street.</span></p>
 
 <p><span class="chinese">潜居闹市，安享静巷名门的诗意生活。</span><span class="english">Habitat busy submarine, to enjoy a quiet alley door of poetic life.</span></p>

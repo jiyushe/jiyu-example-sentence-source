@@ -1,5 +1,7 @@
 # 五彩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wucai.md)
+
 <p><span class="chinese">太阳红红的，放射出五彩的光芒。</span><span class="english">Red sun, and emit colored light.</span></p>
 
 <p><span class="chinese">也使用了五彩纸屑和锯木屑。</span><span class="english">Confetti and sawdust have also been used.</span></p>

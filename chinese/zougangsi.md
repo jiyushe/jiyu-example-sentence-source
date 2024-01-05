@@ -1,5 +1,7 @@
 # 走钢丝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zougangsi.md)
+
 <p><span class="chinese">高空走钢丝巡查电网的机器人</span><span class="english">High-Wire Robot to Inspect the Grid</span></p>
 
 <p><span class="chinese">走钢丝的人靠向前移动来保持他的平衡。</span><span class="english">This person holds his balance while moving forward.</span></p>

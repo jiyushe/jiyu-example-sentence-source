@@ -1,5 +1,7 @@
 # 向学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangxue.md)
+
 <p><span class="chinese">最后，我们向学伴说了再见。</span><span class="english">Finally, we said goodbye to our partners.</span></p>
 
 <p><span class="chinese">小张一心向学，厉志要成为一名科学家。</span><span class="english">Xiao Zhang works very hard to be a scientist.</span></p>

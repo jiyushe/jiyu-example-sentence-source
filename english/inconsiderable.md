@@ -1,5 +1,7 @@
 # inconsiderable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inconsiderable.md)
+
 <p><span class="chinese">不要听他那考虑不周全的主意！</span><span class="english">Don't listen to his inconsiderable idea.</span></p>
 
 <p><span class="chinese">他在一个小小村落中度过他的一生。</span><span class="english">He passed his life in an inconsiderable village.</span></p>

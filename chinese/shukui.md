@@ -1,5 +1,7 @@
 # 蜀葵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shukui.md)
+
 <p><span class="chinese">需要你的蜀葵关怀他们的水，然后让他们干出。</span><span class="english">Caring for hollyhocks requires you to water them and then let them dry out.</span></p>
 
 <p><span class="chinese">在花园里几株高高的蜀葵下面，我发现了细小的足迹。</span><span class="english">I found some slick little trails out in our garden down under some tall hollyhocks.</span></p>

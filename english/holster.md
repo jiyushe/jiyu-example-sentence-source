@@ -1,5 +1,7 @@
 # holster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/holster.md)
+
 <p><span class="chinese">衬衫做好后，我开始创建手枪皮套。</span><span class="english">After the shirt is modeled, I create the gun holster.</span></p>
 
 <p><span class="chinese">这也是为什么我们喜欢的抓斗，这包小工具皮套。</span><span class="english">And that's why we love the Grab-It Pack Gadget Holster.</span></p>

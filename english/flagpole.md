@@ -1,5 +1,7 @@
 # flagpole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flagpole.md)
+
 <p><span class="chinese">旗杆向南倾斜。</span><span class="english">The flagpole leans to the south.</span></p>
 
 <p><span class="chinese">那支旗竿逐渐变细成尖头。</span><span class="english">The flagpole tapered off to a point.</span></p>

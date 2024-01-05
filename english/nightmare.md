@@ -1,5 +1,7 @@
 # nightmare
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nightmare.md)
+
 <p><span class="chinese">不，我做了个恶梦。</span><span class="english">No.I had a nightmare.</span></p>
 
 <p><span class="chinese">他在做着噩梦。</span><span class="english">He is having a nightmare.</span></p>

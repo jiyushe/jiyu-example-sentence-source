@@ -1,5 +1,7 @@
 # shrink
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shrink.md)
+
 <p><span class="chinese">科学呀，我无处可逃。</span><span class="english">From science I shrink.</span></p>
 
 <p><span class="chinese">这种料子缩水吗？</span><span class="english">Will this material shrink?</span></p>

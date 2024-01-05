@@ -1,5 +1,7 @@
 # atlantis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atlantis.md)
+
 <p><span class="chinese">他们活在亚特兰提斯岛阴暗之地。</span><span class="english">Lived they in Atlantis as shadows.</span></p>
 
 <p><span class="chinese">亚特兰提斯城仍旧是一个谜团。</span><span class="english">The city of Atlantis remains a mystery.</span></p>

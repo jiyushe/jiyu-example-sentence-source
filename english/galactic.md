@@ -1,5 +1,7 @@
 # galactic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/galactic.md)
+
 <p><span class="chinese">他们直接陷入了银河帝国。</span><span class="english">They ran straight into the Galactic Empire.</span></p>
 
 <p><span class="chinese">地球这颗行星将会在2012年穿过银道面吗？</span><span class="english">Will Earth pass through the galactic plane in 2012?</span></p>

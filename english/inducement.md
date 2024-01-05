@@ -1,5 +1,7 @@
 # inducement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inducement.md)
+
 <p><span class="chinese">信息不对称是博弈各方不合作的主要诱因。</span><span class="english">Information asymmetry is the main inducement of noncooperation.</span></p>
 
 <p><span class="chinese">既往没有食道炎和胃炎的病史。</span><span class="english">There was on inducement and history of esophagitis or gastritis.</span></p>

@@ -1,5 +1,7 @@
 # 酪素
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laosu.md)
+
 <p><span class="chinese">同时，对改性酪素的成膜性能、涂饰应用性能进行了研究。</span><span class="english">The characterizations of film and application in finishing were studied.</span></p>
 
 <p><span class="chinese">介绍了制备无酪素颜料膏的一种新方法。</span><span class="english">A preparation methods of a novel pigment containing no casein is introduced.</span></p>

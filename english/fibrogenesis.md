@@ -1,5 +1,7 @@
 # fibrogenesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fibrogenesis.md)
+
 <p><span class="chinese">我们有其他非侵入性方法来诊断并检测肝纤维化。</span><span class="english">We have other non-invasive methods to diagnose and monitor liver fibrogenesis.</span></p>
 
 <p><span class="chinese">目的研究肝纤维化的发生机制，寻找新的与肝纤维化相关的生物学标志物。</span><span class="english">Objective To study the mechanism of liver fibrogenesis and to find new non-invasive biomarkers.</span></p>

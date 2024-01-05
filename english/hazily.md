@@ -1,5 +1,7 @@
 # hazily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hazily.md)
+
 <p><span class="chinese">阳台上。夜色朦胧。</span><span class="english">In the balcony, the night is hazily.</span></p>
 
 <p><span class="chinese">他们的眼睛朦朦胧胧，他们的耳朵似听非听</span><span class="english">Their eyes and ears take in all sights and sounds hazily</span></p>

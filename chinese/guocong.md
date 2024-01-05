@@ -1,5 +1,7 @@
 # 过从
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guocong.md)
+
 <p><span class="chinese">你是否尝试过从老板的角度来看待自己？</span><span class="english">Have you tried to see yourself through your boss's eyes?</span></p>
 
 <p><span class="chinese">30年前，我曾经同样做过从伊斯坦布尔到德黑兰旅行。</span><span class="english">I had made this same Istanbul-to-Tehran trip 30 years ago.</span></p>

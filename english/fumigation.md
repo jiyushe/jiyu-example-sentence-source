@@ -1,5 +1,7 @@
 # fumigation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fumigation.md)
+
 <p><span class="chinese">防治的方法包括毒杀和熏蒸。</span><span class="english">Methods of control involved poisoning and fumigation.</span></p>
 
 <p><span class="chinese">茄子根煎水，趁热熏洗患处，可治冻疮。</span><span class="english">Hot water, fry eggplants root nozzle, fumigation chilblain.</span></p>

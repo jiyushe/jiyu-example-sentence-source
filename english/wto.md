@@ -1,5 +1,7 @@
 # wto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wto.md)
+
 <p><span class="chinese">中国要求美国就轮胎特保案启动WTO磋商。</span><span class="english">China takes US to WTO over tire tariffs.</span></p>
 
 <p><span class="chinese">而是我要证明他们是舛错的。</span><span class="english">It wto regardeds regards to proving them wrong!</span></p>

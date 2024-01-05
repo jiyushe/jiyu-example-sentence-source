@@ -1,5 +1,7 @@
 # 皑皑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aiai.md)
+
 <p><span class="chinese">我是钻石般闪耀的皑皑白雪。</span><span class="english">I am the diamond glints of snow.</span></p>
 
 <p><span class="chinese">群山都被皑皑白雪素裹着。</span><span class="english">The hills were blanketed in snow.</span></p>

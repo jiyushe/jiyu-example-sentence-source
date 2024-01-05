@@ -1,5 +1,7 @@
 # 死灰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sihui_1.md)
+
 <p><span class="chinese">寒风使树叶变得槁木死灰。</span><span class="english">A cold wind sears the leaves.</span></p>
 
 <p><span class="chinese">弗朗西斯面如死灰。</span><span class="english">Francis was as pale as death.</span></p>

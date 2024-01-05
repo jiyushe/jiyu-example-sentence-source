@@ -1,5 +1,7 @@
 # vaporise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vaporise.md)
+
 <p><span class="chinese">创伤与苦恼，在安息中自然清除。</span><span class="english">Wounds and ftustration vaporise in rest.</span></p>
 
 <p><span class="chinese">之后，他们用喷灯蒸发水银，最终提取黄金。</span><span class="english">They then vaporise the mercury using a blowtorch, leaving gold behind.</span></p>

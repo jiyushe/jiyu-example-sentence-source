@@ -1,5 +1,7 @@
 # 蒸馏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengliu_1.md)
+
 <p><span class="chinese">液体被加热时会蒸馏。</span><span class="english">The liquid distils when heated.</span></p>
 
 <p><span class="chinese">蒸馏后就把叶子压碎。</span><span class="english">Then the leaves will be crushed.</span></p>

@@ -1,5 +1,7 @@
 # determinedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/determinedly.md)
+
 <p><span class="chinese">“我清楚得很，”老头子坚持道。</span><span class="english">"I know enough, " insisted old Archibald, determinedly.</span></p>
 
 <p><span class="chinese">但是现在新一波的拉美裔移民则断然决然地坚持使用西班牙语。</span><span class="english">But the new Hispanics are determinedly sticking to Spanish.</span></p>

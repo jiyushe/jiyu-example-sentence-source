@@ -1,5 +1,7 @@
 # amoeboid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amoeboid.md)
+
 <p><span class="chinese">变形虫阶段的细胞仍不含内共生菌。</span><span class="english">Cells of the amoeboid stage lacked the methanogenic endosymbionts.</span></p>
 
 <p><span class="chinese">轴突前端有变形虫般的构造，会牵引轴突往前生长。</span><span class="english">The axon then continues to grow, towed by an amoeboid structure at its tip.</span></p>

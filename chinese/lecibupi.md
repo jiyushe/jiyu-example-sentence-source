@@ -1,5 +1,7 @@
 # 乐此不疲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lecibupi.md)
+
 <p><span class="chinese">你可以从远鱼银行乐此不疲。</span><span class="english">You can fish from the zar bank with ease.</span></p>
 
 <p><span class="chinese">惦念着你。记得，空小寂乐此不疲。</span><span class="english">Miss you. Remember that silence never small space.</span></p>

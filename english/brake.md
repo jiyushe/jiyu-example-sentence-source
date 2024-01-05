@@ -1,5 +1,7 @@
 # brake
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brake.md)
+
 <p><span class="chinese">调整绞车刹把。</span><span class="english">Adjust the brake band.</span></p>
 
 <p><span class="chinese">刹车油位低。</span><span class="english">Brake fluid level low.</span></p>

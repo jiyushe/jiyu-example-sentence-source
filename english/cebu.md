@@ -1,5 +1,7 @@
 # cebu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cebu.md)
+
 <p><span class="chinese">你好，我们是在菲律宾宿务位于公司。</span><span class="english">Hi We are a company located in Cebu Philippines.</span></p>
 
 <p><span class="chinese">最近的机场在距港口20.9公里的宿务市。</span><span class="english">The nearest airport from the port of Cebu City, 20.9 km.</span></p>

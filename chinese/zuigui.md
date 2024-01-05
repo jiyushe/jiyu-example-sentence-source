@@ -1,5 +1,7 @@
 # 醉鬼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuigui.md)
+
 <p><span class="chinese">这些醉鬼在喧哗吵闹。</span><span class="english">The drunkards are brawly.</span></p>
 
 <p><span class="chinese">虽然醉鬼酣睡又打呼噜。</span><span class="english">Though drunkards lie and snore.</span></p>

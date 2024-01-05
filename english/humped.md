@@ -1,5 +1,7 @@
 # humped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humped.md)
+
 <p><span class="chinese">我把箱子背到楼上。</span><span class="english">I humped the case upstairs.</span></p>
 
 <p><span class="chinese">猫咪见到狗后弓起了背。</span><span class="english">Cat's back humped when she saw a dog.</span></p>

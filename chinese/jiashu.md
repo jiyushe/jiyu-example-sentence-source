@@ -1,5 +1,7 @@
 # 加数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiashu.md)
+
 <p><span class="chinese">最后加数滴白松露油。</span><span class="english">Finally add a few drops of white truffle oil.</span></p>
 
 <p><span class="chinese">让我们听听学生们加数做得如何吧！</span><span class="english">Let's hear how well the students can add together.</span></p>

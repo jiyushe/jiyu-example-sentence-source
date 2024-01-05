@@ -1,5 +1,7 @@
 # 应答
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingda.md)
+
 <p><span class="chinese">语音应答装置?。</span><span class="english">VAB? Voice Answer Back?</span></p>
 
 <p><span class="chinese">一个男人在另一端应答了电话。</span><span class="english">A man on the other end answers.</span></p>

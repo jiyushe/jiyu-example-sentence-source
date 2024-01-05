@@ -1,5 +1,7 @@
 # enactment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enactment.md)
+
 <p><span class="chinese">一三章程之订定及修改。</span><span class="english">Enactment and revision of articles.</span></p>
 
 <p><span class="chinese">这个法规的颁布，犹如给我们配备了上方宝剑。</span><span class="english">The enactment of this regulation gives us discretionary power.</span></p>

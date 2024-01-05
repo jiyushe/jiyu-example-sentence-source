@@ -1,5 +1,7 @@
 # groping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/groping.md)
+
 <p><span class="chinese">他们正在探求真理。</span><span class="english">They are groping after the truth.</span></p>
 
 <p><span class="chinese">循声而去，便轻而易举地找到了那间屋子。</span><span class="english">Groping for the sound, we find the house easily.</span></p>

@@ -1,5 +1,7 @@
 # 拼音文字
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinyinwenzi.md)
+
 <p><span class="chinese">要应用“拼音文字”，请至少选定一个字符。</span><span class="english">To apply a Ruby, select at least one character.</span></p>
 
 <p><span class="chinese">那个人能把拼音文字写得像中国汉字这样出神入化？</span><span class="english">The man can write alphabetic characters such as China, superb?</span></p>

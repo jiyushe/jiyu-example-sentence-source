@@ -1,5 +1,7 @@
 # archaean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/archaean.md)
+
 <p><span class="chinese">然而，在许多太古代地层里这些基本地质资料很少用可供利用的。</span><span class="english">However, these basic geological data are rarely available in many Archaean terrains.</span></p>
 
 <p><span class="chinese">夹皮沟金矿产于晚太古宙绿岩带的下部层位。</span><span class="english">The Jiapigou gold deposit lies in the lower part of the late Archaean greenstone belt.</span></p>

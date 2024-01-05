@@ -1,5 +1,7 @@
 # retraction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retraction.md)
+
 <p><span class="chinese">他的退缩表示他态度有了变化。</span><span class="english">His retraction predicates a change of attitude.</span></p>
 
 <p><span class="chinese">全新的样品回缩功能，提高切片质量。</span><span class="english">The new specimen retraction function, improve slice quality.</span></p>

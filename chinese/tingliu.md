@@ -1,5 +1,7 @@
 # 停留
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingliu.md)
+
 <p><span class="chinese">他们怎样停留在那里？</span><span class="english">How do they stay there?</span></p>
 
 <p><span class="chinese">在口井前，我将停留。</span><span class="english">At the well, I would stall.</span></p>

@@ -1,5 +1,7 @@
 # 绪论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xulun_1.md)
+
 <p><span class="chinese">第一章是绪论部分。</span><span class="english">Chapter one is a introduction part.</span></p>
 
 <p><span class="chinese">我看书时常常略去绪论。</span><span class="english">I always jump introduction to read books.</span></p>

@@ -1,5 +1,7 @@
 # stigmatize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stigmatize.md)
+
 <p><span class="chinese">他们都批准和诬蔑某些行为。</span><span class="english">They both ratify and stigmatize certain behaviors.</span></p>
 
 <p><span class="chinese">我们将贬低没有实现这个目标的任何人。</span><span class="english">We will stigmatize everyone who doesn't meet the goal.</span></p>

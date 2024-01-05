@@ -1,5 +1,7 @@
 # alright
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alright.md)
+
 <p><span class="chinese">好吧。</span><span class="english">Well, alright.</span></p>
 
 <p><span class="chinese">有点疯狂，不过没问题。</span><span class="english">Hectic, but alright.</span></p>

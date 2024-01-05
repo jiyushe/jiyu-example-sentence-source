@@ -1,5 +1,7 @@
 # 雄心勃勃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongxinbobo.md)
+
 <p><span class="chinese">这项计划雄心勃勃。</span><span class="english">The program is laudably ambitious.</span></p>
 
 <p><span class="chinese">希拉里也是一个雄心勃勃的女孩。</span><span class="english">Hilary is also an ambitious50 girl.</span></p>

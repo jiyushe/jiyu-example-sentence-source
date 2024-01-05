@@ -1,5 +1,7 @@
 # immoral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immoral.md)
+
 <p><span class="chinese">它是坏的吗？是不道德的吗？</span><span class="english">So it that bad? Is that immoral?</span></p>
 
 <p><span class="chinese">你在梦境里是否道德败坏？</span><span class="english">And can you be immoral in a dream?</span></p>

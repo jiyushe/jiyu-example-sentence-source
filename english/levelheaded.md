@@ -1,5 +1,7 @@
 # levelheaded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/levelheaded.md)
+
 <p><span class="chinese">保持冷静和明智。</span><span class="english">Remain calm and levelheaded.</span></p>
 
 <p><span class="chinese">在爱情上她的头脑非常冷静。</span><span class="english">She's remarkably levelheaded about the love.</span></p>

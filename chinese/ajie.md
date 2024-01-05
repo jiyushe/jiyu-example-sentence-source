@@ -1,5 +1,7 @@
 # 阿姐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ajie.md)
+
 <p><span class="chinese">比较喜阿姐留长发还是短发？</span><span class="english">Do you prefer Zoe with long or short hair?</span></p>
 
 <p><span class="chinese">薇芸往医院探望阿姐谢柳欣，冤家路窄遇康莉。</span><span class="english">Eu non-success went to the hospital to visit sister Xie Liuxin, way to go to meet comrade.</span></p>

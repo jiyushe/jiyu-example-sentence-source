@@ -1,5 +1,7 @@
 # historicism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/historicism.md)
+
 <p><span class="chinese">历史相对论强调变化的重要性。</span><span class="english">Historicism stresses the importance of change.</span></p>
 
 <p><span class="chinese">福柯是对新历史主义影响最大的人。</span><span class="english">and Foucault is the primary influence on the New Historicism.</span></p>

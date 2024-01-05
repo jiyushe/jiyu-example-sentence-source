@@ -1,5 +1,7 @@
 # worsted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/worsted.md)
+
 <p><span class="chinese">吉姆轻而易举地击败了迪克。</span><span class="english">Jim worsted Dick easily.</span></p>
 
 <p><span class="chinese">它的六位对手让它变坏。</span><span class="english">Its six opponents worsted it.</span></p>

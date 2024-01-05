@@ -1,5 +1,7 @@
 # throwing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/throwing.md)
+
 <p><span class="chinese">掷标枪。</span><span class="english">Throwing the javelin.</span></p>
 
 <p><span class="chinese">你扔雷的那胳膊怎么样？</span><span class="english">How's your throwing arm?</span></p>

@@ -1,5 +1,7 @@
 # 牧场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muchang_1.md)
+
 <p><span class="chinese">撒向那牧场枯渴的草地。</span><span class="english">Over the thirsty paddocks.</span></p>
 
 <p><span class="chinese">他们的田地都只是一些牧场。</span><span class="english">Their fields are mere paddocks.</span></p>

@@ -1,5 +1,7 @@
 # 风声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengsheng.md)
+
 <p><span class="chinese">她谈笑风声地谈论艺术。</span><span class="english">She talked gaily of art.</span></p>
 
 <p><span class="chinese">据说他听到了风声。</span><span class="english">Supposedly he was tipped off.</span></p>

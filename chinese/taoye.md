@@ -1,5 +1,7 @@
 # 陶冶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taoye.md)
+
 <p><span class="chinese">你必要去疏通陶冶一下。</span><span class="english">You need to workout.</span></p>
 
 <p><span class="chinese">这是一本陶冶情操的书。</span><span class="english">This is an edifying book.</span></p>

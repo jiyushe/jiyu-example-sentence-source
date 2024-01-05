@@ -1,5 +1,7 @@
 # acetophenone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acetophenone.md)
+
 <p><span class="chinese">其中最有代表性的是乙苯氧化制苯乙酮。</span><span class="english">A typical example is the oxidation of ethylbenzene to prepare acetophenone.</span></p>
 
 <p><span class="chinese">其中最有代表性的是乙苯氧化制苯乙酮。</span><span class="english">A typical example is the oxidation of ethylbenzene to prepare acetophenone.</span></p>

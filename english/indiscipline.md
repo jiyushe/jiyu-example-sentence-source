@@ -1,5 +1,7 @@
 # indiscipline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indiscipline.md)
+
 <p><span class="chinese">为自己的财政违规而指责他人并不会减少我们的债务。</span><span class="english">Blaming others for our own fiscal indiscipline will not reduce our debt.</span></p>
 
 <p><span class="chinese">负疚的双亲用礼物和放松管教来迁就孩子。</span><span class="english">Guilt-ridden, parents then indulge their children with gifts and indiscipline.</span></p>

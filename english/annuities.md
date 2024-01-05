@@ -1,5 +1,7 @@
 # annuities
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/annuities.md)
+
 <p><span class="chinese">我现在仍不知道年金为何物。</span><span class="english">I still don't know what annuities are.</span></p>
 
 <p><span class="chinese">负责任的公司应该在老员工退休后提供养老金。</span><span class="english">A responsible company is supposed to provide old employees annuities after retirement.</span></p>

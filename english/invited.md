@@ -1,5 +1,7 @@
 # invited
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invited.md)
+
 <p><span class="chinese">她邀请我去喝了茶。</span><span class="english">She invited me to tea.</span></p>
 
 <p><span class="chinese">我已约了王同志。</span><span class="english">I've invited Comrade Wang.</span></p>

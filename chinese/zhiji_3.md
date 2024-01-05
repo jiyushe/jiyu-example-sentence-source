@@ -1,5 +1,7 @@
 # 织机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiji_3.md)
+
 <p><span class="chinese">片梭织机必须与光盘兼容。</span><span class="english">Must be compatible with ROM Gripper.</span></p>
 
 <p><span class="chinese">有梭织机是多种多样的，它可分为三类。</span><span class="english">The old woman was weaving tweed on her loom.</span></p>

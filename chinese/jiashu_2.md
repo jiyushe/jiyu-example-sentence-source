@@ -1,5 +1,7 @@
 # 家属
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiashu_2.md)
+
 <p><span class="chinese">这一讯息已电告其家属了。</span><span class="english">The news was cabled to his family.</span></p>
 
 <p><span class="chinese">他们把这个消息电告她的家属。</span><span class="english">They cabled the news to her family.</span></p>

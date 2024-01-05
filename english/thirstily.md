@@ -1,5 +1,7 @@
 # thirstily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thirstily.md)
+
 <p><span class="chinese">他如饥似渴地读着报纸。</span><span class="english">He read through the newspaper thirstily.</span></p>
 
 <p><span class="chinese">他如饥似渴地读着报纸。</span><span class="english">He read throught the newspaper thirstily.</span></p>

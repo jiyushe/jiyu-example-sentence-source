@@ -1,5 +1,7 @@
 # gamin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gamin.md)
+
 <p><span class="chinese">这是一个纯粹的野伢子。</span><span class="english">That is the pure-bred gamin.</span></p>
 
 <p><span class="chinese">这一点巴黎的浪子知道得很清楚。</span><span class="english">The Paris gamin was quite aware of the fact.</span></p>

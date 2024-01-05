@@ -1,5 +1,7 @@
 # there
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/there.md)
+
 <p><span class="chinese">呆在那儿。</span><span class="english">Stay there.</span></p>
 
 <p><span class="chinese">那就从这开始。</span><span class="english">Start there.</span></p>

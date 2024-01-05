@@ -1,5 +1,7 @@
 # 墙角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangjiao.md)
+
 <p><span class="chinese">你走到墙角站好。</span><span class="english">Walk to the corner.</span></p>
 
 <p><span class="chinese">另一位站在墙角撒尿。</span><span class="english">Another urinated on a wall.</span></p>

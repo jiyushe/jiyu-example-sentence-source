@@ -1,5 +1,7 @@
 # lipin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lipin.md)
+
 <p><span class="chinese">广泛适用于食品、医药、油脂等各行业，可灌装不同液体粘度类产品。</span><span class="english">Widely used in pharmacy, food and lipin. Agree with material of different viscosity.</span></p>
 
 <p><span class="chinese">皮肤的天然吸尘器，对汗毛孔的污垢及毒素做深层清洁，吸附多余油脂和老化角质。</span><span class="english">Natural cleaner of skin, more tender cleansing to the dirt of pore and the toxin, absorbing extra lipin and cutin.</span></p>

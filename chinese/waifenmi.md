@@ -1,5 +1,7 @@
 # 外分泌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waifenmi.md)
+
 <p><span class="chinese">唾液是由外分泌腺分泌出来的。</span><span class="english">Saliva is secreted from the exocrine gland.</span></p>
 
 <p><span class="chinese">外分泌由前列腺细胞分泌入小叶。分泌。</span><span class="english">Exocrine is the prostate cell secrete into little lobe.</span></p>

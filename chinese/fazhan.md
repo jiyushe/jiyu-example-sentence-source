@@ -1,5 +1,7 @@
 # 发展
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fazhan.md)
+
 <p><span class="chinese">那些都是后期发展出来的。</span><span class="english">That comes later.</span></p>
 
 <p><span class="chinese">提高武器发展。</span><span class="english">Enhances weapons dev.</span></p>

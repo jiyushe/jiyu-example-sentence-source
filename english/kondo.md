@@ -1,5 +1,7 @@
 # kondo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kondo.md)
+
 <p><span class="chinese">这句歌词一定给了近藤有司一个很棒的点子。</span><span class="english">These words must have given Tomoji Kondo a bright idea.</span></p>
 
 <p><span class="chinese">根据近藤先生的说法，微笑可以立即使你心情舒畅。</span><span class="english">According to Kondo , smiling immediately makes you feel better.</span></p>

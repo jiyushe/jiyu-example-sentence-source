@@ -1,5 +1,7 @@
 # gravely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gravely.md)
+
 <p><span class="chinese">与会者庄重地一致同意。</span><span class="english">The assembly assented gravely.</span></p>
 
 <p><span class="chinese">只有两位重症女患者活了下来。</span><span class="english">Two gravely ill women survived.</span></p>

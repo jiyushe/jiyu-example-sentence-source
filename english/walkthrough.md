@@ -1,5 +1,7 @@
 # walkthrough
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/walkthrough.md)
+
 <p><span class="chinese">这是一个更多关于代码的演练。</span><span class="english">This is a code heavy walkthrough.</span></p>
 
 <p><span class="chinese">介绍这三个代码片断主要是为了提供进一步说明。</span><span class="english">Walkthrough for these snippets is intended to provide further clarification.</span></p>

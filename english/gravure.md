@@ -1,5 +1,7 @@
 # gravure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gravure.md)
+
 <p><span class="chinese">单张凹版印刷机、光纹制版设备等。</span><span class="english">Sheet fed Gravure Press, Plate Making Equipment etc.</span></p>
 
 <p><span class="chinese">挥发及快干溶剂，主要用于照相凹版油墨。</span><span class="english">Volatile, fast-drying solvent used mainly in gravure inks.</span></p>

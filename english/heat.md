@@ -1,5 +1,7 @@
 # heat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heat.md)
+
 <p><span class="chinese">热者寒之。</span><span class="english">Heat cold it.</span></p>
 
 <p><span class="chinese">击败热火队？</span><span class="english">Beat the Heat?</span></p>

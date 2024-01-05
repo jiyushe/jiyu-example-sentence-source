@@ -1,5 +1,7 @@
 # apartheid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apartheid.md)
+
 <p><span class="chinese">新种族隔离政策？</span><span class="english">Spinks, Charlotte. "A New Apartheid?</span></p>
 
 <p><span class="chinese">在种族隔离制度下，他们还让我们住砖房。</span><span class="english">Under apartheid they gave us a brick house.</span></p>

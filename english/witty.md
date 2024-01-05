@@ -1,5 +1,7 @@
 # witty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/witty.md)
+
 <p><span class="chinese">她说话很有风趣。</span><span class="english">She is a witty talker.</span></p>
 
 <p><span class="chinese">依赖于智巧内容。</span><span class="english">Relying on witty content.</span></p>

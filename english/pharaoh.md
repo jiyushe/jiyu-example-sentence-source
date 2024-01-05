@@ -1,5 +1,7 @@
 # pharaoh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pharaoh.md)
+
 <p><span class="chinese">神将梦的意思告诉约瑟。</span><span class="english">So Pharaoh began to tell his dream.</span></p>
 
 <p><span class="chinese">后来，一个新的法老王继承了王位。</span><span class="english">Then a new Pharaoh came to the throne.</span></p>

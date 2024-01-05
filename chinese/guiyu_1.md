@@ -1,5 +1,7 @@
 # 鲑鱼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guiyu_1.md)
+
 <p><span class="chinese">特别是鲑鱼。</span><span class="english">Especially the salmon.</span></p>
 
 <p><span class="chinese">你有没有熏制的鲑鱼?。</span><span class="english">Do you have smoked salmon?</span></p>

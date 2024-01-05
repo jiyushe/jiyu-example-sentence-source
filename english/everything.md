@@ -1,5 +1,7 @@
 # everything 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/everything.md)
+
 <p><span class="chinese">我写的一切。</span><span class="english">Everything I write.</span></p>
 
 <p><span class="chinese">一切都被颠覆了。</span><span class="english">It upsets everything.</span></p>

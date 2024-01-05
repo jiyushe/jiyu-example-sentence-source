@@ -1,5 +1,7 @@
 # 玩牌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanpai.md)
+
 <p><span class="chinese">门捷列夫玩牌。</span><span class="english">Mendeleev played cards.</span></p>
 
 <p><span class="chinese">他玩牌总是作弊。</span><span class="english">He always cheats at cards.</span></p>

@@ -1,5 +1,7 @@
 # streaking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/streaking.md)
+
 <p><span class="chinese">裸奔是有书面记载的最古老的玩笑之一。</span><span class="english">Streaking is one of the oldest tricks in the book.</span></p>
 
 <p><span class="chinese">头部全白，仅有一些局限于后颈的纤细纵纹。</span><span class="english">The head is whitish with some fine streaking restricted to nape.</span></p>

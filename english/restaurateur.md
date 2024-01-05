@@ -1,5 +1,7 @@
 # restaurateur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/restaurateur.md)
+
 <p><span class="chinese">这些人都是被一位大富大贵的餐馆老板揭发的。</span><span class="english">They had been reported by a well-known restaurateur.</span></p>
 
 <p><span class="chinese">除此之外，该公司还为食评家艾戈•罗内的味蕾上过保险。</span><span class="english">It also insures the taste buds of restaurateur Egon Ronay.</span></p>

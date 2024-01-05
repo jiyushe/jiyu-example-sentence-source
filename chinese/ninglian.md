@@ -1,5 +1,7 @@
 # 凝炼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ninglian.md)
+
 <p><span class="chinese">其语言艺术新鲜形象，含蓄凝炼。</span><span class="english">Its language is fresh and implied.</span></p>
 
 <p><span class="chinese">山田是一个说话优雅凝炼的人。</span><span class="english">Mr. Yamada is a very polished speaker.</span></p>

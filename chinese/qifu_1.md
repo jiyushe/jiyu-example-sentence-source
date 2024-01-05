@@ -1,5 +1,7 @@
 # 祈福
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qifu_1.md)
+
 <p><span class="chinese">啊！在祈福中，苏醒。</span><span class="english">And oh! when on the blest, reviving.</span></p>
 
 <p><span class="chinese">离开到祈福圣子之时。</span><span class="english">Gone back in time to bless the child.</span></p>

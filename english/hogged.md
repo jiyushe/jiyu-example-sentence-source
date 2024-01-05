@@ -1,5 +1,7 @@
 # hogged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hogged.md)
+
 <p><span class="chinese">那只猫拱起背向一条大狗发起了攻击。</span><span class="english">The cat hogged himself to attack a big dog.</span></p>
 
 <p><span class="chinese">他因横冲直撞地驾车，被警察吊销了他的驾驶执照。</span><span class="english">The police revoked his driving licence, because he hogged.</span></p>

@@ -1,5 +1,7 @@
 # appellate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appellate.md)
+
 <p><span class="chinese">上级法院维持下级法院的判决。</span><span class="english">The appellate court affirmed the judgment of the lower court.</span></p>
 
 <p><span class="chinese">第三部分，上诉审程序启动论。</span><span class="english">Part three, the commencement of the civil appellate procedure.</span></p>

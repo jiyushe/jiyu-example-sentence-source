@@ -1,5 +1,7 @@
 # 盟友
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mengyou.md)
+
 <p><span class="chinese">不能如此傲慢地对待盟友。</span><span class="english">Allies can be treated so cavalierly.</span></p>
 
 <p><span class="chinese">Mutko是阿布亲密的盟友。</span><span class="english">Mutko was a close ally of Abramovich.</span></p>

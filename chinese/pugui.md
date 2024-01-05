@@ -1,5 +1,7 @@
 # 铺轨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pugui.md)
+
 <p><span class="chinese">铺轨一队队长赵宪辉说。</span><span class="english">Laying a captain Zhaoxian Hui said.</span></p>
 
 <p><span class="chinese">铺轨从早上8点钟开始，至晚上10点钟结束，用时14个小时。</span><span class="english">Laying started from 8 am to 10 pm over 14 hours with time.</span></p>

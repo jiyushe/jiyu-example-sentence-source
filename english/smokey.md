@@ -1,5 +1,7 @@
 # smokey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smokey.md)
+
 <p><span class="chinese">斯莫科，这只猫很快活，你知道。</span><span class="english">Smokey the cat is happy and you know it.</span></p>
 
 <p><span class="chinese">在浓烟密布的矿区，有很多黄褐色的房子。</span><span class="english">There are many drab houses in the Smokey mining town.</span></p>

@@ -1,5 +1,7 @@
 # 顺当
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shundang.md)
+
 <p><span class="chinese">是否觉得顺当一些了？</span><span class="english">Did you get on it a bit?</span></p>
 
 <p><span class="chinese">我们的工作进展顺当。</span><span class="english">Our work is just bumming along.</span></p>

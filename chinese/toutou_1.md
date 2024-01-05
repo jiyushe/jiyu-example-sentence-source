@@ -1,5 +1,7 @@
 # 头头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toutou_1.md)
+
 <p><span class="chinese">他们选定李方做他们的头头。</span><span class="english">They make Li Fang their leader.</span></p>
 
 <p><span class="chinese">率领是一个黉舍或企业的头头。</span><span class="english">A leader is the head of a school, or enterprise.</span></p>

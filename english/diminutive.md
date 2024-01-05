@@ -1,5 +1,7 @@
 # diminutive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diminutive.md)
+
 <p><span class="chinese">如果有小词可用，就别使用大词。</span><span class="english">Never use a big word when a diminutive one would suffice.</span></p>
 
 <p><span class="chinese">露西安娜闪身上了一辆绿色的小型汽车不见了。</span><span class="english">Luciana vanished aboard one of the diminutive green vehicles.</span></p>

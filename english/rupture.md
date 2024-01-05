@@ -1,5 +1,7 @@
 # rupture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rupture.md)
+
 <p><span class="chinese">泪膜破裂时间。</span><span class="english">Rupture time of tear film.</span></p>
 
 <p><span class="chinese">主动脉的破裂可能是致命的。</span><span class="english">A rupture of the aorta is likely to be fatal.</span></p>

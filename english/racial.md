@@ -1,5 +1,7 @@
 # racial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/racial.md)
+
 <p><span class="chinese">种族间的嫉恨是一种不良的风气。</span><span class="english">Racial hatred is a contagion.</span></p>
 
 <p><span class="chinese">种族间的紧张关系爆发成骚乱。</span><span class="english">Racial tensions exploded into riots.</span></p>

@@ -1,5 +1,7 @@
 # thc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thc.md)
+
 <p><span class="chinese">其最佳贮藏期为28天。</span><span class="english">Thc optimum storage duration was 28 days.</span></p>
 
 <p><span class="chinese">我提醒他该起床，因为已经下午三点半了。</span><span class="english">He can't be bothered cos he's high on THC.</span></p>

@@ -1,5 +1,7 @@
 # honour 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/honour.md)
+
 <p><span class="chinese">如果我不更爱我的荣名。</span><span class="english">Loved I not Honour more.</span></p>
 
 <p><span class="chinese">造像即是尊敬。</span><span class="english">To portray is to honour.</span></p>

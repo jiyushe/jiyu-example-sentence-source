@@ -1,5 +1,7 @@
 # hector
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hector.md)
+
 <p><span class="chinese">“那是因为，”赫克托耳说道。</span><span class="english">"Because, " says Hector.</span></p>
 
 <p><span class="chinese">赫克托耳没有想很久。</span><span class="english">Hector doesn't think long.</span></p>

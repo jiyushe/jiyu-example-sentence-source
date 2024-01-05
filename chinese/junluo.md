@@ -1,5 +1,7 @@
 # 菌落
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junluo.md)
+
 <p><span class="chinese">菌落颜色为白至黄色。</span><span class="english">The color was usually white to yellow.</span></p>
 
 <p><span class="chinese">将菌落影印接种在硝酸纤维素滤膜上。</span><span class="english">The colonies are replica-plated onto nitrocellulose filters.</span></p>

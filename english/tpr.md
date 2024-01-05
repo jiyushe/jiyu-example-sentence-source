@@ -1,5 +1,7 @@
 # tpr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tpr.md)
+
 <p><span class="chinese">中国广东珠海香洲区湾仔沙TPR大厦牛津街B-2。</span><span class="english">B-2 F, Oxford street, TPR building, Wanzaisha, Xiangzhou, Zhuhai.</span></p>
 
 <p><span class="chinese">缺失突变分析表明SGT的TPR结构域对于SGT的促凋亡活性是必要的。</span><span class="english">Deletion analysis reveals that TPR domain is critical to proapoptotic function of SGT.</span></p>

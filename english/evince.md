@@ -1,5 +1,7 @@
 # evince
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evince.md)
+
 <p><span class="chinese">你突然显得那么急切，这是什么意思？</span><span class="english">What sudden eagerness is this you evince?</span></p>
 
 <p><span class="chinese">在我认为它是表明的正确时间之后。</span><span class="english">After that I think it's the right time to evince.</span></p>

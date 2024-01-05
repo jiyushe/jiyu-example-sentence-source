@@ -1,5 +1,7 @@
 # fax
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fax.md)
+
 <p><span class="chinese">我可以传真这份文件吗？</span><span class="english">Can I fax this paper?</span></p>
 
 <p><span class="chinese">你可以发传真给我么？</span><span class="english">Can you fax it to me?</span></p>

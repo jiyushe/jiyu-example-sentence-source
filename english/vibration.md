@@ -1,5 +1,7 @@
 # vibration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vibration.md)
+
 <p><span class="chinese">尤伯罗斯感觉到了这种共鸣。</span><span class="english">Ueberroth felt the vibration.</span></p>
 
 <p><span class="chinese">色彩是一种对光的感受。</span><span class="english">Color is a vibration of light.</span></p>

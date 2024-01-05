@@ -1,5 +1,7 @@
 # patient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/patient.md)
+
 <p><span class="chinese">要有耐心和祷告。</span><span class="english">Be patient and pray.</span></p>
 
 <p><span class="chinese">他的病人笑。</span><span class="english">His patient chuckled.</span></p>

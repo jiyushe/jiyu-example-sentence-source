@@ -1,5 +1,7 @@
 # fulbright
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fulbright.md)
+
 <p><span class="chinese">富布赖特却不同意。</span><span class="english">Fulbright disagreed.</span></p>
 
 <p><span class="chinese">富布赖特参议员也出席了葬礼。</span><span class="english">So was Senator Fulbright.</span></p>

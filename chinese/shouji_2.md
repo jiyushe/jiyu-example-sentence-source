@@ -1,5 +1,7 @@
 # 首级
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouji_2.md)
+
 <p><span class="chinese">贿赂者描写了部降首级的纳贿行动。</span><span class="english">The briber described the tribe head's bribery.</span></p>
 
 <p><span class="chinese">卢克在泰雷丰与卢米娅交手，斩下了她的首级。</span><span class="english">On Terephon, Luke beheaded her after a struggle.</span></p>

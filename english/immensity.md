@@ -1,5 +1,7 @@
 # immensity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immensity.md)
+
 <p><span class="chinese">在那冰冷的无限面前跪叩</span><span class="english">to kneel before the cold immensity</span></p>
 
 <p><span class="chinese">无限的空间的中央就是我的大脑。</span><span class="english">And the center of immensity was my brain.</span></p>

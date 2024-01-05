@@ -1,5 +1,7 @@
 # 涂脂抹粉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuzhimofen.md)
+
 <p><span class="chinese">她很少涂脂抹粉。</span><span class="english">She seldom, if ever, paints or powders.</span></p>
 
 <p><span class="chinese">不要在众目下涂脂抹粉</span><span class="english">avoid doing whitewash in full view of the public</span></p>

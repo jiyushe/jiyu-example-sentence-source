@@ -1,5 +1,7 @@
 # 咕嘟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gudu_1.md)
+
 <p><span class="chinese">白菜早就咕嘟烂了。</span><span class="english">The cabbage is overcooked.</span></p>
 
 <p><span class="chinese">泉水咕嘟咕嘟地往外冒。</span><span class="english">The spring kept bubbling up.</span></p>

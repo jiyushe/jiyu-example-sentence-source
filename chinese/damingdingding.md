@@ -1,5 +1,7 @@
 # 大名鼎鼎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/damingdingding.md)
+
 <p><span class="chinese">这个就是大名鼎鼎的历史学家范先生。</span><span class="english">This is Mr. Fan, the historian.</span></p>
 
 <p><span class="chinese">然后就去了大名鼎鼎的武侯祠。</span><span class="english">And then went to the famous Temple.</span></p>

@@ -1,5 +1,7 @@
 # mi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mi.md)
+
 <p><span class="chinese">米系列“夜猎者”。</span><span class="english">Mi Night Hunter.</span></p>
 
 <p><span class="chinese">他是我的普通朋友。</span><span class="english">Es mi amigo normal.</span></p>

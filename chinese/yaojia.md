@@ -1,5 +1,7 @@
 # 要价
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaojia.md)
+
 <p><span class="chinese">那杂货商从不多要价。</span><span class="english">That grocer never overcharges.</span></p>
 
 <p><span class="chinese">因此这个要价是合理的。</span><span class="english">Therefore the price was reasonable.</span></p>

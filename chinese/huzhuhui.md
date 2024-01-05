@@ -1,5 +1,7 @@
 # 互助会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huzhuhui.md)
+
 <p><span class="chinese">这个互助会可接纳4名新会员。</span><span class="english">The fraternity may bid four new men.</span></p>
 
 <p><span class="chinese">比如，如果你在戒酒互助会呆着呢？</span><span class="english">What if you're in alcoholics anonymous?</span></p>

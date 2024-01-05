@@ -1,5 +1,7 @@
 # 看来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kanlai.md)
+
 <p><span class="chinese">看来我得改正过来。</span><span class="english">I stand corrected.</span></p>
 
 <p><span class="chinese">看来好像要下雪了。</span><span class="english">It looks like snow.</span></p>

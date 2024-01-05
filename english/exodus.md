@@ -1,5 +1,7 @@
 # exodus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exodus.md)
+
 <p><span class="chinese">出埃及可能是真的发生过的吗？</span><span class="english">Could the Exodus really have happened?</span></p>
 
 <p><span class="chinese">是哪个圣经人物带领了出埃及记？</span><span class="english">Which Biblical figure led the exodus from Egypt?</span></p>

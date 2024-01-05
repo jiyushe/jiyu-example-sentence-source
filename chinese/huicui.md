@@ -1,5 +1,7 @@
 # 荟萃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huicui.md)
+
 <p><span class="chinese">四是人文历史荟萃。</span><span class="english">Fourth, meta-human history.</span></p>
 
 <p><span class="chinese">临沧是中国佤族文化的荟萃之地。</span><span class="english">Wa culture of the Chinese cultures meet.</span></p>

@@ -1,5 +1,7 @@
 # 榨取
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaqu.md)
+
 <p><span class="chinese">他榨取他的佃户。</span><span class="english">He racked his tenants.</span></p>
 
 <p><span class="chinese">他榨取父亲的财富。</span><span class="english">He leeched his father for his fortune.</span></p>

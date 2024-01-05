@@ -1,5 +1,7 @@
 # whisper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whisper.md)
+
 <p><span class="chinese">请和我私聊。</span><span class="english">Please whisper me.</span></p>
 
 <p><span class="chinese">“非常，”我低声说道。</span><span class="english">“Very much,” I whisper.</span></p>

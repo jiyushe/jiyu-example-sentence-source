@@ -1,5 +1,7 @@
 # 云母
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunmu.md)
+
 <p><span class="chinese">云母，我会救你出来的！</span><span class="english">Kirara, I'll have you back!</span></p>
 
 <p><span class="chinese">换向片之间的云母。</span><span class="english">The mica between the segments.</span></p>

@@ -1,5 +1,7 @@
 # baneful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baneful.md)
+
 <p><span class="chinese">他们对外政策的致命结果。</span><span class="english">Baneful effects of their foreign policy.</span></p>
 
 <p><span class="chinese">人们都担心他所造成的有害影响。</span><span class="english">His baneful influence was feared by all.</span></p>

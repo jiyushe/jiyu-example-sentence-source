@@ -1,5 +1,7 @@
 # embarrassment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/embarrassment.md)
+
 <p><span class="chinese">他以微笑解除了她的窘态。</span><span class="english">He smiled away her embarrassment.</span></p>
 
 <p><span class="chinese">及时缝一针，免得再走光。</span><span class="english">A stich in time saves embarrassment.</span></p>

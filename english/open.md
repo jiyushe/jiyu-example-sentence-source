@@ -1,5 +1,7 @@
 # open 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/open.md)
+
 <p><span class="chinese">芝麻，开门！</span><span class="english">Open Sesame!</span></p>
 
 <p><span class="chinese">他的眼睛睁开。</span><span class="english">His eyes open.</span></p>

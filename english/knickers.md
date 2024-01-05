@@ -1,5 +1,7 @@
 # knickers
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knickers.md)
+
 <p><span class="chinese">有棕色毛皮灯笼裤，还有大皮帽。</span><span class="english">And brown fur knickers and a big fur cap.</span></p>
 
 <p><span class="chinese">我喜欢有褶皱的内裤亲吻屁屁的感觉。</span><span class="english">I love the idea of "kicking ass" with frill knickers on.</span></p>

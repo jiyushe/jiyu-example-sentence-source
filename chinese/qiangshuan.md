@@ -1,5 +1,7 @@
 # 枪栓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangshuan.md)
+
 <p><span class="chinese">这儿是枪栓。</span><span class="english">Here's the bolt.</span></p>
 
 <p><span class="chinese">步枪的枪栓咔嗒作响——空了。</span><span class="english">The rifle's bolt clacked—empty.</span></p>

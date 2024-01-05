@@ -1,5 +1,7 @@
 # 雨量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuliang_1.md)
+
 <p><span class="chinese">这个地区雨量充足。</span><span class="english">Rainfall is plentiful in the area.</span></p>
 
 <p><span class="chinese">屯门录得三十毫米雨量纪录。</span><span class="english">Tuen Mun recorded 30mm of rainfall.</span></p>

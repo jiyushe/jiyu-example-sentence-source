@@ -1,5 +1,7 @@
 # 精神百倍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingshenbaibei.md)
+
 <p><span class="chinese">现在重要的是他受伤了，但他还会精神百倍的归队。</span><span class="english">It is one of those niggly ones. He came back and had a recurrence.</span></p>
 
 <p><span class="chinese">一顿丰富的早餐会让你一整天都精神百倍。</span><span class="english">The breakfast that abounds suddenly can make you daylong mental hundredfold.</span></p>

@@ -1,5 +1,7 @@
 # 领事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingshi_1.md)
+
 <p><span class="chinese">平克顿和领事敲门进来。</span><span class="english">Pinkerton and the Consul knock at the door and enter.</span></p>
 
 <p><span class="chinese">第十条领事邮袋不得开拆或者扣留。</span><span class="english">Article 10 The consular bag shall not be opened or detained.</span></p>

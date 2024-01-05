@@ -1,5 +1,7 @@
 # 提示
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tishi_1.md)
+
 <p><span class="chinese">五星级的提示。</span><span class="english">Five-star tip.</span></p>
 
 <p><span class="chinese">Borysenko的第一个提示？</span><span class="english">Borysenko’s first tip?</span></p>

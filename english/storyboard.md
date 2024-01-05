@@ -1,5 +1,7 @@
 # storyboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/storyboard.md)
+
 <p><span class="chinese">用户体验情节串连图板。</span><span class="english">User experience storyboard.</span></p>
 
 <p><span class="chinese">使故事板获得股东利益者的赞同</span><span class="english">Get storyboard approval from the stakeholder</span></p>

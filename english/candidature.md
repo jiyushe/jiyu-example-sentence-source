@@ -1,5 +1,7 @@
 # candidature
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/candidature.md)
+
 <p><span class="chinese">舍瓦感谢马尔蒂尼对他的赞扬，还有金球奖的提名。</span><span class="english">Sheva than thanked Paolo Maldini for his praises and his candidature for the Golden Ball.</span></p>
 
 <p><span class="chinese">鉴于她的才能和知识，我愿推荐她担任托福或雅思预备班教学工作。</span><span class="english">Once again, I strongly recommend his candidature and assure you of his competency and given set of skills.</span></p>

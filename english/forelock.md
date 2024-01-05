@@ -1,5 +1,7 @@
 # forelock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forelock.md)
+
 <p><span class="chinese">要把握时机。</span><span class="english">Take time by the forelock.</span></p>
 
 <p><span class="chinese">现在正是时候。</span><span class="english">Take time by the forelock.</span></p>

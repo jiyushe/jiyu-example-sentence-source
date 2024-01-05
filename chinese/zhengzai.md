@@ -1,5 +1,7 @@
 # 正在
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengzai.md)
+
 <p><span class="chinese">他正在滑滑梯。</span><span class="english">He is sliding.</span></p>
 
 <p><span class="chinese">它正在下雪。</span><span class="english">It is snowing.</span></p>

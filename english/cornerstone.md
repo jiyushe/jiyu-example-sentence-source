@@ -1,5 +1,7 @@
 # cornerstone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cornerstone.md)
+
 <p><span class="chinese">耶稣是那房角石。</span><span class="english">Jesus is the Cornerstone.</span></p>
 
 <p><span class="chinese">的确，社区是这一切的基石。</span><span class="english">Once again, the cornerstone is community.</span></p>

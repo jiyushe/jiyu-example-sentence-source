@@ -1,5 +1,7 @@
 # hearth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hearth.md)
+
 <p><span class="chinese">林惇站在炉边。</span><span class="english">Linton stood on the hearth.</span></p>
 
 <p><span class="chinese">火在炉中噼噼啪啪地响。</span><span class="english">A fire crackled on the hearth.</span></p>

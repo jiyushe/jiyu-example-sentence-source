@@ -1,5 +1,7 @@
 # essene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/essene.md)
+
 <p><span class="chinese">艾赛尼派教徒正确的内涵是什么?。</span><span class="english">Q. What is the correct meaning of the term Essene?</span></p>
 
 <p><span class="chinese">向厄色尼的做法，类似于已经注意到了。</span><span class="english">To Essene practices, similar to that which has already been noticed.</span></p>

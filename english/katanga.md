@@ -1,5 +1,7 @@
 # katanga
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/katanga.md)
+
 <p><span class="chinese">拥有富裕的矿藏的加丹加省现已能看到大规模的开采场面。</span><span class="english">Mineral-rich Katanga province has seen large-scale scooping and shovelling.</span></p>
 
 <p><span class="chinese">Katanga计划将其刚果铜和钴资产的开发时间缩短两年。</span><span class="english">Katanga plans to accelerate development of its copper and cobalt assets in Congo by two years.</span></p>

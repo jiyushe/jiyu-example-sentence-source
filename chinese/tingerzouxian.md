@@ -1,5 +1,7 @@
 # 铤而走险
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingerzouxian.md)
+
 <p><span class="chinese">像这样铤而走险的人是不会有好结果的!</span><span class="english">No adventurer of this type ever came to a good end!</span></p>
 
 <p><span class="chinese">少数记者和新闻媒体为何铤而走险？</span><span class="english">Why do some journalists and media dare to take a risk?</span></p>

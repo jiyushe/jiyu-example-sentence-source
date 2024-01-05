@@ -1,5 +1,7 @@
 # 行宫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinggong.md)
+
 <p><span class="chinese">北京曾是哪位著名统治者的冬季行宫所在地？</span><span class="english">Beijing was the winter capital for what well-known ruler?</span></p>
 
 <p><span class="chinese">皇太后的花园及行宫是从不曾凋谢的一支带露玫瑰。</span><span class="english">Empress Dowager of the palace and gardens from the withers not a dewy rose.</span></p>

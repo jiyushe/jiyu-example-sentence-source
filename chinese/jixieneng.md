@@ -1,5 +1,7 @@
 # 机械能
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jixieneng.md)
+
 <p><span class="chinese">瀑布是机械能。</span><span class="english">mgh A waterfall is mechanical energy, mgh.</span></p>
 
 <p><span class="chinese">液压泵由机械能驱动。</span><span class="english">Hydraulic pump driven by mechanical energy.</span></p>

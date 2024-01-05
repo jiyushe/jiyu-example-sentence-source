@@ -1,5 +1,7 @@
 # cyclicity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cyclicity.md)
+
 <p><span class="chinese">商代早期的思想是根据旋回。</span><span class="english">Early Shang Dynasty thought was based upon cyclicity.</span></p>
 
 <p><span class="chinese">四级层序就是体系域，不具有旋回性。</span><span class="english">So-called 4th sequence is a system tract practically with no cyclicity.</span></p>

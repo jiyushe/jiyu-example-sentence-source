@@ -1,5 +1,7 @@
 # unison
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unison.md)
+
 <p><span class="chinese">诗歌的最后部分要齐唱。</span><span class="english">The last verse will be sung in unison.</span></p>
 
 <p><span class="chinese">他们开始齐颂。</span><span class="english">They began chanting in perfect unison.</span></p>

@@ -1,5 +1,7 @@
 # blacklist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blacklist.md)
+
 <p><span class="chinese">淘宝网、北青网、大旗网以及39健康网均在黑名单之列。</span><span class="english">and 39.net are on the blacklist.</span></p>
 
 <p><span class="chinese">菲律宾政府已宣布禁止陶杰入境。</span><span class="english">The Philippine government has put Tsao on an immigration blacklist.</span></p>

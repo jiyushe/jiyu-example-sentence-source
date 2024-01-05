@@ -1,5 +1,7 @@
 # immanent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immanent.md)
+
 <p><span class="chinese">这是最完美的内在行动可能性质。</span><span class="english">This is the most perfect immanent action possible to nature.</span></p>
 
 <p><span class="chinese">由于死固有于生，因此几乎所有的生活都是一种苦闷。</span><span class="english">Since death is immanent in life, almost all of life is an agony.</span></p>

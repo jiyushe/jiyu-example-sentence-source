@@ -1,5 +1,7 @@
 # stab
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stab.md)
+
 <p><span class="chinese">刀光剑影，刺伤我的眼睛。</span><span class="english">Of swords, stab my eyes.</span></p>
 
 <p><span class="chinese">当面扎刀的是真朋友。</span><span class="english">True friends stab you in the front.</span></p>

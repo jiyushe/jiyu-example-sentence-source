@@ -1,5 +1,7 @@
 # 真是
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenshi_2.md)
+
 <p><span class="chinese">真是天大的喜讯！</span><span class="english">Great news!</span></p>
 
 <p><span class="chinese">真是一个烫手山芋。</span><span class="english">Hot potato.</span></p>

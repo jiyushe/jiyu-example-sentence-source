@@ -1,5 +1,7 @@
 # exclamation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exclamation.md)
+
 <p><span class="chinese">子恒感叹影视圈就是烧钱的。</span><span class="english">Ziheng exclamation film is burning money.</span></p>
 
 <p><span class="chinese">她情不自禁地发出了一声高兴的叫喊声。</span><span class="english">An exclamation of joy escaped from her lips.</span></p>

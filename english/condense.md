@@ -1,5 +1,7 @@
 # condense
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/condense.md)
+
 <p><span class="chinese">必要时浓缩新闻。</span><span class="english">Condense it if necessary.</span></p>
 
 <p><span class="chinese">烷基酚与环氧乙烷的缩合物。</span><span class="english">The condense of alkylphenol and EO.</span></p>

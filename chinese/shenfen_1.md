@@ -1,5 +1,7 @@
 # 身分
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenfen_1.md)
+
 <p><span class="chinese">他的衣服掩饰了他的身分。</span><span class="english">Hiss clothes belie his station.</span></p>
 
 <p><span class="chinese">她以假身分作掩护。</span><span class="english">She hid behind a false identity.</span></p>

@@ -1,5 +1,7 @@
 # magnanimity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magnanimity.md)
+
 <p><span class="chinese">红色-人的坚忍与刚毅，高尚的行为。</span><span class="english">Gules or red-military fortitude and magnanimity.</span></p>
 
 <p><span class="chinese">他对他的敌人展现异常的宽宏大量。</span><span class="english">He displayed extraordinary magnanimity toward his enemy.</span></p>

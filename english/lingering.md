@@ -1,5 +1,7 @@
 # lingering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lingering.md)
+
 <p><span class="chinese">象无趣恋栈的客人。</span><span class="english">Lingering like an unloved guest.</span></p>
 
 <p><span class="chinese">长年生病把他的身体弄垮了。</span><span class="english">The lingering illness crumpled him.</span></p>

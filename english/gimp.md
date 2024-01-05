@@ -1,5 +1,7 @@
 # gimp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gimp.md)
+
 <p><span class="chinese">还有其他一些是修复GIMP的普通问题的。</span><span class="english">There are also some to fix common problems of GIMP.</span></p>
 
 <p><span class="chinese">如果你需要更多功能，你甚至可以把当前的文件发送到GIMP。</span><span class="english">If you need more, youcan even send the current file to GIMP.</span></p>

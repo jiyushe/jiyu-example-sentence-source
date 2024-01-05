@@ -1,5 +1,7 @@
 # pussy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pussy.md)
+
 <p><span class="chinese">我是一只坏猫咪。</span><span class="english">I'm a baaad pussy cat.</span></p>
 
 <p><span class="chinese">或是帮你喂你的波斯猫</span><span class="english">Or help you feed your pussy cat</span></p>

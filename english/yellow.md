@@ -1,5 +1,7 @@
 # yellow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yellow.md)
+
 <p><span class="chinese">一只是黄色的。</span><span class="english">One is yellow.</span></p>
 
 <p><span class="chinese">黄队加油！</span><span class="english">Go Yellow Team!</span></p>

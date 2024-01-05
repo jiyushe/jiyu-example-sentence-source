@@ -1,5 +1,7 @@
 # soak
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soak.md)
+
 <p><span class="chinese">他喜欢泡洗热水浴。</span><span class="english">Sponges soak up water.</span></p>
 
 <p><span class="chinese">不要泡澡。</span><span class="english">Don’t soak in the bath.</span></p>

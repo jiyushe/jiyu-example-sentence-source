@@ -1,5 +1,7 @@
 # neuroscience
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neuroscience.md)
+
 <p><span class="chinese">她是我的神经系统学老师，</span><span class="english">She's my Cognitive Neuroscience teacher,</span></p>
 
 <p><span class="chinese">神经科学最最复杂的学科之一</span><span class="english">Neuroscience is one of the more complicated subjects.</span></p>

@@ -1,5 +1,7 @@
 # 危险
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weixian.md)
+
 <p><span class="chinese">谁是高危险群？</span><span class="english">Who's at high risk?</span></p>
 
 <p><span class="chinese">危险逼近他。</span><span class="english">Danger overhangs him.</span></p>

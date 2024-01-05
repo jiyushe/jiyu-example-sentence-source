@@ -1,5 +1,7 @@
 # drillmaster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drillmaster.md)
+
 <p><span class="chinese">谁正在和我们的教官说话？</span><span class="english">Who was talking with our drillmaster?</span></p>
 
 <p><span class="chinese">教官正在教士兵们使用刺刀。</span><span class="english">The drillmaster is drilling privates how to use bayonet.</span></p>

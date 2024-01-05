@@ -1,5 +1,7 @@
 # inflow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inflow.md)
+
 <p><span class="chinese">到最后，却是越来越不入流的局面。</span><span class="english">In the end, it is less and less inflow.</span></p>
 
 <p><span class="chinese">并初步分析了其原因是由于输入云带的影响。</span><span class="english">And the reason is the inflow cloud zone.</span></p>

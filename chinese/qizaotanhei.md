@@ -1,5 +1,7 @@
 # 起早贪黑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qizaotanhei.md)
+
 <p><span class="chinese">意识从不会同意朝九晚五，起早贪黑。</span><span class="english">Consciousness will never agree to work 9 to 5.</span></p>
 
 <p><span class="chinese">农民整年起早贪黑地劳动。</span><span class="english">Peasants work from dawn to dusk all the year round.</span></p>

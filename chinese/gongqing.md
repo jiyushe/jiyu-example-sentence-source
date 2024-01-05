@@ -1,5 +1,7 @@
 # 公顷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongqing.md)
+
 <p><span class="chinese">1公顷合15市亩。</span><span class="english">A hectare is equal to 15 mu.</span></p>
 
 <p><span class="chinese">占地面积14公顷。</span><span class="english">Its area is equal to 14 hectares.</span></p>

@@ -1,5 +1,7 @@
 # 改写
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaixie.md)
+
 <p><span class="chinese">这涉及改写历史。</span><span class="english">This rewrites history.</span></p>
 
 <p><span class="chinese">写作就是改写。</span><span class="english">Writing is re-writing.</span></p>

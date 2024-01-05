@@ -1,5 +1,7 @@
 # rehash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rehash.md)
+
 <p><span class="chinese">我不打算在这里重复所有的问题。</span><span class="english">I'm not going to rehash all that here.</span></p>
 
 <p><span class="chinese">他的第二本书只是他自己第一本书的“炒冷饭”作品而已。</span><span class="english">His second book is just a rehash of his first.</span></p>

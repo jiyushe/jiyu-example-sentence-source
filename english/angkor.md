@@ -1,5 +1,7 @@
 # angkor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/angkor.md)
+
 <p><span class="chinese">吴哥窟里很多面相中的一个。</span><span class="english">One of the many faces at Angkor Thom.</span></p>
 
 <p><span class="chinese">很快，一个新的都市又在吴哥通建起来了。</span><span class="english">Soon a new capital was built at Angkor Thom.</span></p>

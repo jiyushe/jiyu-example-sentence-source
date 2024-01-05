@@ -1,5 +1,7 @@
 # stroll
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stroll.md)
+
 <p><span class="chinese">别在我的窗口东晃西晃。</span><span class="english">Don't stroll by my window.</span></p>
 
 <p><span class="chinese">斯卡夫夙昔一再漫步。</span><span class="english">Scarf used to take a stroll.</span></p>

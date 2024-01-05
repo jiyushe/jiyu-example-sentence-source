@@ -1,5 +1,7 @@
 # billet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/billet.md)
+
 <p><span class="chinese">你如何看待钢坯市场？</span><span class="english">How do you see the billet market?</span></p>
 
 <p><span class="chinese">我们和镇上人协商给学生提供宿舍。</span><span class="english">We arrange with the townspeople to billet the students.</span></p>

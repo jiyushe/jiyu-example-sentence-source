@@ -1,5 +1,7 @@
 # lobe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lobe.md)
+
 <p><span class="chinese">我想我的脑额叶受到损害了。</span><span class="english">I think I damaged my frontal lobe.</span></p>
 
 <p><span class="chinese">迈克想在耳垂上穿个孔。</span><span class="english">Mike wants to get his lobe lanced.</span></p>

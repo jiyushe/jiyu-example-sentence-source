@@ -1,5 +1,7 @@
 # 往常
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangchang.md)
+
 <p><span class="chinese">罗伯塔像往常一样迟到了。</span><span class="english">Roberta was late as usual.</span></p>
 
 <p><span class="chinese">黛拉和往常一样哭着，咳嗽着。</span><span class="english">Della cried as usual. Coughed.</span></p>

@@ -1,5 +1,7 @@
 # 袖手旁观
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiushoupangguan.md)
+
 <p><span class="chinese">安能袖手旁观?</span><span class="english">How can one stand by and do nothing?</span></p>
 
 <p><span class="chinese">三小舍利塔袖手旁观一棵树。</span><span class="english">Three Little Stupas sitting by a tree.</span></p>

@@ -1,5 +1,7 @@
 # 舍监
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shejian_1.md)
+
 <p><span class="chinese">接着舍监便开始示范。</span><span class="english">Then supervisor begins to set an example.</span></p>
 
 <p><span class="chinese">整齐、舒适的空间，教官、舍监专人管理。</span><span class="english">Rooms of tidiness and comfort, supervised by military instructors.</span></p>

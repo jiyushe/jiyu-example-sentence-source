@@ -1,5 +1,7 @@
 # mineral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mineral.md)
+
 <p><span class="chinese">那就是，矿物质化妆品。</span><span class="english">It is called mineral makeup.</span></p>
 
 <p><span class="chinese">谁可以使用矿物化妆品</span><span class="english">Who Can Use Mineral Cosmetics?</span></p>

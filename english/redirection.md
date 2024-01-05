@@ -1,5 +1,7 @@
 # redirection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redirection.md)
+
 <p><span class="chinese">Google是能让人们转向的圣贤。</span><span class="english">Google is the oracle of redirection.</span></p>
 
 <p><span class="chinese">改变方向，这就有点像使用军事艺术。</span><span class="english">Redirection is a bit like using martial arts.</span></p>

@@ -1,5 +1,7 @@
 # oyster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oyster.md)
+
 <p><span class="chinese">我想我先来点生蚝杯。</span><span class="english">I think I'll take oyster.</span></p>
 
 <p><span class="chinese">嘈吵的噪音惹恼牡蛎。</span><span class="english">A noisy noise annoys an oyster.</span></p>

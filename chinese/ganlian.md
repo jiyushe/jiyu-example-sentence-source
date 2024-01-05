@@ -1,5 +1,7 @@
 # 干练
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganlian.md)
+
 <p><span class="chinese">这个律师是个干练的家伙。</span><span class="english">A lawyer who was a tough cookie.</span></p>
 
 <p><span class="chinese">他们骑车技能很干练。</span><span class="english">They're so skilled in riding bikes.</span></p>

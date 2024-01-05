@@ -1,5 +1,7 @@
 # plexus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plexus.md)
+
 <p><span class="chinese">青丝发落丛鬓疏。</span><span class="english">This plexus hair thinning hair.</span></p>
 
 <p><span class="chinese">回忆起太阳丛脉轮。</span><span class="english">Remember the solar plexus chakra.</span></p>

@@ -1,5 +1,7 @@
 # 心切
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinqie.md)
+
 <p><span class="chinese">秦坤爱女心切，不许麦子再去找刀锋。</span><span class="english">QinKun baby swiftly, forbid to wheat seek blade.</span></p>
 
 <p><span class="chinese">也许她只是抱孙心切吧。</span><span class="english">Maybe she is just eager to see her grandchildren.</span></p>

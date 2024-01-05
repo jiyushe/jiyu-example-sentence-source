@@ -1,5 +1,7 @@
 # 辛勤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinqin.md)
+
 <p><span class="chinese">嗰需嘦很多的辛勤工作。</span><span class="english">It involves a lot of hard go.</span></p>
 
 <p><span class="chinese">他在自己的角落里安静地辛勤工作着。</span><span class="english">He plods away quietly in his corner.</span></p>

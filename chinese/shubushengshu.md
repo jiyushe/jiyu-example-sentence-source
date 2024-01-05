@@ -1,5 +1,7 @@
 # 数不胜数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shubushengshu.md)
+
 <p><span class="chinese">这样的欺诈行为数不胜数。</span><span class="english">Such swindles were not typical.</span></p>
 
 <p><span class="chinese">大自然是色温的例子数不胜数。</span><span class="english">Nature is full of color temperature examples.</span></p>

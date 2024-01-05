@@ -1,5 +1,7 @@
 # 比比
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bibi.md)
+
 <p><span class="chinese">加油，比比！</span><span class="english">Come on, Bibi!</span></p>
 
 <p><span class="chinese">跟你比比，跑到那桥上，看谁跑得快！</span><span class="english">Race you to the bridge!</span></p>

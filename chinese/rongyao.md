@@ -1,5 +1,7 @@
 # 荣耀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongyao.md)
+
 <p><span class="chinese">夺杯荣耀！</span><span class="english">Cup glory!</span></p>
 
 <p><span class="chinese">荣耀归神！</span><span class="english">Glory To God!</span></p>

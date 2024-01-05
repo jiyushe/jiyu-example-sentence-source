@@ -1,5 +1,7 @@
 # 乐极生悲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lejishengbei.md)
+
 <p><span class="chinese">我是智力迟钝，还是乐极生悲?。</span><span class="english">Am I retard? Or am I just overjoyed?</span></p>
 
 <p><span class="chinese">我有一种乐极生悲的感觉。</span><span class="english">I have a sense something bad will happen.</span></p>

@@ -1,5 +1,7 @@
 # babbling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/babbling.md)
+
 <p><span class="chinese">婴儿在大约七个月大的时候开始咿呀学语</span><span class="english">Around seven months is babbling.</span></p>
 
 <p><span class="chinese">你他妈的在胡说些什么！</span><span class="english">What the hell are you babbling !</span></p>

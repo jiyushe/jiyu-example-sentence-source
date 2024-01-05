@@ -1,5 +1,7 @@
 # 声情并茂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengqingbingmao.md)
+
 <p><span class="chinese">罗琦的确懂得如何声情并茂地演唱一首歌曲。</span><span class="english">Rosie really knows how to belt out a song.</span></p>
 
 <p><span class="chinese">电影中，他声情并茂的演讲又使我们留下了感动的眼泪。</span><span class="english">In the movie, he sings with speech and we moved tears left.</span></p>

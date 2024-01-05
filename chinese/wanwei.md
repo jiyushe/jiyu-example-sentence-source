@@ -1,5 +1,7 @@
 # 玩味
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanwei.md)
+
 <p><span class="chinese">玩味句子结构。</span><span class="english">Playing with structures.</span></p>
 
 <p><span class="chinese">他的话值得玩味。</span><span class="english">It is worthwhile to ruminate over his remarks.</span></p>

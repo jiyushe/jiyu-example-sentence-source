@@ -1,5 +1,7 @@
 # superstitious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superstitious.md)
+
 <p><span class="chinese">——它已经是只迷信的鸽子了。</span><span class="english">It had become a superstitious pigeon.</span></p>
 
 <p><span class="chinese">迷信的人认为那是一种恶兆。</span><span class="english">The superstitious regard it as a bad omen.</span></p>

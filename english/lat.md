@@ -1,5 +1,7 @@
 # lat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lat.md)
+
 <p><span class="chinese">行为，电子商务是北纬。</span><span class="english">Gosp. For Acts, e is Lat.</span></p>
 
 <p><span class="chinese">后面那一组仍是lat。</span><span class="english">The latter is, still lat.</span></p>

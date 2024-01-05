@@ -1,5 +1,7 @@
 # 抚养
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuyang_1.md)
+
 <p><span class="chinese">她抚养了很多子女。</span><span class="english">She reared a large family.</span></p>
 
 <p><span class="chinese">我抚养并训练了他。</span><span class="english">I bred him and trained him.</span></p>

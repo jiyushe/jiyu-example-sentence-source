@@ -1,5 +1,7 @@
 # similar 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/similar.md)
+
 <p><span class="chinese">什么是自相似呢？</span><span class="english">What is from similar?</span></p>
 
 <p><span class="chinese">我想和这里差不多。</span><span class="english">Similar to here I gue.</span></p>

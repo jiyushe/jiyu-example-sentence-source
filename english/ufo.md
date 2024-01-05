@@ -1,5 +1,7 @@
 # ufo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ufo.md)
+
 <p><span class="chinese">如果罗斯威尔UFO事件是真实的。</span><span class="english">If the Roswell UFO story is true.</span></p>
 
 <p><span class="chinese">他是研究飞碟的专家吗?</span><span class="english">Is he the specialist who studies UFO?</span></p>

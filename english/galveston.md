@@ -1,5 +1,7 @@
 # galveston
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/galveston.md)
+
 <p><span class="chinese">1915年，德克萨斯州加尔维斯顿飓风</span><span class="english">Galveston Hurricane, Texas, 1915</span></p>
 
 <p><span class="chinese">据预报飓风眼今晚或明晨将抵达加二维斯顿。</span><span class="english">Ike's eye was forecast to strike near Galveston late tonight or early tomorrow.</span></p>

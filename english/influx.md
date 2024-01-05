@@ -1,5 +1,7 @@
 # influx
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/influx.md)
+
 <p><span class="chinese">它将面临着大批难民的涌入。</span><span class="english">It faces an influx of refugees.</span></p>
 
 <p><span class="chinese">最近的大量邮件使他情绪低沉。</span><span class="english">The recent mail influx had depressed him.</span></p>

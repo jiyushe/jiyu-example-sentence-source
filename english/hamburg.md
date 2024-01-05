@@ -1,5 +1,7 @@
 # hamburg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hamburg.md)
+
 <p><span class="chinese">闪银光的汉堡。</span><span class="english">A Hamburg silver spangled.</span></p>
 
 <p><span class="chinese">汉堡黎明在眼前。</span><span class="english">Dawn of hamburg is before the eye.</span></p>

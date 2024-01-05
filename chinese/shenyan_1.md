@@ -1,5 +1,7 @@
 # 审验
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenyan_1.md)
+
 <p><span class="chinese">原产国审验检查生产记录和运输记录。</span><span class="english">Country of Origina review Review production records and shipping records.</span></p>
 
 <p><span class="chinese">原产国审验-检查生产记载和运输记载。</span><span class="english">Country of Origina review-Review production records and shipping records.</span></p>

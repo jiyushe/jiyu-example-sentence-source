@@ -1,5 +1,7 @@
 # fulfil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fulfil.md)
+
 <p><span class="chinese">常雨珍宝满一切愿。</span><span class="english">It spread gems to fulfil all wishes.</span></p>
 
 <p><span class="chinese">这些插图使正文臻于完整。</span><span class="english">These illustrations fulfil the text.</span></p>

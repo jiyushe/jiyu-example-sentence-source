@@ -1,5 +1,7 @@
 # 科研
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/keyan.md)
+
 <p><span class="chinese">科研机构必须保持中立。</span><span class="english">Institutions have to be neutral.</span></p>
 
 <p><span class="chinese">中年教师是体育科研的骨干。</span><span class="english">Mid-aged teachers are backbones.</span></p>

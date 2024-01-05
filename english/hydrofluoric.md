@@ -1,5 +1,7 @@
 # hydrofluoric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrofluoric.md)
+
 <p><span class="chinese">氢氟酸是一种强烈的反应剂。</span><span class="english">Hydrofluoric is an extremely reactive agent.</span></p>
 
 <p><span class="chinese">醋酸或甲酸与氢氟酸的混合物。</span><span class="english">A mixture of acetic or formic acid and hydrofluoric acid.</span></p>

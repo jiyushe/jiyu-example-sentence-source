@@ -1,5 +1,7 @@
 # globule
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/globule.md)
+
 <p><span class="chinese">另一个博克球状体位于其前方。</span><span class="english">Another Bok globule is in the foreground.</span></p>
 
 <p><span class="chinese">压力下，蛋白质熔化的球体状态。</span><span class="english">Pressure-induced molten globule states of proteins.</span></p>

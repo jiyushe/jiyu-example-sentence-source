@@ -1,5 +1,7 @@
 # 浆洗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangxi_1.md)
+
 <p><span class="chinese">他居然叫我给他加班干‘花式浆洗’。</span><span class="english">Him a-ringin' in fancy starch extras!</span></p>
 
 <p><span class="chinese">她的工作是把亚麻布浆洗硬了。</span><span class="english">Her job is to stiffen linen with starch.</span></p>

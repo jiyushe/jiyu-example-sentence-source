@@ -1,5 +1,7 @@
 # palestine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palestine.md)
+
 <p><span class="chinese">我来自巴勒斯坦。</span><span class="english">I came from Palestine.</span></p>
 
 <p><span class="chinese">那是巴勒斯坦人的国会。</span><span class="english">That's the parliament of Palestine.</span></p>

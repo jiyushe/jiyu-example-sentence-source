@@ -1,5 +1,7 @@
 # receivership
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/receivership.md)
+
 <p><span class="chinese">决定破产管理能力的是什么？</span><span class="english">And what determines receivership capability?</span></p>
 
 <p><span class="chinese">希腊和爱尔兰已接受破产管理。</span><span class="english">Greece and Ireland are already in receivership.</span></p>

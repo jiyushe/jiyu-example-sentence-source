@@ -1,5 +1,7 @@
 # buckthorn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buckthorn.md)
+
 <p><span class="chinese">在沙地里种植沙棘，可以起到固沙的作用。</span><span class="english">Planting sea buckthorn on sandy soil can solidify sand.</span></p>
 
 <p><span class="chinese">沙棘小黄瓜补水面膜。</span><span class="english">Aubrey Sea Buckthorn &Cucumber with Ester-C Moisturizing Mask.</span></p>

@@ -1,5 +1,7 @@
 # thea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thea.md)
+
 <p><span class="chinese">我们认为这些数据是很有用的。</span><span class="english">We regard these din thea as very useful.</span></p>
 
 <p><span class="chinese">2005年2月5日，迪士尼乐园赢得了2个油茶奖项。</span><span class="english">February 5th, 2005. Walt Disney World takes home 2 more Thea Awards.</span></p>

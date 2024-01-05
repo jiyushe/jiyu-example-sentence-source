@@ -1,5 +1,7 @@
 # creatinine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/creatinine.md)
+
 <p><span class="chinese">血尿素氮及肌酐检查正常。</span><span class="english">The urea nitrogen and creatinine were normal.</span></p>
 
 <p><span class="chinese">CDDP处理后，分别在第1、3和5天采血，测定血清尿素氮和肌酐。</span><span class="english">Blood urea nitrogen and creatinine were determined on 1,3,5 days after CDDP treatment.</span></p>

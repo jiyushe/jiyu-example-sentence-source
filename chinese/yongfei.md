@@ -1,5 +1,7 @@
 # 用费
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongfei.md)
+
 <p><span class="chinese">水泥的粘结强度高、用费少且运用便当。</span><span class="english">Cement bond strength high, with very few and using the lunch.</span></p>
 
 <p><span class="chinese">人们往往不用费太多劲儿就能控制或者改变习惯。</span><span class="english">People can learn to control or alter habits with little difficulty.</span></p>

@@ -1,5 +1,7 @@
 # 号称
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haocheng.md)
+
 <p><span class="chinese">或者我该号称是高人庞？</span><span class="english">Or should I say The Great Persky?</span></p>
 
 <p><span class="chinese">大连号称水果之乡。</span><span class="english">Dalian is known as a land of fruit.</span></p>

@@ -1,5 +1,7 @@
 # 鼻涕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biti.md)
+
 <p><span class="chinese">我有点发烧，还流鼻涕。</span><span class="english">He has a slight fever.</span></p>
 
 <p><span class="chinese">你这个满脸鼻涕的老头子。</span><span class="english">You snot-faced old man!</span></p>

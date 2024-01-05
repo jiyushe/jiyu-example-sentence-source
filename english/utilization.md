@@ -1,5 +1,7 @@
 # utilization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/utilization.md)
+
 <p><span class="chinese">根据资源利用率进行收费</span><span class="english">Resource utilization for chargeback</span></p>
 
 <p><span class="chinese">非专业辅导人员的应用</span><span class="english">UTILIZATION OF PARAPROFESSIONAL WORKERS</span></p>

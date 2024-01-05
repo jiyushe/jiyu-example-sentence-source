@@ -1,5 +1,7 @@
 # copra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/copra.md)
+
 <p><span class="chinese">简要介绍了应用COPRA软件在异型管设计、制造方面的成功实例。</span><span class="english">Some successful examples which designed by COPRA are discussed and.</span></p>
 
 <p><span class="chinese">岛上最主要的产业是旅游业和珊瑚制品加工业。</span><span class="english">Tourism and copra production are the leading industries of the island.</span></p>

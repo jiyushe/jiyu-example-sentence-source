@@ -1,5 +1,7 @@
 # silken
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/silken.md)
+
 <p><span class="chinese">他把那幅画裱在绢上。</span><span class="english">He mounted the picture upon silken cloth.</span></p>
 
 <p><span class="chinese">他诚惶试恐地捧出一条长长的丝绳。</span><span class="english">Carefully, he lifted the long silken cord.</span></p>

@@ -1,5 +1,7 @@
 # invention
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invention.md)
+
 <p><span class="chinese">哦，这是我的发明。</span><span class="english">Oh, this is my invention.</span></p>
 
 <p><span class="chinese">所以这就是我们的发明。</span><span class="english">So this is the invention.</span></p>

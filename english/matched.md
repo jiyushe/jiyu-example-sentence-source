@@ -1,5 +1,7 @@
 # matched
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/matched.md)
+
 <p><span class="chinese">我们真的很般配。</span><span class="english">We just matched.</span></p>
 
 <p><span class="chinese">我已经配好对了。</span><span class="english">I’m already matched.</span></p>

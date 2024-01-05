@@ -1,5 +1,7 @@
 # 小轿车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaojiaoche.md)
+
 <p><span class="chinese">我喜欢“荣威”小轿车。</span><span class="english">I like this car.</span></p>
 
 <p><span class="chinese">我要载你坐上我的小轿车。</span><span class="english">Take you ridding in my car car.</span></p>

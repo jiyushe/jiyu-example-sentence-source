@@ -1,5 +1,7 @@
 # 申述
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenshu.md)
+
 <p><span class="chinese">这就是我申述的生存所需要付出的代价。</span><span class="english">That’s what I offer in Paid to Exist.</span></p>
 
 <p><span class="chinese">那是你第二次作那样的申述了。</span><span class="english">That is the second time you have made that observation.</span></p>

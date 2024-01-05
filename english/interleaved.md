@@ -1,5 +1,7 @@
 # interleaved
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interleaved.md)
+
 <p><span class="chinese">这个日记簿插有吸墨纸。</span><span class="english">This diary is interleaved with blotting -paper.</span></p>
 
 <p><span class="chinese">经过精心计划，阶段之间甚至可以交错。</span><span class="english">With careful planning, stages can even be interleaved.</span></p>

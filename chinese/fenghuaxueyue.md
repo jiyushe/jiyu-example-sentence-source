@@ -1,5 +1,7 @@
 # 风花雪月
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenghuaxueyue.md)
+
 <p><span class="chinese">男人也想要风花雪月。</span><span class="english">And men want to stray.</span></p>
 
 <p><span class="chinese">人永远看不破的风花雪月。</span><span class="english">People always look out romantic themes.</span></p>

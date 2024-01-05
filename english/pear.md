@@ -1,5 +1,7 @@
 # pear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pear.md)
+
 <p><span class="chinese">你已经吃了一个梨子。</span><span class="english">You have eaten a pear.</span></p>
 
 <p><span class="chinese">直接烫个梨花头。</span><span class="english">Direct hot a pear head.</span></p>

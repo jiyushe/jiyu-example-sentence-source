@@ -1,5 +1,7 @@
 # innocuous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/innocuous.md)
+
 <p><span class="chinese">其中大部分是无害的。</span><span class="english">Much of it is innocuous.</span></p>
 
 <p><span class="chinese">这项决议案不痛不痒。</span><span class="english">This is an innocuous resolution.</span></p>

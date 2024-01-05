@@ -1,5 +1,7 @@
 # speaker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/speaker.md)
+
 <p><span class="chinese">喇叭线“，”</span><span class="english">Speaker Wire.</span></p>
 
 <p><span class="chinese">下一位演讲者是我。</span><span class="english">I'm the next speaker.</span></p>

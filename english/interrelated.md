@@ -1,5 +1,7 @@
 # interrelated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interrelated.md)
+
 <p><span class="chinese">要注意这些对象是互相联系的。</span><span class="english">Note that these objects are interrelated.</span></p>
 
 <p><span class="chinese">第二和第三个参数是相互关联的。</span><span class="english">The second and third arguments are interrelated.</span></p>

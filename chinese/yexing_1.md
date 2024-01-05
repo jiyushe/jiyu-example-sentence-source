@@ -1,5 +1,7 @@
 # 野性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yexing_1.md)
+
 <p><span class="chinese">处于野性或未驯服的状态。</span><span class="english">The state of being wild or untamed.</span></p>
 
 <p><span class="chinese">最野性的人之一就是雪儿了。</span><span class="english">Cher is frequently one of the wildest.</span></p>

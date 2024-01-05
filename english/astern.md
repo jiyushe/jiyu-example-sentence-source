@@ -1,5 +1,7 @@
 # astern
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/astern.md)
+
 <p><span class="chinese">锚链向后。</span><span class="english">Cable leading astern.</span></p>
 
 <p><span class="chinese">船开倒车。</span><span class="english">The boat moved astern.</span></p>

@@ -1,5 +1,7 @@
 # epidemiologist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epidemiologist.md)
+
 <p><span class="chinese">对体重的态度也被认为是其中的一个因素，DC的流行病学家潘力平博士表示。</span><span class="english">Attitudes about weight also are believed to be a factor, said Dr. Liping Pan, a CDC epidemiologist.</span></p>
 
 <p><span class="chinese">美国疾病控制中心在一次发现总报告上通过流行病学家肯道明格博士和其他的研究者说。</span><span class="english">S. , " the CDC said in a summary of the findings by epidemiologist Dr. Ken Dominguez and other researchers."</span></p>

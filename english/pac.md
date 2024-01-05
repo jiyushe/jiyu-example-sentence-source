@@ -1,5 +1,7 @@
 # pac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pac.md)
+
 <p><span class="chinese">马奎兹是个比帕奎奥更好的拳手，但帕奎奥的拳更有杀伤力。</span><span class="english">Lets face it, JMM is abetter boxer than Pac, but Pac has abetter punch than JMM.</span></p>
 
 <p><span class="chinese">艾睿电子是亚太地区领先的元器件分销商之一。</span><span class="english">Arrow Asia Pac is one of Asia-Pacific's leading electronic component distributors.</span></p>

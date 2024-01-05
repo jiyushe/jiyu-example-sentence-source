@@ -1,5 +1,7 @@
 # sofar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sofar.md)
+
 <p><span class="chinese">到目前为止她已经通过了考试。</span><span class="english">She has passed the exam sofar.</span></p>
 
 <p><span class="chinese">到目前为止，你收到过录用通知书吗？</span><span class="english">Have you received any offers sofar?</span></p>

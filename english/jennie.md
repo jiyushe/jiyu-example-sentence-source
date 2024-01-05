@@ -1,5 +1,7 @@
 # jennie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jennie.md)
+
 <p><span class="chinese">珍妮默不作声地开始了她的工作。</span><span class="english">Jennie fell to her task in silence.</span></p>
 
 <p><span class="chinese">“好的，雷斯脱，”珍妮柔顺地说。”</span><span class="english">"I will, Lester, " said Jennie submissively.</span></p>

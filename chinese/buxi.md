@@ -1,5 +1,7 @@
 # 不惜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buxi.md)
+
 <p><span class="chinese">不惜一切代价追求。</span><span class="english">Pursue it at all costs.</span></p>
 
 <p><span class="chinese">我将不惜任何代价救你！</span><span class="english">Iwill save you at all costs!</span></p>

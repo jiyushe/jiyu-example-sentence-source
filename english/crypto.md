@@ -1,5 +1,7 @@
 # crypto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crypto.md)
+
 <p><span class="chinese">我想做的类似密码机这样的东西。</span><span class="english">I wanted to do crypto and stuff like that.</span></p>
 
 <p><span class="chinese">输入加密密钥的名称，WS-enc-receiver-privatekey。</span><span class="english">Enter Name for the crypto key, WS-enc-receiver-privatekey</span></p>

@@ -1,5 +1,7 @@
 # solute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solute.md)
+
 <p><span class="chinese">那么CS2就是溶质。</span><span class="english">So now the CS2 is the solute.</span></p>
 
 <p><span class="chinese">这种溶质称为示踪剂。</span><span class="english">This solute will be referred to as a tracer.</span></p>

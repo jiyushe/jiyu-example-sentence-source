@@ -1,5 +1,7 @@
 # vitrectomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vitrectomy.md)
+
 <p><span class="chinese">目的评价儿童眼外伤玻璃体切除术。</span><span class="english">Objective To observe children ocular injury vitrectomy.</span></p>
 
 <p><span class="chinese">目的探讨玻璃体切除技术在巩膜破裂伤中的应用。</span><span class="english">Objective To study the application of vitrectomy for scleral rupture.</span></p>

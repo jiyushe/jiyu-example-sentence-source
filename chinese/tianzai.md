@@ -1,5 +1,7 @@
 # 天灾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianzai.md)
+
 <p><span class="chinese">报纸上称那次地震为天灾。</span><span class="english">The newspapers called the earthquake an act of God.</span></p>
 
 <p><span class="chinese">法令划定人毋为天灾人负责。</span><span class="english">The law holds no man responsible for the act of god.</span></p>

@@ -1,5 +1,7 @@
 # nanotechnology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nanotechnology.md)
+
 <p><span class="chinese">一个探测沙门氏菌的纳米生物传感器</span><span class="english">A nanotechnology biosensor for Salmonella detection</span></p>
 
 <p><span class="chinese">默克尔告诉我，我不希望纳米技术进化。</span><span class="english">Merkle told me, I don't want nanotechnology to evolve.</span></p>

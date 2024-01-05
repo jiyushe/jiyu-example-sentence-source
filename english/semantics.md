@@ -1,5 +1,7 @@
 # semantics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semantics.md)
+
 <p><span class="chinese">谓词演算与程序语义。</span><span class="english">Predicate Calculus and Program Semantics.</span></p>
 
 <p><span class="chinese">那么既然语法是这样，语义又该如何呢？</span><span class="english">So, that's the syntax. What are the semantics?</span></p>

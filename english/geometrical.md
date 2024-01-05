@@ -1,5 +1,7 @@
 # geometrical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geometrical.md)
+
 <p><span class="chinese">相比措辞来说，与数学和几何形状关系更大。</span><span class="english">It has more to do with math, geometrical shapes, than verbiage.</span></p>
 
 <p><span class="chinese">少一些几何形，多一点手工作业，这就是我们想说的。</span><span class="english">Think less geometrical and more manual is what we mean by this.</span></p>

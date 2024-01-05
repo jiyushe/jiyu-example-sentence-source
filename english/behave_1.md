@@ -1,5 +1,7 @@
 # behave 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/behave_1.md)
+
 <p><span class="chinese">你又是如何表现的？</span><span class="english">How did you behave?</span></p>
 
 <p><span class="chinese">‘他们将如何表现？’</span><span class="english">How will they behave?</span></p>

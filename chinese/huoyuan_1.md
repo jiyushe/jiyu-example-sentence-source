@@ -1,5 +1,7 @@
 # 货源
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoyuan_1.md)
+
 <p><span class="chinese">货源充足，价格低廉。</span><span class="english">Ample supply, low prices.</span></p>
 
 <p><span class="chinese">可供地毯货源充足。</span><span class="english">Carpets are available in abundance.</span></p>

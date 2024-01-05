@@ -1,5 +1,7 @@
 # queen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/queen.md)
+
 <p><span class="chinese">做一个女王。</span><span class="english">Be a queen.</span></p>
 
 <p><span class="chinese">我命名了她的皇后.</span><span class="english">I named her Queen.</span></p>

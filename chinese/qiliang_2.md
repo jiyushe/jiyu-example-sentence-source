@@ -1,5 +1,7 @@
 # 气量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiliang_2.md)
+
 <p><span class="chinese">那么，静就是气量的一个重要方面。</span><span class="english">Then, static is an important aspect of gas.</span></p>
 
 <p><span class="chinese">气量狭窄是我的老毛病。</span><span class="english">Narrow-mindedness is an old weakness of mine.</span></p>

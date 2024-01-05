@@ -1,5 +1,7 @@
 # targe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/targe.md)
+
 <p><span class="chinese">他们抱怨说这个目标无法达成。</span><span class="english">They said the targe was out of reach.</span></p>
 
 <p><span class="chinese">她没有足够的动力去完成她的目标。</span><span class="english">She has no enough urge to reach her targe.</span></p>

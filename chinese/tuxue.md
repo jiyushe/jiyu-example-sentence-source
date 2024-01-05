@@ -1,5 +1,7 @@
 # 吐血
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuxue.md)
+
 <p><span class="chinese">如果真有吐血，那么赶紧叫医生。</span><span class="english">If so, call your doctor.</span></p>
 
 <p><span class="chinese">那个伤员在吐血。</span><span class="english">The injured man is spitting blood.</span></p>

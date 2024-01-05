@@ -1,5 +1,7 @@
 # 古生物学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gushengwuxue.md)
+
 <p><span class="chinese">她是古生物学方面的专家。</span><span class="english">She is a specialist in paleontology.</span></p>
 
 <p><span class="chinese">他一直锲而不舍地研究古生物学。</span><span class="english">He has been studying palaeontology with great tenacity.</span></p>

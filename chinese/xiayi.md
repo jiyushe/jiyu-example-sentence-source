@@ -1,5 +1,7 @@
 # 侠义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiayi.md)
+
 <p><span class="chinese">我就是美貌与智慧并重，英雄与侠义的化身唐伯虎！</span><span class="english">I am Bohu Tang with beaty and wit and errantry!</span></p>
 
 <p><span class="chinese">佩服中世纪武士的侠义精神。</span><span class="english">He admires the chivalry of knights in Middle Ages.</span></p>

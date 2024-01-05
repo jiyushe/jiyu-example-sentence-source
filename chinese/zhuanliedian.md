@@ -1,5 +1,7 @@
 # 转捩点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanliedian.md)
+
 <p><span class="chinese">这会是他们人生的转捩点吗？</span><span class="english">Will this be a turning point in their lives?</span></p>
 
 <p><span class="chinese">亿婷，让我的人生有了转捩点。</span><span class="english">Yi Teng, Have let my life have turning point.</span></p>

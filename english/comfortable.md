@@ -1,5 +1,7 @@
 # comfortable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comfortable.md)
+
 <p><span class="chinese">非常愉快。</span><span class="english">Very comfortable.</span></p>
 
 <p><span class="chinese">他的身体不舒服。</span><span class="english">He is not comfortable.</span></p>

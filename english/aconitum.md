@@ -1,5 +1,7 @@
 # aconitum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aconitum.md)
+
 <p><span class="chinese">白喉乌头为毛茛科多年生有毒植物。</span><span class="english">Aconitum ceucostomum is the perennial poisonous plant.</span></p>
 
 <p><span class="chinese">有一对铁尺乌头颜色挺好的，整齐、干净。</span><span class="english">Color of a pair of Tiechi Aconitum nice, neat and clean.</span></p>

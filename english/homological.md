@@ -1,5 +1,7 @@
 # homological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homological.md)
+
 <p><span class="chinese">讨论论了R在小同调维数时的结构。</span><span class="english">The structure of R with small homological dimension is discussed.</span></p>
 
 <p><span class="chinese">结论布鲁杆菌OMP28基因高度保守，具稳定的抗原特征。</span><span class="english">Conclusions OMP28 is highly homological and characterized by stable antigen.</span></p>

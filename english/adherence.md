@@ -1,5 +1,7 @@
 # adherence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adherence.md)
+
 <p><span class="chinese">组内的依从性是否可接受？</span><span class="english">H. Was adherence acceptable in all groups?</span></p>
 
 <p><span class="chinese">又如何来保证坚持治疗呢？</span><span class="english">Where is the assurance of treatment adherence?</span></p>

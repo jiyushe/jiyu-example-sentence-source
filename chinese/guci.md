@@ -1,5 +1,7 @@
 # 故此
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guci.md)
+
 <p><span class="chinese">故此你们要守我的律例，典章。</span><span class="english">But you must keep my decrees and my laws.</span></p>
 
 <p><span class="chinese">大圣石猴是也，故此地名猴鞠岩！</span><span class="english">It is Monkey King, thus this cliff called Bowing Monkey.</span></p>

@@ -1,5 +1,7 @@
 # creamy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/creamy.md)
+
 <p><span class="chinese">它是一种厚厚的、奶油色的糊状物。</span><span class="english">It is a thick, creamy paste.</span></p>
 
 <p><span class="chinese">我喜欢。它们是米黄色的。</span><span class="english">I like them. They are creamy.</span></p>

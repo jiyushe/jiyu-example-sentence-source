@@ -1,5 +1,7 @@
 # lowness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lowness.md)
+
 <p><span class="chinese">俗气就是流露出来的一种下劣性。</span><span class="english">Vulgarity is a lowness that proclaims itself.</span></p>
 
 <p><span class="chinese">精神，找到你的路——寻找像河一样的卑贱。</span><span class="english">Spirit, find your way, in seeking lowness like a stream.</span></p>

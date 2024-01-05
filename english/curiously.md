@@ -1,5 +1,7 @@
 # curiously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curiously.md)
+
 <p><span class="chinese">凯尔西好奇地看着她。</span><span class="english">Kelsey looked at her curiously.</span></p>
 
 <p><span class="chinese">贝索好奇地瞧着他的朋友。</span><span class="english">Besso eyes his friend curiously.</span></p>

@@ -1,5 +1,7 @@
 # 出航
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuhang.md)
+
 <p><span class="chinese">乘那艘旧船出航真是冒险。</span><span class="english">It's tempting Providence to go in that old boat.</span></p>
 
 <p><span class="chinese">我必须再度出航，前往吉普赛式的漂荡。</span><span class="english">I must down to the seas again, to the vagrant gypsy life.</span></p>

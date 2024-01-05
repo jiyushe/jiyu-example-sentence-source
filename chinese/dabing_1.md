@@ -1,5 +1,7 @@
 # 大病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dabing_1.md)
+
 <p><span class="chinese">上次那场大病几乎要了他的命。</span><span class="english">His last illness nearly finished him off.</span></p>
 
 <p><span class="chinese">一场大病后，他瘦得只剩下了一把骨头。</span><span class="english">He was skeletonized after a serious illness.</span></p>

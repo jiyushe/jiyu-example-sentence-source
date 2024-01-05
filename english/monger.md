@@ -1,5 +1,7 @@
 # monger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monger.md)
+
 <p><span class="chinese">美国才是最大的好战者和石油窃贼。</span><span class="english">US is the biggest war monger and a oil thief.</span></p>
 
 <p><span class="chinese">我从商贩子那里买的米，肯定被克扣了分量。</span><span class="english">I surely got beaten when I bought rice from a monger.</span></p>

@@ -1,5 +1,7 @@
 # 挚诚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhicheng_1.md)
+
 <p><span class="chinese">谨以挚诚的心向沈殿霞女士致意！</span><span class="english">Tribute is sincerely paid to Ms.</span></p>
 
 <p><span class="chinese">我们挚诚欢迎国内外广大客户光临惠顾并来函垂询！</span><span class="english">We sincerely welcome customers at home and abroad to visit and your inquiries!</span></p>

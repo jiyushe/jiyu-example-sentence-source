@@ -1,5 +1,7 @@
 # motorcycle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/motorcycle.md)
+
 <p><span class="chinese">我骑摩托车去那儿。</span><span class="english">I got there by motorcycle.</span></p>
 
 <p><span class="chinese">喔，我能骑骑你的摩托车不?。</span><span class="english">Oh, can I drive the motorcycle?</span></p>

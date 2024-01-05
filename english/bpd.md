@@ -1,5 +1,7 @@
 # bpd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bpd.md)
+
 <p><span class="chinese">球场是在波士顿警察局总部的拐角处。</span><span class="english">It was around the corner from BPD headquarters.</span></p>
 
 <p><span class="chinese">修订后的DIB是诊断边缘人格最有影响力和最为人们熟知的“测试”。</span><span class="english">The DIB-R is the most influential and best-known "test" for diagnosing BPD.</span></p>

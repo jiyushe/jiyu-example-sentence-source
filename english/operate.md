@@ -1,5 +1,7 @@
 # operate 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/operate.md)
+
 <p><span class="chinese">如何运做以达到目标的？</span><span class="english">How does it operate?</span></p>
 
 <p><span class="chinese">这个祭祀是怎么操作的呢？</span><span class="english">How does it operate?</span></p>

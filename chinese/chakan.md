@@ -1,5 +1,7 @@
 # 察看
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chakan.md)
+
 <p><span class="chinese">我们必须细细察看并做出评价。</span><span class="english">We must scrutinize and evaluate.</span></p>
 
 <p><span class="chinese">察看是最好的老师。</span><span class="english">Observation is the best abecedary.</span></p>

@@ -1,5 +1,7 @@
 # 手迹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouji.md)
+
 <p><span class="chinese">这是哈丽特的手迹。</span><span class="english">This is the script of Harriet.</span></p>
 
 <p><span class="chinese">他证明那是他妻子的手迹。</span><span class="english">He certified it was his wife‘s handwriting.</span></p>

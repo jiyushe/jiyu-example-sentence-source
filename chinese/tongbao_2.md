@@ -1,5 +1,7 @@
 # 通报
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongbao_2.md)
+
 <p><span class="chinese">将及时向你通报情况。对吗？</span><span class="english">You will be kept informed.</span></p>
 
 <p><span class="chinese">我已经通报了国王泰瑞纳斯。</span><span class="english">I've got to inform King Terenas.</span></p>

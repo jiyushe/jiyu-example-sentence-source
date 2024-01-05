@@ -1,5 +1,7 @@
 # conjectural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conjectural.md)
+
 <p><span class="chinese">推测想象是一种再创造想象。</span><span class="english">Conjectural imagination is an imagination of recreation.</span></p>
 
 <p><span class="chinese">关于恐龙灭绝的理论仍然是带有很强的猜测性的。</span><span class="english">Theories about the extinction of dinosaurs are still highly conjectural.</span></p>

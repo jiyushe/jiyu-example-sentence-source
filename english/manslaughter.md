@@ -1,5 +1,7 @@
 # manslaughter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manslaughter.md)
+
 <p><span class="chinese">他因杀人罪被判入狱。</span><span class="english">He was jailed for manslaughter.</span></p>
 
 <p><span class="chinese">Winkler于2007年被判犯有杀人罪。</span><span class="english">Winkler was convicted of manslaughter in 2007.</span></p>

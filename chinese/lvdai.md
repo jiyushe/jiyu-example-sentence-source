@@ -1,5 +1,7 @@
 # 履带
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvdai.md)
+
 <p><span class="chinese">坦克掉了一条履带。</span><span class="english">The tank threw a track.</span></p>
 
 <p><span class="chinese">万向防翻特种车采用三履带防翻特种车结构。</span><span class="english">The vehicle use three pedrail to anti-turnover.</span></p>

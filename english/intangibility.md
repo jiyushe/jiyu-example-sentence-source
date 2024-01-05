@@ -1,5 +1,7 @@
 # intangibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intangibility.md)
+
 <p><span class="chinese">知识经济无形化的趋势，不断冲击着现行无形资产会计模式。</span><span class="english">With the intangibility of intellectual economy, current accounting mode is now being impacted.</span></p>
 
 <p><span class="chinese">梦的虚无缥缈、神秘体验的不可思议，都使吉本的“神秘”小说显得更加扑朔迷离。</span><span class="english">The intangibility of dreams and exploration of mysteries both make her novels more complicated.</span></p>

@@ -1,5 +1,7 @@
 # 精壮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingzhuang.md)
+
 <p><span class="chinese">我喜欢高大强壮而又有统治力的精壮的中后卫。</span><span class="english">I love my centre backs to be big, beefy and dominant.</span></p>
 
 <p><span class="chinese">假期里你精壮什么？我将姑且赐顾帮衬我妹妹。</span><span class="english">What will you do in the vacation? I will look after my younger sister temporarily.</span></p>

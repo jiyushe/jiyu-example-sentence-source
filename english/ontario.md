@@ -1,5 +1,7 @@
 # ontario
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ontario.md)
+
 <p><span class="chinese">对我来说，安大略就同印第安纳一样。</span><span class="english">To me, Ontario may as well be Indiana.</span></p>
 
 <p><span class="chinese">安大略的天体物理学家，也同意这个观点。</span><span class="english">Poirier, the Ontario astrophysicist, agreed.</span></p>

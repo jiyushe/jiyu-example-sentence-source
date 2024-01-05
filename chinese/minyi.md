@@ -1,5 +1,7 @@
 # 民意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minyi.md)
+
 <p><span class="chinese">谁做的民意调查？</span><span class="english">Who did the poll?</span></p>
 
 <p><span class="chinese">这次民意调查由谁资助？</span><span class="english">Who paid for the poll?</span></p>

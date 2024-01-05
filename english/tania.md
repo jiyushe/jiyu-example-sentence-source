@@ -1,5 +1,7 @@
 # tania
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tania.md)
+
 <p><span class="chinese">你为我对塔妮娅说过了吗？</span><span class="english">Did you speak to Tania for me?</span></p>
 
 <p><span class="chinese">但是我们的想法通常是一致的，”泰娜说。</span><span class="english">But we’ve always wanted the same thing, ” says Tania.</span></p>

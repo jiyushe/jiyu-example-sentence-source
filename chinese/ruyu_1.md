@@ -1,5 +1,7 @@
 # 入狱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruyu_1.md)
+
 <p><span class="chinese">他因杀人罪被判入狱。</span><span class="english">He was jailed for manslaughter.</span></p>
 
 <p><span class="chinese">奥里埃玛被判入狱25年。</span><span class="english">Auriemma was sentenced to 25 years.</span></p>

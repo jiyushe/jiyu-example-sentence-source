@@ -1,5 +1,7 @@
 # antidiabetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antidiabetic.md)
+
 <p><span class="chinese">结论本院口服降糖药的使用结构基本合理。</span><span class="english">Conclusion The oral use of antidiabetic drugs is reasonable.</span></p>
 
 <p><span class="chinese">苦楝树树叶的绿色萃提取物有明显的抗糖尿病能力。</span><span class="english">Aquaous extracts of neem leaves have demonstrated significant antidiabetic potential.</span></p>

@@ -1,5 +1,7 @@
 # 客座
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kezuo.md)
+
 <p><span class="chinese">因此我将在这门课中请到四名客座讲师</span><span class="english">And so, I'm going to include four guest lecturers.</span></p>
 
 <p><span class="chinese">他现在是慕迪圣经学院的客座讲师。</span><span class="english">He is now a guest lecturer of the Moody Bible Institute.</span></p>

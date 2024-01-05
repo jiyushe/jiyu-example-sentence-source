@@ -1,5 +1,7 @@
 # stillbirth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stillbirth.md)
+
 <p><span class="chinese">在妊娠最后三个月期间的自然流产称为“死产”。</span><span class="english">A miscarriage during the last three months of pregnancy is called "stillbirth".</span></p>
 
 <p><span class="chinese">为了进行死因推断，实地调查员在死胎发生后的4至6周内走访了这些母亲们。</span><span class="english">For verbal autopsy, field workers visited mothers 4 to 6 weeks after the stillbirth.</span></p>

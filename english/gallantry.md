@@ -1,5 +1,7 @@
 # gallantry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gallantry.md)
+
 <p><span class="chinese">他因勇敢而得了一枚奖章。</span><span class="english">He won a medal for gallantry.</span></p>
 
 <p><span class="chinese">他因勇敢而赢得一枚勋章。</span><span class="english">He got a medal for his gallantry.</span></p>

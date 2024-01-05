@@ -1,5 +1,7 @@
 # flew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flew.md)
+
 <p><span class="chinese">我飞去马德里的。</span><span class="english">I flew to Madrid.</span></p>
 
 <p><span class="chinese">一只燕子飞过去了。</span><span class="english">A swallow flew past.</span></p>

@@ -1,5 +1,7 @@
 # photoluminescence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photoluminescence.md)
+
 <p><span class="chinese">其他仪器则是检测宝石在雷射照射之下发出的冷光。</span><span class="english">Other instruments sense a stone's photoluminescence in laser light.</span></p>
 
 <p><span class="chinese">坚菁见知道耀明已放下安妮，感到安慰。</span><span class="english">Strong photoluminescence see know yao Ming has put down Annie, feel comfort.</span></p>

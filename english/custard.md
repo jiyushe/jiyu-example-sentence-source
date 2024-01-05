@@ -1,5 +1,7 @@
 # custard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/custard.md)
+
 <p><span class="chinese">爸爸是个没骨头的胆小鬼。</span><span class="english">Father's a cowardly custard.</span></p>
 
 <p><span class="chinese">那你也是个没骨头的胆小鬼。</span><span class="english">So are you a cowardly custard.</span></p>

@@ -1,5 +1,7 @@
 # legerdemain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legerdemain.md)
+
 <p><span class="chinese">这些网站骗术并不高明。</span><span class="english">These website legerdemain are not brillant.</span></p>
 
 <p><span class="chinese">有人谴责白宫在玩花招。</span><span class="english">Some accused the White House of legerdemain.</span></p>

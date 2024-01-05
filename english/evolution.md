@@ -1,5 +1,7 @@
 # evolution
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evolution.md)
+
 <p><span class="chinese">社会进化有时实在是太快了。</span><span class="english">Evolution is over-rated.</span></p>
 
 <p><span class="chinese">马力欧的进化史！</span><span class="english">The Evolution of Mario !</span></p>

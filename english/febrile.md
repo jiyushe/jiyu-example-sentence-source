@@ -1,5 +1,7 @@
 # febrile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/febrile.md)
+
 <p><span class="chinese">疟疾是一种急剧发热性疾病。</span><span class="english">Malaria is an acute febrile illness.</span></p>
 
 <p><span class="chinese">他因高热惊厥入院治疗。</span><span class="english">He was hospitalized as a result of febrile convulsion.</span></p>

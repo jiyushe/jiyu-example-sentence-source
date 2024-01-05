@@ -1,5 +1,7 @@
 # stink
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stink.md)
+
 <p><span class="chinese">臭鼬为什么有臭味？</span><span class="english">Why Do Skunks Stink?</span></p>
 
 <p><span class="chinese">那个房间散发着难闻的臭气。</span><span class="english">The room has awful stink.</span></p>

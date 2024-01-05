@@ -1,5 +1,7 @@
 # 人山人海
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renshanrenhai.md)
+
 <p><span class="chinese">所以那里从不会人山人海。</span><span class="english">They are never crowded.</span></p>
 
 <p><span class="chinese">书展人山人海！</span><span class="english">People Mountin People Sea.</span></p>

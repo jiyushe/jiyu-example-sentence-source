@@ -1,5 +1,7 @@
 # 份子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenzi.md)
+
 <p><span class="chinese">单击备份子菜单。</span><span class="english">Click the Backup sub-menu.</span></p>
 
 <p><span class="chinese">我们人类乃是大自然循环的一份子。</span><span class="english">We humans are part of a circle.</span></p>

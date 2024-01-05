@@ -1,5 +1,7 @@
 # prostrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prostrate.md)
+
 <p><span class="chinese">他绊倒在卢克俯卧的身躯上。</span><span class="english">He stumbled over Luke's prostrate body.</span></p>
 
 <p><span class="chinese">我告诉他，你悲伤地起不来。</span><span class="english">I told him you was prostrate with grief.</span></p>

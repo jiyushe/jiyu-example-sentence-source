@@ -1,5 +1,7 @@
 # 起死回生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qisihuisheng.md)
+
 <p><span class="chinese">好老师有起死回生的力量，是学生的幸运之星。</span><span class="english">A good teacher is good luck of a student.</span></p>
 
 <p><span class="chinese">老巫婆说她能起死回生。</span><span class="english">The old witch said she could raise the dead.</span></p>

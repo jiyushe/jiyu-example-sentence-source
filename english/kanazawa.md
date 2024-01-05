@@ -1,5 +1,7 @@
 # kanazawa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kanazawa.md)
+
 <p><span class="chinese">日本金泽大学博士毕业。</span><span class="english">Obtained the doctor degree in Japanese Kanazawa University.</span></p>
 
 <p><span class="chinese">我在金泽的宾馆吃完早饭后，坐火车到了东京。</span><span class="english">We returned to Tokyo by train after breakfast at our hotel in Kanazawa.</span></p>

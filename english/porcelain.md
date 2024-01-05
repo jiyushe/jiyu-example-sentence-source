@@ -1,5 +1,7 @@
 # porcelain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/porcelain.md)
+
 <p><span class="chinese">是瓷的吧?</span><span class="english">Is it porcelain?</span></p>
 
 <p><span class="chinese">马送陈一个精美的瓷器。</span><span class="english">Ma gave Chen a fine porcelain.</span></p>

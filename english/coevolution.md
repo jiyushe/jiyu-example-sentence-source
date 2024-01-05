@@ -1,5 +1,7 @@
 # coevolution
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coevolution.md)
+
 <p><span class="chinese">是通过对化学反应和共同进化的研究。</span><span class="english">Chemistry and coevolution.</span></p>
 
 <p><span class="chinese">共同进化就是多种形式的学习。</span><span class="english">Coevolution is a variety of learning.</span></p>

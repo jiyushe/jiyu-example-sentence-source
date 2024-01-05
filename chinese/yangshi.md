@@ -1,5 +1,7 @@
 # 样式
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangshi.md)
+
 <p><span class="chinese">你喜欢这种样式吗？</span><span class="english">Do you care for this style?</span></p>
 
 <p><span class="chinese">来点新样式会很好的。</span><span class="english">Something new would be nice.</span></p>

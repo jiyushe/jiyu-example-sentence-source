@@ -1,5 +1,7 @@
 # diagram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diagram.md)
+
 <p><span class="chinese">在这个图中。</span><span class="english">In this diagram.</span></p>
 
 <p><span class="chinese">这是一个文氏图。</span><span class="english">It’s a Venn diagram.</span></p>

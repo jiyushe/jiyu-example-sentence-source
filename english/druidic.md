@@ -1,5 +1,7 @@
 # druidic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/druidic.md)
+
 <p><span class="chinese">塞纳留斯介绍了他自己并且提出教导他们德鲁伊之道。</span><span class="english">He introduced himself and offered to teach them the druidic arts.</span></p>
 
 <p><span class="chinese">我们知道他过去可能和德鲁伊有关系——也许他就是个德鲁伊学校的辍学生。</span><span class="english">We know that he has some sort of druidic past—maybe he's some kind of Druid School dropout.</span></p>

@@ -1,5 +1,7 @@
 # valley 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/valley.md)
+
 <p><span class="chinese">宁河谷铁路。</span><span class="english">Nene Valley Railway.</span></p>
 
 <p><span class="chinese">我去了欢乐谷。</span><span class="english">I went to Happy Valley.</span></p>

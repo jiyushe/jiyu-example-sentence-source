@@ -1,5 +1,7 @@
 # 瞬息
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shunxi_1.md)
+
 <p><span class="chinese">一切都是瞬息水莲花。</span><span class="english">All these are fast water lotus.</span></p>
 
 <p><span class="chinese">瞬息之间，那颗卫星就消失了。</span><span class="english">The satellite disappeared in a wink.</span></p>

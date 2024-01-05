@@ -1,5 +1,7 @@
 # 毛细管
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maoxiguan.md)
+
 <p><span class="chinese">它是毛细管电泳中流动相的“推动力”。</span><span class="english">This is the mobile phase "pump" in CE.</span></p>
 
 <p><span class="chinese">毛细管长度不应超过10米。</span><span class="english">Capillary length shall not exceed 10 metres.</span></p>

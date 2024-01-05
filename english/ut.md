@@ -1,5 +1,7 @@
 # ut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ut.md)
+
 <p><span class="chinese">有时候他们倔强，发怒和强迫你坚持你自己的观点。</span><span class="english">Sometimes they act up or ut and force you to take stand.</span></p>
 
 <p><span class="chinese">对社交媒体的热爱源自于我从UT毕业时的论文。</span><span class="english">My love of social media comes from my graduate work in UT.</span></p>

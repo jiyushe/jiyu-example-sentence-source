@@ -1,5 +1,7 @@
 # sulphide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sulphide.md)
+
 <p><span class="chinese">周围的硫化银呈皮壳状、放射状。</span><span class="english">Crust or radial shape of silver sulphide.</span></p>
 
 <p><span class="chinese">本发明涉及一种生产硫化钡的生产方法。</span><span class="english">The invention relates the method for production of barium sulphide.</span></p>

@@ -1,5 +1,7 @@
 # dibasic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dibasic.md)
+
 <p><span class="chinese">二元酸能形成酸式盐。</span><span class="english">Dibasic acids can form acid salts.</span></p>
 
 <p><span class="chinese">松香可取代一定百分比的二元酸。</span><span class="english">Some percentage of dibasic acids were replaced by rosin.</span></p>

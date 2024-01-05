@@ -1,5 +1,7 @@
 # dale
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dale.md)
+
 <p><span class="chinese">戴尔伸了伸腰。</span><span class="english">Dale stretched.</span></p>
 
 <p><span class="chinese">你好，戴乐，我有一把新小刀。</span><span class="english">Hi, Dale. I have a new knife.</span></p>

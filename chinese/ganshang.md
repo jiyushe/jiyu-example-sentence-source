@@ -1,5 +1,7 @@
 # 感伤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganshang.md)
+
 <p><span class="chinese">感伤？</span><span class="english">Sentimental?</span></p>
 
 <p><span class="chinese">今晚我们看了一部十分令人感伤的电影。</span><span class="english">Tonight we saw a real tear-jerker.</span></p>

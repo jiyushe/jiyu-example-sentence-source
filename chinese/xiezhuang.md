@@ -1,5 +1,7 @@
 # 卸妆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiezhuang.md)
+
 <p><span class="chinese">为什麽不买卸妆水呢？</span><span class="english">Why not buy some makeup remover?</span></p>
 
 <p><span class="chinese">你发现原来还有卸妆水这种东东。</span><span class="english">And discover micellar water instead.</span></p>

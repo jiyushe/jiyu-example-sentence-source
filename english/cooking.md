@@ -1,5 +1,7 @@
 # cooking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cooking.md)
+
 <p><span class="chinese">你在煮汤？</span><span class="english">You are cooking?</span></p>
 
 <p><span class="chinese">十在宿舍内有炊爨行为。</span><span class="english">Cooking in the dorm.</span></p>

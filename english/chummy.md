@@ -1,5 +1,7 @@
 # chummy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chummy.md)
+
 <p><span class="chinese">生产的“珍伴”系列猫狗食产品。</span><span class="english">Production of "chummy pet" series cat dog food products.</span></p>
 
 <p><span class="chinese">但是生态友好燃料好像并不像以前认为的那么友好。</span><span class="english">Yet the eco-friendly fuel is beginning to look less chummy of late.</span></p>

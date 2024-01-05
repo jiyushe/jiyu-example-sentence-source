@@ -1,5 +1,7 @@
 # 诗作
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizuo_1.md)
+
 <p><span class="chinese">我希望您能读一些好的诗作。</span><span class="english">I hope you know some good poetry.</span></p>
 
 <p><span class="chinese">这是他诗作的一个好例子。</span><span class="english">Thiss is a good example of his poetry.</span></p>

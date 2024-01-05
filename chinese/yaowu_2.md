@@ -1,5 +1,7 @@
 # 要务
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaowu_2.md)
+
 <p><span class="chinese">生命的要务是奋力向前。</span><span class="english">The business of life is to go-forward.</span></p>
 
 <p><span class="chinese">我的道途与人生志业是我最优先的要务。</span><span class="english">My path and life's work are my highest priorities.</span></p>

@@ -1,5 +1,7 @@
 # 融会贯通
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ronghuiguantong.md)
+
 <p><span class="chinese">我不能将所有的信息融会贯通。</span><span class="english">I cannot digest all this information.</span></p>
 
 <p><span class="chinese">不要考试前的最后工夫里靠融会贯通去取的好成绩。</span><span class="english">Do not count on last minute cramming right before exams to do well.</span></p>

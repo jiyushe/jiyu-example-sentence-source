@@ -1,5 +1,7 @@
 # immunoglobulin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immunoglobulin.md)
+
 <p><span class="chinese">下调的基因主要是免疫球蛋白基因。</span><span class="english">The immunoglobulin genes were down-regulated.</span></p>
 
 <p><span class="chinese">乙肝免疫球蛋白的存在也减少了病毒的转运。</span><span class="english">Virus translocation was also reduced in the presence of HBV immunoglobulin.</span></p>

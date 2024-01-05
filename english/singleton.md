@@ -1,5 +1,7 @@
 # singleton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/singleton.md)
+
 <p><span class="chinese">到这时，我已经得到单一元素情况了。</span><span class="english">At this stage I'm at my singleton case.</span></p>
 
 <p><span class="chinese">辛莱顿先生想就这次选举和你打赌。</span><span class="english">Singleton wants to bet with you on the election.</span></p>

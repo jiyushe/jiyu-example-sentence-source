@@ -1,5 +1,7 @@
 # 苦刑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuxing.md)
+
 <p><span class="chinese">他因犯了大窃案受过十九年的苦刑。</span><span class="english">He underwent nineteen years of penal servitude for theft.</span></p>
 
 <p><span class="chinese">让自己的内心藏着一条巨龙，既是一种苦刑，也是一种乐趣。——雨果。</span><span class="english">Let oneself heart hiding a dragon, is a kind of torture, is also a kind of fun.</span></p>

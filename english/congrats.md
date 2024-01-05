@@ -1,5 +1,7 @@
 # congrats
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/congrats.md)
+
 <p><span class="chinese">祝贺你们。</span><span class="english">Congrats to yourself here.</span></p>
 
 <p><span class="chinese">祝贺塞娜，夺取金牌吧。</span><span class="english">Congrats Saina. Go for Gold.</span></p>

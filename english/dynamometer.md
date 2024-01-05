@@ -1,5 +1,7 @@
 # dynamometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dynamometer.md)
+
 <p><span class="chinese">交流电力测功机就是其中的关键设备。</span><span class="english">AC Dynamometer is the key equipment of the testbed.</span></p>
 
 <p><span class="chinese">测功器通常用于检测发动机的输出扭矩。</span><span class="english">The dynamometer is normally used to check engine torque.</span></p>

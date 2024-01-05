@@ -1,5 +1,7 @@
 # ordeal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ordeal.md)
+
 <p><span class="chinese">现在，考验又缠上了孩子们。</span><span class="english">Now the kids were stuck in an ordeal.</span></p>
 
 <p><span class="chinese">他们振奋精神迎接考验。</span><span class="english">They manned themselves for an ordeal.</span></p>

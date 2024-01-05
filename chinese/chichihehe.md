@@ -1,5 +1,7 @@
 # 吃吃喝喝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chichihehe.md)
+
 <p><span class="chinese">人们喜欢吃吃喝喝。</span><span class="english">People love eating and drinking.</span></p>
 
 <p><span class="chinese">“吃吃喝喝，玩玩乐乐，”一个士兵模仿道。</span><span class="english">"Eat, drink and be merry, " a soldier imitated.</span></p>

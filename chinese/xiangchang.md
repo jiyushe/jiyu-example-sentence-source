@@ -1,5 +1,7 @@
 # 乡长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangchang.md)
+
 <p><span class="chinese">骆驼乡长双角，结果失去了双耳。</span><span class="english">Cmel going to seek horns lost his ears.</span></p>
 
 <p><span class="chinese">桂花乡席乡长的事情倒是可以借鉴的。</span><span class="english">Osmanthus rural seats mayor thing would be to draw lessons from.</span></p>

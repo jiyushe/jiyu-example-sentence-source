@@ -1,5 +1,7 @@
 # monopolist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monopolist.md)
+
 <p><span class="chinese">不过以垄断者的身份经营公司来保持这一地位是糟糕的路子。</span><span class="english">But operating as a monopolist is a poor way to maintain that edge.</span></p>
 
 <p><span class="chinese">档的领导人保证全总工拥有垄断地位。</span><span class="english">Party leaders have ensured that the ACFTU has a monopolist position.</span></p>

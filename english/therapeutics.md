@@ -1,5 +1,7 @@
 # therapeutics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/therapeutics.md)
+
 <p><span class="chinese">阳痿的暗示疗法是心理疗法的一种。</span><span class="english">Impotent allusive therapeutics is a kind of psychotherapy.</span></p>
 
 <p><span class="chinese">非药物疗法是中医治疗学中的一个重要组成部分。</span><span class="english">Non-drug therapy was an important part of TCM therapeutics.</span></p>

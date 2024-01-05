@@ -1,5 +1,7 @@
 # 恼怒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naonu.md)
+
 <p><span class="chinese">他的话令她感到恼怒。</span><span class="english">His words itched  her.</span></p>
 
 <p><span class="chinese">她们的这种恼怒对不对？</span><span class="english">Are they right to be annoyed?</span></p>

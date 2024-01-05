@@ -1,5 +1,7 @@
 # 坐享其成
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoxiangqicheng.md)
+
 <p><span class="chinese">女人，请不要再坐享其成！</span><span class="english">Women, please stop sit back and enjoy!</span></p>
 
 <p><span class="chinese">这是正确的事，但我们不能坐享其成。</span><span class="english">It is the right thing to do, but it won't be a free ride.</span></p>

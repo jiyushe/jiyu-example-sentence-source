@@ -1,5 +1,7 @@
 # glacier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glacier.md)
+
 <p><span class="chinese">那就是冰川，它遗下了什么。</span><span class="english">Thats the glacier whats left of it.</span></p>
 
 <p><span class="chinese">前面还有一座冰山。</span><span class="english">The glacier calved a large iceberg.</span></p>

@@ -1,5 +1,7 @@
 # slp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slp.md)
+
 <p><span class="chinese">实现了注入协议的模拟实验。</span><span class="english">The realization of the simulation of SLP protocol.</span></p>
 
 <p><span class="chinese">试验结果表明，设计的寡核苷酸探针具有一定的特异性，能很好的检测乳酸杆菌中SLP基因。</span><span class="english">The result showed that the probe above could effectively detect the SLP gene with a certain specificity.</span></p>

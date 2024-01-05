@@ -1,5 +1,7 @@
 # aristocracy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aristocracy.md)
+
 <p><span class="chinese">我把他们叫做中国的“新贵族”。</span><span class="english">I call them China's "New Aristocracy".</span></p>
 
 <p><span class="chinese">人们说贵族阶级已是日薄西山了。</span><span class="english">People said the aristocracy was effete.</span></p>

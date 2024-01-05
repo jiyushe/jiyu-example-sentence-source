@@ -1,5 +1,7 @@
 # 先哲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianzhe.md)
+
 <p><span class="chinese">比如先哲苏格拉底，就是一位前瞻型的哲人。</span><span class="english">The pre-philosophers, philosophers who proceeded Socrates.</span></p>
 
 <p><span class="chinese">根据中国先哲的说法，他必须先从国内开始。</span><span class="english">According to ancient Chinese philosophers, it must start at home.</span></p>

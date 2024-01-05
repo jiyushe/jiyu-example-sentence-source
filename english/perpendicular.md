@@ -1,5 +1,7 @@
 # perpendicular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perpendicular.md)
+
 <p><span class="chinese">所以，梯度向量是垂直的。</span><span class="english">So, the gradient is perpendicular.</span></p>
 
 <p><span class="chinese">它们平面垂直于重力。</span><span class="english">The surface is perpendicular to gravity.</span></p>

@@ -1,5 +1,7 @@
 # seneschal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seneschal.md)
+
 <p><span class="chinese">我为你祈祷了，总管。</span><span class="english">I have prayed for you, Seneschal.</span></p>
 
 <p><span class="chinese">管家是个严肃的老人。</span><span class="english">The seneschal was an old stern man.</span></p>

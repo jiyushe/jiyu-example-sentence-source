@@ -1,5 +1,7 @@
 # 勇猛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongmeng.md)
+
 <p><span class="chinese">我是勇猛。</span><span class="english">I am valor.</span></p>
 
 <p><span class="chinese">那士兵作战勇猛。</span><span class="english">The soldiers fought gallantly.</span></p>

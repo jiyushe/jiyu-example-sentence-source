@@ -1,5 +1,7 @@
 # aide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aide.md)
+
 <p><span class="chinese">次年，担任爱德华·布雷多克将军的助手。</span><span class="english">The next year, as an aide to Gen.</span></p>
 
 <p><span class="chinese">助手尤金•卡恩也加入了他们。</span><span class="english">Aide Eugene Kang also joined them.</span></p>

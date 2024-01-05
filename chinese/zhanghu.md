@@ -1,5 +1,7 @@
 # 帐户
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanghu.md)
+
 <p><span class="chinese">我想开美元帐户。</span><span class="english">I prefer a USD account.</span></p>
 
 <p><span class="chinese">用银行帐户支付。</span><span class="english">Pay with your bank account.</span></p>

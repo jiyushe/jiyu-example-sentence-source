@@ -1,5 +1,7 @@
 # 西域
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiyu_3.md)
+
 <p><span class="chinese">她是西域女子，而他是中原男子。</span><span class="english">She is the woman, and he is the man.</span></p>
 
 <p><span class="chinese">那就这么多勋章，西域分王这个封号留着。</span><span class="english">If I could have one more medal, I would. But I just can't.</span></p>

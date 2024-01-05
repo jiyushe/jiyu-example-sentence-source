@@ -1,5 +1,7 @@
 # 失察
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shicha.md)
+
 <p><span class="chinese">但我同意监管部门也存在失察。</span><span class="english">But I also agree that the cops weren't on the beat.</span></p>
 
 <p><span class="chinese">他们说所有的国家都需要加强失察和危机管理机制。</span><span class="english">They said all countries need to strengthen oversight and crisis management mechanisms.</span></p>

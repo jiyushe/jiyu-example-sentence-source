@@ -1,5 +1,7 @@
 # 泽兰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zelan.md)
+
 <p><span class="chinese">紫茎泽兰是一种有毒的，侵占性很强的检疫性杂草。</span><span class="english">Epatorium adenophorum Spreng is a poisonous, aggressive quarantine weed.</span></p>
 
 <p><span class="chinese">泽兰是这个国家在宽阔的韦斯特谢尔德河口以南的唯一一块领土。</span><span class="english">Zeeland is the only part of that country south of the gaping Westerschelde estuary.</span></p>

@@ -1,5 +1,7 @@
 # 详谈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangtan.md)
+
 <p><span class="chinese">让我们坐下来详谈。</span><span class="english">Let us sit down.</span></p>
 
 <p><span class="chinese">但他没有详谈这一话题。</span><span class="english">But no details have been discussed.</span></p>

@@ -1,5 +1,7 @@
 # ambry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ambry.md)
+
 <p><span class="chinese">橱柜的底板也是“概念”重重。</span><span class="english">The motherboard of ambry also is " concept " heavily.</span></p>
 
 <p><span class="chinese">橱柜的小缝隙要均匀，门板要平直。</span><span class="english">The little gap of ambry wants even, door plank wants flat.</span></p>

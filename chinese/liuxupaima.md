@@ -1,5 +1,7 @@
 # 溜须拍马
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liuxupaima.md)
+
 <p><span class="chinese">他对上司溜须拍马。</span><span class="english">He fawns upon his superiors.</span></p>
 
 <p><span class="chinese">我真受不了他那种溜须拍马的样子。</span><span class="english">I did overpower him the way he flattered.</span></p>

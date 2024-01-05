@@ -1,5 +1,7 @@
 # neurotransmitter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neurotransmitter.md)
+
 <p><span class="chinese">大脑利用这种物质生成神经递质的乙酰胆碱。</span><span class="english">The brain uses it to make the neurotransmitter acetylcholine.</span></p>
 
 <p><span class="chinese">蛋白质会刺激你大脑中的一种神经传递介质，即阿立新。</span><span class="english">Protein stimulates a neurotransmitter in your brain called orexin.</span></p>

@@ -1,5 +1,7 @@
 # soweto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soweto.md)
+
 <p><span class="chinese">史蒂夫·摩里路神父已经在索韦托工作了18年。</span><span class="english">Father Steve Morero has served in Soweto for 18 years.</span></p>
 
 <p><span class="chinese">过去很长一段时间里，索韦托镇上都没有公园和柏油路。</span><span class="english">For most of its history, Soweto did not have parks or paved roads.</span></p>

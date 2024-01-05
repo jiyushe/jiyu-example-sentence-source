@@ -1,5 +1,7 @@
 # 铆钉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maoding_2.md)
+
 <p><span class="chinese">它有一大堆的铆钉过于。</span><span class="english">It has a bunch of rivets too.</span></p>
 
 <p><span class="chinese">螺丝，螺帽及铆钉制造业“，”</span><span class="english">Screw, Nut and Rivet Manufacturing.</span></p>

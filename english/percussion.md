@@ -1,5 +1,7 @@
 # percussion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/percussion.md)
+
 <p><span class="chinese">还有打击乐器</span><span class="english">And a percussion instrument.</span></p>
 
 <p><span class="chinese">是铜管乐器,有时是打击乐器</span><span class="english">The brass and sometimes percussion.</span></p>

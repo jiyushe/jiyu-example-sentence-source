@@ -1,5 +1,7 @@
 # reasonable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reasonable.md)
+
 <p><span class="chinese">你应该讲点道理呀！</span><span class="english">He should be reasonable.</span></p>
 
 <p><span class="chinese">群众是通情达理的。</span><span class="english">The masses are reasonable.</span></p>

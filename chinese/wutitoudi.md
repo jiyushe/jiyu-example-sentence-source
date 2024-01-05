@@ -1,5 +1,7 @@
 # 五体投地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wutitoudi.md)
+
 <p><span class="chinese">他对自己的父亲崇拜得五体投地。</span><span class="english">He fell all over his own father.</span></p>
 
 <p><span class="chinese">杰克爱他的女友爱得五体投地。</span><span class="english">Jack is totally in love with his girlfriend.</span></p>

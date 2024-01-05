@@ -1,5 +1,7 @@
 # satisfactory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/satisfactory.md)
+
 <p><span class="chinese">肠鸣音正常。</span><span class="english">Satisfactory sound normal.</span></p>
 
 <p><span class="chinese">我想要一个满意的成绩。</span><span class="english">I want a satisfactory result.</span></p>

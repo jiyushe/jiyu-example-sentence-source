@@ -1,5 +1,7 @@
 # september
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/september.md)
+
 <p><span class="chinese">比在九月时近了。</span><span class="english">Than we were in September.</span></p>
 
 <p><span class="chinese">刘平的生日是什么时候？</span><span class="english">Her birthday is September 5th.</span></p>

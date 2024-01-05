@@ -1,5 +1,7 @@
 # breath 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/breath.md)
+
 <p><span class="chinese">闻闻我的口气。</span><span class="english">Smell my breath.</span></p>
 
 <p><span class="chinese">呼吸在瞬间凝止。</span><span class="english">Breath at moment.</span></p>

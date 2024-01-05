@@ -1,5 +1,7 @@
 # 清静
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingjing_3.md)
+
 <p><span class="chinese">她换了个清静的角落的座位坐下。</span><span class="english">She reseated herself in a quiet corner.</span></p>
 
 <p><span class="chinese">昨前如此灵魂重回清静守一之境。</span><span class="english">Ere such a soul regains its peaceful state.</span></p>

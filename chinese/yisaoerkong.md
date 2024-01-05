@@ -1,5 +1,7 @@
 # 一扫而空
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yisaoerkong.md)
+
 <p><span class="chinese">或者像结荚的蒲公英被一扫而空。</span><span class="english">Or as a dandelion see-pod and be swept away.</span></p>
 
 <p><span class="chinese">如果美林陷落，信心将一扫而空。</span><span class="english">If Merrill fell, confidence would drain away.</span></p>

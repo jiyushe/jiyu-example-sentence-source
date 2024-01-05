@@ -1,5 +1,7 @@
 # auspices
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/auspices.md)
+
 <p><span class="chinese">这次报告会是由科学院主办的。</span><span class="english">The lecture was given under the auspices of the Academy of Sciences.</span></p>
 
 <p><span class="chinese">在博尼的主持下，公司已发展到目前的水平。</span><span class="english">Under the auspices of Boni, the company has grown to its current level.</span></p>

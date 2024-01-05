@@ -1,5 +1,7 @@
 # 振奋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenfen.md)
+
 <p><span class="chinese">所以，振奋起来！</span><span class="english">So cheer up!</span></p>
 
 <p><span class="chinese">一次握手可以振奋一个灵魂。</span><span class="english">One handclasp lifts a soul.</span></p>

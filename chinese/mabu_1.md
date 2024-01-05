@@ -1,5 +1,7 @@
 # 马步
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mabu_1.md)
+
 <p><span class="chinese">她骑在马上，潇洒地随着马步的节奏上下起伏。</span><span class="english">She rode horseback posting elegantly.</span></p>
 
 <p><span class="chinese">而分队长也提醒大家要训练马步。</span><span class="english">And his commander also remind everyone to stance training.</span></p>

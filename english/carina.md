@@ -1,5 +1,7 @@
 # carina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carina.md)
+
 <p><span class="chinese">与隆线有关或类似于隆线。</span><span class="english">Relating to or resembling a carina.</span></p>
 
 <p><span class="chinese">但是吕萍认为刘嘉玲同样应该受到处罚。</span><span class="english">But Lu believes that Carina Lau is also culpable.</span></p>

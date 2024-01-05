@@ -1,5 +1,7 @@
 # servicing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/servicing.md)
+
 <p><span class="chinese">告诉我们有关你们售后处事的情形。</span><span class="english">Tell us about your post-purchase servicing.</span></p>
 
 <p><span class="chinese">维护刷卡机及打印机。</span><span class="english">Servicing on Swipe Machine & Barcode Printer.</span></p>

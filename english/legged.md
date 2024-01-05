@@ -1,5 +1,7 @@
 # legged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legged.md)
+
 <p><span class="chinese">两腿交叉坐在地板上。</span><span class="english">Sit cross legged on the floor.</span></p>
 
 <p><span class="chinese">我盘腿坐在沙上，沉思自己的人生。</span><span class="english">I sat cross legged in the sand and contemplated my life.</span></p>

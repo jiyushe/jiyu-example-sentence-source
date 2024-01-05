@@ -1,5 +1,7 @@
 # chimeric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chimeric.md)
+
 <p><span class="chinese">以鼠抗人IL-2单克隆抗体经免疫印迹验证，该表达蛋白为所设计的嵌合蛋白。</span><span class="english">Western blot with anti-human IL-2 McAb showed that the expressed product was designed chimeric protein.</span></p>
 
 <p><span class="chinese">他们的研究还显示传统的抗病毒药物有助于清除这些嵌合子小鼠的肝炎感染。</span><span class="english">They also showed that conventional antiviral drugs could help clear the hepatitis infection in the chimeric mice.</span></p>

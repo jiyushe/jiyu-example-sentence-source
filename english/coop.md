@@ -1,5 +1,7 @@
 # coop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coop.md)
+
 <p><span class="chinese">我没有The，Coop的股份。</span><span class="english">I don't own shares in The Coop.</span></p>
 
 <p><span class="chinese">那只老母鸡在笼子里咯咯地叫。</span><span class="english">The old hen clicked in the coop.</span></p>

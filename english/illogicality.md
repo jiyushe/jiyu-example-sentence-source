@@ -1,5 +1,7 @@
 # illogicality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illogicality.md)
+
 <p><span class="chinese">我很矛盾。两个答案我都喜欢。</span><span class="english">It is so illogicality to me. both of two answers i like.</span></p>
 
 <p><span class="chinese">巴西代表也指出了中国立场中混乱的逻辑。</span><span class="english">Brazil's representative too pointed out the illogicality of China's position.</span></p>

@@ -1,5 +1,7 @@
 # flap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flap.md)
+
 <p><span class="chinese">打你的耳光去！</span><span class="english">Go flap your ears!</span></p>
 
 <p><span class="chinese">全拉链前面，风暴盖。</span><span class="english">Full-zip front with storm flap.</span></p>

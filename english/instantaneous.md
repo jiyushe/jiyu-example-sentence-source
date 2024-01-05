@@ -1,5 +1,7 @@
 # instantaneous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/instantaneous.md)
+
 <p><span class="chinese">那何为瞬时速率呢？</span><span class="english">What is the instantaneous speed?</span></p>
 
 <p><span class="chinese">然后在某个不经意的瞬间。</span><span class="english">Then in some nonchalant instantaneous.</span></p>

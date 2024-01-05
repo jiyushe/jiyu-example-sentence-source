@@ -1,5 +1,7 @@
 # 数目字
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shumuzi.md)
+
 <p><span class="chinese">我文章中的数目字指的是注脚。</span><span class="english">The numbers in my article refer to the footnotes.</span></p>
 
 <p><span class="chinese">我文章中的数目字指的是注脚。</span><span class="english">Thee numbers in my article refer to the footnotes.</span></p>

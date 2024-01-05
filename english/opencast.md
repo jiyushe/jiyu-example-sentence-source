@@ -1,5 +1,7 @@
 # opencast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/opencast.md)
+
 <p><span class="chinese">他要把这个露天铜矿表面装饰一番。</span><span class="english">He would “cosmeticize”the opencast copper mine.</span></p>
 
 <p><span class="chinese">联合开采方案在技术上是可行的、经济上是合理的。</span><span class="english">The opencast & underground mining is reasonable in economy and feasible in technology.</span></p>

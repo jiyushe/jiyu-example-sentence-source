@@ -1,5 +1,7 @@
 # untruth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/untruth.md)
+
 <p><span class="chinese">我会用真理战胜谬误。</span><span class="english">I shall conquer untruth by truth.</span></p>
 
 <p><span class="chinese">那是真理，而那是谎言。</span><span class="english">There is truth, and there is untruth.</span></p>

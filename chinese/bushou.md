@@ -1,5 +1,7 @@
 # 部首
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bushou.md)
+
 <p><span class="chinese">什么是部首?。</span><span class="english">What are radicals?</span></p>
 
 <p><span class="chinese">你知道这个字的偏旁部首吗？</span><span class="english">Do you know the radical of this word?</span></p>

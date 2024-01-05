@@ -1,5 +1,7 @@
 # 本题
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benti_1.md)
+
 <p><span class="chinese">你说的与本题无关。</span><span class="english">What you said is irrelevant to the subject.</span></p>
 
 <p><span class="chinese">他于1858年，曾寄给我关于本题的一篇论文。</span><span class="english">In 1858 he sent me a memoir on this subject.</span></p>

@@ -1,5 +1,7 @@
 # flexibly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flexibly.md)
+
 <p><span class="chinese">你可以根据情况机动灵活地处置。</span><span class="english">You can deal with it flexibly as you see fit.</span></p>
 
 <p><span class="chinese">祝您羊年吉祥如意，如意吉祥！</span><span class="english">I wish you luck and flexibly during good luck!</span></p>

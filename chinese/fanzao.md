@@ -1,5 +1,7 @@
 # 烦燥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanzao.md)
+
 <p><span class="chinese">长时间的演讲使我们烦燥。</span><span class="english">The long speech gave us fidgets.</span></p>
 
 <p><span class="chinese">弗雷德心情烦燥，于是到外面去喝了个一醉方休。</span><span class="english">Fred was hacked and went out to hang one on.</span></p>

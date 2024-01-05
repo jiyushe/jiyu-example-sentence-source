@@ -1,5 +1,7 @@
 # dysphoria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dysphoria.md)
+
 <p><span class="chinese">如听了牌大都不顺时会露出烦躁不安的神色。</span><span class="english">Such as listening to the card are not shun will reveal dysphoria look.</span></p>
 
 <p><span class="chinese">“脾气调节障碍烦躁型”是工作组提议的解决办法。</span><span class="english">"Temper dysregulation with dysphoria" is the work group's proposed solution.</span></p>

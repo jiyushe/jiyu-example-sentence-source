@@ -1,5 +1,7 @@
 # 伐树
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fashu.md)
+
 <p><span class="chinese">有时伐树则是为了牟取木材利润。</span><span class="english">Sometimes trees are cut for lumber profits.</span></p>
 
 <p><span class="chinese">我们伐树制作家具和造纸。</span><span class="english">We cut down trees to make furniture and paper.</span></p>

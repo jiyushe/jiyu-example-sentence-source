@@ -1,5 +1,7 @@
 # pallas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pallas.md)
+
 <p><span class="chinese">洛根蝮蛇是商务专业人士和作家。</span><span class="english">Logan Pallas is a business professional and writer.</span></p>
 
 <p><span class="chinese">他们如此一番祈祷，帕拉丝，雅典娜听到了他俩的声音。</span><span class="english">Thus they prayed, and Pallas Minerva heard their prayer.</span></p>

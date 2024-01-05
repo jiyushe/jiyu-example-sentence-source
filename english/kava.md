@@ -1,5 +1,7 @@
 # kava
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kava.md)
+
 <p><span class="chinese">卡瓦胡椒被用来调节压力、焦虑、抑郁以及失眠问题。</span><span class="english">Kava is used to calm anxiety, stress, and restlessness, and treat insomnia.</span></p>
 
 <p><span class="chinese">由于和肝脏损害有关，卡法根禁止在英国使用。</span><span class="english">Kava kava is banned in the UK because of reports of associated liver damage.</span></p>

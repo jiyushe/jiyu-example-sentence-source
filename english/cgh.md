@@ -1,5 +1,7 @@
 # cgh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cgh.md)
+
 <p><span class="chinese">提出一种计算全息位相编码防伪方法。</span><span class="english">A anti counterfeiting method using CGH phase coding is presented in this paper.</span></p>
 
 <p><span class="chinese">文中详细解释了圆角谐分量这一新的物理概念，着重阐述了系统理论及CGH滤波的实现。</span><span class="english">Emphasis is given to the theory of the system and the realization of CGH filtering.</span></p>

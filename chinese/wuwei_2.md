@@ -1,5 +1,7 @@
 # 无谓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuwei_2.md)
+
 <p><span class="chinese">停止无谓的努力。</span><span class="english">Stop unfruitful effort.</span></p>
 
 <p><span class="chinese">无谓的独幕剧中，你在寻找什么。</span><span class="english">What an earth you are looking for.</span></p>

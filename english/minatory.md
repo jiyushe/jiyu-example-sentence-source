@@ -1,5 +1,7 @@
 # minatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minatory.md)
+
 <p><span class="chinese">我们的生命时刻在遭受威胁。</span><span class="english">Our life were minatory the time of day.</span></p>
 
 <p><span class="chinese">我们不会采取威胁和恫吓的行为。</span><span class="english">There will be no threats and minatory actions.</span></p>

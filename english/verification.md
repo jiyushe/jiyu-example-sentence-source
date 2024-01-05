@@ -1,5 +1,7 @@
 # verification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/verification.md)
+
 <p><span class="chinese">书法作品真伪鉴别。</span><span class="english">Verification of calligraphy works.</span></p>
 
 <p><span class="chinese">但是还缺乏更深的验证。</span><span class="english">But deeper verification is lacking.</span></p>

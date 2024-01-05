@@ -1,5 +1,7 @@
 # sumptuously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sumptuously.md)
+
 <p><span class="chinese">他平常吃得很丰富。</span><span class="english">He usually fares sumptuously.</span></p>
 
 <p><span class="chinese">大厅装饰得富丽堂皇。</span><span class="english">The hall was sumptuously decorated.</span></p>

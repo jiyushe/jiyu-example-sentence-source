@@ -1,5 +1,7 @@
 # affidavit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/affidavit.md)
+
 <p><span class="chinese">这是我的宣誓书。</span><span class="english">This is my affidavit.</span></p>
 
 <p><span class="chinese">即使她签署了宣誓书。</span><span class="english">It didn't matter that she'd signed an affidavit.</span></p>

@@ -1,5 +1,7 @@
 # 小兄弟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoxiongdi.md)
+
 <p><span class="chinese">嘿，小兄弟，你听我说。</span><span class="english">Hey, now, bub , you listen to me.</span></p>
 
 <p><span class="chinese">我的小兄弟是一个逗人喜爱的婴孩。</span><span class="english">My little brother is a cute baby.</span></p>

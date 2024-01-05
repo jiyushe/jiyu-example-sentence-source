@@ -1,5 +1,7 @@
 # interact
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interact.md)
+
 <p><span class="chinese">你觉得昆汀的剧本如何？</span><span class="english">How did you and Quentin interact?</span></p>
 
 <p><span class="chinese">我们与环境相互影响。</span><span class="english">We interact with our environment.</span></p>

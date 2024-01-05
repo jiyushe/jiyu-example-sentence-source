@@ -1,5 +1,7 @@
 # 本身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benshen.md)
+
 <p><span class="chinese">幸福本身就是人生之道。</span><span class="english">Happiness is the way.</span></p>
 
 <p><span class="chinese">呵呵，就是万维网本身。</span><span class="english">Well, the web itself.</span></p>

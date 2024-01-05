@@ -1,5 +1,7 @@
 # floret
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/floret.md)
+
 <p><span class="chinese">她是一朵小花。</span><span class="english">She is a floret.</span></p>
 
 <p><span class="chinese">小花是否盛开？</span><span class="english">Did the floret bloom?</span></p>

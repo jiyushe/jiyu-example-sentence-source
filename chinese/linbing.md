@@ -1,5 +1,7 @@
 # 淋病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linbing.md)
+
 <p><span class="chinese">我得了淋病。</span><span class="english">I got gonorrhea.</span></p>
 
 <p><span class="chinese">目前，患有衣原体感染和淋病的人数正日益增加。</span><span class="english">The prevalence of gonorrhea and chlamydia are increasing.</span></p>

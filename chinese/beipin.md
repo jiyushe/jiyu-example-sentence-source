@@ -1,5 +1,7 @@
 # 备品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beipin.md)
+
 <p><span class="chinese">协助做好备品的管理。</span><span class="english">Assist in spare parts management.</span></p>
 
 <p><span class="chinese">他们所有的仅仅是生活必备品然而已。</span><span class="english">All they had were the bare necessities of life.</span></p>

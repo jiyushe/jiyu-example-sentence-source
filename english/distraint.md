@@ -1,5 +1,7 @@
 # distraint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distraint.md)
+
 <p><span class="chinese">约，负责在新界区的被扣押处所提供护卫服务。</span><span class="english">Services at distraint premises in the New Territories.</span></p>
 
 <p><span class="chinese">对作为证据使用的扣押物品，应当随案移送。</span><span class="english">The distraint as evidence shall be transferred with the case.</span></p>

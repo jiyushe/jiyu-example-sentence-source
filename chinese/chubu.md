@@ -1,5 +1,7 @@
 # 初步
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chubu.md)
+
 <p><span class="chinese">公鸡打鸣时，我的一天初步了，健康。</span><span class="english">I hear the rooster and my day!</span></p>
 
 <p><span class="chinese">这是一个初步判断。</span><span class="english">This is a preliminary judgment.</span></p>

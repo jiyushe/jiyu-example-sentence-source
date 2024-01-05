@@ -1,5 +1,7 @@
 # 金花茶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinhuacha.md)
+
 <p><span class="chinese">金花茶饮料是极其有益人体健康的饮品。</span><span class="english">Golden Camellia Tea is a very healthful drink.</span></p>
 
 <p><span class="chinese">标题金花茶植株形态学的研究。</span><span class="english">The study on the morphology of Camellia chrysantha.</span></p>

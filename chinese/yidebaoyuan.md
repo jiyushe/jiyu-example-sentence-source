@@ -1,5 +1,7 @@
 # 以德报怨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yidebaoyuan.md)
+
 <p><span class="chinese">以德报怨，不怕地狱。</span><span class="english">Forill do well, then fear not hell.</span></p>
 
 <p><span class="chinese">圣经要人们以德报怨。</span><span class="english">Bible says to requite evil with good.</span></p>

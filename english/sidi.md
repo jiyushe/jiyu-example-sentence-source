@@ -1,5 +1,7 @@
 # sidi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sidi.md)
+
 <p><span class="chinese">他的表妹克西迪亚雅凯塔也被限制为马里。</span><span class="english">His cousin Sidi Yaya Keita has also been capped for Mali.</span></p>
 
 <p><span class="chinese">当然鞋的舒适性和可选择性是不够的，SIDI更是制鞋技术的领先者。</span><span class="english">And as if fit was not enough, SIDI is a technology leader.</span></p>

@@ -1,5 +1,7 @@
 # notional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/notional.md)
+
 <p><span class="chinese">但是，债务的名义价值不会下降。</span><span class="english">But, the notional value of debt can’t decline.</span></p>
 
 <p><span class="chinese">词法部分包括实词和虚词。</span><span class="english">Morphology comprises notional words and function words.</span></p>

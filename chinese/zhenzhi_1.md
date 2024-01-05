@@ -1,5 +1,7 @@
 # 真知
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenzhi_1.md)
+
 <p><span class="chinese">真知子带琴子去房间休息。</span><span class="english">Machiko with jean to rest room.</span></p>
 
 <p><span class="chinese">吃一堑，长一智。实践出真知。</span><span class="english">No practice, no gain in one's wit.</span></p>

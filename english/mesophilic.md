@@ -1,5 +1,7 @@
 # mesophilic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mesophilic.md)
+
 <p><span class="chinese">对比研究认为专一性脱硫嗜温菌的脱硫基因的起源可能相同。</span><span class="english">It may be deduced that the origins of desulfurization genes from mesophilic bacteria are the same.</span></p>
 
 <p><span class="chinese">微生物的分解作用，主要在中温和高温阶段进行。</span><span class="english">The decomposition of microorganism mainly happened in the thermophilic and mesophilic stage during composting.</span></p>

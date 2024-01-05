@@ -1,5 +1,7 @@
 # considerably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/considerably.md)
+
 <p><span class="chinese">他们拍这部片子亏了很多。</span><span class="english">They lost considerably by this film.</span></p>
 
 <p><span class="chinese">分析仪的启动时间大大缩短。</span><span class="english">Analyzer start-up time is considerably reduced.</span></p>

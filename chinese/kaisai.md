@@ -1,5 +1,7 @@
 # 开赛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaisai.md)
+
 <p><span class="chinese">足球开赛时间定于下午2时30分。</span><span class="english">Kick-off is timed for 2.30</span></p>
 
 <p><span class="chinese">开赛前可以找一个萨满为武器祝福。</span><span class="english">And their weapons may be blessed by a shaman.</span></p>

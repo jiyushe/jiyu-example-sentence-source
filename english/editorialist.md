@@ -1,5 +1,7 @@
 # editorialist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/editorialist.md)
+
 <p><span class="chinese">这篇论文的作者提醒PSA浓度与骨折风险需要被长期追踪。</span><span class="english">The editorialist warns that longer-term follow-up of PSA levels and of fracture risk is needed.</span></p>
 
 <p><span class="chinese">正如一位评论人员所指出，该研究并未包含活性药物对照组，且持续时间相对较短。</span><span class="english">As an editorialist noted, the study did not include an active comparator and was relatively short in duration.</span></p>

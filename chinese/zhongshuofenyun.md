@@ -1,5 +1,7 @@
 # 众说纷纭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongshuofenyun.md)
+
 <p><span class="chinese">对该裁决的含义，众说纷纭。</span><span class="english">As to what it means, opinions vary.</span></p>
 
 <p><span class="chinese">中国的政策为何会发生这样的转变，一直众说纷纭。</span><span class="english">Opinions vary on why this happened.</span></p>

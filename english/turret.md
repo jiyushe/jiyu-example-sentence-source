@@ -1,5 +1,7 @@
 # turret
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turret.md)
+
 <p><span class="chinese">一座激光炮塔瞄准了博加。</span><span class="english">A laser turret targeted Boga.</span></p>
 
 <p><span class="chinese">看看在刀架在该计划在这里。</span><span class="english">Look at the turret in the plans here.</span></p>

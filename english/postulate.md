@@ -1,5 +1,7 @@
 # postulate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/postulate.md)
+
 <p><span class="chinese">即力的平衡。</span><span class="english">That comes out of postulate three.</span></p>
 
 <p><span class="chinese">我们假定她是一位厨师。</span><span class="english">Let’s postulate that she is a cook.</span></p>

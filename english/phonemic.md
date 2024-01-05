@@ -1,5 +1,7 @@
 # phonemic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phonemic.md)
+
 <p><span class="chinese">哪些音标最容易学呢？</span><span class="english">Which phonemic symbols are easiest to learn?</span></p>
 
 <p><span class="chinese">音位对立，互补分布，最小对立对。</span><span class="english">Phonemic ntrast, plementary distribution, and minimal pair.</span></p>

@@ -1,5 +1,7 @@
 # heyday
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heyday.md)
+
 <p><span class="chinese">这个老运动员的鼎盛时期结束了。</span><span class="english">The aging athlete's heyday is over.</span></p>
 
 <p><span class="chinese">这是中国新兴版画的繁荣期。</span><span class="english">This was the heyday of China's new print.</span></p>

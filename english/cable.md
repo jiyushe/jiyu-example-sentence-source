@@ -1,5 +1,7 @@
 # cable 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cable.md)
+
 <p><span class="chinese">家家都有有线电视。</span><span class="english">Everybody has cable.</span></p>
 
 <p><span class="chinese">我是一个电缆剪接器。</span><span class="english">I'm a cable splicer.</span></p>

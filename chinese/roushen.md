@@ -1,5 +1,7 @@
 # 肉身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/roushen.md)
+
 <p><span class="chinese">肉身开始腐烂</span><span class="english">Decay sets in.</span></p>
 
 <p><span class="chinese">袮道成肉身用希望填充我们。</span><span class="english">Your Incarnation fills me with hope.</span></p>

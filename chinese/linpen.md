@@ -1,5 +1,7 @@
 # 临盆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linpen.md)
+
 <p><span class="chinese">我经常听说有人临盆过程很短。</span><span class="english">I always hear about women who have really short labors.</span></p>
 
 <p><span class="chinese">对比一下外贸在线交易平台所有产品在整个临盆经过中得经历五道质检关。</span><span class="english">All products haudio-videoe to go through five checks in the whole process.</span></p>

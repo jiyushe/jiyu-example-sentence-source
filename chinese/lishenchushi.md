@@ -1,5 +1,7 @@
 # 立身处世
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lishenchushi.md)
+
 <p><span class="chinese">这里的生活教会你如何在社会上立身处世。</span><span class="english">Life here teaches you to function in a social environment.</span></p>
 
 <p><span class="chinese">志向是人们立身处世、建功立业的根基。</span><span class="english">Ambition is also the basis of communication and making achievements.</span></p>

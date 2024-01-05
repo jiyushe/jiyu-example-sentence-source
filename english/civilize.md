@@ -1,5 +1,7 @@
 # civilize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/civilize.md)
+
 <p><span class="chinese">他们企图教化土人。</span><span class="english">They tried to civilize the natives.</span></p>
 
 <p><span class="chinese">学校教育使人们文明起来。</span><span class="english">School education helped to civilize the people.</span></p>

@@ -1,5 +1,7 @@
 # unconsolidated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unconsolidated.md)
+
 <p><span class="chinese">疏松砂岩油藏遍布于世界的各个油区。</span><span class="english">Unconsolidated sandstone reservoirs are all over international various oil region.</span></p>
 
 <p><span class="chinese">天池口滑坡是清江隔河岩库区一大型松散堆积物滑坡。</span><span class="english">Tianchikou landslide is a large unconsolidated deposit landslide in Geheyan reservoir area on Qing River.</span></p>

@@ -1,5 +1,7 @@
 # 修身养性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiushenyangxing.md)
+
 <p><span class="chinese">太极拳更重视修身养性，心神安静。</span><span class="english">Practicing Quan is to calm your mind.</span></p>
 
 <p><span class="chinese">修身养性就是为摆脱睡眠而付出的努力。</span><span class="english">Moral reform is the effort to throw off sleep.</span></p>

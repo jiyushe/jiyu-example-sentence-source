@@ -1,5 +1,7 @@
 # diathesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diathesis.md)
+
 <p><span class="chinese">司法腐败与法官自身素质有一定的联系。</span><span class="english">Judicial corruption has some contact with the diathesis of judge.</span></p>
 
 <p><span class="chinese">在职场上，您会觉得女性心理素质不如男性吗?。</span><span class="english">Do you think that female's psychological diathesis is frailer than male?</span></p>

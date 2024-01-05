@@ -1,5 +1,7 @@
 # 编纂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianzuan.md)
+
 <p><span class="chinese">以平实简单的语言编纂法规。</span><span class="english">Plain-language drafting of regulations.</span></p>
 
 <p><span class="chinese">属于或关于词典编纂法的。</span><span class="english">Of or relating to lexicography or a lexicon.</span></p>

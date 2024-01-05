@@ -1,5 +1,7 @@
 # 风量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengliang_1.md)
+
 <p><span class="chinese">吸风区可调节所需风量。</span><span class="english">The suction volume is adjustable.</span></p>
 
 <p><span class="chinese">配置多叶风机，风量大，噪音低。</span><span class="english">Configure multi-leaf fan, wind, low noise.</span></p>

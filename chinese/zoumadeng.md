@@ -1,5 +1,7 @@
 # 走马灯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zoumadeng.md)
+
 <p><span class="chinese">当我们点亮灯泡时，为什么走马灯会转动？</span><span class="english">Why does the lantern turn when we light up the electric bulb?</span></p>
 
 <p><span class="chinese">这几年，问题食品像走马灯似的，你方唱罢我登场。</span><span class="english">Over the past years, the "problem foods" appeared one after another.</span></p>

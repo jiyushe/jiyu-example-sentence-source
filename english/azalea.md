@@ -1,5 +1,7 @@
 # azalea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/azalea.md)
+
 <p><span class="chinese">那是我至爱的杜鹃花。</span><span class="english">I loved that azalea bush.</span></p>
 
 <p><span class="chinese">我非常喜欢那丛杜鹃花。</span><span class="english">I loved that azalea bush.</span></p>

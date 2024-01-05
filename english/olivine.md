@@ -1,5 +1,7 @@
 # olivine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/olivine.md)
+
 <p><span class="chinese">不舍橄榄石和辉石。</span><span class="english">No pyroxene or olivine has been found.</span></p>
 
 <p><span class="chinese">老黑山熔岩中的橄榄石是贵橄榄石。</span><span class="english">The olivine from the Laoheishan is chrysolite.</span></p>

@@ -1,5 +1,7 @@
 # 指正
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizheng_1.md)
+
 <p><span class="chinese">谢谢王韬的批评指正。</span><span class="english">Thanks to Tao Wang for the critique.</span></p>
 
 <p><span class="chinese">欢迎各位给予批评指正。</span><span class="english">To welcome you all to give criticism.</span></p>

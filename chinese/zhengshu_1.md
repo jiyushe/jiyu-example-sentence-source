@@ -1,5 +1,7 @@
 # 正数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengshu_1.md)
+
 <p><span class="chinese">它是正数。</span><span class="english">It's a positive number.</span></p>
 
 <p><span class="chinese">以保证他是个正数。</span><span class="english">To be a positive number.</span></p>

@@ -1,5 +1,7 @@
 # 严阵以待
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanzhenyidai.md)
+
 <p><span class="chinese">在投票日那天，我们将在每一个角落严阵以待。</span><span class="english">On Election Day, we will be engaged at every level.</span></p>
 
 <p><span class="chinese">国家被内战分裂为两个严阵以待的政府。</span><span class="english">The country was sundered by civil war into two states.</span></p>

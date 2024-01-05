@@ -1,5 +1,7 @@
 # rush 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rush.md)
+
 <p><span class="chinese">我得赶紧走。</span><span class="english">I have to rush.</span></p>
 
 <p><span class="chinese">我需要那种刺激。</span><span class="english">I need the rush.</span></p>

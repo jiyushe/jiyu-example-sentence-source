@@ -1,5 +1,7 @@
 # 执拗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiniu.md)
+
 <p><span class="chinese">执拗的人是全聋的演说者。</span><span class="english">A bigot is a stone-deaf orator.</span></p>
 
 <p><span class="chinese">他执拗地拒绝他们的计划。</span><span class="english">He was obdurate to refuse their plan.</span></p>

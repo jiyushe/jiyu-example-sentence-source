@@ -1,5 +1,7 @@
 # 少儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaoer.md)
+
 <p><span class="chinese">如果您能帮助我，少儿英语我很高兴。</span><span class="english">I'd be delighted lf you could help me.</span></p>
 
 <p><span class="chinese">这家书店出售少儿读物。</span><span class="english">This bookshop sells books for children.</span></p>

@@ -1,5 +1,7 @@
 # antigua
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antigua.md)
+
 <p><span class="chinese">安提瓜附近有什么鲸类经过？</span><span class="english">What kind of whales pass through Antigua?</span></p>
 
 <p><span class="chinese">这里绝对是加勒比之旅的必游之地，而且安提瓜也是世界上举办婚礼的最佳地点。</span><span class="english">Antigua is also famous as a best wedding destination in the world.</span></p>

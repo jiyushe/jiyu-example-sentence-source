@@ -1,5 +1,7 @@
 # bread
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bread.md)
+
 <p><span class="chinese">白面包。</span><span class="english">White bread.</span></p>
 
 <p><span class="chinese">馍泡在汤里？</span><span class="english">Bread in the soup?</span></p>

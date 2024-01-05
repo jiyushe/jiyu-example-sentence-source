@@ -1,5 +1,7 @@
 # initiation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/initiation.md)
+
 <p><span class="chinese">那好像是个仪式，入伙仪式。</span><span class="english">It was a ceremony, an initiation.</span></p>
 
 <p><span class="chinese">议决入会费、常年会费。</span><span class="english">Decide initiation fees and yearly dues.</span></p>

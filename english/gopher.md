@@ -1,5 +1,7 @@
 # gopher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gopher.md)
+
 <p><span class="chinese">穴居沙龟打一个迂曲的地洞。</span><span class="english">The gopher digs a maze of tunnels.</span></p>
 
 <p><span class="chinese">一只地鼠和一只鼹鼠打洞从地板里钻了出来。</span><span class="english">A gopher and a mole tunnel up through the floor.</span></p>

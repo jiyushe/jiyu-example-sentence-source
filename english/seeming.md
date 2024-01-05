@@ -1,5 +1,7 @@
 # seeming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seeming.md)
+
 <p><span class="chinese">下面我来解释一下这个例子。</span><span class="english">This is a seeming exception.</span></p>
 
 <p><span class="chinese">于是有了表面矛盾。</span><span class="english">So here is a seeming contradiction.</span></p>

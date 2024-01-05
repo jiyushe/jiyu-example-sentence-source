@@ -1,5 +1,7 @@
 # 根深叶茂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/genshenyemao.md)
+
 <p><span class="chinese">根深叶茂快成才。</span><span class="english">Be deep rooted , flourishing and growing quickly.</span></p>
 
 <p><span class="chinese">如今这棵大树根深叶茂，硕果累累。</span><span class="english">It has now grown into a giant tree with deep roots and rich fruits.</span></p>

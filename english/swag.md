@@ -1,5 +1,7 @@
 # swag
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swag.md)
+
 <p><span class="chinese">你们喜欢我的那些安踏赛前家当吗？</span><span class="english">What you all think of my Anta Swag?</span></p>
 
 <p><span class="chinese">圣诞老人被认为是流浪汉。</span><span class="english">Santa is also known as the Swag Man.</span></p>

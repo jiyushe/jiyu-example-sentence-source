@@ -1,5 +1,7 @@
 # pisces
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pisces.md)
+
 <p><span class="chinese">双鱼属于水象星座。</span><span class="english">Pisces is a Water sign.</span></p>
 
 <p><span class="chinese">双鱼座是水相星座。</span><span class="english">Pisces is a watery sign.</span></p>

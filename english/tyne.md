@@ -1,5 +1,7 @@
 # tyne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tyne.md)
+
 <p><span class="chinese">这是纽卡索泰恩大学医学院的网站。</span><span class="english">Sciences, University of Newcastle upon Tyne.</span></p>
 
 <p><span class="chinese">后来我从纽卡斯尔大学毕业并且拿到了跨文化交流专业的学位。</span><span class="english">I graduated from University of Newcastle upon Tyne with a degree in Cross Culture Communication.</span></p>

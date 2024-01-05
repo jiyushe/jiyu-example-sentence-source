@@ -1,5 +1,7 @@
 # neoclassic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neoclassic.md)
+
 <p><span class="chinese">这座房子装修为新古典风格。</span><span class="english">The house is decorated in neoclassic style.</span></p>
 
 <p><span class="chinese">这是新古典主义巴洛克风格的创作。</span><span class="english">This is yet another example of the late neoclassic baroque period.</span></p>

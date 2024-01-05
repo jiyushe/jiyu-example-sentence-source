@@ -1,5 +1,7 @@
 # 仲夏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongxia_1.md)
+
 <p><span class="chinese">仲夏日之梦，有我，亦有你。</span><span class="english">Midsummer day, I, have you.</span></p>
 
 <p><span class="chinese">仲夏雨过之后彩虹跨越天幕。</span><span class="english">Midsummer rain after rainbow across backdrop.</span></p>

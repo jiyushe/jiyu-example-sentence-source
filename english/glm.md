@@ -1,5 +1,7 @@
 # glm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glm.md)
+
 <p><span class="chinese">采用SAS8.1软件对影响产犊间隔因素进行最小二乘方差分析。</span><span class="english">The effects on calving interval were analyzed by SAS8.1 GLM.</span></p>
 
 <p><span class="chinese">我如何指定在GLM使用负二项式误差分布？</span><span class="english">How do I designate a negative binomial error distribution in a GLM using R?</span></p>

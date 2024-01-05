@@ -1,5 +1,7 @@
 # 拆台
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaitai.md)
+
 <p><span class="chinese">这将是自拆台脚。</span><span class="english">It would be self-defeating.</span></p>
 
 <p><span class="chinese">以团结协作为荣，以彼此拆台为耻。</span><span class="english">Team work as glory, Mutual hurt as shame.</span></p>

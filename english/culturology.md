@@ -1,5 +1,7 @@
 # culturology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/culturology.md)
+
 <p><span class="chinese">诗学文化学是「诗学」中体现的文化学理论。</span><span class="english">The Poetics Culturology is the theory of Culturology in Poetics.</span></p>
 
 <p><span class="chinese">感性选择具有认识论、本体论以及文化学上的多重意蕴。</span><span class="english">The perceptual choice has multi-meanings of epistemology, noumenon and culturology.</span></p>

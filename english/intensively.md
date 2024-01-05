@@ -1,5 +1,7 @@
 # intensively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intensively.md)
+
 <p><span class="chinese">当数据移动时，它被集中检查。</span><span class="english">As the data moves, it is checked intensively.</span></p>
 
 <p><span class="chinese">这个城市被加强的炮轰，许多人都受了伤。</span><span class="english">The city was bombed intensively and many were wounded.</span></p>

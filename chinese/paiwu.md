@@ -1,5 +1,7 @@
 # 排污
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paiwu.md)
+
 <p><span class="chinese">WQD工程用泵。排污泵。</span><span class="english">WQD project pump. sewage pump.</span></p>
 
 <p><span class="chinese">部分排污门泄漏严重。</span><span class="english">Part of blowdown valve has heavy leakage.</span></p>

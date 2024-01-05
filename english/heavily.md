@@ -1,5 +1,7 @@
 # heavily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heavily.md)
+
 <p><span class="chinese">他打了个大呵欠。</span><span class="english">He yawned heavily.</span></p>
 
 <p><span class="chinese">军队损失惨重。</span><span class="english">The army lost heavily.</span></p>

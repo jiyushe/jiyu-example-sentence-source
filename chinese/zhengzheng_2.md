@@ -1,5 +1,7 @@
 # 铮铮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengzheng_2.md)
+
 <p><span class="chinese">有一个金属铮铮。</span><span class="english">There was a metallic clank.</span></p>
 
 <p><span class="chinese">他看见前方出现了一条明铮铮、亮晶晶的光洁冰面。</span><span class="english">Before him appeared a gleaming, crystal ribbon of pure white ice.</span></p>

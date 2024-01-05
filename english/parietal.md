@@ -1,5 +1,7 @@
 # parietal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parietal.md)
+
 <p><span class="chinese">有内脏与腔壁的腹膜。</span><span class="english">There are visceral and parietal peritoneal.</span></p>
 
 <p><span class="chinese">在吉拉头盖骨的颅顶骨的区域有个伤口。</span><span class="english">A cranial trauma with a wound in the parietal region.</span></p>

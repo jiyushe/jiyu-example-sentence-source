@@ -1,5 +1,7 @@
 # spontaneity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spontaneity.md)
+
 <p><span class="chinese">单身生活能让你有更多的自主。</span><span class="english">It allows for more spontaneity in your life.</span></p>
 
 <p><span class="chinese">自发性，不落俗套就是创造性中最关键的因素。</span><span class="english">Spontaneity is one of the key elements of creativity.</span></p>

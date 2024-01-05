@@ -1,5 +1,7 @@
 # andante
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/andante.md)
+
 <p><span class="chinese">行板与快板，可选任何版本。</span><span class="english">Andante and Allegro, any edition.</span></p>
 
 <p><span class="chinese">为钢琴而作的有变奏的行板。</span><span class="english">Andante con Variazioni, for piano.</span></p>

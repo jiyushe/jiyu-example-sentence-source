@@ -1,5 +1,7 @@
 # 爱称
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aicheng.md)
+
 <p><span class="chinese">给他们一个特别的爱称。</span><span class="english">Give them a special nickname.</span></p>
 
 <p><span class="chinese">汤姆是托马斯的爱称。</span><span class="english">Tom is the pet name of Thomas.</span></p>

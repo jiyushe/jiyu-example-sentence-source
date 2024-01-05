@@ -1,5 +1,7 @@
 # neural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neural.md)
+
 <p><span class="chinese">得到那些神经信号。</span><span class="english">Take those neural signals out.</span></p>
 
 <p><span class="chinese">大脑依靠神经网络工作。</span><span class="english">The brain works on neural networks.</span></p>

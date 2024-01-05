@@ -1,5 +1,7 @@
 # wheedle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wheedle.md)
+
 <p><span class="chinese">一句我爱你。把我哄得好开心。</span><span class="english">I love you. Wheedle me into a good time.</span></p>
 
 <p><span class="chinese">她花言巧语地骗他多付了一天钱。</span><span class="english">She managed to wheedle an extra day's pay out of him.</span></p>

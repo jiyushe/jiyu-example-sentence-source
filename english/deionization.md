@@ -1,5 +1,7 @@
 # deionization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deionization.md)
+
 <p><span class="chinese">漂莱特A500将在去离子提供最佳的性能和大孔阴离子交换树脂作为一个有机的陷阱。</span><span class="english">Purolite A500 will provide for optimum performance in deionization and as an organic trap.</span></p>
 
 <p><span class="chinese">去离子工艺在工业成本方面远比蒸馏水或反渗透水经济得多。</span><span class="english">Deionization is far more economical than distillation or reverse osmosis in commercial operations.</span></p>

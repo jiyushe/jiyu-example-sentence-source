@@ -1,5 +1,7 @@
 # 出疹子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuzhenzi.md)
+
 <p><span class="chinese">他今天出疹子了。</span><span class="english">He came in a rash today.</span></p>
 
 <p><span class="chinese">我们都没出疹子。</span><span class="english">We all escaped the measles.</span></p>

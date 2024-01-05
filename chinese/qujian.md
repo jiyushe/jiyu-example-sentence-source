@@ -1,5 +1,7 @@
 # 区间
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qujian.md)
+
 <p><span class="chinese">这次搜索的区间。</span><span class="english">Notice the printout here.</span></p>
 
 <p><span class="chinese">因此答案并不在这个区间。</span><span class="english">So it wasn't on the region.</span></p>

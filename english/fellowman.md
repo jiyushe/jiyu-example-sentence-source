@@ -1,5 +1,7 @@
 # fellowman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fellowman.md)
+
 <p><span class="chinese">你的职业是否有助于消灭你的同胞？</span><span class="english">Does your occupation aid in destroying your fellowman?</span></p>
 
 <p><span class="chinese">让我在他人身上看到祢要我看到的他的品质。</span><span class="english">Let me see in Him that Thou would have me see in my fellowman.</span></p>

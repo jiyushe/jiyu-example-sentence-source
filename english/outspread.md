@@ -1,5 +1,7 @@
 # outspread
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outspread.md)
+
 <p><span class="chinese">鹰展开了它的翅膀。</span><span class="english">The eagle outspread its wings.</span></p>
 
 <p><span class="chinese">以马内利阿，他展开翅膀，遍满你的地。</span><span class="english">Its outspread wings will cover the breadth of your land, O Immanuel !</span></p>

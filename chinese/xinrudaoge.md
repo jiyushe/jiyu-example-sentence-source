@@ -1,5 +1,7 @@
 # 心如刀割
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinrudaoge.md)
+
 <p><span class="chinese">她悲痛得心如刀割。</span><span class="english">Her heart was pierced with grief.</span></p>
 
 <p><span class="chinese">但是当我知道他喜欢着别的女孩儿时我心如刀割。</span><span class="english">But I was broken-hearted when I knew he loved others.</span></p>

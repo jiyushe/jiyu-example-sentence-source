@@ -1,5 +1,7 @@
 # arenaceous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arenaceous.md)
+
 <p><span class="chinese">而砂环正是藏风的首要条件。</span><span class="english">And the first requirement that arenaceous annulus hides wind just about.</span></p>
 
 <p><span class="chinese">煎中药应用砂锅而不用铁锅的原因是什么?。</span><span class="english">Decoct medicine uses arenaceous boiler and need not what is the reason of iron bowl?</span></p>

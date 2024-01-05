@@ -1,5 +1,7 @@
 # bulgaria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bulgaria.md)
+
 <p><span class="chinese">但是，这不能代表所有保加利亚人的想法。</span><span class="english">But not in step with all of Bulgaria.</span></p>
 
 <p><span class="chinese">保加利亚目前有16架米格29战机。</span><span class="english">Bulgaria currently has 16 MiG-29 interceptors.</span></p>

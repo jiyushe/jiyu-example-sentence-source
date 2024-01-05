@@ -1,5 +1,7 @@
 # 恋恋不舍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianlianbushe.md)
+
 <p><span class="chinese">我依然对我的家乡恋恋不舍。</span><span class="english">I am still attached to my hometown.</span></p>
 
 <p><span class="chinese">汤姆对他的家恋恋不舍。</span><span class="english">Tom is reluctant to part with his home.</span></p>

@@ -1,5 +1,7 @@
 # ilk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ilk.md)
+
 <p><span class="chinese">这个夏天很多球员离开了我们。</span><span class="english">We lost a lot of players of that ilk.</span></p>
 
 <p><span class="chinese">然而谢里夫及其同类大学继续茁壮成长。</span><span class="english">Yet Sharif and its ilk continue to thrive.</span></p>

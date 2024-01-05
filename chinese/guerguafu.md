@@ -1,5 +1,7 @@
 # 孤儿寡妇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guerguafu.md)
+
 <p><span class="chinese">要留给寄居的与孤儿寡妇。</span><span class="english">Leave what remains for the alien, the fatherless and the widow.</span></p>
 
 <p><span class="chinese">孤儿寡妇因耶稣向他们所施的仁慈而称扬他的名。</span><span class="english">Widows and orphans were exalting the name of Jesus for His works of mercy to them.</span></p>

@@ -1,5 +1,7 @@
 # 散步
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanbu_1.md)
+
 <p><span class="chinese">睡前散散步。</span><span class="english">Walk before bed.</span></p>
 
 <p><span class="chinese">我想出去散散步。</span><span class="english">I want to air myself.</span></p>

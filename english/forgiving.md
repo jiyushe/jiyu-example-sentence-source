@@ -1,5 +1,7 @@
 # forgiving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forgiving.md)
+
 <p><span class="chinese">他确是容忍的，确是至赦的。</span><span class="english">Verily He is Oft-Forbear, Most Forgiving !</span></p>
 
 <p><span class="chinese">我们对己宽容，对人严苛。</span><span class="english">For other people we're a lot less forgiving.</span></p>

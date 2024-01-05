@@ -1,5 +1,7 @@
 # interweave
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interweave.md)
+
 <p><span class="chinese">所有情感的交织是什么？</span><span class="english">What is all affective interweave?</span></p>
 
 <p><span class="chinese">我会让我的两个生命在我生活中和谐交织着。</span><span class="english">I have two life plans and I let them interweave in harmony.</span></p>

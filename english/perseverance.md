@@ -1,5 +1,7 @@
 # perseverance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perseverance.md)
+
 <p><span class="chinese">他缺乏坚定性。</span><span class="english">He lacks perseverance.</span></p>
 
 <p><span class="chinese">有恒心就能胜利。</span><span class="english">Perseverance leads to success.</span></p>

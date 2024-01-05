@@ -1,5 +1,7 @@
 # 发号施令
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fahaoshiling.md)
+
 <p><span class="chinese">他对他妻子发号施令。</span><span class="english">He bossed his wife about.</span></p>
 
 <p><span class="chinese">他是个爱发号施令的领导。</span><span class="english">He is an officious leader.</span></p>

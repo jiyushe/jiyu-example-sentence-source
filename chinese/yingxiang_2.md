@@ -1,5 +1,7 @@
 # 影象
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingxiang_2.md)
+
 <p><span class="chinese">那次聚会在他脑海里影象犹新。</span><span class="english">Fresh The party was fresh in her memory.</span></p>
 
 <p><span class="chinese">使用有图有字的闪卡影象生字。</span><span class="english">I use flashcards to remember new English words.</span></p>

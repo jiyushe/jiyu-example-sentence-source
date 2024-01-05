@@ -1,5 +1,7 @@
 # 蛇形
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shexing.md)
+
 <p><span class="chinese">您知道如何做蛇形或半月形吗？</span><span class="english">Do you know how to do the snake or the half-moon?</span></p>
 
 <p><span class="chinese">车行收取你一两百块的蛇形皮带在那里？需不需要更换?。</span><span class="english">Where is Serpentine Belt Located?Is It Necessary to Replace?</span></p>

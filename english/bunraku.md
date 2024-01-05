@@ -1,5 +1,7 @@
 # bunraku
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bunraku.md)
+
 <p><span class="chinese">在日本，木偶戏的传统可以追溯到几百年前。</span><span class="english">In Japan, the tradition of bunraku puppetry dates back hundreds of years.</span></p>
 
 <p><span class="chinese">了解如何在文乐木偶手臂控制在这个自由木偶教训作品从专家木偶。</span><span class="english">Learn how a Bunraku puppet arm control works in this free puppetry lesson from an expert puppeteer.</span></p>

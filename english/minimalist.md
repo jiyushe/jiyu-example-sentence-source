@@ -1,5 +1,7 @@
 # minimalist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minimalist.md)
+
 <p><span class="chinese">什么是极简设计？</span><span class="english">What Is Minimalist Design?</span></p>
 
 <p><span class="chinese">我的男朋友是个极简主义者。</span><span class="english">My BF is already a minimalist.</span></p>

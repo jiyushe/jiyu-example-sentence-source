@@ -1,5 +1,7 @@
 # 辉映
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huiying.md)
+
 <p><span class="chinese">的蓝环相互辉映。</span><span class="english">Has embraced the blue ring.</span></p>
 
 <p><span class="chinese">她的脸上辉映着天国的圣景。</span><span class="english">And Heaven reflected in her face.</span></p>

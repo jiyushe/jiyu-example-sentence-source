@@ -1,5 +1,7 @@
 # smudge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smudge.md)
+
 <p><span class="chinese">木炭画很容易弄脏。</span><span class="english">Charcoal drawings smudge easily.</span></p>
 
 <p><span class="chinese">该镜头很容易划伤或弄脏。</span><span class="english">The lens is easy to scratch or smudge.</span></p>

@@ -1,5 +1,7 @@
 # midian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/midian.md)
+
 <p><span class="chinese">他们从米甸起行，到了巴兰。</span><span class="english">They set out from Midian and went to Paran.</span></p>
 
 <p><span class="chinese">当他们坐下吃饭的时候，举目观看，见有一夥米甸的商人和他们的骆驼队。</span><span class="english">It was a caravan of camels and traders from Midian.</span></p>

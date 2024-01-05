@@ -1,5 +1,7 @@
 # 鼓风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gufeng_1.md)
+
 <p><span class="chinese">燃气鼓风双头双尾灶。</span><span class="english">Blasting gas stove with Two Head Stov.</span></p>
 
 <p><span class="chinese">采用45℃鼓风干燥对脱水菌丝体进行干燥处理2.5小时。</span><span class="english">The de-water biomass were dried at 45℃for 2.5 hours.</span></p>

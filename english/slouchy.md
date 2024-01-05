@@ -1,5 +1,7 @@
 # slouchy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slouchy.md)
+
 <p><span class="chinese">他喜欢戴着慵懒感觉的帽子来体现他的风格。</span><span class="english">He likes to wear slouchy hat for style.</span></p>
 
 <p><span class="chinese">懒散麂皮镶边的牛仔桶形状。</span><span class="english">Slouchy denim bucket shape with suede trim.</span></p>

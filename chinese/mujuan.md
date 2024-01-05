@@ -1,5 +1,7 @@
 # 募捐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mujuan.md)
+
 <p><span class="chinese">我想他们错过了募捐。</span><span class="english">I guess they passed the hat.</span></p>
 
 <p><span class="chinese">我们明天开始募捐。</span><span class="english">We start the collection tomorrow.</span></p>

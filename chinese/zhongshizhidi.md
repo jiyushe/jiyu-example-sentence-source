@@ -1,5 +1,7 @@
 # 众矢之的
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongshizhidi.md)
+
 <p><span class="chinese">现在本田再一次成为众矢之的。</span><span class="english">Now Honda has been a target again.</span></p>
 
 <p><span class="chinese">往往会得罪一大帮的人，成为众矢之的。</span><span class="english">Often, a large group of people against her thoughtlessness.</span></p>

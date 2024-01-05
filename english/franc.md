@@ -1,5 +1,7 @@
 # franc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/franc.md)
+
 <p><span class="chinese">货币名称为法国法郎。</span><span class="english">Currency name for the French franc.</span></p>
 
 <p><span class="chinese">瑞士法郎是一种硬货币。</span><span class="english">The Swiss franc is a hard currency.</span></p>

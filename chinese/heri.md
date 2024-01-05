@@ -1,5 +1,7 @@
 # 何日
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heri.md)
+
 <p><span class="chinese">何日你再回来呢？</span><span class="english">When are you coming again?</span></p>
 
 <p><span class="chinese">何日平胡虏，良人罢远征。</span><span class="english">He day Hulu, beloved strike expedition.</span></p>

@@ -1,5 +1,7 @@
 # 惋惜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanxi.md)
+
 <p><span class="chinese">我对此一点也不感到惋惜。</span><span class="english">I feel no sorry for it at all.</span></p>
 
 <p><span class="chinese">你的确犯不着为他感到惋惜！</span><span class="english">He is no object of regret, indeed!</span></p>

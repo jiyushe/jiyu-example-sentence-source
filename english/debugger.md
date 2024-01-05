@@ -1,5 +1,7 @@
 # debugger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/debugger.md)
+
 <p><span class="chinese">接下来请尝试调试器。</span><span class="english">Try out the debugger next.</span></p>
 
 <p><span class="chinese">它是一个命令行调试器。</span><span class="english">It is a command-line debugger.</span></p>

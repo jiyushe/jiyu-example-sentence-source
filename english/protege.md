@@ -1,5 +1,7 @@
 # protege
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/protege.md)
+
 <p><span class="chinese">吉他手和作曲家巴登鲍威尔是他的门徒。</span><span class="english">The guitarist and composer Baden Powell was his protege.</span></p>
 
 <p><span class="chinese">弗雷德里科斯夫妇将在这次比赛中和他们的徒弟同场竞技。</span><span class="english">The Fredericks will now be taking on their protege in the Games.</span></p>

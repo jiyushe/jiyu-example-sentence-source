@@ -1,5 +1,7 @@
 # wormhole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wormhole.md)
+
 <p><span class="chinese">蛀洞也是大量细菌的藏身之地。</span><span class="english">Wormhole is a large number of bacteria to hide.</span></p>
 
 <p><span class="chinese">反馈变得很强大而毁坏了虫洞。</span><span class="english">The feedback will become so strong it destroys the wormhole.</span></p>

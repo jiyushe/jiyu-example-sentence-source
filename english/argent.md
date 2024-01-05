@@ -1,5 +1,7 @@
 # argent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/argent.md)
+
 <p><span class="chinese">银色黎明完蛋了！</span><span class="english">The Argent Dawn is finished!</span></p>
 
 <p><span class="chinese">更多银黎明的爪牙，毫无疑问。</span><span class="english">More pawns of the Argent Dawn, no doubt.</span></p>

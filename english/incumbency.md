@@ -1,5 +1,7 @@
 # incumbency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incumbency.md)
+
 <p><span class="chinese">的确是有责任风险的。</span><span class="english">And it's a real danger of incumbency.</span></p>
 
 <p><span class="chinese">权利与义务证明书。</span><span class="english">Certificate of Incumbency and Authority.</span></p>

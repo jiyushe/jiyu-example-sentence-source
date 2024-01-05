@@ -1,5 +1,7 @@
 # spain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spain.md)
+
 <p><span class="chinese">但是西班牙却不如此。</span><span class="english">But not in Spain.</span></p>
 
 <p><span class="chinese">榜眼来自西班牙。</span><span class="english">No. 2 is from Spain.</span></p>

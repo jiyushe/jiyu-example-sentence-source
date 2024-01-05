@@ -1,5 +1,7 @@
 # 冬眠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongmian_1.md)
+
 <p><span class="chinese">熊属半冬眠动物。</span><span class="english">Some bears hibernate.</span></p>
 
 <p><span class="chinese">它们冬眠了。</span><span class="english">They have hibernated.</span></p>

@@ -1,5 +1,7 @@
 # 童女
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongnv.md)
+
 <p><span class="chinese">这就是为什么童女生子的故事。</span><span class="english">That is why the story of the virgin birth.</span></p>
 
 <p><span class="chinese">童女就去叫了孩子的母亲来。</span><span class="english">And the maid went and called the child's mother.</span></p>

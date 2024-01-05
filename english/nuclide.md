@@ -1,5 +1,7 @@
 # nuclide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nuclide.md)
+
 <p><span class="chinese">相机属于放射性核素成像设备。</span><span class="english">Gamma camera belongs to the radiation nuclide imaging equipment.</span></p>
 
 <p><span class="chinese">介绍了作者开发的核素图软件。</span><span class="english">A Nuclide Chart software developed by the author himself has been introduced.</span></p>

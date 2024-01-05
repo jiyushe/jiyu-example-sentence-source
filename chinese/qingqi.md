@@ -1,5 +1,7 @@
 # 氢气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingqi.md)
+
 <p><span class="chinese">但是，氢气是非极性的。</span><span class="english">Whereas, H2 is nonpolar.</span></p>
 
 <p><span class="chinese">组合成氢气。</span><span class="english">And then over here is H2.</span></p>

@@ -1,5 +1,7 @@
 # defoliant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defoliant.md)
+
 <p><span class="chinese">分离主义船舰的坠毁导致大量毒性落叶剂渗入星球的生态中，摧毁了当地的植物群。</span><span class="english">The crash had spilled a noxious defoliant into the planet's ecology, ravaging the native flora.</span></p>
 
 <p><span class="chinese">并且通过对落叶规律的观察统计，筛选出比较理想的悬铃木落叶剂配方。</span><span class="english">Through statistical observation of falling leaves, a more ideal formula of the defoliant was developed.</span></p>

@@ -1,5 +1,7 @@
 # DVD 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dvd.md)
+
 <p><span class="chinese">你们能从那DVD中学到什么呢。</span><span class="english">What you can get on that DVD.</span></p>
 
 <p><span class="chinese">DVD版电影是没有经过删节的。</span><span class="english">The movie in DVD is unabridged.</span></p>

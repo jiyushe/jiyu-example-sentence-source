@@ -1,5 +1,7 @@
 # 点点滴滴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diandiandidi.md)
+
 <p><span class="chinese">点点滴滴。我都拥有在心。</span><span class="english">Dribs and drabs. I have in mind.</span></p>
 
 <p><span class="chinese">爱在点点滴滴，爱在一茶一饭。</span><span class="english">Love in dribs and drabs, at a tea rice.</span></p>

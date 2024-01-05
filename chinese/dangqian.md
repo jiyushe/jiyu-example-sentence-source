@@ -1,5 +1,7 @@
 # 当前
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangqian.md)
+
 <p><span class="chinese">圣诞节当前，我真的不忍心啊。</span><span class="english">It's Christmas.</span></p>
 
 <p><span class="chinese">愿邪恶当前你心向真。</span><span class="english">Your heart will be true.</span></p>

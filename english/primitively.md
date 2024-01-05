@@ -1,5 +1,7 @@
 # primitively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/primitively.md)
+
 <p><span class="chinese">我们能做的恐怕只有释怀。</span><span class="english">I'm afraid sth have been primitively programmed.</span></p>
 
 <p><span class="chinese">但是对于男人而言，欢爽的问题被提出是更加自然。</span><span class="english">But the question of jouissance is posed more primitively for the man.</span></p>

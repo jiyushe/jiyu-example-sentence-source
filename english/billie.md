@@ -1,5 +1,7 @@
 # billie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/billie.md)
+
 <p><span class="chinese">比莉住在南半球。</span><span class="english">Billie lives in the southern hemisphere.</span></p>
 
 <p><span class="chinese">比莉哈乐黛是我最喜欢的爵士歌手。</span><span class="english">Billie Holiday is my favorite jazz singer.</span></p>

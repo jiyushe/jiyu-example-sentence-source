@@ -1,5 +1,7 @@
 # academician
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/academician.md)
+
 <p><span class="chinese">我是我们家第一个大学生。</span><span class="english">I'm the first academician in our family.</span></p>
 
 <p><span class="chinese">成为这家学院的院士他很骄傲。</span><span class="english">He was proud of being an academician of this academy.</span></p>

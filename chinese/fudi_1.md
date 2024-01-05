@@ -1,5 +1,7 @@
 # 府第
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fudi_1.md)
+
 <p><span class="chinese">鼓出一大口气，将其吹回各自府第。</span><span class="english">Plumping up a mouseful air, sending them to where they came from.</span></p>
 
 <p><span class="chinese">她不断地夸奖园林和府第的美丽，让他高兴。</span><span class="english">She dilated on the beauty of the park and the Hall to gratify him.</span></p>

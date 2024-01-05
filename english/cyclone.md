@@ -1,5 +1,7 @@
 # cyclone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cyclone.md)
+
 <p><span class="chinese">气旋下溢中的绳状流动。</span><span class="english">Roping in cyclone underflow.</span></p>
 
 <p><span class="chinese">赤道反气旋。</span><span class="english">Anti- cyclone in the equator.</span></p>

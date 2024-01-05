@@ -1,5 +1,7 @@
 # dehydrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dehydrate.md)
+
 <p><span class="chinese">人在沙漠里很快就会脱水。</span><span class="english">People can very quickly dehydrate in the desert.</span></p>
 
 <p><span class="chinese">如果我忘记给花浇水，他们就会缺水而死。</span><span class="english">When I forget to water my plants, they dehydrate and die.</span></p>

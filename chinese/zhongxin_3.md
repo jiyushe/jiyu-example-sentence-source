@@ -1,5 +1,7 @@
 # 重心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongxin_3.md)
+
 <p><span class="chinese">正确地握杆。重心靠左。</span><span class="english">Good solid grip. Weight left.</span></p>
 
 <p><span class="chinese">她的重心现在在前脚上。</span><span class="english">Her weight is now on her front foot.</span></p>

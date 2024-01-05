@@ -1,5 +1,7 @@
 # girl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/girl.md)
+
 <p><span class="chinese">那个高个女孩。</span><span class="english">The tall girl.</span></p>
 
 <p><span class="chinese">这才是我的女儿！</span><span class="english">That’s my girl.</span></p>

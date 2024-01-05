@@ -1,5 +1,7 @@
 # 委婉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiwan.md)
+
 <p><span class="chinese">你委婉的作别，乘船离去。</span><span class="english">Your tactful to leave by boat.</span></p>
 
 <p><span class="chinese">“很少”这里都是委婉的说法。</span><span class="english">"Rarely" is a euphemism there.</span></p>

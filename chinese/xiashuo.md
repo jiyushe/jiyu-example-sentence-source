@@ -1,5 +1,7 @@
 # 瞎说
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiashuo.md)
+
 <p><span class="chinese">我不能瞎说。</span><span class="english">I cannot tell.</span></p>
 
 <p><span class="chinese">这是瞎说吗？</span><span class="english">Is this a rumor?</span></p>

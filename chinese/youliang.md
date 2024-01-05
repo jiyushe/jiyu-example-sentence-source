@@ -1,5 +1,7 @@
 # 优良
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youliang.md)
+
 <p><span class="chinese">一个优良品种形成了。</span><span class="english">A strong breed emerged.</span></p>
 
 <p><span class="chinese">优良企业局。</span><span class="english">Better Business Bureau.</span></p>

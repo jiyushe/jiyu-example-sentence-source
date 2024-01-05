@@ -1,5 +1,7 @@
 # unsolvable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsolvable.md)
+
 <p><span class="chinese">至于那些不解之谜啊。</span><span class="english">As for that unsolvable mystery.</span></p>
 
 <p><span class="chinese">这些问题没有不能解决的。</span><span class="english">None of these problems are unsolvable.</span></p>

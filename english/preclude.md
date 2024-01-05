@@ -1,5 +1,7 @@
 # preclude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preclude.md)
+
 <p><span class="chinese">他们这一行动并不影响其他人进行投资。</span><span class="english">Their move does not preclude others from investing.</span></p>
 
 <p><span class="chinese">另一方面，您可能需要阻止对其他页面进行缓存。</span><span class="english">In contrast, you may want to preclude caching for other pages.</span></p>

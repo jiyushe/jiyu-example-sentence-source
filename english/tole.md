@@ -1,5 +1,7 @@
 # tole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tole.md)
+
 <p><span class="chinese">告诉我那条消息的就是她。</span><span class="english">It was she who tole me the news.</span></p>
 
 <p><span class="chinese">这部电影并没有像你告诉我的那样有趣。</span><span class="english">The film is not as interesting as you tole me.</span></p>

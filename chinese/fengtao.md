@@ -1,5 +1,7 @@
 # 封套
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengtao.md)
+
 <p><span class="chinese">唱片的封套、唱片集、唱片库。</span><span class="english">A record sleeve, album, library.</span></p>
 
 <p><span class="chinese">你首先应当把这个盒子的封套扯掉。</span><span class="english">You should rip the cover off the box first.</span></p>

@@ -1,5 +1,7 @@
 # heartbreaking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heartbreaking.md)
+
 <p><span class="chinese">这是一个令人心碎的故事。</span><span class="english">That is a heartbreaking story.</span></p>
 
 <p><span class="chinese">这项交易令王兴越想越伤心。</span><span class="english">The deal was heartbreaking for Wang.</span></p>

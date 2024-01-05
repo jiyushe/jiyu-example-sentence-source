@@ -1,5 +1,7 @@
 # insufficient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insufficient.md)
+
 <p><span class="chinese">视频卡可能是不够的。</span><span class="english">Video card may be insufficient.</span></p>
 
 <p><span class="chinese">我认为这还不够。</span><span class="english">Ithought this is also insufficient.</span></p>

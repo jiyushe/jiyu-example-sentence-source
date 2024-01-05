@@ -1,5 +1,7 @@
 # frow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frow.md)
+
 <p><span class="chinese">你是电话脸、主妇脸还是糖分脸？</span><span class="english">Do you have a Phone, Frow or Sugar face?</span></p>
 
 <p><span class="chinese">他的梦想常常脱离现实。</span><span class="english">His dreams are often divorced frow reality.</span></p>

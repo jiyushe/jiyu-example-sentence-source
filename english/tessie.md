@@ -1,5 +1,7 @@
 # tessie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tessie.md)
+
 <p><span class="chinese">我看上去像我的黛西姑婆！</span><span class="english">I look like my Great Aunt Tessie !</span></p>
 
 <p><span class="chinese">我闻上去也像我的黛西姑婆。</span><span class="english">I smell like my Great Aunt Tessie.</span></p>

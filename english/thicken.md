@@ -1,5 +1,7 @@
 # thicken
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thicken.md)
+
 <p><span class="chinese">这将加强其他证据。</span><span class="english">This will thicken other proofs.</span></p>
 
 <p><span class="chinese">你可以用面粉使汤变浓。</span><span class="english">You can thicken the soup with flour.</span></p>

@@ -1,5 +1,7 @@
 # 贝母
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beimu.md)
+
 <p><span class="chinese">新疆贝母属植物分类研究。</span><span class="english">A taxonomic study of Fritillaria from Xinjiang.</span></p>
 
 <p><span class="chinese">于贝母表皮细胞垂周壁多波状弯曲。</span><span class="english">The anticlinal wall of epidermic cell looks like waves.</span></p>

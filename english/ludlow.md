@@ -1,5 +1,7 @@
 # ludlow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ludlow.md)
+
 <p><span class="chinese">我上次回到拉德洛。</span><span class="english">When I came last to Ludlow.</span></p>
 
 <p><span class="chinese">因为你哥哥是国会议员。</span><span class="english">Because your brother is Congressman Ludlow.</span></p>

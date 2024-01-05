@@ -1,5 +1,7 @@
 # empathy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/empathy.md)
+
 <p><span class="chinese">或者，它干脆就是一个感念大师？</span><span class="english">Or was he just a master of empathy?</span></p>
 
 <p><span class="chinese">同情诚可贵，但仍远远不够。</span><span class="english">Empathy is noble, but it’s not enough.</span></p>

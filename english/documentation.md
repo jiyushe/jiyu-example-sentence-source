@@ -1,5 +1,7 @@
 # documentation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/documentation.md)
+
 <p><span class="chinese">文档泛滥。</span><span class="english">Documentation inundation.</span></p>
 
 <p><span class="chinese">您有文档吗？</span><span class="english">Do you have documentation?</span></p>

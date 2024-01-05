@@ -1,5 +1,7 @@
 # trinket
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trinket.md)
+
 <p><span class="chinese">他给她购买小装饰品并带她去看戏。</span><span class="english">He buy her trinket and take her to the theater.</span></p>
 
 <p><span class="chinese">放进碗里的最后一个饰品是一条来自香港的翡翠项链。</span><span class="english">The last trinket in the bowl was a jade necklace from Hong Kong.</span></p>

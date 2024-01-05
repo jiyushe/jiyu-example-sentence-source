@@ -1,5 +1,7 @@
 # pyrene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pyrene.md)
+
 <p><span class="chinese">芘是多环芳烃的一个代表性化合物。</span><span class="english">Pyrene is a representative compound among PAH.</span></p>
 
 <p><span class="chinese">菲下降的程度要高于芘。</span><span class="english">The degree of decline in the phenanthrene than pyrene.</span></p>

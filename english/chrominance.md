@@ -1,5 +1,7 @@
 # chrominance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chrominance.md)
+
 <p><span class="chinese">色彩信息也被称为色度。</span><span class="english">Color information is also called chrominance.</span></p>
 
 <p><span class="chinese">亮色分离芯片在当前的数字化电视中起着很重要的作用。</span><span class="english">The chip for separating luminance chrominance contributes lot to the digitized TV.</span></p>

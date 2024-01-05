@@ -1,5 +1,7 @@
 # 百灵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bailing.md)
+
 <p><span class="chinese">百灵歌声无人比。</span><span class="english">Singing by the lark.</span></p>
 
 <p><span class="chinese">百灵被人网住抓走啦！</span><span class="english">Lark is caught by human!</span></p>

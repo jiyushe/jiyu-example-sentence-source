@@ -1,5 +1,7 @@
 # embolden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/embolden.md)
+
 <p><span class="chinese">商业的本质是逐利的，一旦有适当的利润，资本就胆大起来。</span><span class="english">There is a local profit, Would embolden the capital is up.</span></p>
 
 <p><span class="chinese">利欲熏心与金钱看上去仅仅加重了他们的盲目愚昧。</span><span class="english">The careerism and money seemed only to embolden their blindness.</span></p>

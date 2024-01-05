@@ -1,5 +1,7 @@
 # 脑子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naozi.md)
+
 <p><span class="chinese">真服了你的脑子了。</span><span class="english">What a brain u have.</span></p>
 
 <p><span class="chinese">印度用用脑子吧！</span><span class="english">India use your brains!</span></p>

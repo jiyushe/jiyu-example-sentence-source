@@ -1,5 +1,7 @@
 # 一手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yishou.md)
+
 <p><span class="chinese">我是一手同花。</span><span class="english">I got a flush.</span></p>
 
 <p><span class="chinese">他一手拿书，一手拿笔。</span><span class="english">Do you want a hand?</span></p>

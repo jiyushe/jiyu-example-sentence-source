@@ -1,5 +1,7 @@
 # rankine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rankine.md)
+
 <p><span class="chinese">兰氏温标的温度间距与华氏温标的相同。</span><span class="english">The rankine scale has scale increments equal to the fahrenheit scale.</span></p>
 
 <p><span class="chinese">过热循环被选择为和先前的朗肯循环具有相同的汽轮机排汽条件。</span><span class="english">This superheat cycle was chosen to have the same turbine exhaust conditions as the previous Rankine cycle.</span></p>

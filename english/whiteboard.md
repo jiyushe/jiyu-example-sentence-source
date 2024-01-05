@@ -1,5 +1,7 @@
 # whiteboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whiteboard.md)
+
 <p><span class="chinese">有时可用白板，”卡乐说。</span><span class="english">Use a whiteboard sometimes, ” Karle says.</span></p>
 
 <p><span class="chinese">看看白板上的教具可是我精心制作的优！</span><span class="english">Look at the props I paste onto the whiteboard.</span></p>

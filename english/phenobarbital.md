@@ -1,5 +1,7 @@
 # phenobarbital
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phenobarbital.md)
+
 <p><span class="chinese">足够的治疗剂量可诱发麻醉。</span><span class="english">In high enough therapeutic doses, Phenobarbital induces anesthesia.</span></p>
 
 <p><span class="chinese">目的观察苯巴比妥治疗早产儿黄疸的疗效。</span><span class="english">Objective To observer the effect of phenobarbital in preterm infant with jaundice.</span></p>

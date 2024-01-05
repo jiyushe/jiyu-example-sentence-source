@@ -1,5 +1,7 @@
 # phelps
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phelps.md)
+
 <p><span class="chinese">菲尔普斯给中国粉丝的致歉信</span><span class="english">Phelps apologizes to Chinese fans</span></p>
 
 <p><span class="chinese">一如菲尔普斯在泳池上那么多才多艺。</span><span class="english">Versatility. Just like Phelps in the pool.</span></p>

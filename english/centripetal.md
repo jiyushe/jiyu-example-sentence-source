@@ -1,5 +1,7 @@
 # centripetal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/centripetal.md)
+
 <p><span class="chinese">我们称之为“向心加速度</span><span class="english">We call it "centripetal acceleration."</span></p>
 
 <p><span class="chinese">这就是向心加速度</span><span class="english">This is called the centripetal acceleration.</span></p>

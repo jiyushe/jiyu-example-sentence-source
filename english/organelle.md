@@ -1,5 +1,7 @@
 # organelle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/organelle.md)
+
 <p><span class="chinese">动物细胞有很多的细胞器官。</span><span class="english">Animal cell has a lot of organelle.</span></p>
 
 <p><span class="chinese">最后，我们看到一个细胞只发现植物细胞体内。</span><span class="english">Finally, we see an organelle only found within plant cells.</span></p>

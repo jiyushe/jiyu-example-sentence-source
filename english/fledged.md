@@ -1,5 +1,7 @@
 # fledged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fledged.md)
+
 <p><span class="chinese">三只小鱼鹰羽毛渐丰，快要学飞离巢了！</span><span class="english">The three young ospreys will be fledged very soon!</span></p>
 
 <p><span class="chinese">这样的民主制度应该以全面建立的法律体系为基础。</span><span class="english">And such a democracy should be based on a full- fledged legal system.</span></p>

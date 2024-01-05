@@ -1,5 +1,7 @@
 # 反戈一击
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangeyiji.md)
+
 <p><span class="chinese">他随时都会反戈一击。</span><span class="english">He would turn around and strike at any moment.</span></p>
 
 <p><span class="chinese">终于，维德再也看不下去了，向主人反戈一击。</span><span class="english">Unable to watch anymore, Vader turned against his master.</span></p>

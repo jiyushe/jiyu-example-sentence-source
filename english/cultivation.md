@@ -1,5 +1,7 @@
 # cultivation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cultivation.md)
+
 <p><span class="chinese">他的嗜好是栽培植物。</span><span class="english">These flowers are in cultivation.</span></p>
 
 <p><span class="chinese">这个地区种植香蕉。</span><span class="english">The area is under banana cultivation.</span></p>

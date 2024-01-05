@@ -1,5 +1,7 @@
 # nihilistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nihilistic.md)
+
 <p><span class="chinese">是选择虚无主义的艺术，还是主题——现代主义的艺术和思想？</span><span class="english">BE choose a nihilistic art, still the art and thought of topic-modernism?</span></p>
 
 <p><span class="chinese">她丝毫没有表现出同龄人那种自我陶醉以及虚无主义的倾向。</span><span class="english">She exhibited none of the narcissistic and nihilistic tendencies of her peers.</span></p>

@@ -1,5 +1,7 @@
 # instigator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/instigator.md)
+
 <p><span class="chinese">她是他们吵架的煽动者。</span><span class="english">She was the instigator of their quarrel.</span></p>
 
 <p><span class="chinese">主动去做你想要的改变。</span><span class="english">Be the instigator of the change you want to see.</span></p>

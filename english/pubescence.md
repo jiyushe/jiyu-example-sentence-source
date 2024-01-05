@@ -1,5 +1,7 @@
 # pubescence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pubescence.md)
+
 <p><span class="chinese">小盾片密被黄毛。</span><span class="english">Scutellum covered with yellow pubescence.</span></p>
 
 <p><span class="chinese">这种方法特别适合于研究叶表皮密被绒毛的植物。</span><span class="english">Especially this method is suitable for the leaf with pubescence.</span></p>

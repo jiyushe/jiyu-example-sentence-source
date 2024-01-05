@@ -1,5 +1,7 @@
 # 吃惊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chijing.md)
+
 <p><span class="chinese">我很吃惊。</span><span class="english">I'm impressed.</span></p>
 
 <p><span class="chinese">可是他让我吃惊。</span><span class="english">But he surprised me.</span></p>

@@ -1,5 +1,7 @@
 # 精通
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingtong.md)
+
 <p><span class="chinese">精通你所做的。</span><span class="english">Excel at what you do.</span></p>
 
 <p><span class="chinese">他是个样样精通的人。</span><span class="english">He is a know-it-all man.</span></p>

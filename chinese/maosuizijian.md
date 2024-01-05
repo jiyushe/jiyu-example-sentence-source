@@ -1,5 +1,7 @@
 # 毛遂自荐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maosuizijian.md)
+
 <p><span class="chinese">威廉·斯克兰顿毛遂自荐了。</span><span class="english">William Scranton volunteered.</span></p>
 
 <p><span class="chinese">你能向经理毛遂自荐吗?</span><span class="english">Can you recommend yourself to the manager?</span></p>

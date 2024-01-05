@@ -1,5 +1,7 @@
 # cocci
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cocci.md)
+
 <p><span class="chinese">葡萄球菌对万古霉素的耐药率为0。</span><span class="english">The resistance rate to vancomycin of cocci was 0.</span></p>
 
 <p><span class="chinese">革兰阳性球菌敏感性最高为万古霉素。</span><span class="english">Gram-positive cocci highest susceptibility to vancomycin.</span></p>

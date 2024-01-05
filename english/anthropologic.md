@@ -1,5 +1,7 @@
 # anthropologic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anthropologic.md)
+
 <p><span class="chinese">关于匮乏的思想是萨特人学理论的基石。</span><span class="english">Scarcity is the core stone of Sartre's anthropologic theory.</span></p>
 
 <p><span class="chinese">匮乏是萨特人学理论的基石。</span><span class="english">Scarcity is the foundation of Sartre's anthropologic theory.</span></p>

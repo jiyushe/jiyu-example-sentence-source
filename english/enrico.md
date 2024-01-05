@@ -1,5 +1,7 @@
 # enrico
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enrico.md)
+
 <p><span class="chinese">恩里科很有心计，是一只狡猾的老狐狸。</span><span class="english">Enrico was too good, an old fox, cunning.</span></p>
 
 <p><span class="chinese">庞迪团队桑德拉了创业技能，把它变成现实。</span><span class="english">Enrico Rikki Dee had the entrepreneurial skill to turn it into reality.</span></p>

@@ -1,5 +1,7 @@
 # 酒家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiujia_1.md)
+
 <p><span class="chinese">翠园酒家怎么样？</span><span class="english">How about the Jade Garden at 30?</span></p>
 
 <p><span class="chinese">就是他给我们推荐的威克牛排酒家。</span><span class="english">He recommended Vic's Steak House.</span></p>

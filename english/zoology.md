@@ -1,5 +1,7 @@
 # zoology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zoology.md)
+
 <p><span class="chinese">伟哉，动物学专家！</span><span class="english">Wei-zai, zoology experts!</span></p>
 
 <p><span class="chinese">高等动物学杂志。</span><span class="english">Journal of Advanced Zoology.</span></p>

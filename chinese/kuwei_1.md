@@ -1,5 +1,7 @@
 # 苦味
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuwei_1.md)
+
 <p><span class="chinese">苦味植物，苦艾。</span><span class="english">To make bitter in flavor.</span></p>
 
 <p><span class="chinese">他一尝那苦味，做了个怪相。</span><span class="english">He grimaced at the bitter taste.</span></p>

@@ -1,5 +1,7 @@
 # mountaintop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mountaintop.md)
+
 <p><span class="chinese">我们于黎明时抵达山顶。</span><span class="english">We reached the mountaintop dawn.</span></p>
 
 <p><span class="chinese">我们于黎明时抵达山顶。</span><span class="english">We reached the mountaintop at dawn.</span></p>

@@ -1,5 +1,7 @@
 # 出资
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuzi_1.md)
+
 <p><span class="chinese">谁拥有它，或谁为它的开发出资？</span><span class="english">Who owns it, or sponsors its development?</span></p>
 
 <p><span class="chinese">独立调查委员会由该基金会独家出资创建。</span><span class="english">The foundation is the sole funder of the committee.</span></p>

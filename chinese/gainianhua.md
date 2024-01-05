@@ -1,5 +1,7 @@
 # 概念化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gainianhua.md)
+
 <p><span class="chinese">可以将一个三角形的三点概念化。</span><span class="english">Conceptualise a triangle with its three points.</span></p>
 
 <p><span class="chinese">他说过正确的声音应该是苍白的，概念化的。</span><span class="english">He said it should have an ashen, abstract quality.</span></p>

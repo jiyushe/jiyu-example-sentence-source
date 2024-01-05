@@ -1,5 +1,7 @@
 # electrowinning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electrowinning.md)
+
 <p><span class="chinese">文章系统地综述了锌电积用惰性阳极材料的研究现状。</span><span class="english">Study status of inert anodes for zinc electrowinning was reviewed systematically.</span></p>
 
 <p><span class="chinese">本文提出了一种基于人工神经网络分析电积锌工艺的方法，通过仿真计算，表明这种方法切实可。</span><span class="english">A method of electrowinning zinc based on an artificial neural network is proposed in this paper.</span></p>

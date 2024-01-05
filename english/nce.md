@@ -1,5 +1,7 @@
 # nce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nce.md)
+
 <p><span class="chinese">他已为获得居留证作了申请。</span><span class="english">He have applied for a reside nce permit.</span></p>
 
 <p><span class="chinese">饭后一枝雪茄是我唯一的嗜好。</span><span class="english">A cigar after dinner is my only indulge nce.</span></p>

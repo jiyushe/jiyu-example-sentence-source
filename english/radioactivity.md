@@ -1,5 +1,7 @@
 # radioactivity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radioactivity.md)
+
 <p><span class="chinese">如何测量放射性？</span><span class="english">How is radioactivity measured?</span></p>
 
 <p><span class="chinese">对人类的危险程度和放射性是什么？</span><span class="english">What is the danger level for humans and radioactivity?</span></p>

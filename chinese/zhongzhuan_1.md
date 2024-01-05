@@ -1,5 +1,7 @@
 # 中转
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongzhuan_1.md)
+
 <p><span class="chinese">它就像一个微小的数据中转驱动。</span><span class="english">It looks like a tiny jump drive.</span></p>
 
 <p><span class="chinese">网上数目伟大飞沙风中转代码例程。</span><span class="english">Zillions of code ex'mples on the web.</span></p>

@@ -1,5 +1,7 @@
 # forklift
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forklift.md)
+
 <p><span class="chinese">合力叉车已经将他们的叉车远销至40馀个国家。</span><span class="english">Heli exports forklift trucks to over 40 countries.</span></p>
 
 <p><span class="chinese">他需要用铲车把这颗南瓜载到官方称重地点称重。</span><span class="english">He needed a  forklift truck to carry it to the official weighing.</span></p>

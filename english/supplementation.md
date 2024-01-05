@@ -1,5 +1,7 @@
 # supplementation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supplementation.md)
+
 <p><span class="chinese">碳酸钙剂补充对跟骨骨量发育有促进作用。</span><span class="english">Calcium supplementation enhanced bone mass development of calcaneus.</span></p>
 
 <p><span class="chinese">补充延胡索酸钠对血浆测定项目没有产生影响。</span><span class="english">Sodium fumarate supplementation had no effect on plasma measurements.</span></p>

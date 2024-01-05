@@ -1,5 +1,7 @@
 # incontinence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incontinence.md)
+
 <p><span class="chinese">前列腺切除后小便失禁咋办？</span><span class="english">Incontinence after prostatectomy?</span></p>
 
 <p><span class="chinese">是荒淫无度，伤害了自己的身体？</span><span class="english">Did your incontinence ruin your body?</span></p>

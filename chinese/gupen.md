@@ -1,5 +1,7 @@
 # 骨盆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gupen.md)
+
 <p><span class="chinese">性，强健骨盆底部肌肉群。</span><span class="english">Sex Strengthens Pelvic Floor Muscles</span></p>
 
 <p><span class="chinese">保持背部及骨盆平贴地面。</span><span class="english">Keep back and pelvic area flat on floor.</span></p>

@@ -1,5 +1,7 @@
 # radiometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radiometer.md)
+
 <p><span class="chinese">直接采样微波辐射计是微波辐射计的发展方向之一。</span><span class="english">The DSMR is one developing sub-areas of microwave radiometer.</span></p>
 
 <p><span class="chinese">月球探测辐射计实验将映射月球表面的温度。</span><span class="english">The Diviner Lunar Radiometer Experiment will map surface temperature.</span></p>

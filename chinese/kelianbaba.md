@@ -1,5 +1,7 @@
 # 可怜巴巴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kelianbaba.md)
+
 <p><span class="chinese">狗可怜巴巴地望着她。</span><span class="english">The dog looked up at her appealingly.</span></p>
 
 <p><span class="chinese">狗可怜巴巴地望着他。</span><span class="english">The dog looked up at her appealingly.</span></p>

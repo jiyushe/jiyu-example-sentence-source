@@ -1,5 +1,7 @@
 # 汽船
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qichuan_1.md)
+
 <p><span class="chinese">汽船突突地前进。</span><span class="english">The boat chugged along.</span></p>
 
 <p><span class="chinese">汽油引擎推动汽船。</span><span class="english">A gasoline engine drives the motorboat.</span></p>

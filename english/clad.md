@@ -1,5 +1,7 @@
 # clad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clad.md)
+
 <p><span class="chinese">或是长发红衣侍从。</span><span class="english">Or long-hair'd page in crimson clad.</span></p>
 
 <p><span class="chinese">穿着护士服的都是哦…</span><span class="english">Even those clad in the nurse uniforms.</span></p>

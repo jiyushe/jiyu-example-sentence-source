@@ -1,5 +1,7 @@
 # beginner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beginner.md)
+
 <p><span class="chinese">我只不过是一个初学者。</span><span class="english">I am a mere beginner.</span></p>
 
 <p><span class="chinese">作为世界语者，我仅仅是个初学者。</span><span class="english">As a Esperantist, I am just a beginner.</span></p>

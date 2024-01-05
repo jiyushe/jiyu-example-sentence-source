@@ -1,5 +1,7 @@
 # firsthand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/firsthand.md)
+
 <p><span class="chinese">她知道用Firsthand来拖地板是特别累人。</span><span class="english">She knew firsthand how hard it was to mop the floor.</span></p>
 
 <p><span class="chinese">对感应海啸破坏直接曝光是羞耻的。</span><span class="english">Firsthand exposure to the tsunami-induced devastation was humbling.</span></p>

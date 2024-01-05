@@ -1,5 +1,7 @@
 # 恒温
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hengwen.md)
+
 <p><span class="chinese">这是恒温的变化。</span><span class="english">It's an isothermal change.</span></p>
 
 <p><span class="chinese">哺乳动物都是恒温动物。</span><span class="english">Mammals are warm-blooded animals.</span></p>

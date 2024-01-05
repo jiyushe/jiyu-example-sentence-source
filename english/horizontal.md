@@ -1,5 +1,7 @@
 # horizontal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horizontal.md)
+
 <p><span class="chinese">垂直还是水平？</span><span class="english">Vertical or horizontal?</span></p>
 
 <p><span class="chinese">水平横杆，水平线，水平条。</span><span class="english">A horizontal bar, line, or stripe.</span></p>

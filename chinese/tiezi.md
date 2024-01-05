@@ -1,5 +1,7 @@
 # 帖子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiezi.md)
+
 <p><span class="chinese">“号外”才是鸡年的最后一个帖子！</span><span class="english">You are the last but one!</span></p>
 
 <p><span class="chinese">现在只能看到置顶贴，没有帖子列表？</span><span class="english">Why do not see new posts List?</span></p>

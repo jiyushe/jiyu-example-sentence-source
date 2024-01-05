@@ -1,5 +1,7 @@
 # centralism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/centralism.md)
+
 <p><span class="chinese">它的集中主义无法和任何个性共存。</span><span class="english">Its centralism cannot co-exist with individuality.</span></p>
 
 <p><span class="chinese">再如民主集中制也是我们的优越性。</span><span class="english">Democratic centralism is another of our advantages.</span></p>

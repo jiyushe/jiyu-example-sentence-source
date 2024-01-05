@@ -1,5 +1,7 @@
 # 事情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiqing_1.md)
+
 <p><span class="chinese">那是你自己的事情</span><span class="english">That's your job.</span></p>
 
 <p><span class="chinese">这简直是不可理喻的事情。</span><span class="english">It is impossible.</span></p>

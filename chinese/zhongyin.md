@@ -1,5 +1,7 @@
 # 中音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongyin.md)
+
 <p><span class="chinese">甚至中音也相当好。</span><span class="english">Even the midrange is good!</span></p>
 
 <p><span class="chinese">是在高音，中音，还是低音哪里？</span><span class="english">Is it high, middle or low?</span></p>

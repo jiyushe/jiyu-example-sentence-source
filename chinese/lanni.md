@@ -1,5 +1,7 @@
 # 烂泥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lanni.md)
+
 <p><span class="chinese">他陷进齐膝深的烂泥里。</span><span class="english">He is knee-deep in mud.</span></p>
 
 <p><span class="chinese">它们的装饰是烂泥和鲜血。</span><span class="english">They are decorated mud and blood.</span></p>

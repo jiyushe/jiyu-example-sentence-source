@@ -1,5 +1,7 @@
 # photopolymer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photopolymer.md)
+
 <p><span class="chinese">光聚合物是一种新的光全息记录材料。</span><span class="english">Photopolymer is one new holographic recording medium.</span></p>
 
 <p><span class="chinese">阿印前运营商，顶端，准备了光板。</span><span class="english">A prepress operator, top, prepares a photopolymer plate.</span></p>

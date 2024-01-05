@@ -1,5 +1,7 @@
 # 西学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xixue_1.md)
+
 <p><span class="chinese">小苏西学到了什么语言？</span><span class="english">What language is little Susie acquiring?</span></p>
 
 <p><span class="chinese">我是皖西学院外语系2007届毕业生。</span><span class="english">I am the West Anhui University foreign language to fasten 2007 graduate students.</span></p>

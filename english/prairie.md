@@ -1,5 +1,7 @@
 # prairie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prairie.md)
+
 <p><span class="chinese">草原田鼠就是其中之一。</span><span class="english">The prairie vole is one such animal.</span></p>
 
 <p><span class="chinese">啊，卓玛，草原上的姑娘卓玛拉。</span><span class="english">Zhuoma, on prairie girl Zhuoma pulls.</span></p>

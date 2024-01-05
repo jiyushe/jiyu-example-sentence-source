@@ -1,5 +1,7 @@
 # frigidity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frigidity.md)
+
 <p><span class="chinese">女性性冷淡能治愈吗？</span><span class="english">Female frigidity can be cured?</span></p>
 
 <p><span class="chinese">她对人冷漠的态度马上消失了。</span><span class="english">The frigidity of her manner melted away at once.</span></p>

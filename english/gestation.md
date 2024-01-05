@@ -1,5 +1,7 @@
 # gestation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gestation.md)
+
 <p><span class="chinese">怀孕期约为22个月。</span><span class="english">Gestation is approximately 22 months.</span></p>
 
 <p><span class="chinese">先证者父母选择了终止妊娠。</span><span class="english">So this family chose to stop the gestation.</span></p>

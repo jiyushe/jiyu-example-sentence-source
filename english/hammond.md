@@ -1,5 +1,7 @@
 # hammond
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hammond.md)
+
 <p><span class="chinese">哈蒙德夫人问，“为什么谢我？”</span><span class="english">Mrs. Hammond said. "What for?"</span></p>
 
 <p><span class="chinese">谢谢科林韩梦德的问题！</span><span class="english">Thanks to Colin Hammond for the question</span></p>

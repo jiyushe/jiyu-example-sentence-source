@@ -1,5 +1,7 @@
 # 心醉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinzui.md)
+
 <p><span class="chinese">前不久，于一个令人心醉的美梦。</span><span class="english">Not long ago, in a charming dream.</span></p>
 
 <p><span class="chinese">这美妙的音乐使我心醉。</span><span class="english">I was enchanted with the sweet music.</span></p>

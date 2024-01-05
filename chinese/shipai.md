@@ -1,5 +1,7 @@
 # 实拍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shipai.md)
+
 <p><span class="chinese">实拍央视内部聚会！</span><span class="english">Reality beat inside of CCTV getting together!</span></p>
 
 <p><span class="chinese">网友实拍某栏目现场——肮脏！</span><span class="english">Net friend reality pat some column scene Augean stable!</span></p>

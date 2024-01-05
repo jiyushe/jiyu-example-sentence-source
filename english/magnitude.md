@@ -1,5 +1,7 @@
 # magnitude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magnitude.md)
+
 <p><span class="chinese">东京都中野区的震级为3级。</span><span class="english">Nakano, Tokyo magnitude of 3.</span></p>
 
 <p><span class="chinese">是否震级被缩小了？</span><span class="english">Was the magnitude underplayed?</span></p>

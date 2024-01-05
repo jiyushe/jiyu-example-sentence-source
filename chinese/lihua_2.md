@@ -1,5 +1,7 @@
 # 犁铧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lihua_2.md)
+
 <p><span class="chinese">我们将携手驾起犁铧。</span><span class="english">We will walk behind the plough-share.</span></p>
 
 <p><span class="chinese">有专门为重型机械行业设计的犁铧式混合机具有坚固耐磨的特点。</span><span class="english">Ploughshare mixer for heavy duty application is robust and wear resistance designed.</span></p>

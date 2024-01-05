@@ -1,5 +1,7 @@
 # vibrometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vibrometer.md)
+
 <p><span class="chinese">操作震动计要小心。</span><span class="english">Handle the vibrometer with great care.</span></p>
 
 <p><span class="chinese">通用振动测试仪一般不具备较长时间的在线记录功能。</span><span class="english">Universal vibrometer has not the function of lasting and on-line recording.</span></p>

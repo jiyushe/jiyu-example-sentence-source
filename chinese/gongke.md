@@ -1,5 +1,7 @@
 # 工科
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongke.md)
+
 <p><span class="chinese">古费拉克，你去看看综合工科学校的那些同学。</span><span class="english">Courfeyrac, you will see the polytechnic students.</span></p>
 
 <p><span class="chinese">我更愿意在大学里学理科或工科。</span><span class="english">I would like to study science or engineering in college.</span></p>

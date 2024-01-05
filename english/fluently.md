@@ -1,5 +1,7 @@
 # fluently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fluently.md)
+
 <p><span class="chinese">这支笔写起来流利。</span><span class="english">The pen writes fluently.</span></p>
 
 <p><span class="chinese">我说英语很流利。</span><span class="english">I speak English very fluently.</span></p>

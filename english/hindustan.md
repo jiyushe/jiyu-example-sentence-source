@@ -1,5 +1,7 @@
 # hindustan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hindustan.md)
+
 <p><span class="chinese">联合利华印度斯坦公司是联合利华在新兴国家业务营运方面的明星之一。</span><span class="english">Hindustan Unilever is one of the jewels in the company's emerging-market operations.</span></p>
 
 <p><span class="chinese">在喜玛拉雅的摇篮里，在恒河的怀抱中，天竺成为一个神秘的国度。</span><span class="english">In the Himalayan bassinet and the arms of Ganges, Hindustan become a cryptic country.</span></p>

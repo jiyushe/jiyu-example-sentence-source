@@ -1,5 +1,7 @@
 # myelinated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/myelinated.md)
+
 <p><span class="chinese">神经毡中可见到生长锥和有髓纤维。</span><span class="english">Growth cones and myelinated fibers can be seen in neuropil.</span></p>
 
 <p><span class="chinese">再生纤维主要为细小的有髓神经纤维。</span><span class="english">The regenerating fibers were mainly small myelinated fibers.</span></p>

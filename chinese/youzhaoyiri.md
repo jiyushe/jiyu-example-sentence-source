@@ -1,5 +1,7 @@
 # 有朝一日
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youzhaoyiri.md)
+
 <p><span class="chinese">有朝一日偺们会再晤面的。</span><span class="english">May we meet again someday.</span></p>
 
 <p><span class="chinese">色狼！有朝一日我一定要收拾他。</span><span class="english">Letch! I'll fix him some day.</span></p>

@@ -1,5 +1,7 @@
 # fontal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fontal.md)
+
 <p><span class="chinese">最后用大鱼际或双足对搓涌泉穴。</span><span class="english">Use big fish time finally or double sufficient emerge to rub fontal acupuncture point.</span></p>
 
 <p><span class="chinese">“滴水之恩，当涌泉相报”，这是无可争议的。</span><span class="english">"The favour of drop water, should emerge fontal look signs up for " , this is unquestionable.</span></p>

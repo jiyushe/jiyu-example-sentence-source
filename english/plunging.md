@@ -1,5 +1,7 @@
 # plunging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plunging.md)
+
 <p><span class="chinese">飞流直下三千尺。</span><span class="english">Plunging headlong three thousand feet.</span></p>
 
 <p><span class="chinese">这家公司的债台越筑越高。</span><span class="english">The company is plunging deeper into debt.</span></p>

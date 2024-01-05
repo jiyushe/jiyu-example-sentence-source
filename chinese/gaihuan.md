@@ -1,5 +1,7 @@
 # 改换
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaihuan.md)
+
 <p><span class="chinese">为何改换成澳大利亚燕麦干草？</span><span class="english">Why change to Australian Oaten Hay?</span></p>
 
 <p><span class="chinese">对的，然后她改换了和自己结婚的品牌。</span><span class="english">Bingo, he or she changes spousal brands.</span></p>

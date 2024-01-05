@@ -1,5 +1,7 @@
 # gymnast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gymnast.md)
+
 <p><span class="chinese">她有体操运动员轻盈而美丽的体态。</span><span class="english">She has the lithe grace of a gymnast.</span></p>
 
 <p><span class="chinese">是一名俄罗斯的艺术体操运动员。</span><span class="english">She is a rhythmic gymnast from Russia.</span></p>

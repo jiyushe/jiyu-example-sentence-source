@@ -1,5 +1,7 @@
 # bode
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bode.md)
+
 <p><span class="chinese">她的好习惯预示她将来会有好前途。</span><span class="english">Her good habits bode well for her future.</span></p>
 
 <p><span class="chinese">这对于遭重创的美国房地产市场前景披上阴影。</span><span class="english">That does not bode well for the hard-hit U.</span></p>

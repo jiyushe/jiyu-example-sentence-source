@@ -1,5 +1,7 @@
 # insatiably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insatiably.md)
+
 <p><span class="chinese">凡此都说明孔子自己“学而不厌”的精神。</span><span class="english">All these support his spirit of "learning insatiably".</span></p>
 
 <p><span class="chinese">贪得无厌的人，必然招致祸殃。</span><span class="english">Insatiably greedy people will surely invite misfortunes.</span></p>

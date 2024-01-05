@@ -1,5 +1,7 @@
 # 中油
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongyou.md)
+
 <p><span class="chinese">中油的新油价已经在星期一生效。</span><span class="english">CPC's new prices took effect on Monday.</span></p>
 
 <p><span class="chinese">丙烯酸漆中油脂溶剂含量很高。</span><span class="english">Acrylic lacquers have a high solvent content.</span></p>

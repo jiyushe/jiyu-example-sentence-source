@@ -1,5 +1,7 @@
 # ammonium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ammonium.md)
+
 <p><span class="chinese">硝酸铵加铝粉。</span><span class="english">Ammonium nitrate and powdered aluminum.</span></p>
 
 <p><span class="chinese">钼酸铵的生产和服务。</span><span class="english">Production and service of ammonium molybdate.</span></p>

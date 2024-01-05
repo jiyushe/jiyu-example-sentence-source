@@ -1,5 +1,7 @@
 # 挚爱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiai_1.md)
+
 <p><span class="chinese">迭戈，她唯一的挚爱。</span><span class="english">Diego, her one true love.</span></p>
 
 <p><span class="chinese">我是来说再见的曾挚爱的珎。</span><span class="english">I just come to say goodbye.</span></p>

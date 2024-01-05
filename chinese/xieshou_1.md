@@ -1,5 +1,7 @@
 # 携手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xieshou_1.md)
+
 <p><span class="chinese">他们将携手联合行动。</span><span class="english">They would act hand in hand.</span></p>
 
 <p><span class="chinese">在梦中，我与他携手漫步溪畔。</span><span class="english">In a dream, we walk along the creek.</span></p>

@@ -1,5 +1,7 @@
 # 清真寺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingzhensi.md)
+
 <p><span class="chinese">伊玛目清真寺的圆顶。</span><span class="english">Dome of Eman Mosque.</span></p>
 
 <p><span class="chinese">在前面的一个拥挤的清真寺。</span><span class="english">In front of a packed masjid.</span></p>

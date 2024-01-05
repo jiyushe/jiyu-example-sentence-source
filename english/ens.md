@@ -1,5 +1,7 @@
 # ens
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ens.md)
+
 <p><span class="chinese">关于写ENS码的资料！</span><span class="english">Write ENS yards on the information!</span></p>
 
 <p><span class="chinese">今天有三只小鸡出壳。</span><span class="english">Three of the chick ens hatched today.</span></p>

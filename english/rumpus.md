@@ -1,5 +1,7 @@
 # rumpus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rumpus.md)
+
 <p><span class="chinese">这么吵闹究竟是怎么回事？</span><span class="english">What's all the rumpus about?</span></p>
 
 <p><span class="chinese">抑或是黑暗污秽凌乱不堪的房间呢？</span><span class="english">Or, is it a rumpus room strewn of rummage?</span></p>

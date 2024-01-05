@@ -1,5 +1,7 @@
 # 放肆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangsi.md)
+
 <p><span class="chinese">他的大胆放肆使我十分惊讶。</span><span class="english">He amazes me by his audacity.</span></p>
 
 <p><span class="chinese">他是一个鲁莽的，放肆的小孩。</span><span class="english">He is a bold and impudent child.</span></p>

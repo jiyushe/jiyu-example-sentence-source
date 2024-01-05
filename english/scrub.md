@@ -1,5 +1,7 @@
 # scrub
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scrub.md)
+
 <p><span class="chinese">其实去角质的都差不多。</span><span class="english">In fact, almost all scrub.</span></p>
 
 <p><span class="chinese">这地板需要好好地擦洗一番。</span><span class="english">This floor needs a good scrub.</span></p>

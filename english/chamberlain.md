@@ -1,5 +1,7 @@
 # chamberlain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chamberlain.md)
+
 <p><span class="chinese">格辛•张伯伦报道。</span><span class="english">Gethin Chamberlain reports.</span></p>
 
 <p><span class="chinese">我的选择是贾霸张伯伦。</span><span class="english">Joba Chamberlain is my pick.</span></p>

@@ -1,5 +1,7 @@
 # please  
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/please.md)
+
 <p><span class="chinese">噢，请帮个忙。</span><span class="english">Oh, please.</span></p>
 
 <p><span class="chinese">好的，请便。</span><span class="english">Yes, please.</span></p>

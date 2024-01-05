@@ -1,5 +1,7 @@
 # ingram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ingram.md)
+
 <p><span class="chinese">“我们需要从区域角度来分析这个问题，”Ingram表示。</span><span class="english">“We need a regional view of the business, ” Ingram says.</span></p>
 
 <p><span class="chinese">英格拉姆一只手梳理着他那永远也理不齐的蓬乱的红发。</span><span class="english">Ingram ran a hand through his perpetually untidy red hair.</span></p>

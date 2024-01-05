@@ -1,5 +1,7 @@
 # 太岁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taisui.md)
+
 <p><span class="chinese">你竟敢在太岁头上动土！</span><span class="english">How dare you say that to me!</span></p>
 
 <p><span class="chinese">你竟敢在太岁头上动土。</span><span class="english">You dare to beard the lion in his den.</span></p>

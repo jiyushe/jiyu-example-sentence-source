@@ -1,5 +1,7 @@
 # earlier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/earlier.md)
+
 <p><span class="chinese">你应该早点儿去。</span><span class="english">You oughta go earlier.</span></p>
 
 <p><span class="chinese">我起得比你早。</span><span class="english">I get up earlier than you.</span></p>

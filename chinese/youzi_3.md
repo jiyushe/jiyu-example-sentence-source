@@ -1,5 +1,7 @@
 # 游资
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youzi_3.md)
+
 <p><span class="chinese">然而，并非所有人都对巨额游资的祸害保持着应有的清醒。</span><span class="english">However, not all the scourges of huge capital maintained due sober.</span></p>
 
 <p><span class="chinese">资本管理方面尤其需要密切注意游资流动的动态。</span><span class="english">Capital management especially needs to advent meticulously the trends of the idle fund.</span></p>

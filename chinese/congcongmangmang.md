@@ -1,5 +1,7 @@
 # 匆匆忙忙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/congcongmangmang.md)
+
 <p><span class="chinese">别匆匆忙忙做事。</span><span class="english">Don't rush into anything.</span></p>
 
 <p><span class="chinese">她匆匆忙忙涉水过了河。</span><span class="english">She forded the river in a hurry.</span></p>

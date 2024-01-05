@@ -1,5 +1,7 @@
 # 韧带
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rendai.md)
+
 <p><span class="chinese">并于2005年右韧带撕裂。</span><span class="english">In 2005, torn right hamstring.</span></p>
 
 <p><span class="chinese">韧带还含有弹性蛋白。</span><span class="english">Ligaments contain protein elastin.</span></p>

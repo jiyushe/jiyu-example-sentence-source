@@ -1,5 +1,7 @@
 # 间接
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianjie_2.md)
+
 <p><span class="chinese">这消息我是间接听来的。</span><span class="english">I heard the news indirectly.</span></p>
 
 <p><span class="chinese">大屠杀还是间接死亡？</span><span class="english">The bloodbath or the death spiral?</span></p>

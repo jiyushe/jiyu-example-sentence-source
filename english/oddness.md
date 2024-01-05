@@ -1,5 +1,7 @@
 # oddness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oddness.md)
+
 <p><span class="chinese">这种奇怪之处十分重要。</span><span class="english">Its oddness is important.</span></p>
 
 <p><span class="chinese">为什么会有这种奇怪的感觉？</span><span class="english">Why the feeling of oddness?</span></p>

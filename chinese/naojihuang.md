@@ -1,5 +1,7 @@
 # 闹饥荒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naojihuang.md)
+
 <p><span class="chinese">那个国家正在闹饥荒。</span><span class="english">That country suffers from hunger.</span></p>
 
 <p><span class="chinese">战争过后常闹饥荒。</span><span class="english">Famine often follows at war's heels.</span></p>

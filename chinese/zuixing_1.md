@@ -1,5 +1,7 @@
 # 罪行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuixing_1.md)
+
 <p><span class="chinese">而他的罪行呢？</span><span class="english">And his crime?</span></p>
 
 <p><span class="chinese">这些是严重的罪行。</span><span class="english">These are serious offences.</span></p>

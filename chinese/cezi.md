@@ -1,5 +1,7 @@
 # 册子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cezi.md)
+
 <p><span class="chinese">直到1869年这本册子才在俄国出现。</span><span class="english">It did not appear in Russian until 1869.</span></p>
 
 <p><span class="chinese">我也可以要那多用途汽车的册子吗？</span><span class="english">C︰ Can I have a brochure for the MPV too?</span></p>

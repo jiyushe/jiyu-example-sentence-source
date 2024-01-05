@@ -1,5 +1,7 @@
 # 朝朝暮暮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaozhaomumu.md)
+
 <p><span class="chinese">朝朝暮暮的相处，加深了相互间的了解。</span><span class="english">Every morning and evening together, deepen mutual understanding.</span></p>
 
 <p><span class="chinese">遇见你，不再朝朝暮暮，已是此生最美。</span><span class="english">I met you, no longer is the most beautiful life every morning and evening.</span></p>

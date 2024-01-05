@@ -1,5 +1,7 @@
 # 油嘴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youzui_1.md)
+
 <p><span class="chinese">有先进的油嘴生产设备和雄厚的技术力量。</span><span class="english">Glib has advanced production equipment and strong technical force.</span></p>
 
 <p><span class="chinese">拉伸环必须有油嘴对每个入块注射油脂。</span><span class="english">Insert draw rings will have Zerk Fitting to inject grease to each insert.</span></p>

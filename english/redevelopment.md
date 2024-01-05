@@ -1,5 +1,7 @@
 # redevelopment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redevelopment.md)
+
 <p><span class="chinese">这个重新开发的旧苏联时代的工厂太惊人了。</span><span class="english">The redevelopment of this old Soviet factory is stunning.</span></p>
 
 <p><span class="chinese">北京前门大街重建工作于2007年5月9日拉开帷幕。</span><span class="english">Redevelopment work in Qianmen Street kicked off in May 9, 2007.</span></p>

@@ -1,5 +1,7 @@
 # settling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/settling.md)
+
 <p><span class="chinese">但我，相信随遇而安。</span><span class="english">But I believe in settling.</span></p>
 
 <p><span class="chinese">现在要阴雨连绵下个不停了。</span><span class="english">It is settling in to rain now.</span></p>

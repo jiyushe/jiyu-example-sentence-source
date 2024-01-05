@@ -1,5 +1,7 @@
 # 泼洒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/posa.md)
+
 <p><span class="chinese">孩子们任意地泼洒着颜料。</span><span class="english">The kids were splashing paint with abandon.</span></p>
 
 <p><span class="chinese">往脸上泼洒一点水，弄湿脸部。</span><span class="english">Dampen the face by splashing a little water upon it.</span></p>

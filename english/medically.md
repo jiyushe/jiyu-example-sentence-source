@@ -1,5 +1,7 @@
 # medically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/medically.md)
+
 <p><span class="chinese">但把他的病说成医学上的精神错乱是不对的。</span><span class="english">But to call him medically insane is not right.</span></p>
 
 <p><span class="chinese">通常采用药物或手术即可治疗。</span><span class="english">It is often medically or surgically treatable.</span></p>

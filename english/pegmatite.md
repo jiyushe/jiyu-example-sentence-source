@@ -1,5 +1,7 @@
 # pegmatite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pegmatite.md)
+
 <p><span class="chinese">伟晶花岗岩是一种可以在堤防或静脉发现粗的类型。</span><span class="english">Pegmatite is a coarse type of granite that can be found in dikes or veins.</span></p>
 
 <p><span class="chinese">矿石为花岗伟晶结构，似文象结构和块状、条带状构造。</span><span class="english">Ores are of pegmatite granites texture, graphic and massive, banded structure.</span></p>

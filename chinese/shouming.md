@@ -1,5 +1,7 @@
 # 寿命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouming.md)
+
 <p><span class="chinese">什么是寿命表</span><span class="english">What is a life table?</span></p>
 
 <p><span class="chinese">心情开朗寿命长！</span><span class="english">A light heart live long!</span></p>

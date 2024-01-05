@@ -1,5 +1,7 @@
 # basilic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/basilic.md)
+
 <p><span class="chinese">提出腋静脉是由贵要静脉延续而成。</span><span class="english">It is suggested that the axillary vein is the continuation of the basilic vein.</span></p>
 
 <p><span class="chinese">其中，历史建筑保护作为重要的基础性环节具有极大的现实意义。</span><span class="english">The protection of historical buildings works as a basilic tache in urban history conservation.</span></p>

@@ -1,5 +1,7 @@
 # contralto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contralto.md)
+
 <p><span class="chinese">蔡琴是一位女低音歌手。</span><span class="english">Cai Qin is a contralto.</span></p>
 
 <p><span class="chinese">院子里，一个嘶哑的女低音在吟诵赞美诗。</span><span class="english">Out in the yard a woman's hoarse contralto intoned a hymn.</span></p>

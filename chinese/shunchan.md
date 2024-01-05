@@ -1,5 +1,7 @@
 # 顺产
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shunchan.md)
+
 <p><span class="chinese">她总是顺产。</span><span class="english">She always has easy deliveries.</span></p>
 
 <p><span class="chinese">为什么？我想生第二个孩子的时候顺产。</span><span class="english">Why? I would like to second child when the birth.</span></p>

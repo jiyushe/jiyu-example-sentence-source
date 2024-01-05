@@ -1,5 +1,7 @@
 # 斜阳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xieyang.md)
+
 <p><span class="chinese">看日落的斜阳，就想到你。</span><span class="english">When I watch the the sunset close to the horizon.</span></p>
 
 <p><span class="chinese">太慢了，待他们来击宫门，已是斜阳残照。</span><span class="english">Too slow, be they hit palace, is the setting sun sunset glow.</span></p>

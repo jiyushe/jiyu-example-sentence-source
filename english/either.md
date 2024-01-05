@@ -1,5 +1,7 @@
 # either 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/either.md)
+
 <p><span class="chinese">茶和咖啡都行。</span><span class="english">Either tea or coffee.</span></p>
 
 <p><span class="chinese">此外马修也不错。</span><span class="english">Matt's not bad, either.</span></p>

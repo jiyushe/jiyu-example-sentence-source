@@ -1,5 +1,7 @@
 # 油茶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youcha_1.md)
+
 <p><span class="chinese">打油茶，既简单又复杂。</span><span class="english">Gets in the tea-oil tree, both simple and complex.</span></p>
 
 <p><span class="chinese">有这四样，即可打简易油茶了。</span><span class="english">Has these four types, then got in the simple tea-oil tree.</span></p>

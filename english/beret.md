@@ -1,5 +1,7 @@
 # beret
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beret.md)
+
 <p><span class="chinese">这位前“绿色贝雷“组织的成员为自己辩护为自卫。</span><span class="english">The former Green Beret pleaded self-defense.</span></p>
 
 <p><span class="chinese">我们想到的标志性的东西就是法国贝雷帽。</span><span class="english">One of the symbols we thought of was a beret.</span></p>

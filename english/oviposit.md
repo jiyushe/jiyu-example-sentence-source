@@ -1,5 +1,7 @@
 # oviposit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oviposit.md)
+
 <p><span class="chinese">我这是排卵期出血吗?。</span><span class="english">I is this oviposit period haemorrhage?</span></p>
 
 <p><span class="chinese">那么女性如何掌握排卵期呢？</span><span class="english">So women how to grasp the oviposit period?</span></p>

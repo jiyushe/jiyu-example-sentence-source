@@ -1,5 +1,7 @@
 # 讯息
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xunxi.md)
+
 <p><span class="chinese">让这些讯息涌进来吧.</span><span class="english">Let the messages roll in.</span></p>
 
 <p><span class="chinese">他用暗码发送了一份讯息。</span><span class="english">He sent a message in code.</span></p>

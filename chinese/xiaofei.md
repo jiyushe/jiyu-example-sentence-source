@@ -1,5 +1,7 @@
 # 消费
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaofei.md)
+
 <p><span class="chinese">什么是消费？</span><span class="english">What is consumption?</span></p>
 
 <p><span class="chinese">这是人们过度消费的原因。</span><span class="english">It's why people overspend.</span></p>

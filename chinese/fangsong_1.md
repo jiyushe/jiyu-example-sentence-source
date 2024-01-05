@@ -1,5 +1,7 @@
 # 放送
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangsong_1.md)
+
 <p><span class="chinese">把抓紧芯口恴手、悄悄放送。</span><span class="english">Grasps Chest's hand to relax quietly.</span></p>
 
 <p><span class="chinese">电幕能够同时接收和放送。</span><span class="english">The telescreen received and transmitted simultaneously.</span></p>

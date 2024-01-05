@@ -1,5 +1,7 @@
 # 强辩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangbian.md)
+
 <p><span class="chinese">持相反的论点就是试图为站不住脚的事情强辩。</span><span class="english">To argue otherwise is trying to defend the indefensible.</span></p>
 
 <p><span class="chinese">虽然说喜欢强辩到底，但是新加坡政府有的时候也是可以灵活的。</span><span class="english">FOND of having the last word, Singapore's government can nevertheless be flexible.</span></p>

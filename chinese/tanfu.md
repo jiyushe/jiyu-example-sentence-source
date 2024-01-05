@@ -1,5 +1,7 @@
 # 叹服
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanfu.md)
+
 <p><span class="chinese">这种内心的刚强着实让人叹服。</span><span class="english">This kind of strong heart is really amazing.</span></p>
 
 <p><span class="chinese">乔治的洞察世情令她叹服。</span><span class="english">George dazzled her with his knowledge of the world.</span></p>

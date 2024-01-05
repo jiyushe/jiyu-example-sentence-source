@@ -1,5 +1,7 @@
 # peritonitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peritonitis.md)
+
 <p><span class="chinese">小肠吻合可能破裂并产生瘘管和腹膜炎。</span><span class="english">Enteric anastomoses may disrupt and produce a fistula and peritonitis.</span></p>
 
 <p><span class="chinese">拔管后无局限性腹膜炎或瘘口迁延不愈。</span><span class="english">No local peritonitis or uncurable fistula occurred after withdrawal of the tube.</span></p>

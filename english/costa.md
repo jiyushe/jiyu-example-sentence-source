@@ -1,5 +1,7 @@
 # costa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/costa.md)
+
 <p><span class="chinese">汽车租赁代码表。</span><span class="english">Costa Calma Budget Car Rental.</span></p>
 
 <p><span class="chinese">哥斯大黎加的货币单位是什麽？</span><span class="english">What is the currency of Costa Rica?</span></p>

@@ -1,5 +1,7 @@
 # enact
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enact.md)
+
 <p><span class="chinese">你的脑海里会上演一整幕发怒的场景！</span><span class="english">You enact a whole scene of anger in your mind!</span></p>
 
 <p><span class="chinese">可是为了要完成这项立法，他必须付出代价。</span><span class="english">But he had to pay the private pipers to enact it.</span></p>

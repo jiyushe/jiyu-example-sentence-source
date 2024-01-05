@@ -1,5 +1,7 @@
 # outlive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outlive.md)
+
 <p><span class="chinese">他活不过今宵。</span><span class="english">He will not outlive this night.</span></p>
 
 <p><span class="chinese">有时候，我们还得经受生活的磨炼。</span><span class="english">Sometimes we have to outlive our history.</span></p>

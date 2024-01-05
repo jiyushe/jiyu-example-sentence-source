@@ -1,5 +1,7 @@
 # warty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/warty.md)
+
 <p><span class="chinese">花粉壁具疣状雕纹。</span><span class="english">Pollen wall is decorated with warty dots.</span></p>
 
 <p><span class="chinese">孢子呈椭圆形，表面呈不规则突起、疣状。</span><span class="english">The spore is oval and has a warty surface.</span></p>

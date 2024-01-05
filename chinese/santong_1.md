@@ -1,5 +1,7 @@
 # 三通
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/santong_1.md)
+
 <p><span class="chinese">三通球阀有T型和L型。</span><span class="english">Ball valve with T-and L-type.</span></p>
 
 <p><span class="chinese">在三通开关上塞上无菌塞子。</span><span class="english">Plug stopcocks with sterile plugs.</span></p>

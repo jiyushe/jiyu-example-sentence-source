@@ -1,5 +1,7 @@
 # 裤裆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kudang.md)
+
 <p><span class="chinese">我正看着他的裤裆呢。</span><span class="english">I'm looking at his crotch.</span></p>
 
 <p><span class="chinese">他一弯腰就把裤裆裂开了。</span><span class="english">When he bent over, he split his pant.</span></p>

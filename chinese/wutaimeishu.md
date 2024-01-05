@@ -1,5 +1,7 @@
 # 舞台美术
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wutaimeishu.md)
+
 <p><span class="chinese">50年代，从事舞台美术与美术编辑工作。</span><span class="english">In 40, 50 time, in the stage art and art editor work.</span></p>
 
 <p><span class="chinese">京剧舞台美术分为「人物造型」和「景物造型」两大类型。</span><span class="english">The stage design of Beijing Opera is separated from characters and scenes.</span></p>

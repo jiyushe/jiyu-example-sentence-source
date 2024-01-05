@@ -1,5 +1,7 @@
 # insectivorous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insectivorous.md)
+
 <p><span class="chinese">就是这一点东西引诱它残杀昆虫。</span><span class="english">This is the tidbit which tempts his insectivorous fate.</span></p>
 
 <p><span class="chinese">本种为食虫植物，在生态系统中有其独特的作用。</span><span class="english">It is an insectivorous plant and plays a special role in an ecosystem.</span></p>

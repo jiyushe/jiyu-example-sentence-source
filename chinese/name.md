@@ -1,5 +1,7 @@
 # 那么
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/name.md)
+
 <p><span class="chinese">那么索性放松一下。</span><span class="english">So relax.</span></p>
 
 <p><span class="chinese">乔，那么。</span><span class="english">Joe, then.</span></p>

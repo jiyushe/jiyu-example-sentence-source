@@ -1,5 +1,7 @@
 # 人物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renwu.md)
+
 <p><span class="chinese">他是新闻人物。</span><span class="english">He is news.</span></p>
 
 <p><span class="chinese">但是他值得成为年度人物吗？</span><span class="english">But is he worthy?</span></p>

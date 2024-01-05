@@ -1,5 +1,7 @@
 # porky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/porky.md)
+
 <p><span class="chinese">你看起来有点开始发胖了。</span><span class="english">You are beginning to look a little porky.</span></p>
 
 <p><span class="chinese">小小的看起来像切成块的小鸡鸡的猪尾巴汤。</span><span class="english">Little phalic stumps of swine end in a porky broth.</span></p>

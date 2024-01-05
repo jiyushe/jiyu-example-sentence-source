@@ -1,5 +1,7 @@
 # 含义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanyi.md)
+
 <p><span class="chinese">这样的比喻是什么含义？</span><span class="english">What does this simile mean?</span></p>
 
 <p><span class="chinese">我打赌这句话的含义你一定也知道。</span><span class="english">I bet you know this one, too.</span></p>

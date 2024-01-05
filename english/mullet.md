@@ -1,5 +1,7 @@
 # mullet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mullet.md)
+
 <p><span class="chinese">昨天我钓了一条黑鱼。</span><span class="english">Yesterday I caught a mullet.</span></p>
 
 <p><span class="chinese">昨天我钓了一条黑鱼。</span><span class="english">Yesterday I caught a mullet.</span></p>

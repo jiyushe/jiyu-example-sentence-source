@@ -1,5 +1,7 @@
 # precinct
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/precinct.md)
+
 <p><span class="chinese">这是这个城市最繁忙的管辖区。</span><span class="english">This is the busiest precinct in the city.</span></p>
 
 <p><span class="chinese">琼斯警官来自理查盟德区。</span><span class="english">Officer Jones is from the Richmond precinct.</span></p>

@@ -1,5 +1,7 @@
 # 展示
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanshi.md)
+
 <p><span class="chinese">它展示出一条海蛇！</span><span class="english">It shows a Serpent!</span></p>
 
 <p><span class="chinese">船只模型展示馆。</span><span class="english">Ship model gallery.</span></p>

@@ -1,5 +1,7 @@
 # 痛处
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongchu.md)
+
 <p><span class="chinese">他用无情的话刺到我的痛处。</span><span class="english">He cut me to the quick with his unkind remark.</span></p>
 
 <p><span class="chinese">XNA是在VB开发人员当中的下一个痛处。</span><span class="english">XNA is the next sore point amongst VB developers.</span></p>

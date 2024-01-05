@@ -1,5 +1,7 @@
 # 石磨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shimo_2.md)
+
 <p><span class="chinese">我正如俗语所说的一般能够洞察石磨。</span><span class="english">I can see into a millstone as the saying is.</span></p>
 
 <p><span class="chinese">我正如俗语所说的一般能够洞察石磨。</span><span class="english">I can see into a millstone, as the saying be.</span></p>

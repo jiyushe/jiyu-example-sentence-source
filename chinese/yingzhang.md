@@ -1,5 +1,7 @@
 # 硬仗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingzhang.md)
+
 <p><span class="chinese">这是一场硬仗。</span><span class="english">It was a hard-fought battle.</span></p>
 
 <p><span class="chinese">这将是一场硬仗。</span><span class="english">It's going to be a tough battle.</span></p>

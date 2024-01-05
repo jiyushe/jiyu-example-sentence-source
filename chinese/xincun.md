@@ -1,5 +1,7 @@
 # 新村
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xincun.md)
+
 <p><span class="chinese">我住在新村。</span><span class="english">I live in Xincun.</span></p>
 
 <p><span class="chinese">它在东港新村里。</span><span class="english">It's in Donggang Village.</span></p>

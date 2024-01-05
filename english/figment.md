@@ -1,5 +1,7 @@
 # figment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/figment.md)
+
 <p><span class="chinese">你只是我想像出来的虚构物。</span><span class="english">And you were just a figment of my imagination.</span></p>
 
 <p><span class="chinese">那可能只是我们想象臆造出来的呢？</span><span class="english">What if it's just a figment of our imaginations?</span></p>

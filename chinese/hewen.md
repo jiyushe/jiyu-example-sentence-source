@@ -1,5 +1,7 @@
 # 和文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hewen.md)
+
 <p><span class="chinese">马可和文洁我在这儿向你问候。</span><span class="english">We are your hosts Mark, along with Wen-Jie.</span></p>
 
 <p><span class="chinese">它和文本栏是相同的。</span><span class="english">This is equivalent to the field of text type.</span></p>

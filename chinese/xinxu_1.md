@@ -1,5 +1,7 @@
 # 心虚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinxu_1.md)
+
 <p><span class="chinese">你看上去心虚喜悦。</span><span class="english">You look guilty.</span></p>
 
 <p><span class="chinese">约拿书感到非常心虚。</span><span class="english">Jonah felt very guilty.</span></p>

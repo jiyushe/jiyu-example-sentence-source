@@ -1,5 +1,7 @@
 # imminently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imminently.md)
+
 <p><span class="chinese">就在去年秋天他似乎还不堪一击。</span><span class="english">Just last fall he seemed imminently beatable.</span></p>
 
 <p><span class="chinese">许多人只是被带到这个会即刻成为他们坟墓的大坑的边缘。</span><span class="english">Many were simply led to the edge of what would imminently be their grave.</span></p>

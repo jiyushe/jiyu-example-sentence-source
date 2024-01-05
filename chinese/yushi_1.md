@@ -1,5 +1,7 @@
 # 浴室
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yushi_1.md)
+
 <p><span class="chinese">脚垫。底座。浴室。</span><span class="english">Base. the bathroom.</span></p>
 
 <p><span class="chinese">浴室在哪里？</span><span class="english">Wheres the bathroom?</span></p>

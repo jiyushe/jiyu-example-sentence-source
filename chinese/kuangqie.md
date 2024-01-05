@@ -1,5 +1,7 @@
 # 况且
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuangqie.md)
+
 <p><span class="chinese">况且要看管的太多。</span><span class="english">Also too much to watch.</span></p>
 
 <p><span class="chinese">况且，这个女子是一个异教徒。</span><span class="english">But this girl was a non-believer.</span></p>

@@ -1,5 +1,7 @@
 # 软木
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruanmu.md)
+
 <p><span class="chinese">软木制的天花板能减少回音。</span><span class="english">Cork ceilings absorb sound.</span></p>
 
 <p><span class="chinese">铁杉是一种优良的软木材。</span><span class="english">Tsuga is a fine kind of softwood.</span></p>

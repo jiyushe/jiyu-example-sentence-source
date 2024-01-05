@@ -1,5 +1,7 @@
 # schist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/schist.md)
+
 <p><span class="chinese">下面是两个比较突出的品种片岩。</span><span class="english">Below are two more striking varieties of schist.</span></p>
 
 <p><span class="chinese">其地层为板溪群二云母片岩。</span><span class="english">Its stratum was mica-bearing schist of Banxi Group.</span></p>

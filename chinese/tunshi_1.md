@@ -1,5 +1,7 @@
 # 吞食
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tunshi_1.md)
+
 <p><span class="chinese">吞食者是什么?。</span><span class="english">What the Devourer is?</span></p>
 
 <p><span class="chinese">他必被蛆虫吞食。</span><span class="english">He shall be eaten of worms.</span></p>

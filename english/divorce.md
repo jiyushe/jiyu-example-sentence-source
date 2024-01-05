@@ -1,5 +1,7 @@
 # divorce 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/divorce.md)
+
 <p><span class="chinese">离婚的光明面？</span><span class="english">An Upside To Divorce?</span></p>
 
 <p><span class="chinese">她绝不会和你离婚的。</span><span class="english">She would never divorce you.</span></p>

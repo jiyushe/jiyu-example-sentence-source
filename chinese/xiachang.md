@@ -1,5 +1,7 @@
 # 下场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiachang.md)
+
 <p><span class="chinese">我若撒谎，就叫我没好下场。</span><span class="english">I'll be beggared if I tell a lie.</span></p>
 
 <p><span class="chinese">他的无神论也遭到同样的下场。</span><span class="english">It was the same with his atheism.</span></p>

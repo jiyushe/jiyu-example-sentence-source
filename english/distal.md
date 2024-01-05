@@ -1,5 +1,7 @@
 # distal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distal.md)
+
 <p><span class="chinese">扇三角洲前缘亚相由近端坝和远端坝沉积组成。</span><span class="english">Fan delta front includes proximal and distal bar deposits.</span></p>
 
 <p><span class="chinese">动力髁螺钉内固定治疗股骨远端骨折。</span><span class="english">Treatment of distal femoral fracture with dynamic condyle.</span></p>

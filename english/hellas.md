@@ -1,5 +1,7 @@
 # hellas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hellas.md)
+
 <p><span class="chinese">我们是希腊学派“</span><span class="english">"We are the school of Hellas."</span></p>
 
 <p><span class="chinese">现在，随着最后的村庄被摧毁，在希腊没有部落敢在我们面前说谎。</span><span class="english">Now, with the last village destroyed, all the tribes of Hellas lie humbled before us!</span></p>

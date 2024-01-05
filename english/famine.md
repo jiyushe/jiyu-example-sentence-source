@@ -1,5 +1,7 @@
 # famine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/famine.md)
+
 <p><span class="chinese">疾病和灾荒？</span><span class="english">Disease and famine?</span></p>
 
 <p><span class="chinese">发生了饥荒。</span><span class="english">A famine broke forth.</span></p>

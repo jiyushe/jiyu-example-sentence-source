@@ -1,5 +1,7 @@
 # 老妇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laofu.md)
+
 <p><span class="chinese">那个老妇孤身无伴。</span><span class="english">The old lady is all alone.</span></p>
 
 <p><span class="chinese">这位老妇整天喋喋不休。</span><span class="english">The old woman gabbed all day.</span></p>

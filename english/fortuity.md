@@ -1,5 +1,7 @@
 # fortuity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fortuity.md)
+
 <p><span class="chinese">我来自偶然。</span><span class="english">I come from fortuity.</span></p>
 
 <p><span class="chinese">这是由于事故或意外造成的。</span><span class="english">It was due to an accident or fortuity.</span></p>

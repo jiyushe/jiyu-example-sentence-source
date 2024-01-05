@@ -1,5 +1,7 @@
 # 星光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingguang.md)
+
 <p><span class="chinese">星光下结旆。</span><span class="english">Star knot under the pennant.</span></p>
 
 <p><span class="chinese">还有哪座城市星光更加璀璨</span><span class="english">What city is more glamorous?</span></p>

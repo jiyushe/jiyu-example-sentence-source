@@ -1,5 +1,7 @@
 # handling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handling.md)
+
 <p><span class="chinese">电源处理能力ACC。</span><span class="english">Power handling capacity acc.</span></p>
 
 <p><span class="chinese">使用自动命令处理事件</span><span class="english">Event handling with autocommands</span></p>

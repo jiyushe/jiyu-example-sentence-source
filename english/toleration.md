@@ -1,5 +1,7 @@
 # toleration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toleration.md)
+
 <p><span class="chinese">这是个需要超强忍耐力的地方</span><span class="english">It was the place of toleration.</span></p>
 
 <p><span class="chinese">我不能忍受他的唠叨。</span><span class="english">I have no toleration for his gab.</span></p>

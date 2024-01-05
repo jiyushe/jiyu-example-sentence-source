@@ -1,5 +1,7 @@
 # lognormal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lognormal.md)
+
 <p><span class="chinese">革螨种多度分布用对数正态分布模型拟合。</span><span class="english">A lognormal distribution model was used to fit the mite species abundance.</span></p>
 
 <p><span class="chinese">结果表明，腐植酸絮体的粒径呈现对数正态分布。</span><span class="english">The results showed that Al-humic floc size followed a lognormal distribution.</span></p>

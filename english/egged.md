@@ -1,5 +1,7 @@
 # egged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/egged.md)
+
 <p><span class="chinese">别的孩子撺掇他去打架。</span><span class="english">The other boys egged him on fight.</span></p>
 
 <p><span class="chinese">其他孩子怂恿他去打架。</span><span class="english">The other boys egged him on to fight.</span></p>

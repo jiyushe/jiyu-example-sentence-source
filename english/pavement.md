@@ -1,5 +1,7 @@
 # pavement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pavement.md)
+
 <p><span class="chinese">想想看所有的路面。</span><span class="english">Think of all the pavement.</span></p>
 
 <p><span class="chinese">雨滴打在人行道上。</span><span class="english">Rain spatters on the pavement.</span></p>

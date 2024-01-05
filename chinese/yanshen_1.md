@@ -1,5 +1,7 @@
 # 眼神
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanshen_1.md)
+
 <p><span class="chinese">可她的眼神却是冷冷的。</span><span class="english">But her eyes were cold.</span></p>
 
 <p><span class="chinese">别用那种眼神看着我！</span><span class="english">Donnot look at me like that!</span></p>

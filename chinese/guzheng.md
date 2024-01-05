@@ -1,5 +1,7 @@
 # 古筝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guzheng.md)
+
 <p><span class="chinese">是古筝吗？</span><span class="english">Is it zither?</span></p>
 
 <p><span class="chinese">古筝是一种有13根弦的弹拨乐器。</span><span class="english">The Koto is a zither with 13 strings.</span></p>

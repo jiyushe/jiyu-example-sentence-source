@@ -1,5 +1,7 @@
 # 迎头赶上
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingtouganshang.md)
+
 <p><span class="chinese">新的清洁能源经济将会迎头赶上，尽管把它和互联网相提并论还不合时宜。</span><span class="english">The new clean-energy economy will do no less.</span></p>
 
 <p><span class="chinese">我希望给予学生迎头赶上的时间。</span><span class="english">I wanted the students to have time to catch up.</span></p>

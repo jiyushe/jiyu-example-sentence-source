@@ -1,5 +1,7 @@
 # 批租
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pizu.md)
+
 <p><span class="chinese">第三个传统，苏联批租。</span><span class="english">The third tradition demised with the Soviet Union.</span></p>
 
 <p><span class="chinese">土地使用批租制改为年租制的争议。</span><span class="english">It is suggests that batch lease system should be changed into annual lease system.</span></p>

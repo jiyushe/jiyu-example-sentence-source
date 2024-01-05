@@ -1,5 +1,7 @@
 # carrie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carrie.md)
+
 <p><span class="chinese">嘉莉又粲然一笑。</span><span class="english">Carrie smiled again.</span></p>
 
 <p><span class="chinese">“啊呀，天哪！”嘉莉说。</span><span class="english">"Oh, dear, " said Carrie.</span></p>

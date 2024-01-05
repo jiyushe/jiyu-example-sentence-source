@@ -1,5 +1,7 @@
 # 芬芳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenfang_1.md)
+
 <p><span class="chinese">春来气息皆芬芳。</span><span class="english">And a smell of spring.</span></p>
 
 <p><span class="chinese">我是否那芬芳一缕？</span><span class="english">Am I the fragrance of it?</span></p>

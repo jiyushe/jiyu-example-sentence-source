@@ -1,5 +1,7 @@
 # gabled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gabled.md)
+
 <p><span class="chinese">这是栋有三角墙的房子。</span><span class="english">This is a gabled house.</span></p>
 
 <p><span class="chinese">这儿有一座古老的教堂，样子古雅，显得零乱，是带山墙的建筑。</span><span class="english">Here was an old church, quaint and rambling and gabled.</span></p>

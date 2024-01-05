@@ -1,5 +1,7 @@
 # 篡改
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuangai.md)
+
 <p><span class="chinese">他篡改了文件。</span><span class="english">He tampered the document.</span></p>
 
 <p><span class="chinese">他们明目张胆地篡改马克思主义。</span><span class="english">They openly revised Marxism.</span></p>

@@ -1,5 +1,7 @@
 # torsional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/torsional.md)
+
 <p><span class="chinese">这是摆，这里是扭摆。</span><span class="english">Here is the pendulum, the torsional pendulum.</span></p>
 
 <p><span class="chinese">一位60岁男性，左眼旋位复视，眼底像片有20度外旋。</span><span class="english">A 60 year-old male patient had left eye torsional diplopia.</span></p>

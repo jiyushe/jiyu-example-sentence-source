@@ -1,5 +1,7 @@
 # confound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confound.md)
+
 <p><span class="chinese">不要混淆是非！</span><span class="english">Don't confound right with wrong!</span></p>
 
 <p><span class="chinese">莫让忧惧或仇敌,把你騒扰</span><span class="english">Let no fear or foe confound thee</span></p>

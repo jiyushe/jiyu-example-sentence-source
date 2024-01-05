@@ -1,5 +1,7 @@
 # aver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aver.md)
+
 <p><span class="chinese">我断言明天不会下雨。</span><span class="english">I aver it will not rain tomorrow.</span></p>
 
 <p><span class="chinese">我可以断言他说的是实话。</span><span class="english">I can aver that he is telling the truth.</span></p>

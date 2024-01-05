@@ -1,5 +1,7 @@
 # 乱动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luandong.md)
+
 <p><span class="chinese">不要乱动我的玩具。</span><span class="english">Don't meddle with my toys.</span></p>
 
 <p><span class="chinese">谁乱动我的相机了?</span><span class="english">Who interfered with my camera?</span></p>

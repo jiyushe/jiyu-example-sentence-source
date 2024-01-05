@@ -1,5 +1,7 @@
 # yarn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yarn.md)
+
 <p><span class="chinese">鹅毛，纱线。</span><span class="english">feathers, yarn.</span></p>
 
 <p><span class="chinese">纱支多数为双股。</span><span class="english">Most of the double yarn.</span></p>

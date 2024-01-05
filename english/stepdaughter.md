@@ -1,5 +1,7 @@
 # stepdaughter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stepdaughter.md)
+
 <p><span class="chinese">别忘了，我的继母又是我的继女。</span><span class="english">stepmother is my stepdaughter.</span></p>
 
 <p><span class="chinese">所以我的继女现在就是我的继母。</span><span class="english">So my stepdaughter is now my stepmother.</span></p>

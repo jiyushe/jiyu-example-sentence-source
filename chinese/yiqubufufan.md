@@ -1,5 +1,7 @@
 # 一去不复返
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiqubufufan.md)
+
 <p><span class="chinese">从此一去不复返回。</span><span class="english">And will never come again.</span></p>
 
 <p><span class="chinese">我们用“洋油”的日子一去不复返了。</span><span class="english">The days we used "foreign oil".</span></p>

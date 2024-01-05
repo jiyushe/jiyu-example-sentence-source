@@ -1,5 +1,7 @@
 # transfer 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transfer_1.md)
+
 <p><span class="chinese">我将为您转接。</span><span class="english">I’ll transfer you.</span></p>
 
 <p><span class="chinese">我需不需要换车？</span><span class="english">Do I need a transfer?</span></p>

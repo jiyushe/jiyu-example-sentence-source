@@ -1,5 +1,7 @@
 # 亲亲热热
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinqinrere.md)
+
 <p><span class="chinese">啊，吵吵闹闹的相爱，亲亲热热的怨恨！</span><span class="english">Why then, O brawling love, O loving hate.</span></p>
 
 <p><span class="chinese">乔治伸出膀子，亲亲热热地搂住我的肩膀。</span><span class="english">George put a kindly arm around my shoulders.</span></p>

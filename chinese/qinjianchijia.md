@@ -1,5 +1,7 @@
 # 勤俭持家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinjianchijia.md)
+
 <p><span class="chinese">刚开始决定要勤俭持家的人，一般都是从控制饮食开始的。</span><span class="english">People new to frugal living always seem to tackle their food bill first.</span></p>
 
 <p><span class="chinese">如果消费者不求斥金如土，但望勤俭持家，运通也希望一路有它。</span><span class="english">If consumers espouse frugality instead of ostentatious spending, Amex wants to be there.</span></p>

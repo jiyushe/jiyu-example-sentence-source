@@ -1,5 +1,7 @@
 # palermo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palermo.md)
+
 <p><span class="chinese">我们将制胜之球送给了巴勒莫。</span><span class="english">We gifted Palermo the winning goal.</span></p>
 
 <p><span class="chinese">帕拉莫有个不错的开始，并且也会最终保持在那儿。</span><span class="english">Palermo have started well and will be there at the end.</span></p>

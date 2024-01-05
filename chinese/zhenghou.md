@@ -1,5 +1,7 @@
 # 征候
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenghou.md)
+
 <p><span class="chinese">显示出像癌症的征候。</span><span class="english">Tom Cancer like symptoms developed.</span></p>
 
 <p><span class="chinese">排卵迹象和征候通常很微妙。</span><span class="english">Ovulation signs and symptoms are often subtle.</span></p>

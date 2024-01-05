@@ -1,5 +1,7 @@
 # gallstone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gallstone.md)
+
 <p><span class="chinese">说话这当口我还在排胆结石！</span><span class="english">I'm passing a gallstone as we speak.</span></p>
 
 <p><span class="chinese">听说他得了胆结石病。</span><span class="english">It was rumoured that he was suffering from gallstone.</span></p>

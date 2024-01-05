@@ -1,5 +1,7 @@
 # 黔驴技穷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianlvjiqiong.md)
+
 <p><span class="chinese">也说“黔驴技穷”。</span><span class="english">Also said "out".</span></p>
 
 <p><span class="chinese">不要怕，他已经黔驴技穷了。</span><span class="english">Don't be scared, he is up with end.</span></p>

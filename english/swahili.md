@@ -1,5 +1,7 @@
 # swahili
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swahili.md)
+
 <p><span class="chinese">他既能说又能写斯瓦希里语。</span><span class="english">He both speaks and writes Swahili.</span></p>
 
 <p><span class="chinese">大多数亚洲人也讲英语和斯瓦希里语。</span><span class="english">Most Asians also speak English and Swahili.</span></p>

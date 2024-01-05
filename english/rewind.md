@@ -1,5 +1,7 @@
 # rewind
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rewind.md)
+
 <p><span class="chinese">当磁带完了时把它倒回去。</span><span class="english">Rewind the tape when it comes to the end.</span></p>
 
 <p><span class="chinese">我只说一次，补充燃料，恢复活力。</span><span class="english">I spit it once, refuel, reenergize, and rewind.</span></p>

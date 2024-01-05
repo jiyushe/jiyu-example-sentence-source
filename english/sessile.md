@@ -1,5 +1,7 @@
 # sessile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sessile.md)
+
 <p><span class="chinese">无柄的叶没有叶柄。</span><span class="english">A sessile leaf has no petiole.</span></p>
 
 <p><span class="chinese">花有花梗到近无柄。</span><span class="english">Flowers pedicellate to nearly sessile.</span></p>

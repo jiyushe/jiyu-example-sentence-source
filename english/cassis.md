@@ -1,5 +1,7 @@
 # cassis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cassis.md)
+
 <p><span class="chinese">怪石嶙峋的卡西斯悬崖从地中海中拔地而起。</span><span class="english">The jagged cliffs of Cassis drop down to the Mediterranean Sea.</span></p>
 
 <p><span class="chinese">丰富而优雅葡萄酒，醋栗果浆口感，余韵悠长。</span><span class="english">Rich and elegant wine with jammy cassis fruits in lingering finish.</span></p>

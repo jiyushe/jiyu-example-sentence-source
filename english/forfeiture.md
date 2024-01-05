@@ -1,5 +1,7 @@
 # forfeiture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forfeiture.md)
+
 <p><span class="chinese">他债台高筑，面对他的是财产的没收。</span><span class="english">He was deep in debt and faced with forfeiture of his property.</span></p>
 
 <p><span class="chinese">没收财产刑走向消亡是历史的必然趋势。</span><span class="english">The vanishment of Forfeiture of Property is an inexorable historical trend.</span></p>

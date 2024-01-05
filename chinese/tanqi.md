@@ -1,5 +1,7 @@
 # 叹气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanqi.md)
+
 <p><span class="chinese">对准，喀嚓，叹气。</span><span class="english">Aim, click, sigh.</span></p>
 
 <p><span class="chinese">他长叹气一声。</span><span class="english">She gave a long sigh.</span></p>

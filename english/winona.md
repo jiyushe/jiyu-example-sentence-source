@@ -1,5 +1,7 @@
 # winona
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/winona.md)
+
 <p><span class="chinese">全德和薇诺娜排队买东西吃。</span><span class="english">Trent and Winona wait in line to get something to eat.</span></p>
 
 <p><span class="chinese">薇诺娜·赖德实则是选择这款短发的先驱，她在1997年完美的诠释了这种发型，并引发了它的风靡。</span><span class="english">Winona Ryder practically pioneered the pixie hair craze in 1997.</span></p>

@@ -1,5 +1,7 @@
 # greed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/greed.md)
+
 <p><span class="chinese">贪心不足蛇吞象。</span><span class="english">Greed has no limits.</span></p>
 
 <p><span class="chinese">我们需要对贪欲加以约束。</span><span class="english">We need to bridle greed.</span></p>

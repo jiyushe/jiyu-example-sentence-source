@@ -1,5 +1,7 @@
 # sensational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sensational.md)
+
 <p><span class="chinese">这些指控是有凭有据的。</span><span class="english">The charges were sensational.</span></p>
 
 <p><span class="chinese">那个发现引起了轰动。</span><span class="english">The discovery was sensational.</span></p>

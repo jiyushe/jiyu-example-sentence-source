@@ -1,5 +1,7 @@
 # 能说会道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nengshuohuidao.md)
+
 <p><span class="chinese">表面上看来，它只是一种能说会道的能力，可实际上它却包罗了一个人从穿衣打扮到言谈举止等一切行为的能力。</span><span class="english">It seems it's just a talktive ability.</span></p>
 
 <p><span class="chinese">为了孩子能说会道，鹌鹑嫁给了鹦鹉。</span><span class="english">For the child glib, quail was married parrot.</span></p>

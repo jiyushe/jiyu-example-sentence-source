@@ -1,5 +1,7 @@
 # unknowingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unknowingly.md)
+
 <p><span class="chinese">驴儿过去了，无意中回头一看。</span><span class="english">As the donkey passed by, I looked back unknowingly.</span></p>
 
 <p><span class="chinese">其实我们有意无意的都在使用这种方法。</span><span class="english">All of us apply this method knowingly or unknowingly.</span></p>

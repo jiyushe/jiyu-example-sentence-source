@@ -1,5 +1,7 @@
 # gasket
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gasket.md)
+
 <p><span class="chinese">这个翻边起一种密封垫的作用。</span><span class="english">This collar acts as a kind of gasket.</span></p>
 
 <p><span class="chinese">本次设计了一套垫片的落料、冲孔模具。</span><span class="english">The design of a gasket blanking, punching mold.</span></p>

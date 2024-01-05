@@ -1,5 +1,7 @@
 # 武夫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wufu_1.md)
+
 <p><span class="chinese">除了贝武夫以外，所有的战士都畏惧着牠。</span><span class="english">All of the warriors are afraid of him except for Beowulf.</span></p>
 
 <p><span class="chinese">他将故事加以改写，以呈现贝奥武夫在两种文化下的挣扎。</span><span class="english">He rewrote the story to make Beowulf a man caught between two cultures.</span></p>

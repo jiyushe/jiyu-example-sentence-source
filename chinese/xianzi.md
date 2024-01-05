@@ -1,5 +1,7 @@
 # 仙子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianzi.md)
+
 <p><span class="chinese">然而，信心仙子却并未出现。</span><span class="english">But the confidence fairy was a no-show.</span></p>
 
 <p><span class="chinese">麒麟蒸鱼、筊白仙子。</span><span class="english">Kirin steamed fish and white bamboo shoots.</span></p>

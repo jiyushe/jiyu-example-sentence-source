@@ -1,5 +1,7 @@
 # alfalfa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alfalfa.md)
+
 <p><span class="chinese">适用于苜蓿草的粗粉碎。</span><span class="english">Applicable to coarse grinding of alfalfa.</span></p>
 
 <p><span class="chinese">苜蓿根和根颈腐烂病的症状。</span><span class="english">Symptoms of Crown and Root Rot of Alfalfa.</span></p>

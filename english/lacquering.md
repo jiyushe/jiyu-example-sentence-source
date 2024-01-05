@@ -1,5 +1,7 @@
 # lacquering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lacquering.md)
+
 <p><span class="chinese">漆器银和铜标本清洗后，将让他们展现了很长的时间。</span><span class="english">Lacquering silver and copper specimens after cleaning will keep them bright for a long time.</span></p>
 
 <p><span class="chinese">独特的活化剂成分解决了着色前需单独扩孔活化的弊病，有利于封孔和电泳。</span><span class="english">Unique activator enable easy coloring and effective sealing. Produce better result with lacquering.</span></p>

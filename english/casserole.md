@@ -1,5 +1,7 @@
 # casserole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/casserole.md)
+
 <p><span class="chinese">我可以再做一盆菜。</span><span class="english">You can take him a casserole.</span></p>
 
 <p><span class="chinese">把沙锅菜烤一小时。</span><span class="english">Bake the casserole for an hour.</span></p>

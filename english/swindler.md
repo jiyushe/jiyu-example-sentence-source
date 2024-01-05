@@ -1,5 +1,7 @@
 # swindler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swindler.md)
+
 <p><span class="chinese">我的意思是说，他是个骗子。</span><span class="english">I mean that he is a swindler.</span></p>
 
 <p><span class="chinese">那骗子用希望引诱她。</span><span class="english">The swindler allured her by hopes.</span></p>

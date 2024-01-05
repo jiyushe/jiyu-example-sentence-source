@@ -1,5 +1,7 @@
 # 再不
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaibu.md)
+
 <p><span class="chinese">我再不逃课了。</span><span class="english">I won’t skip class again.</span></p>
 
 <p><span class="chinese">再不住手，我就去告诉华夫人！</span><span class="english">Stop, or I will inform Madam!</span></p>

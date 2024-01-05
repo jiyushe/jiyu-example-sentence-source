@@ -1,5 +1,7 @@
 # 座标
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuobiao_1.md)
+
 <p><span class="chinese">分析座标到街名。</span><span class="english">Resolves coordinates to street names.</span></p>
 
 <p><span class="chinese">控制项的高度，使用容器的座标。</span><span class="english">The height of the control, in container coordinates.</span></p>

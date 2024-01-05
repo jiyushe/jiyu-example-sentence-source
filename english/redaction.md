@@ -1,5 +1,7 @@
 # redaction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redaction.md)
+
 <p><span class="chinese">所以学术界中说的是编修批判。</span><span class="english">So it's Redaction Criticism is what you'll see in the scholarship.</span></p>
 
 <p><span class="chinese">使用角色可以更容易地指定编校的数据类型。</span><span class="english">The data types for redaction can be more easily specified by using roles.</span></p>

@@ -1,5 +1,7 @@
 # curacao
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curacao.md)
+
 <p><span class="chinese">你是香橙心中最爱的老大。</span><span class="english">You are the boss curacao hearts.</span></p>
 
 <p><span class="chinese">你给香橙的爱是唯一的。</span><span class="english">You give the love is only curacao.</span></p>

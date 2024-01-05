@@ -1,5 +1,7 @@
 # deckhand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deckhand.md)
+
 <p><span class="chinese">甲板水手要便携图书解读器来干嘛?。</span><span class="english">What's a deckhand need with a portable library reader?</span></p>
 
 <p><span class="chinese">阿渔工大声在孩子们和他们挑选的岩石了。</span><span class="english">A deckhand yelled at the kids and made them pick the rocks up.</span></p>

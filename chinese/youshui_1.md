@@ -1,5 +1,7 @@
 # 游水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youshui_1.md)
+
 <p><span class="chinese">鱼都会游水。</span><span class="english">All fish swim.</span></p>
 
 <p><span class="chinese">有些蛇会游水。</span><span class="english">Some snakes can swim.</span></p>

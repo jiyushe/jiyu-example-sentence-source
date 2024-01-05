@@ -1,5 +1,7 @@
 # 念念不忘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niannianbuwang.md)
+
 <p><span class="chinese">对在卫生间的行为念念不忘</span><span class="english">Becoming fixated on toilet behaviour.</span></p>
 
 <p><span class="chinese">她念念不忘意大利。</span><span class="english">Her thoughts often reverted to Italy.</span></p>

@@ -1,5 +1,7 @@
 # 行善
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingshan.md)
+
 <p><span class="chinese">真主的慈恩确是临近行善者的。</span><span class="english">The mercy of God is near.</span></p>
 
 <p><span class="chinese">宗教是诱导人们积德行善的力量吗？</span><span class="english">Is religion a force for good?</span></p>

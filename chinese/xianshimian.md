@@ -1,5 +1,7 @@
 # 见世面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianshimian.md)
+
 <p><span class="chinese">我们应该经风雨，见世面。</span><span class="english">We ought to face the world and brave the storm.</span></p>
 
 <p><span class="chinese">如果我赢了很多钱，我想去见见世面。</span><span class="english">If I win a lot of money I want to see the world.</span></p>

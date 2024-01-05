@@ -1,5 +1,7 @@
 # clayey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clayey.md)
+
 <p><span class="chinese">此天然包括压实粘性土。</span><span class="english">This berm consisted of compacted clayey soils.</span></p>
 
 <p><span class="chinese">铁尔河是一条宽阔，迂缓浑浊的河。</span><span class="english">The river till was a wide, sluggish, clayey water.</span></p>

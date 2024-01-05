@@ -1,5 +1,7 @@
 # scalar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scalar.md)
+
 <p><span class="chinese">为什么是标量值呢？</span><span class="english">Why a scalar value?</span></p>
 
 <p><span class="chinese">还可查看这其中哪些是标量，哪些是柱状。</span><span class="english">You can also see which of them are scalar and columnar.</span></p>

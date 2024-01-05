@@ -1,5 +1,7 @@
 # benevolently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/benevolently.md)
+
 <p><span class="chinese">它在仁慈在提供给你一切。</span><span class="english">It's benevolently providing for you.</span></p>
 
 <p><span class="chinese">绝大多数阿尔法狗统治是仁慈的。</span><span class="english">The vast majority of alpha dogs rule benevolently. They are confident in their position.</span></p>

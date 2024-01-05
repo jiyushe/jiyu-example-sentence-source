@@ -1,5 +1,7 @@
 # leggy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leggy.md)
+
 <p><span class="chinese">他说，女性尤希望自己双腿修长、胸部丰满、身材苗条。</span><span class="english">They particularly wanted to look leggy , busty and skinny, he said.</span></p>
 
 <p><span class="chinese">放在厨房的植物细细的，一副病怏怏的模样，几乎没有长大。</span><span class="english">The kitchen plant was leggy and sick-looking, and it hadn't grown at all.</span></p>

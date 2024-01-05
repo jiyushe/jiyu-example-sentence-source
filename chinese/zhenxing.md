@@ -1,5 +1,7 @@
 # 振兴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenxing.md)
+
 <p><span class="chinese">我住在振兴小区。</span><span class="english">I live in Zhenxing District.</span></p>
 
 <p><span class="chinese">电信业能否重新振兴?。</span><span class="english">Can Telecom Industry Re-collect?</span></p>

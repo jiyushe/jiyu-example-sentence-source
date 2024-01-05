@@ -1,5 +1,7 @@
 # 前日
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianri.md)
+
 <p><span class="chinese">1890年，一名前日本武士在此修建了这家客栈。</span><span class="english">The inn was established in 1890 by a former samurai.</span></p>
 
 <p><span class="chinese">与前日的112.01日元相比，欧元在111.96日元附近小幅波动。</span><span class="english">The euro was little changed at 111.96 yen, compared with 112.01.</span></p>

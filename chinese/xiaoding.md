@@ -1,5 +1,7 @@
 # 销钉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoding.md)
+
 <p><span class="chinese">取出销钉连接器。</span><span class="english">Retrieve the pin connector.</span></p>
 
 <p><span class="chinese">销钉喷出的可能性。</span><span class="english">Possibility of pin ejection.</span></p>

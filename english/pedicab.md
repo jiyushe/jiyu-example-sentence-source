@@ -1,5 +1,7 @@
 # pedicab
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pedicab.md)
+
 <p><span class="chinese">哪儿可以找到三轮车？</span><span class="english">Where can I get a pedicab?</span></p>
 
 <p><span class="chinese">单单我们这条小巷就有三辆。</span><span class="english">In our alley alone, there are three pedicab riders.</span></p>

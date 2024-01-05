@@ -1,5 +1,7 @@
 # jazz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jazz.md)
+
 <p><span class="chinese">谢谢你，爵士队。</span><span class="english">Thank you, Jazz.</span></p>
 
 <p><span class="chinese">你喜欢爵士乐吗？</span><span class="english">Do you like jazz?</span></p>

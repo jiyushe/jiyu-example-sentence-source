@@ -1,5 +1,7 @@
 # aimless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aimless.md)
+
 <p><span class="chinese">荒诞的无目的性追求。</span><span class="english">Fantastic aimless is run after.</span></p>
 
 <p><span class="chinese">没有了目标，你就是漫无目的的。</span><span class="english">Without a target, you are aimless.</span></p>

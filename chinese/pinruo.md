@@ -1,5 +1,7 @@
 # 贫弱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinruo.md)
+
 <p><span class="chinese">在这儿她生活幸福得多，尽管是由贫弱的亲戚关系和依靠他们的施舍维系。</span><span class="english">Here she was much happier, despite being the poor relation, dependent on  charity.</span></p>
 
 <p><span class="chinese">容闳回国后，看到了清政府的腐朽落后和国家的贫弱。面对现实，他忧国忧民。</span><span class="english">But he returned only to find a poverty-striken country with a corrupted government.</span></p>

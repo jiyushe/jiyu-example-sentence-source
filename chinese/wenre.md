@@ -1,5 +1,7 @@
 # 温热
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenre.md)
+
 <p><span class="chinese">用温热的墨西哥玉米饼佐餐。</span><span class="english">Serve with warm corn tortillas.</span></p>
 
 <p><span class="chinese">温热的涂油式阿育吠陀风格</span><span class="english">Ayurvedic style with warm sesame oil</span></p>

@@ -1,5 +1,7 @@
 # shrunk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shrunk.md)
+
 <p><span class="chinese">你把我的裤子洗缩水了！</span><span class="english">You have shrunk my pants!</span></p>
 
 <p><span class="chinese">那套衣服缩得走了样。</span><span class="english">The suit has shrunk out of shape.</span></p>

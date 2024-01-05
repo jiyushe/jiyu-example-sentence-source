@@ -1,5 +1,7 @@
 # camille
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/camille.md)
+
 <p><span class="chinese">青钢影简直无敌，谁能够制裁？</span><span class="english">Camille invincible, who can sanction?</span></p>
 
 <p><span class="chinese">国家有远见的领导人项目是由卡米尔？考斯比创办的。</span><span class="english">Camille cosby started the national visionary leadership project.</span></p>

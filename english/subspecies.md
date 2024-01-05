@@ -1,5 +1,7 @@
 # subspecies
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subspecies.md)
+
 <p><span class="chinese">已知的八种虎类亚种中现仅存五种。</span><span class="english">Of the eight known tiger subspecies only five remain.</span></p>
 
 <p><span class="chinese">斑驴是南非草原斑马的一个亚种。</span><span class="english">The Quagga was a southern subspecies of the Plains Zebra.</span></p>

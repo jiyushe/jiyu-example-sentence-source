@@ -1,5 +1,7 @@
 # 喜怒哀乐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinuaile.md)
+
 <p><span class="chinese">为什么在游戏里也有喜怒哀乐？</span><span class="english">Why is there also feeling in game?</span></p>
 
 <p><span class="chinese">我们相聚在一起分享喜怒哀乐。</span><span class="english">We get together and catch up and share our joys and sorrows.</span></p>

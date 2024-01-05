@@ -1,5 +1,7 @@
 # 开门见山
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaimenjianshan.md)
+
 <p><span class="chinese">这种威胁还开门见山地直奔底线。</span><span class="english">The threat goes straight to the bottom line, too.</span></p>
 
 <p><span class="chinese">接下来你要做的是，开门见山地要求读者进行评论。</span><span class="english">The next thing you need to do is specifically ask for comments.</span></p>

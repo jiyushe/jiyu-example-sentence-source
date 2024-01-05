@@ -1,5 +1,7 @@
 # 忍痛割爱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rentonggeai.md)
+
 <p><span class="chinese">因精力不够故忍痛割爱！</span><span class="english">So reluctantly must sell due to not enough energy!</span></p>
 
 <p><span class="chinese">如果忍痛割爱不加掼打奶油，那么卡路里数可以降到457。</span><span class="english">Take away the whipped cream and it has 457 calories.</span></p>

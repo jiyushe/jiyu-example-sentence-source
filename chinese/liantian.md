@@ -1,5 +1,7 @@
 # 连天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liantian.md)
+
 <p><span class="chinese">乏味的演讲让我呵欠连天。</span><span class="english">Boring lectures make me yawn.</span></p>
 
 <p><span class="chinese">一切全是土色的，连天也一样。</span><span class="english">Everything was dirt-colored, even the sky.</span></p>

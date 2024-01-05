@@ -1,5 +1,7 @@
 # insolence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insolence.md)
+
 <p><span class="chinese">她的态度有几分傲慢。</span><span class="english">His manner partakes of insolence.</span></p>
 
 <p><span class="chinese">他的态度带有几分傲慢。</span><span class="english">His manner partakes of insolence.</span></p>

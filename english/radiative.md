@@ -1,5 +1,7 @@
 # radiative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radiative.md)
+
 <p><span class="chinese">推出了此类换能器的辐射阻抗。</span><span class="english">The radiative imPedance on comPosite transducer was derived.</span></p>
 
 <p><span class="chinese">本文研究强激光对中子-核辐射俘获反应过程的影响。</span><span class="english">This paper investigates laser-induced neutron radiative capture reaction.</span></p>

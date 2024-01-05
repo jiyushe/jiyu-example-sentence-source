@@ -1,5 +1,7 @@
 # 皮鞋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pixie.md)
+
 <p><span class="chinese">黑皮鞋。</span><span class="english">Black leather shoes.</span></p>
 
 <p><span class="chinese">你能给我的皮鞋擦一擦油吗？</span><span class="english">Can you oil my leather shoes?</span></p>

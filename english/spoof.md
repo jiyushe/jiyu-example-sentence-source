@@ -1,5 +1,7 @@
 # spoof
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spoof.md)
+
 <p><span class="chinese">我喜欢好的恶搞电影。</span><span class="english">I like a good spoof movie.</span></p>
 
 <p><span class="chinese">这种质朴冷酷的原教旨主义也许只是一种讥讽？</span><span class="english">Is this countrified bleak fundamentalism a spoof?</span></p>

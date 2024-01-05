@@ -1,5 +1,7 @@
 # 皆大欢喜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiedahuanxi.md)
+
 <p><span class="chinese">所以这会是一个皆大欢喜的好消息。</span><span class="english">It would be good news all round.</span></p>
 
 <p><span class="chinese">同时，坦克，但用砂纸皆大欢喜。</span><span class="english">The same tank but sanded nicely.</span></p>

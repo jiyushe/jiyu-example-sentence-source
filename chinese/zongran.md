@@ -1,5 +1,7 @@
 # 纵然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongran.md)
+
 <p><span class="chinese">纵然发现光景绵长。</span><span class="english">Never found was long.</span></p>
 
 <p><span class="chinese">纵然发现光景绵长。</span><span class="english">Even though it is found.</span></p>

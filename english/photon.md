@@ -1,5 +1,7 @@
 # photon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photon.md)
+
 <p><span class="chinese">光子发射，可能。</span><span class="english">Photon emission, perhaps.</span></p>
 
 <p><span class="chinese">LF1激光测距仪是一种光子雷达系统。</span><span class="english">LF1 LRF is a photon Radar system, t.</span></p>

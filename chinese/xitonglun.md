@@ -1,5 +1,7 @@
 # 系统论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xitonglun.md)
+
 <p><span class="chinese">系统论是走向科学统一的重要一步。</span><span class="english">Systems theory is an important step toward scientific unity.</span></p>
 
 <p><span class="chinese">从系统论的角度而论，企业是社会的细胞。</span><span class="english">Frow the viewpoint of system theory an enterprise is a cell of society.</span></p>

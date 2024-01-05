@@ -1,5 +1,7 @@
 # strangles
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strangles.md)
+
 <p><span class="chinese">但大多时候，这一文化却是将公司束缚得几近窒息。</span><span class="english">But most of the time it strangles a company.</span></p>
 
 <p><span class="chinese">绞喉是一个可以把人拧死的装置.</span><span class="english">The garrote is a device that strangles a person to death.</span></p>

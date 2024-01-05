@@ -1,5 +1,7 @@
 # betook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/betook.md)
+
 <p><span class="chinese">他进城去了。</span><span class="english">He betook himself to town.</span></p>
 
 <p><span class="chinese">她虔诚地斋戒。</span><span class="english">She betook herself to fasting.</span></p>

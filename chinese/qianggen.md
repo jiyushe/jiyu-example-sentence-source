@@ -1,5 +1,7 @@
 # 墙根
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianggen.md)
+
 <p><span class="chinese">墙根的雪形成了雪团。</span><span class="english">The snow had packed against the wall.</span></p>
 
 <p><span class="chinese">南墙根成了我们大杂院的菜园子。</span><span class="english">Southern wall into our courtyard garden.</span></p>

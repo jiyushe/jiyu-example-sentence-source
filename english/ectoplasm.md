@@ -1,5 +1,7 @@
 # ectoplasm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ectoplasm.md)
+
 <p><span class="chinese">科学家也以相似方式对流质进行研究。</span><span class="english">Ectoplasm has been studied in a similar fashion.</span></p>
 
 <p><span class="chinese">解散由星质构成的目标。</span><span class="english">Dismiss Ectoplasm. Dissipates ectoplasmic targets.</span></p>

@@ -1,5 +1,7 @@
 # polymorphism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polymorphism.md)
+
 <p><span class="chinese">什么是多态性？</span><span class="english">What is polymorphism?</span></p>
 
 <p><span class="chinese">孟克。部分马品种血液蛋白多态性研究。</span><span class="english">Study on the Blood Protein Polymorphism of Horse.</span></p>

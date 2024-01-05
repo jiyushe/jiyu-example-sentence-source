@@ -1,5 +1,7 @@
 # polynomial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polynomial.md)
+
 <p><span class="chinese">一个完整四次的多项式由15项组成。</span><span class="english">A complete quartic polynomial consists of 15 terms.</span></p>
 
 <p><span class="chinese">代数AQ叫做量子多项式代数。</span><span class="english">The algebra AQ is called a quantum polynomial algebra.</span></p>

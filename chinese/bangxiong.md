@@ -1,5 +1,7 @@
 # 帮凶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bangxiong.md)
+
 <p><span class="chinese">他泄露了帮凶。</span><span class="english">He gave away his accomplices.</span></p>
 
 <p><span class="chinese">我们谴责保六员警是帮凶！</span><span class="english">We condemn the security police is accomplices!</span></p>

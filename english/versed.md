@@ -1,5 +1,7 @@
 # versed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/versed.md)
+
 <p><span class="chinese">我一向对经典音乐很有研究。</span><span class="english">I am well versed in classic music.</span></p>
 
 <p><span class="chinese">看到这幅画就知道这位画家的画功很深。</span><span class="english">Seeing the picture, we see that this painter is very versed.</span></p>

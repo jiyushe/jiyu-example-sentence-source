@@ -1,5 +1,7 @@
 # flamethrower
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flamethrower.md)
+
 <p><span class="chinese">喷火器喷出火焰。</span><span class="english">The flamethrower jetted out flames.</span></p>
 
 <p><span class="chinese">一架火焰喷射器又太扎眼。</span><span class="english">A flamethrower is just an attention-getter.</span></p>

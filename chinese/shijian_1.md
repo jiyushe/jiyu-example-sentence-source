@@ -1,5 +1,7 @@
 # 识见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shijian_1.md)
+
 <p><span class="chinese">他松脆的识见她来吞咽，头顶一滴露珠。</span><span class="english">His crisp knowledge is devoured by her, beneath a dew.</span></p>
 
 <p><span class="chinese">杰出的文学家沈约也是卓有识见的史学家。</span><span class="english">Shen Yue was an outstanding man of letters and historian with excellent judgment.</span></p>

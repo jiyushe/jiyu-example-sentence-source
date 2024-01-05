@@ -1,5 +1,7 @@
 # behring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/behring.md)
+
 <p><span class="chinese">挪威的死不悔改的大规模杀手，安德斯贝林Breivik，现已被逮捕。</span><span class="english">Norway's unrepentant mass killer, Anders Behring Breivik, is now under arrest.</span></p>
 
 <p><span class="chinese">他们本以为穿着警察制服的Breivk是去帮他们的。</span><span class="english">They thought Behring Breivik, who was dressed in a police uniform, was there to help them.</span></p>

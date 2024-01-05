@@ -1,5 +1,7 @@
 # fictional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fictional.md)
+
 <p><span class="chinese">福克纳在另一方面有异议--情节的虚构度不够。</span><span class="english">It's not fictional enough.</span></p>
 
 <p><span class="chinese">遇见你纯属意外，爱上你纯属虚构。</span><span class="english">Meet you, love you purely fictional.</span></p>

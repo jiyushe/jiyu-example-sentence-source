@@ -1,5 +1,7 @@
 # 表述
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaoshu_1.md)
+
 <p><span class="chinese">这个表述法有用,为什么</span><span class="english">It's useful why?</span></p>
 
 <p><span class="chinese">楼上有一个表述成了我害怕你爱上我。</span><span class="english">I'm afraid i gona love you.</span></p>

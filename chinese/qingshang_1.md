@@ -1,5 +1,7 @@
 # 情商
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingshang_1.md)
+
 <p><span class="chinese">他的智商很高，但他的情商几乎是零。</span><span class="english">His IQ is high, but he has almost no EQ.</span></p>
 
 <p><span class="chinese">你因智商受聘，因情商升迁。</span><span class="english">While IQ gets you hired, EQ gets you promoted.</span></p>

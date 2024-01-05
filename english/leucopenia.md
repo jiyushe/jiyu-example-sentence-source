@@ -1,5 +1,7 @@
 # leucopenia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leucopenia.md)
+
 <p><span class="chinese">用于肿瘤患者放、化疗后的白细胞减少症。</span><span class="english">Treat leucopenia after radiochemotherapy for cancer patient.</span></p>
 
 <p><span class="chinese">患者在抗风湿药物治疗中出现腹泻、发热及粒细胞缺乏等表现。</span><span class="english">The patient developed diarrhea, fever and leucopenia during anti-rheumatoid drug treatments.</span></p>

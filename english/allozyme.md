@@ -1,5 +1,7 @@
 # allozyme
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allozyme.md)
+
 <p><span class="chinese">种群VI表现最突出，共有4条特有谱带。</span><span class="english">VI is salient which has 4 unique allozyme bands.</span></p>
 
 <p><span class="chinese">同工酶数据显示义乌小鲵和安吉小鲵之间存在中等水平的种间差异。</span><span class="english">Allozyme data revealed a moderate interspecific difference between Hynobius amjiensis and H.</span></p>

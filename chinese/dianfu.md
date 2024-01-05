@@ -1,5 +1,7 @@
 # 颠覆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dianfu.md)
+
 <p><span class="chinese">一切都被颠覆了。</span><span class="english">It upsets everything.</span></p>
 
 <p><span class="chinese">颠覆社会秩序</span><span class="english">Upsetting the social order.</span></p>

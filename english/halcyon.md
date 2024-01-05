@@ -1,5 +1,7 @@
 # halcyon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/halcyon.md)
+
 <p><span class="chinese">他怀念儿时平静幸福的日子。</span><span class="english">He yearned for the halcyon days of his childhood.</span></p>
 
 <p><span class="chinese">穿过宁静的水域，你会看见远处丹霞浮水。</span><span class="english">Cross halcyon water area, you can see swim of far red glow.</span></p>

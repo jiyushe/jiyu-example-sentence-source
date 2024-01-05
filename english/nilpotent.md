@@ -1,5 +1,7 @@
 # nilpotent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nilpotent.md)
+
 <p><span class="chinese">黎曼流形上的幂零结构指什么？</span><span class="english">What is nilpotent structure on Riemannian manifold?</span></p>
 
 <p><span class="chinese">此外，本文还讨论了幂零指数的若干性质。</span><span class="english">Moreover, we shall discuss some properties of nilpotent exponents.</span></p>

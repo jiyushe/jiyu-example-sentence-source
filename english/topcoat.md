@@ -1,5 +1,7 @@
 # topcoat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/topcoat.md)
+
 <p><span class="chinese">超亮光泽，不脱落剥离。</span><span class="english">Super Glossy Topcoat Guaranteed not to chip or peel.</span></p>
 
 <p><span class="chinese">汽车修补，机械，船舶，一般工业用面漆。</span><span class="english">Topcoat for car refinishes , machine, boat and general.</span></p>

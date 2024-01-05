@@ -1,5 +1,7 @@
 # redd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redd.md)
+
 <p><span class="chinese">红灯停，绿灯行，黄等来了等一等！</span><span class="english">Redd light stop, green line, yellow etc to wait!</span></p>
 
 <p><span class="chinese">通过这样做，REDD应该可以为缓解和适应气候变化做出贡献。</span><span class="english">By doing so, REDD should contribute to climate change mitigation and adaptation.</span></p>

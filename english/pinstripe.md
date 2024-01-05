@@ -1,5 +1,7 @@
 # pinstripe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pinstripe.md)
+
 <p><span class="chinese">果实具梳状细条纹。</span><span class="english">Fructification provides pectination pinstripe.</span></p>
 
 <p><span class="chinese">乔布斯穿着细条纹西服，在介绍他的新产品。</span><span class="english">Presenting his newborn babies in his best pinstripe suit.</span></p>

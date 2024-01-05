@@ -1,5 +1,7 @@
 # frank
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frank.md)
+
 <p><span class="chinese">请让我坦率直言。</span><span class="english">Let me be frank.</span></p>
 
 <p><span class="chinese">“是啊，”弗兰克说。</span><span class="english">Yeah," Frank said.</span></p>

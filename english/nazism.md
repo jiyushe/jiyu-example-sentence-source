@@ -1,5 +1,7 @@
 # nazism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nazism.md)
+
 <p><span class="chinese">看看纳粹主义的理念。</span><span class="english">Look at the ideals of Nazism.</span></p>
 
 <p><span class="chinese">纳粹不仅仅是杀气腾腾的国家主义。</span><span class="english">Nazism was not only nationalism run amok.</span></p>

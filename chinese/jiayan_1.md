@@ -1,5 +1,7 @@
 # 家宴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiayan_1.md)
+
 <p><span class="chinese">在所有的逾越节家宴都完成之后呢？</span><span class="english">And when the Seders are all done?</span></p>
 
 <p><span class="chinese">我们通常以丰盛的合家宴和鞭炮来庆祝新年。</span><span class="english">We usually have the celebration with feasts and firecrackers.</span></p>

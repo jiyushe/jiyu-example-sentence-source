@@ -1,5 +1,7 @@
 # cental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cental.md)
+
 <p><span class="chinese">我毕业于中南大学和哈佛大学。</span><span class="english">I attended Cental South University and Harvard.</span></p>
 
 <p><span class="chinese">于是，我捡起石头朝河中央掷去。</span><span class="english">Then, I picked a stone and throwed towards the cental of the river.</span></p>

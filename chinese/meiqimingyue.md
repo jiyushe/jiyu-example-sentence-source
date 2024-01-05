@@ -1,5 +1,7 @@
 # 美其名曰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meiqimingyue.md)
+
 <p><span class="chinese">大多数都美其名曰运动或者休闲俱乐部。</span><span class="english">Most are euphemistically called sports or leisure clubs.</span></p>
 
 <p><span class="chinese">他们美其名曰平衡，我却宁愿称之为虚伪的狗屎。</span><span class="english">They call it the balance. I call it hypocritical bullshit.</span></p>

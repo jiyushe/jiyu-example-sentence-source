@@ -1,5 +1,7 @@
 # 资力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zili_6.md)
+
 <p><span class="chinese">这家外国商行没有多大资力。</span><span class="english">This foreign firm has little means.</span></p>
 
 <p><span class="chinese">我见过集很多天赋及资力于一身但却悲哀地失败的人。</span><span class="english">I've seen people have everything delivered to them on a silver platter and fail miserably.</span></p>

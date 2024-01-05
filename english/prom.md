@@ -1,5 +1,7 @@
 # prom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prom.md)
+
 <p><span class="chinese">跳舞会的事?。</span><span class="english">Prom committee thing?</span></p>
 
 <p><span class="chinese">参加投票选举舞会之王和王后么?。</span><span class="english">Vote for prom king and queen?</span></p>

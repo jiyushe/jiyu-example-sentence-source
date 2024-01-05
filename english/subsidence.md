@@ -1,5 +1,7 @@
 # subsidence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subsidence.md)
+
 <p><span class="chinese">没有假体下沈和明显偏移。</span><span class="english">There was no prosthesis subsidence or excursion.</span></p>
 
 <p><span class="chinese">北塘凹陷具有幕式沉降的特征。</span><span class="english">Beitang Sag had a feature of episodic subsidence.</span></p>

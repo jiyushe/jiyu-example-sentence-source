@@ -1,5 +1,7 @@
 # laban
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laban.md)
+
 <p><span class="chinese">他问他们说，拿鹤的孙子拉班，你们认识吗。</span><span class="english">And he said unto them, Know ye Laban the son of Nahor?</span></p>
 
 <p><span class="chinese">雅各向拉班提出了怎样的交易意见而拉班也接受了？</span><span class="english">What surprising deal did Jacob propose and Laban agree to?</span></p>

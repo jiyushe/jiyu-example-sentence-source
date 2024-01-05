@@ -1,5 +1,7 @@
 # 受制于人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouzhiyuren.md)
+
 <p><span class="chinese">不要施加压力，不要受制于人。</span><span class="english">Don’t give into pressure.</span></p>
 
 <p><span class="chinese">如果你不主动管理自己的一生，那么你将受制于人。</span><span class="english">If you don't run your own life, somebody else will.</span></p>

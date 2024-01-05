@@ -1,5 +1,7 @@
 # centrism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/centrism.md)
+
 <p><span class="chinese">经济团队另外一个引人注目的特点是它的中间性。</span><span class="english">The team's other striking feature is its centrism.</span></p>
 
 <p><span class="chinese">潘恩先生的中间路线在一定程度上源于个人的政治信仰。</span><span class="english">Mr Penn's centrism is partly a matter of personal sympathies.</span></p>

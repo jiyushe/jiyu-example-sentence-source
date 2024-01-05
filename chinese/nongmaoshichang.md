@@ -1,5 +1,7 @@
 # 农贸市场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongmaoshichang.md)
+
 <p><span class="chinese">到农贸市场啷块走？</span><span class="english">How can I go to the market?</span></p>
 
 <p><span class="chinese">我们一起去农贸市场吧！</span><span class="english">Let's go to the farmer's market.</span></p>

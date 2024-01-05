@@ -1,5 +1,7 @@
 # 奉养
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengyang.md)
+
 <p><span class="chinese">我要如何奉养女神?。</span><span class="english">How may I serve the goddess?</span></p>
 
 <p><span class="chinese">所以他盖了一座小屋，在那里奉养母亲。</span><span class="english">So he would build a little house and care for her there.</span></p>

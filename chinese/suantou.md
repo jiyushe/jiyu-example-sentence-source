@@ -1,5 +1,7 @@
 # 蒜头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suantou.md)
+
 <p><span class="chinese">他有个大蒜头鼻子。</span><span class="english">He has a huge, bulbous nose.</span></p>
 
 <p><span class="chinese">剁碎蒜头及姜。</span><span class="english">Chop garlic and ginger finely.</span></p>

@@ -1,5 +1,7 @@
 # 退伍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuiwu.md)
+
 <p><span class="chinese">这名士兵光荣退伍了。</span><span class="english">The soldier was honorably discharged.</span></p>
 
 <p><span class="chinese">我女亲便是第一次天下除夜战的退伍甲士。</span><span class="english">My father was a veteran of World War I.</span></p>

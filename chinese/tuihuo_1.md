@@ -1,5 +1,7 @@
 # 退火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuihuo_1.md)
+
 <p><span class="chinese">你说的退火是什么意思?。</span><span class="english">What do you mean by anneal?</span></p>
 
 <p><span class="chinese">变性，退火，和延伸。</span><span class="english">Denaturing, annealing, and extending.</span></p>

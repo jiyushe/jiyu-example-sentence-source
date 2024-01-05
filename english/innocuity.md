@@ -1,5 +1,7 @@
 # innocuity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/innocuity.md)
+
 <p><span class="chinese">聚酯增塑剂基本无毒。</span><span class="english">The polyester plasticizers are basically innocuity.</span></p>
 
 <p><span class="chinese">不仅实现了垃圾的减容化、无害化，还实现了熔融渣的资源化。</span><span class="english">The volume reduction and innocuity realized dring incineration, the slag can be used to do material of construction.</span></p>

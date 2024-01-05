@@ -1,5 +1,7 @@
 # 起步
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qibu_1.md)
+
 <p><span class="chinese">卢克索是有点当你起步之处。</span><span class="english">Luxor is kinda where you start from.</span></p>
 
 <p><span class="chinese">贫民窟之游在肯尼亚正处于起步阶段。</span><span class="english">Slum tourism is taking off in Kenya.</span></p>

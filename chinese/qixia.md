@@ -1,5 +1,7 @@
 # 旗下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qixia.md)
+
 <p><span class="chinese">皇家宠物食品公司是玛氏旗下的品牌。</span><span class="english">Royal Canin is a division of Mars.</span></p>
 
 <p><span class="chinese">我们在五环旗下祈祷。</span><span class="english">We at five underneath orison of wreaths.</span></p>

@@ -1,5 +1,7 @@
 # dpi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dpi.md)
+
 <p><span class="chinese">你需要一个至少1200分辨率的打印机。</span><span class="english">You will need a printer with a resolution of at least 1200 dpi.</span></p>
 
 <p><span class="chinese">DPI是政府封锁网络流量所采用的最先进的手段。</span><span class="english">DPI is the most refined method that the government has for blocking Internet traffic.</span></p>

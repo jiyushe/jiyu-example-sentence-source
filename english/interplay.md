@@ -1,5 +1,7 @@
 # interplay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interplay.md)
+
 <p><span class="chinese">这就是所谓的能量的相互作用。</span><span class="english">This is called the interplay of shakti.</span></p>
 
 <p><span class="chinese">另请注意变量间相互作用的复杂程度。</span><span class="english">Note also how complex the interplay of variables can be.</span></p>

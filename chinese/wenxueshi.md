@@ -1,5 +1,7 @@
 # 文学史
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenxueshi.md)
+
 <p><span class="chinese">文学史上的田汉以戏剧家闻名。</span><span class="english">Tian Han is known as a dramatist in literature history.</span></p>
 
 <p><span class="chinese">李东阳是明代文学史上第一个由明王朝造就的诗人。</span><span class="english">Li Dong-yang was the first poet produced in Ming Dynasty.</span></p>

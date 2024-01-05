@@ -1,5 +1,7 @@
 # unfailingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unfailingly.md)
+
 <p><span class="chinese">这条河经久不衰地为这个城市供水。</span><span class="english">The river supplies water to the city unfailingly.</span></p>
 
 <p><span class="chinese">他的虔诚始终不渝，一直把他的信仰看得比绝大多数事物都重要。</span><span class="english">He was unfailingly pious, always taking his religion more seriously than most.</span></p>

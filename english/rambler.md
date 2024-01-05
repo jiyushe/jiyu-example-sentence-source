@@ -1,5 +1,7 @@
 # rambler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rambler.md)
+
 <p><span class="chinese">勘探真正深邃的洞穴，决非星期日下午散步人的任务。</span><span class="english">Exploring really deep caves is not a task for the Sunday afternoon rambler.</span></p>
 
 <p><span class="chinese">在参试的94个品种或群体中，仅润布勒杂花苜蓿的一个群体表现为免疫。</span><span class="english">Among 94 varieties evaluated for disease resistance only one of Rambler populations was immune.</span></p>

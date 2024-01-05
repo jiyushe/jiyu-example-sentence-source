@@ -1,5 +1,7 @@
 # tedder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tedder.md)
+
 <p><span class="chinese">吉姆特德更多。</span><span class="english">Jim Tedder has more.</span></p>
 
 <p><span class="chinese">这是VOA美国之音慢速英语。我吉姆特德。</span><span class="english">And that's the VOA Special English . I'm Jim Tedder.</span></p>

@@ -1,5 +1,7 @@
 # propane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/propane.md)
+
 <p><span class="chinese">我用丙烷检查有没有真空泄漏。</span><span class="english">I used propane to check for vacuum leaks.</span></p>
 
 <p><span class="chinese">可能还有些烧丙烷的汽车和卡丁车，但一时半会也搞不到。</span><span class="english">There are some propane based cars and Go-Karts.</span></p>

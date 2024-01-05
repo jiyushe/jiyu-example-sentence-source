@@ -1,5 +1,7 @@
 # blooded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blooded.md)
+
 <p><span class="chinese">他们是白肤绿血的。</span><span class="english">They were white skinned and blue blooded.</span></p>
 
 <p><span class="chinese">纯种的牛被引进用以改进牛的血统。</span><span class="english">Blooded cattle were brought in to improve the stock.</span></p>

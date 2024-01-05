@@ -1,5 +1,7 @@
 # cluck
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cluck.md)
+
 <p><span class="chinese">母鸡咯咯叫。</span><span class="english">Hens cluck.</span></p>
 
 <p><span class="chinese">他很英俊，却是个笨蛋。</span><span class="english">He is handsome, but a dumb cluck.</span></p>

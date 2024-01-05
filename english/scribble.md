@@ -1,5 +1,7 @@
 # scribble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scribble.md)
+
 <p><span class="chinese">在墙上乱写乱画是不对的。</span><span class="english">Don't scribble on the wall.</span></p>
 
 <p><span class="chinese">不准你在墙上乱涂乱画。</span><span class="english">You are not to scribble on the wall.</span></p>

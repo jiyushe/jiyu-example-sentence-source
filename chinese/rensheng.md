@@ -1,5 +1,7 @@
 # 人生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rensheng.md)
+
 <p><span class="chinese">我的人生？</span><span class="english">My life?</span></p>
 
 <p><span class="chinese">人生是一场苦旅。</span><span class="english">Life is a writer.</span></p>

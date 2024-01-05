@@ -1,5 +1,7 @@
 # collectable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collectable.md)
+
 <p><span class="chinese">什么样的电影海报有收藏价值？</span><span class="english">What makes a movie poster collectable?</span></p>
 
 <p><span class="chinese">一个充满了可收集成绩的游乐场！</span><span class="english">A funfair full of collectable achievements!</span></p>

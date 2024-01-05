@@ -1,5 +1,7 @@
 # 谨言慎行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinyanshenxing.md)
+
 <p><span class="chinese">在这个时候，循规蹈矩等于罪恶，谨言慎行就是愚蠢。</span><span class="english">These are times when virtue is vice and prudence is folly.</span></p>
 
 <p><span class="chinese">我们只能期望涉及的各方在将来能够谨言慎行。</span><span class="english">Wecan only hope that everyone involved will act carefully.</span></p>

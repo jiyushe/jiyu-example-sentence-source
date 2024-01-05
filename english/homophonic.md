@@ -1,5 +1,7 @@
 # homophonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homophonic.md)
+
 <p><span class="chinese">因为两者是谐音，时下往往混淆。</span><span class="english">Because there is homophonic , now often confused.</span></p>
 
 <p><span class="chinese">五个福娃名字的谐音加起来正是北京欢迎你！</span><span class="english">The homophonic of five FUMA name add exactly. Peking is welcome you!</span></p>

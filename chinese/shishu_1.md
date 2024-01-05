@@ -1,5 +1,7 @@
 # 实数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishu_1.md)
+
 <p><span class="chinese">看看到底是个实数还是个浮点数？</span><span class="english">Is this a real or a float?</span></p>
 
 <p><span class="chinese">老板今天著实数落了我一通。</span><span class="english">The boss really gave me hell today.</span></p>

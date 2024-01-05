@@ -1,5 +1,7 @@
 # may
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/may.md)
+
 <p><span class="chinese">你兴许会问。</span><span class="english">You may ask.</span></p>
 
 <p><span class="chinese">也许他爱绫卿。</span><span class="english">He may love LQ.</span></p>

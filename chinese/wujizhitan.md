@@ -1,5 +1,7 @@
 # 无稽之谈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wujizhitan.md)
+
 <p><span class="chinese">转世轮回是确有其事还是无稽之谈？</span><span class="english">Is reincarnation fact or fable?</span></p>
 
 <p><span class="chinese">天文学家们说，所有这些都是无稽之谈。</span><span class="english">Bll of it, astronomers say, is bunk.</span></p>

@@ -1,5 +1,7 @@
 # 种族主义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongzuzhuyi.md)
+
 <p><span class="chinese">只因我是个种族主义者。</span><span class="english">Just that I'm racist.</span></p>
 
 <p><span class="chinese">整个事情带有种族主义色彩。</span><span class="english">The whole thing is racist.</span></p>

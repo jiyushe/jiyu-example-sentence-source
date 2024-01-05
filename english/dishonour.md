@@ -1,5 +1,7 @@
 # dishonour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dishonour.md)
+
 <p><span class="chinese">摒弃污点和羞耻。</span><span class="english">From dishonour and from shame.</span></p>
 
 <p><span class="chinese">他宁死也不受侮辱。</span><span class="english">He preferred death to dishonour.</span></p>

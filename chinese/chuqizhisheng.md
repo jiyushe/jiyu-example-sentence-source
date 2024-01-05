@@ -1,5 +1,7 @@
 # 出奇制胜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuqizhisheng.md)
+
 <p><span class="chinese">面试过程中，讲好第一句话，常常可以出奇制胜。</span><span class="english">Interview process, talking about good first sentence, often a surprise move.</span></p>
 
 <p><span class="chinese">尖刀班出奇制胜，捣毁了敌人指挥部。</span><span class="english">The bayonet squad made a surprise attack and wiped out the enemy's command post.</span></p>

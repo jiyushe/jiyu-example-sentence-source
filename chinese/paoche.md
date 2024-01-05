@@ -1,5 +1,7 @@
 # 跑车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paoche.md)
+
 <p><span class="chinese">那部新跑车很棒。</span><span class="english">That new sports car is a beaut.</span></p>
 
 <p><span class="chinese">呜的一声，一辆跑车疾驶而过。</span><span class="english">Vroom! A sports car roared past.</span></p>

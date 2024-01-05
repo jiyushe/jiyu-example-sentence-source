@@ -1,5 +1,7 @@
 # 重洋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongyang.md)
+
 <p><span class="chinese">远隔重洋，日复一日。</span><span class="english">Oceans apart day after day.</span></p>
 
 <p><span class="chinese">远隔重洋，一天又一天。</span><span class="english">Oceans apart, day after day.</span></p>

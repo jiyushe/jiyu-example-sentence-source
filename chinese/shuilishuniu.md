@@ -1,5 +1,7 @@
 # 水利枢纽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuilishuniu.md)
+
 <p><span class="chinese">大隆水利枢纽工程是海南省的重点工程。</span><span class="english">Dalong Water Control Project is a key project in Hainan Province.</span></p>
 
 <p><span class="chinese">尼尔基水利枢纽是嫩江干流控制性工程。</span><span class="english">Nierji water complex is a control project in Nenjiang river mainstream.</span></p>

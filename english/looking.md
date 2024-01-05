@@ -1,5 +1,7 @@
 # looking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/looking.md)
+
 <p><span class="chinese">我开始寻找。</span><span class="english">I began looking.</span></p>
 
 <p><span class="chinese">这是看坏。</span><span class="english">It's looking bad.</span></p>

@@ -1,5 +1,7 @@
 # ankylosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ankylosis.md)
+
 <p><span class="chinese">他的商品经济思想是正确与错误的胶着。</span><span class="english">His goods economy thought is correct the ankylosis with the mistake.</span></p>
 
 <p><span class="chinese">目的探讨颞下颌关节真性强直的手术治疗和避免术后复发。</span><span class="english">Objective To study the surgical treatment of ankylosis of the temporomandibular joint.</span></p>

@@ -1,5 +1,7 @@
 # chartreuse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chartreuse.md)
+
 <p><span class="chinese">然后，它们长出了黄绿色绒毛，在阳光中产生了淡淡的清新的气息。</span><span class="english">Later, they grow chartreuse fuzz, making pale green auras in the sun.</span></p>
 
 <p><span class="chinese">接着会张出黄绿色的绒叶，在阳光下映出淡绿的光辉。</span><span class="english">Later, they grow chartreuse fuzz , making pale green auras in the sun.</span></p>

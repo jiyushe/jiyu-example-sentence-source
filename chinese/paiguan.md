@@ -1,5 +1,7 @@
 # 排灌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paiguan.md)
+
 <p><span class="chinese">挖了一些支渠，形成了一个排灌系统。</span><span class="english">Branch canals and ditches were dug to form a system of irrigation and drainage.</span></p>
 
 <p><span class="chinese">在农业生产中，泵是主要的排灌机械。</span><span class="english">In agricultural production, pump irrigation and drainage are the main machinery.</span></p>

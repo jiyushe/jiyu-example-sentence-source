@@ -1,5 +1,7 @@
 # dislike
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dislike.md)
+
 <p><span class="chinese">你不喜欢她吗？</span><span class="english">Do you dislike her?</span></p>
 
 <p><span class="chinese">我讨厌她轻浮的举止。</span><span class="english">I dislike her frivolity.</span></p>

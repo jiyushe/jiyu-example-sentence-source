@@ -1,5 +1,7 @@
 # photoperiod
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photoperiod.md)
+
 <p><span class="chinese">塔胞藻在光照周期为16L∶8D时生长最快。</span><span class="english">The alga had the maximal growth at the photoperiod of 16L∶8D.</span></p>
 
 <p><span class="chinese">光周期对幼虫滞育的影响不大。</span><span class="english">Photoperiod brings for the little effect on the diapause of larvae.</span></p>

@@ -1,5 +1,7 @@
 # brewery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brewery.md)
+
 <p><span class="chinese">他在一酿造厂有股份。</span><span class="english">He has an interest in a brewery.</span></p>
 
 <p><span class="chinese">后来，有了牛栏山酒厂。</span><span class="english">Later, had kraal mountain brewery.</span></p>

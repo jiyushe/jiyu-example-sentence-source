@@ -1,5 +1,7 @@
 # clamper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clamper.md)
+
 <p><span class="chinese">它是在螺丝刀刀杆上设置一个夹持器。</span><span class="english">A clamper is arranged on a tool bar of a screwdriver.</span></p>
 
 <p><span class="chinese">一种带夹持器的螺丝刀。</span><span class="english">The utility model relates to a screwdriver with a clamper.</span></p>

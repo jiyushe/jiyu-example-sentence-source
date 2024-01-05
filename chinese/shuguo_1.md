@@ -1,5 +1,7 @@
 # 蜀国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuguo_1.md)
+
 <p><span class="chinese">因此吴国和蜀国联合起来抗曹。</span><span class="english">Therefore, Wu and Shu united to defend his attack.</span></p>
 
 <p><span class="chinese">若是蜀国一统天下了，斩与不斩就都是对的了。</span><span class="english">If Shu rule all the land, chopping and not cut is right.</span></p>

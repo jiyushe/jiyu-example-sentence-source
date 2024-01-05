@@ -1,5 +1,7 @@
 # passing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/passing.md)
+
 <p><span class="chinese">时间在流逝。</span><span class="english">Time is passing.</span></p>
 
 <p><span class="chinese">风正从那里经过。</span><span class="english">Thee wind is passing by.</span></p>

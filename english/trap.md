@@ -1,5 +1,7 @@
 # trap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trap.md)
+
 <p><span class="chinese">狮子触动了陷井。</span><span class="english">The lion sprang a trap.</span></p>
 
 <p><span class="chinese">这是一个键盘陷阱。</span><span class="english">This is a keyboard trap.</span></p>

@@ -1,5 +1,7 @@
 # bound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bound.md)
+
 <p><span class="chinese">电子都被键合在一起。</span><span class="english">They are all bound.</span></p>
 
 <p><span class="chinese">冰把泥土冻实了。</span><span class="english">Ice bound the earth.</span></p>

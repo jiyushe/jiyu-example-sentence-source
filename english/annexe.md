@@ -1,5 +1,7 @@
 # annexe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/annexe.md)
+
 <p><span class="chinese">财富不一定会带来幸福。</span><span class="english">Happiness is not always annexe to wealth.</span></p>
 
 <p><span class="chinese">她已调到附属建筑的办事处去了。</span><span class="english">She's been shunted off to an office in the annexe.</span></p>

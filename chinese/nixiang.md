@@ -1,5 +1,7 @@
 # 逆向
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nixiang.md)
+
 <p><span class="chinese">逆向选择是什么意思呢</span><span class="english">What do I mean by adverse selection?</span></p>
 
 <p><span class="chinese">逆向思维是一种创造性思维。</span><span class="english">Reverse thinking is full of creativities.</span></p>

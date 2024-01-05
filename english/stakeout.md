@@ -1,5 +1,7 @@
 # stakeout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stakeout.md)
+
 <p><span class="chinese">看起来我可以给你的监视任务弄辆轿车。</span><span class="english">Looks like I can hook you up with a sedan for your stakeout.</span></p>
 
 <p><span class="chinese">异常监视与处理保证了程序的健壮性。</span><span class="english">Abnomity stakeout and handling ensured the haleness of program.</span></p>

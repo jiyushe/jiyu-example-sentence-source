@@ -1,5 +1,7 @@
 # 扼制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ezhi.md)
+
 <p><span class="chinese">有效地扼制了欠税的增长势头。</span><span class="english">The upturn of arrears and tax unpaid was well curbed.</span></p>
 
 <p><span class="chinese">你无法单凭在华盛顿发表的激烈言辞来保护以色列、扼制伊朗。</span><span class="english">You don't protect Israel and deter Iran just by talking tough in Washington.</span></p>

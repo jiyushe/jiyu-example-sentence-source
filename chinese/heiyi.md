@@ -1,5 +1,7 @@
 # 黑衣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heiyi.md)
+
 <p><span class="chinese">黑衣男人语调轻缓。</span><span class="english">The man in black spoke softly.</span></p>
 
 <p><span class="chinese">黑衣男子恨默剧，你看到的。</span><span class="english">Men in Black hate mimes you see.</span></p>

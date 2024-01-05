@@ -1,5 +1,7 @@
 # demise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demise.md)
+
 <p><span class="chinese">又一个夜晚，又一次超度。</span><span class="english">Another night, another demise.</span></p>
 
 <p><span class="chinese">图特卡蒙法老神秘死因揭晓了？</span><span class="english">Mystery of King Tut's demise solved?</span></p>

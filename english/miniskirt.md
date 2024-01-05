@@ -1,5 +1,7 @@
 # miniskirt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/miniskirt.md)
+
 <p><span class="chinese">你觉得这配一件迷你裙怎么样?。</span><span class="english">How do you think it gose with a miniskirt?</span></p>
 
 <p><span class="chinese">你觉得这配一件迷你裙怎么样？</span><span class="english">How do you think it goes with a  miniskirt?</span></p>

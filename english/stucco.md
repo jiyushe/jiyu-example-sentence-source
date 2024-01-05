@@ -1,5 +1,7 @@
 # stucco
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stucco.md)
+
 <p><span class="chinese">灰泥地板及残余容器和焚烧痕迹。</span><span class="english">Stucco floor with partial vessels and stains from burning.</span></p>
 
 <p><span class="chinese">研究了聚丙烯纤维对灰泥的增强作用。</span><span class="english">The reinforcement of stucco with polypropylene fiber is studied.</span></p>

@@ -1,5 +1,7 @@
 # 寅吃卯粮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinchimaoliang.md)
+
 <p><span class="chinese">把你的信用卡给我，你花钱总是寅吃卯粮的。</span><span class="english">Give me your credit cards. You're living beyond your means.</span></p>
 
 <p><span class="chinese">美国人寅吃卯粮留在万亿债务，中国人省吃检用无奈万分买单。</span><span class="english">Chinese earned money for their grandchildren's and it's used to pay the debts.</span></p>

@@ -1,5 +1,7 @@
 # 缺少
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/queshao.md)
+
 <p><span class="chinese">她缺少坚定性。</span><span class="english">She lacks resolution.</span></p>
 
 <p><span class="chinese">他还缺少什么呢？</span><span class="english">Does he lack anything?</span></p>

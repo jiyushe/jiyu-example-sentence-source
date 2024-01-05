@@ -1,5 +1,7 @@
 # 清点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingdian_1.md)
+
 <p><span class="chinese">然后他开始清点。</span><span class="english">Then he counted.</span></p>
 
 <p><span class="chinese">请清点一下书籍。</span><span class="english">Please count the books.</span></p>

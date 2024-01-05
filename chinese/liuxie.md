@@ -1,5 +1,7 @@
 # 流泻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liuxie.md)
+
 <p><span class="chinese">一个阳光流泻于曔天的日子。</span><span class="english">Day Of Sunshine In The Skies.</span></p>
 
 <p><span class="chinese">哦．殷红的血滴流泻。</span><span class="english">Oh the bleeding drops of red!</span></p>

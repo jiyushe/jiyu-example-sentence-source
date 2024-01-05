@@ -1,5 +1,7 @@
 # tannic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tannic.md)
+
 <p><span class="chinese">年轻时丹宁强劲，成熟时优雅而圆润。</span><span class="english">Tannic when young, round and elegant if matured.</span></p>
 
 <p><span class="chinese">其中最强音是那怀旧的声音。</span><span class="english">The strongest note in its tannic brew is nostalgia.</span></p>

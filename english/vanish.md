@@ -1,5 +1,7 @@
 # vanish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vanish.md)
+
 <p><span class="chinese">我们的鼻中不再扣环。</span><span class="english">Rings shall vanish from our noses.</span></p>
 
 <p><span class="chinese">当然了，这个婴儿并未胎死腹中。</span><span class="english">Of course, that baby didn't vanish.</span></p>

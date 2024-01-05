@@ -1,5 +1,7 @@
 # 名落孙山
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingluosunshan.md)
+
 <p><span class="chinese">新世界葡萄酒轻松占据了前几名位置，拉菲则“名落孙山”。</span><span class="english">The new world wines came comfortably top. Lafite finished close to last.</span></p>
 
 <p><span class="chinese">今年高考他又名落孙山了。</span><span class="english">This year he failed again in the entrance examination for college students.</span></p>

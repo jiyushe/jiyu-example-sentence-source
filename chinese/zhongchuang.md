@@ -1,5 +1,7 @@
 # 重创
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongchuang.md)
+
 <p><span class="chinese">这是投掷兵可以重创敌军的时候了</span><span class="english">That's where they do it harm.</span></p>
 
 <p><span class="chinese">世界股票，欧元遭受重创后开始反弹</span><span class="english">World Stocks, Euro Rebound After Battering</span></p>

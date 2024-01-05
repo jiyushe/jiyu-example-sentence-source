@@ -1,5 +1,7 @@
 # disembodied
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disembodied.md)
+
 <p><span class="chinese">灵魂能脱离肉体吗？</span><span class="english">Can the soul be disembodied?</span></p>
 
 <p><span class="chinese">他的死亡使其灵魂脱离了躯体。</span><span class="english">His death disembodied his spirits.</span></p>

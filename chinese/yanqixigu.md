@@ -1,5 +1,7 @@
 # 偃旗息鼓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanqixigu.md)
+
 <p><span class="chinese">国家评论上的战争贩子也已经偃旗息鼓了。</span><span class="english">The love of war has gone AWOL at National Review.</span></p>
 
 <p><span class="chinese">最近这斗争似乎偃旗息鼓了。</span><span class="english">Lately a lull seems to have descended on that struggle.</span></p>

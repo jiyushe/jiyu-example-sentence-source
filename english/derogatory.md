@@ -1,5 +1,7 @@
 # derogatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/derogatory.md)
+
 <p><span class="chinese">这是一个贬义词。</span><span class="english">it's a derogatory word.</span></p>
 
 <p><span class="chinese">爱荷华同性恋者的贬义称呼。</span><span class="english">Derogatory term for a gay Iowan.</span></p>

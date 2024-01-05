@@ -1,5 +1,7 @@
 # hysterically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hysterically.md)
+
 <p><span class="chinese">杜威太太歇斯底里地大叫起来。</span><span class="english">Mrs. Dewey cried hysterically.</span></p>
 
 <p><span class="chinese">是的，全部都是。但你不必痛哭失声。</span><span class="english">Except you don't have to cry hysterically.</span></p>

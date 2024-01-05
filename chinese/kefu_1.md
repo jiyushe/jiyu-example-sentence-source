@@ -1,5 +1,7 @@
 # 克服
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kefu_1.md)
+
 <p><span class="chinese">克服不良嗜好。</span><span class="english">Overcome an addiction.</span></p>
 
 <p><span class="chinese">用习惯去克服习惯。</span><span class="english">One habit overcomes another.</span></p>

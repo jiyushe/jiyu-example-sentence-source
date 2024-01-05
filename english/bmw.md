@@ -1,5 +1,7 @@
 # bmw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bmw.md)
+
 <p><span class="chinese">宝马X1</span><span class="english">BMW X1</span></p>
 
 <p><span class="chinese">这辆车是辆宝马车。</span><span class="english">This car is a BMW.</span></p>

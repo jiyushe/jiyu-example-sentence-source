@@ -1,5 +1,7 @@
 # crane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crane.md)
+
 <p><span class="chinese">他是一个酒鬼。</span><span class="english">Crane was an alcoholic.</span></p>
 
 <p><span class="chinese">米-10就是一架飞行的起重机。</span><span class="english">The Mi-10 is a flying crane.</span></p>

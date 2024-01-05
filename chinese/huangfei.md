@@ -1,5 +1,7 @@
 # 荒废
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huangfei.md)
+
 <p><span class="chinese">长期的战争使他的技术荒废了。</span><span class="english">The prolonged war rusted his technique.</span></p>
 
 <p><span class="chinese">神绝不会荒废了他赐给你的大脑！</span><span class="english">God would not waste the mind he gave you!</span></p>

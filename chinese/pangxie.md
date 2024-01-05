@@ -1,5 +1,7 @@
 # 螃蟹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pangxie.md)
+
 <p><span class="chinese">一只螃蟹有十只脚。</span><span class="english">A crab has ten feet.</span></p>
 
 <p><span class="chinese">螃蟹是乔治·盖博抓的。</span><span class="english">Crabs George Gabs grabs.</span></p>

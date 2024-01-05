@@ -1,5 +1,7 @@
 # denunciation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/denunciation.md)
+
 <p><span class="chinese">对“各种形式的放纵这种恶习”发表谴责。</span><span class="english">Denunciation of the "manifold abuses of this vile custome".</span></p>
 
 <p><span class="chinese">他的发言是对不得人心的新政策的迎头痛斥。</span><span class="english">His speech is a head-on denunciation of the unpopular new policy.</span></p>

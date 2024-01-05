@@ -1,5 +1,7 @@
 # hospitably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hospitably.md)
+
 <p><span class="chinese">他亲切地挥了挥手。</span><span class="english">He waved his hand hospitably.</span></p>
 
 <p><span class="chinese">谢谢你热情的款待。</span><span class="english">I was hospitably entertained. Thank you!</span></p>

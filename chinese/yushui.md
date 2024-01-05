@@ -1,5 +1,7 @@
 # 雨水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yushui.md)
+
 <p><span class="chinese">雨水径流？</span><span class="english">Storm-water runoff?</span></p>
 
 <p><span class="chinese">雨水漏进了房顶。</span><span class="english">The roof let in the rain.</span></p>

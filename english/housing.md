@@ -1,5 +1,7 @@
 # housing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/housing.md)
+
 <p><span class="chinese">住宅才是关键所在。</span><span class="english">Housing is the key driver.</span></p>
 
 <p><span class="chinese">第三章，房地产市场的萧条。</span><span class="english">Segment three the Housing bust.</span></p>

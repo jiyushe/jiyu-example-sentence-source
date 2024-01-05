@@ -1,5 +1,7 @@
 # 镇静剂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenjingji.md)
+
 <p><span class="chinese">镇静剂使她失去知觉。</span><span class="english">Tranquilizers zonked her out.</span></p>
 
 <p><span class="chinese">他在镇静剂上昏厥。</span><span class="english">He passed out on tranquilizers.</span></p>

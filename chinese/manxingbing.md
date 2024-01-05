@@ -1,5 +1,7 @@
 # 慢性病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manxingbing.md)
+
 <p><span class="chinese">对于慢性病性贫血。</span><span class="english">Anemia of chronic disease.</span></p>
 
 <p><span class="chinese">哮喘是慢性病，而且非常常见。</span><span class="english">Asthma is chronical and very common.</span></p>

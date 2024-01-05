@@ -1,5 +1,7 @@
 # 退后
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuihou.md)
+
 <p><span class="chinese">退后一些，看看发生了什么。</span><span class="english">Stand back and see what happens.</span></p>
 
 <p><span class="chinese">退后一两步，你们站得太近了。</span><span class="english">Go back a step or two, you're too near.</span></p>

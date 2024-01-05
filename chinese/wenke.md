@@ -1,5 +1,7 @@
 # 文科
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenke.md)
+
 <p><span class="chinese">我是学文科的。</span><span class="english">I major in arts.</span></p>
 
 <p><span class="chinese">我学的是文科，你呢？</span><span class="english">I study liberal arts. How about you?</span></p>

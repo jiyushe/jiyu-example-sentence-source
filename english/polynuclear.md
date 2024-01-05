@@ -1,5 +1,7 @@
 # polynuclear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polynuclear.md)
+
 <p><span class="chinese">结果全部病变角膜片均发现有不同数量的双核和多核内皮细胞。</span><span class="english">Results Binuclear and polynuclear endothelial cells were found in every buttons.</span></p>
 
 <p><span class="chinese">该多金属醋酸盐是一种含铝和稀土的多核金属配合物。</span><span class="english">Polymetallicacetate is a kind of polynuclear metal complex with aluminum and thulium.</span></p>

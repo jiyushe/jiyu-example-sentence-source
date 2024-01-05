@@ -1,5 +1,7 @@
 # 粗心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuxin.md)
+
 <p><span class="chinese">真是个粗心的家伙！别着急。</span><span class="english">What a careless guy. Take it easy.</span></p>
 
 <p><span class="chinese">你总是犯粗心的错误？</span><span class="english">Do you often make careless mistakes?</span></p>

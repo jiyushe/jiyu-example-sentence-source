@@ -1,5 +1,7 @@
 # professorial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/professorial.md)
+
 <p><span class="chinese">不过，年纪较大的人留着教授式的胡子会显得有着深邃的智慧。</span><span class="english">Still, professorial beards on older men can imply depth of intellect.</span></p>
 
 <p><span class="chinese">范德维奇从来都没有想执教球队，他的矛盾心态是很明显的。</span><span class="english">The professorial Vandeweghe never wanted to coach the team, and his ambivalence is palpable.</span></p>

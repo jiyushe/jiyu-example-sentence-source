@@ -1,5 +1,7 @@
 # degrading
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/degrading.md)
+
 <p><span class="chinese">但每项新任务完成的水准都会下降。</span><span class="english">But with every new task our performance is degrading.</span></p>
 
 <p><span class="chinese">这像是给美国偶像打分.</span><span class="english">It's like auditioning forAmerican Idol, but less degrading.</span></p>

@@ -1,5 +1,7 @@
 # etymology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/etymology.md)
+
 <p><span class="chinese">我热爱语源学。</span><span class="english">I love etymology.</span></p>
 
 <p><span class="chinese">这个名字的词源尚不清楚。</span><span class="english">The etymology of the name is obscure.</span></p>

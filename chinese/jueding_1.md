@@ -1,5 +1,7 @@
 # 绝顶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jueding_1.md)
+
 <p><span class="chinese">人类的确聪明绝顶。</span><span class="english">Humans are clever.</span></p>
 
 <p><span class="chinese">最难熬的日子也有绝顶。</span><span class="english">The longet day has an end.</span></p>

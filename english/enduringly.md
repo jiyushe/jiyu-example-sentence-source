@@ -1,5 +1,7 @@
 # enduringly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enduringly.md)
+
 <p><span class="chinese">它材料极其简单，并且持久地重复。</span><span class="english">The material of it is very simple and repeated enduringly.</span></p>
 
 <p><span class="chinese">我曾经用这种方法写过一篇非常流行的博文。</span><span class="english">I wrote one of my most enduringly popular posts using this technique.</span></p>

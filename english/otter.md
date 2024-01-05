@@ -1,5 +1,7 @@
 # otter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/otter.md)
+
 <p><span class="chinese">夹克是用水獭皮做的。</span><span class="english">My jacket is made of otter skins.</span></p>
 
 <p><span class="chinese">水獭在这里过着何等僻隐的生活啊！</span><span class="english">How retired the otter manages to live here!</span></p>

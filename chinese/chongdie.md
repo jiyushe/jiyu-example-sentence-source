@@ -1,5 +1,7 @@
 # 重叠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongdie.md)
+
 <p><span class="chinese">重叠。</span><span class="english">Superposition.</span></p>
 
 <p><span class="chinese">是否有虚假的重叠？</span><span class="english">Are there false overlaps?</span></p>

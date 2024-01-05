@@ -1,5 +1,7 @@
 # prominently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prominently.md)
+
 <p><span class="chinese">她在最后一幕里占了很突出的地位。</span><span class="english">She figured prominently in the last act.</span></p>
 
 <p><span class="chinese">这些建筑在那部剧中很显眼。</span><span class="english">The houses prominently featured in that show.</span></p>

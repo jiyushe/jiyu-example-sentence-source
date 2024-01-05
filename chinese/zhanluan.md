@@ -1,5 +1,7 @@
 # 战乱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanluan.md)
+
 <p><span class="chinese">这是个位于战乱的时代。</span><span class="english">The story is set in the Sengoku period.</span></p>
 
 <p><span class="chinese">“你必须对结束战乱有所作为，”她表示。</span><span class="english">“You have to have an end state,” she said.</span></p>

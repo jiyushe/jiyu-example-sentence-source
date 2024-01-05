@@ -1,5 +1,7 @@
 # supremacist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supremacist.md)
+
 <p><span class="chinese">但并非所有白人优越主义的头目都留意或在意他们自己的行为。</span><span class="english">But not all white supremacist leaders are mindful of their actions or care to be.</span></p>
 
 <p><span class="chinese">他向他的支持者发送了一封电子邮件从一个白人至上主义者小组的附件。</span><span class="english">He sent an email to his supporters with an attachment from a white supremacist group.</span></p>

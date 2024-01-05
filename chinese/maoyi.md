@@ -1,5 +1,7 @@
 # 毛衣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maoyi.md)
+
 <p><span class="chinese">我的毛衣在哪里？</span><span class="english">Where's my sweater?</span></p>
 
 <p><span class="chinese">你想要毛衣吗？</span><span class="english">Doyou like sweaters?</span></p>

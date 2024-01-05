@@ -1,5 +1,7 @@
 # 久经考验
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiujingkaoyan.md)
+
 <p><span class="chinese">米勒是一个久经考验的传球手和射手。</span><span class="english">Miller is a proven play maker and shooter.</span></p>
 
 <p><span class="chinese">下面就是一些久经考验的建立自信的方法。</span><span class="english">There are time-proven techniques to building confidence.</span></p>

@@ -1,5 +1,7 @@
 # 背运
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beiyun.md)
+
 <p><span class="chinese">今天是我的背运日，因为我的钱包丢了。</span><span class="english">Today is not my day because I lost my purse.</span></p>
 
 <p><span class="chinese">七年的背运我有个非常迷信的朋友名叫麦克。</span><span class="english">I have a very superstitious friend called Mack.</span></p>

@@ -1,5 +1,7 @@
 # hooker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hooker.md)
+
 <p><span class="chinese">骚货，我们回去上课吧。</span><span class="english">Hooker . Let's go back to class.</span></p>
 
 <p><span class="chinese">您看，我们今天仍然使用着hooker这个单词。</span><span class="english">Well, we still have the word hooker.</span></p>

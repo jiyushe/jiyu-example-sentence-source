@@ -1,5 +1,7 @@
 # triangular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/triangular.md)
+
 <p><span class="chinese">那是个三角恋爱的电影。</span><span class="english">It's a film of triangular love affair.</span></p>
 
 <p><span class="chinese">大多数动物是三角形声带。</span><span class="english">Most animals have triangular vocal cords.</span></p>

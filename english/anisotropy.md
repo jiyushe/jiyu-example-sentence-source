@@ -1,5 +1,7 @@
 # anisotropy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anisotropy.md)
+
 <p><span class="chinese">煤化程度越高，煤的各向电异性越明显。</span><span class="english">Greater degree of coalification makes more obvious anisotropy.</span></p>
 
 <p><span class="chinese">磁组构是指磁化率的各向异性。</span><span class="english">The magnetic fabric means the anisotropy of the susceptibility.</span></p>

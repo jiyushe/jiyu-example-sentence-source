@@ -1,5 +1,7 @@
 # bushing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bushing.md)
+
 <p><span class="chinese">“盲孔”下部衬垫能够防止泄漏。</span><span class="english">Blind-hole lower bushing prevents leakage.</span></p>
 
 <p><span class="chinese">最好在转角处预埋一个穿墙导管。</span><span class="english">You'd better embed a wall bushing at the corner.</span></p>

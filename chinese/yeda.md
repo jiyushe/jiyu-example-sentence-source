@@ -1,5 +1,7 @@
 # 夜大
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yeda.md)
+
 <p><span class="chinese">子君在夜大上课，又遇到成浩。</span><span class="english">Zijun in community college classes, meet ungho again.</span></p>
 
 <p><span class="chinese">几个月前我刚从夜大毕业生。</span><span class="english">I graduated from an evening college just a couple of months ago.</span></p>

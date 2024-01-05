@@ -1,5 +1,7 @@
 # treated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/treated.md)
+
 <p><span class="chinese">RLS能治么？</span><span class="english">Can RLS be treated?</span></p>
 
 <p><span class="chinese">他们平允地对待我们。</span><span class="english">They treated us white.</span></p>

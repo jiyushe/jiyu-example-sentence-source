@@ -1,5 +1,7 @@
 # steadiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/steadiness.md)
+
 <p><span class="chinese">政治家很重视一个伙伴的坚定性和可靠性。</span><span class="english">Statesmen prize steadiness and reliability in a partner.</span></p>
 
 <p><span class="chinese">在我写这篇文章时，稳健正悄悄溜回到竞赛中。</span><span class="english">As I write, steadiness is creeping back into the competition.</span></p>

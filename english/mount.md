@@ -1,5 +1,7 @@
 # mount
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mount.md)
+
 <p><span class="chinese">乘汽车上峨嵋山之前。</span><span class="english">Mount Emei by bus.</span></p>
 
 <p><span class="chinese">他放慢了坐骑的速度。</span><span class="english">He pulled his mount.</span></p>

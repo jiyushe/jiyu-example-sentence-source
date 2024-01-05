@@ -1,5 +1,7 @@
 # useful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/useful.md)
+
 <p><span class="chinese">这个表述法有用,为什么</span><span class="english">It's useful why?</span></p>
 
 <p><span class="chinese">这样做有什么用处呢？</span><span class="english">Why is this useful?</span></p>

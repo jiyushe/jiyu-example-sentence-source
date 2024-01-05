@@ -1,5 +1,7 @@
 # 注意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuyi_3.md)
+
 <p><span class="chinese">注意听我的话。</span><span class="english">Attend to my word.</span></p>
 
 <p><span class="chinese">注意格式。</span><span class="english">Notice the format.</span></p>

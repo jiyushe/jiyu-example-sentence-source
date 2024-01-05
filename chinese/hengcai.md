@@ -1,5 +1,7 @@
 # 横财
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hengcai.md)
+
 <p><span class="chinese">投资者希望能发一笔横财。</span><span class="english">Investors are hoping for a windfall.</span></p>
 
 <p><span class="chinese">我从足球比赛赌博中发了一笔横财。</span><span class="english">I had a windfall from the football pools.</span></p>

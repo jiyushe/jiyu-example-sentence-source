@@ -1,5 +1,7 @@
 # transfect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transfect.md)
+
 <p><span class="chinese">他说“你可以将基因转染进成纤维细胞”。</span><span class="english">"You can transfect a gene into a fibroblast, " he said.</span></p>
 
 <p><span class="chinese">将重组质粒转染293A细胞，免疫印迹鉴定目的基因的表达情况。</span><span class="english">Transfect the recombination DNA into 293A and identify the gene expression.</span></p>

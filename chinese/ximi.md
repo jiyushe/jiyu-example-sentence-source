@@ -1,5 +1,7 @@
 # 戏迷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ximi.md)
+
 <p><span class="chinese">他们被那个戏迷住了。</span><span class="english">They were enthralled with the play.</span></p>
 
 <p><span class="chinese">我听说这里有一个戏迷俱乐部。</span><span class="english">I heard there was an opera fans club.</span></p>

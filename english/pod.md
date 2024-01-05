@@ -1,5 +1,7 @@
 # pod
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pod.md)
+
 <p><span class="chinese">打开别离舱门，美国经典片子。哈尔。</span><span class="english">Open the pod bay doors- HAL.</span></p>
 
 <p><span class="chinese">那榆荫下的一潭。</span><span class="english">The pod under the elms' shadow.</span></p>

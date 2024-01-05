@@ -1,5 +1,7 @@
 # wipeout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wipeout.md)
+
 <p><span class="chinese">不过，情况并不像许多人想像的那么一片黯淡。</span><span class="english">Still, it isn't the total wipeout many expected.</span></p>
 
 <p><span class="chinese">最终大部分的生命将会灭绝。</span><span class="english">And the eventual wipeout of most of the life on earth.</span></p>

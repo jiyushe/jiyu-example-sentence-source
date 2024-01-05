@@ -1,5 +1,7 @@
 # 义齿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yichi.md)
+
 <p><span class="chinese">感觉界面材料，但容易义齿。</span><span class="english">It feels like interfacing material, but is easily removeable.</span></p>
 
 <p><span class="chinese">目的使用影像学手段分析种植义齿颈部牙槽骨丧失情况。</span><span class="english">Objective To analyze peri-implant alveolar bone loss with radiography.</span></p>

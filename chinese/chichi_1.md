@@ -1,5 +1,7 @@
 # 迟迟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chichi_1.md)
+
 <p><span class="chinese">他迟迟不结婚。</span><span class="english">He tarries about marriage.</span></p>
 
 <p><span class="chinese">你们迟迟不能达成一致。</span><span class="english">And you can't come to an agreement.</span></p>

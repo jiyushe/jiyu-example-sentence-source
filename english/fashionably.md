@@ -1,5 +1,7 @@
 # fashionably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fashionably.md)
+
 <p><span class="chinese">因为你穿的很时尚，我喜欢你穿的衣服。</span><span class="english">Because you dress very fashionably. I like your shirt.</span></p>
 
 <p><span class="chinese">并且，日本女人穿着很时髦，很文雅。</span><span class="english">Also, Japanese women dress fashionably and are very elegant.</span></p>

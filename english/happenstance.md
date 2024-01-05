@@ -1,5 +1,7 @@
 # happenstance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/happenstance.md)
+
 <p><span class="chinese">第一个是偶然。</span><span class="english">That first one was kind of happenstance.</span></p>
 
 <p><span class="chinese">我来到该农场住下纯属偶然。</span><span class="english">I came to live at the farm by happenstance.</span></p>

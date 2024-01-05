@@ -1,5 +1,7 @@
 # unhealthful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unhealthful.md)
+
 <p><span class="chinese">给不健康食品的销售加税。</span><span class="english">Tax the marketing and sale of unhealthful foods.</span></p>
 
 <p><span class="chinese">不利于健康的脂肪包括饱和脂肪及转化脂肪。</span><span class="english">Unhealthful fats include saturated and trans fats.</span></p>

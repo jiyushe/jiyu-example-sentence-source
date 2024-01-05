@@ -1,5 +1,7 @@
 # umbilical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/umbilical.md)
+
 <p><span class="chinese">急！脐疝怎么治疗？</span><span class="english">Be urgent! How is umbilical hernia treated?</span></p>
 
 <p><span class="chinese">他把这种联系比作脐带。</span><span class="english">This is an umbilical cord he's talking about.</span></p>

@@ -1,5 +1,7 @@
 # 先睹为快
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianduweikuai.md)
+
 <p><span class="chinese">大师风采，先睹为快！</span><span class="english">Get the first glimpse of our Master.</span></p>
 
 <p><span class="chinese">本文总结了今年春晚的几大亮点，让我们先睹为快！</span><span class="english">Let's take a peek at this year's highlights.</span></p>

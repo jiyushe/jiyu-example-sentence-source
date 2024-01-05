@@ -1,5 +1,7 @@
 # friction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/friction.md)
+
 <p><span class="chinese">但是，小摩擦并不等于冲突。</span><span class="english">But friction is not conflict.</span></p>
 
 <p><span class="chinese">这家人从来没有摩擦。</span><span class="english">The family never had friction.</span></p>

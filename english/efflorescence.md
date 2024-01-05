@@ -1,5 +1,7 @@
 # efflorescence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/efflorescence.md)
+
 <p><span class="chinese">文艺创作的繁盛时期已经来到。</span><span class="english">The period of literary and artistic efflorescence has come.</span></p>
 
 <p><span class="chinese">相对湿度较低时，有风化的危险。</span><span class="english">At low relative humidities there is a risk of efflorescence.</span></p>

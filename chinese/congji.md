@@ -1,5 +1,7 @@
 # 丛集
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/congji.md)
+
 <p><span class="chinese">找不到资讯储存库执行个体丛集资源。</span><span class="english">Could not locate the Exchange Information Store for '.</span></p>
 
 <p><span class="chinese">偏头痛和丛集性头痛是血管型头痛。</span><span class="english">Migraine and cluster headaches are vascular headaches.</span></p>

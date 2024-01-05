@@ -1,5 +1,7 @@
 # dilatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dilatory.md)
+
 <p><span class="chinese">谨慎的、保守的，如在采取行动中。</span><span class="english">Cautious or dilatory , as in taking action.</span></p>
 
 <p><span class="chinese">昨天老板开除了一个凡事都爱拖延的人。</span><span class="english">The boss sacked a dilatory worker yesterday.</span></p>

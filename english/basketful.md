@@ -1,5 +1,7 @@
 # basketful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/basketful.md)
+
 <p><span class="chinese">我们买了满满一篮子桃子。</span><span class="english">We bought a basketful of peaches.</span></p>
 
 <p><span class="chinese">他给了我满满一篮子桃子。</span><span class="english">He gxdye me a basketful of beaches.</span></p>

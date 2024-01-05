@@ -1,5 +1,7 @@
 # ger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ger.md)
+
 <p><span class="chinese">你住在大草原上的蒙古包里。</span><span class="english">You live on the steppes in a ger.</span></p>
 
 <p><span class="chinese">玛丽的蓝色衣服与她的眼睛十分相配。</span><span class="english">Mary's blue dress goes with ger eyes.</span></p>

@@ -1,5 +1,7 @@
 # 游园会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youyuanhui.md)
+
 <p><span class="chinese">游园会因雨而中断。</span><span class="english">Rain cut short the garden party.</span></p>
 
 <p><span class="chinese">这灿烂阳光对今天的游园会是个好预兆。</span><span class="english">The sunshine bodes well for today's garden party.</span></p>

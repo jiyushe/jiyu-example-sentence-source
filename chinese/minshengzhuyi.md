@@ -1,5 +1,7 @@
 # 民生主义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minshengzhuyi.md)
+
 <p><span class="chinese">“平均地权”是孙中山“民生主义”的内容之一。</span><span class="english">The equality in land properties was one of the important content of Dr.</span></p>
 
 <p><span class="chinese">把孙中山的民生主义定性为“主观上的社会主义，实际上的资本主义”尚有存疑。</span><span class="english">It leaves a question open to determine its nature as " subjectively socialism and practically capitalism".</span></p>

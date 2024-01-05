@@ -1,5 +1,7 @@
 # polygala
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polygala.md)
+
 <p><span class="chinese">目的研究黄花倒水莲提取物的抗血脂作用。</span><span class="english">ObjectiveTo observe the effect of Polygala fallax Hemsl.</span></p>
 
 <p><span class="chinese">目的比较不同产地远志种子的质量。</span><span class="english">Objective To compare quality of different seeds of Polygala tenuifolia.</span></p>

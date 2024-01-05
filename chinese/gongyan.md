@@ -1,5 +1,7 @@
 # 公演
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongyan.md)
+
 <p><span class="chinese">公演调整很重要。</span><span class="english">Post-show adjustments r key.</span></p>
 
 <p><span class="chinese">人生在世，其实只是彩排，为未来公演之日作准备。</span><span class="english">Life on earth is just the dress rehearsal before the real production.</span></p>

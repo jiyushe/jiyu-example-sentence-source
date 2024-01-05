@@ -1,5 +1,7 @@
 # Christian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/christian.md)
+
 <p><span class="chinese">乔妮是位基督徒。</span><span class="english">Joni was a Christian.</span></p>
 
 <p><span class="chinese">这里有一首基督教的歌</span><span class="english">Here is a Christian song.</span></p>

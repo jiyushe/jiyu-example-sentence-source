@@ -1,5 +1,7 @@
 # dap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dap.md)
+
 <p><span class="chinese">行动党莲花苑社区中心开幕了！</span><span class="english">DAP Teratai Community Centre is now Open!</span></p>
 
 <p><span class="chinese">莲花苑社区中心春节团拜。</span><span class="english">Open house of DAP Teratai Community Centre.</span></p>

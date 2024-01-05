@@ -1,5 +1,7 @@
 # germicide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/germicide.md)
+
 <p><span class="chinese">碘杀菌剂是一种高效无毒的杀菌剂。</span><span class="english">Iodine bactericide is an innocuous high-effect germicide.</span></p>
 
 <p><span class="chinese">目的探讨合理实用的操作方法以达到复用透析器理想的杀菌剂残余量。</span><span class="english">Objective To investigate the reasonable way of germicide removal in the reusing dialyzers.</span></p>

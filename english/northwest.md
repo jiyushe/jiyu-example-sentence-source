@@ -1,5 +1,7 @@
 # northwest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/northwest.md)
+
 <p><span class="chinese">盛行西北风。</span><span class="english">Prevailing northwest wind.</span></p>
 
 <p><span class="chinese">你是指往西北边走吗？</span><span class="english">Do you mean to the northwest?</span></p>

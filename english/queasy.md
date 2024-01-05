@@ -1,5 +1,7 @@
 # queasy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/queasy.md)
+
 <p><span class="chinese">你可能感觉恶心反胃。</span><span class="english">You might feel queasy or nauseous.</span></p>
 
 <p><span class="chinese">即使饥肠辘辘的坐在桌子前，不一会儿恶心感就会冲上来。</span><span class="english">Even if I sat down at the table hungry, I soon felt queasy.</span></p>

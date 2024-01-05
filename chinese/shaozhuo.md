@@ -1,5 +1,7 @@
 # 烧灼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaozhuo.md)
+
 <p><span class="chinese">碘酒烧灼得伤口火辣辣的。</span><span class="english">The cuts Burn from the iodine.</span></p>
 
 <p><span class="chinese">烧灼燃烧器必须消毒。</span><span class="english">Cautery burners need to be sterilized.</span></p>

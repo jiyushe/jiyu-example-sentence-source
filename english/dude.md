@@ -1,5 +1,7 @@
 # dude 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dude.md)
+
 <p><span class="chinese">我是一个花花公子。</span><span class="english">I’m a dude.</span></p>
 
 <p><span class="chinese">没门，老兄！</span><span class="english">No way, dude.</span></p>

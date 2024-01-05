@@ -1,5 +1,7 @@
 # 热恋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/relian.md)
+
 <p><span class="chinese">还是热恋以后。</span><span class="english">Still in love after.</span></p>
 
 <p><span class="chinese">他正和一个女孩在热恋中。</span><span class="english">He's in love with a girl.</span></p>

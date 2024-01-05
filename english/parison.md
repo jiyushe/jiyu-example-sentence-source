@@ -1,5 +1,7 @@
 # parison
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parison.md)
+
 <p><span class="chinese">型坯成型是挤出吹塑中的一个重要阶段。</span><span class="english">Parison formation is a critical stage in extrusion blow molding.</span></p>
 
 <p><span class="chinese">型坯成型是塑料挤出吹塑中的一个重要阶段。</span><span class="english">Parison formation is a critical stage in plastics extrusion blow molding.</span></p>

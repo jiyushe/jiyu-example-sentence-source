@@ -1,5 +1,7 @@
 # transposon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transposon.md)
+
 <p><span class="chinese">于是我们开始做转座子的突变发生。</span><span class="english">So we started doing transposon mutagenesis.</span></p>
 
 <p><span class="chinese">本文是水稻中第一个转座子标签的例子。</span><span class="english">This is the first example of transposon tagging in rice.</span></p>

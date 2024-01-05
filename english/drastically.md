@@ -1,5 +1,7 @@
 # drastically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drastically.md)
+
 <p><span class="chinese">他们工种的技术含量大幅度提高。</span><span class="english">Their jobs have been drastically upskilled.</span></p>
 
 <p><span class="chinese">由于大雾，能见度遽烈的减低。</span><span class="english">Because of the fog, visibility was drastically reduced.</span></p>

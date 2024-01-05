@@ -1,5 +1,7 @@
 # dictum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dictum.md)
+
 <p><span class="chinese">除此之外，麦凯恩的顺口溜也值得商榷。</span><span class="english">Besides, the McCain dictum is debatable.</span></p>
 
 <p><span class="chinese">文如其人，这句名言是我们大多数人都熟悉的。</span><span class="english">The dictum that the style is the man is known to most of us.</span></p>

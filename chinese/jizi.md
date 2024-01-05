@@ -1,5 +1,7 @@
 # 集资
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jizi.md)
+
 <p><span class="chinese">他们集资买房。</span><span class="english">They pooled their money to buy a house.</span></p>
 
 <p><span class="chinese">我为一个集资公司工作。</span><span class="english">Yeah, I work for a fundraising company.</span></p>

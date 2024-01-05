@@ -1,5 +1,7 @@
 # fatherly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fatherly.md)
+
 <p><span class="chinese">父爱是有条件的。</span><span class="english">Fatherly love is conditional love.</span></p>
 
 <p><span class="chinese">没有东西能激发他父亲般的温暖。</span><span class="english">Nothing sparked his fatherly warmth.</span></p>

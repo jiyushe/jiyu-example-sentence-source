@@ -1,5 +1,7 @@
 # presbyopia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/presbyopia.md)
+
 <p><span class="chinese">什么是老花眼？</span><span class="english">What is Presbyopia?</span></p>
 
 <p><span class="chinese">我看书报时，是戴了老花眼镜。</span><span class="english">I read newspaper, is wearing a Presbyopia mirror.</span></p>

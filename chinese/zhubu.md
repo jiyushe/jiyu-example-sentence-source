@@ -1,5 +1,7 @@
 # 逐步
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhubu.md)
+
 <p><span class="chinese">逐步地放开离合器。</span><span class="english">Eottom out on the clutch.</span></p>
 
 <p><span class="chinese">我们正在逐步放弃用车！</span><span class="english">We were giving up our car!</span></p>

@@ -1,5 +1,7 @@
 # displease
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/displease.md)
+
 <p><span class="chinese">过分鲜艳的色彩看了很刺眼。</span><span class="english">Glaring colours displease the eye.</span></p>
 
 <p><span class="chinese">该节目招致观众诸多不满。</span><span class="english">The program displease many audiences.</span></p>

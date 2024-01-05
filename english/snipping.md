@@ -1,5 +1,7 @@
 # snipping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snipping.md)
+
 <p><span class="chinese">剪下一段烛光，将经纶点亮。</span><span class="english">Out a wax candle snipping slight , to light up your darkness.</span></p>
 
 <p><span class="chinese">其供气系统实现线辫剪断和油雾润滑的喷射。</span><span class="english">It's pneumatic system act the thread- snipping and lube spray.</span></p>

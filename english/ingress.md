@@ -1,5 +1,7 @@
 # ingress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ingress.md)
+
 <p><span class="chinese">较高的座椅位置使入口和出口容易。</span><span class="english">A high seating position makes ingress and egress easy.</span></p>
 
 <p><span class="chinese">飞行甲板加压保护乘员免受化学侵入。</span><span class="english">Flight deck pressurisation protects crew against chemical ingress.</span></p>

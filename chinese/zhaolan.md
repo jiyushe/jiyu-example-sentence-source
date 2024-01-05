@@ -1,5 +1,7 @@
 # 招揽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaolan.md)
+
 <p><span class="chinese">很多出租汽车在市区内缓缓行驶以招揽生意。</span><span class="english">Many taxis were cruising in the downtown area.</span></p>
 
 <p><span class="chinese">我们登广告宣传自己的服务项目来招揽生意。</span><span class="english">We advertised our services to make more bussiness.</span></p>

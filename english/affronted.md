@@ -1,5 +1,7 @@
 # affronted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/affronted.md)
+
 <p><span class="chinese">她的讲话冒犯了我们大家。</span><span class="english">Her speech affronted all of us.</span></p>
 
 <p><span class="chinese">她被他的行为冒犯了。</span><span class="english">She was affronted at his conduct.</span></p>

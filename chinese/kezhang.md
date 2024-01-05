@@ -1,5 +1,7 @@
 # 科长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kezhang.md)
+
 <p><span class="chinese">海鸥科长翅、蹼足的水鸟。</span><span class="english">A gull skimmed the water.</span></p>
 
 <p><span class="chinese">与蒙藏委员会徐科长及霍普金斯教授。</span><span class="english">With Mr. Hsi and Prof. Hopkins.</span></p>

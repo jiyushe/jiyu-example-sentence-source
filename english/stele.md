@@ -1,5 +1,7 @@
 # stele
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stele.md)
+
 <p><span class="chinese">这个錾字碑上写了什么样的内容？</span><span class="english">What's written on this stele?</span></p>
 
 <p><span class="chinese">我发现了一块巨大的石碑。</span><span class="english">I've found a huge stone stele.</span></p>

@@ -1,5 +1,7 @@
 # underwrote
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underwrote.md)
+
 <p><span class="chinese">他们同意买下该煤矿的未认购的股票。</span><span class="english">They underwrote the coal mine's bonds.</span></p>
 
 <p><span class="chinese">政府为该活动提供了开办时所需的费用。</span><span class="english">The government underwrote the initial costs of the operation.</span></p>

@@ -1,5 +1,7 @@
 # discoverable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discoverable.md)
+
 <p><span class="chinese">在她身上能看到什么人性原则吗？</span><span class="english">Hath she any discoverable principle of being?</span></p>
 
 <p><span class="chinese">神话的意义只有在我的科学中才能发现</span><span class="english">The meaning of the myth is discoverable only in my science.</span></p>

@@ -1,5 +1,7 @@
 # 皮带
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pidai_1.md)
+
 <p><span class="chinese">用皮带抽他一顿！</span><span class="english">Give him a belting.</span></p>
 
 <p><span class="chinese">他把皮带束得紧些。</span><span class="english">He drew his belt tighter.</span></p>

@@ -1,5 +1,7 @@
 # 表记
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaoji_1.md)
+
 <p><span class="chinese">作为显示输出的总标识表记标帜。</span><span class="english">Display the total mark as an output.</span></p>
 
 <p><span class="chinese">这个标识表记标帜指出了我该去的地方。</span><span class="english">The sign here indicated where I should go.</span></p>

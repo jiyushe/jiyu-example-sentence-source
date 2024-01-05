@@ -1,5 +1,7 @@
 # arrogant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arrogant.md)
+
 <p><span class="chinese">他是个傲慢的人。</span><span class="english">He is an arrogant man.</span></p>
 
 <p><span class="chinese">他是一个自高自大的人。</span><span class="english">He is an arrogant man.</span></p>

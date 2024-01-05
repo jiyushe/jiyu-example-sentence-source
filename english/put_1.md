@@ -1,5 +1,7 @@
 # put 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/put_1.md)
+
 <p><span class="chinese">放在账篷里。</span><span class="english">Put in teepee.</span></p>
 
 <p><span class="chinese">我估量她大要35岁。</span><span class="english">I put her at 35.</span></p>

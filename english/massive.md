@@ -1,5 +1,7 @@
 # massive 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/massive.md)
+
 <p><span class="chinese">这才是大事儿。</span><span class="english">This is massive.</span></p>
 
 <p><span class="chinese">绝对巨额。</span><span class="english">Absolutely massive.</span></p>

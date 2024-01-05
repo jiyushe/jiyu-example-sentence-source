@@ -1,5 +1,7 @@
 # 冷冻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lengdong.md)
+
 <p><span class="chinese">冷冻酸奶酪的营养很丰富。</span><span class="english">Yogurt is nutrient-rich.</span></p>
 
 <p><span class="chinese">把货物堆在冷冻舱内。</span><span class="english">Stow cargo in reefer hold.</span></p>

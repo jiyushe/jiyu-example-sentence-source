@@ -1,5 +1,7 @@
 # 战区
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanqu.md)
+
 <p><span class="chinese">事情还是上了太平洋战区公报。</span><span class="english">The pacific communiques included it.</span></p>
 
 <p><span class="chinese">他们的家人住在各自的战区里。</span><span class="english">Their families live in their own war zone.</span></p>

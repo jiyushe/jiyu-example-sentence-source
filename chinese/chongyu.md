@@ -1,5 +1,7 @@
 # 充裕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongyu.md)
+
 <p><span class="chinese">这个阳光充裕的无树平原不产食物。</span><span class="english">The sunny savanna yields no food.</span></p>
 
 <p><span class="chinese">我们有充裕的油籽出售。</span><span class="english">We have abundant oil seeds to sell.</span></p>

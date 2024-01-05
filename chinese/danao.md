@@ -1,5 +1,7 @@
 # 打闹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danao.md)
+
 <p><span class="chinese">想和你在一起，哪怕是打打闹闹。</span><span class="english">And you want together , even ruckus.</span></p>
 
 <p><span class="chinese">在候车的时候不要嬉戏打闹。</span><span class="english">No horseplay while waiting for the bus.</span></p>

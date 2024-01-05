@@ -1,5 +1,7 @@
 # rematch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rematch.md)
+
 <p><span class="chinese">要不要再赛一盘？</span><span class="english">Do you want a rematch?</span></p>
 
 <p><span class="chinese">在第二次比赛中，日本队赢了两英里。</span><span class="english">In the rematch the Japanese won by two miles.</span></p>

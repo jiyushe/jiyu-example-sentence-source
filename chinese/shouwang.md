@@ -1,5 +1,7 @@
 # 守望
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouwang.md)
+
 <p><span class="chinese">守望，在天庭之窗。</span><span class="english">Wathing form heaven's window.</span></p>
 
 <p><span class="chinese">长夜将至，我从今开始守望，至死方休。</span><span class="english">Night gathers, and now my watch begins.</span></p>

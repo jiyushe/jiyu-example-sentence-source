@@ -1,5 +1,7 @@
 # 无关紧要
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuguanjinyao.md)
+
 <p><span class="chinese">删除无关紧要的空话。</span><span class="english">Slough off unimportant verbiage.</span></p>
 
 <p><span class="chinese">因为字典里元素的顺序无关紧要。</span><span class="english">Because the order of this doesn't matter.</span></p>

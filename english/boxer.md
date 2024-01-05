@@ -1,5 +1,7 @@
 # boxer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boxer.md)
+
 <p><span class="chinese">拳击手挡住了一拳。</span><span class="english">The boxer turned a punch.</span></p>
 
 <p><span class="chinese">那名拳击手在第5回合佯倒了。</span><span class="english">The boxer dove in the fifth.</span></p>

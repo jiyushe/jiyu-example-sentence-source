@@ -1,5 +1,7 @@
 # 悠长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youchang.md)
+
 <p><span class="chinese">⊙、如能善于利用，生命乃悠长。</span><span class="english">Life is long, if can use.</span></p>
 
 <p><span class="chinese">年华不虚度，生命自悠长。</span><span class="english">Life is long , if it is full.</span></p>

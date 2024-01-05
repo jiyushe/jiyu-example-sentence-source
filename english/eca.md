@@ -1,5 +1,7 @@
 # eca
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eca.md)
+
 <p><span class="chinese">经济合作署只存在了四年。</span><span class="english">The ECA existed for just four years.</span></p>
 
 <p><span class="chinese">本月作为英语主题活动月，稍后还会有更加精彩的英语活动。</span><span class="english">As this month is the English theme month, more ECA is on the way.</span></p>

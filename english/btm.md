@@ -1,5 +1,7 @@
 # btm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/btm.md)
+
 <p><span class="chinese">你可以在自动柜员机上修改密码。</span><span class="english">You can change your PIN at the BTM.</span></p>
 
 <p><span class="chinese">您的信用卡是被BTM机吞了吗？</span><span class="english">Is your credit card swallowed by BTM?</span></p>

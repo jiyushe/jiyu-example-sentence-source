@@ -1,5 +1,7 @@
 # embryonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/embryonic.md)
+
 <p><span class="chinese">它还处于萌芽阶段。</span><span class="english">It is still in an embryonic stage.</span></p>
 
 <p><span class="chinese">胚胎干细胞是两性的。</span><span class="english">Embryonic stem cells are totipotent.</span></p>

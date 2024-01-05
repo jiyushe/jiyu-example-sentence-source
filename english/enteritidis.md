@@ -1,5 +1,7 @@
 # enteritidis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enteritidis.md)
+
 <p><span class="chinese">目的对不同来源的12株肠炎沙门菌分离株进行分子分型。</span><span class="english">Objective Molecular typing 12 strains of the Salmonella enteritidis isolated from different origins.</span></p>
 
 <p><span class="chinese">从而为肠炎沙门氏菌的检测提供了一种敏感、特异、快速的检测方法。</span><span class="english">A C-ELISA developed was attempted to provide a raped, sensitive and specific test for detecting S. enteritidis.</span></p>

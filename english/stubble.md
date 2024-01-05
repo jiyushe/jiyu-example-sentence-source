@@ -1,5 +1,7 @@
 # stubble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stubble.md)
+
 <p><span class="chinese">棕色的胡茬爬满了他的面颊和下巴。</span><span class="english">Brown stubble covered his cheeks and chin.</span></p>
 
 <p><span class="chinese">爱是容忍他偶尔的胡茬。</span><span class="english">Love is putting up with his occasional stubble.</span></p>

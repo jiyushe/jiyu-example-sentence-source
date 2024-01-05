@@ -1,5 +1,7 @@
 # cohabit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cohabit.md)
+
 <p><span class="chinese">他们未婚同居。</span><span class="english">They cohabit together without be in married.</span></p>
 
 <p><span class="chinese">大学生应该被允许同居。</span><span class="english">College students should be allowed to cohabit.</span></p>

@@ -1,5 +1,7 @@
 # striker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/striker.md)
+
 <p><span class="chinese">将扣击板安放在B-柱上。</span><span class="english">Position striker on B-pillar.</span></p>
 
 <p><span class="chinese">他突然采用无中锋踢法。</span><span class="english">He suddenly played without a striker.</span></p>

@@ -1,5 +1,7 @@
 # 好天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haotian.md)
+
 <p><span class="chinese">好天？</span><span class="english">Good day?</span></p>
 
 <p><span class="chinese">对乌鸦来说今天是个好天。</span><span class="english">It a good day for crows.</span></p>

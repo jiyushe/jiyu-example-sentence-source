@@ -1,5 +1,7 @@
 # tell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tell.md)
+
 <p><span class="chinese">我看得出来的“</span><span class="english">I can tell."</span></p>
 
 <p><span class="chinese">我也说不清啊。</span><span class="english">How do I tell?</span></p>

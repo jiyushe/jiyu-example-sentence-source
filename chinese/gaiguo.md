@@ -1,5 +1,7 @@
 # 改过
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaiguo.md)
+
 <p><span class="chinese">改过不嫌迟。</span><span class="english">It’s never too late to mend.</span></p>
 
 <p><span class="chinese">用改过来代替报仇。</span><span class="english">Instead of revenge, make amends,.</span></p>

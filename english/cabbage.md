@@ -1,5 +1,7 @@
 # cabbage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cabbage.md)
+
 <p><span class="chinese">炒白菜。</span><span class="english">Cabbage.</span></p>
 
 <p><span class="chinese">汤姆喜欢卷心菜吗？</span><span class="english">Does Tom like cabbage?</span></p>

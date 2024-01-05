@@ -1,5 +1,7 @@
 # 并用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingyong.md)
+
 <p><span class="chinese">把这些瓶子灌满并用瓶塞塞紧。</span><span class="english">Fill and cork these bottles please.</span></p>
 
 <p><span class="chinese">他手脚并用，爬到了邻近的村子。</span><span class="english">He crawled on asls to a nearby village.</span></p>

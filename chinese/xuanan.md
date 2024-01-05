@@ -1,5 +1,7 @@
 # 悬案
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanan.md)
+
 <p><span class="chinese">谁会要偷40多年的老悬案的证据啊？</span><span class="english">Evidence was stolen from a 40-year-old cold case?</span></p>
 
 <p><span class="chinese">也许那并非一宗历史的悬案，而只是一段反讽。</span><span class="english">Perhaps more than an ambiguity, it was an irony of history.</span></p>

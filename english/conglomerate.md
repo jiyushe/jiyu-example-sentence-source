@@ -1,5 +1,7 @@
 # conglomerate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conglomerate.md)
+
 <p><span class="chinese">那家联合大企业分割了这个商行。</span><span class="english">The conglomerate dismembered the business.</span></p>
 
 <p><span class="chinese">宝洁公司是一家生产个人卫生用品的大集团公司。</span><span class="english">Proctor & Gamble is a large personal product conglomerate.</span></p>

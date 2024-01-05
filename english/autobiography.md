@@ -1,5 +1,7 @@
 # autobiography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autobiography.md)
+
 <p><span class="chinese">自传是什么？</span><span class="english">So what is autobiography?</span></p>
 
 <p><span class="chinese">一个男人的脸是他的自传。</span><span class="english">A man's face is his autobiography.</span></p>

@@ -1,5 +1,7 @@
 # 梳妆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuzhuang_1.md)
+
 <p><span class="chinese">小轩窗，正梳妆。</span><span class="english">Little window, carefully doll.</span></p>
 
 <p><span class="chinese">她花了一小时梳妆打扮。</span><span class="english">She spent an hour on her toilets.</span></p>

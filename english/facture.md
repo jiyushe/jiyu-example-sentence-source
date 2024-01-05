@@ -1,5 +1,7 @@
 # facture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/facture.md)
+
 <p><span class="chinese">最后，介绍了一种断裂韧性的测试方法。</span><span class="english">At last, a facture toughness test method was presented.</span></p>
 
 <p><span class="chinese">这一部分分为硬件电路的制作以及固件程序的编写。</span><span class="english">One is the facture of hardware, the other is the design of firmware.</span></p>

@@ -1,5 +1,7 @@
 # ling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ling.md)
+
 <p><span class="chinese">杨玲是我的一位好朋友。</span><span class="english">Yang Ling is a of.</span></p>
 
 <p><span class="chinese">我的名字是李玲。</span><span class="english">My name is Li Ling.</span></p>

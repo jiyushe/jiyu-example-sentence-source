@@ -1,5 +1,7 @@
 # nephelometry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nephelometry.md)
+
 <p><span class="chinese">方法应用免疫比浊法、电点聚焦及银染色法进行检测。</span><span class="english">Methods Using immune iso electric focusing and nephelometry immunoassay.</span></p>
 
 <p><span class="chinese">目的评估速率散射比浊法测定C1INH和C4的临床应用价值。</span><span class="english">Objective To evaluate rate nephelometry assay for measurement of C1INH and C4 concentration in serum.</span></p>

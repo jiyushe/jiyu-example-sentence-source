@@ -1,5 +1,7 @@
 # spyglass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spyglass.md)
+
 <p><span class="chinese">他再次举起自己的望远镜。</span><span class="english">He lifted his spyglass again.</span></p>
 
 <p><span class="chinese">这个小望远镜含有一个透镜。</span><span class="english">The spyglass contains a lens.</span></p>

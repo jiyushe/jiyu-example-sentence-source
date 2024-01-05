@@ -1,5 +1,7 @@
 # 半日
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banri.md)
+
 <p><span class="chinese">这所大学是所半日制学府。</span><span class="english">This university is a half-day rule educate.</span></p>
 
 <p><span class="chinese">项目工作组一度曾有12名全职员工，现在只有Nemitz先生和一位半日雇员。</span><span class="english">Now it is just Mr. Nemitz and a half-time employee.</span></p>

@@ -1,5 +1,7 @@
 # exhumation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exhumation.md)
+
 <p><span class="chinese">他在国家电视台上直播了挖掘过程。</span><span class="english">He broadcast the exhumation live on state TV.</span></p>
 
 <p><span class="chinese">然而，挖掘遗体的目的则不同。</span><span class="english">The aims of exhumation are, however, different.</span></p>

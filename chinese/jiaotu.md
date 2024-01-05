@@ -1,5 +1,7 @@
 # 教徒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaotu.md)
+
 <p><span class="chinese">撒旦教徒。</span><span class="english">Satanists.</span></p>
 
 <p><span class="chinese">小狗是人主教徒吗?。</span><span class="english">Was The Dog Catholic?</span></p>

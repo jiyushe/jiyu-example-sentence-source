@@ -1,5 +1,7 @@
 # 美人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meiren.md)
+
 <p><span class="chinese">那美人是酒鬼吗？</span><span class="english">Is the beauty a drunkard?</span></p>
 
 <p><span class="chinese">而且他曾经跟于美人约会过…</span><span class="english">And he used to date Oprah.</span></p>

@@ -1,5 +1,7 @@
 # extenuating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extenuating.md)
+
 <p><span class="chinese">当然，这也是情有可原的。</span><span class="english">Of course there were extenuating circumstances.</span></p>
 
 <p><span class="chinese">他是偷了钱，但有可以减轻罪责的情况。</span><span class="english">He stole the money, but there are extenuating circumstances.</span></p>

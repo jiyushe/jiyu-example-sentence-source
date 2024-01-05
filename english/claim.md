@@ -1,5 +1,7 @@
 # claim 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/claim.md)
+
 <p><span class="chinese">我掉了认领标签了。</span><span class="english">I lost my claim tag.</span></p>
 
 <p><span class="chinese">设置索赔金额。</span><span class="english">Sets the claim amount.</span></p>

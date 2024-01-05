@@ -1,5 +1,7 @@
 # 速食店
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sushidian.md)
+
 <p><span class="chinese">我要去一家真正的速食店。</span><span class="english">I'm going to a real fast-food restaurant.</span></p>
 
 <p><span class="chinese">我想我那时应该去速食店才对。</span><span class="english">I guess I should have gone to the fastfood restaurant.</span></p>

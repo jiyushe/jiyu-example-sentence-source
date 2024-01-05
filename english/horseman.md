@@ -1,5 +1,7 @@
 # horseman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horseman.md)
+
 <p><span class="chinese">每个马人有大约80万生命。</span><span class="english">Each horseman has about 800k health.</span></p>
 
 <p><span class="chinese">他马骑得和骑手一样好。</span><span class="english">He can ride a horse like a horseman.</span></p>

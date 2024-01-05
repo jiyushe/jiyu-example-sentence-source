@@ -1,5 +1,7 @@
 # areca
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/areca.md)
+
 <p><span class="chinese">槟榔真的会引发口腔癌吗？</span><span class="english">Can areca cause oral cavity cancer really?</span></p>
 
 <p><span class="chinese">国内外大量研究广泛证实嚼食槟榔会对健康的带来极大的危害。</span><span class="english">It has been well documented that Areca quid chewing is harmful for health.</span></p>

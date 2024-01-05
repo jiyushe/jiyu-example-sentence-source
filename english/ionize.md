@@ -1,5 +1,7 @@
 # ionize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ionize.md)
+
 <p><span class="chinese">而气体在2000度以上才能电离。</span><span class="english">But the gas can ionize above 2000 degrees.</span></p>
 
 <p><span class="chinese">大多数无机盐在水溶液中离解。</span><span class="english">Most inorganic salts ionize in water solution.</span></p>

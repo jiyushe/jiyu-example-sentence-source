@@ -1,5 +1,7 @@
 # 顶用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingyong.md)
+
 <p><span class="chinese">聪明见行为，空话不顶用。</span><span class="english">Be wise in deed, not word.</span></p>
 
 <p><span class="chinese">我去也不顶用。</span><span class="english">I can't be of any help even if I go.</span></p>

@@ -1,5 +1,7 @@
 # 一骨碌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yigulu.md)
+
 <p><span class="chinese">又好象是一骨碌儿水滴。</span><span class="english">It's like drops of water.</span></p>
 
 <p><span class="chinese">他一骨碌爬起跳下了床。</span><span class="english">He got out of bed with a spring.</span></p>

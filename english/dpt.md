@@ -1,5 +1,7 @@
 # dpt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dpt.md)
+
 <p><span class="chinese">我们的销售部人员会给您回确认的。</span><span class="english">You will receive the confirmation by our sale dpt.</span></p>
 
 <p><span class="chinese">该党发言人希林表示，这很出乎意料。</span><span class="english">DPT spokesman Palden Tshering says no one expected such a landslide.</span></p>

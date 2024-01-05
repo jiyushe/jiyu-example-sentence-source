@@ -1,5 +1,7 @@
 # 热障
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rezhang.md)
+
 <p><span class="chinese">新型风口的试用表明，热障涂层可减少风口处的热量损失，使得实际入炉的热风温度升高15.8℃。</span><span class="english">The practice showed the blast temperature was increased by 15.8 ℃ by use of such coating.</span></p>
 
 <p><span class="chinese">综述了目前国内外抗高温氧化涂层和热障涂层的研究现状。</span><span class="english">The study of oxidation resistance coatings and thermal resistance coatings was overviewed.</span></p>

@@ -1,5 +1,7 @@
 # swordplay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swordplay.md)
+
 <p><span class="chinese">舞剑表示正义。</span><span class="english">Swordplay to express righteousness.</span></p>
 
 <p><span class="chinese">我还在武当山学过剑术，那时我才十岁。</span><span class="english">I also learned swordplay at Wu Dang Mountain When I was only ten years old.</span></p>

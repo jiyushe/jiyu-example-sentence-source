@@ -1,5 +1,7 @@
 # tetra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tetra.md)
+
 <p><span class="chinese">你打算把那些利乐包储存到哪里？</span><span class="english">Where do you plan to store the collected tetra pack ?</span></p>
 
 <p><span class="chinese">研究人员在实验室研究了三种墨西哥丽脂鲤种群。</span><span class="english">Researchers studied three populations of Mexican tetra in the lab.</span></p>

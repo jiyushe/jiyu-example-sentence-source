@@ -1,5 +1,7 @@
 # mozambique
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mozambique.md)
+
 <p><span class="chinese">基林巴群岛，莫桑比克</span><span class="english">Quirimbas Archipelago, Mozambique</span></p>
 
 <p><span class="chinese">大裂谷全长9600公里，自以色列至莫桑比克。</span><span class="english">The Great Rift Valley 9600km from Isael to Mozambique.</span></p>

@@ -1,5 +1,7 @@
 # factual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/factual.md)
+
 <p><span class="chinese">数据是有据可依的。</span><span class="english">Data is factual.</span></p>
 
 <p><span class="chinese">这将是一本真实的书。</span><span class="english">The book was to be factual.</span></p>

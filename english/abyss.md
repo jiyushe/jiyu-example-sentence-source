@@ -1,5 +1,7 @@
 # abyss
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abyss.md)
+
 <p><span class="chinese">那就是深渊。</span><span class="english">Then the abyss.</span></p>
 
 <p><span class="chinese">或者跳进深渊之中。</span><span class="english">Or jump into the abyss.</span></p>

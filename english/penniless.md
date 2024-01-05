@@ -1,5 +1,7 @@
 # penniless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/penniless.md)
+
 <p><span class="chinese">现在我们一文不名了。</span><span class="english">Now we are penniless.</span></p>
 
 <p><span class="chinese">其实他身无分文。</span><span class="english">He is in reality penniless.</span></p>

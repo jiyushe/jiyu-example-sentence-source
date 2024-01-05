@@ -1,5 +1,7 @@
 # leaden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leaden.md)
+
 <p><span class="chinese">我可以看见从铅灰色的天空中飘落的雨丝。</span><span class="english">I can see drizzle from a leaden sky.</span></p>
 
 <p><span class="chinese">这在伊莎贝尔听来象铅块一样沉重。</span><span class="english">It fell with a leaden weight on isabel's ears.</span></p>

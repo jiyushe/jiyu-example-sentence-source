@@ -1,5 +1,7 @@
 # directivity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/directivity.md)
+
 <p><span class="chinese">可以形成单边指向性，翩及水听器成阵后的左右模糊问题。</span><span class="english">And the AVS can have the directivity of one side.</span></p>
 
 <p><span class="chinese">那种天线可接受没有方向性的信号。</span><span class="english">The antenna received signals with no directivity.</span></p>

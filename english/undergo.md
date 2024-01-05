@@ -1,5 +1,7 @@
 # undergo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undergo.md)
+
 <p><span class="chinese">使渗析或经受渗析。</span><span class="english">To subject to or undergo dialysis.</span></p>
 
 <p><span class="chinese">胶原蛋白如何进行自组装？</span><span class="english">How do collagens undergo self-assembly?</span></p>

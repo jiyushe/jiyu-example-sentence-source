@@ -1,5 +1,7 @@
 # 无色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuse.md)
+
 <p><span class="chinese">纯空气是无色无臭的。</span><span class="english">Pure air is colourless and odourless.</span></p>
 
 <p><span class="chinese">无色的绿色主意狂暴地睡着。</span><span class="english">The colorless green ideas sleep furiously.</span></p>

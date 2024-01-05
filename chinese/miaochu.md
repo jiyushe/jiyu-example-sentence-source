@@ -1,5 +1,7 @@
 # 妙处
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miaochu.md)
+
 <p><span class="chinese">但一旦她们发现笑话的妙处所在，则能从中得到更多的乐趣。</span><span class="english">however, they derive more pleasure from it.</span></p>
 
 <p><span class="chinese">每一个角落均有其妙处，足见主人的匠心独具。</span><span class="english">Every part shows the inventive mind of the owner.</span></p>

@@ -1,5 +1,7 @@
 # 短篇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duanpian.md)
+
 <p><span class="chinese">还得写一个短篇的音乐论文</span><span class="english">We have to write a short music paper.</span></p>
 
 <p><span class="chinese">我甚至就这个重难点型写过短篇特别研讨毕业文书。</span><span class="english">I've even writing a short disquisition on the issue.</span></p>

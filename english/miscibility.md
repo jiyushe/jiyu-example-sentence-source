@@ -1,5 +1,7 @@
 # miscibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/miscibility.md)
+
 <p><span class="chinese">用溶液成膜法研究了这类共聚物与酚氧树脂的共混相容性。</span><span class="english">The miscibility of these copolymers with phenoxy resin is studied.</span></p>
 
 <p><span class="chinese">用三维溶解度参数方法预测聚合物共混物的相容性。</span><span class="english">The method of solubility parameter was used to predict miscibility of polymer blends.</span></p>

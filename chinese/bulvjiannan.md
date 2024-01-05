@@ -1,5 +1,7 @@
 # 步履艰难
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bulvjiannan.md)
+
 <p><span class="chinese">他顽强地、步履艰难地走着，一直走回了公寓。</span><span class="english">He trudged doggedly on until he reached the flat.</span></p>
 
 <p><span class="chinese">那老人步履艰难地走着，双脚几乎都提不起来。</span><span class="english">The old man plods along, hardly able to lift each foot.</span></p>

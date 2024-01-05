@@ -1,5 +1,7 @@
 # gender
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gender.md)
+
 <p><span class="chinese">什么是性别？</span><span class="english">What is gender?</span></p>
 
 <p><span class="chinese">性别角色替换？</span><span class="english">Shifting gender roles?</span></p>

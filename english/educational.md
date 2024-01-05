@@ -1,5 +1,7 @@
 # educational 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/educational.md)
+
 <p><span class="chinese">富士公司也为教育宣传活动提供支持。</span><span class="english">They also support educational outreach.</span></p>
 
 <p><span class="chinese">这家出版社出版教育书籍。</span><span class="english">This press publishes educational books.</span></p>

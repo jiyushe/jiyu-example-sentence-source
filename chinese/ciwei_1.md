@@ -1,5 +1,7 @@
 # 词尾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ciwei_1.md)
+
 <p><span class="chinese">用作副词词尾。</span><span class="english">Serves as the adverb suffix.</span></p>
 
 <p><span class="chinese">英语动词靠词尾发生变化。</span><span class="english">In English, the verb inflects by endings.</span></p>

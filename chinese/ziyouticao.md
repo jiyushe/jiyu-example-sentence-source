@@ -1,5 +1,7 @@
 # 自由体操
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziyouticao.md)
+
 <p><span class="chinese">有氧运动和自由体操。</span><span class="english">Sports Aerobics and General Gymnastics.</span></p>
 
 <p><span class="chinese">你喜欢看自由体操吗？</span><span class="english">Do you like to watch the free-style exercises?</span></p>

@@ -1,5 +1,7 @@
 # 练字
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianzi_1.md)
+
 <p><span class="chinese">每天练字。</span><span class="english">Practice calligraphy every day.</span></p>
 
 <p><span class="chinese">我通常花两个小时练字。</span><span class="english">I usually spent two hours in writing.</span></p>

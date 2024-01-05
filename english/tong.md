@@ -1,5 +1,7 @@
 # tong
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tong.md)
+
 <p><span class="chinese">请问，你是唐伯虎吗?。</span><span class="english">Are you Tong Pak Fu?</span></p>
 
 <p><span class="chinese">莫小贝是佟湘玉的小姑子。</span><span class="english">Mo, the sister of Tong.</span></p>

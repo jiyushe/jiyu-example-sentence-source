@@ -1,5 +1,7 @@
 # reheating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reheating.md)
+
 <p><span class="chinese">但不要忘记，重复加热米饭可能导致食物中毒。</span><span class="english">But don't forget, reheating rice can lead to food poisoning.</span></p>
 
 <p><span class="chinese">然后进入再热炉、减径机和冷却床。</span><span class="english">Then there is reheating furnace, reducing mill and cooling table.</span></p>

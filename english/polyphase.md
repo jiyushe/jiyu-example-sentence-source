@@ -1,5 +1,7 @@
 # polyphase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polyphase.md)
+
 <p><span class="chinese">本文分析了多相无刷直流发电机的换向过程。</span><span class="english">The paper analyses the commutation processes in polyphase brushless DC generators.</span></p>
 
 <p><span class="chinese">混凝土是一种多相复合材料，其影响因素很多。</span><span class="english">Concrete is a kind of polyphase and compound material, be influenced with many factors.</span></p>

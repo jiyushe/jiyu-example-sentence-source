@@ -1,5 +1,7 @@
 # 暖锋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nuanfeng.md)
+
 <p><span class="chinese">据新闻报道，一股暖锋正朝这边移动。</span><span class="english">According to the news a warm front is moving this way.</span></p>
 
 <p><span class="chinese">气象预报员说，暖锋将停滞数天不移动。</span><span class="english">The weatherman said that the warm front would be stationary for several days.</span></p>

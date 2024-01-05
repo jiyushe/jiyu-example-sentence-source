@@ -1,5 +1,7 @@
 # cockatoo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cockatoo.md)
+
 <p><span class="chinese">这样会使得凤头鹦鹉感到不安全。</span><span class="english">This makes the cockatoo feel insecure.</span></p>
 
 <p><span class="chinese">风头鹦鹉「雪球」酷爱「新好男孩」。</span><span class="english">Snowball the cockatoo just loves the Backstreet Boys.</span></p>

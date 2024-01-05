@@ -1,5 +1,7 @@
 # berm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/berm.md)
+
 <p><span class="chinese">海岸顶上是后滨阶地。</span><span class="english">At the top of the shore is a berm.</span></p>
 
 <p><span class="chinese">此天然包括压实粘性土。</span><span class="english">This berm consisted of compacted clayey soils.</span></p>

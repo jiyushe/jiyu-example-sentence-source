@@ -1,5 +1,7 @@
 # piquancy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/piquancy.md)
+
 <p><span class="chinese">丰富与持久的果味，辣味，矿产香气。</span><span class="english">It's full of fruity, piquancy and mineral spice.</span></p>
 
 <p><span class="chinese">如果不算好，也至少是个痛快的开始。</span><span class="english">I've got a GOOD start, or at least, a piquancy start.</span></p>

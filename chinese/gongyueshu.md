@@ -1,5 +1,7 @@
 # 公约数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongyueshu.md)
+
 <p><span class="chinese">8和20的公约数是4。</span><span class="english">Eight and twenty cancel by four.</span></p>
 
 <p><span class="chinese">本节介绍了最突出的公约数。</span><span class="english">This section introduces several of the most prominent conventions.</span></p>

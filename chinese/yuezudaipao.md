@@ -1,5 +1,7 @@
 # 越俎代庖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuezudaipao.md)
+
 <p><span class="chinese">即使做的对的，也不能越俎代庖。</span><span class="english">If done right, can take over.</span></p>
 
 <p><span class="chinese">但是是和你妈妈睡觉的那个人，为你爸爸越俎代庖了。</span><span class="english">But I can do your mother on your father's behalf.</span></p>

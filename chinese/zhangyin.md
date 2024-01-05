@@ -1,5 +1,7 @@
 # 掌印
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangyin.md)
+
 <p><span class="chinese">而她只能希望并设法使红红的巴掌印早日褪去，算是原谅吧。</span><span class="english">The forgivable response is to hope and get the blusher out.</span></p>
 
 <p><span class="chinese">他们发现了Tweener的血掌印，警犬已经采集了他的气味。</span><span class="english">They find Tweener’s bloody hand print and the dogs have the scent.</span></p>

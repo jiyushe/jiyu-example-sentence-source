@@ -1,5 +1,7 @@
 # 边关
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianguan.md)
+
 <p><span class="chinese">有一天，住在边关的塞翁丢失了一匹马。</span><span class="english">One day, an old man living on the frontier lost one of his mares.</span></p>
 
 <p><span class="chinese">自古边关多匪患，骚动年代更空前。</span><span class="english">Since ancient times, many colorful banditry commotions more unprecedented.</span></p>

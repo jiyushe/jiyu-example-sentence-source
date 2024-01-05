@@ -1,5 +1,7 @@
 # riskless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/riskless.md)
+
 <p><span class="chinese">它也被称为无风险获利。</span><span class="english">It is also known as a " riskless profit".</span></p>
 
 <p><span class="chinese">没有风险的钱要比有风险的钱好。</span><span class="english">Riskless money is better than risky money.</span></p>

@@ -1,5 +1,7 @@
 # 苦参
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kushen.md)
+
 <p><span class="chinese">目的建立苦参碱脂质体的制备工艺。</span><span class="english">Objective To establish preparation of matrine liposome.</span></p>
 
 <p><span class="chinese">以上结果说明，氧化苦参碱是细胞色素P-450的诱导剂。</span><span class="english">The results indicated that Oxymatrine is a inducer of P-450.</span></p>

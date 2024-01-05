@@ -1,5 +1,7 @@
 # 软骨病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruangubing.md)
+
 <p><span class="chinese">换句话说，越来越多的英国孩子得了软骨病。</span><span class="english">In other words, they’ve got rickets.</span></p>
 
 <p><span class="chinese">软骨病是主要发生在儿童群体中的身体畸形。</span><span class="english">Rickets is a deformity mainly found in children.</span></p>

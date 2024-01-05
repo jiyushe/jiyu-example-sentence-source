@@ -1,5 +1,7 @@
 # 品目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinmu.md)
+
 <p><span class="chinese">我们会立即免费提供这些品目。</span><span class="english">We will provide the items free of charge immediately.</span></p>
 
 <p><span class="chinese">其他品目未列名的建筑用塑料制品。</span><span class="english">Builders'ware of plastics, not elsewhere specified or included.</span></p>

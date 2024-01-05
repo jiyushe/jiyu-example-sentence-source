@@ -1,5 +1,7 @@
 # switzerland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/switzerland.md)
+
 <p><span class="chinese">瑞士央行，希尔德布兰德</span><span class="english">Philipp Hildebrand, Switzerland</span></p>
 
 <p><span class="chinese">那你只能选择瑞士咯。</span><span class="english">That can only mean Switzerland.</span></p>

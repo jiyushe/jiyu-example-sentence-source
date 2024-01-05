@@ -1,5 +1,7 @@
 # cherub
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cherub.md)
+
 <p><span class="chinese">这基路伯高十肘，那基路伯也是如此。</span><span class="english">The height of cherub was ten cubits.</span></p>
 
 <p><span class="chinese">这幅画中的小天使很是可爱。</span><span class="english">The cherub in the painting is very lovely.</span></p>

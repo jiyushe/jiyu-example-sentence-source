@@ -1,5 +1,7 @@
 # divinity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/divinity.md)
+
 <p><span class="chinese">我是全一真神的一个面貌。</span><span class="english">To the One True Divinity This I AM.</span></p>
 
 <p><span class="chinese">那些获得了神性的人们化身为上帝。</span><span class="english">They who obtain divinity become gods.</span></p>

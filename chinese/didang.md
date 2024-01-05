@@ -1,5 +1,7 @@
 # 低档
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/didang.md)
+
 <p><span class="chinese">这家电台的收听率处于最低档。</span><span class="english">He listens to the radio to hear the news.</span></p>
 
 <p><span class="chinese">我们不经营低档的银饰。</span><span class="english">We do not deal in low class silver jewels.</span></p>

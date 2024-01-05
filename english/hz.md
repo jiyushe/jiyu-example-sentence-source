@@ -1,5 +1,7 @@
 # hz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hz.md)
+
 <p><span class="chinese">赫兹压服口风。</span><span class="english">Hz squelch tone.</span></p>
 
 <p><span class="chinese">请注意800赫兹以上的统一性。</span><span class="english">Note the uniformity above 800 Hz.</span></p>

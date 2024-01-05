@@ -1,5 +1,7 @@
 # 念头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niantou_1.md)
+
 <p><span class="chinese">多怪的念头呀·。</span><span class="english">What an idea!</span></p>
 
 <p><span class="chinese">多么荒唐的念头!</span><span class="english">What an absurd idea!</span></p>

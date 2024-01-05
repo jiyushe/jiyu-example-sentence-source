@@ -1,5 +1,7 @@
 # 遗精
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yijing_3.md)
+
 <p><span class="chinese">湿梦也被认为是夜间遗精。</span><span class="english">A wet dream is also known as a nocturnal emission.</span></p>
 
 <p><span class="chinese">可固精健肾，防止遗精。</span><span class="english">It may fine kidney health and prevent spermatorrhea.</span></p>

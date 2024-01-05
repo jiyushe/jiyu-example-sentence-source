@@ -1,5 +1,7 @@
 # exteriorly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exteriorly.md)
+
 <p><span class="chinese">就外表而言，这是完全无可厚非的。</span><span class="english">It is quite unobjectionable exteriorly.</span></p>
 
 <p><span class="chinese">椅座，椅背衬垫采用高密度，高弹性的聚氨脂泡绵，外面覆盖耐火布料。</span><span class="english">Seat and back cushion is made of high density and high elasticity PU foam, covered with fire retardant cloth exteriorly.</span></p>

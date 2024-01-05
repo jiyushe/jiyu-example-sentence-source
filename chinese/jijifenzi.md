@@ -1,5 +1,7 @@
 # 积极分子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jijifenzi.md)
+
 <p><span class="chinese">单谈某一问题的积极分子集团。</span><span class="english">A group of like-minded single-issue activists.</span></p>
 
 <p><span class="chinese">这是世界上首例这样的法律，得到了反烟积极分子的欢迎。</span><span class="english">It is a world first, hailed by anti-smoking activists.</span></p>

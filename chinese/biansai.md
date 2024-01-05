@@ -1,5 +1,7 @@
 # 边塞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biansai.md)
+
 <p><span class="chinese">第二部分是对边塞地区的描绘。</span><span class="english">The twice part depicts the frontier fortress.</span></p>
 
 <p><span class="chinese">李益是中唐前期著名的诗人，以擅长写边塞诗闻名。</span><span class="english">Li Yi was a famous poet in the middle of Tang Dynasty.</span></p>

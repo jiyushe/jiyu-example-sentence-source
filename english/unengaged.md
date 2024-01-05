@@ -1,5 +1,7 @@
 # unengaged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unengaged.md)
+
 <p><span class="chinese">左翼仍几乎未参战。</span><span class="english">The left flank remains practically unengaged.</span></p>
 
 <p><span class="chinese">应聘者没有问题会给人留下没有准备好和不关心的印象。</span><span class="english">Candidates who don't ask questions also come across as unprepared and unengaged.</span></p>

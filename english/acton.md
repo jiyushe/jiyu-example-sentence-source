@@ -1,5 +1,7 @@
 # acton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acton.md)
+
 <p><span class="chinese">阿克顿是个非常能干的人。</span><span class="english">Acton is an able man.</span></p>
 
 <p><span class="chinese">因此她说，星期二去阿克顿的一个日文学校。</span><span class="english">So she said, come to the Japanese school in Acton on Tuesday.</span></p>

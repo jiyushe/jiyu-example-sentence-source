@@ -1,5 +1,7 @@
 # outspend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outspend.md)
+
 <p><span class="chinese">看来他打算比他所有的朋友要多花些钱。</span><span class="english">It seemed that he wanted to outspend all his friend.</span></p>
 
 <p><span class="chinese">今年欧洲投资者的支出可能会超过日本投资者。</span><span class="english">European investors may outspend the Japanese this year.</span></p>

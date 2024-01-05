@@ -1,5 +1,7 @@
 # nubile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nubile.md)
+
 <p><span class="chinese">我们喜欢人们变得更年轻，性感和有魅力。</span><span class="english">We like people to be young, nubile and attractive.</span></p>
 
 <p><span class="chinese">超级名模简·布拉克内尔扮演一个性感女郎来勾引他。</span><span class="english">Supermodel Jane Bracknel plays a nubile temptress out to seduce him.</span></p>

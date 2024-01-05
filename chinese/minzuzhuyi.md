@@ -1,5 +1,7 @@
 # 民族主义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minzuzhuyi.md)
+
 <p><span class="chinese">他是个爱国者，却非民族主义分子。</span><span class="english">He was a patriot, but not a nationalist.</span></p>
 
 <p><span class="chinese">而且它应该抑制中国的民族主义。</span><span class="english">And it should reign in Chinese nationalism.</span></p>

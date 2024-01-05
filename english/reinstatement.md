@@ -1,5 +1,7 @@
 # reinstatement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reinstatement.md)
+
 <p><span class="chinese">这一群虚假神选择了天狼星来尝试这种内在恢复。</span><span class="english">This group of false gods chose Sirius to attempt this reinstatement within.</span></p>
 
 <p><span class="chinese">楼宇建筑之重建费或银行指定之按揭金额。</span><span class="english">Reinstatement cost of the building or mortgaged loan amount required by the Bank.</span></p>

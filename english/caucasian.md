@@ -1,5 +1,7 @@
 # caucasian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caucasian.md)
+
 <p><span class="chinese">也是第一位改变信仰的白人会长。</span><span class="english">And the convert, Caucasian convert.</span></p>
 
 <p><span class="chinese">阿伊努人长得像亚洲人和高加索人的混合体。</span><span class="english">The Ainu look like a mixture of Asian and Caucasian.</span></p>

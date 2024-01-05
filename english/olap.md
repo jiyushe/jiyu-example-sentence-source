@@ -1,5 +1,7 @@
 # olap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/olap.md)
+
 <p><span class="chinese">OLAP多维分析结果的显示。</span><span class="english">Display of OLAP multi-dimension analysis result.</span></p>
 
 <p><span class="chinese">大多数OLAP服务器近来都实现了XMLA。</span><span class="english">Most, if not all, OLAP servers implement XMLA these days.</span></p>

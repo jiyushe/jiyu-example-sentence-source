@@ -1,5 +1,7 @@
 # ingenious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ingenious.md)
+
 <p><span class="chinese">傻瓜式的，是啊，但是也很新颖。</span><span class="english">Goofy, yes. But also ingenious.</span></p>
 
 <p><span class="chinese">我有了解决这个问题的妙方。</span><span class="english">I got an ingenious solution to the problem.</span></p>

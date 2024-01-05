@@ -1,5 +1,7 @@
 # bulger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bulger.md)
+
 <p><span class="chinese">而这就是怀迪·布杰。</span><span class="english">and this is Whitey Bulger.</span></p>
 
 <p><span class="chinese">多少人同意比尔•巴尔格的立场？</span><span class="english">the position of Billy Bulger?</span></p>

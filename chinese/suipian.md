@@ -1,5 +1,7 @@
 # 碎片
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suipian.md)
+
 <p><span class="chinese">身体的碎片？</span><span class="english">What do we miss?</span></p>
 
 <p><span class="chinese">纳希尔圣剑的碎片。</span><span class="english">The shards of Narsil.</span></p>

@@ -1,5 +1,7 @@
 # 积肥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jifei.md)
+
 <p><span class="chinese">然后，他们可以把沼气当成燃料，给积肥场供电供暖。</span><span class="english">Then they could burn it, to power and heat the compost facility.</span></p>
 
 <p><span class="chinese">目前，杉木林积肥场正在考虑一个新的处理食物垃圾的方案。</span><span class="english">Alternative energy Now Cedar Grove has a new recipe in mind for its food waste.</span></p>

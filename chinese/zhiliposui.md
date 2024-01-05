@@ -1,5 +1,7 @@
 # 支离破碎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiliposui.md)
+
 <p><span class="chinese">柯希莫，你是我支离破碎的梦想。</span><span class="english">Dear my baron, you're my broken dream.</span></p>
 
 <p><span class="chinese">冲突如何变得这么支离破碎？</span><span class="english">How did this conflict get so fragmented?</span></p>

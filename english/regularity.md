@@ -1,5 +1,7 @@
 # regularity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regularity.md)
+
 <p><span class="chinese">我会整齐的把他圈出来“</span><span class="english">I'd zone out with regularity."</span></p>
 
 <p><span class="chinese">定时地有意识地保持联系吧。</span><span class="english">Stay in touch with regularity and intent.</span></p>

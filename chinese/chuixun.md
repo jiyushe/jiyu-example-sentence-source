@@ -1,5 +1,7 @@
 # 垂询
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuixun.md)
+
 <p><span class="chinese">欢迎各地厂家垂询。</span><span class="english">Welcome to contact around the factory.</span></p>
 
 <p><span class="chinese">欢迎阁下垂询、合作！</span><span class="english">Welcomer your excellency refer, cooperate!</span></p>

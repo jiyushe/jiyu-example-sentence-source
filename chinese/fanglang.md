@@ -1,5 +1,7 @@
 # 放浪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanglang.md)
+
 <p><span class="chinese">蜂蜜色的短衣放浪的棕色头发。</span><span class="english">Honey colored shorty with insane brown hair.</span></p>
 
 <p><span class="chinese">狂野不羁，自由放浪的他，眼睛深邃如大海。</span><span class="english">Wild and unruly, free Sweet Degeneration of his eyes deep as the sea.</span></p>

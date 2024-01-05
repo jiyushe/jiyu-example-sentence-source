@@ -1,5 +1,7 @@
 # eczema
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eczema.md)
+
 <p><span class="chinese">是起的癣或湿疹吗？</span><span class="english">Is ringworm or eczema from it?</span></p>
 
 <p><span class="chinese">不要吝惜您的湿疹药。</span><span class="english">Don't skimp on eczema medicine.</span></p>

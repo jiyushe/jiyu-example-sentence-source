@@ -1,5 +1,7 @@
 # semitone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semitone.md)
+
 <p><span class="chinese">在音调上升高半音的。</span><span class="english">Music raised in pitch by one chromatic semitone.</span></p>
 
 <p><span class="chinese">木梁的吱吱声成了井水的伴音。</span><span class="english">Squeak coming from wood beams becomes semitone of well water.</span></p>

@@ -1,5 +1,7 @@
 # 声调
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengdiao.md)
+
 <p><span class="chinese">勃克·穆利根用愉快的声调继续讲下去。</span><span class="english">Buck Mulligan's gay voice went on.</span></p>
 
 <p><span class="chinese">他的话语有一种怀疑的声调。</span><span class="english">His words were intoned with suspect.</span></p>

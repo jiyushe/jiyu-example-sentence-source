@@ -1,5 +1,7 @@
 # gst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gst.md)
+
 <p><span class="chinese">去年何华德政府推出了消费税。</span><span class="english">Last year the Howard government introduced the GST.</span></p>
 
 <p><span class="chinese">将此TESTIN片段引入GST基因融合系统成功的进行了表达。</span><span class="english">This TESTIN fragment was inserted in frame into GST gene fusion system.</span></p>

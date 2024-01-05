@@ -1,5 +1,7 @@
 # 为期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiqi.md)
+
 <p><span class="chinese">这是一个为期两天的研习会。</span><span class="english">This will be a two-day workshop.</span></p>
 
 <p><span class="chinese">他们在这作为期三天的访问。</span><span class="english">They are here on a three-day visit.</span></p>

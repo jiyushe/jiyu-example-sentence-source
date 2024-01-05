@@ -1,5 +1,7 @@
 # 质数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhishu_5.md)
+
 <p><span class="chinese">所有这些都是质数。</span><span class="english">All primes.</span></p>
 
 <p><span class="chinese">质数是什么？</span><span class="english">What is a prime number?</span></p>

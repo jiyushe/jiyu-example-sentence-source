@@ -1,5 +1,7 @@
 # intercollegiate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intercollegiate.md)
+
 <p><span class="chinese">他每年参加大学校际运动会。</span><span class="english">He takes part in the intercollegiate sports every year.</span></p>
 
 <p><span class="chinese">校际交流是办好党校的重要环节。</span><span class="english">Carry on the intercollegiate exchange is the important link to run the party school.</span></p>

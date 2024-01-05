@@ -1,5 +1,7 @@
 # disobedience
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disobedience.md)
+
 <p><span class="chinese">这男孩因不听话挨了打。</span><span class="english">The boy was beaten for disobedience.</span></p>
 
 <p><span class="chinese">回答，否则你们会为自己违抗命令后悔的。</span><span class="english">Answer or you may regret your disobedience.</span></p>

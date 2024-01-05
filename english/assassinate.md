@@ -1,5 +1,7 @@
 # assassinate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assassinate.md)
+
 <p><span class="chinese">至今没有人试图暗杀我。</span><span class="english">Nobody ever tried to assassinate me.</span></p>
 
 <p><span class="chinese">也许他们是想行刺我。</span><span class="english">Perhaps they intend to assassinate me.</span></p>

@@ -1,5 +1,7 @@
 # carling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carling.md)
+
 <p><span class="chinese">有些很好的机会，比如联赛杯，但却成全了对手，太让人失望了。</span><span class="english">There were good chances. We should have won the Carling Cup final.</span></p>
 
 <p><span class="chinese">他应该可以在联赛杯前正式复出。</span><span class="english">All being well he should be available for the Carling Cup or the game before.</span></p>

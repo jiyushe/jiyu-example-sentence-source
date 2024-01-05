@@ -1,5 +1,7 @@
 # fielder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fielder.md)
+
 <p><span class="chinese">亚瑟是个好外野手，却有一只容易酸痛的手臂。</span><span class="english">Arthur is a good fielder but he's got a glassarm.</span></p>
 
 <p><span class="chinese">亚瑟是个好外野手，却有一只容易酸痛的手臂。</span><span class="english">Arthur is a good fielder but he's got a glass arm.</span></p>

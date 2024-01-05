@@ -1,5 +1,7 @@
 # 胶版
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoban_1.md)
+
 <p><span class="chinese">胶版四色印刷，半自动化，稳定性难以控制。</span><span class="english">Offset full color printing, and semi-automatization method, low stability.</span></p>
 
 <p><span class="chinese">也有包胶版本供特别粗暴的应用情况。</span><span class="english">There exists also a rubberized version for particularly rugged applications.</span></p>

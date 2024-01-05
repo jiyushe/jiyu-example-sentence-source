@@ -1,5 +1,7 @@
 # dehydration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dehydration.md)
+
 <p><span class="chinese">早期脱水——无迹象或无症状。</span><span class="english">Early dehydration – no signs or symptoms.</span></p>
 
 <p><span class="chinese">疲劳可能是脱水的一种表现。</span><span class="english">Your fatigue can be a sign of dehydration.</span></p>

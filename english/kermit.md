@@ -1,5 +1,7 @@
 # kermit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kermit.md)
+
 <p><span class="chinese">找到想要的port，比如是kermit。</span><span class="english">Find the port you want, say kermit.</span></p>
 
 <p><span class="chinese">她曾经穿着一袭由几十只柯密特蛙偶制成的长裙。</span><span class="english">She once wore a dress made of dozens of Kermit frogs.</span></p>

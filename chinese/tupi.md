@@ -1,5 +1,7 @@
 # 土坯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tupi.md)
+
 <p><span class="chinese">还要检查土坯超虚拟集。</span><span class="english">Also check Adobe Ultra Virtual Sets.</span></p>
 
 <p><span class="chinese">但是从事土坯工作的人必须做试验。</span><span class="english">But people who work with adobe must experiment.</span></p>

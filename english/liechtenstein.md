@@ -1,5 +1,7 @@
 # liechtenstein
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liechtenstein.md)
+
 <p><span class="chinese">这张照片上的是列支敦士登的速滑健将蒂娜•维瑞兹。</span><span class="english">This photo shows skier Tina Weirather of Liechtenstein.</span></p>
 
 <p><span class="chinese">而列支敦士登现在则和英国协商一个更具合作性质的TIEA。</span><span class="english">Liechtenstein is negotiating a more co-operative TIEA with Britain now.</span></p>

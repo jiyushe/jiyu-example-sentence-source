@@ -1,5 +1,7 @@
 # 象话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianghua.md)
+
 <p><span class="chinese">我知道这不象话。</span><span class="english">I know it's crazy.</span></p>
 
 <p><span class="chinese">太不象话了，让我一直等了三个小时！</span><span class="english">I've been waiting for three hours!</span></p>

@@ -1,5 +1,7 @@
 # 搔首弄姿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/saoshounongzi.md)
+
 <p><span class="chinese">她总是在酒吧里搔首弄姿的。</span><span class="english">She's always coquetting in the bar.</span></p>
 
 <p><span class="chinese">那个女孩子向所有的外国男人搔首弄姿。</span><span class="english">That girl flings herself at any foreign men.</span></p>

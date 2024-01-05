@@ -1,5 +1,7 @@
 # 艰险
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianxian.md)
+
 <p><span class="chinese">虽然他的路程是艰险而陡峻。</span><span class="english">Though his ways are hard and steep.</span></p>
 
 <p><span class="chinese">他们都是迎着艰险上的英雄。</span><span class="english">They are all heroes grasping the nettle.</span></p>

@@ -1,5 +1,7 @@
 # oscillograph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oscillograph.md)
+
 <p><span class="chinese">本文提出了一种基于DSP的手持式数字存储示波表的设计方案。</span><span class="english">A design ot portable digital oscillograph based on DSP is presented.</span></p>
 
 <p><span class="chinese">带宽抉择示波器对信号的根基测量能力。</span><span class="english">Bandwidth decides oscillograph measures ability basically to signal.</span></p>

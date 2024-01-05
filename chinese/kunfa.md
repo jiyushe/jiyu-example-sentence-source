@@ -1,5 +1,7 @@
 # 困乏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kunfa.md)
+
 <p><span class="chinese">她们觉得困乏吗？</span><span class="english">Do they feel tired?</span></p>
 
 <p><span class="chinese">失望而困乏地，我回来了。</span><span class="english">Baffled and weary I come back.</span></p>

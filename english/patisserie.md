@@ -1,5 +1,7 @@
 # patisserie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/patisserie.md)
+
 <p><span class="chinese">我决定去那里学习西点，实现我的梦想。</span><span class="english">I decided to study Patisserie and realized my dream.</span></p>
 
 <p><span class="chinese">适合和蛋糕、甜品及各式糕点搭配。</span><span class="english">It goes well with cakes, desserts or dry patisserie.</span></p>

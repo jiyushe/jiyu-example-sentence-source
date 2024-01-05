@@ -1,5 +1,7 @@
 # 综述
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongshu_3.md)
+
 <p><span class="chinese">文献综述部分有二篇。</span><span class="english">There are two literature summaries.</span></p>
 
 <p><span class="chinese">文献综述部分有三篇。</span><span class="english">There are three literature summaries.</span></p>

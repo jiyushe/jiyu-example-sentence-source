@@ -1,5 +1,7 @@
 # controlled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/controlled.md)
+
 <p><span class="chinese">怎样能在几天内控制麦粒肿？</span><span class="english">How can be sty controlled?</span></p>
 
 <p><span class="chinese">这是一个受控的过程。</span><span class="english">This is a controlled process.</span></p>

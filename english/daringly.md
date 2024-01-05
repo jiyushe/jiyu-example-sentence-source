@@ -1,5 +1,7 @@
 # daringly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/daringly.md)
+
 <p><span class="chinese">你居然跑到别人家去了？</span><span class="english">You daringly went to other people's home?</span></p>
 
 <p><span class="chinese">美丽的人生活在恐惧之中，而真正美丽的人生活充满了勇气。</span><span class="english">Beautiful people live in fear, while truly beautiful people live daringly.</span></p>

@@ -1,5 +1,7 @@
 # booky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/booky.md)
+
 <p><span class="chinese">嗨，我是布克叔叔。</span><span class="english">Hi, I'm Uncle Booky.</span></p>
 
 <p><span class="chinese">这是布克叔叔。</span><span class="english">This is Uncle Booky.</span></p>

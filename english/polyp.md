@@ -1,5 +1,7 @@
 # polyp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polyp.md)
+
 <p><span class="chinese">未发现回肠粪袋息肉形成。</span><span class="english">No polyp in ileum pouch was seen.</span></p>
 
 <p><span class="chinese">为什么他会在结肠息肉切除？</span><span class="english">Why did he go in for colon polyp removal?</span></p>

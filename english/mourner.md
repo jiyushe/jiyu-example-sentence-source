@@ -1,5 +1,7 @@
 # mourner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mourner.md)
+
 <p><span class="chinese">我将是主要的忏悔者。</span><span class="english">I'll be chief mourner.</span></p>
 
 <p><span class="chinese">谁来当主祭？</span><span class="english">Who'll be chief mourner?</span></p>

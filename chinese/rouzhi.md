@@ -1,5 +1,7 @@
 # 肉汁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rouzhi.md)
+
 <p><span class="chinese">你不能叫这种东西肉汁吧？</span><span class="english">Can't you call it gravy?</span></p>
 
 <p><span class="chinese">下毛毛雨用烤肉汁。</span><span class="english">Drizzled with Barbecue Sauce.</span></p>

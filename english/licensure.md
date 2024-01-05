@@ -1,5 +1,7 @@
 # licensure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/licensure.md)
+
 <p><span class="chinese">各省都要求具有监察机构颁发的许可证。</span><span class="english">Licensure with a regulatory body is required in all provinces.</span></p>
 
 <p><span class="chinese">我们将与他们一道工作，看看为了许可证的颁发还需要做些什么。</span><span class="english">We will work with them to see what needs to be done to lead to licensure.</span></p>

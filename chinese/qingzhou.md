@@ -1,5 +1,7 @@
 # 轻舟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingzhou.md)
+
 <p><span class="chinese">轻舟能过几重山？</span><span class="english">How many hills can my skiff pass?</span></p>
 
 <p><span class="chinese">这条小型轻舟很容易搬运。</span><span class="english">The small canoe could be ported easily.</span></p>

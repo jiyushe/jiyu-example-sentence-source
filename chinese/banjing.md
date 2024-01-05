@@ -1,5 +1,7 @@
 # 半径
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banjing.md)
+
 <p><span class="chinese">球半径是ρ相当于。</span><span class="english">The sphere is rho equals one.</span></p>
 
 <p><span class="chinese">我们还学了能量，学了半径。</span><span class="english">We have energies. We have radii.</span></p>

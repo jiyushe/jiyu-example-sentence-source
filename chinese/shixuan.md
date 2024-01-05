@@ -1,5 +1,7 @@
 # 诗选
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shixuan.md)
+
 <p><span class="chinese">我得为这首诗选一个主题。</span><span class="english">I have to choose a subject for the poem.</span></p>
 
 <p><span class="chinese">他购买了一部莎士比亚诗选。</span><span class="english">He bought a Select Collection of Shakespeare's Poems.</span></p>

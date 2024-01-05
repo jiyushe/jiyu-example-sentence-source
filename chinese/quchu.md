@@ -1,5 +1,7 @@
 # 去处
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quchu.md)
+
 <p><span class="chinese">他去处不明。</span><span class="english">His present whereabouts is unknown.</span></p>
 
 <p><span class="chinese">那么圣乔治堡将会是你理想的去处。</span><span class="english">Castelo de Sao Jorge is the place to go.</span></p>

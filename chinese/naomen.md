@@ -1,5 +1,7 @@
 # 脑门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naomen.md)
+
 <p><span class="chinese">如果有必要请印在自己的脑门上提醒自己。</span><span class="english">Stencil it on your forehead if you must.</span></p>
 
 <p><span class="chinese">不要让脑门闭上，看不见这些记忆。</span><span class="english">Don't let the door close on those memories.</span></p>

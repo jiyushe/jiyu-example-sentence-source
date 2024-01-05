@@ -1,5 +1,7 @@
 # 支持
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhichi_2.md)
+
 <p><span class="chinese">我希望他支持我。</span><span class="english">I wish he would.</span></p>
 
 <p><span class="chinese">其次是支持。</span><span class="english">Next is support.</span></p>

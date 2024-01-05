@@ -1,5 +1,7 @@
 # 突发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tufa_2.md)
+
 <p><span class="chinese">他的手臂突发皮疹。</span><span class="english">A rash borke out on his arm.</span></p>
 
 <p><span class="chinese">称那是心脏病突发。</span><span class="english">The M.E. called it a heart attack.</span></p>

@@ -1,5 +1,7 @@
 # interphone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interphone.md)
+
 <p><span class="chinese">INTERPHONE研究的科学家们面临一个问题，即这一发现到底是准确的呢，还是只是偏差数据的结果？</span><span class="english">The question for the INTERPHONE scientists was whether this finding was real or the result of flawed data?</span></p>
 
 <p><span class="chinese">英国压力集团WiredChild则表示，手机对儿童的影响也很大，但没有包括在Interphone研究中。</span><span class="english">WiredChild, a UK pressure group, said the implications for children – not included in the Interphone study – were serious.</span></p>

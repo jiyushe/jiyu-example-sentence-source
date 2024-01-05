@@ -1,5 +1,7 @@
 # newsworthy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/newsworthy.md)
+
 <p><span class="chinese">如果是，它就可能有新闻价值。</span><span class="english">If so, that could make it newsworthy.</span></p>
 
 <p><span class="chinese">我觉得这个问题更有新闻价值。</span><span class="english">I believe that will be more newsworthy.</span></p>

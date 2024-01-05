@@ -1,5 +1,7 @@
 # omnipotence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/omnipotence.md)
+
 <p><span class="chinese">她知道全能的神已听见祈祷</span><span class="english">She knows Omnipotence has heard her prayer</span></p>
 
 <p><span class="chinese">他们与全能者紧密相连。</span><span class="english">They are indissolubly connected with Omnipotence.</span></p>

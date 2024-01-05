@@ -1,5 +1,7 @@
 # emotionally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emotionally.md)
+
 <p><span class="chinese">不要感情用事。</span><span class="english">Don’t react emotionally.</span></p>
 
 <p><span class="chinese">你认为他吝于付出感情？</span><span class="english">You think he's emotionally unavailable?</span></p>

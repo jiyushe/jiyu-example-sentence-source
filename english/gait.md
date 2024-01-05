@@ -1,5 +1,7 @@
 # gait
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gait.md)
+
 <p><span class="chinese">他的步态不雅观。</span><span class="english">He is awkward in his gait.</span></p>
 
 <p><span class="chinese">她走路一扭一扭的。</span><span class="english">She walks with a rolling gait.</span></p>

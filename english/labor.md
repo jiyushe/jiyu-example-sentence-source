@@ -1,5 +1,7 @@
 # labor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/labor.md)
+
 <p><span class="chinese">热爱劳动吧。</span><span class="english">Labor of love.</span></p>
 
 <p><span class="chinese">何时是劳工节?。</span><span class="english">When is Labor Day?</span></p>

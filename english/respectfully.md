@@ -1,5 +1,7 @@
 # respectfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/respectfully.md)
+
 <p><span class="chinese">德纳第恭恭敬敬地回答</span><span class="english">Thenardier replied respectfully</span></p>
 
 <p><span class="chinese">敬祈指导。</span><span class="english">We respectfully request your guidance.</span></p>

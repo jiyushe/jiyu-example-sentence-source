@@ -1,5 +1,7 @@
 # nude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nude.md)
+
 <p><span class="chinese">购买肉色和黑色文胸。</span><span class="english">Buy nude and black.</span></p>
 
 <p><span class="chinese">在裸体海滩上一丝不挂。</span><span class="english">Bare all on a nude beach.</span></p>

@@ -1,5 +1,7 @@
 # accustom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accustom.md)
+
 <p><span class="chinese">我无法使自己习于寒冷的天气。</span><span class="english">I cannot accustom myself to cold weather.</span></p>
 
 <p><span class="chinese">我得使自己习惯于走远路。</span><span class="english">I must accustom myself to take long walks.</span></p>

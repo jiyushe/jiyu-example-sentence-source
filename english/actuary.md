@@ -1,5 +1,7 @@
 # actuary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/actuary.md)
+
 <p><span class="chinese">精算师是干什么的？</span><span class="english">What is an Actuary?</span></p>
 
 <p><span class="chinese">30岁，在北京的一家财会公司做精算师。</span><span class="english">Vicky Yang, 30, is an actuary at an accounting firm in Beijing.</span></p>

@@ -1,5 +1,7 @@
 # lumberyard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lumberyard.md)
+
 <p><span class="chinese">第三棵树被砍成一条长柱子，留放在一个木材堆置场。</span><span class="english">The third tree was cut into strong beams and left in a lumberyard.</span></p>
 
 <p><span class="chinese">你睡着了然后被惊醒，那就像木场里锯木发出的声音。</span><span class="english">You drift off to sleep and next thing you know, it sounds like a lumberyard.</span></p>

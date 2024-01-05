@@ -1,5 +1,7 @@
 # devastatingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/devastatingly.md)
+
 <p><span class="chinese">它的广告做得极为成功。</span><span class="english">Its advertising is devastatingly successful.</span></p>
 
 <p><span class="chinese">首先，成瘾症极度难以治疗，而且极度容易复发。</span><span class="english">Well, first, addiction is exceedingly difficult to treat and devastatingly subject to relapse.</span></p>

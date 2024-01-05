@@ -1,5 +1,7 @@
 # unapt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unapt.md)
+
 <p><span class="chinese">现在还可以给客户一个初步的交代了，不至于让别人来砸场！</span><span class="english">Still can give a client an abecedarian now explained, unapt let others be bungled!</span></p>
 
 <p><span class="chinese">有这么十余天来，我心中忽觉到了自己的不至腐堕。</span><span class="english">For some ten days , my heart suddenly perceived that its person was unapt to degenerate yet.</span></p>

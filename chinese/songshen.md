@@ -1,5 +1,7 @@
 # 送审
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songshen.md)
+
 <p><span class="chinese">编辑将根据文章质量考虑是否送审。</span><span class="english">The editors will consider whether your submission qualifies for review.</span></p>
 
 <p><span class="chinese">能够独立完成船舶电气送审设计，详细设计，生产设计，独挡一面。</span><span class="english">Can finish ship electrical design for approval detail and production autocephaly.</span></p>

@@ -1,5 +1,7 @@
 # unsavoury
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsavoury.md)
+
 <p><span class="chinese">我们很难想像出有任何东西，会比原罪的全体告解，更加伤风败俗。</span><span class="english">It would be difficult to imagine anything more unsavoury than a wholesale confession of sin.</span></p>
 
 <p><span class="chinese">物淡而无盐岂可吃吗，蛋青有什么滋味呢。</span><span class="english">Can that which is unsavoury be eaten without salt? or is there any taste in the white of an egg?</span></p>

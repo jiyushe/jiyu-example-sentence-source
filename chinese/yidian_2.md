@@ -1,5 +1,7 @@
 # 疑点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yidian_2.md)
+
 <p><span class="chinese">自那次听证会以来，出现了与小默多克提供的证据有矛盾的疑点。</span><span class="english">His evidence has since been contradicted.</span></p>
 
 <p><span class="chinese">并且他还记下每一条明显的疑点。</span><span class="english">and also he set down every sensible doubtful point.</span></p>

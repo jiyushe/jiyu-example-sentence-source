@@ -1,5 +1,7 @@
 # subsystem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subsystem.md)
+
 <p><span class="chinese">新的纹身子系统？</span><span class="english">New tatooing subsystem?</span></p>
 
 <p><span class="chinese">调用C程序库的FFI子系统</span><span class="english">FFI subsystem for calling C libraries</span></p>

@@ -1,5 +1,7 @@
 # conditioning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conditioning.md)
+
 <p><span class="chinese">这只是自我调节的一部分而已。</span><span class="english">It’s all part of the conditioning.</span></p>
 
 <p><span class="chinese">那么经典条件作用有何作用？</span><span class="english">What's classical conditioning for?</span></p>

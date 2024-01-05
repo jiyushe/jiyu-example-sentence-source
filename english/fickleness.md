@@ -1,5 +1,7 @@
 # fickleness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fickleness.md)
+
 <p><span class="chinese">浮躁也被指责一些夫妻分手的原因。</span><span class="english">Fickleness is also blamed for some of the breakups.</span></p>
 
 <p><span class="chinese">娇艳如依，花心已空。</span><span class="english">Tender and beautiful, such as by, fickleness is empty.</span></p>

@@ -1,5 +1,7 @@
 # 原子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanzi.md)
+
 <p><span class="chinese">原子摆动。</span><span class="english">Atoms wiggle.</span></p>
 
 <p><span class="chinese">原子间距。</span><span class="english">Atomic spacing.</span></p>

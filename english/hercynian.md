@@ -1,5 +1,7 @@
 # hercynian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hercynian.md)
+
 <p><span class="chinese">该区金直接来源于加里东和华力西花岗岩。</span><span class="english">Gold source is from Caledonian and Hercynian granite.</span></p>
 
 <p><span class="chinese">成矿时代属早—中海西期。</span><span class="english">The metallogenic epoch should be early-middle Hercynian.</span></p>

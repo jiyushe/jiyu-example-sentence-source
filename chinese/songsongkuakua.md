@@ -1,5 +1,7 @@
 # 松松垮垮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songsongkuakua.md)
+
 <p><span class="chinese">他认为我松松垮垮。</span><span class="english">He thinks I'm too easygoing.</span></p>
 
 <p><span class="chinese">你工作不要松松垮垮。</span><span class="english">Don't get slack at your work.</span></p>

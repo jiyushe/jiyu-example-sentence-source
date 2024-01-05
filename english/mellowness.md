@@ -1,5 +1,7 @@
 # mellowness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mellowness.md)
+
 <p><span class="chinese">在柔和的月光下她双眼发亮。</span><span class="english">Her eyes glowed in the mellowness of the moonlight.</span></p>
 
 <p><span class="chinese">清醇入耳，柔情优雅，给人舒服的感觉。</span><span class="english">Mellowness ear, tenderness elegant, giving a comfortable feeling.</span></p>

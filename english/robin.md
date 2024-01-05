@@ -1,5 +1,7 @@
 # robin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/robin.md)
+
 <p><span class="chinese">罗宾气喘吁吁地说。</span><span class="english">Robin gasped.</span></p>
 
 <p><span class="chinese">拉西里的罗宾！</span><span class="english">Robin of Locksley!</span></p>

@@ -1,5 +1,7 @@
 # valuer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/valuer.md)
+
 <p><span class="chinese">他们派了一位估价者去给房子估价。</span><span class="english">They sent a valuer to assess the value of the house.</span></p>
 
 <p><span class="chinese">比起成功你为什麽更在乎失败？</span><span class="english">Why do you valuer your failures more then your success?</span></p>

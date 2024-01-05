@@ -1,5 +1,7 @@
 # springhead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/springhead.md)
+
 <p><span class="chinese">医药航空母舰，人类健康福源。</span><span class="english">Medical aircraft carrier, the springhead of human health.</span></p>
 
 <p><span class="chinese">我骨子里就是个多愁善感的女孩，这是唯一的根源。</span><span class="english">I am a delicate girl in bone, maybe it is the only springhead.</span></p>

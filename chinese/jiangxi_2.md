@@ -1,5 +1,7 @@
 # 讲习
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangxi_2.md)
+
 <p><span class="chinese">每场资料库讲习，皆有课后有奖问答喔！</span><span class="english">Workshops each database, there are after-school quiz Oh!</span></p>
 
 <p><span class="chinese">您来给我们讲一讲习惯用语的特点，好吗？</span><span class="english">Could you please explain for us the characteristics of idioms?</span></p>

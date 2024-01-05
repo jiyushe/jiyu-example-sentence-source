@@ -1,5 +1,7 @@
 # 引诱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinyou_1.md)
+
 <p><span class="chinese">她被一个流氓引诱而失去了贞操。</span><span class="english">She was ruined by a rascal.</span></p>
 
 <p><span class="chinese">她引诱了他，他堕落了。</span><span class="english">She tempted him and he fell.</span></p>

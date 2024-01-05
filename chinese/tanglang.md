@@ -1,5 +1,7 @@
 # 螳螂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanglang.md)
+
 <p><span class="chinese">灵蛇、仙鹤、金猴、螳螂。</span><span class="english">Viper! Orane! Monkey! Mantis!</span></p>
 
 <p><span class="chinese">连螳螂都有那对武器。</span><span class="english">Even Mantis got those thingies.</span></p>

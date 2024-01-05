@@ -1,5 +1,7 @@
 # 窃贼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiezei.md)
+
 <p><span class="chinese">那窃贼用刀刺追赶他的人。</span><span class="english">The thief knifed his chaser.</span></p>
 
 <p><span class="chinese">阿德里恩感觉就像一个窃贼。</span><span class="english">Adrian felt like a shoplifter.</span></p>

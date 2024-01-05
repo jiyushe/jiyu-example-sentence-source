@@ -1,5 +1,7 @@
 # 脏话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zanghua.md)
+
 <p><span class="chinese">他满口脏话地朝我们咆哮。</span><span class="english">He howled at us with rude remarks.</span></p>
 
 <p><span class="chinese">他满口脏话侮辱那位妇女。</span><span class="english">He insulted that woman by language.</span></p>

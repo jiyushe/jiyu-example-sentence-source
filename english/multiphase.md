@@ -1,5 +1,7 @@
 # multiphase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multiphase.md)
+
 <p><span class="chinese">采用混合模型对多相流动进行处理。</span><span class="english">Mixed model was adopted to treat with multiphase flow.</span></p>
 
 <p><span class="chinese">烧结矿做为炼铁的中间产物，是一种多相介质。</span><span class="english">In the production process of puddling, sinter is multiphase.</span></p>

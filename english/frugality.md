@@ -1,5 +1,7 @@
 # frugality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frugality.md)
+
 <p><span class="chinese">为节俭立法。</span><span class="english">Legislated Frugality.</span></p>
 
 <p><span class="chinese">节剑是美德之母。</span><span class="english">Frugality is the mother of virture.</span></p>

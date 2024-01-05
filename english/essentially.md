@@ -1,5 +1,7 @@
 # essentially 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/essentially.md)
+
 <p><span class="chinese">它的对立面说起。</span><span class="english">essentially it's opposite.</span></p>
 
 <p><span class="chinese">我本质上是一个西方人。</span><span class="english">I am essentially a Westerner.</span></p>

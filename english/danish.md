@@ -1,5 +1,7 @@
 # danish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/danish.md)
+
 <p><span class="chinese">皇家卫队仍在这里执行任务。</span><span class="english">The Danish Royal Guard is on duty.</span></p>
 
 <p><span class="chinese">他表示同意丹麦的谈判策略。</span><span class="english">He agrees with the Danish strategy.</span></p>

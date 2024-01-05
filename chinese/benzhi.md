@@ -1,5 +1,7 @@
 # 本职
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benzhi.md)
+
 <p><span class="chinese">因此这是很值得我们思考的，好，我们来抓住这个问题的本职。</span><span class="english">So this is a good place to think about, OK, let me capture that.</span></p>
 
 <p><span class="chinese">爱一个人不仅是她的外表，重在人的本职、本性。</span><span class="english">Love a person is not only her appearance, focus on their own, nature.</span></p>

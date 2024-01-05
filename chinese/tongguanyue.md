@@ -1,5 +1,7 @@
 # 铜管乐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongguanyue.md)
+
 <p><span class="chinese">该团由一支铜管乐队引导。</span><span class="english">A brass band led the regiment.</span></p>
 
 <p><span class="chinese">他们约请我加盟他们铜管乐队。</span><span class="english">They invited me to join their brass band.</span></p>

@@ -1,5 +1,7 @@
 # barbara
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barbara.md)
+
 <p><span class="chinese">其他书名费明仪的故事。</span><span class="english">The story of Barbara Fei.</span></p>
 
 <p><span class="chinese">嘿，巴布拉，对不起，我迟到了。</span><span class="english">Hello, Barbara. Sorry I'm late.</span></p>

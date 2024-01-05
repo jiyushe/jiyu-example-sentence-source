@@ -1,5 +1,7 @@
 # unmindful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unmindful.md)
+
 <p><span class="chinese">可是我们总是粗心大意，没有防范这潜行者。</span><span class="english">But we are often careless, unmindful of the prowler.</span></p>
 
 <p><span class="chinese">每个乘客都不顾其他人涌向出口。</span><span class="english">Each passenger rushed toward the exit, unmindful of the others.</span></p>

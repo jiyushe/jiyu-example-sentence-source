@@ -1,5 +1,7 @@
 # 惆怅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chouchang.md)
+
 <p><span class="chinese">丁香般的惆怅。</span><span class="english">Melancholy like lilacs.</span></p>
 
 <p><span class="chinese">惆怅无人试宽窄。</span><span class="english">No trial melancholy width.</span></p>

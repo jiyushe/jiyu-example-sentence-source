@@ -1,5 +1,7 @@
 # commode
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commode.md)
+
 <p><span class="chinese">他们为病人洗便桶。</span><span class="english">They clean out their commode.</span></p>
 
 <p><span class="chinese">现在的便桶有什么问题吗？</span><span class="english">So what exactly is wrong with the current commode?</span></p>

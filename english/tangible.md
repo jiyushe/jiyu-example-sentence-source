@@ -1,5 +1,7 @@
 # tangible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tangible.md)
+
 <p><span class="chinese">这种体验几乎是有形的。</span><span class="english">The experience is almost tangible.</span></p>
 
 <p><span class="chinese">它是存在的，它是有形的。</span><span class="english">It will exist. It will be tangible.</span></p>

@@ -1,5 +1,7 @@
 # 略图
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvetu.md)
+
 <p><span class="chinese">使用缩略图。</span><span class="english">Use thumbnails.</span></p>
 
 <p><span class="chinese">他画了一幅欧洲的略图。</span><span class="english">He outlined a map of Europe.</span></p>

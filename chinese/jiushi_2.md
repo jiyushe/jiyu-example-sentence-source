@@ -1,5 +1,7 @@
 # 旧时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiushi_2.md)
+
 <p><span class="chinese">我认出头顶飞过的大雁，是旧友，却带不回旧时的回忆！</span><span class="english">Bring not the old memories back!</span></p>
 
 <p><span class="chinese">旧时的江南，草长莺飞的季节。</span><span class="english">The old South, the spring season.</span></p>

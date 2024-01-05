@@ -1,5 +1,7 @@
 # categorize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/categorize.md)
+
 <p><span class="chinese">根据需要，对文集条目进行编辑和分类。</span><span class="english">Edit and categorize corpus items, as required</span></p>
 
 <p><span class="chinese">然后在下一个屏幕中，需要对资产进行分类。</span><span class="english">You then need to categorize the asset in the next screen.</span></p>

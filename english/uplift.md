@@ -1,5 +1,7 @@
 # uplift
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uplift.md)
+
 <p><span class="chinese">她想买一个挺高式乳罩。</span><span class="english">She want to buy an uplift bra.</span></p>
 
 <p><span class="chinese">它将鼓励你，解释你为什么感觉这样。</span><span class="english">It will uplift you and explain why you feel this way.</span></p>

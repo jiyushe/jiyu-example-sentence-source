@@ -1,5 +1,7 @@
 # 设色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shese.md)
+
 <p><span class="chinese">拍品的山水画面之材质原为设色纸本，应更正为设色绢本。</span><span class="english">The material of the painting side should read ink and colour on silk.</span></p>
 
 <p><span class="chinese">画面墨淡气雅，设色颇有浪漫主义韵味。</span><span class="english">The portrait, painted in a simple but elegant style, has a romantic flavor.</span></p>

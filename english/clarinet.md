@@ -1,5 +1,7 @@
 # clarinet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clarinet.md)
+
 <p><span class="chinese">他是名出色的黑管演奏家。</span><span class="english">He is famous clarinet player.</span></p>
 
 <p><span class="chinese">我们遇见黑管和长笛。</span><span class="english">We meet a clarinet and a flute.</span></p>

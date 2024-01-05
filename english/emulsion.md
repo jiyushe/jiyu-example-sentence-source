@@ -1,5 +1,7 @@
 # emulsion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emulsion.md)
+
 <p><span class="chinese">新型水乳型防水涂料。</span><span class="english">New type of emulsion waterproof coating.</span></p>
 
 <p><span class="chinese">将这张校样重新涂以重铬酸盐乳剂。</span><span class="english">The proof is recoated with dichromate emulsion.</span></p>

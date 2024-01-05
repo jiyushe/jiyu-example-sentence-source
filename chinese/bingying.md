@@ -1,5 +1,7 @@
 # 兵营
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingying.md)
+
 <p><span class="chinese">在高原建立一个兵营。</span><span class="english">Build a Barracks on your plateau.</span></p>
 
 <p><span class="chinese">在高原建立一个兵营和寺庙。</span><span class="english">Build a Barracks and Temple on your plateau.</span></p>

@@ -1,5 +1,7 @@
 # 使坏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shihuai.md)
+
 <p><span class="chinese">她有使坏的幽默感。</span><span class="english">She has a mischievous sense of humour.</span></p>
 
 <p><span class="chinese">此外还存在另一种使坏的根源。</span><span class="english">And there lies another source of sourness.</span></p>

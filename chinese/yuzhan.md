@@ -1,5 +1,7 @@
 # 预展
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuzhan.md)
+
 <p><span class="chinese">苏富比今日为这些珍品作传媒预展。</span><span class="english">Su Fu makes medium preview than be these curiosa now.</span></p>
 
 <p><span class="chinese">宝马i8概念车也亮相预展。</span><span class="english">The BMW i8 concept also appeared at the sneak preview.</span></p>

@@ -1,5 +1,7 @@
 # professed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/professed.md)
+
 <p><span class="chinese">她声称自己是无辜的。</span><span class="english">She professed herself to be guiltless.</span></p>
 
 <p><span class="chinese">修道院院长在年轻的修道士中接纳了三人进入教团。</span><span class="english">The abbot professed three of the young monks.</span></p>

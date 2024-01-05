@@ -1,5 +1,7 @@
 # banishment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/banishment.md)
+
 <p><span class="chinese">沉默是一种情感放逐。</span><span class="english">Silence is a form of emotional banishment.</span></p>
 
 <p><span class="chinese">避免遭受驱逐对我们很重要。</span><span class="english">Avoiding banishment would be important to us.</span></p>

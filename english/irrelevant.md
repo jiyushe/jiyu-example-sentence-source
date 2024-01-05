@@ -1,5 +1,7 @@
 # irrelevant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irrelevant.md)
+
 <p><span class="chinese">这是，因为它发生的，无关宏旨。</span><span class="english">This is, as it happens, irrelevant.</span></p>
 
 <p><span class="chinese">风与雪花的人生，各不相干。</span><span class="english">The wind and snow life, all irrelevant.</span></p>

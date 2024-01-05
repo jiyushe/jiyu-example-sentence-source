@@ -1,5 +1,7 @@
 # scissor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scissor.md)
+
 <p><span class="chinese">钳咬，虽然咬合已被采纳。</span><span class="english">Pincer bite, though scissor bite is accepted.</span></p>
 
 <p><span class="chinese">剪刀剪过床，你是红色，暴力的红色。</span><span class="english">Scissor shaped across the bed, you are red, violent red.</span></p>

@@ -1,5 +1,7 @@
 # confirmation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confirmation.md)
+
 <p><span class="chinese">发送确认函。</span><span class="english">Send a confirmation letter.</span></p>
 
 <p><span class="chinese">日期尚待工场确认。</span><span class="english">Date pending field confirmation.</span></p>

@@ -1,5 +1,7 @@
 # 急促
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jicu.md)
+
 <p><span class="chinese">这也许是比较急促的号子。</span><span class="english">The work's chant maybe a rapid one.</span></p>
 
 <p><span class="chinese">而太匆忙的生活让我有种急促的去死的窒息感。</span><span class="english">Too fast to live, too young to die.</span></p>

@@ -1,5 +1,7 @@
 # joviality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/joviality.md)
+
 <p><span class="chinese">他们有那么多空闲的时间，又有那么多空闲的兴致。</span><span class="english">They have so much leisure and so much leisurely joviality.</span></p>
 
 <p><span class="chinese">激动和歇斯底里之间就一线之隔。</span><span class="english">There's a very thin dividing line between joviality and hysteria.</span></p>

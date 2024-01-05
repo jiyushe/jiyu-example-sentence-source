@@ -1,5 +1,7 @@
 # 人工智能
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rengongzhineng.md)
+
 <p><span class="chinese">而不像人工智能电影那样。</span><span class="english">It’s not like the movie AI.</span></p>
 
 <p><span class="chinese">我不太想把它称为人工智能，“他说。”</span><span class="english">"I hesitate to call it AI, " he says.</span></p>

@@ -1,5 +1,7 @@
 # 洋相
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangxiang.md)
+
 <p><span class="chinese">你从他身上已经看到了印度人的洋相了。</span><span class="english">You've seen in him show indian.</span></p>
 
 <p><span class="chinese">她喜欢想尽办法出别人的洋相。</span><span class="english">She enjoys trying to score off other people.</span></p>

@@ -1,5 +1,7 @@
 # ensemble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ensemble.md)
+
 <p><span class="chinese">他碰到“大剧院”剧团里的一个姑娘。</span><span class="english">He had met a Bolshoi ensemble girl.</span></p>
 
 <p><span class="chinese">还有谁能脱掉这套惊艳的礼服？</span><span class="english">Who else could pull off this stunning ensemble?</span></p>

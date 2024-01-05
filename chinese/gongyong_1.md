@@ -1,5 +1,7 @@
 # 共用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongyong_1.md)
+
 <p><span class="chinese">是共用电子。</span><span class="english">Sharing of electrons.</span></p>
 
 <p><span class="chinese">我们和快船共用一个球馆。</span><span class="english">We share it with the Clippers.</span></p>

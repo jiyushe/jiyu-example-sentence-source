@@ -1,5 +1,7 @@
 # aetiological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aetiological.md)
+
 <p><span class="chinese">小儿疾病的发病原因。</span><span class="english">Pedistric disease's aetiological agent.</span></p>
 
 <p><span class="chinese">目前最新的研究致力于圆锥角膜病的基因研究，并认为是主要的病因之一。</span><span class="english">Now, recent investigations devote to gene, and think it one of the major aetiological factors.</span></p>

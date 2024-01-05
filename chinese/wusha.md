@@ -1,5 +1,7 @@
 # 误杀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wusha.md)
+
 <p><span class="chinese">帕特·提尔曼在阿富汗意外地被友军误杀。</span><span class="english">He was killed in a friendly fire incident in Afghanistan.</span></p>
 
 <p><span class="chinese">他涉嫌的一起案件中，他由于认错人而误杀了至少一个人。</span><span class="english">He killed at least one man in a case of mistaken identity.</span></p>

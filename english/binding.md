@@ -1,5 +1,7 @@
 # binding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/binding.md)
+
 <p><span class="chinese">书在装订中。</span><span class="english">The books were binding.</span></p>
 
 <p><span class="chinese">所以，“E“是结合能。</span><span class="english">So, e is binding energy.</span></p>

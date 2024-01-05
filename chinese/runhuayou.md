@@ -1,5 +1,7 @@
 # 润滑油
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/runhuayou.md)
+
 <p><span class="chinese">我们用些润滑油好吗？</span><span class="english">Can we use a little lube?</span></p>
 
 <p><span class="chinese">给克令吊钢丝上润滑油。</span><span class="english">Lubricate wires of cranes.</span></p>

@@ -1,5 +1,7 @@
 # 逍遥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoyao_1.md)
+
 <p><span class="chinese">十笑乐逍遥！</span><span class="english">Ten smile joy!</span></p>
 
 <p><span class="chinese">放飞梦想，逍遥潍坊。</span><span class="english">Flying dreams, carefree Weifang.</span></p>

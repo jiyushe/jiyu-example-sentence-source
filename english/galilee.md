@@ -1,5 +1,7 @@
 # galilee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/galilee.md)
+
 <p><span class="chinese">这是他在加利利时讲的。</span><span class="english">This parable was told while he was in Galilee.</span></p>
 
 <p><span class="chinese">但也有的说，基督岂是从加利利出来的吗。</span><span class="english">But some said, Shall Christ come out of Galilee?</span></p>

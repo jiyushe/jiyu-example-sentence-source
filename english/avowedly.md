@@ -1,5 +1,7 @@
 # avowedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/avowedly.md)
+
 <p><span class="chinese">因为它公开宣布的和平宪法？</span><span class="english">Is it the avowedly pacifist constitution?</span></p>
 
 <p><span class="chinese">换句话说，他的政治纲领公开地带有主观性。</span><span class="english">His creed, in other words, was avowedly subjective.</span></p>

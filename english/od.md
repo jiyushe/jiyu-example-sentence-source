@@ -1,5 +1,7 @@
 # od
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/od.md)
+
 <p><span class="chinese">良多外径世界最顶尖的设计师的名字是法国人。</span><span class="english">Many od the world ' s top designer names are French.</span></p>
 
 <p><span class="chinese">分析了讨论式组织发展的目标和方法。</span><span class="english">The purpose and methods of discursive OD were analysed.</span></p>

@@ -1,5 +1,7 @@
 # morpheus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/morpheus.md)
+
 <p><span class="chinese">有什么帮助睡眠的药吗?。</span><span class="english">What helps the drug of Morpheus?</span></p>
 
 <p><span class="chinese">怎么样才能改善睡眠?。</span><span class="english">How can ability improve Morpheus?</span></p>

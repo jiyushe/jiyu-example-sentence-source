@@ -1,5 +1,7 @@
 # 替代
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tidai.md)
+
 <p><span class="chinese">我就是在不停地替代。</span><span class="english">I'm just substituting in.</span></p>
 
 <p><span class="chinese">考虑短期荷尔蒙替代疗法。</span><span class="english">THINK ABOUT SHORT-TERM HRT.</span></p>

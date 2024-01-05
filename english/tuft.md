@@ -1,5 +1,7 @@
 # tuft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tuft.md)
+
 <p><span class="chinese">丛簇一绺头发或一''。'撮'。''羽毛。</span><span class="english">A tuft of hair or feathers.</span></p>
 
 <p><span class="chinese">此突起部分的一丛毛。</span><span class="english">A tuft of hair on such a projection.</span></p>

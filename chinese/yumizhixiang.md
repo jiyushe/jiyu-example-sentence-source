@@ -1,5 +1,7 @@
 # 鱼米之乡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yumizhixiang.md)
+
 <p><span class="chinese">无锡是中国著名的鱼米之乡。</span><span class="english">Wuxi is a famous land of plenty.</span></p>
 
 <p><span class="chinese">基本资料湖南是鱼米之乡。</span><span class="english">Hunan is a land of fish and rice.</span></p>

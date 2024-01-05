@@ -1,5 +1,7 @@
 # 司令
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/siling.md)
+
 <p><span class="chinese">布莱克松走进了舰队司令的大舱房。</span><span class="english">He went into the great cabin.</span></p>
 
 <p><span class="chinese">高格叫了起来，“我是地球司令！</span><span class="english">Gog cried.‘I am Earth Commander!</span></p>

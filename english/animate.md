@@ -1,5 +1,7 @@
 # animate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/animate.md)
+
 <p><span class="chinese">所有我需要你做的就是将其动画化。</span><span class="english">All I need you to do is animate it.</span></p>
 
 <p><span class="chinese">我喜欢看卡通片，众泰萧山改装厂，喜欢有生机的动物。</span><span class="english">I like animate animals and I enjoy watching animation.</span></p>

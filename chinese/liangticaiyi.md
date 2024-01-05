@@ -1,5 +1,7 @@
 # 量体裁衣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangticaiyi.md)
+
 <p><span class="chinese">时间是一个裁缝，擅长于量体裁衣。</span><span class="english">Time is a dressmaker, specializing in altreations.</span></p>
 
 <p><span class="chinese">定制木门就像是裁缝量体裁衣一样，周期长产量小。</span><span class="english">Customize individualized door like a tailor, long production period.</span></p>

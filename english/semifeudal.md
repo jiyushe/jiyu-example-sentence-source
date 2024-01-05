@@ -1,5 +1,7 @@
 # semifeudal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semifeudal.md)
+
 <p><span class="chinese">旧中国是一个半封建半殖民地国家。</span><span class="english">Old China was a semifeudal and semicolonial country.</span></p>
 
 <p><span class="chinese">鸦片战争后，中国逐步沦为半封建半殖民地社会。</span><span class="english">After the Opium War, China was gradually reduced to semifeudal and semicolonial society.</span></p>

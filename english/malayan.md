@@ -1,5 +1,7 @@
 # malayan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malayan.md)
+
 <p><span class="chinese">橡胶成了马来亚经济的支柱产品。</span><span class="english">Rubber became the staple of the Malayan economy.</span></p>
 
 <p><span class="chinese">此外，它还有另一颗牙需要修复。</span><span class="english">The Malayan Sun Bear also had another tooth repaired.</span></p>

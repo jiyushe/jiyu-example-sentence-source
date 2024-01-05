@@ -1,5 +1,7 @@
 # 荣辱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongru.md)
+
 <p><span class="chinese">阿桑奇却荣辱兼具，需要反思这个问题。</span><span class="english">Assange needs to reflect on this.</span></p>
 
 <p><span class="chinese">一个见惯荣辱兴衰的人不容易沮丧。</span><span class="english">A man used to vicissitudes is not easily dejected.</span></p>

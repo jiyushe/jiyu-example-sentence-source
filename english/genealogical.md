@@ -1,5 +1,7 @@
 # genealogical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/genealogical.md)
+
 <p><span class="chinese">李华重视族谱学与社会实情。</span><span class="english">He lays stress on genealogical studies and the social reality.</span></p>
 
 <p><span class="chinese">类似的情况当然不止是周氏一个宗谱。</span><span class="english">A similar case is certainly more than just a genealogical recitals.</span></p>

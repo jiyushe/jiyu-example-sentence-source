@@ -1,5 +1,7 @@
 # 社会保险
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shehuibaoxian.md)
+
 <p><span class="chinese">尽可能推延社会保险。</span><span class="english">Put off Social Security as long as possible.</span></p>
 
 <p><span class="chinese">上海社会保险民事局副主任张帆在一次电话采访中说，“每年，我们至少需要多加5000张床。”</span><span class="english">Every year, we’ll need at least 5,000 additional beds.</span></p>

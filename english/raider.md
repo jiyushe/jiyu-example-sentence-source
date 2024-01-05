@@ -1,5 +1,7 @@
 # raider
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/raider.md)
+
 <p><span class="chinese">其一是一种新的掠夺单位。</span><span class="english">The first is the new Raider unit.</span></p>
 
 <p><span class="chinese">清道夫飞船名为“袭击者号”。</span><span class="english">The scavenger vessel is called the Raider.</span></p>

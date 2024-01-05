@@ -1,5 +1,7 @@
 # superannuated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superannuated.md)
+
 <p><span class="chinese">你的汽车早就该淘汰了。</span><span class="english">Your car would be superannuated early.</span></p>
 
 <p><span class="chinese">你还骑那辆老掉牙的自行车吗?。</span><span class="english">Are you still riding that superannuated old bike?</span></p>

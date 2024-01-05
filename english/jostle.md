@@ -1,5 +1,7 @@
 # jostle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jostle.md)
+
 <p><span class="chinese">言辞是他的谋生之道。</span><span class="english">Words were his way of ordering the jostle of life.</span></p>
 
 <p><span class="chinese">他还必须与天翻地覆的金融体系进行一番搏斗。</span><span class="english">And he will jostle with a financial system turned upside down.</span></p>

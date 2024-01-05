@@ -1,5 +1,7 @@
 # 扣留
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kouliu.md)
+
 <p><span class="chinese">我们要扣留你的车辆。</span><span class="english">We'll need to impound your car.</span></p>
 
 <p><span class="chinese">这一次，没有人员死亡或者被扣留。</span><span class="english">No one was killed or captured this time.</span></p>

@@ -1,5 +1,7 @@
 # yearly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yearly.md)
+
 <p><span class="chinese">它们每年繁殖两次。</span><span class="english">They breed twice yearly.</span></p>
 
 <p><span class="chinese">我们每年提薪一次。</span><span class="english">We get a yearly pay-increase.</span></p>

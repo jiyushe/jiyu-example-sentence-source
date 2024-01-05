@@ -1,5 +1,7 @@
 # hydromechanics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydromechanics.md)
+
 <p><span class="chinese">同时，电磁学理论对流体力学具有反作用，它们相互影响。</span><span class="english">The theory of electromagnetism may bring about negative effect on hydromechanics , and both influence each other.</span></p>
 
 <p><span class="chinese">本文根据电磁学和流体力学对磁性流体密封进行了理论分析。</span><span class="english">In this paper, ferrofluid seals for rotating shafts are analysed according to electromagnetism and hydromechanics.</span></p>

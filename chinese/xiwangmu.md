@@ -1,5 +1,7 @@
 # 西王母
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiwangmu.md)
+
 <p><span class="chinese">或许他似乎察觉到了西王母的不满。</span><span class="english">He seemed to sense her disapproval.</span></p>
 
 <p><span class="chinese">“这段引文非常有趣，”西王母说。</span><span class="english">"The quotation is funny, " she said.</span></p>

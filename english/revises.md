@@ -1,5 +1,7 @@
 # revises
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revises.md)
+
 <p><span class="chinese">统计局每五年修订一次税率。</span><span class="english">The VOA revises the rates every five years.</span></p>
 
 <p><span class="chinese">这是他在他的老教师的基础上修正的东西。</span><span class="english">This is something he revises from that old teacher.</span></p>

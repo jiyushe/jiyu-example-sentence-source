@@ -1,5 +1,7 @@
 # 随笔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suibi.md)
+
 <p><span class="chinese">马策在一篇随笔中写到。</span><span class="english">Ma wrote in an essay.</span></p>
 
 <p><span class="chinese">他的随笔或许带有陈腐的学究气。</span><span class="english">His essays can be Oxbridge musty.</span></p>

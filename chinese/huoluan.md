@@ -1,5 +1,7 @@
 # 霍乱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoluan.md)
+
 <p><span class="chinese">什么是霍乱？</span><span class="english">What is cholera?</span></p>
 
 <p><span class="chinese">霍乱是加尔各答的流行病。</span><span class="english">Cholera is endemic in Kolkota.</span></p>

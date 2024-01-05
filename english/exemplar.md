@@ -1,5 +1,7 @@
 # exemplar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exemplar.md)
+
 <p><span class="chinese">所谓杰作，是编写良好的软件典范。</span><span class="english">The masterpiece is an exemplar of well-written software.</span></p>
 
 <p><span class="chinese">基本原理没有因孔雀的例子而受到怀疑。</span><span class="english">Basic principles aren’t in doubt for the peacock exemplar.</span></p>

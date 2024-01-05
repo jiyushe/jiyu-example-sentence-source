@@ -1,5 +1,7 @@
 # 地心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dixin.md)
+
 <p><span class="chinese">你在自己地心变暖阳。</span><span class="english">You are in my heart warming Yang.</span></p>
 
 <p><span class="chinese">月亮代表地心低落！</span><span class="english">the moonlight stands for my heart!</span></p>

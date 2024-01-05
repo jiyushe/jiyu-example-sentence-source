@@ -1,5 +1,7 @@
 # renegade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/renegade.md)
+
 <p><span class="chinese">换言之，考茨基是个叛徒。</span><span class="english">In other words, Kautsky is a renegade.</span></p>
 
 <p><span class="chinese">高加索的叛匪死了，他的恐怖事业也会终结。</span><span class="english">Caucasus Renegade Dies, and His Cause May Die, Too.</span></p>

@@ -1,5 +1,7 @@
 # zealand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zealand.md)
+
 <p><span class="chinese">事实上，我的国籍是新西兰。</span><span class="english">I am from New Zealand officially.</span></p>
 
 <p><span class="chinese">教堂，库克群岛，新西兰。</span><span class="english">Church, Cook Islands, New Zealand.</span></p>

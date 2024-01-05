@@ -1,5 +1,7 @@
 # haptics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haptics.md)
+
 <p><span class="chinese">触觉技术一定程度上可以模拟出键程，但是现有的技术还是很有限。</span><span class="english">Haptics can simulate key travel to an extent, but the technology today is very limited.</span></p>
 
 <p><span class="chinese">我们把游戏的声音调小，但是马克，令人吃惊的是，虚拟触觉还在延续。</span><span class="english">We turned the sound down on the game but Mark amazingly the haptics is still carrying on.</span></p>

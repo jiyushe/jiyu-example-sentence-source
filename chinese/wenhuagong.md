@@ -1,5 +1,7 @@
 # 文化宫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenhuagong.md)
+
 <p><span class="chinese">今晚在文化宫会上演哪个戏目？</span><span class="english">What play will be performed tonight at the Palace of Culture?</span></p>
 
 <p><span class="chinese">他们也可以在富丽堂皇的工人文化宫里消遣娱乐。</span><span class="english">They may also amuse themselves in the magnificent Workers Palace of Culture.</span></p>

@@ -1,5 +1,7 @@
 # cagliari
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cagliari.md)
+
 <p><span class="chinese">欢迎来卡利亚里。</span><span class="english">Welcome to Cagliari.</span></p>
 
 <p><span class="chinese">但这是一个为了卡利亚里队的进球。</span><span class="english">But it will be a goal for Cagliari.</span></p>

@@ -1,5 +1,7 @@
 # random
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/random.md)
+
 <p><span class="chinese">它是随机的。</span><span class="english">It's random.</span></p>
 
 <p><span class="chinese">不要信口胡说。</span><span class="english">Don't talk at random.</span></p>

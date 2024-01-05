@@ -1,5 +1,7 @@
 # dreamscape
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dreamscape.md)
+
 <p><span class="chinese">在这里，我们可以看见一个被描绘的梦境。</span><span class="english">And what we have here is a painted dreamscape.</span></p>
 
 <p><span class="chinese">再细的线条也编织不出梦幻的景象。</span><span class="english">No dreamscape could be woven of slenderer thread.</span></p>

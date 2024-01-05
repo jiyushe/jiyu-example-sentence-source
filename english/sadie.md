@@ -1,5 +1,7 @@
 # sadie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sadie.md)
+
 <p><span class="chinese">莎蒂怒视着他。</span><span class="english">Sadie scowled at him.</span></p>
 
 <p><span class="chinese">五片什么呀，亲爱的。告诉你的苏娣吧。</span><span class="english">Five what, dear? Tell your Sadie.</span></p>

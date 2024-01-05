@@ -1,5 +1,7 @@
 # stratford
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stratford.md)
+
 <p><span class="chinese">我们的十城市访问中包括斯特拉福。</span><span class="english">Our ten-city tour included a visit a Stratford.</span></p>
 
 <p><span class="chinese">后来，他在伦敦和斯拉特福都置了产业。</span><span class="english">Later he bought property in London as well as Stratford.</span></p>

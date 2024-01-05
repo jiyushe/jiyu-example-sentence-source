@@ -1,5 +1,7 @@
 # 老伯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laobo.md)
+
 <p><span class="chinese">老伯，你们正在挖谁的墓穴呢？</span><span class="english">Whose grave are you digging, old men?</span></p>
 
 <p><span class="chinese">很抱歉，老伯，可以问你点事情吗？</span><span class="english">Excuse me, pop. Can I ask you something?</span></p>

@@ -1,5 +1,7 @@
 # ballroom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ballroom.md)
+
 <p><span class="chinese">舞厅突然亮了起来。</span><span class="english">The ballroom suddenly lit up.</span></p>
 
 <p><span class="chinese">他乔装打扮了一下就混进了舞厅。</span><span class="english">He went into the ballroom in disguise.</span></p>

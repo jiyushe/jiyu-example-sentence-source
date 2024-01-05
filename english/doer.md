@@ -1,5 +1,7 @@
 # doer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doer.md)
+
 <p><span class="chinese">我成为了一个实干家。</span><span class="english">I became a Doer.</span></p>
 
 <p><span class="chinese">安德森是一位实干家。</span><span class="english">Anderson is a Doer.</span></p>

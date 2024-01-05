@@ -1,5 +1,7 @@
 # 三同
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/santong.md)
+
 <p><span class="chinese">还有李立三同志选不选?。</span><span class="english">And Comrade Li Li-san too?</span></p>
 
 <p><span class="chinese">我每个星期三同博罗夫斯基一道吃午饭，他的太太做主人。</span><span class="english">Borowski's. It is on Wednesdays that I have lunch with Borowski.</span></p>

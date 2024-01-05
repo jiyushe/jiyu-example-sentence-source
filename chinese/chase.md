@@ -1,5 +1,7 @@
 # 茶色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chase.md)
+
 <p><span class="chinese">目的制备茶色素。</span><span class="english">Objective To prepare tea pigments.</span></p>
 
 <p><span class="chinese">粉红色，紫色，棕色和茶色坐下。</span><span class="english">Pink,Purple,Brown,and Tan sit down.</span></p>

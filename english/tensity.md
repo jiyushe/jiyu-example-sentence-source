@@ -1,5 +1,7 @@
 # tensity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tensity.md)
+
 <p><span class="chinese">文章阐述了圆锯片适张度处理方法和标准以及检验方法等实用技术。</span><span class="english">The paper introduces the handling method of tensity for circular blade, standard and testing method etc.</span></p>
 
 <p><span class="chinese">利用该方法可以进一步研究复杂交通环境下的驾驶员心理紧张度问题。</span><span class="english">More work about driver's psychological tensity under complex traffic environment can be done by using this method.</span></p>

@@ -1,5 +1,7 @@
 # reactionary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reactionary.md)
+
 <p><span class="chinese">反动统治注定要垮台。</span><span class="english">The reactionary rule is doomed.</span></p>
 
 <p><span class="chinese">文学怎么能是反动的呢？</span><span class="english">For that matter, how can it be reactionary?</span></p>

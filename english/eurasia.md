@@ -1,5 +1,7 @@
 # eurasia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eurasia.md)
+
 <p><span class="chinese">这座桥横跨欧亚大陆。</span><span class="english">This bridge straddles the Eurasia.</span></p>
 
 <p><span class="chinese">当我身临欧亚时，我已经知道了。</span><span class="english">I have the answer when I am in Eurasia.</span></p>

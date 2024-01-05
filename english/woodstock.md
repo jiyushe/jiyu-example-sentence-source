@@ -1,5 +1,7 @@
 # woodstock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/woodstock.md)
+
 <p><span class="chinese">伍德斯托克音乐节？</span><span class="english">Woodstock?</span></p>
 
 <p><span class="chinese">一个短期的校园内的伍德斯托克音乐节</span><span class="english">A short-term Woodstock in the Yard</span></p>

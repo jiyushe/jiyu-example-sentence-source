@@ -1,5 +1,7 @@
 # 经济法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingjifa.md)
+
 <p><span class="chinese">经济法是一个独立的法的部门。</span><span class="english">Ecnomic law is an independent department of law.</span></p>
 
 <p><span class="chinese">经济法是一个国家法律制度的重要组成部分。</span><span class="english">Economic Law is an important part of legal system.</span></p>

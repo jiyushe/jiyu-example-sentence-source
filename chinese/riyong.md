@@ -1,5 +1,7 @@
 # 日用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/riyong.md)
+
 <p><span class="chinese">滑油日用系统注油清洗完毕。</span><span class="english">Flushing L. O. system of stern tube.</span></p>
 
 <p><span class="chinese">我们从井里抽水以供日用。</span><span class="english">We pump water from the well for daily use.</span></p>

@@ -1,5 +1,7 @@
 # reputed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reputed.md)
+
 <p><span class="chinese">大家说他是个百万富翁。</span><span class="english">He was reputed to be a millionaire.</span></p>
 
 <p><span class="chinese">这口泉号称从不干涸。</span><span class="english">The fountain is reputed never to dry up.</span></p>

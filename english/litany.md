@@ -1,5 +1,7 @@
 # litany
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/litany.md)
+
 <p><span class="chinese">美国，在你这傻瓜情调中我怎能写一曲神圣祷歌</span><span class="english">America how can I write a holy litany in your silly</span></p>
 
 <p><span class="chinese">这一系列令人扼腕的疾病是由生活污水引起的。</span><span class="english">The mournful litany of disease is caused by sewage.</span></p>

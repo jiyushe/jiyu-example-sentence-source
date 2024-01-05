@@ -1,5 +1,7 @@
 # scruffy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scruffy.md)
+
 <p><span class="chinese">哇，这邋遢的山顶野人是何许人物？</span><span class="english">Wow, who's the scruffy old mountain man?</span></p>
 
 <p><span class="chinese">搬运工把我们那些被翋雨水浸透的脏兮兮的行李放上了手推车。</span><span class="english">The porter put our scruffy rain-sodden luggage on a trolley.</span></p>

@@ -1,5 +1,7 @@
 # 紧绷绷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinbengbeng.md)
+
 <p><span class="chinese">他的牛仔裤紧绷绷的。</span><span class="english">His jeans fit snugly.</span></p>
 
 <p><span class="chinese">他脸紧绷绷的，像很生气的样子。</span><span class="english">He had a taut expression on his face, apparently very angry.</span></p>

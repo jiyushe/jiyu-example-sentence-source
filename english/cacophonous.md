@@ -1,5 +1,7 @@
 # cacophonous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cacophonous.md)
+
 <p><span class="chinese">那儿的音乐性质是粗砺刺耳的。</span><span class="english">There the music is cacophonous in nature.</span></p>
 
 <p><span class="chinese">这座城市过于繁华喧闹，不太可能进行重要的谈话。</span><span class="english">And the city is just too cacophonous for meaningful conversation.</span></p>

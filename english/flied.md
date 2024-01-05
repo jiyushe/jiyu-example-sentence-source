@@ -1,5 +1,7 @@
 # flied
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flied.md)
+
 <p><span class="chinese">时光飞逝，知道死神的到来。</span><span class="english">How time flied. Death god came to Ali.</span></p>
 
 <p><span class="chinese">在那个梦境中，我有双翅膀而且能随意飞翔。</span><span class="english">In the dream, I had wings and flied freely.</span></p>

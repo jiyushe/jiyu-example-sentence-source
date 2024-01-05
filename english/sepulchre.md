@@ -1,5 +1,7 @@
 # sepulchre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sepulchre.md)
+
 <p><span class="chinese">堂堂英格兰-你们的茔墓！</span><span class="english">England be your sepulchre.</span></p>
 
 <p><span class="chinese">她安睡在海边的坟墓</span><span class="english">In the sepulchre there by the sea</span></p>

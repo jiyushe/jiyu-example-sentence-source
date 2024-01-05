@@ -1,5 +1,7 @@
 # obit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obit.md)
+
 <p><span class="chinese">记得我说过冥王星有个很奇怪的轨道。</span><span class="english">Remember what I said the Pluto has an accentric obit?</span></p>
 
 <p><span class="chinese">在修院里，地狱生活是当作换取天堂的代价而被人接受的。</span><span class="english">In the cloister, hell is accepted in advance as a post obit on paradise.</span></p>

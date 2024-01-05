@@ -1,5 +1,7 @@
 # handicraft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handicraft.md)
+
 <p><span class="chinese">这是我的手工艺品。</span><span class="english">This is my handicraft.</span></p>
 
 <p><span class="chinese">他们有手艺。</span><span class="english">They have a handicraft.</span></p>

@@ -1,5 +1,7 @@
 # 信纸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinzhi.md)
+
 <p><span class="chinese">我的电脑坏了，因此我只好使用信纸。</span><span class="english">G My computer is broken so I have to use notepaper.</span></p>
 
 <p><span class="chinese">这是一张有他姓名首字母的信纸。</span><span class="english">This is a letter paper personalized with his initials.</span></p>

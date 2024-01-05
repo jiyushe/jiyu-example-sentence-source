@@ -1,5 +1,7 @@
 # 片甲不留
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianjiabuliu.md)
+
 <p><span class="chinese">在最近输给他们的2场比赛中，他们杀的我们片甲不留。</span><span class="english">The last 2 lost against them they blew us out.</span></p>
 
 <p><span class="chinese">你残忍杀了我的温柔，我不能让你杀的片甲不留。</span><span class="english">You are cruel to kill me, I can't let you kill be completely routed.</span></p>

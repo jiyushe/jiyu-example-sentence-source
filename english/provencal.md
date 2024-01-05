@@ -1,5 +1,7 @@
 # provencal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/provencal.md)
+
 <p><span class="chinese">舞蹈、恋歌和灼热的欢乐！</span><span class="english">Dance and provencal song and sunburnt mirth !</span></p>
 
 <p><span class="chinese">想起花神，恋歌，阳光和舞蹈！</span><span class="english">Dance, and Provencal song, and sun-burnt mirth!</span></p>

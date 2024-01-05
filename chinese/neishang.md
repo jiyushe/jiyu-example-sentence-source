@@ -1,5 +1,7 @@
 # 内伤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neishang.md)
+
 <p><span class="chinese">外伤比内伤更容易得到谅解。</span><span class="english">An injury is forgiven more easily</span></p>
 
 <p><span class="chinese">几乎让我弄得内伤的是那些「再见」。</span><span class="english">What nearly did me in were the goodbyes.</span></p>

@@ -1,5 +1,7 @@
 # 词根
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cigen.md)
+
 <p><span class="chinese">学习词根。</span><span class="english">Study word roots.</span></p>
 
 <p><span class="chinese">词根是什么？</span><span class="english">What are its roots?</span></p>

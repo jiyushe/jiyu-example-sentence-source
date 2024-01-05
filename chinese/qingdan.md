@@ -1,5 +1,7 @@
 # 氢弹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingdan.md)
+
 <p><span class="chinese">中国爆炸第一颗氢弹。</span><span class="english">China exploded her first H-bomb.</span></p>
 
 <p><span class="chinese">你知道吗，俄罗斯已经有了氢弹。</span><span class="english">You know, the Russians have the H-bomb.</span></p>

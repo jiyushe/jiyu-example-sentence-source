@@ -1,5 +1,7 @@
 # 博览群书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bolanqunshu.md)
+
 <p><span class="chinese">她是个博览群书的人。</span><span class="english">She is a well-read girl.</span></p>
 
 <p><span class="chinese">那么，这些博览群书的人读的是什么呢？</span><span class="english">So, what are these well-read people reading?</span></p>

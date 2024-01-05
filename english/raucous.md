@@ -1,5 +1,7 @@
 # raucous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/raucous.md)
+
 <p><span class="chinese">他讲话浊声浊气的。</span><span class="english">He speaks in a deep and raucous voice.</span></p>
 
 <p><span class="chinese">壳牌广告牌抵制运动愈演愈烈。</span><span class="english">The Shell-sign resistance movement grew strong and raucous.</span></p>

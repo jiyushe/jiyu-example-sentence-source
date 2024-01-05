@@ -1,5 +1,7 @@
 # herbage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/herbage.md)
+
 <p><span class="chinese">羊靠吃草本植物长肥。</span><span class="english">The sheep battened upon the herbage.</span></p>
 
 <p><span class="chinese">化肥可改变牧草的组成。</span><span class="english">Fertilizer modify the composition of herbage.</span></p>

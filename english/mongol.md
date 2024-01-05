@@ -1,5 +1,7 @@
 # mongol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mongol.md)
+
 <p><span class="chinese">那哪是蒙古包啊。</span><span class="english">They are not Mongol yurts.</span></p>
 
 <p><span class="chinese">杭盖，一个古老的蒙古语单词。</span><span class="english">Hang Gai, an ancient Mongol word.</span></p>

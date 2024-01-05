@@ -1,5 +1,7 @@
 # casket
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/casket.md)
+
 <p><span class="chinese">因为没搁在棺材里头。</span><span class="english">It wasn’t in a casket.</span></p>
 
 <p><span class="chinese">盛载尸体以备埋葬的箱匣。</span><span class="english">A casket for the body to bury.</span></p>

@@ -1,5 +1,7 @@
 # damnable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/damnable.md)
+
 <p><span class="chinese">这鬼天气！</span><span class="english">This damnable weather!</span></p>
 
 <p><span class="chinese">但这些效应也能成为令人痛恨的麻烦事。</span><span class="english">They can also be a damnable nuisance.</span></p>

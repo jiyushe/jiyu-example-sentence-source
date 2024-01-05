@@ -1,5 +1,7 @@
 # 掩体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanti.md)
+
 <p><span class="chinese">一半埋入泥土中的卡车是掩体。</span><span class="english">A dummy is half truck in the ground.</span></p>
 
 <p><span class="chinese">嘉和掩体隧道，屏东县南迴线铁路。</span><span class="english">Shielded tunnel of South Link Line, Ping-Tung.</span></p>

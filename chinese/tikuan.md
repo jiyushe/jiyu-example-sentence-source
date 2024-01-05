@@ -1,5 +1,7 @@
 # 题款
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tikuan.md)
+
 <p><span class="chinese">题款是正文之外的说明性文字。</span><span class="english">Title, was the body of the text other than illustrative.</span></p>
 
 <p><span class="chinese">牌匾的题款乃是画龙点睛之笔。</span><span class="english">The plaque is the title section of the finishing touch pen.</span></p>

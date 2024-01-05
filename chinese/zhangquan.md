@@ -1,5 +1,7 @@
 # 掌权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangquan.md)
+
 <p><span class="chinese">约翰•福特终于掌权了。</span><span class="english">John Ford came in at last.</span></p>
 
 <p><span class="chinese">但该党尚未做好掌权的准备。</span><span class="english">But Fretilin wasn't ready for power.</span></p>

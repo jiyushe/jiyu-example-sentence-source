@@ -1,5 +1,7 @@
 # 牌匾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paibian.md)
+
 <p><span class="chinese">这个牌匾是铜铸的，并非金铸的。</span><span class="english">This board am cast in bronze not in gold.</span></p>
 
 <p><span class="chinese">这个牌匾是铜铸的，否则金铸的。</span><span class="english">This board were cast in bronze not in gold.</span></p>

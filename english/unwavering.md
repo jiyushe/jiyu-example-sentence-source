@@ -1,5 +1,7 @@
 # unwavering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unwavering.md)
+
 <p><span class="chinese">谢谢你们对以色列坚定的支持。</span><span class="english">Thank you for your unwavering support for Israel.</span></p>
 
 <p><span class="chinese">所以精进是一个力量，信念坚定是一个力量。</span><span class="english">Diligence is strength. An unwavering will is power.</span></p>

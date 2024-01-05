@@ -1,5 +1,7 @@
 # 生齿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengchi.md)
+
 <p><span class="chinese">长有颌缘牙的、端生齿的动物。</span><span class="english">A lizard with pleurodont teeth.</span></p>
 
 <p><span class="chinese">你晓得瑞典的生齿有几多吗？</span><span class="english">Do you know the population of Sweden?</span></p>

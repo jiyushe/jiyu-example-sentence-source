@@ -1,5 +1,7 @@
 # paediatric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paediatric.md)
+
 <p><span class="chinese">想要我的妈咪，在1974年出版，改变了小儿科护理的面貌。</span><span class="english">Want my mummy, published in 1974, changed the face of paediatric nursing.</span></p>
 
 <p><span class="chinese">为临床小儿心外科手术提供了直接的形态学依据。</span><span class="english">The morphologic basis is directly offered for the paediatric thoracic surgery.</span></p>

@@ -1,5 +1,7 @@
 # 专心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanxin.md)
+
 <p><span class="chinese">我可以专心做第一步。</span><span class="english">I can focus on step one.</span></p>
 
 <p><span class="chinese">我们可以选择专心驾驶。</span><span class="english">We can choose to just drive.</span></p>

@@ -1,5 +1,7 @@
 # georgette
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/georgette.md)
+
 <p><span class="chinese">这件衬衫是用乔其纱做成的。</span><span class="english">The shirt is made of georgette.</span></p>
 
 <p><span class="chinese">现在多是用乔其纱、丝绸、的确良等料子缝制。</span><span class="english">Now with more than Georgette , silk, Dacron material, such as sewing.</span></p>

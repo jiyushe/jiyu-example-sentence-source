@@ -1,5 +1,7 @@
 # 前任
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianren_1.md)
+
 <p><span class="chinese">他就是前任副总统。</span><span class="english">He is the past vice-president.</span></p>
 
 <p><span class="chinese">你使我念起我的前任女友。</span><span class="english">You remind me of my ex-girlfriend.</span></p>

@@ -1,5 +1,7 @@
 # 合叶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heye.md)
+
 <p><span class="chinese">你能给我买一个新的合叶吗？</span><span class="english">Could you buy a new hinge for me?</span></p>
 
 <p><span class="chinese">那里有一扇陈旧的门，门的合叶很难转动。</span><span class="english">There was an old door there, on crusty hinges.</span></p>

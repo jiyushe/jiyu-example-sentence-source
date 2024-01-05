@@ -1,5 +1,7 @@
 # 踌躇不前
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chouchubuqian.md)
+
 <p><span class="chinese">他不再对乌尔地区踌躇不前。</span><span class="english">He doesn’t hesitate to enter the ur anymore.</span></p>
 
 <p><span class="chinese">户籍改革的艰巨和复杂性让政府踌躇不前。</span><span class="english">The complexity of hukou reform daunts Chinese leaders.</span></p>

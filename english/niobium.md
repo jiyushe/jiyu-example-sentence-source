@@ -1,5 +1,7 @@
 # niobium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/niobium.md)
+
 <p><span class="chinese">一种黑色矿物，是铌、钽矿石。</span><span class="english">A black mineral that is an ore of niobium and '.</span></p>
 
 <p><span class="chinese">铌是制造超导钢制品的一种软金属。</span><span class="english">Niobium is a soft metal used in producing superconducting steel.</span></p>

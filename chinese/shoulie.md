@@ -1,5 +1,7 @@
 # 狩猎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoulie.md)
+
 <p><span class="chinese">它是一只真正狩猎用的猎犬。</span><span class="english">He was a hunting hound.</span></p>
 
 <p><span class="chinese">小狼崽需要教授狩猎技巧。</span><span class="english">Cubs need to be taught hunting.</span></p>

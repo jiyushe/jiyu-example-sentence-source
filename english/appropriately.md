@@ -1,5 +1,7 @@
 # appropriately
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appropriately.md)
+
 <p><span class="chinese">它表现得恰如其分</span><span class="english">It's behaving appropriately.</span></p>
 
 <p><span class="chinese">使用适当的固定器和转矩器。</span><span class="english">Use holders and turners appropriately.</span></p>

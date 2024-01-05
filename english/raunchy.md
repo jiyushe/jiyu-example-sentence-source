@@ -1,5 +1,7 @@
 # raunchy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/raunchy.md)
+
 <p><span class="chinese">那家饭馆很邋遢。</span><span class="english">The restaurant is a raunchy place.</span></p>
 
 <p><span class="chinese">男孩们在喝了一夜的酒之后看起来很邋遢。</span><span class="english">The boys looked pretty raunchy after a night of drinking.</span></p>

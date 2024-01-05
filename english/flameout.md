@@ -1,5 +1,7 @@
 # flameout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flameout.md)
+
 <p><span class="chinese">过度抽水也可能导致发动机熄火。</span><span class="english">Excessive pumping may also lead to flameout.</span></p>
 
 <p><span class="chinese">保持发动机意外熄火时的制动效果。</span><span class="english">To keep the engine braking effect when the unexpected flameout.</span></p>

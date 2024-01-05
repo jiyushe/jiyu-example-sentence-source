@@ -1,5 +1,7 @@
 # cruciate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cruciate.md)
+
 <p><span class="chinese">不需要愈合差的十字形切口。</span><span class="english">Cruciate incisions heal poorly and are not required.</span></p>
 
 <p><span class="chinese">幸运的是，十字韧带受伤是比较少见的猫。</span><span class="english">Fortunately, cruciate ligament injuries are relatively uncommon in the cat.</span></p>

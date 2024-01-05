@@ -1,5 +1,7 @@
 # dyad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dyad.md)
+
 <p><span class="chinese">结果形成二分体孢子。</span><span class="english">As a result, dyad spores formed.</span></p>
 
 <p><span class="chinese">属于或关于二分体，或以二为基础。</span><span class="english">Of or relating to a dyad or based on two.</span></p>

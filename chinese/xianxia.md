@@ -1,5 +1,7 @@
 # 闲暇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianxia.md)
+
 <p><span class="chinese">闲暇是别忘上网冲浪。</span><span class="english">Surf the net leisure.</span></p>
 
 <p><span class="chinese">你在闲暇之余做什么？</span><span class="english">What do you in your spare time?</span></p>

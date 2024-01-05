@@ -1,5 +1,7 @@
 # 重修旧好
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongxiujiuhao.md)
+
 <p><span class="chinese">我会尽全力与他重修旧好。</span><span class="english">I'll try my best to mend fences with him.</span></p>
 
 <p><span class="chinese">也许我该回去和娜欧蜜重修旧好。</span><span class="english">Maybe I should get back together with Naomi.</span></p>

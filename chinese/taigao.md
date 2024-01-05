@@ -1,5 +1,7 @@
 # 抬高
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taigao.md)
+
 <p><span class="chinese">Towser抬高了声音，充满了愤怒。</span><span class="english">Towser's voice rose in anger.</span></p>
 
 <p><span class="chinese">天边并不能看真，看远去，发觉头已经抬高，看到了天上。</span><span class="english">I couldn’t see the horizon clearly.</span></p>

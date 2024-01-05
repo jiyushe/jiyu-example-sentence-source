@@ -1,5 +1,7 @@
 # 芍药
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaoyao.md)
+
 <p><span class="chinese">那是我的芍药。</span><span class="english">That is my peony.</span></p>
 
 <p><span class="chinese">这是芍药吗?不，这是牡丹。</span><span class="english">Is this the peony? No,it is the tree-peony.</span></p>

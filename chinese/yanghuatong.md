@@ -1,5 +1,7 @@
 # 氧化铜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanghuatong.md)
+
 <p><span class="chinese">使铜氧化变成氧化铜。</span><span class="english">Oxidize copper to copper oxide.</span></p>
 
 <p><span class="chinese">氧化铜铁矿石属难选矿石。</span><span class="english">Copper-iron oxide ores are classified as refractory ores.</span></p>

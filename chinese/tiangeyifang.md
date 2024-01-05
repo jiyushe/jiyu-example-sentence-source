@@ -1,5 +1,7 @@
 # 天各一方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiangeyifang.md)
+
 <p><span class="chinese">我们知道我们可以天各一方。</span><span class="english">We know we could live apart from one another.</span></p>
 
 <p><span class="chinese">尽管天各一方，伊人靠近我的心房！</span><span class="english">You are close to my heart even though we're apart!</span></p>

@@ -1,5 +1,7 @@
 # bulimic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bulimic.md)
+
 <p><span class="chinese">或者，如果你节食的话可以一直搓下去。</span><span class="english">Or keep going if you’re bulimic.</span></p>
 
 <p><span class="chinese">那几年我认为他是故意控制饮食的贪食症患者”。</span><span class="english">For years I thought he was bulimic.</span></p>

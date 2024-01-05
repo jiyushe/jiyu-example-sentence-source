@@ -1,5 +1,7 @@
 # 奇形怪状
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qixingguaizhuang.md)
+
 <p><span class="chinese">那边那个奇形怪状的东西是什么?。</span><span class="english">What's that strange-looking affair over there?</span></p>
 
 <p><span class="chinese">这些奇形怪状的石头来自附近的太湖。</span><span class="english">The grotesque stones come from the nearby Lake Tai.</span></p>

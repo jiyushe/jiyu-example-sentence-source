@@ -1,5 +1,7 @@
 # gunnery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gunnery.md)
+
 <p><span class="chinese">这首诗讲的是射击练习。</span><span class="english">It's a poem about gunnery practice.</span></p>
 
 <p><span class="chinese">射击练习扰乱了死者，扰乱了地面。</span><span class="english">Gunnery practice disturbs the dead, disrupts the ground.</span></p>

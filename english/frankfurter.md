@@ -1,5 +1,7 @@
 # frankfurter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frankfurter.md)
+
 <p><span class="chinese">可以装法兰克福香肠的长条面包。</span><span class="english">A long bun shaped to hold a frankfurter.</span></p>
 
 <p><span class="chinese">短细的、两头砍掉的法兰克福香肠。</span><span class="english">Short slender frankfurter usually with ends cut off.</span></p>

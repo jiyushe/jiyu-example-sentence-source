@@ -1,5 +1,7 @@
 # scrabble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scrabble.md)
+
 <p><span class="chinese">我俩正在玩拼字游戏，这就是糟糕之所在。</span><span class="english">We're playing Scrabble. That's how bad it is.</span></p>
 
 <p><span class="chinese">后来是我玩拼图游戏。</span><span class="english">My fatherwon the game. Then I played Scrabble.</span></p>

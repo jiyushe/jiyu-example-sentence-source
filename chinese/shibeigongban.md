@@ -1,5 +1,7 @@
 # 事倍功半
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shibeigongban.md)
+
 <p><span class="chinese">结果往往事倍功半。</span><span class="english">We are always no time to see them.</span></p>
 
 <p><span class="chinese">虽然能事倍功半，但我们仍要尽全力做到最好。</span><span class="english">Although well begun is half done, we still try our best.</span></p>

@@ -1,5 +1,7 @@
 # grayer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grayer.md)
+
 <p><span class="chinese">她的头发渐渐变得花白，是他很担心。</span><span class="english">He is worried that her hair is becoming grayer slowly.</span></p>
 
 <p><span class="chinese">他变得更瘦，头发更少，脸色也更灰白，而且布满了皱纹。</span><span class="english">He was thinner , balder , and grayer , and his face had a crumpled look.</span></p>

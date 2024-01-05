@@ -1,5 +1,7 @@
 # overburden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overburden.md)
+
 <p><span class="chinese">油气在渗漏过程中与上覆地层、岩石发生以化学为主的作用。</span><span class="english">Oil and gas have Chemical reation with the overburden rock.</span></p>
 
 <p><span class="chinese">第四系松散堆积层发育完全，厚度大。</span><span class="english">Quaternary overburden is completely developed with thick layer.</span></p>

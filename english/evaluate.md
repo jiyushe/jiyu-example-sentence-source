@@ -1,5 +1,7 @@
 # evaluate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evaluate.md)
+
 <p><span class="chinese">──评价你的论断。</span><span class="english">Evaluate your judgments.</span></p>
 
 <p><span class="chinese">评估你的安全网。</span><span class="english">Evaluate your safety net.</span></p>

@@ -1,5 +1,7 @@
 # 残阳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/canyang.md)
+
 <p><span class="chinese">山岭在残阳的燃烧中走向夜晚。</span><span class="english">Set the mountain aflame to-night.</span></p>
 
 <p><span class="chinese">驻立于天桥上，仰望着天边的残阳。</span><span class="english">In an overpass, looking up at the sky.</span></p>

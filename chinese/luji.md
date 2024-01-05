@@ -1,5 +1,7 @@
 # 路基
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luji.md)
+
 <p><span class="chinese">整个路基都坍掉了。</span><span class="english">The whole roadbeds slipped away.</span></p>
 
 <p><span class="chinese">路基有两种类型，即路堑和路堤。</span><span class="english">There are two types of it-cut and fill.</span></p>

@@ -1,5 +1,7 @@
 # pallid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pallid.md)
+
 <p><span class="chinese">水和空气一片暗淡。</span><span class="english">Water and air were pallid.</span></p>
 
 <p><span class="chinese">他苍白的皮肤对耀眼的阳光很敏感。</span><span class="english">His pallid skin was sensitive to the glaring sun.</span></p>

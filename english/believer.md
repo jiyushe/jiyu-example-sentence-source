@@ -1,5 +1,7 @@
 # believer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/believer.md)
+
 <p><span class="chinese">没有一个胜利者相信机遇。</span><span class="english">No victor believer in chane.</span></p>
 
 <p><span class="chinese">希明是健康食品的信徒。</span><span class="english">SM is a health food believer.</span></p>

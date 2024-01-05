@@ -1,5 +1,7 @@
 # 讥笑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jixiao.md)
+
 <p><span class="chinese">我们讥笑他的发言。</span><span class="english">We sneered at his speech.</span></p>
 
 <p><span class="chinese">晚上，我们游讥笑'海。</span><span class="english">At night, and we mocked the swimming sea.</span></p>

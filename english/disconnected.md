@@ -1,5 +1,7 @@
 # disconnected
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disconnected.md)
+
 <p><span class="chinese">这个电话号码是空号。</span><span class="english">This telephone is disconnected.</span></p>
 
 <p><span class="chinese">他的论据是一堆杂乱无章互不相关的事实。</span><span class="english">His argument is a ragbag of disconnected facts.</span></p>

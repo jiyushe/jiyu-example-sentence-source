@@ -1,5 +1,7 @@
 # 政治经济学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengzhijingjixue.md)
+
 <p><span class="chinese">它首先是一部伟大的政治经济学著作。</span><span class="english">It is a great plutonomy work above all.</span></p>
 
 <p><span class="chinese">黄亚生，麻省理工学院政治经济学教授</span><span class="english">Yasheng Huang, professor of political economy, M.I.T.</span></p>

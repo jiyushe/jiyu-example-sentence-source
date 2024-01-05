@@ -1,5 +1,7 @@
 # 慈母
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cimu_1.md)
+
 <p><span class="chinese">她是一位慈母。</span><span class="english">She is a fond mother.</span></p>
 
 <p><span class="chinese">她是慈母般的老师。</span><span class="english">She is a motherly teacher.</span></p>

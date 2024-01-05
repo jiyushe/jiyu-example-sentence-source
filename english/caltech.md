@@ -1,5 +1,7 @@
 # caltech
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caltech.md)
+
 <p><span class="chinese">不过，加州理工大学的一些大学生却愿意这样做。</span><span class="english">A bunch of Caltech undergrads, that's who.</span></p>
 
 <p><span class="chinese">从理论上讲，加州理工学院的RNA设备像普通计算机一样运转。</span><span class="english">The Caltech RNA device operates much like a normal computer, in theory.</span></p>

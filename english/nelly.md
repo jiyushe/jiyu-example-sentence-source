@@ -1,5 +1,7 @@
 # nelly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nelly.md)
+
 <p><span class="chinese">我说了什么啦，耐莉？</span><span class="english">What did I say, Nelly?</span></p>
 
 <p><span class="chinese">纳莉，我就是希克厉！</span><span class="english">Nelly , I am Heathcliff !</span></p>

@@ -1,5 +1,7 @@
 # 居家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jujia_1.md)
+
 <p><span class="chinese">宿舍里的居家生活。</span><span class="english">Family life in a dorm.</span></p>
 
 <p><span class="chinese">他是个典型的居家男人。</span><span class="english">He's a typical homebody.</span></p>

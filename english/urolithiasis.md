@@ -1,5 +1,7 @@
 # urolithiasis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/urolithiasis.md)
+
 <p><span class="chinese">尿路结石为泌尿系统疾病中最常见的疾病之一。</span><span class="english">Urolithiasis is a common disease of the urinary system.</span></p>
 
 <p><span class="chinese">尿路结石症是一种具有高复发率的常见疾病。</span><span class="english">Urolithiasis is a common disorder with a high recurrence rate.</span></p>

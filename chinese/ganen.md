@@ -1,5 +1,7 @@
 # 感恩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganen.md)
+
 <p><span class="chinese">感恩和赞美。</span><span class="english">Thankfulness and praise.</span></p>
 
 <p><span class="chinese">不要遗漏掉任何你应该感恩的。</span><span class="english">Don’t leave anything out.</span></p>

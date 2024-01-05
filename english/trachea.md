@@ -1,5 +1,7 @@
 # trachea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trachea.md)
+
 <p><span class="chinese">以清除气管内残留的胎粪。</span><span class="english">Eliminates in the trachea the residual meconium.</span></p>
 
 <p><span class="chinese">气门是气管的部分。</span><span class="english">These openings are part of tubes called trachea.</span></p>

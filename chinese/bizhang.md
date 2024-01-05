@@ -1,5 +1,7 @@
 # 壁障
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bizhang.md)
+
 <p><span class="chinese">亲爱的，在之间横梗着太多的壁障，又有何惧。</span><span class="english">Darling, too many walls have been built between us.</span></p>
 
 <p><span class="chinese">亲爱的，在我们之间尽管横梗着太多的壁障，又有何惧，怕的是我不知在哪能与你驿动向上的心对语。</span><span class="english">Darling, too many walls have been built between us. Your heart is up where I can not find.</span></p>

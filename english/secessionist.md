@@ -1,5 +1,7 @@
 # secessionist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/secessionist.md)
+
 <p><span class="chinese">达赖是一个从事分裂祖国活动的政治流亡者。</span><span class="english">Dalai is a political exile who engages in secessionist activities.</span></p>
 
 <p><span class="chinese">波斯尼亚再度兴起的分裂情绪的搅动亦是如此。</span><span class="english">The stirring of renewed secessionist sentiments in Bosnia does the same.</span></p>

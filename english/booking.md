@@ -1,5 +1,7 @@
 # booking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/booking.md)
+
 <p><span class="chinese">售票口在哪里？</span><span class="english">Where is the booking office?</span></p>
 
 <p><span class="chinese">你必须把预订资料整理一下。</span><span class="english">You have to assort booking data.</span></p>

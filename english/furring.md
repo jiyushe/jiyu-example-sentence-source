@@ -1,5 +1,7 @@
 # furring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/furring.md)
+
 <p><span class="chinese">氧化胆固醇可能是造成动脉堵塞的元凶。</span><span class="english">Oxidized cholesterol may be responsible for furring up the arteries.</span></p>
 
 <p><span class="chinese">同时分析了冷却水温度升高、结垢对冷凝器效率的影响程度。</span><span class="english">Also analyzed the influence of temperature and furring on the heat pump system.</span></p>

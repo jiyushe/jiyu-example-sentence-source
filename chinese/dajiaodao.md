@@ -1,5 +1,7 @@
 # 打交道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dajiaodao.md)
+
 <p><span class="chinese">我们也不主动和欧盟打交道。</span><span class="english">Not reaching to the EU.</span></p>
 
 <p><span class="chinese">我们经常与他打交道。</span><span class="english">We often deal with him.</span></p>

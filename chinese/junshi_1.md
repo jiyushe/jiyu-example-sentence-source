@@ -1,5 +1,7 @@
 # 军师
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junshi_1.md)
+
 <p><span class="chinese">“头目”同样还会需要一名“军师”。</span><span class="english">The 'boss' will also need a 'consigliere'.</span></p>
 
 <p><span class="chinese">他现在是董事会成员，而且是主席的军师。</span><span class="english">He is a member of the Board and adviser to the president.</span></p>

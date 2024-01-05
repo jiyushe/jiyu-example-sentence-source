@@ -1,5 +1,7 @@
 # 相亲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangqin_1.md)
+
 <p><span class="chinese">玛丽被约好跟她相亲的人放鸽子了。</span><span class="english">Mary got stood up by the blind date.</span></p>
 
 <p><span class="chinese">你知道的，这是我第一次相亲。</span><span class="english">You know this is my first blind date.</span></p>

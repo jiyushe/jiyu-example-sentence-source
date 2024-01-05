@@ -1,5 +1,7 @@
 # 孔雀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongque.md)
+
 <p><span class="chinese">他的坐骑是一只孔雀。</span><span class="english">His vehicle is peacock.</span></p>
 
 <p><span class="chinese">耐晒孔雀蓝色淀。</span><span class="english">Fast Malachite Blue lake.</span></p>

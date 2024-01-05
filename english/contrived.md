@@ -1,5 +1,7 @@
 # contrived
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contrived.md)
+
 <p><span class="chinese">他施展计谋获得了他们的选票。</span><span class="english">He contrived to gain their votes.</span></p>
 
 <p><span class="chinese">这本小说有非常牵强附会的情节。</span><span class="english">The novel has a very contrived plot.</span></p>

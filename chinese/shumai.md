@@ -1,5 +1,7 @@
 # 赎买
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shumai.md)
+
 <p><span class="chinese">在现今的世界里，一个人无法赎买另外一个人或者拥有其生命。</span><span class="english">In today's world, one person does not buy another and own him or her for life.</span></p>
 
 <p><span class="chinese">事实上，国会中的许多共和党人都对TARP投了赞成票，而正是TARP造成了之后的赎买案。</span><span class="english">In point of fact, many Republicans in Congress voted for the TARP, the mother of all the bail-outs.</span></p>

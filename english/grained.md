@@ -1,5 +1,7 @@
 # grained
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grained.md)
+
 <p><span class="chinese">由于咬合力的存在，使粗粒土的强度大幅度提高。</span><span class="english">It may raise the strength of the coarse grained soil.</span></p>
 
 <p><span class="chinese">显微镜下，矿石为中粒至非晶质。</span><span class="english">Microscopically the ores are medium grained to amorphous.</span></p>

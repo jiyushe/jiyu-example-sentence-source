@@ -1,5 +1,7 @@
 # proportioned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proportioned.md)
+
 <p><span class="chinese">地毯上的图案很匀称。</span><span class="english">The designs in the rug are well proportioned.</span></p>
 
 <p><span class="chinese">该机屏幕比例很匀称。</span><span class="english">The screen on this unit is well proportioned.</span></p>

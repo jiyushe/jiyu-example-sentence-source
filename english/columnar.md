@@ -1,5 +1,7 @@
 # columnar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/columnar.md)
+
 <p><span class="chinese">增加了新的柱状松树！</span><span class="english">Added new Columnar Pine tree!</span></p>
 
 <p><span class="chinese">无枝晶和柱状组织。</span><span class="english">No dendrites and columnar organization.</span></p>

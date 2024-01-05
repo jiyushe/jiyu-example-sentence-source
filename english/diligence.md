@@ -1,5 +1,7 @@
 # diligence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diligence.md)
+
 <p><span class="chinese">勤奋近乎讥成功。</span><span class="english">Diligence eis near success.</span></p>
 
 <p><span class="chinese">他的勤奋不过是装样子罢了。</span><span class="english">His diligence is a mere pose.</span></p>

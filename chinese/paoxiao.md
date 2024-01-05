@@ -1,5 +1,7 @@
 # 咆哮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paoxiao.md)
+
 <p><span class="chinese">咆哮的狗狗。</span><span class="english">Growly dog.</span></p>
 
 <p><span class="chinese">虎咆哮。</span><span class="english">A tiger growls.</span></p>

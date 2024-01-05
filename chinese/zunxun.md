@@ -1,5 +1,7 @@
 # 遵循
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zunxun.md)
+
 <p><span class="chinese">我们遵循不同的教规。</span><span class="english">We follow different edicts.</span></p>
 
 <p><span class="chinese">并遵循其妻子的电话。</span><span class="english">And follows its wifes calls.</span></p>

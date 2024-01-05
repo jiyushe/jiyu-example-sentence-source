@@ -1,5 +1,7 @@
 # lop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lop.md)
+
 <p><span class="chinese">他必须砍除报告的全部页数。</span><span class="english">He had to lop off whole pages of the report.</span></p>
 
 <p><span class="chinese">我说，‘也许你可以干脆把第二层楼都去掉。’</span><span class="english">I say, ‘Maybe you could lop off the second floor entirely.’</span></p>

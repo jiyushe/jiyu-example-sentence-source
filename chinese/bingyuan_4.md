@@ -1,5 +1,7 @@
 # 病源
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingyuan_4.md)
+
 <p><span class="chinese">顾客容易接受，病源广、疗程短、效果佳。</span><span class="english">Short treatment period with outsanding effect.</span></p>
 
 <p><span class="chinese">它们中的其中一些是属于生理学、病源学和胚胎学的知识。</span><span class="english">Some of them are in the fields of physiology, etiology and embryology.</span></p>

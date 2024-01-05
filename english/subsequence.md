@@ -1,5 +1,7 @@
 # subsequence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subsequence.md)
+
 <p><span class="chinese">返回以前匹配项的子序列。</span><span class="english">Returns the subsequence of the previous match.</span></p>
 
 <p><span class="chinese">在给定输入序列中匹配子序列的特定发生事件</span><span class="english">matching a specific occurrence of a subsequence in a given input sequence</span></p>

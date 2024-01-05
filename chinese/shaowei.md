@@ -1,5 +1,7 @@
 # 少尉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaowei.md)
+
 <p><span class="chinese">好，那么，当你完成了就来向我或者马姆利少尉报告。</span><span class="english">Ok, then. Report back to me or to Lt. Mumphreys when you have.</span></p>
 
 <p><span class="chinese">这个方法应该能给象陆军少尉弗雷德里克·辛普森这样的人服务。</span><span class="english">The approach is intended for people like 1st Lt. Frederick Simpson.</span></p>

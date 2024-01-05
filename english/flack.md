@@ -1,5 +1,7 @@
 # flack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flack.md)
+
 <p><span class="chinese">但这些抨击似乎从未让盖特纳分心。</span><span class="english">But the flack never seemed to derailMr.</span></p>
 
 <p><span class="chinese">在这一点上你做了很多宣传么?。</span><span class="english">Have you copped a lot of flack over this?</span></p>

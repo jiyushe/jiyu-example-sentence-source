@@ -1,5 +1,7 @@
 # fatherland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fatherland.md)
+
 <p><span class="chinese">有的人，祖国使她饱经灾难。</span><span class="english">One, inured to misfortune by her fatherland.</span></p>
 
 <p><span class="chinese">他们想要夺走我们美丽的国家</span><span class="english">Who are trying to take over our beautiful fatherland.</span></p>

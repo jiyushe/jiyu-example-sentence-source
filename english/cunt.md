@@ -1,5 +1,7 @@
 # cunt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cunt.md)
+
 <p><span class="chinese">你这笨蛋。</span><span class="english">You stupid cunt.</span></p>
 
 <p><span class="chinese">就耸肩来说，他就是一个王八蛋。</span><span class="english">He was a cunt for the shrugging.</span></p>

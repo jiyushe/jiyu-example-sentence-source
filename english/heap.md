@@ -1,5 +1,7 @@
 # heap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heap.md)
+
 <p><span class="chinese">谁愿意把这些石头堆起来?</span><span class="english">Who will heap the stones?</span></p>
 
 <p><span class="chinese">把车子拆成一堆废铁。</span><span class="english">Turn it into a heap of metal.</span></p>

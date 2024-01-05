@@ -1,5 +1,7 @@
 # 府绸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuchou.md)
+
 <p><span class="chinese">我喜欢这种印花府绸。</span><span class="english">I like this printed poplin.</span></p>
 
 <p><span class="chinese">皮革内衬纯棉府绸。</span><span class="english">Leather lined with cotton poplin.</span></p>

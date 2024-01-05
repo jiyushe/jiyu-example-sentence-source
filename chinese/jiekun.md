@@ -1,5 +1,7 @@
 # 解困
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiekun.md)
+
 <p><span class="chinese">帮助贫困妇女脱贫解困。</span><span class="english">Helping women relieve from their poverty.</span></p>
 
 <p><span class="chinese">能帮我解解困惑吗？谢谢你。</span><span class="english">Help me fix the confuse in mind. Thank you.</span></p>

@@ -1,5 +1,7 @@
 # terminating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/terminating.md)
+
 <p><span class="chinese">研磨红铜叉，镀银上镀铑，120线孔，螺丝锁紧。</span><span class="english">One 120 cable terminating hole with set screw.</span></p>
 
 <p><span class="chinese">但是它未提到终止条件。</span><span class="english">But it makes no mention of the terminating condition.</span></p>

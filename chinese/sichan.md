@@ -1,5 +1,7 @@
 # 私产
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sichan.md)
+
 <p><span class="chinese">“…对私产的尊重…”没有出现在文件的任何地方。</span><span class="english">“private property” is nowhere in the document</span></p>
 
 <p><span class="chinese">他清楚地明了，从很多层面看来,私产与商业的功效。</span><span class="english">He clearly understands   in many ways the virtues of private property and of commerce.</span></p>

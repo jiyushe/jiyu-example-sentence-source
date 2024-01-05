@@ -1,5 +1,7 @@
 # stipulate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stipulate.md)
+
 <p><span class="chinese">我知道她肯定没有大人的看管。</span><span class="english">I stipulate to her lack of adult supervision.</span></p>
 
 <p><span class="chinese">你能保证他们会执行该条约吗?</span><span class="english">Can you stipulate they would carry out the treaty?</span></p>

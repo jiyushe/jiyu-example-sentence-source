@@ -1,5 +1,7 @@
 # fraternity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fraternity.md)
+
 <p><span class="chinese">他是昆季会的一员。</span><span class="english">He is a fraternity brother.</span></p>
 
 <p><span class="chinese">这个互助会可接纳4名新会员。</span><span class="english">The fraternity may bid four new men.</span></p>

@@ -1,5 +1,7 @@
 # benzoate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/benzoate.md)
+
 <p><span class="chinese">白蛋白中色氨酸残基的荧光被苯甲酸钠淬灭。</span><span class="english">The fluorescence of tryptophan residue in BSA was quenched by benzoate.</span></p>
 
 <p><span class="chinese">本文报道了相转移催化条件下异成烯基苯甲酸酯的合成。</span><span class="english">Synthesis of prenyl benzoate under phase transfer catalysis was reported.</span></p>

@@ -1,5 +1,7 @@
 # synaesthetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synaesthetic.md)
+
 <p><span class="chinese">“联觉性疼痛”绝大部分发生在四肢不健全的人身上。</span><span class="english">"Synaesthetic pain" occurs mainly in people who have lost a limb.</span></p>
 
 <p><span class="chinese">而言，她的通感单词就同样会暴露装模作样的反应次数。</span><span class="english">M. , these bumbling reaction times also show up for her synaesthetic words.</span></p>

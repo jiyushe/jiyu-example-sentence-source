@@ -1,5 +1,7 @@
 # blackhead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blackhead.md)
+
 <p><span class="chinese">这个就是我们常说的鼻部黑头。</span><span class="english">This is what we often say nasal blackhead.</span></p>
 
 <p><span class="chinese">试试，它会在瞬间去除你的黑头。</span><span class="english">Try this one. It cleans your blackhead in a flash.</span></p>

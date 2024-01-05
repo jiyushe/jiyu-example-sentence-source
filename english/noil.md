@@ -1,5 +1,7 @@
 # noil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noil.md)
+
 <p><span class="chinese">对有光人丝、紬丝和绢丝的上浆效果，尚待作进一步试验研究。</span><span class="english">Its sizing effects on bright rayon, noil silk yarn and spun silk yarn are to be further tested.</span></p>
 
 <p><span class="chinese">探讨了苎麻落麻纤维无纺毡复合材料的应用。</span><span class="english">The application possibility of non-woven noil ramie fiber mat in composites was also discussed.</span></p>

@@ -1,5 +1,7 @@
 # OK  
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ok.md)
+
 <p><span class="chinese">好吧，杰。</span><span class="english">Ok. Jin.</span></p>
 
 <p><span class="chinese">鸡蛋汤就行。</span><span class="english">Egg soup is OK.</span></p>

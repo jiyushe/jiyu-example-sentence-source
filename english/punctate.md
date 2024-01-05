@@ -1,5 +1,7 @@
 # punctate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/punctate.md)
+
 <p><span class="chinese">叶基生，具叶柄，通常细微棕色。</span><span class="english">Leaves basal, petiolate, usually minutely brown punctate.</span></p>
 
 <p><span class="chinese">视力模糊，眼睛刺痛，点状角膜炎，结膜充血。</span><span class="english">Blurred vision, eye irritation, punctate keratitis, conjunctival hyperemia.</span></p>

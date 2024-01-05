@@ -1,5 +1,7 @@
 # carboniferous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carboniferous.md)
+
 <p><span class="chinese">石炭系塔北三角洲。</span><span class="english">Tabei delta in Carboniferous system.</span></p>
 
 <p><span class="chinese">丰富了石炭纪生物礁的类型。</span><span class="english">The reef enriches the Carboniferous reef types.</span></p>

@@ -1,5 +1,7 @@
 # convalesce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/convalesce.md)
+
 <p><span class="chinese">永远痊愈不了。</span><span class="english">Forever could not convalesce.</span></p>
 
 <p><span class="chinese">结果所有病例均痊愈出院。</span><span class="english">Results All cases of illness convalesce leaves the hospital.</span></p>

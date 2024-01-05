@@ -1,5 +1,7 @@
 # 适龄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiling_1.md)
+
 <p><span class="chinese">但许多适龄儿童没有受到考验。</span><span class="english">But many school-age children have not been tested.</span></p>
 
 <p><span class="chinese">捐出那些他已经读过并且不再适龄的书如何？</span><span class="english">What about all the books he had read and outgrown?</span></p>

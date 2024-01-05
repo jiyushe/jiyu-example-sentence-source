@@ -1,5 +1,7 @@
 # anecdotal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anecdotal.md)
+
 <p><span class="chinese">这些趣谈是真的？</span><span class="english">How true are these anecdotal stories?</span></p>
 
 <p><span class="chinese">周围似乎到处都是这样的证据。</span><span class="english">The anecdotal evidence seems to be all around us.</span></p>

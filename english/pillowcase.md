@@ -1,5 +1,7 @@
 # pillowcase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pillowcase.md)
+
 <p><span class="chinese">我昨天买了一个枕套。</span><span class="english">I bought a pillowcase yesterday.</span></p>
 
 <p><span class="chinese">我把我的枕头放进枕套中。</span><span class="english">I put my pillow into my pillowcase.</span></p>

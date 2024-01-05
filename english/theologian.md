@@ -1,5 +1,7 @@
 # theologian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theologian.md)
+
 <p><span class="chinese">Byassee这位神学家也同意此种观点。</span><span class="english">Byassee the theologian agrees.</span></p>
 
 <p><span class="chinese">神学家兼希腊语学者本杰明·周伊特。</span><span class="english">Benjamin jowett the theologian and greek scholar.</span></p>

@@ -1,5 +1,7 @@
 # rebound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rebound.md)
+
 <p><span class="chinese">皮肤于是不再有弹力。</span><span class="english">Skin can no longer rebound.</span></p>
 
 <p><span class="chinese">大陆天兵掷弹反弹险死！</span><span class="english">Throwing hand grenades. Rebound own.</span></p>

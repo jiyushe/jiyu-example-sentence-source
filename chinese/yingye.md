@@ -1,5 +1,7 @@
 # 营业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingye.md)
+
 <p><span class="chinese">现在应该开始营业了。</span><span class="english">It should be open by now.</span></p>
 
 <p><span class="chinese">我觉得这店是全天候营业的。</span><span class="english">I think the shop is open 24-7.</span></p>

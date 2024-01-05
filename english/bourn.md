@@ -1,5 +1,7 @@
 # bourn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bourn.md)
+
 <p><span class="chinese">我认为渤恩慕城好一些。</span><span class="english">I think Bourn mouth 's nicer.</span></p>
 
 <p><span class="chinese">在这个时候，孤独的存在就好比是心灵的小溪。</span><span class="english">At this moment, a lonely existence just is a bourn.</span></p>

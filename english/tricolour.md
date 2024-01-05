@@ -1,5 +1,7 @@
 # tricolour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tricolour.md)
+
 <p><span class="chinese">黄色，黄白，三色和芸石色。</span><span class="english">Sable, Sable and white, Tricolour and Blue Merle.</span></p>
 
 <p><span class="chinese">颜色黑貂色，黑貂色与白色，三色，芸石色。</span><span class="english">Colour Sable, Sable and white, Tricolour and Blue Merle.</span></p>

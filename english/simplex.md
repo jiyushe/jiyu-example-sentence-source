@@ -1,5 +1,7 @@
 # simplex
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/simplex.md)
+
 <p><span class="chinese">提出了非线性单纯形算法的修改算法。</span><span class="english">A new modified nonlinear simplex method is offered.</span></p>
 
 <p><span class="chinese">关于垂足单形的两个不等式及其应用。</span><span class="english">Two inequalities for pedal simplex and applications.</span></p>

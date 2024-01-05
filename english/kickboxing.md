@@ -1,5 +1,7 @@
 # kickboxing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kickboxing.md)
+
 <p><span class="chinese">我可是从小被我妈逼着练跆拳道长大的。</span><span class="english">I was brought up by my mom made his kickboxing grew up.</span></p>
 
 <p><span class="chinese">如果下棋下不过你的电脑，不如试试拳击这件事。</span><span class="english">If you can't beat your computer at chess, try kickboxing.</span></p>

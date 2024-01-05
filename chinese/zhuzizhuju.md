@@ -1,5 +1,7 @@
 # 逐字逐句
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuzizhuju.md)
+
 <p><span class="chinese">逐字逐句的读演讲稿。</span><span class="english">Reading a speech word for word.</span></p>
 
 <p><span class="chinese">他逐字逐句地翻译这段文字。</span><span class="english">He translated the passage literally.</span></p>

@@ -1,5 +1,7 @@
 # 信用卡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinyongka.md)
+
 <p><span class="chinese">我们接受信用卡。</span><span class="english">We accept credit card.</span></p>
 
 <p><span class="chinese">请问贵院有收信用卡吗？</span><span class="english">Do you take credit card?</span></p>

@@ -1,5 +1,7 @@
 # inbound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inbound.md)
+
 <p><span class="chinese">什么是入站处理和出站处理？</span><span class="english">What are inbound and outbound processing?</span></p>
 
 <p><span class="chinese">这个入站登录模块将生成令牌。</span><span class="english">This inbound login module generates the token.</span></p>

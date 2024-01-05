@@ -1,5 +1,7 @@
 # nation 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nation.md)
+
 <p><span class="chinese">打鼾者的国家？</span><span class="english">Nation of Snorers?</span></p>
 
 <p><span class="chinese">我们是一个国家。</span><span class="english">We are one nation.</span></p>

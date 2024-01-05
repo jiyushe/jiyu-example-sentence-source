@@ -1,5 +1,7 @@
 # revolve
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revolve.md)
+
 <p><span class="chinese">四季循环往复。</span><span class="english">The seasons revolve.</span></p>
 
 <p><span class="chinese">行星绕着太阳运转。</span><span class="english">The planets revolve around the sun.</span></p>

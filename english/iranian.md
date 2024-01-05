@@ -1,5 +1,7 @@
 # iranian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iranian.md)
+
 <p><span class="chinese">我很喜欢伊朗队。</span><span class="english">I like the Iranian team.</span></p>
 
 <p><span class="chinese">在伊朗大选中，本来是个平局。</span><span class="english">In the Iranian elections, it was a tie.</span></p>

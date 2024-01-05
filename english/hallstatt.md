@@ -1,5 +1,7 @@
 # hallstatt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hallstatt.md)
+
 <p><span class="chinese">这是著名的哈尔斯塔特景观。</span><span class="english">This is the famous view of Hallstatt.</span></p>
 
 <p><span class="chinese">哈尔施塔特被誉为“奥地利的珍珠”。</span><span class="english">Hallstatt is known as"the Pearl of Austria".</span></p>

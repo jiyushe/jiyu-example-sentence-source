@@ -1,5 +1,7 @@
 # 自救
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zijiu.md)
+
 <p><span class="chinese">第三部分，刑法中自救行为的体系性地位。</span><span class="english">Part three---Systemic position in criminal justice system.</span></p>
 
 <p><span class="chinese">然而外界还是可以帮助索马里人实现自救。</span><span class="english">And yet outsiders could still help Somalis to help themselves.</span></p>

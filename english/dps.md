@@ -1,5 +1,7 @@
 # dps
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dps.md)
+
 <p><span class="chinese">在矿骡的帮助下，人族玩家可以轻易地大量生产机枪兵这个主力DPS单位。</span><span class="english">With the help of MULEs they can pump out their main DPS units.</span></p>
 
 <p><span class="chinese">裂魂人是一个强大的DPS英雄，作为肉盾的能力有限。</span><span class="english">Barathrum is a strong DPS hero with limited tanking capabilities.</span></p>

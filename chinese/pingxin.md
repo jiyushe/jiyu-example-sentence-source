@@ -1,5 +1,7 @@
 # 平信
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingxin.md)
+
 <p><span class="chinese">是航空信还是平信？</span><span class="english">Air mail or ordinary mail?</span></p>
 
 <p><span class="chinese">她寄了封平信给他。</span><span class="english">She sent him a surface letter.</span></p>

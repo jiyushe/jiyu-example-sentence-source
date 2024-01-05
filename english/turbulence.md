@@ -1,5 +1,7 @@
 # turbulence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turbulence.md)
+
 <p><span class="chinese">世界在动荡中前进。</span><span class="english">The world advances amidst turbulence.</span></p>
 
 <p><span class="chinese">我们将经过一阵乱流。</span><span class="english">We will be experiencing some turbulence.</span></p>

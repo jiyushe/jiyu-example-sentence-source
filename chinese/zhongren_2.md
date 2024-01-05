@@ -1,5 +1,7 @@
 # 重任
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongren_2.md)
+
 <p><span class="chinese">詹姆斯.卡维尔担起了这个重任。</span><span class="english">James Carville took it on.</span></p>
 
 <p><span class="chinese">这项重任现在落在了阿普赛克先生的肩上。</span><span class="english">That job now falls to Mr Apotheker.</span></p>

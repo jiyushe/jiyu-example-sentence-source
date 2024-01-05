@@ -1,5 +1,7 @@
 # phytosterol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phytosterol.md)
+
 <p><span class="chinese">它能降低体内的胆固醇，有修复组织，抑制肿瘤生长的作用。</span><span class="english">Phytosterol can lower the body's cholesterol, repair, inhibition of tumor growth.</span></p>
 
 <p><span class="chinese">对脱臭馏出物中提取植物甾醇的工艺进行了研究。</span><span class="english">The process of phytosterol extraction from soybean oil deodorizer distillate was studied.</span></p>

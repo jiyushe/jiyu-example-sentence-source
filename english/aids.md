@@ -1,5 +1,7 @@
 # aids
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aids.md)
+
 <p><span class="chinese">运用视觉教具。</span><span class="english">Use visual aids.</span></p>
 
 <p><span class="chinese">山金车辅助循环。</span><span class="english">Arnica aids circulation.</span></p>

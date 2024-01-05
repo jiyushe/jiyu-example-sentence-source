@@ -1,5 +1,7 @@
 # 风调雨顺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengtiaoyushun.md)
+
 <p><span class="chinese">气象学家预报，今夏将风调雨顺。</span><span class="english">The weather scientists predicted a fine summer.</span></p>
 
 <p><span class="chinese">去年风调雨顺，作物长势良好。</span><span class="english">Last year the weather was favourable and the crops were doing well.</span></p>

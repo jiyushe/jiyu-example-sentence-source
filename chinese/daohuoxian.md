@@ -1,5 +1,7 @@
 # 导火线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daohuoxian.md)
+
 <p><span class="chinese">这个个讲话激起了愤怒，点燃了反对派对他进行武装斗争的导火线。</span><span class="english">The speech caused anger that fuelled the armed rebellion against him.</span></p>
 
 <p><span class="chinese">做这事的人希望看到战争，这个要人的死会成为导火线。</span><span class="english">For those who wish to see war, this man's death could light the tinder.</span></p>

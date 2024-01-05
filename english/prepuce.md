@@ -1,5 +1,7 @@
 # prepuce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prepuce.md)
+
 <p><span class="chinese">青岛哪里做包皮手术好？</span><span class="english">Where does Qingdao perform prepuce operation well?</span></p>
 
 <p><span class="chinese">公狗包皮将随老化逐渐下垂。</span><span class="english">The prepuce slowly becomes more pendulous as the dog ages.</span></p>

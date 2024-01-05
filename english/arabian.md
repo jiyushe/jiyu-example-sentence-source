@@ -1,5 +1,7 @@
 # arabian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arabian.md)
+
 <p><span class="chinese">阿曼是世界上最东面的阿拉伯国家。</span><span class="english">Oman is the world"s easternmost Arabian country.</span></p>
 
 <p><span class="chinese">是一本非常有趣的故事书。</span><span class="english">The Arabian Nights is a very interesting story-book.</span></p>

@@ -1,5 +1,7 @@
 # antibacterial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antibacterial.md)
+
 <p><span class="chinese">紫花地丁抗菌活性部位追踪。</span><span class="english">Tracing antibacterial active site of V. yedoensis.</span></p>
 
 <p><span class="chinese">目前已经广泛应用于抗菌材料当中。</span><span class="english">Nowit has been widely applied in antibacterial material.</span></p>

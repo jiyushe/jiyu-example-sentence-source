@@ -1,5 +1,7 @@
 # dingo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dingo.md)
+
 <p><span class="chinese">这是一个澳洲野狗！</span><span class="english">This is a dingo.</span></p>
 
 <p><span class="chinese">一条澳洲野狗吃了我的孩子。</span><span class="english">A dingo ate my baby!</span></p>

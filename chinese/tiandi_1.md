@@ -1,5 +1,7 @@
 # 天敌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiandi_1.md)
+
 <p><span class="chinese">优柔寡断是行动的天敌。</span><span class="english">Indecision is the enemy of action.</span></p>
 
 <p><span class="chinese">可口可乐是铁锈的“天敌”。</span><span class="english">Coca Cola is an excellent rust buster.</span></p>

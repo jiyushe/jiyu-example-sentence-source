@@ -1,5 +1,7 @@
 # modulus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/modulus.md)
+
 <p><span class="chinese">这是杨氏模量。</span><span class="english">So this is Young's modulus.</span></p>
 
 <p><span class="chinese">我们对付的是杨氏模量。</span><span class="english">We dealt with Young's modulus.</span></p>

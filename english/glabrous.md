@@ -1,5 +1,7 @@
 # glabrous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glabrous.md)
+
 <p><span class="chinese">瘦果身体无毛或近无毛。</span><span class="english">Achene body glabrous or subglabrous.</span></p>
 
 <p><span class="chinese">花序梗，轴，花梗，和除无毛萼片外。</span><span class="english">Peduncles, rachises , pedicels, and outside of sepals glabrous.</span></p>

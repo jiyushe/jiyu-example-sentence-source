@@ -1,5 +1,7 @@
 # aluminum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aluminum.md)
+
 <p><span class="chinese">炼铝工业。</span><span class="english">The aluminum industry.</span></p>
 
 <p><span class="chinese">第二种是铝。</span><span class="english">Number two is aluminum.</span></p>

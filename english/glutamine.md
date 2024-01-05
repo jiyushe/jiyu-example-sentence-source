@@ -1,5 +1,7 @@
 # glutamine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glutamine.md)
+
 <p><span class="chinese">谷氨酸是肌肉的一个重要组成部分。</span><span class="english">Glutamine is the most abundant amino acid that composes muscle.</span></p>
 
 <p><span class="chinese">谷酰胺可能是比氨还要合适的底物。</span><span class="english">Glutamine rather than ammonia may be the preferential substrate.</span></p>

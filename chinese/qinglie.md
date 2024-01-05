@@ -1,5 +1,7 @@
 # 清冽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinglie.md)
+
 <p><span class="chinese">这儿有清冽甘甜的小溪。</span><span class="english">Here are clear, sweet brooks.</span></p>
 
 <p><span class="chinese">泉水清冽。</span><span class="english">The spring water is cold and crystal-clear.</span></p>

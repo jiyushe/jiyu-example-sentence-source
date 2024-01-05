@@ -1,5 +1,7 @@
 # badness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/badness.md)
+
 <p><span class="chinese">你们甚至可以从坏的事物中得到些什么。</span><span class="english">You can get even out of its badness.</span></p>
 
 <p><span class="chinese">好的，那么这里有坏事情发生了。</span><span class="english">Okay. So that's already some badness happening.</span></p>

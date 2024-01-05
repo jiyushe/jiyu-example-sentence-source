@@ -1,5 +1,7 @@
 # 瘟病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenbing_1.md)
+
 <p><span class="chinese">本项研究工作对马瘟病畜进行了血液学检查。</span><span class="english">In this research work the sick animals with A.</span></p>
 
 <p><span class="chinese">本文报告一例鸭瘟病例的发病和诊断。</span><span class="english">The paper relates the case of the rising illness and diagnose.</span></p>

@@ -1,5 +1,7 @@
 # 沙田
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shatian.md)
+
 <p><span class="chinese">在沙田，我一个人都不认识。</span><span class="english">I don't know anyone in Sha Tin.</span></p>
 
 <p><span class="chinese">两只宠物上了那架去沙田的公车。</span><span class="english">The pets got on the bus to Sha Tin.</span></p>

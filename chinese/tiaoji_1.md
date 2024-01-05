@@ -1,5 +1,7 @@
 # 调剂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaoji_1.md)
+
 <p><span class="chinese">你可以用冷水来调剂。</span><span class="english">You can use cold water for this solution.</span></p>
 
 <p><span class="chinese">朱之文发现这种向导型调剂十分有效。</span><span class="english">I find this guided mediation to be very useful.</span></p>

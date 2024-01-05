@@ -1,5 +1,7 @@
 # 洗心革面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xixingemian.md)
+
 <p><span class="chinese">我要洗心革面，向前走，选择人生。</span><span class="english">I am cleaning up and I am moving on.</span></p>
 
 <p><span class="chinese">嘿老师，告诉我你怎样让学生洗心革面的？</span><span class="english">Hey, teacher, tell me how do you respawn the students?</span></p>

@@ -1,5 +1,7 @@
 # uruguay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uruguay.md)
+
 <p><span class="chinese">今年74岁的穆希卡将成为乌拉圭第52任总统。</span><span class="english">Mujica, 74, became the 52nd president of Uruguay.</span></p>
 
 <p><span class="chinese">例如，乌拉圭在2005年建立一个债务机构。</span><span class="english">For instance, Uruguay created a debt agency in 2005.</span></p>

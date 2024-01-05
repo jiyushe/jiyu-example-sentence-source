@@ -1,5 +1,7 @@
 # engrossing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/engrossing.md)
+
 <p><span class="chinese">跟贪婪的死神订立一份永久的合同！</span><span class="english">A dateless bargain to engrossing death!</span></p>
 
 <p><span class="chinese">跟贪婪的死神订立一份永久的契约！</span><span class="english">A dateless bargain to engrossing death!</span></p>

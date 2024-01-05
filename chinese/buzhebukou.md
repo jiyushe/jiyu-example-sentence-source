@@ -1,5 +1,7 @@
 # 不折不扣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buzhebukou.md)
+
 <p><span class="chinese">他是个不折不扣的守财奴。</span><span class="english">He's a real scrooge.</span></p>
 
 <p><span class="chinese">他是个不折不扣的傻子。</span><span class="english">He was rather a blockhead.</span></p>

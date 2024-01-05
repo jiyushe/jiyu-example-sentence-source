@@ -1,5 +1,7 @@
 # sawn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sawn.md)
+
 <p><span class="chinese">瓦板具有可钉﹑可砖﹑可锯的特性。</span><span class="english">Tiles can be nailed , drilled or sawn.</span></p>
 
 <p><span class="chinese">所有的树已被锯成原木。</span><span class="english">All the trees have been sawn up into logs.</span></p>

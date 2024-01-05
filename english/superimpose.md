@@ -1,5 +1,7 @@
 # superimpose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superimpose.md)
+
 <p><span class="chinese">我打算在演员身上添加，或者说叠加上怪兽的形象。</span><span class="english">I was going to superimpose or matte in a monster over the actor.</span></p>
 
 <p><span class="chinese">使用两架放映机，我们可以将一个影像重叠在另一个上。</span><span class="english">Using two projectors, we can superimpose one film image on the other.</span></p>

@@ -1,5 +1,7 @@
 # 头目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toumu.md)
+
 <p><span class="chinese">人们担心的是那些头目。</span><span class="english">People are worried about the big fish.</span></p>
 
 <p><span class="chinese">特工的头目狠狠地打了一顿斯科菲尔德。</span><span class="english">The head of the agents beat him heavily.</span></p>

@@ -1,5 +1,7 @@
 # ack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ack.md)
+
 <p><span class="chinese">他跑过去发现一只黑白相间的小狗被困在陷阱里。</span><span class="english">He went over and found a bl ack and white dog in a tr ap.</span></p>
 
 <p><span class="chinese">这将停止从应答伪造通过同步阻塞防火墙。</span><span class="english">This stops ACK forgeries from passing through SYN-blocking firewalls.</span></p>

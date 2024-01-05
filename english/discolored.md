@@ -1,5 +1,7 @@
 # discolored
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discolored.md)
+
 <p><span class="chinese">皮肤随之变得厚而无色泽。</span><span class="english">Then the skin can become thick and discolored.</span></p>
 
 <p><span class="chinese">我舌头里边有些地方颜色怪怪的。</span><span class="english">There are some discolored areas inside on My tongue.</span></p>

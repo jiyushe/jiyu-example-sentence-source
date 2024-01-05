@@ -1,5 +1,7 @@
 # proxy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proxy.md)
+
 <p><span class="chinese">启动反向代理服务器。</span><span class="english">Start the reverse proxy server.</span></p>
 
 <p><span class="chinese">基于ID的代理盲签名方案。</span><span class="english">ID-based proxy blind signature scheme.</span></p>

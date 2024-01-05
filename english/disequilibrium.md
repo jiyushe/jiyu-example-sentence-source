@@ -1,5 +1,7 @@
 # disequilibrium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disequilibrium.md)
+
 <p><span class="chinese">谋求持久的不均衡。</span><span class="english">Seek persistent disequilibrium.</span></p>
 
 <p><span class="chinese">你必须要去寻求持续的不平衡。</span><span class="english">you need to seek persistent disequilibrium.</span></p>

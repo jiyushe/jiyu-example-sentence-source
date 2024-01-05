@@ -1,5 +1,7 @@
 # sahara
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sahara.md)
+
 <p><span class="chinese">这是撒哈拉大沙漠里的一块岩石画。</span><span class="english">A petroglyph emerges from the Sahara Desert.</span></p>
 
 <p><span class="chinese">撒哈打沙漠是世界上最大的沙漠。</span><span class="english">The Sahara is the largest desert in theworld.</span></p>

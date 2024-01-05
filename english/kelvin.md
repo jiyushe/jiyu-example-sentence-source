@@ -1,5 +1,7 @@
 # kelvin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kelvin.md)
+
 <p><span class="chinese">我们待会会再讨论这个。</span><span class="english">You can't get to zero Kelvin.</span></p>
 
 <p><span class="chinese">开尔文波来自何方？</span><span class="english">Where do Kelvin waves come from?</span></p>

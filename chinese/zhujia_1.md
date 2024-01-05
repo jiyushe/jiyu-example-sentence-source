@@ -1,5 +1,7 @@
 # 住家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhujia_1.md)
+
 <p><span class="chinese">我的住家已用树篱围了起来。</span><span class="english">My house has been hedged off.</span></p>
 
 <p><span class="chinese">不过两人的住家电话则都一样。</span><span class="english">But even the home phone number was the same.</span></p>

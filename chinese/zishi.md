@@ -1,5 +1,7 @@
 # 姿势
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zishi.md)
+
 <p><span class="chinese">腾跃以腾跃姿势跳跃…</span><span class="english">To leap in a curvet.</span></p>
 
 <p><span class="chinese">不用手的休息姿势。</span><span class="english">Doing a no-hands-rest.</span></p>

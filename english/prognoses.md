@@ -1,5 +1,7 @@
 # prognoses
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prognoses.md)
+
 <p><span class="chinese">比较研究组和对照组病人的预后。</span><span class="english">The prognoses of the two groups were compared.</span></p>
 
 <p><span class="chinese">有关的报道其预后各异，而最佳的治疗尚未确定。</span><span class="english">Reported prognoses are heterogeneous, and optimal treatment remains undefined.</span></p>

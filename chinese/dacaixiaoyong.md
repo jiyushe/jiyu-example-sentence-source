@@ -1,5 +1,7 @@
 # 大材小用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dacaixiaoyong.md)
+
 <p><span class="chinese">嗨，可能这对你真是有点大材小用。</span><span class="english">Hey, maybe you are.</span></p>
 
 <p><span class="chinese">这对我来说是大材小用。</span><span class="english">I am way overqualified for this job.</span></p>

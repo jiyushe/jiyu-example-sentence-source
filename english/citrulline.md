@@ -1,5 +1,7 @@
 # citrulline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/citrulline.md)
+
 <p><span class="chinese">但他很难说需要多少瓜氨酸可以产生伟哥样作用。</span><span class="english">But he can't say how much citrulline is needed to have Viagra-like effects.</span></p>
 
 <p><span class="chinese">记得一定要吃瓜皮，因为大部分瓜氨酸都在瓜皮里。</span><span class="english">Remember to eat the rind, since this is where most of the citrulline is found.</span></p>

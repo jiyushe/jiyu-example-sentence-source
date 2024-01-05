@@ -1,5 +1,7 @@
 # unconstitutional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unconstitutional.md)
+
 <p><span class="chinese">法令违宪了吗？</span><span class="english">Is the statute unconstitutional?</span></p>
 
 <p><span class="chinese">他的确裁决强制令违宪。</span><span class="english">He did indeed find the mandate unconstitutional.</span></p>

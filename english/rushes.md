@@ -1,5 +1,7 @@
 # rushes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rushes.md)
+
 <p><span class="chinese">水涌入其中。</span><span class="english">Water rushes in.</span></p>
 
 <p><span class="chinese">白马四蹄翻飞，向前奔驰。</span><span class="english">The white horse rushes forward.</span></p>

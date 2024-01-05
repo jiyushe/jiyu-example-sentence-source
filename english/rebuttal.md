@@ -1,5 +1,7 @@
 # rebuttal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rebuttal.md)
+
 <p><span class="chinese">杰克逊对此进行了反驳。</span><span class="english">Jackson aired his own rebuttal.</span></p>
 
 <p><span class="chinese">最好的幽默考虑到意见和辩驳。</span><span class="english">The best humor allows for opinion and rebuttal.</span></p>

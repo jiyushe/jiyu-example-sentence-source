@@ -1,5 +1,7 @@
 # arden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arden.md)
+
 <p><span class="chinese">提里奥和阿尔顿都微笑着看她离开。</span><span class="english">Both Tirion and Arden smiled as she left.</span></p>
 
 <p><span class="chinese">该片发行方为银幕珍宝，导演为涅尔斯·阿登·欧普勒夫。</span><span class="english">Niels Arden Oplev directs the Screen Gems release.</span></p>

@@ -1,5 +1,7 @@
 # bungle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bungle.md)
+
 <p><span class="chinese">他们的工资晚发了，是由于计算机出错。</span><span class="english">Their pay was late because of a computer bungle.</span></p>
 
 <p><span class="chinese">贻误了一步，它的，你怎么说英语，泔水。</span><span class="english">Bungle a step and it's, how do you say in English, swill.</span></p>

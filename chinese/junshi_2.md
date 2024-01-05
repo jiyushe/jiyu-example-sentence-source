@@ -1,5 +1,7 @@
 # 均势
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junshi_2.md)
+
 <p><span class="chinese">均势外交是伍廷芳采取的外交策略。</span><span class="english">The diplomatic strategy of balance of power was adopted by Wu.</span></p>
 
 <p><span class="chinese">新政党的壮大打破了力量的均势。</span><span class="english">The growth of the new political party upset the balance of power.</span></p>

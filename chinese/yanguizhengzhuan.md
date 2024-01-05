@@ -1,5 +1,7 @@
 # 言归正传
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanguizhengzhuan.md)
+
 <p><span class="chinese">言归正传,画家们都画什么</span><span class="english">Anyway, what did people paint?</span></p>
 
 <p><span class="chinese">言归正传。</span><span class="english">It's time to get back to learning.</span></p>

@@ -1,5 +1,7 @@
 # tyler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tyler.md)
+
 <p><span class="chinese">泰勒救了她的命。</span><span class="english">Tyler saved her life.</span></p>
 
 <p><span class="chinese">之后泰勒倒出碱液。</span><span class="english">And Tyler pours the lye.</span></p>

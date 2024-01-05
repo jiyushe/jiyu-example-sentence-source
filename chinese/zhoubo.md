@@ -1,5 +1,7 @@
 # 周波
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhoubo.md)
+
 <p><span class="chinese">低周波按摩器“，”</span><span class="english">Low Frequency Massager.</span></p>
 
 <p><span class="chinese">中周波感应炉“，”</span><span class="english">Medium-Frequency Induction Furnace.</span></p>

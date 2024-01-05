@@ -1,5 +1,7 @@
 # compactor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compactor.md)
+
 <p><span class="chinese">本发明涉及一种土壤压实装置。</span><span class="english">The present invention relates to a soil compactor.</span></p>
 
 <p><span class="chinese">带上几个垃圾袋吧，它们是最结实的。</span><span class="english">Bring several of them. Trash compactor bags are the sturdiest.</span></p>

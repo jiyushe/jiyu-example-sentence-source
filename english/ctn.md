@@ -1,5 +1,7 @@
 # ctn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ctn.md)
+
 <p><span class="chinese">所有CTN表格内的资料必须完整填写。</span><span class="english">All information boxes in CTN form are matory filled.</span></p>
 
 <p><span class="chinese">关于出口纸箱上的唛头，我们想知道你们有什么要求。</span><span class="english">Concerning the ctn marks, we'd like to know your requirements.</span></p>

@@ -1,5 +1,7 @@
 # 直落
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiluo.md)
+
 <p><span class="chinese">直落落的洒到我的心里。</span><span class="english">Direct sprinkling to in mine heart.</span></p>
 
 <p><span class="chinese">这条路从山上陡然直落山谷。</span><span class="english">The road drops from the mountains down the steep valley.</span></p>

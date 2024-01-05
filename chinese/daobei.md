@@ -1,5 +1,7 @@
 # 刀背
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daobei.md)
+
 <p><span class="chinese">用小刀的刀背把鸡蛋的周围划破。</span><span class="english">Take the back of a knife and crack eggs evenly all around.</span></p>
 
 <p><span class="chinese">他拿起一把菜刀，开始用刀背割李某某的喉部。</span><span class="english">He picked up a kitchen knife and began to use the knife cut his throat Schmidt.</span></p>

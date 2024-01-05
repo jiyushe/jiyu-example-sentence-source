@@ -1,5 +1,7 @@
 # weaver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weaver.md)
+
 <p><span class="chinese">韦弗问道。</span><span class="english">Weaver asked.</span></p>
 
 <p><span class="chinese">卡蒂佛是我们的制片人。</span><span class="english">Caty Weaver was our producer.</span></p>

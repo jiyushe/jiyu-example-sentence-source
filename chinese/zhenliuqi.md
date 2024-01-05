@@ -1,5 +1,7 @@
 # 镇流器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenliuqi.md)
+
 <p><span class="chinese">压力镇流器。</span><span class="english">Pression ballast.</span></p>
 
 <p><span class="chinese">弧光灯需要一个限流镇流器。</span><span class="english">Arc lamps require a current-limiting ballast.</span></p>

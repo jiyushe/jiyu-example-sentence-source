@@ -1,5 +1,7 @@
 # 硬化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinghua_1.md)
+
 <p><span class="chinese">高温使陶土硬化。</span><span class="english">Great heat indurates clay.</span></p>
 
 <p><span class="chinese">我们称为硬化性腺病。</span><span class="english">I may call sclerosing adenosis.</span></p>

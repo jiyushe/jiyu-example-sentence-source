@@ -1,5 +1,7 @@
 # 洋人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangren.md)
+
 <p><span class="chinese">洋人骂人无智，“你象个孩子一样，人家给你粪，你也吃！”。</span><span class="english">"You are like a little kid, people feed you shit, you'll eat it! ".</span></p>
 
 <p><span class="chinese">同样，蒋尽管依赖洋人，却也憎恨洋人。</span><span class="english">In the same way, Chiang hated foreigners even while he depended on them.</span></p>

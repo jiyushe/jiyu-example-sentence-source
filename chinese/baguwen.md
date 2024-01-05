@@ -1,5 +1,7 @@
 # 八股文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baguwen.md)
+
 <p><span class="chinese">作文是八股文。</span><span class="english">Composition, eight-part essay.</span></p>
 
 <p><span class="chinese">过去的八股文，教条主义和现在的医疗模式有什么区别。</span><span class="english">Past eight-legged essay, dogmatism and present's medical pattern has any difference.</span></p>

@@ -1,5 +1,7 @@
 # 阳间
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangjian.md)
+
 <p><span class="chinese">双阳间的价钱是若干？</span><span class="english">Whathas the price of a double room?</span></p>
 
 <p><span class="chinese">双阳间的价钱是几多？</span><span class="english">Whatnos the price of a double room?</span></p>

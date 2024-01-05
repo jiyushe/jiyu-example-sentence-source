@@ -1,5 +1,7 @@
 # highroad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/highroad.md)
+
 <p><span class="chinese">他已走上成功的大路。</span><span class="english">He is on the highroad to success.</span></p>
 
 <p><span class="chinese">失败是通往成功的唯一之路。</span><span class="english">Failure is the only highroad to success.</span></p>

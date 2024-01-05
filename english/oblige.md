@@ -1,5 +1,7 @@
 # oblige
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oblige.md)
+
 <p><span class="chinese">我需要我弟弟帮我做到。</span><span class="english">I need my brother to oblige me.</span></p>
 
 <p><span class="chinese">贵族行为理应高尚的传统。</span><span class="english">The tradition of noblesse oblige.</span></p>

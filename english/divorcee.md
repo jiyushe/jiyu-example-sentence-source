@@ -1,5 +1,7 @@
 # divorcee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/divorcee.md)
+
 <p><span class="chinese">1936年，爱德华八世与美国一位离过婚的妇女相爱了。</span><span class="english">Edward VIII fell in love with an American divorcee in 1936.</span></p>
 
 <p><span class="chinese">而10年的婚姻完全能够让40年的离婚生活也变得值得起来。</span><span class="english">Ten years of marriage more than justifies 40 years as a divorcee.</span></p>

@@ -1,5 +1,7 @@
 # shush
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shush.md)
+
 <p><span class="chinese">嘘……我想听清他们说话。</span><span class="english">Shush. I'm trying to listen.</span></p>
 
 <p><span class="chinese">闭嘴就好，我会处理的。</span><span class="english">Just shush. I'll handle this.</span></p>

@@ -1,5 +1,7 @@
 # soother
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soother.md)
+
 <p><span class="chinese">但妈妈却认定奶嘴有让我窒息的危险。</span><span class="english">But Mom decided soother was a choking hazard.</span></p>
 
 <p><span class="chinese">我于是知道Susan的超级英雄是“抚慰者“。</span><span class="english">So I knew that Susan's superhero was a Soother.</span></p>

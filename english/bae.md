@@ -1,5 +1,7 @@
 # bae
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bae.md)
+
 <p><span class="chinese">BAE系统公司提供车辆和平台集成。</span><span class="english">BAE Systems provides vehicle and platform integration.</span></p>
 
 <p><span class="chinese">单身双鱼座今年会找到他们的红鱼或者爱鱼。</span><span class="english">Single fish will find their red fish or bae fish this year.</span></p>

@@ -1,5 +1,7 @@
 # 福祉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuzhi.md)
+
 <p><span class="chinese">这様能提高经济增长，从而福祉社会。</span><span class="english">It boosts growth and thus wellbeing.</span></p>
 
 <p><span class="chinese">让人民的福祉成为最高律令。</span><span class="english">Let the welfare of the people be the supreme law.</span></p>

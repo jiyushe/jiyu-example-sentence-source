@@ -1,5 +1,7 @@
 # insensibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insensibility.md)
+
 <p><span class="chinese">他对那个动物的命运漠不关心。</span><span class="english">He showed total insensibility to the animals fate.</span></p>
 
 <p><span class="chinese">你永远不会知道，我那些假装的无所谓。</span><span class="english">You never know, those insensibility that I pretend.</span></p>

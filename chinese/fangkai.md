@@ -1,5 +1,7 @@
 # 放开
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangkai.md)
+
 <p><span class="chinese">他放开了那条狗。</span><span class="english">He loosed the dog.</span></p>
 
 <p><span class="chinese">请放开那生鹦鹉！</span><span class="english">Please spare the parrot!</span></p>

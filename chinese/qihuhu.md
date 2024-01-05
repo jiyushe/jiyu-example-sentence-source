@@ -1,5 +1,7 @@
 # 气呼呼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qihuhu.md)
+
 <p><span class="chinese">他气呼呼地去追她。</span><span class="english">He huffed and puffed after her.</span></p>
 
 <p><span class="chinese">我把自行车一丢，气呼呼的走了。</span><span class="english">I bike throwing, huff went away.</span></p>

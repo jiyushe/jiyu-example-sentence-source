@@ -1,5 +1,7 @@
 # piecewise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/piecewise.md)
+
 <p><span class="chinese">这种分段线性变化也有很高的实用价值。</span><span class="english">This piecewise linear change has a very high practical value.</span></p>
 
 <p><span class="chinese">构造的曲面是分片双三次有理参数多项式曲面。</span><span class="english">This surface is a piecewise bi-cubic rational parametric polynomial surface.</span></p>

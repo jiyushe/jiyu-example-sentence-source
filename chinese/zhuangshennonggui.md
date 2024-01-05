@@ -1,5 +1,7 @@
 # 装神弄鬼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangshennonggui.md)
+
 <p><span class="chinese">企业家不要扮成预言家装神弄鬼。</span><span class="english">Don't predict the future, create it!</span></p>
 
 <p><span class="chinese">什么人在那装神弄鬼？</span><span class="english">What person pack absolute being to play tricks over there?</span></p>

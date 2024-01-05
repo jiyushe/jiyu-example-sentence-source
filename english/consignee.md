@@ -1,5 +1,7 @@
 # consignee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consignee.md)
+
 <p><span class="chinese">将清关后的货物交付给收货人。</span><span class="english">Deliver the cleared goods to the consignee.</span></p>
 
 <p><span class="chinese">告知收货人或代理货物到达信息。</span><span class="english">Notify consignee or agent of arrival of shipments.</span></p>

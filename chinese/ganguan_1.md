@@ -1,5 +1,7 @@
 # 感官
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganguan_1.md)
+
 <p><span class="chinese">我们拥有感官理解吗？</span><span class="english">Do we have sensory knowledge?</span></p>
 
 <p><span class="chinese">它已经失去了所有感官的实在性。</span><span class="english">It has lost all sensuous reality.</span></p>

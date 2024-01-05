@@ -1,5 +1,7 @@
 # 好高骛远
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haogaowuyuan.md)
+
 <p><span class="chinese">反而变得急功近利，好高骛远。</span><span class="english">But has become profit-oriented, ambitious.</span></p>
 
 <p><span class="chinese">此人，性格平和，不好高骛远，待人真挚。</span><span class="english">Our nature, gentle, treats people sincerely.</span></p>

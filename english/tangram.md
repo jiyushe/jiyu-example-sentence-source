@@ -1,5 +1,7 @@
 # tangram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tangram.md)
+
 <p><span class="chinese">选择七巧板摆图。</span><span class="english">Select the tangram to form.</span></p>
 
 <p><span class="chinese">历史上没有记载七巧板是什么年代发明的。</span><span class="english">The invention of the Tangram puzzle is unrecorded in history.</span></p>

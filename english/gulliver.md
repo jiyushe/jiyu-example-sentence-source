@@ -1,5 +1,7 @@
 # gulliver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gulliver.md)
+
 <p><span class="chinese">格列佛的小人国的人？</span><span class="english">Were the Lilliputians of Gulliver?</span></p>
 
 <p><span class="chinese">格列佛如何逃出小人国?。</span><span class="english">How does Gulliver escape from the Lilliputians?</span></p>

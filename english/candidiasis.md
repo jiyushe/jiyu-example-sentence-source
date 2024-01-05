@@ -1,5 +1,7 @@
 # candidiasis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/candidiasis.md)
+
 <p><span class="chinese">真菌感染主要为肺部念珠菌感染。</span><span class="english">Most mycotic infections were candidiasis of lung.</span></p>
 
 <p><span class="chinese">目的探讨老年人肺念珠菌病胸部X线表现。</span><span class="english">To discuss the chest X-ray representations of geriatric lung candidiasis.</span></p>

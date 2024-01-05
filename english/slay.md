@@ -1,5 +1,7 @@
 # slay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slay.md)
+
 <p><span class="chinese">重新派神杀死他。</span><span class="english">Re sends the gods to slay him.</span></p>
 
 <p><span class="chinese">第六，我也可以屠龙。</span><span class="english">Six, I can slay the Jabberwocky.</span></p>

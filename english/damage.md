@@ -1,5 +1,7 @@
 # damage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/damage.md)
+
 <p><span class="chinese">他起诉要求损害赔偿。</span><span class="english">He sued for damage.</span></p>
 
 <p><span class="chinese">穿鞋会给孩子的脚带来什么危害呢？</span><span class="english">What sort of damage?</span></p>

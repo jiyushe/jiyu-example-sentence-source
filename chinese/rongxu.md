@@ -1,5 +1,7 @@
 # 容许
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongxu.md)
+
 <p><span class="chinese">我决不容许任何干涉行径。</span><span class="english">I will brook no interference.</span></p>
 
 <p><span class="chinese">但波西亚却不容许这样。</span><span class="english">But Portia would not allow this.</span></p>

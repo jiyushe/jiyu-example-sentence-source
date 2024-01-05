@@ -1,5 +1,7 @@
 # accessible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accessible.md)
+
 <p><span class="chinese">蜜蜂的车把。</span><span class="english">Accessible to thill of bee.</span></p>
 
 <p><span class="chinese">残疾人可以畅达你吗?。</span><span class="english">Are you handicap accessible?</span></p>

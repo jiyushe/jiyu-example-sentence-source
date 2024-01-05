@@ -1,5 +1,7 @@
 # biceps
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biceps.md)
+
 <p><span class="chinese">你不能不停地伸缩你的二头肌，对吧？</span><span class="english">You can’t flex your biceps all the time.</span></p>
 
 <p><span class="chinese">结果家兔股二头肌为扁肌。</span><span class="english">Results Biceps femoris was flat muscle in rabbit.</span></p>

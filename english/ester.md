@@ -1,5 +1,7 @@
 # ester
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ester.md)
+
 <p><span class="chinese">乙酸甲基戊酯。</span><span class="english">Acetic acid methyl amyl ester.</span></p>
 
 <p><span class="chinese">草酸形成的一种盐或酯。</span><span class="english">A salt or ester of oxalic acid.</span></p>

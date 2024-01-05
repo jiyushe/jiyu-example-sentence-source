@@ -1,5 +1,7 @@
 # 从一而终
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/congyierzhong.md)
+
 <p><span class="chinese">我是那种从一而终的男人。</span><span class="english">I am a one-woman kind of man.</span></p>
 
 <p><span class="chinese">我是那种从一而终的女人。</span><span class="english">I am the one-man kinda woman.</span></p>

@@ -1,5 +1,7 @@
 # discography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discography.md)
+
 <p><span class="chinese">我下载后发现这首歌曲的唱片。</span><span class="english">I found this song after downloading their discography.</span></p>
 
 <p><span class="chinese">科比的球迷们是否满足于他现在的状态？</span><span class="english">Should Kobe's fans be satisfied with his current discography ?</span></p>

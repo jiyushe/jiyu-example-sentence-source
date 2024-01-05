@@ -1,5 +1,7 @@
 # gally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gally.md)
+
 <p><span class="chinese">狮子还吓唬你吗?。</span><span class="english">Does the lion return gally you?</span></p>
 
 <p><span class="chinese">有些人还冒充黑道来恐吓我。</span><span class="english">Some people still pretend to be Hei Daolai gally me.</span></p>

@@ -1,5 +1,7 @@
 # iv
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iv.md)
+
 <p><span class="chinese">第四阶段学习刀法。</span><span class="english">Phase IV study sword skill.</span></p>
 
 <p><span class="chinese">目前是否存在公众恐慌？</span><span class="english">IV. Is there a panic so far?</span></p>

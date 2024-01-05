@@ -1,5 +1,7 @@
 # 警卫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingwei_3.md)
+
 <p><span class="chinese">这个警卫擅离职守。</span><span class="english">The guard deserted his post.</span></p>
 
 <p><span class="chinese">警卫！警卫！把这个人拉出去！</span><span class="english">Guard! Guardl Take this man away!</span></p>

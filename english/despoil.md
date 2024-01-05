@@ -1,5 +1,7 @@
 # despoil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/despoil.md)
+
 <p><span class="chinese">不像民主党，从不掠夺。</span><span class="english">And it's not like Democrats never despoil.</span></p>
 
 <p><span class="chinese">这些疾病常会夺走年轻的生命。</span><span class="english">The diseases usually can despoil of young.</span></p>

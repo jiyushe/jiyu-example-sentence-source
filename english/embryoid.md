@@ -1,5 +1,7 @@
 # embryoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/embryoid.md)
+
 <p><span class="chinese">由胚状体和愈伤组织分化芽。</span><span class="english">The bud was differentiated from the embryoid and the callus.</span></p>
 
 <p><span class="chinese">花粉胚状体的诱导率因品种而异。</span><span class="english">The frequency of embryoid induction varies with the cultivar.</span></p>

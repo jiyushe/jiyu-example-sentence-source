@@ -1,5 +1,7 @@
 # recorder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recorder.md)
+
 <p><span class="chinese">选择一个记录员.</span><span class="english">Choose a recorder.</span></p>
 
 <p><span class="chinese">那是一台新的录音机。</span><span class="english">That's a new recorder.</span></p>

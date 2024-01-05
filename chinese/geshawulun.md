@@ -1,5 +1,7 @@
 # 格杀勿论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/geshawulun.md)
+
 <p><span class="chinese">而“公司”如果找到他将会格杀勿论。</span><span class="english">And the Company will shoot him on sight if he's found.</span></p>
 
 <p><span class="chinese">任何人反对我们的组织格杀勿论。</span><span class="english">Anyone who opposes our organization will get rubbed out.</span></p>

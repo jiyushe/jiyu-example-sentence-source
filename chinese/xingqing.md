@@ -1,5 +1,7 @@
 # 性情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingqing.md)
+
 <p><span class="chinese">我并非生来就是一个性情温和的人。</span><span class="english">I was not born mild.</span></p>
 
 <p><span class="chinese">他性情急躁。</span><span class="english">He has an edgy temper.</span></p>

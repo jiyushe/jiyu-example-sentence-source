@@ -1,5 +1,7 @@
 # winnable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/winnable.md)
+
 <p><span class="chinese">但是，这场无人机战役能打胜吗？</span><span class="english">But is the drone war winnable?</span></p>
 
 <p><span class="chinese">我们主场除了切尔西之外，其他的都是可以保证全取三分的。</span><span class="english">Our home games, with the exception of Chelsea, are all very winnable.</span></p>

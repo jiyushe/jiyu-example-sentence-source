@@ -1,5 +1,7 @@
 # synchronic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synchronic.md)
+
 <p><span class="chinese">此论文属于共时的研究。</span><span class="english">This dissertation belongs to synchronic study.</span></p>
 
 <p><span class="chinese">采用针杆摆动与压脚、送布牙同步送料方式。</span><span class="english">It adopts Synchronic feeding of needle bar and feed dog.</span></p>

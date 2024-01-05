@@ -1,5 +1,7 @@
 # mown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mown.md)
+
 <p><span class="chinese">草地上的草还没割。</span><span class="english">The meadow is not yet mown.</span></p>
 
 <p><span class="chinese">士兵们被机关枪打死了。</span><span class="english">The soldiers were mown down by machine-gun fire.</span></p>

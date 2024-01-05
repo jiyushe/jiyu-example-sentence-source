@@ -1,5 +1,7 @@
 # 刑法典
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingfadian.md)
+
 <p><span class="chinese">我国1979年刑法典没有规定挪用公款方面的犯罪。</span><span class="english">In the penal law of 1979, the crime of defalcation was not ordained.</span></p>
 
 <p><span class="chinese">刑法典第三百五十六条实质上是关于特别累犯的规定。</span><span class="english">Essentially, Article 356 Of Penal Code stipulates special recidivist.</span></p>

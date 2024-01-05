@@ -1,5 +1,7 @@
 # anthropology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anthropology.md)
+
 <p><span class="chinese">化学？人类学？</span><span class="english">Chemistry? Anthropology?</span></p>
 
 <p><span class="chinese">她是人类学选课指导教师。</span><span class="english">She's course tutor in anthropology.</span></p>

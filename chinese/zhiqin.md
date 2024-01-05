@@ -1,5 +1,7 @@
 # 值勤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiqin.md)
+
 <p><span class="chinese">现在有许多警察在外面值勤。</span><span class="english">There are many police out now.</span></p>
 
 <p><span class="chinese">警察当班值勤时不得抽烟。</span><span class="english">A policeman must not smoke while he is on duty.</span></p>

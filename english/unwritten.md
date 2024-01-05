@@ -1,5 +1,7 @@
 # unwritten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unwritten.md)
+
 <p><span class="chinese">爱丽斯被指责违反这条不成文法。</span><span class="english">The unwritten laws of good sportsmanship.</span></p>
 
 <p><span class="chinese">关于穿什么有种不成文法。</span><span class="english">There's a kind of unwritten law about what to wear.</span></p>

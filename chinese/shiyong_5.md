@@ -1,5 +1,7 @@
 # 食用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyong_5.md)
+
 <p><span class="chinese">都是可食用的哦。</span><span class="english">All is edible.</span></p>
 
 <p><span class="chinese">不要食用发霉的食物。</span><span class="english">Do not eat moldy foods.</span></p>

@@ -1,5 +1,7 @@
 # 小道消息
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaodaoxiaoxi.md)
+
 <p><span class="chinese">我听得是小道消息。</span><span class="english">I heard it through the grapevine.</span></p>
 
 <p><span class="chinese">那个故事我是从小道消息听到的。</span><span class="english">I heard the story through the grapevine.</span></p>

@@ -1,5 +1,7 @@
 # paddington
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paddington.md)
+
 <p><span class="chinese">帕丁顿有一场日光浴！</span><span class="english">Paddington was having a sunbathe!</span></p>
 
 <p><span class="chinese">这是设在伦敦的帕丁顿希尔顿。</span><span class="english">This is located in Paddington London Hilton.</span></p>

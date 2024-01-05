@@ -1,5 +1,7 @@
 # reemergence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reemergence.md)
+
 <p><span class="chinese">直到将近1700年之后，啤酒才再次回到中国。</span><span class="english">It would take nearly 1, 700 years for beer to make its reemergence in China.</span></p>
 
 <p><span class="chinese">关于中国的重新崛起，之前已经有许多人着墨甚多，但在此我只关注三个方面。</span><span class="english">Much has been written about the reemergence of China, but I would like to focus on three points.</span></p>

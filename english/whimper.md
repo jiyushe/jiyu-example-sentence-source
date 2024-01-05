@@ -1,5 +1,7 @@
 # whimper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whimper.md)
+
 <p><span class="chinese">一些人就一生嗟叹。</span><span class="english">Some of us whimper along life's way.</span></p>
 
 <p><span class="chinese">我们中的一些人就哀诉生活多难。</span><span class="english">Some of us whimper that life's all wrong.</span></p>

@@ -1,5 +1,7 @@
 # 谱写
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/puxie.md)
+
 <p><span class="chinese">为孔雀舞谱写的舞曲。</span><span class="english">The music for this dance.</span></p>
 
 <p><span class="chinese">我们谱写乐章</span><span class="english">We write new pieces of music.</span></p>

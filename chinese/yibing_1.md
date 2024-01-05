@@ -1,5 +1,7 @@
 # 疫病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yibing_1.md)
+
 <p><span class="chinese">剩下的问题就是哪种自体免疫病?。</span><span class="english">Only question is what kind of autoimmune?</span></p>
 
 <p><span class="chinese">谁是疫病流行的罪魁祸首?。</span><span class="english">Who is the Arch-criminal of Epidemic Disease?</span></p>

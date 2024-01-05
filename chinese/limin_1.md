@@ -1,5 +1,7 @@
 # 黎民
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/limin_1.md)
+
 <p><span class="chinese">独夫们是凶暴的，但黎民是善良的。</span><span class="english">Men are cruel- but Man is kind.</span></p>
 
 <p><span class="chinese">现在许多国度的黎民饱受公害之苦。</span><span class="english">People in many countries are enduring public harizonaards.</span></p>

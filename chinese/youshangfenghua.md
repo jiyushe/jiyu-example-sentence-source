@@ -1,5 +1,7 @@
 # 有伤风化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youshangfenghua.md)
+
 <p><span class="chinese">改革有伤风化的教会。</span><span class="english">To reform the corrupt morals of the church.</span></p>
 
 <p><span class="chinese">任何粗鄙或有伤风化的广告，应该删去。</span><span class="english">Any indecent advertisements need to be censored.</span></p>

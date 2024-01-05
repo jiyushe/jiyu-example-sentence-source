@@ -1,5 +1,7 @@
 # yuwei
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yuwei.md)
+
 <p><span class="chinese">喻威前来解释，说其实彼此都未忘记对方。</span><span class="english">YuWei come to explain that actually didn t forget each other.</span></p>
 
 <p><span class="chinese">丽人收到喻威的花，要和喻威一起共赴晚餐。</span><span class="english">Receive YuWei flower beauty, want to have dinner together with YuWei.</span></p>

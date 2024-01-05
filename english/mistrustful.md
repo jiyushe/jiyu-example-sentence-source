@@ -1,5 +1,7 @@
 # mistrustful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mistrustful.md)
+
 <p><span class="chinese">他不信任我的才干。</span><span class="english">He is mistrustful of my ability.</span></p>
 
 <p><span class="chinese">看来你连自己的朋友都信不过了。</span><span class="english">You seem mistrustful even of your friends.</span></p>

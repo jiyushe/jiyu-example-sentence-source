@@ -1,5 +1,7 @@
 # glazing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glazing.md)
+
 <p><span class="chinese">“我有点累了。”他目光呆滞地说。</span><span class="english">I'm feeling rather tired, ' he said, his eyes glazing.</span></p>
 
 <p><span class="chinese">屋顶是简单的球场，有很多玻璃天窗。</span><span class="english">Roofs are simple pitches, many with clerestory glazing.</span></p>

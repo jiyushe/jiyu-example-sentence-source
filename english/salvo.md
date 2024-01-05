@@ -1,5 +1,7 @@
 # salvo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salvo.md)
+
 <p><span class="chinese">我们朝发出声音的地方进行一次齐射。</span><span class="english">The performance won a salvo of applause.</span></p>
 
 <p><span class="chinese">去年8月，华克斯曼第一次正式发动炮轰。</span><span class="english">Waxman launched his first formal salvo last August.</span></p>

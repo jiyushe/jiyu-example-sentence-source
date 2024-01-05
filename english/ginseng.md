@@ -1,5 +1,7 @@
 # ginseng
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ginseng.md)
+
 <p><span class="chinese">人参是一种强力的补品。</span><span class="english">Ginseng is a powerful adaptogen.</span></p>
 
 <p><span class="chinese">人参的药用价值很高。</span><span class="english">Ginseng is of great medicinal value.</span></p>

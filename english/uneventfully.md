@@ -1,5 +1,7 @@
 # uneventfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uneventfully.md)
+
 <p><span class="chinese">五天后顺利出院。</span><span class="english">He was discharged uneventfully five days later.</span></p>
 
 <p><span class="chinese">这位警探的后半夜倒是平安无事。</span><span class="english">The rest of the detective's night passed uneventfully.</span></p>

@@ -1,5 +1,7 @@
 # bathhouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bathhouse.md)
+
 <p><span class="chinese">洗澡房子就像一个穴居矮人房子。</span><span class="english">A bathhouse is like a house for hobbits.</span></p>
 
 <p><span class="chinese">桑拿浴室洗蒸汽浴的浴室或房间。</span><span class="english">A bathhouse or room for taking such a steam bath.</span></p>

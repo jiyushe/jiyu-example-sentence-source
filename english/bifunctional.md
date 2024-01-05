@@ -1,5 +1,7 @@
 # bifunctional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bifunctional.md)
+
 <p><span class="chinese">因此，对催化烃转化反应的双功能催化剂的研究就显得十分重要。</span><span class="english">Therefore, the study on bifunctional catalysts and their application in alkane conversion is necessary.</span></p>
 
 <p><span class="chinese">通过将手性胺和酸基团同时引入到二氧化硅表面制备得到了一种多相双功能催化剂。</span><span class="english">A heterogeneous bifunctional catalyst was synthesized by incorporating chiral amine and acid groups into silica.</span></p>

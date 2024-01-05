@@ -1,5 +1,7 @@
 # renormalization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/renormalization.md)
+
 <p><span class="chinese">随着科学的发展，重整化群有了不同的内涵。</span><span class="english">As science develops, different connotations of renormalization group come into being.</span></p>
 
 <p><span class="chinese">讨论了极性半导体中表面极化子重正化质量的性质。</span><span class="english">In this paper, renormalization mass of the surface polaron in polar crystals were studied.</span></p>

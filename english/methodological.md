@@ -1,5 +1,7 @@
 # methodological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/methodological.md)
+
 <p><span class="chinese">还有些研究方法上的局限</span><span class="english">There's methodological limitations.</span></p>
 
 <p><span class="chinese">从一个坚实的方法论基础来驱动采纳。</span><span class="english">Driving adoption from a firm methodological basis.</span></p>

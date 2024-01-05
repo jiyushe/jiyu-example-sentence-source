@@ -1,5 +1,7 @@
 # musicianship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/musicianship.md)
+
 <p><span class="chinese">该集团结合掌握技术与音乐。</span><span class="english">The group combines mastery of technology with musicianship.</span></p>
 
 <p><span class="chinese">她的语言能力和音乐天赋是从小形成的。</span><span class="english">Her linguistic skills and musicianship were honed from a young age.</span></p>

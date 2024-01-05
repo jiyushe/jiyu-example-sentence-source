@@ -1,5 +1,7 @@
 # scantily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scantily.md)
+
 <p><span class="chinese">在中国人眼中，昔日的皇帝已经变成乞丐。</span><span class="english">The emperor is looking pretty scantily clad in Chinese eyes.</span></p>
 
 <p><span class="chinese">这个印尼版杂志载有一些衣著暴露但非裸体的女性照片。</span><span class="english">The Indonesian Playboy included pictures of scantily clad women, but no nudity.</span></p>

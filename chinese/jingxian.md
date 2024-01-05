@@ -1,5 +1,7 @@
 # 惊羡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingxian.md)
+
 <p><span class="chinese">从山顶上看到的美景，使我惊羡不已。</span><span class="english">The beautiful view from the top of the mountain took my breath away.</span></p>
 
 <p><span class="chinese">而在语言及文学方面，其成就是日渐令人惊羡的。</span><span class="english">But in language and literature the accomplishments were breathtaking.</span></p>

@@ -1,5 +1,7 @@
 # azole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/azole.md)
+
 <p><span class="chinese">唑类衍生物，其用途，生产和使用。</span><span class="english">Azole derivatives, their use, production and usage.</span></p>
 
 <p><span class="chinese">本发明涉及一种多效唑悬浮剂及其制备方法。</span><span class="english">The invention relates to a multi-effect azole suspending agent and a method for preparing the same.</span></p>

@@ -1,5 +1,7 @@
 # 外罩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waizhao.md)
+
 <p><span class="chinese">'整流'。''罩飞机的引擎外罩。</span><span class="english">The cowling on an aircraft.</span></p>
 
 <p><span class="chinese">采用钢化外罩设计，清洁卫生。</span><span class="english">Adopt tempering cover, clean and sanitary.</span></p>

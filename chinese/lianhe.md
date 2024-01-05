@@ -1,5 +1,7 @@
 # 联合
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianhe.md)
+
 <p><span class="chinese">凯文·培根联合主演。</span><span class="english">Kevin Bacon co-stars.</span></p>
 
 <p><span class="chinese">并且没有联合动词。</span><span class="english">And no conjugating of verbs.</span></p>

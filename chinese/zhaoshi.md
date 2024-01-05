@@ -1,5 +1,7 @@
 # 找事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoshi.md)
+
 <p><span class="chinese">别没事找事。</span><span class="english">Don't go looking for trouble.</span></p>
 
 <p><span class="chinese">他想，他要出去找事做。</span><span class="english">"He would look for something, " he thought.</span></p>

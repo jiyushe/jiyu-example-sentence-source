@@ -1,5 +1,7 @@
 # neutrophil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neutrophil.md)
+
 <p><span class="chinese">③香菇多糖使末梢血中性幼稚细胞比例明显增加。</span><span class="english">Immature neutrophil ratio in tumor lentinan group increased.</span></p>
 
 <p><span class="chinese">活动期病变可见较多中性白细胞浸润。</span><span class="english">In active stage considerable infiltration of neutrophil cells was seen.</span></p>

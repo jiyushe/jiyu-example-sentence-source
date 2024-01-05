@@ -1,5 +1,7 @@
 # 轴衬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhouchen.md)
+
 <p><span class="chinese">把线轴衬清理干净，弄干后涂一滴油。</span><span class="english">Dry spool bushing. Apply one drop of oil to bushing.</span></p>
 
 <p><span class="chinese">它是一个好想法周期性地润滑凸轮、轨和轴衬。</span><span class="english">It is a good idea to lube the cams, axles and bushings periodically.</span></p>

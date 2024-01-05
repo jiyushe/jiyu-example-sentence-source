@@ -1,5 +1,7 @@
 # upstroke
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upstroke.md)
+
 <p><span class="chinese">阶段II是呼气上升支。</span><span class="english">Phase II is the expiratory upstroke.</span></p>
 
 <p><span class="chinese">他扬起翅膀时，真是够小心的了。</span><span class="english">He couldn't be careful enough on that upstroke.</span></p>

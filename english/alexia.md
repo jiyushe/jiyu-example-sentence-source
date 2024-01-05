@@ -1,5 +1,7 @@
 # alexia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alexia.md)
+
 <p><span class="chinese">深层失读仅出现在AD晚期。</span><span class="english">Deep alexia occurred only at late stage of AD.</span></p>
 
 <p><span class="chinese">马姤来自法国，李安娜来自荷兰王国，艾丽可来自比利时。</span><span class="english">Margaux comes from France, Li-Anne from the Netherlands and Alexia from Belgium.</span></p>

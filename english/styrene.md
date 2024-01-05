@@ -1,5 +1,7 @@
 # styrene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/styrene.md)
+
 <p><span class="chinese">我希望得到的灰色苯乙烯。</span><span class="english">I'm hoping to get gray styrene.</span></p>
 
 <p><span class="chinese">明天我将它备份起来，与更多的苯乙烯带。</span><span class="english">Tomorrow I'll back it up with more styrene strips.</span></p>

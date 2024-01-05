@@ -1,5 +1,7 @@
 # 剩余价值
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengyujiazhi.md)
+
 <p><span class="chinese">剩余价值规律。</span><span class="english">Law of surplus value.</span></p>
 
 <p><span class="chinese">他把赌注和剩余价值混为一谈。</span><span class="english">He confuses the stakes with surplus-value.</span></p>

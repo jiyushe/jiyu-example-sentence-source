@@ -1,5 +1,7 @@
 # 猎场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liechang.md)
+
 <p><span class="chinese">猎场看守人睡着了。</span><span class="english">The gamekeeper is asleep.</span></p>
 
 <p><span class="chinese">猎场看守人开始剥兔皮。</span><span class="english">The game-keeper began to skin the rabbit.</span></p>

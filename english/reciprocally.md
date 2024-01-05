@@ -1,5 +1,7 @@
 # reciprocally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reciprocally.md)
+
 <p><span class="chinese">“灵魂”与“思”在这个问题上相互规定，彼此等价。</span><span class="english">"Soul" and "thinking" prescribe and are equal to each other reciprocally.</span></p>
 
 <p><span class="chinese">它打开诚实的渠道，以便情感能相互地流动。</span><span class="english">It opens channels from heart to heart so that feelings can flow reciprocally.</span></p>

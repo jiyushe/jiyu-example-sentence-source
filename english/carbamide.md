@@ -1,5 +1,7 @@
 # carbamide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carbamide.md)
+
 <p><span class="chinese">他们说过氧化氢和过氧化脲也可能对此会有帮助。</span><span class="english">They say hydrogen peroxide or carbamide peroxide may also help.</span></p>
 
 <p><span class="chinese">该工厂使用尿素作为还原剂，向分解炉内连续加入。</span><span class="english">The plant added carbamide as reducer into calciner continuously.</span></p>

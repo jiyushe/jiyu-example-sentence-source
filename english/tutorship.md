@@ -1,5 +1,7 @@
 # tutorship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tutorship.md)
+
 <p><span class="chinese">多次获得优秀辅导教师和优秀指挥奖。</span><span class="english">She is named as Outstanding Tutorship Teacher and Outstanding Impresario.</span></p>
 
 <p><span class="chinese">朋辈心理辅导是一种学校心理健康教育模式。</span><span class="english">Compeer mental tutorship is a kind of school mental health education model.</span></p>

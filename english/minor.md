@@ -1,5 +1,7 @@
 # minor 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minor.md)
+
 <p><span class="chinese">简选数学作为副修专业。</span><span class="english">Jane has a math minor.</span></p>
 
 <p><span class="chinese">大调和小调</span><span class="english">Okay. Major and minor.</span></p>

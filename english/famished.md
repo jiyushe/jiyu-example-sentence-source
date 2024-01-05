@@ -1,5 +1,7 @@
 # famished
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/famished.md)
+
 <p><span class="chinese">那孩子看来很饿了。</span><span class="english">The child looked half famished.</span></p>
 
 <p><span class="chinese">体育锻炼后你觉得饥饿吗？</span><span class="english">Do you feel famished after working out?</span></p>

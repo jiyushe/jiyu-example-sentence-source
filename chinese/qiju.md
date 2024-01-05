@@ -1,5 +1,7 @@
 # 器具
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiju.md)
+
 <p><span class="chinese">壶和平底锅是金属器具。</span><span class="english">Pots and pans are hardware.</span></p>
 
 <p><span class="chinese">这是金属器具中的一批好货。</span><span class="english">This is a good line of hardware.</span></p>

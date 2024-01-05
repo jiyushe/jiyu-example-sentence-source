@@ -1,5 +1,7 @@
 # interiorly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interiorly.md)
+
 <p><span class="chinese">关于它的来源，在国内这方面的探讨还很少见。</span><span class="english">On the source of it, there is very little discussion interiorly.</span></p>
 
 <p><span class="chinese">目前飞翼重工在全国设12个营销分公司，20个办事处。</span><span class="english">Up to now, FENY heavy industry has set up12 marketing branches and20 offices interiorly.</span></p>

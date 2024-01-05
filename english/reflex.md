@@ -1,5 +1,7 @@
 # reflex
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reflex.md)
+
 <p><span class="chinese">这是一种情感的宣泄。</span><span class="english">A kind of emotional reflex.</span></p>
 
 <p><span class="chinese">反射炉启动了。</span><span class="english">The reflex furnace is online.</span></p>

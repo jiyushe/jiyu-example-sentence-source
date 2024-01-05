@@ -1,5 +1,7 @@
 # volatilization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/volatilization.md)
+
 <p><span class="chinese">灰化肥挥发会发黑。</span><span class="english">Gray fertilizer volatilization would be black.</span></p>
 
 <p><span class="chinese">菲的微生物降解、挥发易于芘。</span><span class="english">Microbial degradation and volatilization of phenanthrene are easier than pyrene.</span></p>

@@ -1,5 +1,7 @@
 # subluxation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subluxation.md)
+
 <p><span class="chinese">髌骨半脱位者充分松解髌骨外侧支持带。</span><span class="english">Releasing lateral retinaculum adequately for patellar subluxation.</span></p>
 
 <p><span class="chinese">当膝盖骨被拉到膝部外面发生半脱位。</span><span class="english">A subluxation occurs when the kneecap is pulled toward the outside of the knee.</span></p>

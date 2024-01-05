@@ -1,5 +1,7 @@
 # 致词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhici.md)
+
 <p><span class="chinese">总统将在9点向大众致词。</span><span class="english">The president will address the crowd at nine o’clock.</span></p>
 
 <p><span class="chinese">罗斯科·海沃德和亚历克斯·范德沃特将向董事会致词。</span><span class="english">Roscoe Heyward and Alex Vandervoort would address the board.</span></p>

@@ -1,5 +1,7 @@
 # rebirth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rebirth.md)
+
 <p><span class="chinese">吾从火中来，于火焰中重生。</span><span class="english">We come from the fire in flames rebirth.</span></p>
 
 <p><span class="chinese">今年标志着美国公告牌音乐奖的重生。</span><span class="english">This year marks the Billboard Awards' rebirth.</span></p>

@@ -1,5 +1,7 @@
 # 不解
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bujie.md)
+
 <p><span class="chinese">她的死亡一直是个不解之谜。</span><span class="english">Her death remains a mystery.</span></p>
 
 <p><span class="chinese">对他的答复我感到困惑不解。</span><span class="english">I feel puzzled at his reply.</span></p>

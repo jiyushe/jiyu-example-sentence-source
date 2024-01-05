@@ -1,5 +1,7 @@
 # vita
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vita.md)
+
 <p><span class="chinese">或「维他奶」是你的至爱品牌吗？</span><span class="english">Is "Vita" or "Vitasoy" your favourite brand ?</span></p>
 
 <p><span class="chinese">爱上奢华，爱上爱醇葡萄酒。</span><span class="english">If you love the "dolce vita", you love Amore Wine.</span></p>

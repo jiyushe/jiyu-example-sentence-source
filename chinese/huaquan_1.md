@@ -1,5 +1,7 @@
 # 花拳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huaquan_1.md)
+
 <p><span class="chinese">但当地人认为，梅花拳能改善他们的境遇。</span><span class="english">But locals reckon that Plum Flower Boxing could give them a boost.</span></p>
 
 <p><span class="chinese">不要以为武术套路是花拳绣腿，打斗进攻还是有一些套路的。</span><span class="english">Don't think that Wushu is impractical, the attack or some routines.</span></p>

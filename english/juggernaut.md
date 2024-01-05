@@ -1,5 +1,7 @@
 # juggernaut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/juggernaut.md)
+
 <p><span class="chinese">可别小看丹·布朗运筹帷幄的能力。</span><span class="english">Don't doubt the Dan Brown juggernaut.</span></p>
 
 <p><span class="chinese">但是不要期望这样的疑虑会阻止这些高官们。</span><span class="english">But don’t expect such qualms to stop the juggernaut.</span></p>

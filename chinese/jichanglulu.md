@@ -1,5 +1,7 @@
 # 饥肠辘辘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jichanglulu.md)
+
 <p><span class="chinese">傍午，我就感觉饥肠辘辘了。</span><span class="english">I feel very hungry before lunchtime.</span></p>
 
 <p><span class="chinese">这位饥肠辘辘的汉子把食物堆集在自己的盘子里。</span><span class="english">The hungry man heaped up the food on his plate.</span></p>

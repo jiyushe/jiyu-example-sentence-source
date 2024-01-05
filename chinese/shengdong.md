@@ -1,5 +1,7 @@
 # 生动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengdong.md)
+
 <p><span class="chinese">衬托着生动的白与红。</span><span class="english">In living white and red.</span></p>
 
 <p><span class="chinese">也是个生动的发现</span><span class="english">And it's a robust finding.</span></p>

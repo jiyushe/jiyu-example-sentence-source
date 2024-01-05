@@ -1,5 +1,7 @@
 # feedwater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feedwater.md)
+
 <p><span class="chinese">但是他们还有供给水泵。</span><span class="english">But they still have feedwater pumps.</span></p>
 
 <p><span class="chinese">汽蚀是大型给水泵经常出现的问题。</span><span class="english">The feedwater pumps are often faced with cavitation.</span></p>

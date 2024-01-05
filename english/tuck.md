@@ -1,5 +1,7 @@
 # tuck
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tuck.md)
+
 <p><span class="chinese">先不管它了。</span><span class="english">So, tuck that away for just a moment.</span></p>
 
 <p><span class="chinese">她叫男孩把衬衣塞进裤腰里。</span><span class="english">She told the boy to tuck in his shirt.</span></p>

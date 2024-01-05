@@ -1,5 +1,7 @@
 # midwest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/midwest.md)
+
 <p><span class="chinese">中西部连降暴风雪。</span><span class="english">Big Storms in the Midwest.</span></p>
 
 <p><span class="chinese">我住在中西部，爱荷华曾是最好的州。</span><span class="english">Midwest. Iowa is the best state ever.</span></p>

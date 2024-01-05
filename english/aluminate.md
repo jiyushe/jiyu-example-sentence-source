@@ -1,5 +1,7 @@
 # aluminate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aluminate.md)
+
 <p><span class="chinese">这为以后高效高质生产偏铝酸锂陶瓷提供了新的途径。</span><span class="english">This provides a bright future for fast and high quality sintering of lithium aluminate.</span></p>
 
 <p><span class="chinese">用溶剂浮选-气相色谱法测定铝酸钠溶液中的硬脂酸钠。</span><span class="english">A method for the determination of sodium stearate in sodium aluminate solution was developed.</span></p>

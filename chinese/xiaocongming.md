@@ -1,5 +1,7 @@
 # 小聪明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaocongming.md)
+
 <p><span class="chinese">不要耍小聪明。</span><span class="english">Don't play petty tricks.</span></p>
 
 <p><span class="chinese">汤姆因耍小聪明受到了申斥。</span><span class="english">Tom was sat on for showing off.</span></p>

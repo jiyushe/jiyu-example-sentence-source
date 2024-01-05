@@ -1,5 +1,7 @@
 # 敬而远之
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingeryuanzhi.md)
+
 <p><span class="chinese">我仍然对番茄酱敬而远之。</span><span class="english">P.S – I still have issues eating ketchup.</span></p>
 
 <p><span class="chinese">不要因为某些非计算机课程枯燥无趣就敬而远之。</span><span class="english">Don't blow off non-CS classes just because they're boring.</span></p>

@@ -1,5 +1,7 @@
 # emt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emt.md)
+
 <p><span class="chinese">他是经过严格训练的EMT救护专家并得到了国际潜水认证。</span><span class="english">He is a trained EMT and scuba certified.</span></p>
 
 <p><span class="chinese">介绍了EMT电磁场中的积分域和积分形式问题。</span><span class="english">The Integral domain and integral pattern in EMT electromagnetic field.</span></p>

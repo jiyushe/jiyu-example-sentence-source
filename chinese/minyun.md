@@ -1,5 +1,7 @@
 # 民运
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minyun.md)
+
 <p><span class="chinese">在1988年的缅甸民运起义动乱后逃到泰国。</span><span class="english">He fled to Thailand following Burma's pro-democracy uprising in 1988.</span></p>
 
 <p><span class="chinese">自2009年以来，卡民运武装派别不断对政府军发起袭击。</span><span class="english">Since 2009, MFDC armed factions continue to launch attacks on government forces.</span></p>

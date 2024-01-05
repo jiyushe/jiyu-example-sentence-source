@@ -1,5 +1,7 @@
 # 固有
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guyou.md)
+
 <p><span class="chinese">它是固有的。</span><span class="english">It's fixed.</span></p>
 
 <p><span class="chinese">它们是固有的，无法改变。</span><span class="english">They are fixed. This is it.</span></p>

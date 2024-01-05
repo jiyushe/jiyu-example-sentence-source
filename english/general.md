@@ -1,5 +1,7 @@
 # general 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/general.md)
+
 <p><span class="chinese">它们是普适的吗？</span><span class="english">How general is it?</span></p>
 
 <p><span class="chinese">这是总的来说。</span><span class="english">This was in general.</span></p>

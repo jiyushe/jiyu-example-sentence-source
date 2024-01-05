@@ -1,5 +1,7 @@
 # amygdaloid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amygdaloid.md)
+
 <p><span class="chinese">电刺激杏仁复合体能诱发心律失常。</span><span class="english">Arrhythmia could be elicited by electrical stimulation of amygdaloid complex.</span></p>
 
 <p><span class="chinese">杏仁体位于侧脑室下脚前端的上方…</span><span class="english">Amygdaloid body is superior to the anterior end of inferior horn of lateral ventricle.</span></p>

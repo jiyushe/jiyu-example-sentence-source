@@ -1,5 +1,7 @@
 # renaissance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/renaissance.md)
+
 <p><span class="chinese">这是一场复兴。</span><span class="english">This is a renaissance.</span></p>
 
 <p><span class="chinese">这样的复兴说明了什么呢？</span><span class="english">What accounts for this renaissance?</span></p>

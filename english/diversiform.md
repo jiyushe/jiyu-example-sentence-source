@@ -1,5 +1,7 @@
 # diversiform
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diversiform.md)
+
 <p><span class="chinese">航母编队具有攻防兼备的多种作战能力。</span><span class="english">Aircraft carrier fleet has diversiform campaign abilities for attack and defense.</span></p>
 
 <p><span class="chinese">而我最喜欢的就是那里的小吃了，那里小吃特别丰富，美味可口！</span><span class="english">What I love most is the snacks there, where the snacks are especially diversiform and delicious.</span></p>

@@ -1,5 +1,7 @@
 # lebanon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lebanon.md)
+
 <p><span class="chinese">它使黎巴嫩和加沙屈从。</span><span class="english">It subjugates Lebanon and Gaza.</span></p>
 
 <p><span class="chinese">贝鲁特是黎巴嫩的首都。</span><span class="english">Beirut is like the capital of Lebanon.</span></p>

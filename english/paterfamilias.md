@@ -1,5 +1,7 @@
 # paterfamilias
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paterfamilias.md)
+
 <p><span class="chinese">奴隶属于家长的家户。</span><span class="english">Now slaves obviously are in  the paterfamilias.</span></p>
 
 <p><span class="chinese">所以法律上儿子仍属于他们的家长。</span><span class="english">So sons legally were still under their paterfamilias.</span></p>

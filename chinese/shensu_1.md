@@ -1,5 +1,7 @@
 # 神速
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shensu_1.md)
+
 <p><span class="chinese">最后的结果是一个加载神速的页面。</span><span class="english">The result is a lightning-fast page load.</span></p>
 
 <p><span class="chinese">他的进步非常神速，这点很重要。</span><span class="english">It is important that he improves very quickly.</span></p>

@@ -1,5 +1,7 @@
 # tabular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tabular.md)
+
 <p><span class="chinese">网格元素被配置为表格格式。</span><span class="english">Grid elements are configured in tabular format.</span></p>
 
 <p><span class="chinese">其他各种组件用于管理列表数据。</span><span class="english">The various other components manage tabular data.</span></p>

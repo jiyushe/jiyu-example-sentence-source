@@ -1,5 +1,7 @@
 # 水杨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiyang.md)
+
 <p><span class="chinese">这种树包含着一种名为水杨苷的化学物质。</span><span class="english">The tree contains a chemical called salicin.</span></p>
 
 <p><span class="chinese">这种树包含着一种名为水杨苷的化学物质。</span><span class="english">The tree contains a chemical called salicin . In the eighteen.</span></p>

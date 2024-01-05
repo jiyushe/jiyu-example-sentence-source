@@ -1,5 +1,7 @@
 # maura
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maura.md)
+
 <p><span class="chinese">莫雅点点头。</span><span class="english">Maura nodded.</span></p>
 
 <p><span class="chinese">青锋莫雅转过身来，面对活着的强盗。</span><span class="english">Then Maura Bright-Blade turned to face the living bandits.</span></p>

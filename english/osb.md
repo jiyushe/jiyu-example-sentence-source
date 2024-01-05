@@ -1,5 +1,7 @@
 # osb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/osb.md)
+
 <p><span class="chinese">查里斯˙奥斯本打嗝打了多长时间？</span><span class="english">How long did Charles Osb. orne hiccup?</span></p>
 
 <p><span class="chinese">整个房子内部由15MM厚的OSB面板覆盖。</span><span class="english">The interior is covered with 15 mm thick OSB panels.</span></p>

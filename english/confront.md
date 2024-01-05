@@ -1,5 +1,7 @@
 # confront
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confront.md)
+
 <p><span class="chinese">敢当面质问，才是真爱。</span><span class="english">True love dares to confront.</span></p>
 
 <p><span class="chinese">我们必须乐观地面对未来。</span><span class="english">We must confront future with optimism.</span></p>

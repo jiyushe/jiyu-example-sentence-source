@@ -1,5 +1,7 @@
 # piperine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/piperine.md)
+
 <p><span class="chinese">目的测定胃必舒胶囊中胡椒碱的含量。</span><span class="english">OBJECTIVE To determine the content of piperine in weibishu capsule by RP-HPLC.</span></p>
 
 <p><span class="chinese">本文就胡椒碱提高药物生物利用度的机制进行综述。</span><span class="english">In this article, we summarized the advances on mechanism of how Piperine enhance the bioavailability of drugs.</span></p>

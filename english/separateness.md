@@ -1,5 +1,7 @@
 # separateness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/separateness.md)
+
 <p><span class="chinese">它是恐惧。它是相异，分离的感觉。</span><span class="english">It's the sense of otherness , separateness.</span></p>
 
 <p><span class="chinese">它是相异，分离的感觉。</span><span class="english">It ' s the sense of otherness , separateness.</span></p>

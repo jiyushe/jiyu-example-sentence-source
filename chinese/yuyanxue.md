@@ -1,5 +1,7 @@
 # 语言学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuyanxue.md)
+
 <p><span class="chinese">什么是语言学?。</span><span class="english">I. 2 What is linguistics?</span></p>
 
 <p><span class="chinese">买“PVR的”谷歌语言学。</span><span class="english">Buy "PVR" on Google AdWords.</span></p>

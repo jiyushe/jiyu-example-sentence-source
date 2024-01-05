@@ -1,5 +1,7 @@
 # byway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/byway.md)
+
 <p><span class="chinese">在偏颇的路上小心翼翼地踏步。</span><span class="english">Each careful step along the byway.</span></p>
 
 <p><span class="chinese">这条崎岖的羊肠小道非常难走。</span><span class="english">This bumpy, meandering byway is difficult to negotiate.</span></p>

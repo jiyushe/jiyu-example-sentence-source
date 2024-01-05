@@ -1,5 +1,7 @@
 # unbiased
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unbiased.md)
+
 <p><span class="chinese">但是不准确公正。</span><span class="english">But it is not exactly unbiased.</span></p>
 
 <p><span class="chinese">所以我的以上议论不能说十分公平。</span><span class="english">So I am not unbiased in this discussion.</span></p>

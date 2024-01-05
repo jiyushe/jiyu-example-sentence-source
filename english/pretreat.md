@@ -1,5 +1,7 @@
 # pretreat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pretreat.md)
+
 <p><span class="chinese">在这里，你们怎样对钢板进行预处理？</span><span class="english">Here, how do you pretreat the steel plates?</span></p>
 
 <p><span class="chinese">加速溶剂萃取是一项新颖的样品前处理技术。</span><span class="english">Accelerated solvent extraction is a novel technique to pretreat samples.</span></p>

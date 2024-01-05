@@ -1,5 +1,7 @@
 # corticosterone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corticosterone.md)
+
 <p><span class="chinese">皮质酮是肾上腺皮质激素之一。</span><span class="english">Corticosterone is one of the adrenal hormones.</span></p>
 
 <p><span class="chinese">此外，肌肽还能降低血浆皮质酮的水平。</span><span class="english">And it also reduced the plasma corticosterone level.</span></p>

@@ -1,5 +1,7 @@
 # 腾起
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tengqi.md)
+
 <p><span class="chinese">从燃烧着的木头上腾起一道火焰。</span><span class="english">A flame darted from the logs.</span></p>
 
 <p><span class="chinese">爆炸引起的硝烟在加沙城上空腾起。</span><span class="english">Smoke caused by explosions rises over Gaza City.</span></p>

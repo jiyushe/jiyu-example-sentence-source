@@ -1,5 +1,7 @@
 # 事体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiti.md)
+
 <p><span class="chinese">兹事体大。</span><span class="english">This is indeed a serious matter.</span></p>
 
 <p><span class="chinese">我知道这是咋一回事体，也知道他们到底怎么了。</span><span class="english">I know the satuation and what's going on with them.</span></p>

@@ -1,5 +1,7 @@
 # 水闸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuizha.md)
+
 <p><span class="chinese">这确实像是打开了水闸。</span><span class="english">It does seem to open the floodgates.</span></p>
 
 <p><span class="chinese">水流经水闸时十分流急。</span><span class="english">Water went rushing through the lock gates.</span></p>

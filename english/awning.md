@@ -1,5 +1,7 @@
 # awning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/awning.md)
+
 <p><span class="chinese">他听到雨啪啪地落在雨篷上。</span><span class="english">He hears it bursting over the awning.</span></p>
 
 <p><span class="chinese">我将用双手掩起我赤裸的羞惭。</span><span class="english">With both easily I will awning my naked shame.</span></p>

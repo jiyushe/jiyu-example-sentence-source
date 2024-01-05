@@ -1,5 +1,7 @@
 # unreal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unreal.md)
+
 <p><span class="chinese">不，我感到虚幻。</span><span class="english">No, I feel unreal.</span></p>
 
 <p><span class="chinese">整个场面就像手势字谜游戏那样矫饰做作。</span><span class="english">the whole scene was as unreal as a charade.</span></p>

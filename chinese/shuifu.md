@@ -1,5 +1,7 @@
 # 税负
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuifu.md)
+
 <p><span class="chinese">商务酒店税负太高！</span><span class="english">Taxes on business hotels are too high!</span></p>
 
 <p><span class="chinese">针对税负因素,有一种可能的修正方法</span><span class="english">There is a possible correction to be made due to taxes.</span></p>

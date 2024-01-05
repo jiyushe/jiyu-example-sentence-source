@@ -1,5 +1,7 @@
 # 谷底
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gudi_1.md)
+
 <p><span class="chinese">我问他，“那么哪儿才是谷底呢？”</span><span class="english">"Where's the bottom?" I asked him.</span></p>
 
 <p><span class="chinese">不管是一飞冲天还是跌入谷底，至少，你尝试过！</span><span class="english">Whether you fail or fly, at least you tried.</span></p>

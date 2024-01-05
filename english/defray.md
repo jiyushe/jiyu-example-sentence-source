@@ -1,5 +1,7 @@
 # defray
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defray.md)
+
 <p><span class="chinese">你会支付他们每月的开支。</span><span class="english">You will defray their monthly expenses.</span></p>
 
 <p><span class="chinese">补助金帮助支付旅行费用。</span><span class="english">The grant helped defray the expenses of the trip.</span></p>

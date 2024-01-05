@@ -1,5 +1,7 @@
 # silicate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/silicate.md)
+
 <p><span class="chinese">如果脱模剂发粘，则减少硅酸盐。</span><span class="english">If the mold spray is sticky, reduce the silicate.</span></p>
 
 <p><span class="chinese">矽酸盐细菌在农业生产中具有广泛的应用前景。</span><span class="english">Silicate bacteria may have wide uses in agriculture.</span></p>

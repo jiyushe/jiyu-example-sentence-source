@@ -1,5 +1,7 @@
 # subterfuge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subterfuge.md)
+
 <p><span class="chinese">距离只是一个借口。</span><span class="english">Distance is just a subterfuge.</span></p>
 
 <p><span class="chinese">这里有健康的托词。</span><span class="english">There's a subterfuge of health.</span></p>

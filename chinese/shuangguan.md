@@ -1,5 +1,7 @@
 # 双关
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuangguan.md)
+
 <p><span class="chinese">而且不论是英语还是汉语都人量使用双关这一修辞手法。</span><span class="english">It is commonly employed in both English and Chinese rhetoric.</span></p>
 
 <p><span class="chinese">教皇只是另一枚卒子，他语带双关。</span><span class="english">The Pope is just another pawn, he speaks with a forked tongue.</span></p>

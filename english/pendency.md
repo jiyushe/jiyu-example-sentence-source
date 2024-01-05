@@ -1,5 +1,7 @@
 # pendency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pendency.md)
+
 <p><span class="chinese">该产品手感丰满、弹性足、悬垂性好。</span><span class="english">The fabric is good at handle, elasticity and pendency.</span></p>
 
 <p><span class="chinese">可终只是轻轻的垂下头，什么也没说。</span><span class="english">Can finally just lightly of pendency head, what don't also say.</span></p>

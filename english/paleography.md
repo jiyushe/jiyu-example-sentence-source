@@ -1,5 +1,7 @@
 # paleography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paleography.md)
+
 <p><span class="chinese">孙诒让先生无论在古文字学方面还是在古籍整理方面，都是大家。</span><span class="english">Mr. Sun yi-rang is a master both in paleography and ancient books sifting.</span></p>
 
 <p><span class="chinese">三位教授都是多年研究古文字学的业界元老。</span><span class="english">All the three professors have been immerged in the study of paleography for years.</span></p>

@@ -1,5 +1,7 @@
 # purity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/purity.md)
+
 <p><span class="chinese">泰国当地高纯度的石英矿。</span><span class="english">High purity local Quartz, 3.</span></p>
 
 <p><span class="chinese">高纯铝反射器罩。</span><span class="english">High purity aluminum reflector.</span></p>

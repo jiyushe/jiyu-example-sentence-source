@@ -1,5 +1,7 @@
 # rapporteur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rapporteur.md)
+
 <p><span class="chinese">在此担任出纳兼开票员一职。</span><span class="english">In this as cashier and Invoice Rapporteur.</span></p>
 
 <p><span class="chinese">寻求对这些立法进行司法审查的公共卫生组织最近与联合国健康权问题特别报告员联合了起来。</span><span class="english">recently joined by the UN Special Rapporteur on the Right to Health.</span></p>

@@ -1,5 +1,7 @@
 # unobtainable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unobtainable.md)
+
 <p><span class="chinese">盐很贵，有时买不到。</span><span class="english">Salt is very dear, and sometimes even unobtainable.</span></p>
 
 <p><span class="chinese">这一版的书在市面上早已绝迹.</span><span class="english">This edition has been unobtainable for a long time.</span></p>

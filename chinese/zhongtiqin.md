@@ -1,5 +1,7 @@
 # 中提琴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongtiqin.md)
+
 <p><span class="chinese">为什么中提琴这么大呢？</span><span class="english">Why are violas so large?</span></p>
 
 <p><span class="chinese">二重奏小提琴，中提琴09。</span><span class="english">Duos For Violin and Viola09.</span></p>

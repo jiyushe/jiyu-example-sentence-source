@@ -1,5 +1,7 @@
 # 致敬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhijing_2.md)
+
 <p><span class="chinese">我向他脱帽致敬。</span><span class="english">Hats off to him.</span></p>
 
 <p><span class="chinese">向他们脱帽致敬！</span><span class="english">Hats off to them!</span></p>

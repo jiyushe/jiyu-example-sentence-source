@@ -1,5 +1,7 @@
 # 新四军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinsijun.md)
+
 <p><span class="chinese">但新四军的药品及医疗器械照旧奇缺。</span><span class="english">But the new fourth army drug and medical equipment as are scarce.</span></p>
 
 <p><span class="chinese">而到达岛上的日本人，只发现近一个连的新四军尸体。</span><span class="english">In order to the Japanese island, only found near a body of the new fourth army.</span></p>

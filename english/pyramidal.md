@@ -1,5 +1,7 @@
 # pyramidal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pyramidal.md)
+
 <p><span class="chinese">所以它是三角形金字塔。</span><span class="english">So it's trigonal pyramidal.</span></p>
 
 <p><span class="chinese">左侧的锥体束不发育。</span><span class="english">The left pyramidal tract is undeveloped.</span></p>

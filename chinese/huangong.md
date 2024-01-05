@@ -1,5 +1,7 @@
 # 换工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huangong.md)
+
 <p><span class="chinese">我们找到了一个可以乾六个月的德国换工。</span><span class="english">We've got a German au pair for six months.</span></p>
 
 <p><span class="chinese">你可以告诉我为什么要换工吗？</span><span class="english">P︰Could you tell me why you want to change job?</span></p>

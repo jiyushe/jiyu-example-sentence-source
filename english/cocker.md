@@ -1,5 +1,7 @@
 # cocker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cocker.md)
+
 <p><span class="chinese">这鸡已被出售给库克在河内。</span><span class="english">This fowl had been sold to a cocker in Ha Noi.</span></p>
 
 <p><span class="chinese">我每星期都带我的科卡犬去美容呢。</span><span class="english">I take my cocker spaniel to be groomed once a week.</span></p>

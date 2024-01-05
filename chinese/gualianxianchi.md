@@ -1,5 +1,7 @@
 # 寡廉鲜耻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gualianxianchi.md)
+
 <p><span class="chinese">那个寡廉鲜耻的家伙企图欺骗我！</span><span class="english">That dirty dog tried to cheat me!</span></p>
 
 <p><span class="chinese">体育明星总会是那些寡廉鲜耻女性的目标。</span><span class="english">Sports stars are targets for unscrupulous women.</span></p>

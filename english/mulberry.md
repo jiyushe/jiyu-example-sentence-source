@@ -1,5 +1,7 @@
 # mulberry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mulberry.md)
+
 <p><span class="chinese">罗桑天回绝了。</span><span class="english">ROM. Mulberry day refused.</span></p>
 
 <p><span class="chinese">罗桑天说我会证明的。</span><span class="english">He said I will prove of mulberry.</span></p>

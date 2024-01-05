@@ -1,5 +1,7 @@
 # 进口货
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinkouhuo.md)
+
 <p><span class="chinese">这一小宗日本进口货还真不赖。</span><span class="english">Not bad for a small Japanese import.</span></p>
 
 <p><span class="chinese">加州小型车买主倾向于买进口货。</span><span class="english">California small-car buyers tend to buy imports.</span></p>

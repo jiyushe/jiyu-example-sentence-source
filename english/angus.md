@@ -1,5 +1,7 @@
 # angus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/angus.md)
+
 <p><span class="chinese">温迪麦克尼尔的黑安格斯的音乐录像。</span><span class="english">Music video for Wendy McNeill's "Black Angus".</span></p>
 
 <p><span class="chinese">我希望你能离小安古斯远一点你听明白了吗？</span><span class="english">I want you to stay away from young Angus . Do you understand?</span></p>

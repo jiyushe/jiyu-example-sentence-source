@@ -1,5 +1,7 @@
 # 词汇学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cihuixue.md)
+
 <p><span class="chinese">词汇学是研究语言词汇的一门学科。</span><span class="english">Lexicology is a subject which studies words and phrases.</span></p>
 
 <p><span class="chinese">英语词汇学是语言学的一个分支。</span><span class="english">English lexicology itself is a sub-branch of linguistics.</span></p>

@@ -1,5 +1,7 @@
 # rude 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rude.md)
+
 <p><span class="chinese">多麽粗鲁无礼的回答！</span><span class="english">What a rude reply!</span></p>
 
 <p><span class="chinese">指东指西是无礼的！</span><span class="english">It's rude to point!</span></p>

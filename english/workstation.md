@@ -1,5 +1,7 @@
 # workstation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/workstation.md)
+
 <p><span class="chinese">重启工作站。</span><span class="english">Reboot the workstation.</span></p>
 
 <p><span class="chinese">震荡波蠕虫利用质谱工作站服务。</span><span class="english">Sasser worm exploiting MS workstation service.</span></p>

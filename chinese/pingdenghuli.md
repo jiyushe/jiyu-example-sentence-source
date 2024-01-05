@@ -1,5 +1,7 @@
 # 平等互利
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingdenghuli.md)
+
 <p><span class="chinese">遵循互相尊重，平等互利，协商一致，自主自愿的原则。</span><span class="english">On the basis of respect, equality, consensus, and voluntarism.</span></p>
 
 <p><span class="chinese">应该坚持独立自主和平等互利原则。</span><span class="english">Our factory pursues the principle of independence, initiative and self-reliance.</span></p>

@@ -1,5 +1,7 @@
 # corba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corba.md)
+
 <p><span class="chinese">应用CORBA技术解决IDSS设计和实现上的难题。</span><span class="english">Focuses on IDSS design and implementation by CORBA technology.</span></p>
 
 <p><span class="chinese">CORBA是一种面向时象的分布式计算技术。</span><span class="english">CORBA is an object-oriented and distributed computing technique.</span></p>

@@ -1,5 +1,7 @@
 # yielding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yielding.md)
+
 <p><span class="chinese">由淀粉组成的或包含淀粉的。</span><span class="english">Similar to or yielding farina.</span></p>
 
 <p><span class="chinese">这些努力正在产生成果。</span><span class="english">These efforts are yielding results.</span></p>

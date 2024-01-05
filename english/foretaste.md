@@ -1,5 +1,7 @@
 # foretaste
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foretaste.md)
+
 <p><span class="chinese">我今得先尝主荣耀喜乐！</span><span class="english">O what a foretaste of glory divine!</span></p>
 
 <p><span class="chinese">我今得先尝主荣耀喜乐！</span><span class="english">Oh, what a foretaste of glory divine!</span></p>

@@ -1,5 +1,7 @@
 # picturesque
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/picturesque.md)
+
 <p><span class="chinese">万佛山四季如画。</span><span class="english">Foshan picturesque four million.</span></p>
 
 <p><span class="chinese">流水塘景胜似画。</span><span class="english">Water makes the pond more picturesque.</span></p>

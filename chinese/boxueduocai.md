@@ -1,5 +1,7 @@
 # 博学多才
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/boxueduocai.md)
+
 <p><span class="chinese">你博学多才，衣着讲究。</span><span class="english">You're well read, well dressed.</span></p>
 
 <p><span class="chinese">爱德华博士是一位最博学多才的学者。</span><span class="english">Dr. Edward is a most learned scholar.</span></p>

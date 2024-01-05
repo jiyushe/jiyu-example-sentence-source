@@ -1,5 +1,7 @@
 # 养活
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanghuo.md)
+
 <p><span class="chinese">他全家靠他养活。</span><span class="english">His family depend on him.</span></p>
 
 <p><span class="chinese">他还有一大家子人要养活，他不可能走开啊。</span><span class="english">He had a big family to feed.</span></p>

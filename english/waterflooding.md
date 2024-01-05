@@ -1,5 +1,7 @@
 # waterflooding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waterflooding.md)
+
 <p><span class="chinese">注水开发是目前我国大多数油田的主要开发方式。</span><span class="english">Waterflooding is the main development ways in oil fields at present.</span></p>
 
 <p><span class="chinese">卞东油田注水开发调整效果差。</span><span class="english">Biandong Oilfield has three Conflict in waterflooding developed zone.</span></p>

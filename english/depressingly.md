@@ -1,5 +1,7 @@
 # depressingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/depressingly.md)
+
 <p><span class="chinese">在我看来，这种表述既正确，又令人郁闷。</span><span class="english">This looks depressingly right to me.</span></p>
 
 <p><span class="chinese">这位未完的清单已经令人郁闷地长。</span><span class="english">That unfinished list is already depressingly long.</span></p>

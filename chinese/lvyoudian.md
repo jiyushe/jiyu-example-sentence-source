@@ -1,5 +1,7 @@
 # 旅游点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvyoudian.md)
+
 <p><span class="chinese">他们只是将其当做旅游点来看待。</span><span class="english">They are treating it like a tourist spot.</span></p>
 
 <p><span class="chinese">为什么不去些旅游点作愉快的旅行?。</span><span class="english">Why not take a pleasure trip to some tourist resorts?</span></p>

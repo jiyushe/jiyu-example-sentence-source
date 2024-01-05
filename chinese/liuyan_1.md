@@ -1,5 +1,7 @@
 # 留言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liuyan_1.md)
+
 <p><span class="chinese">一个人留言说，他是一个骗子。</span><span class="english">He is a fraud, a viewer said.</span></p>
 
 <p><span class="chinese">我看到有人给我的留言。</span><span class="english">I saw someones message to me.</span></p>

@@ -1,5 +1,7 @@
 # 划子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huazi.md)
+
 <p><span class="chinese">过去粮食用小划子运过河。</span><span class="english">Grain used to canoed up the river.</span></p>
 
 <p><span class="chinese">他用小划子把货物运过小海湾。</span><span class="english">He canoed the load across the bay.</span></p>

@@ -1,5 +1,7 @@
 # pilocarpine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pilocarpine.md)
+
 <p><span class="chinese">在初步治疗后一小时可使用匹鲁卡品来开放房角。</span><span class="english">Pilocarpine can be instilled an hour after initial treatment to open the angle.</span></p>
 
 <p><span class="chinese">结果发现毛果芸香碱也是血小板聚集的抑制剂。</span><span class="english">The results showed that pilocarpine was also an inhibitor of platelet aggregation.</span></p>

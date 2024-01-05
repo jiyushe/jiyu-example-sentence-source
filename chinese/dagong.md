@@ -1,5 +1,7 @@
 # 大公
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dagong.md)
+
 <p><span class="chinese">大公国际对这笔债券给出了AAA评级。</span><span class="english">Dagong rated the debt AAA.</span></p>
 
 <p><span class="chinese">1571年，大公建造了这所图书馆。</span><span class="english">The Grand Dukebuilt this library in 1571.</span></p>

@@ -1,5 +1,7 @@
 # 戏言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiyan_1.md)
+
 <p><span class="chinese">军中无戏言。</span><span class="english">There is no jesting in war.</span></p>
 
 <p><span class="chinese">我决定把他的话当作戏言。</span><span class="english">I decided to treat his remark as a joke.</span></p>

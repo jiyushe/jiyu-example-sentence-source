@@ -1,5 +1,7 @@
 # numeracy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/numeracy.md)
+
 <p><span class="chinese">动物会识数还有其他的隐性的好处。</span><span class="english">There are also other, less obvious, advantages of numeracy.</span></p>
 
 <p><span class="chinese">像素促使计算能力增强，它产生大量数据源源不断的汇进数据库。</span><span class="english">Pixels encourage numeracy and produce rivers of numbers flowing into databases.</span></p>

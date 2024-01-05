@@ -1,5 +1,7 @@
 # discussion 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discussion.md)
+
 <p><span class="chinese">讨论完毕。</span><span class="english">End of the discussion.</span></p>
 
 <p><span class="chinese">这一点值得商榷。</span><span class="english">This is open to discussion.</span></p>

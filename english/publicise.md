@@ -1,5 +1,7 @@
 # publicise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/publicise.md)
+
 <p><span class="chinese">人权委员会应该宣传和执行它。</span><span class="english">The Equality and Human Rights Commission should publicise and enforce this.</span></p>
 
 <p><span class="chinese">电影公关人员操纵着明星的私生活，帮助宣传他们的新电影。</span><span class="english">Publicists manipulate the stars personal lives, to help publicise their new movie.</span></p>

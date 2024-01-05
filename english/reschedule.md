@@ -1,5 +1,7 @@
 # reschedule
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reschedule.md)
+
 <p><span class="chinese">我们得重订和这医生的约会。</span><span class="english">We had to reschedule the doctor's appointment.</span></p>
 
 <p><span class="chinese">恐怕我们得重新安排这次会诊时间。</span><span class="english">I’m afraid we’ll have to reschedule the consultation.</span></p>

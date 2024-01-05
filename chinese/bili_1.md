@@ -1,5 +1,7 @@
 # 比例
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bili_1.md)
+
 <p><span class="chinese">我的上传下载比例是多少?。</span><span class="english">So, what's MY ratio?</span></p>
 
 <p><span class="chinese">和不同相的比例。</span><span class="english">In each of the phases.</span></p>

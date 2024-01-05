@@ -1,5 +1,7 @@
 # slinky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slinky.md)
+
 <p><span class="chinese">就这样机灵鬼玩具诞生了。</span><span class="english">And thus the Slinky was born.</span></p>
 
 <p><span class="chinese">斯林克就像一个孩子，你不会盘剥你的孩子。</span><span class="english">Slinky is like a child, and you don't exploit your child.</span></p>

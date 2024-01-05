@@ -1,5 +1,7 @@
 # 阿爸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aba.md)
+
 <p><span class="chinese">我的阿爸，和阿妈，现在终于在一起了。</span><span class="english">My father and mother, now together.</span></p>
 
 <p><span class="chinese">可是你阿爸阿妈会很担心的。</span><span class="english">But you dad and mum will worry about you.</span></p>

@@ -1,5 +1,7 @@
 # periodic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/periodic.md)
+
 <p><span class="chinese">我给他送定期的情况简报。</span><span class="english">I send him periodic summaries.</span></p>
 
 <p><span class="chinese">那么，周期性规律就讲完了。</span><span class="english">So, that's it for periodic trends.</span></p>

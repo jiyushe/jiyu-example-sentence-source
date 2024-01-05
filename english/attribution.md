@@ -1,5 +1,7 @@
 # attribution
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attribution.md)
+
 <p><span class="chinese">这就要我们了解归因这个概念了。</span><span class="english">And this brings us to the notion of attribution.</span></p>
 
 <p><span class="chinese">其二，两套房屋权的归属问题。</span><span class="english">Second, the two houses of the right of attribution.</span></p>

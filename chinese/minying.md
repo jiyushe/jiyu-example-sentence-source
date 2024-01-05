@@ -1,5 +1,7 @@
 # 民营
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minying.md)
+
 <p><span class="chinese">春城公司是重庆市一家民营企业。</span><span class="english">Chuncheng company is a private enterprise.</span></p>
 
 <p><span class="chinese">韩亚航空是一家民营企业性质的公司。</span><span class="english">Asiana Airlines is a private owned company.</span></p>

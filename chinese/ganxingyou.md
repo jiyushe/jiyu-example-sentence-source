@@ -1,5 +1,7 @@
 # 干性油
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganxingyou.md)
+
 <p><span class="chinese">和亚麻油等干性油混制成的颜料。</span><span class="english">Pigment mixed with drying oil , exp . linseed oil.</span></p>
 
 <p><span class="chinese">干性油在所有油基涂料中是主要的载色剂。</span><span class="english">The drying oils are the major vehicle in all oil-base paints.</span></p>

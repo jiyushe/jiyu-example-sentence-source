@@ -1,5 +1,7 @@
 # 章则
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangze.md)
+
 <p><span class="chinese">本人巳阅读并同意遵守大会规定章则。</span><span class="english">I have read and agree to competition regulation.</span></p>
 
 <p><span class="chinese">第四章则叙述当今的寺北柴。</span><span class="english">The fourth chapter describes the today's Sibeichai.</span></p>

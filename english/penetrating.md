@@ -1,5 +1,7 @@
 # penetrating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/penetrating.md)
+
 <p><span class="chinese">他的分析真是入木三分。</span><span class="english">His analysis was really penetrating.</span></p>
 
 <p><span class="chinese">劣质香水的味道太冲了。</span><span class="english">The odor of cheap perfume is penetrating.</span></p>

@@ -1,5 +1,7 @@
 # 冻土
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongtu.md)
+
 <p><span class="chinese">它使墙底下的冻土膨胀隆起。</span><span class="english">That sends the frozen-ground-swell under it.</span></p>
 
 <p><span class="chinese">他们用镐把坚硬的冻土凿开。</span><span class="english">They broke the hard frozen earth with picks.</span></p>

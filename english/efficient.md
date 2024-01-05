@@ -1,5 +1,7 @@
 # efficient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/efficient.md)
+
 <p><span class="chinese">他办事效率高.</span><span class="english">He's efficient.</span></p>
 
 <p><span class="chinese">王先生办事干净利落。</span><span class="english">Mr. Wang is very efficient.</span></p>

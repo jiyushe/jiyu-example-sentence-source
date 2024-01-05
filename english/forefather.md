@@ -1,5 +1,7 @@
 # forefather
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forefather.md)
+
 <p><span class="chinese">难道是我人马座的祖先吗？</span><span class="english">Wasn't it my forefather of Sagittarius?</span></p>
 
 <p><span class="chinese">你的真主只有一位，你的祖先只有一位。</span><span class="english">Your God is one and your forefather is one.</span></p>

@@ -1,5 +1,7 @@
 # zealot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zealot.md)
+
 <p><span class="chinese">狂热的想知道每个消息关于你。</span><span class="english">Zealot for every news of you.</span></p>
 
 <p><span class="chinese">我本人虽然也相信指数投资，但还没那么狂热。</span><span class="english">I am an index believer, but not a zealot.</span></p>

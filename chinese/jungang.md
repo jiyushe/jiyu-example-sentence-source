@@ -1,5 +1,7 @@
 # 军港
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jungang.md)
+
 <p><span class="chinese">他将自由的转移到英国南部的军港城市。</span><span class="english">He moves to Pompey on a free.</span></p>
 
 <p><span class="chinese">军港的夜啊静悄悄。</span><span class="english">Oh, the naval port at night is quiet!</span></p>

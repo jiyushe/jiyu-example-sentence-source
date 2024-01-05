@@ -1,5 +1,7 @@
 # 逐渐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhujian_2.md)
+
 <p><span class="chinese">他逐渐接近她。</span><span class="english">He edged up on her.</span></p>
 
 <p><span class="chinese">夜在逐渐消逝。</span><span class="english">The night wears on.</span></p>

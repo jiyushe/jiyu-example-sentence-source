@@ -1,5 +1,7 @@
 # physical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/physical.md)
+
 <p><span class="chinese">也许是金佛的伟岸？</span><span class="english">Buddha may be in physical gold?</span></p>
 
 <p><span class="chinese">做年度身体检查。</span><span class="english">Get an annual physical check-up.</span></p>

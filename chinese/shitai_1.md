@@ -1,5 +1,7 @@
 # 事态
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shitai_1.md)
+
 <p><span class="chinese">事态严重。</span><span class="english">The situation is serious.</span></p>
 
 <p><span class="chinese">事态平复。</span><span class="english">The situation has quieted.</span></p>

@@ -1,5 +1,7 @@
 # neckline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neckline.md)
+
 <p><span class="chinese">完成领口和贴边。</span><span class="english">Finish the neckline and facing.</span></p>
 
 <p><span class="chinese">方无领口。</span><span class="english">Strapless with square neckline.</span></p>

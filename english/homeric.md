@@ -1,5 +1,7 @@
 # homeric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homeric.md)
+
 <p><span class="chinese">那场荷马式的大战立刻在全城镇里传开了。</span><span class="english">The story of that Homeric fight got all around town.</span></p>
 
 <p><span class="chinese">那荷马史诗的主角们是怎么用战车的呢</span><span class="english">Well, what do the Homeric heroes do with their chariots?</span></p>

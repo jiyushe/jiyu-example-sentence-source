@@ -1,5 +1,7 @@
 # 那儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naer_1.md)
+
 <p><span class="chinese">呆在那儿。</span><span class="english">Stay there.</span></p>
 
 <p><span class="chinese">雅各一下子就愣在那儿了。</span><span class="english">Jacob froze.</span></p>

@@ -1,5 +1,7 @@
 # 面糊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianhu.md)
+
 <p><span class="chinese">加入蛋黄拌成光滑面糊。</span><span class="english">Blend in egg yolks until smooth.</span></p>
 
 <p><span class="chinese">你甚至可以不用面糊做出波纹蛋糕。</span><span class="english">You can even make cupcakes out of the batter.</span></p>

@@ -1,5 +1,7 @@
 # skeleton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skeleton.md)
+
 <p><span class="chinese">哇，骷颅面具！</span><span class="english">Wow, a skeleton mask!</span></p>
 
 <p><span class="chinese">什么是框架便携性呢？</span><span class="english">What is "skeleton portability"?</span></p>

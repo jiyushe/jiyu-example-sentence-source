@@ -1,5 +1,7 @@
 # whelk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whelk.md)
+
 <p><span class="chinese">我只是想要挤一颗青春痘。</span><span class="english">I just want to push the whelk.</span></p>
 
 <p><span class="chinese">我只是想要挤一颗青春痘。</span><span class="english">I just want to squeeze a whelk.</span></p>

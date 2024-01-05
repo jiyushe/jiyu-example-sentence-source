@@ -1,5 +1,7 @@
 # arnhem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arnhem.md)
+
 <p><span class="chinese">意大利将在周四在阿纳姆与英格兰比赛。</span><span class="english">Italy play England on Thursday in Arnhem.</span></p>
 
 <p><span class="chinese">但德国军队击败了可怕的战斗在阿纳姆英国“红魔鬼”部队。</span><span class="english">But German forces defeated British "Red Devil" troops in a terrible fight at Arnhem.</span></p>

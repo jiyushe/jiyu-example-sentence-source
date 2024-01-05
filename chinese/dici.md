@@ -1,5 +1,7 @@
 # 地磁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dici.md)
+
 <p><span class="chinese">在研制中国地磁等值图中也得到某些应用。</span><span class="english">Some IGRF data are used in drawing up the China GRF.</span></p>
 
 <p><span class="chinese">地球上最后一次地磁倒转大约是78万年前。</span><span class="english">The last geomagnetic reversal for Earth was about 780,000 years ago.</span></p>

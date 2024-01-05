@@ -1,5 +1,7 @@
 # acrylate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acrylate.md)
+
 <p><span class="chinese">寻找一种第二单体与丙烯酸酯共聚。</span><span class="english">The acrylate was copolymerized with the second monomer.</span></p>
 
 <p><span class="chinese">有机硅能改性丙烯酸酯乳液的综合性能。</span><span class="english">The properties of acrylate emulsion can be modified by organosilicon.</span></p>

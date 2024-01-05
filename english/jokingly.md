@@ -1,5 +1,7 @@
 # jokingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jokingly.md)
+
 <p><span class="chinese">周继红半开玩笑地说道。</span><span class="english">Zhou Jihong said half jokingly.</span></p>
 
 <p><span class="chinese">我们经常戏称德闽是总理。</span><span class="english">We often jokingly call him “Prime Minister”.</span></p>

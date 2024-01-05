@@ -1,5 +1,7 @@
 # 沉思
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chensi.md)
+
 <p><span class="chinese">沉思于此。</span><span class="english">Meditate on this.</span></p>
 
 <p><span class="chinese">你看上去在沉思。</span><span class="english">You look pensive.</span></p>

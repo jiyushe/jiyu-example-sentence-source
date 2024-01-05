@@ -1,5 +1,7 @@
 # 土语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuyu.md)
+
 <p><span class="chinese">这是一种非常典型的地方土语。</span><span class="english">This is a very typical local language.</span></p>
 
 <p><span class="chinese">老人用墨西哥土语骂着「你这婊子。」</span><span class="english">"Aqua mala, " the man said. "You whore.</span></p>

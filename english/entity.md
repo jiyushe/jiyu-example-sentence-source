@@ -1,5 +1,7 @@
 # entity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entity.md)
+
 <p><span class="chinese">一是领办实体模式。</span><span class="english">Set up entity mode.</span></p>
 
 <p><span class="chinese">我是什么样的实体</span><span class="english">What kind of an entity am I?</span></p>

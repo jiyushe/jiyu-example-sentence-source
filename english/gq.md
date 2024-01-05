@@ -1,5 +1,7 @@
 # gq
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gq.md)
+
 <p><span class="chinese">目的探讨伪人参皂苷GQ抗运动性疲劳的功效。</span><span class="english">Objective Discuss the anti-fatigue action of pseudo-ginsenoside GQ.</span></p>
 
 <p><span class="chinese">李国强用贷款的钱给工人们发了两个月的工资，并动员大家一定要坚持下去。</span><span class="english">Li gq with lending money to the workers sent two months salary, and mobilize everyone must stick to it.</span></p>

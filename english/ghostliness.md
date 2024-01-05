@@ -1,5 +1,7 @@
 # ghostliness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ghostliness.md)
+
 <p><span class="chinese">因为每个人看待世界上有无幽灵的观念各不相同！</span><span class="english">Because everybody has on look upon world, do not have ghostliness idea each are not identical!</span></p>
 
 <p><span class="chinese">一旦脱离了肉体这一外壳，灵魂只能成为幽灵、成为鬼魂。</span><span class="english">Once broke away from a body this one crust, the soul can be become only ghostliness , become spirit.</span></p>

@@ -1,5 +1,7 @@
 # maduro
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maduro.md)
+
 <p><span class="chinese">我认为马杜罗非常有用。</span><span class="english">I think Maduro looks very useful.</span></p>
 
 <p><span class="chinese">马杜罗称自己将否决这项法案。</span><span class="english">Mr Maduro has said he will veto the bill.</span></p>

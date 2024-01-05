@@ -1,5 +1,7 @@
 # 挖空心思
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wakongxinsi.md)
+
 <p><span class="chinese">我敢肯定他在想挖空心思苦的话。</span><span class="english">I am sure he is seeking for some jibes.</span></p>
 
 <p><span class="chinese">那是尽是挖空心思的意象的诗篇。</span><span class="english">That is a poem full of precious images.</span></p>

@@ -1,5 +1,7 @@
 # 乡下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangxia.md)
+
 <p><span class="chinese">你是一个乡下佬。</span><span class="english">You're a hick.</span></p>
 
 <p><span class="chinese">一个乡下土孩子！</span><span class="english">Child of the soil!</span></p>

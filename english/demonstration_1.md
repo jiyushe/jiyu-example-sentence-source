@@ -1,5 +1,7 @@
 # demonstration 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demonstration_1.md)
+
 <p><span class="chinese">拉提波夫为我做了一番示范。</span><span class="english">Latypov gave me a demonstration.</span></p>
 
 <p><span class="chinese">我再给你们演示一遍</span><span class="english">I'll give you one more demonstration.</span></p>

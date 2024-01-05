@@ -1,5 +1,7 @@
 # 分散染料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fensanranliao.md)
+
 <p><span class="chinese">在自制新型助剂HM的作用下，分散染料可上染羊毛。</span><span class="english">With the self-made agent HM the wool can be dyed by disperse dyes.</span></p>
 
 <p><span class="chinese">采用自制超临界CO2无水染色装置，对纯棉织物进行了分散染料染色实验。</span><span class="english">The supercritical CO2 dyeing by disperse dye on pure cotton fabrics is studied.</span></p>

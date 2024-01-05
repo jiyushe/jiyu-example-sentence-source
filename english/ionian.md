@@ -1,5 +1,7 @@
 # ionian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ionian.md)
+
 <p><span class="chinese">由米利都发生的爱奥尼亚叛乱开始</span><span class="english">when Miletus starts the Ionian rebellion.</span></p>
 
 <p><span class="chinese">前苏格拉底自然哲学家，伊奥尼亚学派成员。</span><span class="english">Pre-Socratic natural Philosopher, member of the Ionian School.</span></p>

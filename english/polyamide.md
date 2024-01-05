@@ -1,5 +1,7 @@
 # polyamide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polyamide.md)
+
 <p><span class="chinese">可调整的帽带。</span><span class="english">Polyamide adjustable chin straps.</span></p>
 
 <p><span class="chinese">融断式尼龙漆包线“，”</span><span class="english">Fuseable Polyamide Enameled Copper Wire.</span></p>

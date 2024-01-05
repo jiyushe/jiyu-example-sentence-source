@@ -1,5 +1,7 @@
 # cherubim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cherubim.md)
+
 <p><span class="chinese">又用金子包裹二基路伯。</span><span class="english">He overlaid the cherubim with gold.</span></p>
 
 <p><span class="chinese">又用金子包裹二基路伯。</span><span class="english">And he overlaid the cherubim with gold.</span></p>

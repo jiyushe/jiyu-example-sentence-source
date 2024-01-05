@@ -1,5 +1,7 @@
 # exemplification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exemplification.md)
+
 <p><span class="chinese">第三章进行了例证分析。</span><span class="english">Part three goes on analyses with exemplification.</span></p>
 
 <p><span class="chinese">充分使用范例能很好地说明这个问题。</span><span class="english">It can be explained well by making full use of exemplification.</span></p>

@@ -1,5 +1,7 @@
 # 图书馆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tushuguan.md)
+
 <p><span class="chinese">我也是一名图书馆员。</span><span class="english">I am a librarian too.</span></p>
 
 <p><span class="chinese">他进入了那图书馆。</span><span class="english">He entered the library.</span></p>

@@ -1,5 +1,7 @@
 # csa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/csa.md)
+
 <p><span class="chinese">谢谢你为CSA水泥做的工厂交货的报价。</span><span class="english">Thank you for the quotation of the EXW price for CSA cement.</span></p>
 
 <p><span class="chinese">CSA将努力解决以下方面的安全问题</span><span class="english">CSA will try to address security issues in the following area</span></p>

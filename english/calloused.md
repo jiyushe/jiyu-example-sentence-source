@@ -1,5 +1,7 @@
 # calloused
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calloused.md)
+
 <p><span class="chinese">麦克梯格摊开那双生满老茧坚硬的手掌。</span><span class="english">Mcteague exhibited his hard, calloused palms.</span></p>
 
 <p><span class="chinese">“好的大爷，我会的，”我握住他的长满硬茧的手说。</span><span class="english">"Yes grandpa, I will, " I shake his calloused hands with two of mine.</span></p>

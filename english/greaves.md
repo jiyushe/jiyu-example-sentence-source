@@ -1,5 +1,7 @@
 # greaves
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/greaves.md)
+
 <p><span class="chinese">欧文将格里夫斯纳为下一个目标。</span><span class="english">Owen has Greaves in his sights.</span></p>
 
 <p><span class="chinese">格里夫斯那时27岁，同现在的欧文一样。</span><span class="english">Greaves was 27 then, the same age as Owen is now.</span></p>

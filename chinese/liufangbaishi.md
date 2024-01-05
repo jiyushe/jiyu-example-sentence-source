@@ -1,5 +1,7 @@
 # 流芳百世
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liufangbaishi.md)
+
 <p><span class="chinese">死得其所，流芳百世。</span><span class="english">The end makes all equal.</span></p>
 
 <p><span class="chinese">光荣之死，流芳百世。</span><span class="english">A fair death honour the whole life.</span></p>

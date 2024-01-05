@@ -1,5 +1,7 @@
 # absolutist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/absolutist.md)
+
 <p><span class="chinese">二是专制型。</span><span class="english">Two is absolutist type.</span></p>
 
 <p><span class="chinese">这真是一个绝对论者的声明。</span><span class="english">Thats a pretty absolutist claim.</span></p>

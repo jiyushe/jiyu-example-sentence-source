@@ -1,5 +1,7 @@
 # 条件反射
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaojianfanshe.md)
+
 <p><span class="chinese">你甚至不知道巴甫洛夫的条件反射学吗？</span><span class="english">Even you don't know Pavlov's dog!</span></p>
 
 <p><span class="chinese">这就是操作性条件反射。</span><span class="english">That's how operative conditioning works.</span></p>

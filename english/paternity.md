@@ -1,5 +1,7 @@
 # paternity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paternity.md)
+
 <p><span class="chinese">看看能不能确定亲子关系？</span><span class="english">See if we can prove paternity?</span></p>
 
 <p><span class="chinese">也许她做过产前亲子鉴定。</span><span class="english">She may have had a prenatal paternity test done.</span></p>

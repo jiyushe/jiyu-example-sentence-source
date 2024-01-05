@@ -1,5 +1,7 @@
 # 泣不成声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qibuchengsheng.md)
+
 <p><span class="chinese">那孩子立刻泣不成声。</span><span class="english">The kid burst into tears.</span></p>
 
 <p><span class="chinese">他无法再说下去了，突然泣不成声。</span><span class="english">You talk just like the grown-ups!</span></p>

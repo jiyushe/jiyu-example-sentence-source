@@ -1,5 +1,7 @@
 # 药房
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaofang.md)
+
 <p><span class="chinese">药房在哪里？</span><span class="english">Where is the pharmacy ?</span></p>
 
 <p><span class="chinese">这附近哪里有西药房？</span><span class="english">Where is the closest pharmacy?</span></p>

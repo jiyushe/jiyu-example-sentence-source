@@ -1,5 +1,7 @@
 # 侧根
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cegen.md)
+
 <p><span class="chinese">其主根不明显、侧根发达。</span><span class="english">Its obvious main root, lateral roots developed.</span></p>
 
 <p><span class="chinese">由中柱鞘产生侧根及周皮。</span><span class="english">The pericycle produces the latent roots and periderm.</span></p>

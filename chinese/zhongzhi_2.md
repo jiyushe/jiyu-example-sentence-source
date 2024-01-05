@@ -1,5 +1,7 @@
 # 中直
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongzhi_2.md)
+
 <p><span class="chinese">在生活中直行和右转。</span><span class="english">In life go straight and turn right.</span></p>
 
 <p><span class="chinese">为什么红帽子不在其内核中直扌妾支持NTFS?。</span><span class="english">Why didnt Red Hat enable NTFS support in their kernels?</span></p>

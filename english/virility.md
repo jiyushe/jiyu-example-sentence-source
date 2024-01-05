@@ -1,5 +1,7 @@
 # virility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/virility.md)
+
 <p><span class="chinese">一个女人鄙夷地阉割了一个男人的气概</span><span class="english">Tauntingly, a woman lances a man's virility</span></p>
 
 <p><span class="chinese">其文学理论，“阳刚”之论独具特色。</span><span class="english">His literature theory's distinguishing feature was virility.</span></p>

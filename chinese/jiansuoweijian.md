@@ -1,5 +1,7 @@
 # 见所未见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiansuoweijian.md)
+
 <p><span class="chinese">学子们这样的越轨行为真是见所未见。</span><span class="english">Never has there been such unbridled license among the scholars.</span></p>
 
 <p><span class="chinese">在花展上我们看到许多见所未见的奇花异草。</span><span class="english">I saw and heard of many strange things of which I had hitherto been unaware.</span></p>

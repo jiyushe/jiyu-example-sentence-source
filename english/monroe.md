@@ -1,5 +1,7 @@
 # monroe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monroe.md)
+
 <p><span class="chinese">接着，杰弗逊在1803年再次派遣门罗去巴黎。</span><span class="english">He next sent Monroe to Paris in 1803.</span></p>
 
 <p><span class="chinese">门罗接替麦迪逊当上总统。</span><span class="english">Monroe followed Madison as president.</span></p>

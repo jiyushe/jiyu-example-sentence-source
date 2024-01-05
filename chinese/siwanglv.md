@@ -1,5 +1,7 @@
 # 死亡率
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/siwanglv.md)
+
 <p><span class="chinese">那个国家的死亡率很高。</span><span class="english">The decease rate in that country is very high.</span></p>
 
 <p><span class="chinese">全因死亡率是本研究关注的结果。</span><span class="english">All-cause mortality was the outcome of interest.</span></p>

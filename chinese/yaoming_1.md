@@ -1,5 +1,7 @@
 # 要命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoming_1.md)
+
 <p><span class="chinese">要命，那一定痛死了。</span><span class="english">Boy, that must have hurt.</span></p>
 
 <p><span class="chinese">他看起来怕得要命。</span><span class="english">He looks scared to death.</span></p>

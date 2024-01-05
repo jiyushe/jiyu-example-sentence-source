@@ -1,5 +1,7 @@
 # greatly 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/greatly.md)
+
 <p><span class="chinese">林深受感动。</span><span class="english">Lin was greatly moved.</span></p>
 
 <p><span class="chinese">我发现她老得多了。</span><span class="english">I found her greatly aged.</span></p>

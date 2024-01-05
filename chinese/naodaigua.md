@@ -1,5 +1,7 @@
 # 脑袋瓜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naodaigua.md)
+
 <p><span class="chinese">这下脑袋瓜子该说谢谢了。</span><span class="english">The head should say thank you.</span></p>
 
 <p><span class="chinese">我们又对他们的脑袋瓜做什么了？</span><span class="english">What did we do to their brains?</span></p>

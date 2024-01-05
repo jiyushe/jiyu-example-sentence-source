@@ -1,5 +1,7 @@
 # turner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turner.md)
+
 <p><span class="chinese">特纳叹息。</span><span class="english">Turner sighed.</span></p>
 
 <p><span class="chinese">埃尔马·特纳医生怎么样了？</span><span class="english">How is Doctor Elma Turner?</span></p>

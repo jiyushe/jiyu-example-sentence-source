@@ -1,5 +1,7 @@
 # 苦处
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuchu.md)
+
 <p><span class="chinese">这是我的苦处。</span><span class="english">This is my difficulty.</span></p>
 
 <p><span class="chinese">哎，伙计，你的苦处在哪里。</span><span class="english">Hey, dude, you suffering in where?</span></p>

@@ -1,5 +1,7 @@
 # 天狼星
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianlangxing.md)
+
 <p><span class="chinese">哈利喊道，“小天狼星！”</span><span class="english">SIRIUS!</span></p>
 
 <p><span class="chinese">她还跟小天狼星约过会！</span><span class="english">And she dated Sirius!</span></p>

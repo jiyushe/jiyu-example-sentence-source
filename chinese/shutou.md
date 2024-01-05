@@ -1,5 +1,7 @@
 # 梳头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shutou.md)
+
 <p><span class="chinese">秃子不需梳头。</span><span class="english">The bald need no comb.</span></p>
 
 <p><span class="chinese">我淋浴，洗漱，梳头。</span><span class="english">I shower, clean up, do my hair.</span></p>

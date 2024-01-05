@@ -1,5 +1,7 @@
 # malignant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malignant.md)
+
 <p><span class="chinese">癌是一种恶性瘤。</span><span class="english">A cancer is a malignant tumour.</span></p>
 
 <p><span class="chinese">脊索瘤是极少见的恶性肿瘤。</span><span class="english">Chordomas are rare malignant neoplasms.</span></p>

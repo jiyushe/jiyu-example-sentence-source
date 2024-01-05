@@ -1,5 +1,7 @@
 # goethite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goethite.md)
+
 <p><span class="chinese">钼酸根在针铁矿上的吸附等温线为S型。</span><span class="english">S shape isotherms were observed for the adsorption of molybdate on goethite.</span></p>
 
 <p><span class="chinese">天然针铁矿降解酚类化合物的能力高于合成针铁矿。</span><span class="english">Natural goethite has the ability to degrade phenolic compounds better than synthetic goethite.</span></p>

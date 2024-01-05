@@ -1,5 +1,7 @@
 # 溶剂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongji.md)
+
 <p><span class="chinese">酒精是一种溶剂。</span><span class="english">Alcohol is a solvent.</span></p>
 
 <p><span class="chinese">只有溶剂的摩尔数。</span><span class="english">I have moles of solvent.</span></p>

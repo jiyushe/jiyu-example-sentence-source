@@ -1,5 +1,7 @@
 # 笔杆子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biganzi.md)
+
 <p><span class="chinese">笔杆子比刀剑更有力。</span><span class="english">The pen is mightier than the sword.</span></p>
 
 <p><span class="chinese">你是说笔杆子还行，是吗？</span><span class="english">You mean your penmanship is good? Is thatit?</span></p>

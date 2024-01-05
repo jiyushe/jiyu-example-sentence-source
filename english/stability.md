@@ -1,5 +1,7 @@
 # stability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stability.md)
+
 <p><span class="chinese">谁的稳定？</span><span class="english">Whose stability?</span></p>
 
 <p><span class="chinese">稳态在最底层。</span><span class="english">Stability is at the bottom.</span></p>

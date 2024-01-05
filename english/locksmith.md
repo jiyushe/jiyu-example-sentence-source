@@ -1,5 +1,7 @@
 # locksmith
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/locksmith.md)
+
 <p><span class="chinese">我可以借用你的电话打个电话给锁匠吗？</span><span class="english">May I borrow your phone to call a locksmith?</span></p>
 
 <p><span class="chinese">早知如此，我宁愿做个锁匠。</span><span class="english">If I had only known, I would have been a locksmith.</span></p>

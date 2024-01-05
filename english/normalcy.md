@@ -1,5 +1,7 @@
 # normalcy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/normalcy.md)
+
 <p><span class="chinese">我希望我们能以平常心对待这样的时刻。</span><span class="english">I want to experience these moments with normalcy and satisfaction.</span></p>
 
 <p><span class="chinese">"常态不能导致自满,"奥巴马在华尔街中心的联邦大厅说.</span><span class="english">"Normalcy cannot lead to complacency," he said at Federal Hall in the heart of Wall Street.</span></p>

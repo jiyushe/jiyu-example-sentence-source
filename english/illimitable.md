@@ -1,5 +1,7 @@
 # illimitable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illimitable.md)
+
 <p><span class="chinese">他并宣称他是出阵阵无限制。</span><span class="english">He bursts forth and declares that he is illimitable.</span></p>
 
 <p><span class="chinese">人类终于得以瞥见一丝无穷的能量。</span><span class="english">Mankind has begun to glimpse its illimitable powers.</span></p>

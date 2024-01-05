@@ -1,5 +1,7 @@
 # gutty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gutty.md)
+
 <p><span class="chinese">不经意就叹息有种不完整的心情。</span><span class="english">Casual groan gutty and incomplete mood.</span></p>
 
 <p><span class="chinese">人有种什么病医不好啊？</span><span class="english">Is the person gutty what ill medicine is bad?</span></p>

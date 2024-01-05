@@ -1,5 +1,7 @@
 # viticulture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/viticulture.md)
+
 <p><span class="chinese">葡萄栽培的目标是实现种植效益的最大化。</span><span class="english">The target of viticulture is to get a maximum benefit.</span></p>
 
 <p><span class="chinese">瑞士葡萄酒专家来院交流并参观学院品酒室。</span><span class="english">Experts in viticulture and enology from Switzerland visited the college.</span></p>

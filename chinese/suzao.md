@@ -1,5 +1,7 @@
 # 塑造
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suzao.md)
+
 <p><span class="chinese">但这对塑造品格很有帮助。</span><span class="english">It's very character-building.</span></p>
 
 <p><span class="chinese">那摩丝可以帮助塑造我的发型。</span><span class="english">The mousse helps shape my hair.</span></p>

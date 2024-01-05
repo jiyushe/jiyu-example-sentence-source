@@ -1,5 +1,7 @@
 # covered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/covered.md)
+
 <p><span class="chinese">我出了一身汗。</span><span class="english">I'm covered in sweat.</span></p>
 
 <p><span class="chinese">他的脸上满是血。</span><span class="english">Blood covered his face.</span></p>

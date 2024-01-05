@@ -1,5 +1,7 @@
 # 丛林
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/conglin.md)
+
 <p><span class="chinese">这里是一片丛林吗？</span><span class="english">Is this a jungle?</span></p>
 
 <p><span class="chinese">老虎就住在丛林里面。</span><span class="english">Tigers lived in the jungle.</span></p>

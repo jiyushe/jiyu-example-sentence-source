@@ -1,5 +1,7 @@
 # 童趣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongqu.md)
+
 <p><span class="chinese">风格鲜明，充满童趣的艺术张力。</span><span class="english">Bright style, full of Children's naiveness and fun.</span></p>
 
 <p><span class="chinese">这是一部充满童趣的童话故事。</span><span class="english">This is a fairy tale full of childishness and playfulness.</span></p>

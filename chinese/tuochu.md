@@ -1,5 +1,7 @@
 # 脱出
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuochu.md)
+
 <p><span class="chinese">我从他沈睡的头颅脱出手臂。</span><span class="english">I slip my arm out from under his sleep head.</span></p>
 
 <p><span class="chinese">如何脱出法，须依情况而定。</span><span class="english">How this can be done depends on the circumstances.</span></p>

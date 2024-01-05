@@ -1,5 +1,7 @@
 # 清风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingfeng.md)
+
 <p><span class="chinese">发舞乎清风。</span><span class="english">Hair blows in the wind.</span></p>
 
 <p><span class="chinese">他吹起一阵清风。</span><span class="english">He sent a gentle breeze.</span></p>

@@ -1,5 +1,7 @@
 # 刀具
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daoju.md)
+
 <p><span class="chinese">或者生产出了刀具和电脑？</span><span class="english">Or do you make cutlery or computers?</span></p>
 
 <p><span class="chinese">刀具数据库的有效管理方法。</span><span class="english">Available management of tool data-base.</span></p>

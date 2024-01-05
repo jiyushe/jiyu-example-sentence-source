@@ -1,5 +1,7 @@
 # cryptographic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cryptographic.md)
+
 <p><span class="chinese">我们还需要实现密码功能。</span><span class="english">We need to implement cryptographic functionality as well.</span></p>
 
 <p><span class="chinese">现在我们将尝试形成一个用于密码支持的策略。</span><span class="english">We will now try to form a strategy for cryptographic support.</span></p>

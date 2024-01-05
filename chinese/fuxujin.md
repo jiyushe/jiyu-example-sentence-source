@@ -1,5 +1,7 @@
 # 抚恤金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuxujin.md)
+
 <p><span class="chinese">他领有一笔政府发的伤残抚恤金。</span><span class="english">He has a disability pension from the government.</span></p>
 
 <p><span class="chinese">他拥有一笔政府发的伤残抚恤金。</span><span class="english">He has a discompetency pension from the government.</span></p>

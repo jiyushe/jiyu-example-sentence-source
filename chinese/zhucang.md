@@ -1,5 +1,7 @@
 # 贮藏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhucang.md)
+
 <p><span class="chinese">他们从贮藏处取出降落伞备用。</span><span class="english">They broke out the parachutes.</span></p>
 
 <p><span class="chinese">市内水的贮藏量不多。</span><span class="english">The city's reserve of water is low.</span></p>

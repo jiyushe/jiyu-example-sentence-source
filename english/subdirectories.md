@@ -1,5 +1,7 @@
 # subdirectories
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subdirectories.md)
+
 <p><span class="chinese">指定子目录的驱动器盘符和文件夹路径。</span><span class="english">specifies the Drive letter and folder path to subdirectories</span></p>
 
 <p><span class="chinese">显示目录中的文件和子目录列表。</span><span class="english">DIR Displays a list of files and subdirectories in a directory.</span></p>

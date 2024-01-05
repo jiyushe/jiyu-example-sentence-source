@@ -1,5 +1,7 @@
 # hotel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hotel.md)
+
 <p><span class="chinese">中国饭店。</span><span class="english">China Hotel.</span></p>
 
 <p><span class="chinese">住在饭店。</span><span class="english">In einem Hotel.</span></p>

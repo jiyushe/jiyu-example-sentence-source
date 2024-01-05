@@ -1,5 +1,7 @@
 # wattle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wattle.md)
+
 <p><span class="chinese">澳大利亚的国花是金合欢花。</span><span class="english">Australia's National Floral Emblem is the golden wattle.</span></p>
 
 <p><span class="chinese">下垂的肉类似悬垂的部分，如鸟类的垂肉。</span><span class="english">A pendulous part similar to this, such as the wattle of a bird.</span></p>

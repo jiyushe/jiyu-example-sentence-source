@@ -1,5 +1,7 @@
 # aruba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aruba.md)
+
 <p><span class="chinese">你和阿鲁巴有什么关系?。</span><span class="english">What is it with you and Aruba?</span></p>
 
 <p><span class="chinese">上周，阿鲁巴岛的一名游客发现了一个颚骨。</span><span class="english">A tourist in Aruba discovered a jawbone last week.</span></p>

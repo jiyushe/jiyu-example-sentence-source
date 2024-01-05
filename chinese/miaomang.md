@@ -1,5 +1,7 @@
 # 渺茫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miaomang.md)
+
 <p><span class="chinese">但是大选之后，欧宝的前途渺茫。</span><span class="english">But beyond that its future is bleak.</span></p>
 
 <p><span class="chinese">分享收入似乎希望渺茫。</span><span class="english">Revenue sharing seems a forlorn hope.</span></p>

@@ -1,5 +1,7 @@
 # 少林拳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaolinquan.md)
+
 <p><span class="chinese">少林大炮捶，可以说是少林拳中的王者。</span><span class="english">This boxing is the king of Shaolin Boxing.</span></p>
 
 <p><span class="chinese">少林小炮捶可以说是少林拳中王者。</span><span class="english">This boxing is the king of the Shaolin Boxing.</span></p>

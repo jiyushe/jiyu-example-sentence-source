@@ -1,5 +1,7 @@
 # 先动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiandong.md)
+
 <p><span class="chinese">什么部分先动？</span><span class="english">What moves first?</span></p>
 
 <p><span class="chinese">谁先动的手？</span><span class="english">Who struck first?</span></p>

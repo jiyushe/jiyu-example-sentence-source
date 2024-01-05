@@ -1,5 +1,7 @@
 # 曳光弹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yeguangdan.md)
+
 <p><span class="chinese">曳光弹是双向作用的。</span><span class="english">Tracers work both ways.</span></p>
 
 <p><span class="chinese">用曳光弹找到目标。</span><span class="english">Use Tracer Bullets to Find the Target.</span></p>

@@ -1,5 +1,7 @@
 # hit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hit.md)
+
 <p><span class="chinese">击中目标！</span><span class="english">Hit target!</span></p>
 
 <p><span class="chinese">中头彩了！</span><span class="english">Hit the jackpot!</span></p>

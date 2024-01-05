@@ -1,5 +1,7 @@
 # 毛条
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maotiao.md)
+
 <p><span class="chinese">毛条质量的稳定性取决于每一次所用原料质量的稳定性。</span><span class="english">Stable top quality is depended upon stable quality of raw material.</span></p>
 
 <p><span class="chinese">就生产有色高收缩涤纶毛条的工艺路线进行了比较。</span><span class="english">Processes of dope-dyed high-shrinkage PET top are compared in this paper.</span></p>

@@ -1,5 +1,7 @@
 # mood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mood.md)
+
 <p><span class="chinese">我的心情坏透了。</span><span class="english">I'm in the bad mood.</span></p>
 
 <p><span class="chinese">我没那份情感。培训。</span><span class="english">I'm not in the mood.</span></p>

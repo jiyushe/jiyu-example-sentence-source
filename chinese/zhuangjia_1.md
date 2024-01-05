@@ -1,5 +1,7 @@
 # 庄稼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangjia_1.md)
+
 <p><span class="chinese">不要踩踏庄稼。</span><span class="english">Don't tread on crops.</span></p>
 
 <p><span class="chinese">庄稼长得真棒。</span><span class="english">The crops are excellent.</span></p>

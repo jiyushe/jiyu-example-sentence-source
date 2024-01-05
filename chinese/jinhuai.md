@@ -1,5 +1,7 @@
 # 襟怀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinhuai.md)
+
 <p><span class="chinese">你的襟怀胸襟有了…</span><span class="english">Thy bosom is endeared with all hearts.</span></p>
 
 <p><span class="chinese">宗教有襟怀旷大，超脱现世之精神。</span><span class="english">Open-minded religions Kuang large, detached spirit of this world.</span></p>

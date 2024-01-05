@@ -1,5 +1,7 @@
 # blade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blade.md)
+
 <p><span class="chinese">嗨！那刀是我的。</span><span class="english">Hey! That's my blade.</span></p>
 
 <p><span class="chinese">把一把刀的刀刃切割成梳子状。</span><span class="english">Dicing a blade to a comb.</span></p>

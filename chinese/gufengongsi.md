@@ -1,5 +1,7 @@
 # 股份公司
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gufengongsi.md)
+
 <p><span class="chinese">因此我们需要解释什么是股份公司。</span><span class="english">So we need toexplain what a corporation is.</span></p>
 
 <p><span class="chinese">私有股份公司通常特别依赖若干明星。</span><span class="english">Private-equity firms rely heavily on a few stars.</span></p>

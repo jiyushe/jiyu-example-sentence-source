@@ -1,5 +1,7 @@
 # 装卸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangxie.md)
+
 <p><span class="chinese">罢工工人拒绝为他的那辆货车装卸。</span><span class="english">The strikers blacked his lorry.</span></p>
 
 <p><span class="chinese">罢工工人拒绝为这艘船装卸货物。</span><span class="english">The ship was blacked by strikers.</span></p>

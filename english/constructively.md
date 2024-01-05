@@ -1,5 +1,7 @@
 # constructively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/constructively.md)
+
 <p><span class="chinese">学会建设性地使用你的镜子。</span><span class="english">Learn to use your mirror constructively.</span></p>
 
 <p><span class="chinese">促使你建设性地面对失败</span><span class="english">It allows you to deal with failure constructively.</span></p>

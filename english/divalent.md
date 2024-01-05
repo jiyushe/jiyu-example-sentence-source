@@ -1,5 +1,7 @@
 # divalent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/divalent.md)
+
 <p><span class="chinese">硬度是由一些两价金属阳离子引起的。</span><span class="english">Hardness is caused by divalent metallic cations.</span></p>
 
 <p><span class="chinese">元素离子水化热等。</span><span class="english">Heats of hydration of divalent transition metal cations.</span></p>

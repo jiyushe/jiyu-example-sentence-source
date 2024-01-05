@@ -1,5 +1,7 @@
 # interlude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interlude.md)
+
 <p><span class="chinese">也许，我永远只是你生命中的插曲。</span><span class="english">Perhaps, I forever am only in your life interlude.</span></p>
 
 <p><span class="chinese">随后四年，是繁荣的间歇期。</span><span class="english">The following four years were a prosperous interlude.</span></p>

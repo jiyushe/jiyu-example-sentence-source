@@ -1,5 +1,7 @@
 # applet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/applet.md)
+
 <p><span class="chinese">左边的Applet有一个分割成两个区域的panel。</span><span class="english">The left Applet has a panel split in two pieces.</span></p>
 
 <p><span class="chinese">网络管理器小程序无法找到所需的资源。</span><span class="english">The NetworkManager applet could not find some required resources.</span></p>

@@ -1,5 +1,7 @@
 # forerunner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forerunner.md)
+
 <p><span class="chinese">施洗约翰是耶稣的开路先锋。</span><span class="english">John was the forerunner to Jesus.</span></p>
 
 <p><span class="chinese">约翰将做耶稣的开路先锋。</span><span class="english">John would be the forerunner for Jesus.</span></p>

@@ -1,5 +1,7 @@
 # proscenium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proscenium.md)
+
 <p><span class="chinese">都去前台，谁在幕后？</span><span class="english">Proscenium , whom do play in backstage?</span></p>
 
 <p><span class="chinese">数字这座钢铁舞台注定了这出悲剧。</span><span class="english">An iron proscenium of number frames the tragedy.</span></p>

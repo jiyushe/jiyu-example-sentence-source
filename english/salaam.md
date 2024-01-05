@@ -1,5 +1,7 @@
 # salaam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salaam.md)
+
 <p><span class="chinese">额手礼是穆斯林的问候方式。</span><span class="english">Salaam is a Muslim form of salutation.</span></p>
 
 <p><span class="chinese">在达累斯萨拉姆的明杰�小学，我们见到了他们的校长亚历克斯·罗伯茨先生。</span><span class="english">In Mivinjeni Primary school in Dar es Salaam I met the head teacher Mr.</span></p>

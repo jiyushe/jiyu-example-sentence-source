@@ -1,5 +1,7 @@
 # 应得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingde.md)
+
 <p><span class="chinese">这是你应得的！</span><span class="english">You deserve it!</span></p>
 
 <p><span class="chinese">你们应得的。</span><span class="english">You deserve it.</span></p>

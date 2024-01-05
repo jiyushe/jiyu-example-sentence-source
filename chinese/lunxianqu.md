@@ -1,5 +1,7 @@
 # 沦陷区
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lunxianqu.md)
+
 <p><span class="chinese">在沦陷区，则一切被日本帝国主义所独占。</span><span class="english">In the occupied areas everything is in the hands of Japanese imperialism.</span></p>
 
 <p><span class="chinese">本论文第一部分是对两地沦陷区的文学的比较。</span><span class="english">In the first section, I compare the colonial literatures of the two areas.</span></p>

@@ -1,5 +1,7 @@
 # 真菌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenjun.md)
+
 <p><span class="chinese">另例真菌性肉芽肿。</span><span class="english">Here is another fungal granuloma.</span></p>
 
 <p><span class="chinese">很多真菌具有不完全隔膜。</span><span class="english">Many fungi have incomplete septa.</span></p>

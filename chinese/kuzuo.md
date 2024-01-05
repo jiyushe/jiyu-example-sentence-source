@@ -1,5 +1,7 @@
 # 枯坐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuzuo.md)
+
 <p><span class="chinese">我独自枯坐在家为你哭啊哭。</span><span class="english">I sit alone at home and cry over you.</span></p>
 
 <p><span class="chinese">她没有情愿甚么也没有干枯坐正在阂薛。</span><span class="english">She doesn't like to sit there doing nothing.</span></p>

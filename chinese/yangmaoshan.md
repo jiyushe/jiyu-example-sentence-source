@@ -1,5 +1,7 @@
 # 羊毛衫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangmaoshan.md)
+
 <p><span class="chinese">或者干脆让他穿羊毛衫。</span><span class="english">Or he could wear a fleece pullover.</span></p>
 
 <p><span class="chinese">他在编织杂志上做羊毛衫模特。</span><span class="english">He models cardigans in knitting books.</span></p>

@@ -1,5 +1,7 @@
 # exclaim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exclaim.md)
+
 <p><span class="chinese">壮观的日出让我们惊叹不已。</span><span class="english">The spectacular sunrise made us exclaim in surprise.</span></p>
 
 <p><span class="chinese">孟家的女孩子都跑过来为她的衣服喝彩。</span><span class="english">The Munroe girls rushed up to exclaim over her dress.</span></p>

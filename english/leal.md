@@ -1,5 +1,7 @@
 # leal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leal.md)
+
 <p><span class="chinese">忠诚的人从不撒谎。</span><span class="english">Leal heart lied never.</span></p>
 
 <p><span class="chinese">别让他们牵着你的鼻子走。</span><span class="english">Don't let them leal you by the nose.</span></p>

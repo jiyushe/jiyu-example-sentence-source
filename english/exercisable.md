@@ -1,5 +1,7 @@
 # exercisable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exercisable.md)
+
 <p><span class="chinese">有没有可操作的方法供借鉴?。</span><span class="english">Are there exercisable methods to borrow?</span></p>
 
 <p><span class="chinese">应用实例验证了算法的有效性和可操作性。</span><span class="english">The applied examples prove that the method is both effective and exercisable.</span></p>

@@ -1,5 +1,7 @@
 # acuity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acuity.md)
+
 <p><span class="chinese">味觉的敏度出生后随着时间而发展变化。</span><span class="english">B. Taste acuity is developed over time after birth.</span></p>
 
 <p><span class="chinese">甚至芹菜已经被松散地与脑力敏锐度联系在一起。</span><span class="english">Even celery has been loosely linked to mental acuity.</span></p>

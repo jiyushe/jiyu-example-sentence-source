@@ -1,5 +1,7 @@
 # scroll
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scroll.md)
+
 <p><span class="chinese">纸卷方式。</span><span class="english">Scroll Mode.</span></p>
 
 <p><span class="chinese">向下滚动。</span><span class="english">Scroll down.</span></p>

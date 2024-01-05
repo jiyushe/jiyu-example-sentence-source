@@ -1,5 +1,7 @@
 # 华年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanian.md)
+
 <p><span class="chinese">哪儿是你锦绣华年的全部珍宝？</span><span class="english">Where all the treasure of thy lusty days</span></p>
 
 <p><span class="chinese">一朵从未盛开的花，华年在几何？</span><span class="english">Has never been a flower in full bloom, China in geometry?</span></p>

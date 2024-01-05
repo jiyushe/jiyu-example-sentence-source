@@ -1,5 +1,7 @@
 # 组曲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuqu.md)
+
 <p><span class="chinese">第二组曲，作品23，“剪影”</span><span class="english">Suite No. 2, Op. 23, Silhouettes.</span></p>
 
 <p><span class="chinese">卡农式第五组曲，作品65，“儿童组曲”</span><span class="english">Suite No. 5 in Canon-form, Op. 65, Childrens Suite.</span></p>

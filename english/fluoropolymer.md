@@ -1,5 +1,7 @@
 # fluoropolymer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fluoropolymer.md)
+
 <p><span class="chinese">涂料中常用的氟聚合物树脂有三种。</span><span class="english">Three fluoropolymer resins are commonly used in coatings.</span></p>
 
 <p><span class="chinese">第二层覆盖着第一层，包含第二含氟聚合物。</span><span class="english">The second layer overlies the first layer and includes a second fluoropolymer.</span></p>

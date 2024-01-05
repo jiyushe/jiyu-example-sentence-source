@@ -1,5 +1,7 @@
 # saucy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saucy.md)
+
 <p><span class="chinese">他女儿是一个调皮的假小子。</span><span class="english">His daughter is a saucy tomboy.</span></p>
 
 <p><span class="chinese">那女孩戴了顶漂亮的新帽子。</span><span class="english">The girl was wearing a saucy new hat.</span></p>

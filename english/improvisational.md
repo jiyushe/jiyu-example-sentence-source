@@ -1,5 +1,7 @@
 # improvisational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/improvisational.md)
+
 <p><span class="chinese">昨晚，我去看了一场拉斯维加斯即兴表演者的演出。</span><span class="english">Last night I went to a show of the Las Vegas Improvisational Players.</span></p>
 
 <p><span class="chinese">非盈利组织的方法很即兴和亲自的。</span><span class="english">The non-profit organization's approach is improvisational and personal.</span></p>

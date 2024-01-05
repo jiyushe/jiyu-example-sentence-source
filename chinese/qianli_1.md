@@ -1,5 +1,7 @@
 # 潜力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianli_1.md)
+
 <p><span class="chinese">释放你的潜力！</span><span class="english">Unleash your Potential!</span></p>
 
 <p><span class="chinese">没人了解我的潜力。</span><span class="english">No one sees my potential.</span></p>

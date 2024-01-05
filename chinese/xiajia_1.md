@@ -1,5 +1,7 @@
 # 下家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiajia_1.md)
+
 <p><span class="chinese">其中一个下家在注册之后关闭了帐户口。</span><span class="english">One of your referrals canceled account after signing up.</span></p>
 
 <p><span class="chinese">三人通知下家后，一起到周计伟所住小区。</span><span class="english">Three people notice after Zhou Jiwei home, go to the living area.</span></p>

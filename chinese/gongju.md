@@ -1,5 +1,7 @@
 # 共居
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongju.md)
+
 <p><span class="chinese">难怪这里被称为人神共居的伊甸园。</span><span class="english">No wonder it is called the "Paradise Inhabited by Men and Gods".</span></p>
 
 <p><span class="chinese">我和福尔摩斯已经在贝克街共居多年了。</span><span class="english">Holmes and I had been sharing room in Baker Street for some years.</span></p>

@@ -1,5 +1,7 @@
 # aisle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aisle.md)
+
 <p><span class="chinese">查下，第一通道。</span><span class="english">Check aisle one.</span></p>
 
 <p><span class="chinese">靠过道的座住全满了。</span><span class="english">The aisle seats are all booked.</span></p>

@@ -1,5 +1,7 @@
 # turpentine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turpentine.md)
+
 <p><span class="chinese">许多油漆可用松节油稀释。</span><span class="english">Most paints reduce with turpentine.</span></p>
 
 <p><span class="chinese">冷杉分泌出一种质地优良的松树胶。</span><span class="english">The firs perspire a fine balsam of turpentine.</span></p>

@@ -1,5 +1,7 @@
 # carthage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carthage.md)
+
 <p><span class="chinese">迦太基是腓尼基人的殖民地</span><span class="english">Carthage is a colony of Phoenician cities.</span></p>
 
 <p><span class="chinese">迦太基号平稳地前进着像移动的人行道。</span><span class="english">The Carthage ran as steady as a moving sidewalk.</span></p>

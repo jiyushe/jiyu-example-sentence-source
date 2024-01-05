@@ -1,5 +1,7 @@
 # chooser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chooser.md)
+
 <p><span class="chinese">又是谁选择了这位选择者？</span><span class="english">And who chooses the chooser?</span></p>
 
 <p><span class="chinese">您的投注可以为任何你喜欢的游戏选择器。</span><span class="english">Your bet can be for any game you chooser like.</span></p>

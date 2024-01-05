@@ -1,5 +1,7 @@
 # abuzz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abuzz.md)
+
 <p><span class="chinese">一个秋天的上午，全班闹腾起来。</span><span class="english">One fall morning, the class was abuzz with excitment.</span></p>
 
 <p><span class="chinese">尔德节的第一天，全国上下一片喜庆和欢乐。</span><span class="english">The country is abuzz with happiness on the first morning of Eid.</span></p>

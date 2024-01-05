@@ -1,5 +1,7 @@
 # cosmological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cosmological.md)
+
 <p><span class="chinese">宇宙有限论是甚麽？</span><span class="english">What is cosmological finitism?</span></p>
 
 <p><span class="chinese">“世界线”代表了宇宙箭头的模型。</span><span class="english">The world lines modeled the cosmological arrow.</span></p>

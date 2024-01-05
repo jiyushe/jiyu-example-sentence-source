@@ -1,5 +1,7 @@
 # expository
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expository.md)
+
 <p><span class="chinese">有人说，这是释经讲道的荣耀。</span><span class="english">This is the glory of expository preaching, we were told.</span></p>
 
 <p><span class="chinese">写一篇有关如何快速阅读的说明文。</span><span class="english">Write an expository essay explaining how to republishing fast.</span></p>

@@ -1,5 +1,7 @@
 # 情报学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingbaoxue.md)
+
 <p><span class="chinese">论证了情报学研究方法的“统合”。</span><span class="english">It expounds and proves the "Unite"of informatics study.</span></p>
 
 <p><span class="chinese">最后讨论了情报学深化和突破需要解决的关键问题。</span><span class="english">Finally, some key problems needed to be solved are discussed.</span></p>

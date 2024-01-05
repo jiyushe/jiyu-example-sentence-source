@@ -1,5 +1,7 @@
 # 义务劳动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiwulaodong.md)
+
 <p><span class="chinese">放假时她常去参加义务劳动。</span><span class="english">She often does volunteer labour during holidays.</span></p>
 
 <p><span class="chinese">他在那里时参加了一项工程的义务劳动。</span><span class="english">While there he joined in voluntary labour on a project.</span></p>

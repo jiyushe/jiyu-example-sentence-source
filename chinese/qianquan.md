@@ -1,5 +1,7 @@
 # 缱绻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianquan.md)
+
 <p><span class="chinese">说我忘记向你缱绻的爱慰问。</span><span class="english">Forgot upon your dearest love to call.</span></p>
 
 <p><span class="chinese">拜物，恋山水，缱绻大都会。</span><span class="english">Fetishism, love mountain and water, miss bigalopolis.</span></p>

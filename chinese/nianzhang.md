@@ -1,5 +1,7 @@
 # 年长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianzhang.md)
+
 <p><span class="chinese">你是那位年长的女士？</span><span class="english">You are that old lady?</span></p>
 
 <p><span class="chinese">鲍勃和安年长一点。</span><span class="english">Bob and Ann were older.</span></p>

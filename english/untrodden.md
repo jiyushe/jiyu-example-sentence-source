@@ -1,5 +1,7 @@
 # untrodden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/untrodden.md)
+
 <p><span class="chinese">一片广大而尚无人迹的研究领域将被开辟。</span><span class="english">A grand and almost untrodden field of inquiry will be opened.</span></p>
 
 <p><span class="chinese">这就是人生的结局，一个人们从未涉足的虚无的领地。</span><span class="english">The ending of our life remains an untrodden part in this world.</span></p>

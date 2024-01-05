@@ -1,5 +1,7 @@
 # azt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/azt.md)
+
 <p><span class="chinese">她得了艾滋病。</span><span class="english">She's got AZT.</span></p>
 
 <p><span class="chinese">但AZT会引发严重的副作用，像是贫血。</span><span class="english">AZT can cause severe side effects, such as anemia.</span></p>

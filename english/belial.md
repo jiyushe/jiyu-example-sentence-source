@@ -1,5 +1,7 @@
 # belial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/belial.md)
+
 <p><span class="chinese">我是一个被恶魔看中的孩子！</span><span class="english">I'm a child chosen by Belial.</span></p>
 
 <p><span class="chinese">你是假扮天使的恶魔！</span><span class="english">You are Belial which disguise an Angel.</span></p>

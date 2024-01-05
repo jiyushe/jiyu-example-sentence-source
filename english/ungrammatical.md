@@ -1,5 +1,7 @@
 # ungrammatical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ungrammatical.md)
+
 <p><span class="chinese">文章写得文理不通。</span><span class="english">The essay is ungrammatical and incoherent.</span></p>
 
 <p><span class="chinese">一些电影名字奇怪，语法结构混乱。</span><span class="english">Some films have strange names and ungrammatical structures.</span></p>

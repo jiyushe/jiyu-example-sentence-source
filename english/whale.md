@@ -1,5 +1,7 @@
 # whale
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whale.md)
+
 <p><span class="chinese">鲸鱼是鱼，对还是错？</span><span class="english">A whale is a fish.</span></p>
 
 <p><span class="chinese">圈养鲸鱼亚卡。</span><span class="english">Yaka, captive whale.</span></p>

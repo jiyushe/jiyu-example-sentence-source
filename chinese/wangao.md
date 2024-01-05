@@ -1,5 +1,7 @@
 # 完稿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangao.md)
+
 <p><span class="chinese">那本书两个月人完稿。</span><span class="english">The book will be completed within two months.</span></p>
 
 <p><span class="chinese">报告正处于完稿阶段。</span><span class="english">It is in the final stages of the completing the report.</span></p>

@@ -1,5 +1,7 @@
 # pdu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pdu.md)
+
 <p><span class="chinese">提供了PDU服务来完成消息的发送。</span><span class="english">PDU service has been offered.</span></p>
 
 <p><span class="chinese">详细分析了短消息的PDU组帧格式。</span><span class="english">The paper presents the PDU frame of short message in detail.</span></p>

@@ -1,5 +1,7 @@
 # hostel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hostel.md)
+
 <p><span class="chinese">回到青年旅舍。</span><span class="english">Return to youth hostel.</span></p>
 
 <p><span class="chinese">而这只是一个旅馆。</span><span class="english">And this is only one hostel.</span></p>

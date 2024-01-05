@@ -1,5 +1,7 @@
 # 指令
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiling.md)
+
 <p><span class="chinese">它是一条指令。</span><span class="english">It's an instruction.</span></p>
 
 <p><span class="chinese">它需要指令。</span><span class="english">It needs instruction.</span></p>

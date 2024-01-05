@@ -1,5 +1,7 @@
 # gallium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gallium.md)
+
 <p><span class="chinese">铟，镓，硼，应用到太阳能电池中。</span><span class="english">Indium, boron and gallium are used in making solar cells.</span></p>
 
 <p><span class="chinese">这种材料是一种叫做镓锰砷化物的东东。</span><span class="english">The material is a semiconductor called gallium manganese arsenide.</span></p>

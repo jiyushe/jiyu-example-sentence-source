@@ -1,5 +1,7 @@
 # 翅果
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chiguo.md)
+
 <p><span class="chinese">不同的机器翅果设计。</span><span class="english">Various designs of robotic samaras.</span></p>
 
 <p><span class="chinese">翅果是一个单翼飞行器，意味着它只有单独的一个翅膀。</span><span class="english">The samara is a monocopter, meaning it has a single wing.</span></p>

@@ -1,5 +1,7 @@
 # littoral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/littoral.md)
+
 <p><span class="chinese">罗哈斯滨海大道、巴纳韦高山梯田、塔尔湖。</span><span class="english">Roxas Littoral Avenue, Banaue Rice Terrace and Taal Lake.</span></p>
 
 <p><span class="chinese">研究江苏沿海海蛰类养殖的气候适宜性。</span><span class="english">Climatic suitability of jellyfish breeding in Jiangsu littoral was studied.</span></p>

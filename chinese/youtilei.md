@@ -1,5 +1,7 @@
 # 有蹄类
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youtilei.md)
+
 <p><span class="chinese">他们是冲着大象和其他大型的有蹄类动物而来。</span><span class="english">They're targeting elephants and the bigger ungulates.</span></p>
 
 <p><span class="chinese">在加拿大的安大略省，当有蹄类动物的数量减少的时候，狼靠海狸为生。</span><span class="english">And in Ontario, Canada, wolves have depended on beavers when ungulates were scarce.</span></p>

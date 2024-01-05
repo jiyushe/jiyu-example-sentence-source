@@ -1,5 +1,7 @@
 # exclusion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exclusion.md)
+
 <p><span class="chinese">文王排斥之心开始有些松动。</span><span class="english">The king's heart of exclusion softened somewhat.</span></p>
 
 <p><span class="chinese">碱性食谱谋划排除很多食物。</span><span class="english">Alkaline diets promote the exclusion of many foods.</span></p>

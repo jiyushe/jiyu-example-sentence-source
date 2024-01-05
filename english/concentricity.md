@@ -1,5 +1,7 @@
 # concentricity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concentricity.md)
+
 <p><span class="chinese">泵轴为电机加长轴，同心度决对可靠。</span><span class="english">Plus the motor shaft axis, concentricity absolutely right and reliable.</span></p>
 
 <p><span class="chinese">使用时必须安装轴承以保证内环与外环的同心度。</span><span class="english">Bearing must be provided to ensure concentricity of the inner and outer race.</span></p>

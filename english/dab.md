@@ -1,5 +1,7 @@
 # dab
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dab.md)
+
 <p><span class="chinese">我和他下了一盘西洋棋。</span><span class="english">He's a dab at chess.</span></p>
 
 <p><span class="chinese">他仅浅涉政治而已。</span><span class="english">He just dab bles in politics.</span></p>

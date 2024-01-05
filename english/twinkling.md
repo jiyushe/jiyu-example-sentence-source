@@ -1,5 +1,7 @@
 # twinkling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/twinkling.md)
+
 <p><span class="chinese">柳树，阳光下闪烁。</span><span class="english">Willow, twinkling in the sun.</span></p>
 
 <p><span class="chinese">天黑人静，星星在天上闪烁。</span><span class="english">Stars were twinkling in the sky.</span></p>

@@ -1,5 +1,7 @@
 # cameroonian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cameroonian.md)
+
 <p><span class="chinese">喀麦隆的教育体制对男生和女生没有任何歧视。</span><span class="english">The Cameroonian educational system makes no distinction between girls and boys.</span></p>
 
 <p><span class="chinese">虽然英语人口属相对弱势，喀国的英文部落格圈仍相当活跃。</span><span class="english">Although English speakers are the minority, the Cameroonian English blogosphere is very active.</span></p>

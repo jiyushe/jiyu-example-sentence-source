@@ -1,5 +1,7 @@
 # slippage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slippage.md)
+
 <p><span class="chinese">这是进度拖沓的另一个重要原因。</span><span class="english">This is another major cause of schedule slippage.</span></p>
 
 <p><span class="chinese">一般滑点亏损比手续费还严重。</span><span class="english">Slippage tends to be a much bigger expense than commissions.</span></p>

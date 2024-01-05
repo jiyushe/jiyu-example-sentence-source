@@ -1,5 +1,7 @@
 # adriamycin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adriamycin.md)
+
 <p><span class="chinese">用体外培养心肌细胞观察阿霉素对心肌细胞的毒性作用。</span><span class="english">Cardiotoxic effects of adriamycin were investigated in cultured heart cells.</span></p>
 
 <p><span class="chinese">方法采用“复乳-液中干燥”法制备阿霉素PLGA微球。</span><span class="english">METHOD Adriamycin PLGA microspheres were prepared by double emulsion method.</span></p>

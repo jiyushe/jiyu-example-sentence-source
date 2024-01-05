@@ -1,5 +1,7 @@
 # 渲染
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanran.md)
+
 <p><span class="chinese">字体渲染也很乱。</span><span class="english">Font rendering was a mess.</span></p>
 
 <p><span class="chinese">绘制颜色代码渲染路径。</span><span class="english">Draw color-coded render paths.</span></p>

@@ -1,5 +1,7 @@
 # ferrule
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ferrule.md)
+
 <p><span class="chinese">金属箍上的黑圈是黑镍。</span><span class="english">Those black rings on my ferrule are black nickel.</span></p>
 
 <p><span class="chinese">根顶部和急需抓伤的金属箍和扣球的基础。</span><span class="english">Of roots at the top and the much-scratched metal ferrule and spike at the base.</span></p>

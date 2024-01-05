@@ -1,5 +1,7 @@
 # wan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wan.md)
+
 <p><span class="chinese">玉万为之气结。</span><span class="english">Jade wan qi junction.</span></p>
 
 <p><span class="chinese">万先生提议回家?。</span><span class="english">Mr Wan suggested going home.</span></p>

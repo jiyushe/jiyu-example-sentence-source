@@ -1,5 +1,7 @@
 # hemline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hemline.md)
+
 <p><span class="chinese">直底边。</span><span class="english">Straight hemline.</span></p>
 
 <p><span class="chinese">在底边的能。</span><span class="english">Pleating at hemline.</span></p>

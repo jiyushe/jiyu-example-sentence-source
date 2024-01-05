@@ -1,5 +1,7 @@
 # fierce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fierce.md)
+
 <p><span class="chinese">她非常凶狠。</span><span class="english">She's quite fierce.</span></p>
 
 <p><span class="chinese">好一个硬骨头老家伙！</span><span class="english">What a fierce old fellow!</span></p>

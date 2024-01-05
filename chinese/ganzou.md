@@ -1,5 +1,7 @@
 # 赶走
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganzou.md)
+
 <p><span class="chinese">他发出嘘声赶走他离开。</span><span class="english">He shoos him away.</span></p>
 
 <p><span class="chinese">您是如何将他赶走的？</span><span class="english">How did you drive him away?</span></p>

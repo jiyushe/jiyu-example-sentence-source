@@ -1,5 +1,7 @@
 # 可怕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kepa.md)
+
 <p><span class="chinese">一个可怕的人？</span><span class="english">An awful person?</span></p>
 
 <p><span class="chinese">他在那儿，高大而可怕。</span><span class="english">Tall. Terrifying.</span></p>

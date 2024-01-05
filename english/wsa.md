@@ -1,5 +1,7 @@
 # wsa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wsa.md)
+
 <p><span class="chinese">她伟成船务使飞机了整整一夜。</span><span class="english">She wsa make the plane the whole night.</span></p>
 
 <p><span class="chinese">本文讨论搅拌在疏水絮凝中的重要作用。</span><span class="english">The important role of agitation in hydrophobic flocculation wsa discussed.</span></p>

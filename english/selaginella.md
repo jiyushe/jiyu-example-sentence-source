@@ -1,5 +1,7 @@
 # selaginella
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/selaginella.md)
+
 <p><span class="chinese">蕨类孢子以中华卷柏和三缝孢为主。</span><span class="english">Selaginella sinensis is the mainly fern spores.</span></p>
 
 <p><span class="chinese">结论该方法有助于控制江南卷柏片的质量。</span><span class="english">Conclusion The method can help to control the quality of Selaginella moellendorfii Tablet.</span></p>

@@ -1,5 +1,7 @@
 # impartation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impartation.md)
+
 <p><span class="chinese">他们在生命中经历过死亡，并且领受了公义。</span><span class="english">There's been a death take place in their life and an impartation of righteousness.</span></p>
 
 <p><span class="chinese">在这个时刻，有一种精神创造性的艺术家的艺术灌输。</span><span class="english">At this creative moment there is a spiritual impartation from the artist to the Art.</span></p>

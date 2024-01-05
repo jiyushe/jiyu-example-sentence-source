@@ -1,5 +1,7 @@
 # 听候
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tinghou.md)
+
 <p><span class="chinese">我随时听候您的吩咐。</span><span class="english">I'm always at your service.</span></p>
 
 <p><span class="chinese">整个上午我听候你的吩咐。</span><span class="english">I'm at your disposal the whole morning.</span></p>

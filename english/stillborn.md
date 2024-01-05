@@ -1,5 +1,7 @@
 # stillborn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stillborn.md)
+
 <p><span class="chinese">“在脏的地方”，一个公务人员说，“通常看到弃婴和死婴。”</span><span class="english">Most frequently dumped, say officials, are newborns and stillborn children.</span></p>
 
 <p><span class="chinese">当她周一上午到医院检查时，她的婴儿已胎死腹中。</span><span class="english">By the time she went to hospital on the Monday morning, her baby was stillborn.</span></p>

@@ -1,5 +1,7 @@
 # archival
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/archival.md)
+
 <p><span class="chinese">档案从业人员出现职业倦怠。</span><span class="english">The archival jobholders appears to be tired.</span></p>
 
 <p><span class="chinese">我一直在对我的家庭史作一些档案性研究。</span><span class="english">I've been doing some archival research on my family history.</span></p>

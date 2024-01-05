@@ -1,5 +1,7 @@
 # patently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/patently.md)
+
 <p><span class="chinese">而我认为这显然是错误的。</span><span class="english">This seems to me to be just patently false.</span></p>
 
 <p><span class="chinese">所有这些报道都是子虚乌有的。</span><span class="english">Is behind all this. All of which is patently false.</span></p>

@@ -1,5 +1,7 @@
 # perceive 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perceive.md)
+
 <p><span class="chinese">你又如何看待他们？</span><span class="english">How do you perceive them?</span></p>
 
 <p><span class="chinese">我的意思你明白了吗?。</span><span class="english">Do you perceive what I mean?</span></p>

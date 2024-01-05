@@ -1,5 +1,7 @@
 # biweekly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biweekly.md)
+
 <p><span class="chinese">可能是每周或每两周。</span><span class="english">Perhaps weekly or biweekly.</span></p>
 
 <p><span class="chinese">一周一次或每两周一次，要坚持下去。</span><span class="english">Go once a week or biweekly and stick to it.</span></p>

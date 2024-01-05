@@ -1,5 +1,7 @@
 # 亲眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinyan.md)
+
 <p><span class="chinese">亲眼所见才是算数的。</span><span class="english">To see is lieve.</span></p>
 
 <p><span class="chinese">我想亲眼见识一下。</span><span class="english">I want to see for myself.</span></p>

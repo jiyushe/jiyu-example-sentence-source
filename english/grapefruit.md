@@ -1,5 +1,7 @@
 # grapefruit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grapefruit.md)
+
 <p><span class="chinese">我想要一个西柚。</span><span class="english">I want a grapefruit.</span></p>
 
 <p><span class="chinese">把柚子剖成两半。</span><span class="english">Cut the grapefruit in two.</span></p>

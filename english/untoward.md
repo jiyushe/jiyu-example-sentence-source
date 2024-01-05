@@ -1,5 +1,7 @@
 # untoward
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/untoward.md)
+
 <p><span class="chinese">而且它还有其他事与愿违的效应。</span><span class="english">And it has had other untoward effects.</span></p>
 
 <p><span class="chinese">的确，现在一切不顺心的事都小心瞒著詹姆士。</span><span class="english">Indeed, anything untoward was now kept from James.</span></p>

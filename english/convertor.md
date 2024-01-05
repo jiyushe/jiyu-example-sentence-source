@@ -1,5 +1,7 @@
 # convertor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/convertor.md)
+
 <p><span class="chinese">搜索并实例化适当的转换器。</span><span class="english">Search for and instantiate the appropriate convertor.</span></p>
 
 <p><span class="chinese">牵引逆变器是CMS-3型磁浮列车运行系统的重要部件。</span><span class="english">Traction convertor is a key part to the whole system of type CMS-3 maglev.</span></p>

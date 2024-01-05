@@ -1,5 +1,7 @@
 # dwelling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dwelling.md)
+
 <p><span class="chinese">洞穴不为人居住而存在。</span><span class="english">A cave is not FOR dwelling.</span></p>
 
 <p><span class="chinese">仍然居住在高原的洞穴</span><span class="english">Still dwelling in my Highland cave</span></p>

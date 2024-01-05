@@ -1,5 +1,7 @@
 # unobstructed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unobstructed.md)
+
 <p><span class="chinese">继续抓好重点流域、区域、海域的污染治理。</span><span class="english">An unobstructed area of land or water.</span></p>
 
 <p><span class="chinese">设备与墙之间是否畅通无阻？</span><span class="english">Are aisles between equipment and walls unobstructed?</span></p>

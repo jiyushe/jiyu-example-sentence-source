@@ -1,5 +1,7 @@
 # subdomains
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subdomains.md)
+
 <p><span class="chinese">在服务器上创建3个子域名</span><span class="english">Create 3 Subdomains on your server</span></p>
 
 <p><span class="chinese">将相关的要素划分为子域。</span><span class="english">Divide the factors into subdomains.</span></p>

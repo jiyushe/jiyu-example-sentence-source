@@ -1,5 +1,7 @@
 # rubbed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rubbed.md)
+
 <p><span class="chinese">她用手揉了揉脚腕子。</span><span class="english">She rubbed at her ankle.</span></p>
 
 <p><span class="chinese">他用手背抹抹嘴。</span><span class="english">He rubbed the ointment on.</span></p>

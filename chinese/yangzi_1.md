@@ -1,5 +1,7 @@
 # 样子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangzi_1.md)
+
 <p><span class="chinese">就是要这样子。</span><span class="english">This is it.</span></p>
 
 <p><span class="chinese">但我喜欢它的样子。</span><span class="english">I like how it looks.</span></p>

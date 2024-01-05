@@ -1,5 +1,7 @@
 # 图样
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuyang.md)
+
 <p><span class="chinese">用印表机印出图样。</span><span class="english">Print out the template.</span></p>
 
 <p><span class="chinese">一名艺术家甚至还提供金属图样。</span><span class="english">One artist even offers Metallica designs.</span></p>

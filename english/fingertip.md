@@ -1,5 +1,7 @@
 # fingertip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fingertip.md)
+
 <p><span class="chinese">而蜂鸟的大脑比指尖还要小。</span><span class="english">The hummingbird's brain is smaller than a fingertip.</span></p>
 
 <p><span class="chinese">指尖绕过的流年，沾染春温秋素的时光。</span><span class="english">Fingertip around the year, with warm spring Qiusu time.</span></p>

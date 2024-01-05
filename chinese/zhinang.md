@@ -1,5 +1,7 @@
 # 智囊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhinang.md)
+
 <p><span class="chinese">他一直充当这家大公司的智囊。</span><span class="english">He has brain-trusted the major corporation.</span></p>
 
 <p><span class="chinese">推动土耳其实现在国际社会再度崛起梦想的智囊</span><span class="english">for being the brains behind Turkey's global reawakening.</span></p>

@@ -1,5 +1,7 @@
 # 失而复得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shierfude.md)
+
 <p><span class="chinese">你很快会有东西失而复得。</span><span class="english">Something you lost will soon turn up.</span></p>
 
 <p><span class="chinese">失而复得的感觉真是第一次体会到。</span><span class="english">Regained the feeling is really the first time realized.</span></p>

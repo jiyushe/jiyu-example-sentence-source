@@ -1,5 +1,7 @@
 # attic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attic.md)
+
 <p><span class="chinese">阁楼上有咕咕哝哝的声音。</span><span class="english">The attic grumble.</span></p>
 
 <p><span class="chinese">阁楼上燃着孤灯一盏。</span><span class="english">There's a light on in the attic.</span></p>

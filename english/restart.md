@@ -1,5 +1,7 @@
 # restart
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/restart.md)
+
 <p><span class="chinese">无法重新启动印表机伺服器。</span><span class="english">Unable to restart print server.</span></p>
 
 <p><span class="chinese">你必须重新开机。</span><span class="english">NO13, You'll have to restart it.</span></p>

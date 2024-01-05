@@ -1,5 +1,7 @@
 # bangalore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bangalore.md)
+
 <p><span class="chinese">在班加罗尔的最后几天，我和LG是紧紧张张的。</span><span class="english">Last few days in Bangalore , LG and I are very busy.</span></p>
 
 <p><span class="chinese">没几个周，我就加入到班加罗尔蜂拥的汽车大军当中。</span><span class="english">Within weeks, I had joined the honking swarm driving in Bangalore.</span></p>

@@ -1,5 +1,7 @@
 # 水晶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuijing_1.md)
+
 <p><span class="chinese">水晶白麻。</span><span class="english">Crystal White.</span></p>
 
 <p><span class="chinese">举起你的水晶酒杯吧。</span><span class="english">Use your  crystal  goblets.</span></p>

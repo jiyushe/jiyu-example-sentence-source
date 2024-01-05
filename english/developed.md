@@ -1,5 +1,7 @@
 # developed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/developed.md)
+
 <p><span class="chinese">这只是事情的自然发展而已。</span><span class="english">It developed that way.</span></p>
 
 <p><span class="chinese">他肌肉发达。</span><span class="english">He developed a muscular body.</span></p>

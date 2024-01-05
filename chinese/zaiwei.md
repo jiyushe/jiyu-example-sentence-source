@@ -1,5 +1,7 @@
 # 在位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaiwei.md)
+
 <p><span class="chinese">维多利亚女王自1837年到1901年在位。</span><span class="english">Queen Victoria reigned from 1837 to 1901.</span></p>
 
 <p><span class="chinese">据他们说，齐夫林在位五十六年。</span><span class="english">And Chephren they said reigned fifty and six years.</span></p>

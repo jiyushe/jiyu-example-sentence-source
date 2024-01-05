@@ -1,5 +1,7 @@
 # 转头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuantou_2.md)
+
 <p><span class="chinese">是你转头就走。</span><span class="english">Are you turn a walk.</span></p>
 
 <p><span class="chinese">他掉踪降转头又回往了。</span><span class="english">He turned round and went back again.</span></p>

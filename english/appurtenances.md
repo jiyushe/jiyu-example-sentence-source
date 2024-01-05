@@ -1,5 +1,7 @@
 # appurtenances
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appurtenances.md)
+
 <p><span class="chinese">他买了那块地产以及上面的所有东西。</span><span class="english">He bought the estate and all the appurtenances.</span></p>
 
 <p><span class="chinese">放眼望去也不见警卫或其它权力标属。</span><span class="english">There were no visible guards or other appurtenances of power.</span></p>

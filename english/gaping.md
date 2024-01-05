@@ -1,5 +1,7 @@
 # gaping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gaping.md)
+
 <p><span class="chinese">非常大的一个豁口。</span><span class="english">A great big gaping hole.</span></p>
 
 <p><span class="chinese">血从裂开的伤口涌出。</span><span class="english">Blood gushed forth from the gaping wound.</span></p>

@@ -1,5 +1,7 @@
 # yulan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yulan.md)
+
 <p><span class="chinese">为何让我跟高家玉兰分离。</span><span class="english">Why let me talk to gaps thought yulan separation.</span></p>
 
 <p><span class="chinese">白玉兰是凉爽，湿润的气候条件下的理想选择。</span><span class="english">The Yulan magnolia is ideal for cool, moist climates.</span></p>

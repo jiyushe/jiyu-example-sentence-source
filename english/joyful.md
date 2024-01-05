@@ -1,5 +1,7 @@
 # joyful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/joyful.md)
+
 <p><span class="chinese">那是非常愉快的。</span><span class="english">That's very joyful.</span></p>
 
 <p><span class="chinese">吟唱人生悲喜交加。</span><span class="english">Singing and joyful life.</span></p>

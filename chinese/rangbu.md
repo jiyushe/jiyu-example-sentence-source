@@ -1,5 +1,7 @@
 # 让步
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rangbu.md)
+
 <p><span class="chinese">我让步！</span><span class="english">I concede!</span></p>
 
 <p><span class="chinese">才一接触他就让步了。</span><span class="english">At a touch he yielded.</span></p>

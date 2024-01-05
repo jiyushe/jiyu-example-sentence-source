@@ -1,5 +1,7 @@
 # 西化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xihua.md)
+
 <p><span class="chinese">他们全盘西化了。</span><span class="english">They're completely Westernized.</span></p>
 
 <p><span class="chinese">他的家人都相当西化。</span><span class="english">His family are quite Westernised.</span></p>

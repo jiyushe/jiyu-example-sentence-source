@@ -1,5 +1,7 @@
 # wax
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wax.md)
+
 <p><span class="chinese">汽车蜡？</span><span class="english">Car wax?</span></p>
 
 <p><span class="chinese">漆蜡。</span><span class="english">Japan wax.</span></p>

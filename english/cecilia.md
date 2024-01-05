@@ -1,5 +1,7 @@
 # cecilia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cecilia.md)
+
 <p><span class="chinese">我也觉得，特别是张柏芝。</span><span class="english">I agree, especially Cecilia Cheung.</span></p>
 
 <p><span class="chinese">的人是。</span><span class="english">Cecilia Payne This is Cecilia Payne.</span></p>

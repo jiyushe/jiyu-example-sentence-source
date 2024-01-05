@@ -1,5 +1,7 @@
 # 莫明其妙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/momingqimiao_1.md)
+
 <p><span class="chinese">你说我喜欢这个莫明其妙。</span><span class="english">You said me like this inexplicably.</span></p>
 
 <p><span class="chinese">对这种莫明其妙的事我们无法接受。</span><span class="english">We cannot accept the baffling thing.</span></p>

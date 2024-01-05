@@ -1,5 +1,7 @@
 # 狠心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/henxin.md)
+
 <p><span class="chinese">你太狠心了，的确太狠心了！</span><span class="english">You are cruel, cruel indeed!</span></p>
 
 <p><span class="chinese">你真的好狠心。</span><span class="english">Do you really good hard-hearted.</span></p>

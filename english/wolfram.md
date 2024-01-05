@@ -1,5 +1,7 @@
 # wolfram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wolfram.md)
+
 <p><span class="chinese">每有一个渥夫朗，就有100个卡特。</span><span class="english">For every Stephen Wolfram there are 100 James Carters.</span></p>
 
 <p><span class="chinese">沃夫朗预计将在一项活动中演说，而届时他正是让QB机器人当自己的替身。</span><span class="english">Slated to give a talk at an event, Wolfram had a QB stand in forhim.</span></p>

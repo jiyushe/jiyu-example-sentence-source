@@ -1,5 +1,7 @@
 # alabaster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alabaster.md)
+
 <p><span class="chinese">这是供应雪花石膏的详细页面。</span><span class="english">This is a supply of alabaster details page.</span></p>
 
 <p><span class="chinese">女王却如一尊蜡像般站在那里。</span><span class="english">But the Queen stood like a statue of alabaster.</span></p>

@@ -1,5 +1,7 @@
 # speculation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/speculation.md)
+
 <p><span class="chinese">但是这仅仅是个猜测。</span><span class="english">But this is only speculation.</span></p>
 
 <p><span class="chinese">和猜测仍然蕴积。</span><span class="english">And speculation still simmers.</span></p>

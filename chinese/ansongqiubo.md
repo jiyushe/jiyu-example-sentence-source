@@ -1,5 +1,7 @@
 # 暗送秋波
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ansongqiubo.md)
+
 <p><span class="chinese">他常常对格瑞斯暗送秋波。</span><span class="english">He offen make eyes at Grace.</span></p>
 
 <p><span class="chinese">那个家伙在向珍妮特暗送秋波。</span><span class="english">That guy is making passes at Janet.</span></p>

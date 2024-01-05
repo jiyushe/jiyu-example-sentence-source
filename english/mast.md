@@ -1,5 +1,7 @@
 # mast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mast.md)
+
 <p><span class="chinese">在那寻到我的船桅?。</span><span class="english">You'll find my mast is here.</span></p>
 
 <p><span class="chinese">电视天线杆在哪？</span><span class="english">Where is the television mast?</span></p>

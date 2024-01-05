@@ -1,5 +1,7 @@
 # debasement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/debasement.md)
+
 <p><span class="chinese">与李梅亭顾尔谦等为伍，就是可耻的堕落。</span><span class="english">Associating with people like Li Mei-t'ing and Ku Er-chien was such a shameful debasement.</span></p>
 
 <p><span class="chinese">所以，战争时期通常是,严重的通货膨胀,和货币改造的时期。</span><span class="english">So   war time periods were typically periods of great inflation and debasement of the currency.</span></p>

@@ -1,5 +1,7 @@
 # dishonor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dishonor.md)
+
 <p><span class="chinese">对…说来丢脸的是。</span><span class="english">To the dishonor of.</span></p>
 
 <p><span class="chinese">你是我团的不名誉。</span><span class="english">You are a dishonor to our regiment.</span></p>

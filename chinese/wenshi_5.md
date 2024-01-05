@@ -1,5 +1,7 @@
 # 纹饰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenshi_5.md)
+
 <p><span class="chinese">这张柚木桌子的桌腿有凹槽纹饰。</span><span class="english">The teak table has fluted legs.</span></p>
 
 <p><span class="chinese">种子表面纹饰为网状或乳突状。</span><span class="english">The surface ornament of seed is reticulate or mammilate.</span></p>

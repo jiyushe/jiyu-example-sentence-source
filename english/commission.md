@@ -1,5 +1,7 @@
 # commission 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commission.md)
+
 <p><span class="chinese">辞去你的任务。</span><span class="english">Resigning your commission.</span></p>
 
 <p><span class="chinese">不作为和抽佣的谎言。</span><span class="english">Lies of omission and commission.</span></p>

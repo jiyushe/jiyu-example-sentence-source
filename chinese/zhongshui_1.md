@@ -1,5 +1,7 @@
 # 重税
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongshui_1.md)
+
 <p><span class="chinese">他们负担重税。</span><span class="english">They were burdened with heavy taxation.</span></p>
 
 <p><span class="chinese">人民在重税下痛苦呻吟。</span><span class="english">The people groan under the burden of taxes.</span></p>

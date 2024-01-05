@@ -1,5 +1,7 @@
 # 折扣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhekou.md)
+
 <p><span class="chinese">部分观光船程可享折扣优惠。</span><span class="english">Discount on some boat trips.</span></p>
 
 <p><span class="chinese">我们可以给你方打个折扣。</span><span class="english">We can allow you a discount.</span></p>

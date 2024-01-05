@@ -1,5 +1,7 @@
 # handiwork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handiwork.md)
+
 <p><span class="chinese">杰克拽我的袖子，让我看他的杰作。</span><span class="english">Jake was tugging on my sleeve to show me his handiwork.</span></p>
 
 <p><span class="chinese">我倒是希望让孩子们多做一些手工劳作，多演演戏剧，多跳跳舞。</span><span class="english">I would have the children do more handiwork dramatics and dancing.</span></p>

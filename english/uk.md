@@ -1,5 +1,7 @@
 # uk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uk.md)
+
 <p><span class="chinese">但我是英国人。</span><span class="english">but I'm from the UK.</span></p>
 
 <p><span class="chinese">这其中包括英国。</span><span class="english">That includes the UK.</span></p>

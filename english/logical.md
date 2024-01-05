@@ -1,5 +1,7 @@
 # logical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/logical.md)
+
 <p><span class="chinese">这是唯一合乎逻辑的。</span><span class="english">This is only logical.</span></p>
 
 <p><span class="chinese">那下一步怎么办？</span><span class="english">The next logical step?</span></p>

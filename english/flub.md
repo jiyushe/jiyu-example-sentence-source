@@ -1,5 +1,7 @@
 # flub
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flub.md)
+
 <p><span class="chinese">可怕的沉默、你说话结结巴巴、你无法回答一个特别困难的问题。</span><span class="english">You stumble over your words. You flub a tough question.</span></p>
 
 <p><span class="chinese">更令人不安的是，她说，Google的搞得不好将可能对于未来的预警。</span><span class="english">More troubling, she said, is what Google’s flub may portend for the future.</span></p>

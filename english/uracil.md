@@ -1,5 +1,7 @@
 # uracil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uracil.md)
+
 <p><span class="chinese">带有溴基团的结构与尿嘧啶相似。</span><span class="english">Structure resembles uracil with an attached bromine group.</span></p>
 
 <p><span class="chinese">建立了尿嘧啶的薄层扫描测定方法。</span><span class="english">TLC Scanning method for the detection and quality control of Uracil is established.</span></p>

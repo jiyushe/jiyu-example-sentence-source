@@ -1,5 +1,7 @@
 # waterworks
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waterworks.md)
+
 <p><span class="chinese">他们在设计一个新自来水厂。</span><span class="english">They were projecting a new waterworks.</span></p>
 
 <p><span class="chinese">五月份，一座新的自来水厂将投入使用。</span><span class="english">In May a new waterworks will go into operation.</span></p>

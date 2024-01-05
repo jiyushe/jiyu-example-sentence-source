@@ -1,5 +1,7 @@
 # 决议
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jueyi.md)
+
 <p><span class="chinese">决议和条例。</span><span class="english">Resolutions and Ordinances.</span></p>
 
 <p><span class="chinese">决议已被耽搁了。</span><span class="english">The decision has bottlenecked.</span></p>

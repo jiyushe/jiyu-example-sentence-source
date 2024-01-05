@@ -1,5 +1,7 @@
 # 素昧平生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sumeipingsheng.md)
+
 <p><span class="chinese">不但素昧平生的人寄来了大量的礼物。</span><span class="english">Gifts poured in not only from unknown people.</span></p>
 
 <p><span class="chinese">她喜欢同素昧平生的伴侣旅行。</span><span class="english">When travelling, she preferred anonymous company.</span></p>

@@ -1,5 +1,7 @@
 # 平平安安
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingpinganan.md)
+
 <p><span class="chinese">以利沙对他说，你可以平平安安地回去。</span><span class="english">Go in peace, ' Elisha said.</span></p>
 
 <p><span class="chinese">如今可以出监，平平安安的去吧。</span><span class="english">Now you can leave. Go in peace.</span></p>

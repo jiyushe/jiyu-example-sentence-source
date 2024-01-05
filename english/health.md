@@ -1,5 +1,7 @@
 # health
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/health.md)
+
 <p><span class="chinese">现在让我们谈谈医改。</span><span class="english">Health care reform.</span></p>
 
 <p><span class="chinese">祝您健康！</span><span class="english">Wishing you health.</span></p>

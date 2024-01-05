@@ -1,5 +1,7 @@
 # 兴味
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingwei.md)
+
 <p><span class="chinese">阿齐兹饶有兴味地注视着他。</span><span class="english">Her eyes twinkled with amusement.</span></p>
 
 <p><span class="chinese">不幸的婚姻使我们兴味索然。</span><span class="english">The unhappy marriage disgusted us.</span></p>

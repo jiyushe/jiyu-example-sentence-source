@@ -1,5 +1,7 @@
 # inexpensive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inexpensive.md)
+
 <p><span class="chinese">接种剂是一种非常便宜的投入。</span><span class="english">Inoculant is a very inexpensive input.</span></p>
 
 <p><span class="chinese">这支铅笔是两支中较便宜的。</span><span class="english">This pencil is more inexpensive in two.</span></p>

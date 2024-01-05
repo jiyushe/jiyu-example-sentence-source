@@ -1,5 +1,7 @@
 # winch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/winch.md)
+
 <p><span class="chinese">操作气动绞车。</span><span class="english">Operate the air winch.</span></p>
 
 <p><span class="chinese">我们可以用绞车拔起这些大树根。</span><span class="english">We can winch out these big tree roots.</span></p>

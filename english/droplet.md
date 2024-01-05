@@ -1,5 +1,7 @@
 # droplet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/droplet.md)
+
 <p><span class="chinese">在连接管中防止液滴的形成。</span><span class="english">Eliminates droplet formation in the connector tube.</span></p>
 
 <p><span class="chinese">飞溅形式为大颗粒偏飞和小颗粒飞溅。</span><span class="english">The spatter forms include big and small droplet spatters.</span></p>

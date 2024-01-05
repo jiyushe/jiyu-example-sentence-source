@@ -1,5 +1,7 @@
 # fizzy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fizzy.md)
+
 <p><span class="chinese">为什么不把制造泡沫的乐事变为一个史诗般的聚会恶作剧呢？</span><span class="english">Why not turn the fizzy fun into an epic party prank of your own?</span></p>
 
 <p><span class="chinese">贡诺森说她试着尝了一下水龙头里的啤酒，但觉得味道有点怪，而且这些啤酒没有泡沫。</span><span class="english">Gundersen said she tried the beer but that it tasted a bit odd and was not fizzy.</span></p>

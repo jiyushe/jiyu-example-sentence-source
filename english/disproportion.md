@@ -1,5 +1,7 @@
 # disproportion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disproportion.md)
+
 <p><span class="chinese">您可以看到字体大小和图标尺寸之间的不协调。</span><span class="english">You can see the disproportion between the font size and the size of the icons.</span></p>
 
 <p><span class="chinese">一个人的计划与㱀实践存在太大的落差即是疯狂的表现。</span><span class="english">Thee great proof of madness is the disproportion of one's designs to one's means.</span></p>

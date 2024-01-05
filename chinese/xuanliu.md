@@ -1,5 +1,7 @@
 # 漩流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanliu.md)
+
 <p><span class="chinese">风，云，漩流，狂飙，无用的群星！</span><span class="english">Winds, clouds, whirlwinds, gusts, useless stars!</span></p>
 
 <p><span class="chinese">本发明是有关漩流真空吸尘器的发明。</span><span class="english">The invention relates to a cyclone vacuum dust collector.</span></p>

@@ -1,5 +1,7 @@
 # 趋之若鹜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quzhiruowu.md)
+
 <p><span class="chinese">李开复，中国的年轻人对其一举一动都趋之若鹜。</span><span class="english">Young Chinese follow Kaifu Lee`s every move.</span></p>
 
 <p><span class="chinese">投资者对它趋之若鹜，到后来，却是割肉者无数。</span><span class="english">Investors rush to it, then it is those countless resort.</span></p>

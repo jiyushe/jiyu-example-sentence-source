@@ -1,5 +1,7 @@
 # climate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/climate.md)
+
 <p><span class="chinese">气候酷派是什么？</span><span class="english">What is Climate Cool?</span></p>
 
 <p><span class="chinese">气候变化属于现实存在。</span><span class="english">Climate change is real.</span></p>

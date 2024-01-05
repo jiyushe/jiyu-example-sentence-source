@@ -1,5 +1,7 @@
 # cubism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cubism.md)
+
 <p><span class="chinese">这是一个立体主义的时代。</span><span class="english">It's the time of Cubism.</span></p>
 
 <p><span class="chinese">他是立体派的创始人之一。</span><span class="english">He was one of the inventors of Cubism.</span></p>

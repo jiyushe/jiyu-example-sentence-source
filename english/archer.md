@@ -1,5 +1,7 @@
 # archer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/archer.md)
+
 <p><span class="chinese">阿切尔皱起了眉头。</span><span class="english">Archer frowned.</span></p>
 
 <p><span class="chinese">阿切尔太太脸色煞白。</span><span class="english">Mrs. Archer paled.</span></p>

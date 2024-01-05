@@ -1,5 +1,7 @@
 # 七巧板
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiqiaoban.md)
+
 <p><span class="chinese">选择七巧板摆图。</span><span class="english">Select the tangram to form.</span></p>
 
 <p><span class="chinese">将每本书当作是一个七巧板。</span><span class="english">Treat a book like a jigsaw puzzle.</span></p>

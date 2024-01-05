@@ -1,5 +1,7 @@
 # summerhouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/summerhouse.md)
+
 <p><span class="chinese">在他们身后，凉亭已经闪起了火光。</span><span class="english">Behind them the summerhouse and gazebo were already ablaze.</span></p>
 
 <p><span class="chinese">但是最让我们引以自豪的是夏舍里的第二个春天。</span><span class="english">But mostly we gloried in our second spring at the summerhouse.</span></p>

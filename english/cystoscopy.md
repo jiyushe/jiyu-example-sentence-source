@@ -1,5 +1,7 @@
 # cystoscopy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cystoscopy.md)
+
 <p><span class="chinese">目的探讨护理干预在膀胱镜检查中的作用。</span><span class="english">Objective To explore the significance of nursing care in cystoscopy.</span></p>
 
 <p><span class="chinese">我们对其在55岁以下患者行膀胱软镜检查时的运用进行研究。</span><span class="english">We studied its use in flexible cystoscopy in men younger than 55 years.</span></p>

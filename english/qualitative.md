@@ -1,5 +1,7 @@
 # qualitative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/qualitative.md)
+
 <p><span class="chinese">定性结果与之前一样。</span><span class="english">Same qualitative result as before.</span></p>
 
 <p><span class="chinese">质剑为公沽绿醑。</span><span class="english">Qualitative sword for green Xu sell.</span></p>

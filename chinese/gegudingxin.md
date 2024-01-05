@@ -1,5 +1,7 @@
 # 革故鼎新
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gegudingxin.md)
+
 <p><span class="chinese">历史上各个帝国革故鼎新均有兴衰。</span><span class="english">Throughout history empires have waxed and waned.</span></p>
 
 <p><span class="chinese">最后，在这里，我祝各国能够革故鼎新。</span><span class="english">Finally, here, I wish countries to reforming the past.</span></p>

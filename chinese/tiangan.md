@@ -1,5 +1,7 @@
 # 天干
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiangan.md)
+
 <p><span class="chinese">天干地旱意味着，他们要比往年储备更多饲料。</span><span class="english">Parched fields mean they will have to buy in more feed than they'd like.</span></p>
 
 <p><span class="chinese">支中的所有的其他人元或天干，永远听命于他，受命于他而不能自己作主。</span><span class="english">In all other human or heavenly stems, never listens to him, under his and not its own.</span></p>

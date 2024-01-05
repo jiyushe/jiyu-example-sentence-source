@@ -1,5 +1,7 @@
 # perpetuate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perpetuate.md)
+
 <p><span class="chinese">我们必须将此制度永久保持。</span><span class="english">We must perpetuate the system.</span></p>
 
 <p><span class="chinese">一定要令正法常住于世。</span><span class="english">We must perpetuate the Proper Dharma.</span></p>

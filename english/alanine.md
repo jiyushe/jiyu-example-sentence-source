@@ -1,5 +1,7 @@
 # alanine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alanine.md)
+
 <p><span class="chinese">多少丙氨酸是以完全不带电的形式存在的?。</span><span class="english">How Much Alanine Is Present as the Completely Uncharged Species?</span></p>
 
 <p><span class="chinese">那些无生命样品大多是最简氨基酸、甘氨酸以及丙氨酸。</span><span class="english">The lifeless samples were dominated by the simplest amino acids, glycine and alanine.</span></p>

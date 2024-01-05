@@ -1,5 +1,7 @@
 # pigskin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pigskin.md)
+
 <p><span class="chinese">一件是猪皮的。</span><span class="english">One is made of pigskin.</span></p>
 
 <p><span class="chinese">猪皮煮得太烂，没咬头，失败！</span><span class="english">Pigskin is boiled too soddenly, did not bite a head, fail!</span></p>

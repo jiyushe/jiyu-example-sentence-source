@@ -1,5 +1,7 @@
 # feigned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feigned.md)
+
 <p><span class="chinese">我没有感受到爱情，我也不想装假。</span><span class="english">I felt no love, nor feigned any.</span></p>
 
 <p><span class="chinese">不真实的民主孳生犬儒主义。</span><span class="english">A feigned democracy breeds cynicism.</span></p>

@@ -1,5 +1,7 @@
 # bento
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bento.md)
+
 <p><span class="chinese">同时，我还在网上购买了我的便当盒。</span><span class="english">I also bought my bento boxes online.</span></p>
 
 <p><span class="chinese">总之，是一种平和淡定的体验。</span><span class="english">Preparing a bento can be a peaceful experience.</span></p>

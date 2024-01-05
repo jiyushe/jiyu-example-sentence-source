@@ -1,5 +1,7 @@
 # dianetics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dianetics.md)
+
 <p><span class="chinese">戴尼提研习班会告诉你，这些念头来自哪里。</span><span class="english">Dianetics class will tell you where these notions come from.</span></p>
 
 <p><span class="chinese">运用戴尼提所教导的技术，会让一个人更理智。</span><span class="english">Applying what Dianetics instructs you, you will be more rational.</span></p>

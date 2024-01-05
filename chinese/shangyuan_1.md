@@ -1,5 +1,7 @@
 # 伤员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangyuan_1.md)
+
 <p><span class="chinese">伤员发出呻吟声。</span><span class="english">The injured man let outa groan.</span></p>
 
 <p><span class="chinese">那个伤员在吐血。</span><span class="english">The injured man is spitting blood.</span></p>

@@ -1,5 +1,7 @@
 # baseline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baseline.md)
+
 <p><span class="chinese">将基线谨记于心。</span><span class="english">Keep the baseline in mind.</span></p>
 
 <p><span class="chinese">这些是基本的配置文件。</span><span class="english">These are the baseline profiles.</span></p>

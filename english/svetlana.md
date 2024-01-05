@@ -1,5 +1,7 @@
 # svetlana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/svetlana.md)
+
 <p><span class="chinese">我认为库兹尼佐娃打了场很好的比赛。</span><span class="english">I think Svetlana played a good match.</span></p>
 
 <p><span class="chinese">还记得我们叫作大草原和斯维特拉娜?。</span><span class="english">Remember when we were Savannah and Svetlana?</span></p>

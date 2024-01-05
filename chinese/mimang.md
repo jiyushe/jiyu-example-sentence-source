@@ -1,5 +1,7 @@
 # 迷茫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mimang.md)
+
 <p><span class="chinese">哎呀，不只是我被弄得如此迷茫！</span><span class="english">Lumme , not only I am at sea!</span></p>
 
 <p><span class="chinese">象梦一般地凄婉迷茫。</span><span class="english">Dreary and blank like a dream.</span></p>

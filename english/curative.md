@@ -1,5 +1,7 @@
 # curative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curative.md)
+
 <p><span class="chinese">水氯酊对青春痘疗效怎么样?。</span><span class="english">Ding right whelk curative effect how?</span></p>
 
 <p><span class="chinese">而性别对临床疗效无明显影响。</span><span class="english">Sex has no effect on clinical curative effect.</span></p>

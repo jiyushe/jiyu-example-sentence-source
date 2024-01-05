@@ -1,5 +1,7 @@
 # 庸医
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongyi.md)
+
 <p><span class="chinese">你这庸医！</span><span class="english">You quack!</span></p>
 
 <p><span class="chinese">我从不相信那些庸医。</span><span class="english">I never trust those stupid doctors.</span></p>

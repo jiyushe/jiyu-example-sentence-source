@@ -1,5 +1,7 @@
 # delphi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/delphi.md)
+
 <p><span class="chinese">我的王，这些药草来自德尔斐。</span><span class="english">My lord, these herbs are from Delphi.</span></p>
 
 <p><span class="chinese">指标权重的确定采用了特尔斐法和层次分析法。</span><span class="english">Weight of index is made by AHP and Delphi.</span></p>

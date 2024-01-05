@@ -1,5 +1,7 @@
 # 硬挺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingting.md)
+
 <p><span class="chinese">不能硬挺的。</span><span class="english">Can not be starched.</span></p>
 
 <p><span class="chinese">这个男人正硬挺挺的。</span><span class="english">The man was hardening.</span></p>

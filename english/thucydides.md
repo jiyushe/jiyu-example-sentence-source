@@ -1,5 +1,7 @@
 # thucydides
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thucydides.md)
+
 <p><span class="chinese">“命运”说是修昔底德历史思想中的重要内容。</span><span class="english">The idea of Tyche is an important part of Thucydides historical thoughts.</span></p>
 
 <p><span class="chinese">本文的第二章主要探讨了希罗多德和修昔底德的史学方法。</span><span class="english">In the second chapter, I mainly discuss the method of Herodotus and Thucydides.</span></p>

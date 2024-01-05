@@ -1,5 +1,7 @@
 # 厉害
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lihai_2.md)
+
 <p><span class="chinese">我烟抽得很厉害。</span><span class="english">I smoke a lot.</span></p>
 
 <p><span class="chinese">你伤患上厉害吗?。</span><span class="english">Bre you badly hurt?</span></p>

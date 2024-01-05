@@ -1,5 +1,7 @@
 # 非金属
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feijinshu.md)
+
 <p><span class="chinese">非金属原子称为配体。</span><span class="english">The non-metal atoms are called ligands.</span></p>
 
 <p><span class="chinese">钠是金属，碘是非金属。</span><span class="english">Sodium is a metal, iodine is a nonmetal.</span></p>

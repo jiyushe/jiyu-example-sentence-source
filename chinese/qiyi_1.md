@@ -1,5 +1,7 @@
 # 奇异
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiyi_1.md)
+
 <p><span class="chinese">没错，他就是帅帅的奇异博士！</span><span class="english">Yep, he is Doctor Strange!</span></p>
 
 <p><span class="chinese">几乎所有的鹮科鸟类都能飞，但“奇异朱鹭”不会飞。</span><span class="english">Nearly all other ibises fly.</span></p>

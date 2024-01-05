@@ -1,5 +1,7 @@
 # 求贤若渴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiuxianruoke.md)
+
 <p><span class="chinese">美国国家安全局也在这群求贤若渴的机构之列。</span><span class="english">The National Security Agency is among the keen suitors.</span></p>
 
 <p><span class="chinese">华尔街求贤若渴，在顶尖大学里疯狂搜罗博弈论和期权模型方面的能人志士。</span><span class="english">Wall Street ransacked the best universities for game theorists and options modellers.</span></p>

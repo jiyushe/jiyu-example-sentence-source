@@ -1,5 +1,7 @@
 # superbly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superbly.md)
+
 <p><span class="chinese">他们可以有绝佳的发挥。</span><span class="english">They can all play superbly.</span></p>
 
 <p><span class="chinese">致胜一球是来自他主罚的一个漂亮角球。</span><span class="english">The winning goal was from one of his superbly struck corners.</span></p>

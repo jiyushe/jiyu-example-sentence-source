@@ -1,5 +1,7 @@
 # opportunistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/opportunistic.md)
+
 <p><span class="chinese">治疗HIV相关的机会感染</span><span class="english">Treatment of HIV-related opportunistic infections</span></p>
 
 <p><span class="chinese">预防HIV相关机会感染</span><span class="english">Prevention of HIV-related opportunistic infections</span></p>

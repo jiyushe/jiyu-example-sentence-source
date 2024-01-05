@@ -1,5 +1,7 @@
 # 无声无息
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wushengwuxi.md)
+
 <p><span class="chinese">穿过无声无息的雾气。</span><span class="english">Through the pulseless haze.</span></p>
 
 <p><span class="chinese">门几乎无声无息的滑开。</span><span class="english">The door slid open almost noiselessly.</span></p>

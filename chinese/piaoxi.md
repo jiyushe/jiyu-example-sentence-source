@@ -1,5 +1,7 @@
 # 漂洗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaoxi.md)
+
 <p><span class="chinese">把洗濯物上的肥皂漂洗干净。</span><span class="english">Rinse out the soap from the washing.</span></p>
 
 <p><span class="chinese">这几件衬衫至少要漂洗三遍。</span><span class="english">Give the shirts at least three rinses.</span></p>

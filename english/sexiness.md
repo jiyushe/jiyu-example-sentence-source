@@ -1,5 +1,7 @@
 # sexiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sexiness.md)
+
 <p><span class="chinese">这可能增加来您的性感。</span><span class="english">This can add to your sexiness.</span></p>
 
 <p><span class="chinese">“性感”已经成为了社会的强音。</span><span class="english">"Sexiness" has become a social aspiration.</span></p>

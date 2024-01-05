@@ -1,5 +1,7 @@
 # serval
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/serval.md)
+
 <p><span class="chinese">他年轻时，只不过因为敢顶嘴，就失业了好几次。</span><span class="english">He lose his job serval times just because talk back.</span></p>
 
 <p><span class="chinese">并给出了系统的部分效果图。</span><span class="english">In addition, it gives serval effect chart of the system.</span></p>

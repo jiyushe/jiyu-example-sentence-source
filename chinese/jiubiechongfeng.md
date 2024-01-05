@@ -1,5 +1,7 @@
 # 久别重逢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiubiechongfeng.md)
+
 <p><span class="chinese">两个久别重逢的爱人去了汽车旅馆。</span><span class="english">The reunited lovers rush to a motel.</span></p>
 
 <p><span class="chinese">久别重逢，他们非常高兴。</span><span class="english">They were pleased to meet after such a long separation.</span></p>

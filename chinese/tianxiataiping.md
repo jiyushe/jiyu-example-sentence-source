@@ -1,5 +1,7 @@
 # 天下太平
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianxiataiping.md)
+
 <p><span class="chinese">我说过，万物第二天天下太平-！</span><span class="english">I said, everythings go a be all right-a!</span></p>
 
 <p><span class="chinese">太多的人压抑自己的感受与想法，只是为了“天下太平”，不与别人产生矛盾。</span><span class="english">Many people suppressed their feelings in order to keep peace with others.</span></p>

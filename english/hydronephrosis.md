@@ -1,5 +1,7 @@
 # hydronephrosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydronephrosis.md)
+
 <p><span class="chinese">IVU诊断12例上肾积水，9例明确为重肾双输尿管畸形。</span><span class="english">IVU diagnosis 12 cases have hydronephrosis and 9 cases have renal duplication.</span></p>
 
 <p><span class="chinese">结果所有病例均清晰显示梗阻部位及尿路积水情况。</span><span class="english">The site of upper urinary tract obstruction and hydronephrosis could be clearly shown.</span></p>

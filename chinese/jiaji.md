@@ -1,5 +1,7 @@
 # 家计
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaji.md)
+
 <p><span class="chinese">他每天为家计辛苦工作。</span><span class="english">He toiled every day to support his family.</span></p>
 
 <p><span class="chinese">有家室的警察必须兼差才能维持家计。</span><span class="english">Policemen with families have to moonlight to make ends meet.</span></p>

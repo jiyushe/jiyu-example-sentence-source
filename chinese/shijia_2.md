@@ -1,5 +1,7 @@
 # 市价
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shijia_2.md)
+
 <p><span class="chinese">最近苹果的市价已经超过了微软。</span><span class="english">It recently surpassed Microsoft Corp. in market value.</span></p>
 
 <p><span class="chinese">你们的还盘与现行市价不符。</span><span class="english">Your counteroffer does not come in line with the current rate.</span></p>

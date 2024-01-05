@@ -1,5 +1,7 @@
 # recipient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recipient.md)
+
 <p><span class="chinese">收件人会兑现它。</span><span class="english">The recipient will encash it.</span></p>
 
 <p><span class="chinese">对收信者要称呼对方的全名。</span><span class="english">Address the recipient by Full Name.</span></p>

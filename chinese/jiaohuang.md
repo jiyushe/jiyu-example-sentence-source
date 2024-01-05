@@ -1,5 +1,7 @@
 # 焦黄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaohuang.md)
+
 <p><span class="chinese">把面包烤得焦黄。</span><span class="english">Toast the bread very dark.</span></p>
 
 <p><span class="chinese">她将面包烤的焦黄。</span><span class="english">She toasted the bread very dark.</span></p>

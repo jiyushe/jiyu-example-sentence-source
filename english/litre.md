@@ -1,5 +1,7 @@
 # litre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/litre.md)
+
 <p><span class="chinese">牛奶每升价格三十便士。</span><span class="english">Milk costs 30p a litre.</span></p>
 
 <p><span class="chinese">这个瓶子装得下一升。</span><span class="english">This bottle holds one litre.</span></p>

@@ -1,5 +1,7 @@
 # bushy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bushy.md)
+
 <p><span class="chinese">他的脸憔悴，温和，眉毛很浓。</span><span class="english">He had a bony gentle face with bushy eyebrows.</span></p>
 
 <p><span class="chinese">在很短的，浓密的灌木丰富的深红色玫瑰花。</span><span class="english">Rich crimson rosettes on a short, bushy shrub.</span></p>

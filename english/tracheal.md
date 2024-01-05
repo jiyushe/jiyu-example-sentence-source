@@ -1,5 +1,7 @@
 # tracheal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tracheal.md)
+
 <p><span class="chinese">气管内气体吹入通气对气体交换效能的影响。</span><span class="english">The Effect of Tracheal Gas Insufflation on Gas Exchange Efficiency.</span></p>
 
 <p><span class="chinese">吸痰可导致低氧血症和组织缺氧。</span><span class="english">Arterial hypoxemia and tissue hypoxia maybe induced by tracheal suction.</span></p>

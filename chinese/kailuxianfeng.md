@@ -1,5 +1,7 @@
 # 开路先锋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kailuxianfeng.md)
+
 <p><span class="chinese">他是先驱者和开路先锋。</span><span class="english">He is a pioneer and trailblazer.</span></p>
 
 <p><span class="chinese">施洗约翰是耶稣的开路先锋。</span><span class="english">John was the forerunner to Jesus.</span></p>

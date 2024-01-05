@@ -1,5 +1,7 @@
 # curator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curator.md)
+
 <p><span class="chinese">玛丽·博林馆长说。</span><span class="english">That, says curator Mary Bolling.</span></p>
 
 <p><span class="chinese">她是意中艺术工作室的项目策展人。</span><span class="english">She is offiCina's project curator.</span></p>

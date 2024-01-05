@@ -1,5 +1,7 @@
 # retrospect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retrospect.md)
+
 <p><span class="chinese">邪恶只有在反省时明显。</span><span class="english">Evil is obvious only in retrospect.</span></p>
 
 <p><span class="chinese">这部电影回顾了孙中山先生的一生。</span><span class="english">This movie is a retrospect on the life of Sun Yat-sen.</span></p>

@@ -1,5 +1,7 @@
 # outlay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outlay.md)
+
 <p><span class="chinese">不过，扬基队的支出包括了所有费用。</span><span class="english">However, the Yankees outlay represents all costs.</span></p>
 
 <p><span class="chinese">收回创始费用外加估算利息。</span><span class="english">recovering the initial outlay plus imputed interest.</span></p>

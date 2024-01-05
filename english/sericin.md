@@ -1,5 +1,7 @@
 # sericin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sericin.md)
+
 <p><span class="chinese">同时，丝胶对受损头发具有明显的修复效果。</span><span class="english">In addition, sericin can also repaired the hair damaged evidently.</span></p>
 
 <p><span class="chinese">介绍了一种用阴离子交换纤维来回收丝胶蛋白质的方法。</span><span class="english">A method to recycle sericin using anion-exchange fiber is introduced.</span></p>

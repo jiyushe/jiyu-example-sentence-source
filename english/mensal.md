@@ -1,5 +1,7 @@
 # mensal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mensal.md)
+
 <p><span class="chinese">餐桌椅除了实用价值，它对人的心理也能产生积极的影响。</span><span class="english">Mensal chair besides economic value, it also can produce positive effect to the person's psychology.</span></p>
 
 <p><span class="chinese">而餐桌摆放到了门厅的正中心，餐桌上方悬吊的纸艺灯，格外温馨。</span><span class="english">And the midpoint that table put hallway, the paper with mensal suspensory upper part art lamp, sweet all the more.</span></p>

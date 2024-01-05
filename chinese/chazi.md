@@ -1,5 +1,7 @@
 # 叉子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chazi.md)
+
 <p><span class="chinese">我的叉子掉了。</span><span class="english">I dropped my fork.</span></p>
 
 <p><span class="chinese">我是要桌面上的叉子。</span><span class="english">I wanna fock on the table.</span></p>

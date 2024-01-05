@@ -1,5 +1,7 @@
 # imperfection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imperfection.md)
+
 <p><span class="chinese">相关显示或缺欠。</span><span class="english">Relevant Indication or Imperfection.</span></p>
 
 <p><span class="chinese">为你的不完美和你所犯的错误庆祝一番吧！</span><span class="english">Celebrate your imperfection and your mistakes.</span></p>

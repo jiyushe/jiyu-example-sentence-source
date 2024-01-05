@@ -1,5 +1,7 @@
 # 赘述
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuishu.md)
+
 <p><span class="chinese">这有点赘述。</span><span class="english">This is tautology.</span></p>
 
 <p><span class="chinese">这项声明是一种赘述。</span><span class="english">That statement is a tautology.</span></p>

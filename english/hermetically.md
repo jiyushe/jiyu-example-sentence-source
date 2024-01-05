@@ -1,5 +1,7 @@
 # hermetically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hermetically.md)
+
 <p><span class="chinese">探头装置是密封的。</span><span class="english">The probe unit is hermetically sealed.</span></p>
 
 <p><span class="chinese">双极型器件密封TO18金属包。</span><span class="english">Bipolar Device Hermetically sealed TO18 Metal Package.</span></p>

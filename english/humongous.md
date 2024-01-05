@@ -1,5 +1,7 @@
 # humongous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humongous.md)
+
 <p><span class="chinese">因此，它真的是非常非常的巨大无比。</span><span class="english">So that is really, really humongous.</span></p>
 
 <p><span class="chinese">你可以在这里探索这幅最大的照片</span><span class="english">You can explore the humongous photo here</span></p>

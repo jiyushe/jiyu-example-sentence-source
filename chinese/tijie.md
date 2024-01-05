@@ -1,5 +1,7 @@
 # 题解
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tijie.md)
+
 <p><span class="chinese">艾丽丝很容易地把这道数学难题解出来了。</span><span class="english">Alice worked out the difficult maths problem easily.</span></p>
 
 <p><span class="chinese">还用切向系数更正了一道题解。</span><span class="english">The solution of a problem is corrected by the tangential coefficient.</span></p>

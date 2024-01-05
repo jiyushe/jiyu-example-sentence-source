@@ -1,5 +1,7 @@
 # pedagogical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pedagogical.md)
+
 <p><span class="chinese">它本质上还是一个教学性质的软件包。</span><span class="english">As such, it is pedagogical in nature.</span></p>
 
 <p><span class="chinese">但是其中一个是教育的东西。</span><span class="english">But it's one of those pedagogical things.</span></p>

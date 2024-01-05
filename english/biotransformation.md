@@ -1,5 +1,7 @@
 # biotransformation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biotransformation.md)
+
 <p><span class="chinese">生物转化是中药研究的重要方法之一。</span><span class="english">Biotransformation is one of the important methods in Chinese medicine study.</span></p>
 
 <p><span class="chinese">建立了生物转化中多羟基甾体的薄层扫描测定法。</span><span class="english">TLC-densitometry of polyhydroxysteroids in biotransformation of steroids was established.</span></p>

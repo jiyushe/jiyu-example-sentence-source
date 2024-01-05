@@ -1,5 +1,7 @@
 # xi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xi.md)
+
 <p><span class="chinese">这是赑屃。</span><span class="english">This is a bi xi.</span></p>
 
 <p><span class="chinese">我的名字叫何曦。</span><span class="english">My name is He Xi.</span></p>

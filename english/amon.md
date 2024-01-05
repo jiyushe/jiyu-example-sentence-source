@@ -1,5 +1,7 @@
 # amon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amon.md)
+
 <p><span class="chinese">什么能够证明你是阿蒙神的孩子？</span><span class="english">What can prove you are the child of Amon?</span></p>
 
 <p><span class="chinese">在国内，他扩建了凯尔奈克的阿蒙神庙。</span><span class="english">At home he enlarged the temple of Amon at Karnak.</span></p>

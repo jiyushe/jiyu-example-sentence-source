@@ -1,5 +1,7 @@
 # sorcery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sorcery.md)
+
 <p><span class="chinese">雪花可有回天乏力之术？</span><span class="english">What sorcery had snow?</span></p>
 
 <p><span class="chinese">中国古代哲学家们起初多信奉巫术。</span><span class="english">Ancient Chinese philosophers were born out of sorcery.</span></p>

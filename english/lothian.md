@@ -1,5 +1,7 @@
 # lothian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lothian.md)
+
 <p><span class="chinese">所有371牙医执业洛锡安是发出了一份调查问卷。</span><span class="english">All 371 dentists practising in Lothian were sent a questionnaire.</span></p>
 
 <p><span class="chinese">主要根据罗伊的想法，我们对西洛锡安的病人制作了节食小册子。</span><span class="english">We've even produced a little diet booklet in West Lothian for patients mainly nicking Roy's ideas.</span></p>

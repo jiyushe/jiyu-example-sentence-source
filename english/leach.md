@@ -1,5 +1,7 @@
 # leach
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leach.md)
+
 <p><span class="chinese">Leach现在在阿拉斯加做律师。</span><span class="english">Leach is now working as an attorney in Alaska.</span></p>
 
 <p><span class="chinese">本试验采用冷浸法提取狗舌草中总黄酮。</span><span class="english">The cool leach method was applied in the experiment.</span></p>

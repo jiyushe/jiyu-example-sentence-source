@@ -1,5 +1,7 @@
 # bogor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bogor.md)
+
 <p><span class="chinese">两位领导人星期一在印尼渡假胜地茂物的夏宫进行会晤。</span><span class="english">The two leaders met Monday at the summer palace in Indonesia's resort of Bogor.</span></p>
 
 <p><span class="chinese">茂物目标事关亚太经合组织的信誉、凝聚力和未来发展。</span><span class="english">The Bogor Goals concern APEC’s credibility, cohesiveness and future development.</span></p>

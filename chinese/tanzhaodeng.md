@@ -1,5 +1,7 @@
 # 探照灯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanzhaodeng.md)
+
 <p><span class="chinese">唯一的问题是探照灯。</span><span class="english">Only problem's the searchlights.</span></p>
 
 <p><span class="chinese">探照灯扫视着夜空。</span><span class="english">Searchlights probed the night sky.</span></p>

@@ -1,5 +1,7 @@
 # lagging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lagging.md)
+
 <p><span class="chinese">男孩子在学校里总是落后于女孩子。</span><span class="english">Boys are lagging behind girls at school.</span></p>
 
 <p><span class="chinese">我们还应当帮助后进的同志。</span><span class="english">We should also help those lagging behind.</span></p>

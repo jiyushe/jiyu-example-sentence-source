@@ -1,5 +1,7 @@
 # triboelectric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/triboelectric.md)
+
 <p><span class="chinese">应用静电序列可以简化定性工作。</span><span class="english">Qualitative simplification has been suggested in the form of triboelectric series.</span></p>
 
 <p><span class="chinese">当触摸那些制作质量不高的电缆时，会产生摩擦电效应噪音，因此这些噪音又被称为“触摸噪音”。</span><span class="english">The triboelectric effect is also called "handling noise" because it occurs when handling poorly made cables.</span></p>

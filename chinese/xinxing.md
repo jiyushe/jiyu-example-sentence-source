@@ -1,5 +1,7 @@
 # 心形
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinxing.md)
+
 <p><span class="chinese">一颗心形的云！</span><span class="english">A heart-shaped cloud!</span></p>
 
 <p><span class="chinese">我真的喜欢那个星心形蛋糕。</span><span class="english">I really like that heart-shaped cake.</span></p>

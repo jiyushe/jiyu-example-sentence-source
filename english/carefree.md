@@ -1,5 +1,7 @@
 # carefree
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carefree.md)
+
 <p><span class="chinese">放飞梦想，逍遥潍坊。</span><span class="english">Flying dreams, carefree Weifang.</span></p>
 
 <p><span class="chinese">恐怕我的无牵无挂的日子已经过去了。</span><span class="english">My carefree days are over, I fear.</span></p>

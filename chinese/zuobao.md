@@ -1,5 +1,7 @@
 # 作保
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuobao.md)
+
 <p><span class="chinese">我可以为他作保。</span><span class="english">I can sponsor him.</span></p>
 
 <p><span class="chinese">我的朋友们可以为我作保。</span><span class="english">My friends will vouch for me.</span></p>

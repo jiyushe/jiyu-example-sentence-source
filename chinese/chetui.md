@@ -1,5 +1,7 @@
 # 撤退
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chetui.md)
+
 <p><span class="chinese">他吹响了撤退的号声。</span><span class="english">He sounded the retreat.</span></p>
 
 <p><span class="chinese">还是撤退任你造美梦。</span><span class="english">Just wanna be with you.</span></p>

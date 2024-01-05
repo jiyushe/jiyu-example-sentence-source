@@ -1,5 +1,7 @@
 # travelled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/travelled.md)
+
 <p><span class="chinese">你经常旅游吗？</span><span class="english">Have you travelled a lot?</span></p>
 
 <p><span class="chinese">乘坐火车。</span><span class="english">They travelled on the train.</span></p>

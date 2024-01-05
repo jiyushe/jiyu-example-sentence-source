@@ -1,5 +1,7 @@
 # crumb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crumb.md)
+
 <p><span class="chinese">他把面包屑弹到房间另一头。</span><span class="english">He flipped a crumb across the room.</span></p>
 
 <p><span class="chinese">这个强大的帝?囯最终瓦?解了。</span><span class="english">The mighty empire finally crumB?led.</span></p>

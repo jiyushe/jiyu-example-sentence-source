@@ -1,5 +1,7 @@
 # 分体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenti.md)
+
 <p><span class="chinese">复制后的染色体有几条染色分体?。</span><span class="english">How many chromatids are in a duplicated chromosome?</span></p>
 
 <p><span class="chinese">HBI系列是采用变极器的新型分体热泵。</span><span class="english">HBI is the new series of split heat pumps with inverter.</span></p>

@@ -1,5 +1,7 @@
 # 少将
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaojiang.md)
+
 <p><span class="chinese">这番话激起了一个少将的反驳。</span><span class="english">That prompted a retort from Rear Adm.</span></p>
 
 <p><span class="chinese">1943年初，陈纳德被提升为少将。</span><span class="english">In early 1943, Chennault was promoted to major general.</span></p>

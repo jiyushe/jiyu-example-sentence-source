@@ -1,5 +1,7 @@
 # nescience
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nescience.md)
+
 <p><span class="chinese">具有讽刺意味的是，有时盲目的勇敢出自无知。</span><span class="english">Ironically sometimes blind brave comes out of nescience.</span></p>
 
 <p><span class="chinese">他还提出了一个管理“新态”的四步法。</span><span class="english">He then provides a four-step guide to managing nescience.</span></p>

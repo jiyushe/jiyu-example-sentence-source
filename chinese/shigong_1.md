@@ -1,5 +1,7 @@
 # 师公
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shigong_1.md)
+
 <p><span class="chinese">我感到非常幸运，我们有师公的祝福！</span><span class="english">I feel extremely lucky that we have this divine blessing!</span></p>
 
 <p><span class="chinese">壮族师公教有明显的多神崇拜特征。</span><span class="english">The Shigong Religion of Zhuang Nationality has a characteristic of multi-deity worship.</span></p>

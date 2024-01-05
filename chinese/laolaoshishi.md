@@ -1,5 +1,7 @@
 # 老老实实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laolaoshishi.md)
+
 <p><span class="chinese">还是老老实实的买一匹真正的马吧。</span><span class="english">Get a real horse.</span></p>
 
 <p><span class="chinese">别装蒜了，老老实实讲吧!</span><span class="english">Come off it, tell the truth!</span></p>

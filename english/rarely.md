@@ -1,5 +1,7 @@
 # rarely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rarely.md)
+
 <p><span class="chinese">我很少射篮。</span><span class="english">I rarely shoot.</span></p>
 
 <p><span class="chinese">很少买新衣服。</span><span class="english">Rarely buy new clothes.</span></p>

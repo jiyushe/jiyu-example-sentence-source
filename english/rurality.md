@@ -1,5 +1,7 @@
 # rurality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rurality.md)
+
 <p><span class="chinese">乡村的问题似乎是难以解决的。</span><span class="english">The problems of rurality appear to be intractable.</span></p>
 
 <p><span class="chinese">我居住的那个小村庄的田园风光非常漂亮。</span><span class="english">The rurality of the small village I am living is very beautiful.</span></p>

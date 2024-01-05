@@ -1,5 +1,7 @@
 # 感触
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganchu.md)
+
 <p><span class="chinese">今日上嘎班会课。我觉得好有感触。！</span><span class="english">Believes me I can be good !</span></p>
 
 <p><span class="chinese">卫明有不同的感触感染。</span><span class="english">Wei Ming feels differently.</span></p>

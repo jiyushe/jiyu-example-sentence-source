@@ -1,5 +1,7 @@
 # kimono
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kimono.md)
+
 <p><span class="chinese">和服是日本的民族服装。</span><span class="english">Kimono is Japan's national costume.</span></p>
 
 <p><span class="chinese">和服是日本的国服。</span><span class="english">Kimono is the national costume of Japan.</span></p>

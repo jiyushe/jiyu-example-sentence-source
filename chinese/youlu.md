@@ -1,5 +1,7 @@
 # 邮路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youlu.md)
+
 <p><span class="chinese">我相信这是一个农村邮路吉普车。</span><span class="english">These "are" rural roads, postal Jeep.</span></p>
 
 <p><span class="chinese">邮路遍及全国。</span><span class="english">A postal network now covers the whole country.</span></p>

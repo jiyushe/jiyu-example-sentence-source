@@ -1,5 +1,7 @@
 # 竞逐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingzhu.md)
+
 <p><span class="chinese">欢迎扮鬼扮马，竞逐最佳服装奖！</span><span class="english">Dress up for best dressed prizes!</span></p>
 
 <p><span class="chinese">老牌大国和新兴大国竞逐主导地位。</span><span class="english">The incumbent and the rising powers compete for dominance.</span></p>

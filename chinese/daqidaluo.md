@@ -1,5 +1,7 @@
 # 大起大落
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daqidaluo.md)
+
 <p><span class="chinese">这个星期真是大起大落。</span><span class="english">This has been a really up-and-down week.</span></p>
 
 <p><span class="chinese">出生啊，死亡啊，这就是个大起大落。</span><span class="english">Babys born or somebody dies, and thats a jerk.</span></p>

@@ -1,5 +1,7 @@
 # laced
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laced.md)
+
 <p><span class="chinese">含有鸦片酊的饮料。</span><span class="english">A drink laced with laudanum.</span></p>
 
 <p><span class="chinese">他的制服上镶有金色饰带。</span><span class="english">His uniform is laced with gold.</span></p>

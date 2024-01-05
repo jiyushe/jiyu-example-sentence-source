@@ -1,5 +1,7 @@
 # 神算
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shensuan.md)
+
 <p><span class="chinese">正如大卫称那在行为以外，蒙神算为义的人是有福的。</span><span class="english">Even as David also describeth the blessedness of the man, unto whom God imputeth righteousness without works</span></p>
 
 <p><span class="chinese">所以，当我们这样为基督受苦，我们的苦难就被神算为基督的苦难。</span><span class="english">Therefore, when we suffer for Christ in this way, our sufferings are counted by God as the sufferings of Christ.</span></p>

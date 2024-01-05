@@ -1,5 +1,7 @@
 # pedigreed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pedigreed.md)
+
 <p><span class="chinese">他是一只纯正的中国冠毛犬。</span><span class="english">Sam is pedigreed Chinese crested dog.</span></p>
 
 <p><span class="chinese">在一群夏季影片的骡子里，这是一匹罕见的纯种马。</span><span class="english">A rare pedigreed entrant in a summer of mules.</span></p>

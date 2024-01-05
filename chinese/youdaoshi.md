@@ -1,5 +1,7 @@
 # 有道是
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youdaoshi.md)
+
 <p><span class="chinese">我不这样认为，有道是江山易改，本性难移啊。</span><span class="english">I don't think so. Can the leopard change its spots?</span></p>
 
 <p><span class="chinese">有道是，我们要么找到一个解决方法，要么自己制造出解决方案来。</span><span class="english">As a saying goes, we will either find a way or make one.</span></p>

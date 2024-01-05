@@ -1,5 +1,7 @@
 # 盛装
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengzhuang.md)
+
 <p><span class="chinese">苗族盛装何时穿戴？</span><span class="english">Why are they in attires?</span></p>
 
 <p><span class="chinese">但素有这些这都是一种浮夸的盛装游行。</span><span class="english">But it is all a grandiose pageant.</span></p>

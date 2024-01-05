@@ -1,5 +1,7 @@
 # specialise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/specialise.md)
+
 <p><span class="chinese">婴儿开始专攻他们的母语。</span><span class="english">Infants are beginning to specialise in their own language.</span></p>
 
 <p><span class="chinese">他们专营高价的新奇的商品，真的。</span><span class="english">And they specialise in selling overpriced novelty goods, really.</span></p>

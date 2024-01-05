@@ -1,5 +1,7 @@
 # giggle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/giggle.md)
+
 <p><span class="chinese">她会快乐地小小声咯咯笑。</span><span class="english">She has a happy little giggle.</span></p>
 
 <p><span class="chinese">我勉强在喘息之间挤出一声笑。</span><span class="english">I manage a giggle in between wheezes.</span></p>

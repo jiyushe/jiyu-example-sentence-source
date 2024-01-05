@@ -1,5 +1,7 @@
 # automatization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/automatization.md)
+
 <p><span class="chinese">该方案结构简单，测量速度快，实现了完全自动化。</span><span class="english">The method is fast and easy established which fulfill complete automatization.</span></p>
 
 <p><span class="chinese">电力远动系统是电力系统自动化的重要组成部分。</span><span class="english">The power telecontrol system is an important part of power system automatization.</span></p>

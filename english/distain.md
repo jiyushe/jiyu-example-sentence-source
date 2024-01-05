@@ -1,5 +1,7 @@
 # distain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distain.md)
+
 <p><span class="chinese">结果会让别人更加得鄙视你！</span><span class="english">The result can let others must distain you more!</span></p>
 
 <p><span class="chinese">其中之一就是都鄙视现在产品中应用的标签。</span><span class="english">One of those is a mutual distain for modern produce labels.</span></p>

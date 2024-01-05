@@ -1,5 +1,7 @@
 # 万顷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanqing.md)
+
 <p><span class="chinese">万顷银波，洁白如雪，波平如镜，渺极天际。</span><span class="english">Boundless expanse of silver wave, white as snow, wave as flat as a mirror, a very vague horizon.</span></p>
 
 <p><span class="chinese">于是游湖之兴顿生，驾一叶轻舟，徜徉万顷波涛。</span><span class="english">So Hing Lake of All of a sudden have a, driving securinine Adventures, 10000 ares beautiful waves.</span></p>

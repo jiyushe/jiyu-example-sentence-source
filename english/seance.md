@@ -1,5 +1,7 @@
 # seance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seance.md)
+
 <p><span class="chinese">昨晚那五人举行了降神会。</span><span class="english">Five people held a seance last eve.</span></p>
 
 <p><span class="chinese">有时晚上我就参加女孩子们转桌子降神的游戏。</span><span class="english">Some evenings I would join the girls in a table-turning seance.</span></p>

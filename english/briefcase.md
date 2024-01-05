@@ -1,5 +1,7 @@
 # briefcase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/briefcase.md)
+
 <p><span class="chinese">我的公事包在哪里？</span><span class="english">Where is my briefcase?</span></p>
 
 <p><span class="chinese">我关不上公事包。</span><span class="english">I can't shut my briefcase.</span></p>

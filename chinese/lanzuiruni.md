@@ -1,5 +1,7 @@
 # 烂醉如泥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lanzuiruni.md)
+
 <p><span class="chinese">他昨晚回家时已烂醉如泥。</span><span class="english">He nodded out home last night.</span></p>
 
 <p><span class="chinese">好的，我仍然烂醉如泥。</span><span class="english">Well, okay, I still get stoned.</span></p>

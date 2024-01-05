@@ -1,5 +1,7 @@
 # cilium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cilium.md)
+
 <p><span class="chinese">细胞膜向上突起延续构成纤毛的表面。</span><span class="english">The unit membrane of the cell continues up over each cilium.</span></p>
 
 <p><span class="chinese">视锥和视杆均含有连接纤毛和辅助外段。</span><span class="english">Connecting cilium and accessory outer segment are present in both rods and cones.</span></p>

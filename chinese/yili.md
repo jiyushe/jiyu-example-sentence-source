@@ -1,5 +1,7 @@
 # 一力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yili.md)
+
 <p><span class="chinese">蜡烛不能两头点，一精一力不可过分耗。</span><span class="english">You cannot burn the candle at both ends.</span></p>
 
 <p><span class="chinese">咱们一力以赴学英语。</span><span class="english">We made an all-out effort to learn English.</span></p>

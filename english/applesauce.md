@@ -1,5 +1,7 @@
 # applesauce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/applesauce.md)
+
 <p><span class="chinese">你将要跪在地上，双腿交叉坐着。</span><span class="english">You're going to be sitting crisscross applesauce.</span></p>
 
 <p><span class="chinese">而“墨水”感觉像是苹果酱看起来却像糖霜一样。</span><span class="english">The "ink" feels like applesauce and looks like icing.</span></p>

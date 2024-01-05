@@ -1,5 +1,7 @@
 # bleat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bleat.md)
+
 <p><span class="chinese">小羊咩咩叫。</span><span class="english">Lambs bleat.</span></p>
 
 <p><span class="chinese">它们唯一能做的就是咩咩叫。</span><span class="english">All they can do is bleat.</span></p>

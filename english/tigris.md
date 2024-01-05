@@ -1,5 +1,7 @@
 # tigris
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tigris.md)
+
 <p><span class="chinese">一阵微风突然拂过，在底格里斯河的河面上形成一个小漩涡。</span><span class="english">A sudden breeze over the Tigris forms a tiny whirlwind.</span></p>
 
 <p><span class="chinese">四道乃比逊、基训、底格里斯和幼发拉底河。</span><span class="english">The four headwaters are Pishon, Gihon, Tigris and Euphrates.</span></p>

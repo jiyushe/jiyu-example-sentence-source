@@ -1,5 +1,7 @@
 # 葬送
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zangsong.md)
+
 <p><span class="chinese">用长刃的殇葬送我的英华。</span><span class="english">Using long blade clasped my acs lag.</span></p>
 
 <p><span class="chinese">难道是朕将洛丹伦葬送的吗？</span><span class="english">Is it I that ruin the kingdom of Lordaeron?</span></p>

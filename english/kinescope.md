@@ -1,5 +1,7 @@
 # kinescope
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kinescope.md)
+
 <p><span class="chinese">新型显像管有旋转800线圈的功能。</span><span class="english">The new kinescope has a revolving power of 800 lines.</span></p>
 
 <p><span class="chinese">阐述了系统的基本工作原理、硬件接口的工作原理与组成以及软件流程与设计。</span><span class="english">It makes a second wind coil machine of kinescope filament be completely automatic machine.</span></p>

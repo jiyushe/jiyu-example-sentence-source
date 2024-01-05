@@ -1,5 +1,7 @@
 # hast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hast.md)
+
 <p><span class="chinese">你在这里作什么呢。</span><span class="english">What hast thou here?</span></p>
 
 <p><span class="chinese">您的业余爱好是什么？</span><span class="english">Was hast du für Hobbys?</span></p>

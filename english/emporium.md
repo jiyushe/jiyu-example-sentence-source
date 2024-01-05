@@ -1,5 +1,7 @@
 # emporium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emporium.md)
+
 <p><span class="chinese">他在一个附近的商场买了很多东西。</span><span class="english">He made a number of further purchases at a nearby emporium.</span></p>
 
 <p><span class="chinese">分析了商场部分全热交换器的应用效果。</span><span class="english">Analyses the operation effect of total heat exchangers applied to emporium area.</span></p>

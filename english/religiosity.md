@@ -1,5 +1,7 @@
 # religiosity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/religiosity.md)
+
 <p><span class="chinese">极端的虔诚是一种并不舒适的感受。</span><span class="english">Religiosity is a very uncomfortable feeling.</span></p>
 
 <p><span class="chinese">所有这一切都导致了宗教信仰的死灰复燃。</span><span class="english">All of this has led to a resurgence of religiosity.</span></p>

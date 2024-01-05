@@ -1,5 +1,7 @@
 # lipid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lipid.md)
+
 <p><span class="chinese">结论红曲具有调节血脂作用。</span><span class="english">Conclusion Monascin can adjust the serum lipid.</span></p>
 
 <p><span class="chinese">蛋白质和脂肪结合产生脂蛋白。</span><span class="english">Conjugates of protein and lipid occur as lipoproteins.</span></p>

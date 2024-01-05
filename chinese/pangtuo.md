@@ -1,5 +1,7 @@
 # 滂沱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pangtuo.md)
+
 <p><span class="chinese">要么在三更半夜时，要么在大雨滂沱中。</span><span class="english">At night. In the rain.</span></p>
 
 <p><span class="chinese">外面，是滂沱的雨。</span><span class="english">Outside, is heavy rain.</span></p>

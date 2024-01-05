@@ -1,5 +1,7 @@
 # 同道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongdao.md)
+
 <p><span class="chinese">他是一个能鼓舞人心的同道中人。</span><span class="english">He's an inspiring fellow human.</span></p>
 
 <p><span class="chinese">杰克逊的！不同道勿进！</span><span class="english">The king of pop Michael Jackson!</span></p>

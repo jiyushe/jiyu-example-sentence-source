@@ -1,5 +1,7 @@
 # 引见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinjian_1.md)
+
 <p><span class="chinese">“我有些坏消息，”他说，“我无法向你引见阿纳托利。”</span><span class="english">"I have some bad news, " he said.</span></p>
 
 <p><span class="chinese">如果你给我作引见，我愿意加入。</span><span class="english">I'd like to stand in if you introduce me.</span></p>

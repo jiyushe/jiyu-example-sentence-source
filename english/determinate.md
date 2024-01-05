@@ -1,5 +1,7 @@
 # determinate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/determinate.md)
+
 <p><span class="chinese">请对该问题给我一个确定的回答。</span><span class="english">Give me a determinate answer to the problem.</span></p>
 
 <p><span class="chinese">花序轴“之”字形弯曲的有限花序。</span><span class="english">A determinate cymose inflorescence with a zigzag rachis.</span></p>

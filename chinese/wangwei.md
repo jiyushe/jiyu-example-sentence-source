@@ -1,5 +1,7 @@
 # 王位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangwei.md)
+
 <p><span class="chinese">她拒不接受王位。</span><span class="english">She refused the crown.</span></p>
 
 <p><span class="chinese">那青年觊觎王位。</span><span class="english">He pretended to the throne.</span></p>

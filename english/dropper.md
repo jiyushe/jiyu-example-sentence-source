@@ -1,5 +1,7 @@
 # dropper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dropper.md)
+
 <p><span class="chinese">你现在有一个滴管飞成立。</span><span class="english">You now have a dropper fly set up.</span></p>
 
 <p><span class="chinese">睁大眼是为谷歌浏览器以及谷歌开源项目而造的插件。</span><span class="english">Eye Dropper is extension for Google Chrome and Chromium.</span></p>

@@ -1,5 +1,7 @@
 # 中国人民政治协商会议
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongguorenminzhengzhixieshanghuiyi.md)
+
 <p><span class="chinese">中国人民政治协商会议全国委员会的全体会议是中国政协最高层次的协商形式。</span><span class="english">Plenary session is regarded as the highest level of consultation form of the CPPCC.</span></p>
 
 <p><span class="chinese">中国人民政治协商会议委员张晓梅支持改革。</span><span class="english">Zhang Xiaomei, a member of the Chinese People's Political Consultative Conference, supports reform.</span></p>

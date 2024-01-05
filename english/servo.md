@@ -1,5 +1,7 @@
 # servo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/servo.md)
+
 <p><span class="chinese">拆下纵向互锁伺服电机。</span><span class="english">Remove longitudinal interlock servo motor.</span></p>
 
 <p><span class="chinese">伺服放大器的直流电动机小康证明。</span><span class="english">Well-proven servo amplifiers for DC motors.</span></p>

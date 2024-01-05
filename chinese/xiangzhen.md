@@ -1,5 +1,7 @@
 # 乡镇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangzhen.md)
+
 <p><span class="chinese">我们必须对乡镇经济进行重组。</span><span class="english">We must retool the town's economy.</span></p>
 
 <p><span class="chinese">您别看现在的樟林是一个内陆乡镇。</span><span class="english">At present Zhanglin is an inland town.</span></p>

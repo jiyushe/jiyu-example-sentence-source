@@ -1,5 +1,7 @@
 # 前方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianfang.md)
+
 <p><span class="chinese">⑧它在大桥街的右前方。</span><span class="english">It's Bridge Street.</span></p>
 
 <p><span class="chinese">前方是山脚。</span><span class="english">The mountains are in front.</span></p>

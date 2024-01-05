@@ -1,5 +1,7 @@
 # bacilli
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bacilli.md)
+
 <p><span class="chinese">蜡样芽胞杆菌可导致咽部感染。</span><span class="english">Conclusion Cerea spore bacilli can cause swallowing infection.</span></p>
 
 <p><span class="chinese">但是，感染结核杆菌的人不一定患病。</span><span class="english">However, not all people infected with TB bacilli will become sick.</span></p>

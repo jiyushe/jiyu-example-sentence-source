@@ -1,5 +1,7 @@
 # reverent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reverent.md)
+
 <p><span class="chinese">他恭敬地听老师讲课。</span><span class="english">He gave reverent attention to the teacher.</span></p>
 
 <p><span class="chinese">这时的阳子其态度是挺恭敬的。</span><span class="english">Then Yangzi's attitude is fairly reverent.</span></p>

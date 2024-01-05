@@ -1,5 +1,7 @@
 # microlens
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microlens.md)
+
 <p><span class="chinese">讨论了自聚焦平面微透镜阵列的制作工艺及其基本特性。</span><span class="english">The fabrication and characterization of gradient index planar microlens array is discussed.</span></p>
 
 <p><span class="chinese">此即，每一光电二极体PDL与PDS都会接收到面积相同之微透镜元件710-A传来的光线。</span><span class="english">That is, each PDL and PDS receives light from a microlens element 710-A having the same area.</span></p>

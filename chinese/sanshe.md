@@ -1,5 +1,7 @@
 # 散射
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanshe.md)
+
 <p><span class="chinese">场是散射状的。</span><span class="english">The field is radial.</span></p>
 
 <p><span class="chinese">这就是散射粒子。</span><span class="english">This is the scattered particle.</span></p>

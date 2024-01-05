@@ -1,5 +1,7 @@
 # selvedge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/selvedge.md)
+
 <p><span class="chinese">而且此三件幡的任何一件，布的织边在画的下端。</span><span class="english">Finally, all three of these banners show a selvedge on the lower end.</span></p>
 
 <p><span class="chinese">描述了由瑞士贝宁格公司开发的丝光处理中布边增厚的解决方案。</span><span class="english">The solutions of selvedge thickening during mercerizing developed by Benniger AG are described.</span></p>

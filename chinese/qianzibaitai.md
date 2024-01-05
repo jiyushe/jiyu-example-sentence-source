@@ -1,5 +1,7 @@
 # 千姿百态
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianzibaitai.md)
+
 <p><span class="chinese">这个问题的答案一定是千姿百态的。</span><span class="english">The answers have to be colorful.</span></p>
 
 <p><span class="chinese">人们在水里表现出千姿百态。</span><span class="english">People do beautiful things in the water.</span></p>

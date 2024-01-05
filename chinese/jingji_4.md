@@ -1,5 +1,7 @@
 # 静寂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingji_4.md)
+
 <p><span class="chinese">想跟静寂私奔？</span><span class="english">Want to elope with hush?</span></p>
 
 <p><span class="chinese">鸿渐知道这是暴风雨前的静寂。</span><span class="english">It was the lull before the storm.</span></p>

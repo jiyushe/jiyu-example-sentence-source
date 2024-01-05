@@ -1,5 +1,7 @@
 # mike
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mike.md)
+
 <p><span class="chinese">这是迈克。</span><span class="english">Thiss is Mike.</span></p>
 
 <p><span class="chinese">把话筒给这里的人</span><span class="english">Mike back here.</span></p>

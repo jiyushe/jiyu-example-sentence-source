@@ -1,5 +1,7 @@
 # 他年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanian.md)
+
 <p><span class="chinese">他的性格跃然显现于他年写的文章中。</span><span class="english">His personality comes through with in his writing.</span></p>
 
 <p><span class="chinese">纳达尔从头承受拜候，说他年夜腿抽筋了。</span><span class="english">Nadal returned to announce he felt cramp in his thigh.</span></p>

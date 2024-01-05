@@ -1,5 +1,7 @@
 # clod
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clod.md)
+
 <p><span class="chinese">由理生是一块泥土。</span><span class="english">Urizen is a clod of clay!</span></p>
 
 <p><span class="chinese">那里面是一个巨大的土块。</span><span class="english">Inside is this giant dirt clod.</span></p>

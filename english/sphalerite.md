@@ -1,5 +1,7 @@
 # sphalerite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sphalerite.md)
+
 <p><span class="chinese">闪锌矿为主要的矿石矿物。</span><span class="english">Sphalerite is the main ore minerals.</span></p>
 
 <p><span class="chinese">矿体包含黄铁矿，黄铜矿和闪锌矿。</span><span class="english">The ore body consists of pyrite, chalcopyrite and sphalerite.</span></p>

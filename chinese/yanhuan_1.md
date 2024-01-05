@@ -1,5 +1,7 @@
 # 言欢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanhuan_1.md)
+
 <p><span class="chinese">希望有一天你可以再和他们把酒言欢。</span><span class="english">I hope one day you'll all be able to chew the fat together.</span></p>
 
 <p><span class="chinese">就在与你把酒言欢之际，你也不知道对方的心思己经想到那儿去了。</span><span class="english">You don't know what your companion's mind is even in a joyful feast.</span></p>

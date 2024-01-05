@@ -1,5 +1,7 @@
 # unharmed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unharmed.md)
+
 <p><span class="chinese">他们毫发无伤的脱离了。</span><span class="english">They escaped unharmed.</span></p>
 
 <p><span class="chinese">本来我应该没事，但是我的刀没以前快。</span><span class="english">This is me. I should've been unharmed.</span></p>

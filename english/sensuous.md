@@ -1,5 +1,7 @@
 # sensuous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sensuous.md)
+
 <p><span class="chinese">它已经失去了所有感官的实在性。</span><span class="english">It has lost all sensuous reality.</span></p>
 
 <p><span class="chinese">你感到自己性感、激情。</span><span class="english">You feel sexy, sensuous and passionate.</span></p>

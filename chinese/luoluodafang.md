@@ -1,5 +1,7 @@
 # 落落大方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luoluodafang.md)
+
 <p><span class="chinese">在客人面前要落落大方，不要畏惧退缩不敢见人。</span><span class="english">Hold natural and graceful, don't hold back before the guests.</span></p>
 
 <p><span class="chinese">在失望中仍流露出落落大方的风范是有风度的表现。</span><span class="english">Being gracious even in disappointment is a sign of good manners.</span></p>

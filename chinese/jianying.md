@@ -1,5 +1,7 @@
 # 兼营
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianying.md)
+
 <p><span class="chinese">同时兼营园艺花卉和健康食品等项目。</span><span class="english">While the corner of horticulture and health food items.</span></p>
 
 <p><span class="chinese">茶叶销售实现连锁经营，批零兼营。</span><span class="english">Tea sales to achieve chain operations, Piling and has sold.</span></p>

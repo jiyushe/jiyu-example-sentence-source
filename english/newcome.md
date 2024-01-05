@@ -1,5 +1,7 @@
 # newcome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/newcome.md)
+
 <p><span class="chinese">我是新来的，希望大家多多关照啊！</span><span class="english">I am newcome. nice to meet to you.</span></p>
 
 <p><span class="chinese">近来，杰克对新来的姑娘表现出热心。</span><span class="english">Jack has been enthusing over the newcome girl recently.</span></p>

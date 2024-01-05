@@ -1,5 +1,7 @@
 # absorbency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/absorbency.md)
+
 <p><span class="chinese">穿着舒适，可更换一次性的衬里重复使用。</span><span class="english">Features comfort to reusables with absorbency of disposables.</span></p>
 
 <p><span class="chinese">覆盖范围则取决于木料的吸收力和地板的外观。</span><span class="english">Coverage will vary with absorbency of timber and profile of deck.</span></p>

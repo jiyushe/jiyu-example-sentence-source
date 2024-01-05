@@ -1,5 +1,7 @@
 # staccato
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/staccato.md)
+
 <p><span class="chinese">这一乐句要奏成断音。</span><span class="english">Play this phrase staccato.</span></p>
 
 <p><span class="chinese">他一顿一顿地大声下了几道命令。</span><span class="english">He shouted a series of staccato orders.</span></p>

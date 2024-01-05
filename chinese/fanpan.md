@@ -1,5 +1,7 @@
 # 反叛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanpan.md)
+
 <p><span class="chinese">这个孩子是在反叛。</span><span class="english">The child was rebelling.</span></p>
 
 <p><span class="chinese">这三个男人属于胡图族反叛分子。</span><span class="english">The three men were rebel Hutu.</span></p>

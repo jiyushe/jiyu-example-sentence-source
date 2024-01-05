@@ -1,5 +1,7 @@
 # 小五金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaowujin.md)
+
 <p><span class="chinese">也可以代加工一些小五金配件！</span><span class="english">Can also be processing hardware accessories!</span></p>
 
 <p><span class="chinese">我们对你们的小五金很感兴趣。</span><span class="english">We are very much interested in your hardware.</span></p>

@@ -1,5 +1,7 @@
 # murmur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/murmur.md)
+
 <p><span class="chinese">你有过心脏杂音吗？</span><span class="english">Have you ever had a murmur?</span></p>
 
 <p><span class="chinese">低语声提高为吼叫声。</span><span class="english">The murmur swelled into a roar.</span></p>

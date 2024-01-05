@@ -1,5 +1,7 @@
 # 赊销
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shexiao.md)
+
 <p><span class="chinese">我们不赊销。</span><span class="english">We do not sell on credit.</span></p>
 
 <p><span class="chinese">审核各餐厅现销、赊销几其他各种收入。</span><span class="english">Audit restaurant debts, costs and other incomes.</span></p>

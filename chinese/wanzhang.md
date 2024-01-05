@@ -1,5 +1,7 @@
 # 万丈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanzhang.md)
+
 <p><span class="chinese">只有心存梦想，方能豪情万丈。</span><span class="english">Only has dream can has lofty sentiments.</span></p>
 
 <p><span class="chinese">高楼万丈平地起。</span><span class="english">High buildings rise from the flat ground.</span></p>

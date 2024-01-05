@@ -1,5 +1,7 @@
 # fructification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fructification.md)
+
 <p><span class="chinese">果实矩圆形。</span><span class="english">Fructification quadrature circle.</span></p>
 
 <p><span class="chinese">果实具梳状细条纹。</span><span class="english">Fructification provides pectination pinstripe.</span></p>

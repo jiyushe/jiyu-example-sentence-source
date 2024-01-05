@@ -1,5 +1,7 @@
 # hydrophile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrophile.md)
+
 <p><span class="chinese">岩石颗粒的润湿性向亲水转化。</span><span class="english">The wettability of rock trended to hydrophile.</span></p>
 
 <p><span class="chinese">目的制备神衰果素亲水凝胶缓释骨架片。</span><span class="english">OBJECTIVE To prepare the helicid hydrophile matrix tablet.</span></p>

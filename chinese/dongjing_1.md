@@ -1,5 +1,7 @@
 # 东经
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongjing_1.md)
+
 <p><span class="chinese">北纬34.07.080东经70.13.209。</span><span class="english">North 34.07.080 by East 70.13.209.</span></p>
 
 <p><span class="chinese">这个镇位于东经二十四度。</span><span class="english">The town is at longitude 24 degrees east.</span></p>

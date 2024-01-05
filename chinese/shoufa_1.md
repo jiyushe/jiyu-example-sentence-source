@@ -1,5 +1,7 @@
 # 守法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoufa_1.md)
+
 <p><span class="chinese">人人都必须守法。</span><span class="english">Everybody must keep the law.</span></p>
 
 <p><span class="chinese">他素来守法。</span><span class="english">He always abides by the law.</span></p>

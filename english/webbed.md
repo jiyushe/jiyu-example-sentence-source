@@ -1,5 +1,7 @@
 # webbed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/webbed.md)
+
 <p><span class="chinese">蹼状的手指和脚趾长出来了。</span><span class="english">Webbed fingers and toes are sprouting.</span></p>
 
 <p><span class="chinese">鼯猴的趾间甚至都有膜。</span><span class="english">Colugosare even webbed between their toes.</span></p>

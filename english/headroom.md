@@ -1,5 +1,7 @@
 # headroom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/headroom.md)
+
 <p><span class="chinese">这些国家目前有一些借款的余地。</span><span class="english">Countries now have some headroom to borrow.</span></p>
 
 <p><span class="chinese">海图室有9英尺乘以11英尺大小，还有高达5英尺的充足的净空高度。</span><span class="english">The chart room was 9 feet by 11 feet and had 5 feet of generous headroom.</span></p>

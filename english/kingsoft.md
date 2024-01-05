@@ -1,5 +1,7 @@
 # kingsoft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kingsoft.md)
+
 <p><span class="chinese">我听说过金山书信通。</span><span class="english">I have heard about Kingsoft MailEasy.</span></p>
 
 <p><span class="chinese">金山打字通确实很易用。</span><span class="english">Kingsoft TypeEasy is really easy to use.</span></p>

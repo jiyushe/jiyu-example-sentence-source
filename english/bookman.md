@@ -1,5 +1,7 @@
 # bookman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bookman.md)
+
 <p><span class="chinese">如何利用它，工匠与文人一同摸索。</span><span class="english">How to use it, craftsman and bookman fumble together.</span></p>
 
 <p><span class="chinese">陈年的一位好友曾这样评价他，“典型的文人，典型的商人。”</span><span class="english">An age good friend ever evaluated him so, "Typical bookman , typical businessman."</span></p>

@@ -1,5 +1,7 @@
 # TNT
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tnt.md)
+
 <p><span class="chinese">棍状TNT炸药被用作雷管。</span><span class="english">TNT sticks are used as detonators.</span></p>
 
 <p><span class="chinese">是我们共同完成的，也是tnt电台的一部分。</span><span class="english">We allare doing it together, and TNT is part of that.</span></p>

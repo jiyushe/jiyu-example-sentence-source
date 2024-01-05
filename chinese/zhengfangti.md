@@ -1,5 +1,7 @@
 # 正方体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengfangti.md)
+
 <p><span class="chinese">长方体、正方体、圆柱体。</span><span class="english">Cuboid, cube and cylinder.</span></p>
 
 <p><span class="chinese">今天我们学习长方体、正方体的认识。</span><span class="english">Today we'll learn about cuboids and cubes.</span></p>

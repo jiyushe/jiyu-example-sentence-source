@@ -1,5 +1,7 @@
 # aesthetical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aesthetical.md)
+
 <p><span class="chinese">正是这种兼容并蓄，加强了它作为观赏之楼的审美内涵。</span><span class="english">The aesthetical meaning as an outlook was enhanced by the combination.</span></p>
 
 <p><span class="chinese">最后，解决了数字化文庙的审美重构问题。</span><span class="english">The problem of aesthetical reconstruction of Confucian Temple is solved.</span></p>

@@ -1,5 +1,7 @@
 # 日期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/riqi.md)
+
 <p><span class="chinese">开始和结束日期.</span><span class="english">Start and end date.</span></p>
 
 <p><span class="chinese">为什么截止日期会是这样呢？</span><span class="english">Why the cutoff date?</span></p>

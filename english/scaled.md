@@ -1,5 +1,7 @@
 # scaled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scaled.md)
+
 <p><span class="chinese">她在办公室里绘制建筑图。</span><span class="english">She scaled the building in her office.</span></p>
 
 <p><span class="chinese">保护森林计划现在已经准备扩大规模。</span><span class="english">Bolsa Floresta is now ready to be scaled up.</span></p>

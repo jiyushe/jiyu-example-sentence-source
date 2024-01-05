@@ -1,5 +1,7 @@
 # 婚龄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hunling.md)
+
 <p><span class="chinese">她还没有到婚龄。</span><span class="english">She is not of marriageable age.</span></p>
 
 <p><span class="chinese">相识我老公时我们都已经是婚龄年岁了。</span><span class="english">Know my husband when we are of marriageable age.</span></p>

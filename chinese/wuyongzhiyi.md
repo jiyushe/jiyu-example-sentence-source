@@ -1,5 +1,7 @@
 # 无庸置疑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuyongzhiyi.md)
+
 <p><span class="chinese">里根的成功是无庸置疑的。</span><span class="english">Reagan's success is not in doubt.</span></p>
 
 <p><span class="chinese">而此时对斯特里克林来说，关键时刻已经到了，无庸置疑。</span><span class="english">For Stricklin, the moment had arrived.</span></p>

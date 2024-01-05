@@ -1,5 +1,7 @@
 # invader
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invader.md)
+
 <p><span class="chinese">你将成为一个隐私侵犯者。</span><span class="english">You will be a privacy invader.</span></p>
 
 <p><span class="chinese">入侵者蹂躏了整个城镇。</span><span class="english">The invader de-vastated the whole town.</span></p>

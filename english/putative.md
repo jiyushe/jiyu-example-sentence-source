@@ -1,5 +1,7 @@
 # putative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/putative.md)
+
 <p><span class="chinese">现在我们要填充分子状态,对于假定的He2来说。</span><span class="english">Now let's go and fill the molecular states for the putative He2.</span></p>
 
 <p><span class="chinese">值得注意的是3-末端的非翻译区相对较长。</span><span class="english">Surprisingly, the 3 putative untranslated regions were relatively long.</span></p>

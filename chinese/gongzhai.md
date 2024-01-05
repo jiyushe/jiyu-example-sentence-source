@@ -1,5 +1,7 @@
 # 公债
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongzhai.md)
+
 <p><span class="chinese">"这打压公债价格,"他说道.</span><span class="english">"That pressured bond prices," he said.</span></p>
 
 <p><span class="chinese">他们热心购买公债。</span><span class="english">They are eager to buy their government bonds.</span></p>

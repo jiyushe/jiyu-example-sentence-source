@@ -1,5 +1,7 @@
 # melodramatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/melodramatic.md)
+
 <p><span class="chinese">我的家人可真能夸张。</span><span class="english">My family can be very melodramatic.</span></p>
 
 <p><span class="chinese">年轻人谈恋爱都很爱演。</span><span class="english">Young love. Always so melodramatic.</span></p>

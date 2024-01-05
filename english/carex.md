@@ -1,5 +1,7 @@
 # carex
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carex.md)
+
 <p><span class="chinese">关于苔草属寸草组的分类学讨论。</span><span class="english">A taxonomic discussion on genus Carex L. sect. Boernera.</span></p>
 
 <p><span class="chinese">就整个泥炭地来说，泥炭地优势种植物为臌囊苔草。</span><span class="english">For the whole peatland, Carex schmidt ii is dominant species.</span></p>

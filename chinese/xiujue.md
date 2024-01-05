@@ -1,5 +1,7 @@
 # 嗅觉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiujue.md)
+
 <p><span class="chinese">狗的嗅觉很灵。</span><span class="english">A dog has a good nose.</span></p>
 
 <p><span class="chinese">狗会靠其嗅觉而找到贼。</span><span class="english">The dog will smell out a thief.</span></p>

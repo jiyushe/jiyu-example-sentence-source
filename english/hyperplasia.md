@@ -1,5 +1,7 @@
 # hyperplasia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyperplasia.md)
+
 <p><span class="chinese">骨质增生能够治疗好吗？</span><span class="english">Can be bone hyperplasia treated?</span></p>
 
 <p><span class="chinese">治疗骨质增生的方法？</span><span class="english">Treat the method of bone hyperplasia?</span></p>

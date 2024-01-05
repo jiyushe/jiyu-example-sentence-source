@@ -1,5 +1,7 @@
 # 夏至
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiazhi_1.md)
+
 <p><span class="chinese">2011年的春秋分和冬夏至</span><span class="english">Equinoxes and Solstices of 2011</span></p>
 
 <p><span class="chinese">明天就交夏至了。</span><span class="english">Tomorrow will be the Summer Solstice.</span></p>

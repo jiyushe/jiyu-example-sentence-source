@@ -1,5 +1,7 @@
 # reapply
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reapply.md)
+
 <p><span class="chinese">有些人飞回家重新申请。</span><span class="english">Some fly home to reapply.</span></p>
 
 <p><span class="chinese">随后我会重新应用那些更改。</span><span class="english">Then I reapply those changes.</span></p>

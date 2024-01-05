@@ -1,5 +1,7 @@
 # exorcise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exorcise.md)
+
 <p><span class="chinese">我们刚刚将魔女降服。</span><span class="english">We just exorcise the sorceress.</span></p>
 
 <p><span class="chinese">但是首先日本必须赶走昔日的心魔。</span><span class="english">But first Japan must exorcise the demons of its past.</span></p>

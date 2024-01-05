@@ -1,5 +1,7 @@
 # transcultural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transcultural.md)
+
 <p><span class="chinese">翻译是一种跨文化的活动。</span><span class="english">Translation is a kind of transcultural activity.</span></p>
 
 <p><span class="chinese">他是真正跨文化的人物，一个认识做人之仁的汉子。</span><span class="english">He was a truly transcultural person, and a man who had realized his humanity.</span></p>

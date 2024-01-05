@@ -1,5 +1,7 @@
 # 以身作则
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yishenzuoze.md)
+
 <p><span class="chinese">我以身作则。</span><span class="english">Personally I try to lead by example.</span></p>
 
 <p><span class="chinese">我们，以身作则，不会像你们一样生活。</span><span class="english">We, by example, don't live like you do.</span></p>

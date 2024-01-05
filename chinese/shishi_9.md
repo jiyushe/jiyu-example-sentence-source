@@ -1,5 +1,7 @@
 # 施事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishi_9.md)
+
 <p><span class="chinese">少数被动标记后不出现施事。</span><span class="english">Some passive markers are not followed by the agent.</span></p>
 
 <p><span class="chinese">非名词性词语在一定条件下也能充当施事。</span><span class="english">Under certain conditions, non-nominal words can also act as agents.</span></p>

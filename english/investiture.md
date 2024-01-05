@@ -1,5 +1,7 @@
 # investiture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/investiture.md)
+
 <p><span class="chinese">法律授予权利的正当依据，可以从这四种主体的角度得到论证。</span><span class="english">The justness reason of investiture of law could be proved from the four views.</span></p>
 
 <p><span class="chinese">他的妻子、流行乐坛巨星维多利亚和祖父母陪他参加了授勋仪式。</span><span class="english">He was accompanied to the investiture by his pop star wife Victoria and his grandparents.</span></p>

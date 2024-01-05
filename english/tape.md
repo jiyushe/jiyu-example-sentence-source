@@ -1,5 +1,7 @@
 # tape 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tape.md)
+
 <p><span class="chinese">它是一个修正带。</span><span class="english">It's a tape.</span></p>
 
 <p><span class="chinese">那是一盘磁带吗？</span><span class="english">Is that a tape?</span></p>

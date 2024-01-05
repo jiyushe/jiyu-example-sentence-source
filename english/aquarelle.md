@@ -1,5 +1,7 @@
 # aquarelle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aquarelle.md)
+
 <p><span class="chinese">好一幅清新水彩画。</span><span class="english">Good a pure and fresh aquarelle.</span></p>
 
 <p><span class="chinese">学习如何绘制在这个自由录像艺术课使用的船只水彩画水彩铅笔画。</span><span class="english">Learn how to draw boats using aquarelle pencils in your watercolor painting in this free video art lesson.</span></p>

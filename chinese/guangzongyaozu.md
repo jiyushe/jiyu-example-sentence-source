@@ -1,5 +1,7 @@
 # 光宗耀祖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guangzongyaozu.md)
+
 <p><span class="chinese">我们还指望你光宗耀祖呢。</span><span class="english">We're counting on you to uphold the family honor.</span></p>
 
 <p><span class="chinese">而是为了“考大学，光宗耀祖，找好工作”。</span><span class="english">But in order to "take an examination of university, families, to find a good job".</span></p>

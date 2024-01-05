@@ -1,5 +1,7 @@
 # 短号
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duanhao.md)
+
 <p><span class="chinese">酗酒的小成本会计师和他那吹短号的兄弟。</span><span class="english">The drunken little costdrawer and his brother, the cornet player.</span></p>
 
 <p><span class="chinese">我觉得她根本不在乎乐队里那个吹短号的原来是个古董商。</span><span class="english">And I don't think she cared that the cornet player was actually an antiques dealer.</span></p>

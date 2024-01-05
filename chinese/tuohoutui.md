@@ -1,5 +1,7 @@
 # 拖后腿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuohoutui.md)
+
 <p><span class="chinese">在这个进程原则中有一个拖后腿的因素。</span><span class="english">There is a dark side to the progress principle.</span></p>
 
 <p><span class="chinese">你的生物钟真的能帮助你的工作或者拖后腿吗？</span><span class="english">Can your biorhythms actually make or break your career?</span></p>

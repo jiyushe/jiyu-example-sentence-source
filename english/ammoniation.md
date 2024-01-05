@@ -1,5 +1,7 @@
 # ammoniation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ammoniation.md)
+
 <p><span class="chinese">本文就不同浓度的钡对天然水的生化需氧过程、氨化及亚硝化过程的影响进行了探讨。</span><span class="english">This paper discussed the influence on the biochemical oxygen demand, ammoniation and nitrosation by barium of different levels in water.</span></p>
 
 <p><span class="chinese">讨论了药业生产中将氨化反应由间歇操作改为管道化连续操作的可行性。</span><span class="english">The feasibility of changing discontinuous operation to pipelization continuous operation in ammoniation in medical industry was discussed.</span></p>

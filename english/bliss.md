@@ -1,5 +1,7 @@
 # bliss
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bliss.md)
+
 <p><span class="chinese">每个波总福佑。</span><span class="english">Each wave total bliss.</span></p>
 
 <p><span class="chinese">布利斯陆军基地10英里。</span><span class="english">Bliss Army Base is 10 miles.</span></p>

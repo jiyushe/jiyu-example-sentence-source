@@ -1,5 +1,7 @@
 # scuttlebutt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scuttlebutt.md)
+
 <p><span class="chinese">我听了很多关于食物短缺的闲话。</span><span class="english">Now I've heard a lot of scuttlebutt about a food shortage.</span></p>
 
 <p><span class="chinese">办公室里有谣言说汤姆要被炒鱿鱼了。</span><span class="english">The scuttlebutt in the office is that Tom is going to be fired.</span></p>

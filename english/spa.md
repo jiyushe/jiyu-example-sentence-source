@@ -1,5 +1,7 @@
 # spa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spa.md)
+
 <p><span class="chinese">那时我在一个温泉浴场。</span><span class="english">I was just in a spa.</span></p>
 
 <p><span class="chinese">你好，这是温泉疗养地吗？</span><span class="english">Hello, is that the spa?</span></p>

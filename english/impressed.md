@@ -1,5 +1,7 @@
 # impressed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impressed.md)
+
 <p><span class="chinese">我很吃惊。</span><span class="english">I'm impressed.</span></p>
 
 <p><span class="chinese">临走时，我的印象很深刻。</span><span class="english">I left impressed.</span></p>

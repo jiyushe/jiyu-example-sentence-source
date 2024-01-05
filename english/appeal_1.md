@@ -1,5 +1,7 @@
 # appeal 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appeal_1.md)
+
 <p><span class="chinese">我要上告于凯撒。</span><span class="english">I appeal unto Caesar.</span></p>
 
 <p><span class="chinese">Liya具有全球吸引力。</span><span class="english">Liya has a global appeal.</span></p>

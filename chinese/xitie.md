@@ -1,5 +1,7 @@
 # 喜帖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xitie.md)
+
 <p><span class="chinese">你有没有收到喜帖?。</span><span class="english">Did you receive invitation?</span></p>
 
 <p><span class="chinese">我没收到过他的结婚喜帖，所以我没去。</span><span class="english">I never received his wedding invitation so I didn't go.</span></p>

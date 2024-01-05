@@ -1,5 +1,7 @@
 # lope
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lope.md)
+
 <p><span class="chinese">你知道我能大步慢跑吗?。</span><span class="english">Do you know my lope?</span></p>
 
 <p><span class="chinese">野兔和家兔有何不同?。</span><span class="english">The hares and rabbits lope away.</span></p>

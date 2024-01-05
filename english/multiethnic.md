@@ -1,5 +1,7 @@
 # multiethnic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multiethnic.md)
+
 <p><span class="chinese">上海滩多民族演员与能源嬉闹。</span><span class="english">The multiethnic cast frolics on the beach with energy.</span></p>
 
 <p><span class="chinese">你喜欢住在一个迅速膨胀的世界中吗?。</span><span class="english">Do you like living in an increasingly multiethnic world?</span></p>

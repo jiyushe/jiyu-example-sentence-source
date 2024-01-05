@@ -1,5 +1,7 @@
 # tight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tight.md)
+
 <p><span class="chinese">抱紧我。</span><span class="english">Hold me tight.</span></p>
 
 <p><span class="chinese">保持缆绳绷紧。</span><span class="english">Keep towline tight.</span></p>

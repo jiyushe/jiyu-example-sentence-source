@@ -1,5 +1,7 @@
 # 三废
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanfei.md)
+
 <p><span class="chinese">粉煤灰、糟、泥是是工业三废中具代表性的三种废弃物。</span><span class="english">Fly ash, lees and sludge are three representational castoffs from industry.</span></p>
 
 <p><span class="chinese">粉煤灰、糟、泥是是工业三废中具代表性的三种废弃物。</span><span class="english">Fly ash , lees and sludge are three representational castoffs from industry.</span></p>

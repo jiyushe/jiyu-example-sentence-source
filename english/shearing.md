@@ -1,5 +1,7 @@
 # shearing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shearing.md)
+
 <p><span class="chinese">那农夫正在给他的羊剪毛。</span><span class="english">The farmer is shearing his sheep.</span></p>
 
 <p><span class="chinese">剪完羊毛后，我去看你。</span><span class="english">I'll go to see you after shearing.</span></p>

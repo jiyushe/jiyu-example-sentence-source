@@ -1,5 +1,7 @@
 # discuss 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discuss.md)
+
 <p><span class="chinese">让我们来讨论。</span><span class="english">Let’s discuss.</span></p>
 
 <p><span class="chinese">分小组讨论。</span><span class="english">Discuss in groups first.</span></p>

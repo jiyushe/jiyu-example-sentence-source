@@ -1,5 +1,7 @@
 # 同岁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongsui.md)
+
 <p><span class="chinese">我与你同岁。</span><span class="english">I'm of an age with you.</span></p>
 
 <p><span class="chinese">他们几乎同岁。</span><span class="english">They are nearly of an age.</span></p>

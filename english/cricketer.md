@@ -1,5 +1,7 @@
 # cricketer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cricketer.md)
+
 <p><span class="chinese">我的儿子有成为一名板球手的希望。</span><span class="english">My son is showing great promise as a cricketer.</span></p>
 
 <p><span class="chinese">我的儿子有成为一名板球手的培养前途。</span><span class="english">My son is showing great promise as a cricketer.</span></p>

@@ -1,5 +1,7 @@
 # cowrie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cowrie.md)
+
 <p><span class="chinese">其他船舶。现在，你看，当你研究人员拍摄了贝。</span><span class="english">Other ships. Now, you see, when you fellows were shooting up the Cowrie.</span></p>
 
 <p><span class="chinese">缅甸安达曼群岛上，一位莫肯族人手里展示了两枚大货贝。</span><span class="english">Moken tribesman in Myanmar's Andaman Islands displays two large cowrie shells.</span></p>

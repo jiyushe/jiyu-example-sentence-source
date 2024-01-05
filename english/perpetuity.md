@@ -1,5 +1,7 @@
 # perpetuity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perpetuity.md)
+
 <p><span class="chinese">英国正式永久占领香港。</span><span class="english">Britain’s seizure of Hong Kong was formalised, in perpetuity.</span></p>
 
 <p><span class="chinese">其中最简单的东西叫做公债或叫永续年金</span><span class="english">The simplest thing is something called a consol or perpetuity.</span></p>

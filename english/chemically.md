@@ -1,5 +1,7 @@
 # chemically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chemically.md)
+
 <p><span class="chinese">它们的化学性质不活泼。</span><span class="english">They are chemically inert.</span></p>
 
 <p><span class="chinese">煤炭在化学上与金刚石属于同类。</span><span class="english">Coal is chemically allied to diamond.</span></p>

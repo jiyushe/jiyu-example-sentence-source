@@ -1,5 +1,7 @@
 # clearer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clearer.md)
+
 <p><span class="chinese">哪个句子比较清楚?。</span><span class="english">Which sentence is clearer?</span></p>
 
 <p><span class="chinese">对于爱情而言，资料更为详实。</span><span class="english">In love, the data is even clearer.</span></p>

@@ -1,5 +1,7 @@
 # sangreal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sangreal.md)
+
 <p><span class="chinese">我只是想要看一看耶稣和圣杯。</span><span class="english">I just wanna see the Jesus and the Sangreal.</span></p>
 
 <p><span class="chinese">有哪个历史学家不知道一点儿关于圣杯的传奇呢？</span><span class="english">Which historian doesn't know a little of the legend of Sangreal?</span></p>

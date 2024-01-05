@@ -1,5 +1,7 @@
 # ventricle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ventricle.md)
+
 <p><span class="chinese">而右心室也可能会受到一定影响。</span><span class="english">The right ventricle also may be affected.</span></p>
 
 <p><span class="chinese">左室是心脏完成泵血功能的主要腔室。</span><span class="english">The left ventricle is the main cavity for pumping blood.</span></p>

@@ -1,5 +1,7 @@
 # clara
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clara.md)
+
 <p><span class="chinese">克莱拉?埃莉斯</span><span class="english">Clara Elise.</span></p>
 
 <p><span class="chinese">克拉拉就这样结婚了。</span><span class="english">So. Clara got married.</span></p>

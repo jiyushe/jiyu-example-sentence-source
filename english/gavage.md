@@ -1,5 +1,7 @@
 # gavage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gavage.md)
+
 <p><span class="chinese">目的改良豚鼠灌胃给药的方法。</span><span class="english">Objective To modify the method of gavage administration in guinea pigs.</span></p>
 
 <p><span class="chinese">目的探讨新生儿管饲术的护理特点及效果。</span><span class="english">Objective To explore the feature and effects of nursing on gavage in neonate.</span></p>

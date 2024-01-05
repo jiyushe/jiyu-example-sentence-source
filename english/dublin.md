@@ -1,5 +1,7 @@
 # dublin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dublin.md)
+
 <p><span class="chinese">一路坎坷，赴都柏林。</span><span class="english">The rocky road to Dublin.</span></p>
 
 <p><span class="chinese">马克·辛普森在都柏林为大家报道。</span><span class="english">Here is Mark Simpson in Dublin.</span></p>

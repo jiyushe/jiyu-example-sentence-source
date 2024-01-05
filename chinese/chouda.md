@@ -1,5 +1,7 @@
 # 酬答
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chouda.md)
+
 <p><span class="chinese">神但愿我们酬答他，在于他送给我们的花朵，而不在于太阳和地盘。</span><span class="english">God expects answers for the flowers he sends us, not for the sun the earth.</span></p>
 
 <p><span class="chinese">神企图我们酬答他，在于他收给我们的花朵，而不在于太阳和地盘。</span><span class="english">God expects answers for the flowers he sends us not for the sun the epaintingh.</span></p>

@@ -1,5 +1,7 @@
 # gynecomastia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gynecomastia.md)
+
 <p><span class="chinese">如果这个症状变成了一个困扰的话，则可以向医生进行咨询。</span><span class="english">If a guy finds his gynecomastia is bothering him, he can talk to a doctor about it.</span></p>
 
 <p><span class="chinese">男性乳腺发育可由肝硬化、睾丸间质细胞瘤或药物引起。</span><span class="english">Gynecomastia may occur with cirrhosis of liver, Leydig cell tumors of testis, or with drugs.</span></p>

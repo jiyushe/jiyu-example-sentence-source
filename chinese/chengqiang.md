@@ -1,5 +1,7 @@
 # 逞强
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengqiang.md)
+
 <p><span class="chinese">所以你逞强。</span><span class="english">So you overexert.</span></p>
 
 <p><span class="chinese">别逞强，你打不过他。</span><span class="english">Don't heroize,you can't fight against him.</span></p>

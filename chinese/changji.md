@@ -1,5 +1,7 @@
 # 娼妓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/changji.md)
+
 <p><span class="chinese">她只是一个不入流的娼妓。</span><span class="english">She is just a two-bit whore.</span></p>
 
 <p><span class="chinese">使美誉落得跟娼妓一样。</span><span class="english">And makest fair reputation but a bawd.</span></p>

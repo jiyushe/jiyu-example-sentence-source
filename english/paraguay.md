@@ -1,5 +1,7 @@
 # paraguay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paraguay.md)
+
 <p><span class="chinese">巴西和巴拉圭的图皮人的语言。</span><span class="english">Tupi people of Brazil and Paraguay.</span></p>
 
 <p><span class="chinese">世界杯上巴拉圭在点球大战中5比3击败日本。</span><span class="english">Paraguay beats Japan 5-3 on penalties at World Cup.</span></p>

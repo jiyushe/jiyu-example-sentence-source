@@ -1,5 +1,7 @@
 # eastbound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eastbound.md)
+
 <p><span class="chinese">搭蓝线，往东的列车。</span><span class="english">Take the Blue Line, eastbound trains.</span></p>
 
 <p><span class="chinese">可以告诉我往东走的高速公路入口在哪里吗？</span><span class="english">Could you direct me to the eastbound freeway on ramp, please?</span></p>

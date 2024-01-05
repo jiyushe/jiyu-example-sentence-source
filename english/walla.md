@@ -1,5 +1,7 @@
 # walla
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/walla.md)
+
 <p><span class="chinese">你在学校里是属于哪一种类型的?。</span><span class="english">What "type" were you in school? —Carrie Ann, Walla Walla, Washington.</span></p>
 
 <p><span class="chinese">沃拉，您的ASP项目刚刚被出口到一个可执行文件。</span><span class="english">Walla , your ASP Project has just been exported to an executable file.</span></p>

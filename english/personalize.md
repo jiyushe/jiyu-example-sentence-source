@@ -1,5 +1,7 @@
 # personalize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/personalize.md)
+
 <p><span class="chinese">我想让客厅更具亲切感。</span><span class="english">I want to personalize this livingroom.</span></p>
 
 <p><span class="chinese">我们不想把问题搞得个人化了。</span><span class="english">We don't want to personalize the issue.</span></p>

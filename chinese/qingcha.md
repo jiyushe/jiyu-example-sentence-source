@@ -1,5 +1,7 @@
 # 清查
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingcha.md)
+
 <p><span class="chinese">各种存货应当定期进行清查盘点。</span><span class="english">All inventories shall be taken stock periodically.</span></p>
 
 <p><span class="chinese">市长也加强了对中国商家的突击清查。</span><span class="english">The mayor has also stepped up raids on Chinese businesses.</span></p>

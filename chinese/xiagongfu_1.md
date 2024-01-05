@@ -1,5 +1,7 @@
 # 下工夫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiagongfu_1.md)
+
 <p><span class="chinese">到了下午3时左右，显然还需要多下工夫。</span><span class="english">By midafternoon, it’s clear that more is needed.</span></p>
 
 <p><span class="chinese">老师要求学生在必修课上多下工夫。</span><span class="english">The teacher asked his students to labour at obligatory courses.</span></p>

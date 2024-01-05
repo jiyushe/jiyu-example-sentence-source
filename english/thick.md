@@ -1,5 +1,7 @@
 # thick 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thick.md)
+
 <p><span class="chinese">使用粗线。</span><span class="english">Use thick lines.</span></p>
 
 <p><span class="chinese">浓密黑毛？</span><span class="english">Thick black hairs?</span></p>

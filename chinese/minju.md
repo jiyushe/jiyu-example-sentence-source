@@ -1,5 +1,7 @@
 # 民居
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minju.md)
+
 <p><span class="chinese">你看，这就是达斡尔族的传统民居。</span><span class="english">You see this is a traditional Daur house.</span></p>
 
 <p><span class="chinese">民居相当好，充满现代化气息。</span><span class="english">Dwelling houses look quite good and modern.</span></p>

@@ -1,5 +1,7 @@
 # rube
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rube.md)
+
 <p><span class="chinese">落后地区乡巴佬的时代已成过去。</span><span class="english">The era of the backwoods rube is gone.</span></p>
 
 <p><span class="chinese">他的毛是灰灰的，太土了。</span><span class="english">Wow, his feather is gray, it's too rube !</span></p>

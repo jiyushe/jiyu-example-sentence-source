@@ -1,5 +1,7 @@
 # senile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/senile.md)
+
 <p><span class="chinese">有人说他变老了。</span><span class="english">They say he is getting senile.</span></p>
 
 <p><span class="chinese">我可能有显点老了，但还没有老到不中用的地步。</span><span class="english">I may be senescent , I am not yet senile.</span></p>

@@ -1,5 +1,7 @@
 # anchorperson
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anchorperson.md)
+
 <p><span class="chinese">首先，新闻节目主持人介绍新闻的简要内容，引出记者。</span><span class="english">First, summary by anchorperson of the news, introduces reporter.</span></p>
 
 <p><span class="chinese">播音员镜头探测是实现新闻视频结构化分析的有效途径。</span><span class="english">Anchorperson shot detection is an effective way of news video structuring.</span></p>

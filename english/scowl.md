@@ -1,5 +1,7 @@
 # scowl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scowl.md)
+
 <p><span class="chinese">他抬头一看，面露怒容。</span><span class="english">He glanced up with a scowl.</span></p>
 
 <p><span class="chinese">她以怒视回报我的微笑。</span><span class="english">She answered my smile with a scowl.</span></p>

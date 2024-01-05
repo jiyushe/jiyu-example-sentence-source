@@ -1,5 +1,7 @@
 # 铁锨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiexian_2.md)
+
 <p><span class="chinese">把铁锨靠墙放着。</span><span class="english">Lean the shovel against the wall.</span></p>
 
 <p><span class="chinese">提米，从车里拿把铁锨过来…</span><span class="english">Timmy, get the shovel from the car.</span></p>

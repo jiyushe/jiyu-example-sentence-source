@@ -1,5 +1,7 @@
 # boldface
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boldface.md)
+
 <p><span class="chinese">需要引起注意的代码用粗体显示。</span><span class="english">The notable code is in boldface.</span></p>
 
 <p><span class="chinese">在课本上,用粗体来表示矢量</span><span class="english">In the textbook, they use boldface arrows.</span></p>

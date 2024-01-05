@@ -1,5 +1,7 @@
 # aria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aria.md)
+
 <p><span class="chinese">听下面这首歌剧中的咏叹调。</span><span class="english">Listen to this aria from the opera.</span></p>
 
 <p><span class="chinese">难道梦能够在这些房间里飘扬，引吭高唱?</span><span class="english">Flutter, or sing an aria down these rooms</span></p>

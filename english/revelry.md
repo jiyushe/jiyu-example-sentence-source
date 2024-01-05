@@ -1,5 +1,7 @@
 # revelry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revelry.md)
+
 <p><span class="chinese">从现在起，狂欢开始了。</span><span class="english">From now on, the revelry starts.</span></p>
 
 <p><span class="chinese">我父亲终止了那次狂欢宴会。</span><span class="english">The revelry was snubbed by my father.</span></p>

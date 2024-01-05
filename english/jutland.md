@@ -1,5 +1,7 @@
 # jutland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jutland.md)
+
 <p><span class="chinese">在海上战役的日德兰半岛发生。</span><span class="english">At sea the Battle of Jutland takes place.</span></p>
 
 <p><span class="chinese">丹麦欧洲北部的一个国家，建立在日德兰半岛及其邻近的岛上。</span><span class="english">A country of northern Europe on Jutland and adjacent islands.</span></p>

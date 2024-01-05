@@ -1,5 +1,7 @@
 # 干劲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganjin.md)
+
 <p><span class="chinese">成功使他干劲十足。</span><span class="english">He is warmed by his success.</span></p>
 
 <p><span class="chinese">他虽年已七十，但干劲还是十足…</span><span class="english">At seventy, he is still full of go.</span></p>

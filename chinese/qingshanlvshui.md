@@ -1,5 +1,7 @@
 # 青山绿水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingshanlvshui.md)
+
 <p><span class="chinese">为子孙后代留下青山绿水。</span><span class="english">Preserve the green mountains and clear rivers for posterity</span></p>
 
 <p><span class="chinese">我要休息一下，去青山绿水之间肆意行走。</span><span class="english">I'm going to take a rest, in green mountains and clear waters.</span></p>

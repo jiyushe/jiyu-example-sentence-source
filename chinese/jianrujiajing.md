@@ -1,5 +1,7 @@
 # 渐入佳境
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianrujiajing.md)
+
 <p><span class="chinese">我终于渐入佳境。</span><span class="english">I'm finally getting better.</span></p>
 
 <p><span class="chinese">现在我的感觉是渐入佳境。</span><span class="english">My feeling is getting better now.</span></p>

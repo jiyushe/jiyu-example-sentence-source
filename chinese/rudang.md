@@ -1,5 +1,7 @@
 # 入党
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rudang.md)
+
 <p><span class="chinese">入党为什么？</span><span class="english">Why join the party?</span></p>
 
 <p><span class="chinese">李明入党了吗？</span><span class="english">Li Ming join the Party?</span></p>

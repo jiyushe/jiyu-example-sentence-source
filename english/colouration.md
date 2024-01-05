@@ -1,5 +1,7 @@
 # colouration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colouration.md)
+
 <p><span class="chinese">专家们仔细地观察着它们的颜色。</span><span class="english">Experts examined them under the light and scrutinised their colouration.</span></p>
 
 <p><span class="chinese">看来，该产品的轻型涂料的基础上，着色和感受。</span><span class="english">It seemed that the product had a light coating , based on the colouration and the feel.</span></p>

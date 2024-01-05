@@ -1,5 +1,7 @@
 # melodious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/melodious.md)
+
 <p><span class="chinese">鸟儿伴着飞瀑唱起婉转的情歌。</span><span class="english">Melodious birds sing madrigals.</span></p>
 
 <p><span class="chinese">舒展成一曲悠扬的歌。</span><span class="english">Stretching into a song melodious.</span></p>

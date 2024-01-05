@@ -1,5 +1,7 @@
 # ingeniously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ingeniously.md)
+
 <p><span class="chinese">嗯，那座庙建造得还很巧妙呢。</span><span class="english">Yes. This temple was built ingeniously.</span></p>
 
 <p><span class="chinese">影片的构思相当巧妙。</span><span class="english">The plot of the film is ingeniously conceived.</span></p>

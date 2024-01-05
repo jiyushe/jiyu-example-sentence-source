@@ -1,5 +1,7 @@
 # 攀越
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/panyue.md)
+
 <p><span class="chinese">攀越每道山岭。</span><span class="english">Climb every mountain.</span></p>
 
 <p><span class="chinese">给我们力量让我们自己攀越。</span><span class="english">Give me strength to climb it.</span></p>

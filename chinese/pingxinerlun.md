@@ -1,5 +1,7 @@
 # 平心而论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingxinerlun.md)
+
 <p><span class="chinese">＂平心而论＂是一种品德。</span><span class="english">"Not Judging" is a virtue.</span></p>
 
 <p><span class="chinese">平心而论,澳洲央行的成功也有一部分归功于好运气.</span><span class="english">To be fair, the RBA owes some of its success to good fortune.</span></p>

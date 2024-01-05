@@ -1,5 +1,7 @@
 # siamese
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/siamese.md)
+
 <p><span class="chinese">暹罗猫在某些方面长得有点儿像狗。</span><span class="english">Siamese cats are rather like dogs in some ways.</span></p>
 
 <p><span class="chinese">我有三只幼小可爱的暹逻种小白猫。</span><span class="english">I have three small pretty white young Siamese cats.</span></p>

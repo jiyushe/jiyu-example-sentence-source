@@ -1,5 +1,7 @@
 # apostolic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apostolic.md)
+
 <p><span class="chinese">而在之一，罗马天主教和使徒教会。</span><span class="english">And in One, Holy, Catholic, and Apostolic Church.</span></p>
 
 <p><span class="chinese">使徒著述才是他们的考虑标准。</span><span class="english">Apostolic authorship was one thing they talk about.</span></p>

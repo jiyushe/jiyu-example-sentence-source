@@ -1,5 +1,7 @@
 # bmc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bmc.md)
+
 <p><span class="chinese">骨髓有核细胞计数也显著性降低。</span><span class="english">CFU-GM and BMC also decreased significantly.</span></p>
 
 <p><span class="chinese">不饱和聚酯树脂模塑料压制件表面颜色不均匀是常见的质量难题之一。</span><span class="english">Surface mottle of BMC parts is one of common quality defects.</span></p>

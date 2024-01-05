@@ -1,5 +1,7 @@
 # crypt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crypt.md)
+
 <p><span class="chinese">地穴恶魔们，你们这是自寻死路！</span><span class="english">Crypt fiends, you're not prepared!</span></p>
 
 <p><span class="chinese">自那时以来，该墓穴一直空穴。</span><span class="english">Since then, that crypt has remained vacant.</span></p>

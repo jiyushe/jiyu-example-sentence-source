@@ -1,5 +1,7 @@
 # lending
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lending.md)
+
 <p><span class="chinese">何谓投资贷款？</span><span class="english">What Is Investment Lending?</span></p>
 
 <p><span class="chinese">她对借出金钱很小心谨慎。</span><span class="english">She is chary of lending money.</span></p>

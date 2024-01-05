@@ -1,5 +1,7 @@
 # tuba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tuba.md)
+
 <p><span class="chinese">中国长号大号协会理事。</span><span class="english">China trombone tuba Association.</span></p>
 
 <p><span class="chinese">就像弦乐中的低音大提琴和管乐中的大号一样。</span><span class="english">Just as Double Bass in strings family and Tuba in winds family.</span></p>

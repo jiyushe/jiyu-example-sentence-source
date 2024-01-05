@@ -1,5 +1,7 @@
 # 多快好省
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duokuaihaosheng.md)
+
 <p><span class="chinese">那么NASA怎样才能多快好省地提供高清星系图片？</span><span class="english">So how can NASA deliver the same high-quality galactic images and information for less?</span></p>
 
 <p><span class="chinese">被早期成功所激励，的创业家和风险投资家开始“多快好省的“上创业项目。</span><span class="english">Encouraged by the early success entrepreneurs and the venture capitalists rushed to launch more startups.</span></p>

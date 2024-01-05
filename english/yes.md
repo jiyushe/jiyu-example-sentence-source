@@ -1,5 +1,7 @@
 # yes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yes.md)
+
 <p><span class="chinese">哦，是吗？</span><span class="english">Oh yes?</span></p>
 
 <p><span class="chinese">请回答,先生</span><span class="english">Yes sir.</span></p>

@@ -1,5 +1,7 @@
 # pnr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pnr.md)
+
 <p><span class="chinese">所有旅客的预定必须在同一记录编号内。</span><span class="english">All passengers' booking must be in one PNR.</span></p>
 
 <p><span class="chinese">但是您的定位依然有效。</span><span class="english">However, your PNR and services have still been booked.</span></p>

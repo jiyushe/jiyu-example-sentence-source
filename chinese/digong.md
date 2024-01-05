@@ -1,5 +1,7 @@
 # 地宫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/digong.md)
+
 <p><span class="chinese">啊，还有地宫呢？</span><span class="english">Wow, there is an underground palace?</span></p>
 
 <p><span class="chinese">所以真正的皇陵地宫我们现在是看不到的。</span><span class="english">So the real underground palace is still unavailable for us to see.</span></p>

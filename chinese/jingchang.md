@@ -1,5 +1,7 @@
 # 井场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingchang.md)
+
 <p><span class="chinese">你现在到井场去吗？</span><span class="english">Are you going to the well site?</span></p>
 
 <p><span class="chinese">我们花了两个小时才抵达井场。</span><span class="english">It took us two hours to get to the loc.</span></p>

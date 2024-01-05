@@ -1,5 +1,7 @@
 # tefl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tefl.md)
+
 <p><span class="chinese">我非常喜欢在泰弗尔学习，而我的英语水平也在不知不觉中有了进步。</span><span class="english">I really enjoy my studying in TEFL and my English has improved a lot.</span></p>
 
 <p><span class="chinese">信息时代的到来为英语教学的发展带来新的契机。</span><span class="english">The advent of the Age of Information brings about bright prospects to TEFL.</span></p>

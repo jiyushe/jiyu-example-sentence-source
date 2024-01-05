@@ -1,5 +1,7 @@
 # borane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/borane.md)
+
 <p><span class="chinese">我们研究了硼化物的体积效应和电子效应对茂金属催化体系聚合活性的影响。</span><span class="english">Both stereo effect and electron effect of borane on the activity of ethylene polymerization were investigated.</span></p>
 
 <p><span class="chinese">以三种不同的煤焦油沥青为原料，分别与吡啶硼烷反应制备了硼取代中间相沥青。</span><span class="english">Boron substituted mesophase pitches were synthesized by co pyrolysis of different coal tar pitches with pyridine borane complex.</span></p>

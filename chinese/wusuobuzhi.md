@@ -1,5 +1,7 @@
 # 无所不知
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wusuobuzhi.md)
+
 <p><span class="chinese">不要表现出无所不知的样子。</span><span class="english">Don’t be a know-it-all.</span></p>
 
 <p><span class="chinese">人非圣贤，安能无所不知。</span><span class="english">No man can know everything.</span></p>

@@ -1,5 +1,7 @@
 # 枉然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangran.md)
+
 <p><span class="chinese">少女们唤这花为「枉然的爱」。</span><span class="english">And maidens call it "love-in-idleness".</span></p>
 
 <p><span class="chinese">我尽力帮助了他，但是枉然无效。</span><span class="english">I did my best to help him, but in vain.</span></p>

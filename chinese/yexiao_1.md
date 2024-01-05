@@ -1,5 +1,7 @@
 # 夜校
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yexiao_1.md)
+
 <p><span class="chinese">她上夜校一贯按时出席。</span><span class="english">She's a regular attender at '.</span></p>
 
 <p><span class="chinese">晚饭后，我还要到夜校上课。</span><span class="english">After dinner, I go to night school.</span></p>

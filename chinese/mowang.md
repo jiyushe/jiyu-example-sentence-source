@@ -1,5 +1,7 @@
 # 魔王
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mowang.md)
+
 <p><span class="chinese">完全是家里的混事魔王！</span><span class="english">He was the man in the house!</span></p>
 
 <p><span class="chinese">在魔王之前先到达终点！</span><span class="english">Reach the finish before Bowser!</span></p>

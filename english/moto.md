@@ -1,5 +1,7 @@
 # moto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moto.md)
+
 <p><span class="chinese">你知道摩托摩托代表什么吗?。</span><span class="english">You know what Moto Moto means?</span></p>
 
 <p><span class="chinese">摩托罗拉已经死了，这是苹果的时代。</span><span class="english">Moto is dead. This is the era of Apple.</span></p>

@@ -1,5 +1,7 @@
 # floss
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/floss.md)
+
 <p><span class="chinese">每天使用牙线。</span><span class="english">Use dental floss daily.</span></p>
 
 <p><span class="chinese">你用牙线剔牙吗?。</span><span class="english">Did you floss your teeth?</span></p>

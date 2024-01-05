@@ -1,5 +1,7 @@
 # snip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snip.md)
+
 <p><span class="chinese">你的头发该剪一剪了。</span><span class="english">Your hair should snip.</span></p>
 
 <p><span class="chinese">而这只是低于20元的便宜货。</span><span class="english">And it's yours at a snip for less than 20 yuan.</span></p>

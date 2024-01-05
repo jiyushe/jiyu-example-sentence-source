@@ -1,5 +1,7 @@
 # 想象力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangxiangli.md)
+
 <p><span class="chinese">她的想象力非常丰富。</span><span class="english">She has plenty of imagination.</span></p>
 
 <p><span class="chinese">他有丰富的想象力。</span><span class="english">He has a bounteous imagination.</span></p>

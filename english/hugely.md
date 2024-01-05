@@ -1,5 +1,7 @@
 # hugely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hugely.md)
+
 <p><span class="chinese">MMO游戏非常流行。</span><span class="english">MMO gaming is hugely popular.</span></p>
 
 <p><span class="chinese">这些书都大受好评。</span><span class="english">These books were hugely popular.</span></p>

@@ -1,5 +1,7 @@
 # 焚化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenhua_1.md)
+
 <p><span class="chinese">我们在上文曾提过自我焚化的水。</span><span class="english">We spoke above about water that combusts.</span></p>
 
 <p><span class="chinese">焚化我的记忆，祭奠你犹存的美丽。</span><span class="english">Incineration of my memory, marking you dwells beauty.</span></p>

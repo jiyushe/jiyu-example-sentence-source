@@ -1,5 +1,7 @@
 # 书箱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuxiang.md)
+
 <p><span class="chinese">书箱漂流，推进阅读，评估。</span><span class="english">Circulation, promote reading, and evaluation.</span></p>
 
 <p><span class="chinese">这些装满了书的书箱可都是我的“财富”啊！</span><span class="english">These bookcases full of books are my treasure!</span></p>

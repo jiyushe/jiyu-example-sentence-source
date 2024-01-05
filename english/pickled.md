@@ -1,5 +1,7 @@
 # pickled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pickled.md)
+
 <p><span class="chinese">你喜欢吃腌鱼吗？</span><span class="english">Do you like pickled fish?</span></p>
 
 <p><span class="chinese">那腌胡椒又该怎么处理呢？</span><span class="english">How about pickled jalapenos?</span></p>

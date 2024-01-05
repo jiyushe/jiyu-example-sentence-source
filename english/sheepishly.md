@@ -1,5 +1,7 @@
 # sheepishly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sheepishly.md)
+
 <p><span class="chinese">他们默默点头肯定。</span><span class="english">They sheepishly nodded yes.</span></p>
 
 <p><span class="chinese">布什羞怯地朝女王看去，女王则透过她黑白相间的礼帽回视了布什一眼。</span><span class="english">Bush looked at the queen sheepishly.</span></p>

@@ -1,5 +1,7 @@
 # cowshed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cowshed.md)
+
 <p><span class="chinese">牛棚里一片血污。</span><span class="english">The cowshed was drenched in blood.</span></p>
 
 <p><span class="chinese">你还没有在牛棚里点上灯吗？</span><span class="english">Have you not lit the lamp in the cowshed?</span></p>

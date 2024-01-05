@@ -1,5 +1,7 @@
 # sensitively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sensitively.md)
+
 <p><span class="chinese">蒸渗仪受自身因素影响，变化比较敏感。</span><span class="english">The results of lysimeter were sensitively affected by its own factors.</span></p>
 
 <p><span class="chinese">串联式压电传感器可以灵敏地检测到这种变化。</span><span class="english">Series piezoelectric crystal sensor could detect this change sensitively.</span></p>

@@ -1,5 +1,7 @@
 # aga
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aga.md)
+
 <p><span class="chinese">不过这位国军大官表面上没有表示出什么神态。</span><span class="english">But the nations aga surface not said whats expression.</span></p>
 
 <p><span class="chinese">屋面的卷材防水以上覆盖了150mm厚的阿嘎土。</span><span class="english">A 150mm thick layer of Aga clay covers the waterproof membrane.</span></p>

@@ -1,5 +1,7 @@
 # 逐次
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuci_5.md)
+
 <p><span class="chinese">在行内逐次增加，在列内逐次递减。</span><span class="english">It rises up a row. It decreases down the column.</span></p>
 
 <p><span class="chinese">而且在一列内，它逐次递减。</span><span class="english">And, within a column, it decreases down a column.</span></p>

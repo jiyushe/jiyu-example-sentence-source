@@ -1,5 +1,7 @@
 # 寥寥可数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liaoliaokeshu.md)
+
 <p><span class="chinese">这样的避难所寥寥可数。</span><span class="english">Such refuges are few and far between.</span></p>
 
 <p><span class="chinese">到会者寥寥可数。</span><span class="english">Very few people were present at the meeting.</span></p>

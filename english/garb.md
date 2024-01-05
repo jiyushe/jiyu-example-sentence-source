@@ -1,5 +1,7 @@
 # garb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/garb.md)
+
 <p><span class="chinese">哈尔顿也注意到了她的变装。</span><span class="english">Haldon took note of her change of garb as well.</span></p>
 
 <p><span class="chinese">身穿防护服的工作人员进入检查区。</span><span class="english">Workers in protective garb enter a screening post.</span></p>

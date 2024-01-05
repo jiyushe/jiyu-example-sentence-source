@@ -1,5 +1,7 @@
 # 屈打成招
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qudachengzhao.md)
+
 <p><span class="chinese">扎瓦希里宣称他的前战友是被屈打成招的。</span><span class="english">Zawahiri has alleged that his former comrade was tortured into recanting.</span></p>
 
 <p><span class="chinese">而护士们否认这些控告并说她们是被屈打成招。</span><span class="english">The nurses denied the charges and said they were tortured into confessing.</span></p>

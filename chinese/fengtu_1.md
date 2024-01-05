@@ -1,5 +1,7 @@
 # 风土
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengtu_1.md)
+
 <p><span class="chinese">这个概念总是被用来与风土病比较。</span><span class="english">This idea is most useful when contrasted with the term endemic.</span></p>
 
 <p><span class="chinese">特别是从酒的风味中，常传递着原产土地的风土特色。</span><span class="english">Especially from the wine flavor, often passing the origin of the endemic land features.</span></p>

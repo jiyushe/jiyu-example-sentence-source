@@ -1,5 +1,7 @@
 # 现钱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianqian_2.md)
+
 <p><span class="chinese">我手头没有现钱，我没有现款。</span><span class="english">I have no cash in hand--I am out of cash.</span></p>
 
 <p><span class="chinese">工人们领到了用现钱支付的工资。</span><span class="english">The workers received their wages in cash.</span></p>

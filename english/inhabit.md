@@ -1,5 +1,7 @@
 # inhabit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inhabit.md)
+
 <p><span class="chinese">模拟铁器时代穴居生活的洞穴。</span><span class="english">To inhabit or hide in a den.</span></p>
 
 <p><span class="chinese">酒精可以抑止尿酸的排泄。</span><span class="english">Alcohol can inhabit the excretion of uric acid.</span></p>

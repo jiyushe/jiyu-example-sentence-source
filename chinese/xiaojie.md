@@ -1,5 +1,7 @@
 # 小节
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaojie.md)
+
 <p><span class="chinese">这首诗有五个小节。</span><span class="english">The poem has five stanzas.</span></p>
 
 <p><span class="chinese">第二章分四小节。</span><span class="english">Chapter 2 comprises four parts.</span></p>

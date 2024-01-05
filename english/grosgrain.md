@@ -1,5 +1,7 @@
 # grosgrain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grosgrain.md)
+
 <p><span class="chinese">落日的余晖绸缎般泻落在铁皮屋顶。</span><span class="english">Ribbons of west fall grosgrain on tin roofs.</span></p>
 
 <p><span class="chinese">缝臀部口袋，可拆卸罗缎腰带。</span><span class="english">Seam hip pockets, detachable grosgrain belt.</span></p>

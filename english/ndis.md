@@ -1,5 +1,7 @@
 # ndis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ndis.md)
+
 <p><span class="chinese">这些套件数据然后被输入到NDIS。</span><span class="english">The data from the kits are then put into the NDIS.</span></p>
 
 <p><span class="chinese">实际上，多个协议可能对同一个NDIS报拥有所有权。</span><span class="english">In fact, multiple protocols can concurrently have "ownership" of the same NDIS packet.</span></p>

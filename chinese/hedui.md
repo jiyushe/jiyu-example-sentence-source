@@ -1,5 +1,7 @@
 # 核对
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hedui.md)
+
 <p><span class="chinese">我将核对一下这个数字。</span><span class="english">I will check up the figure.</span></p>
 
 <p><span class="chinese">请核对案例研究的可用性。</span><span class="english">Case Study — M. E. Heuck Co.</span></p>

@@ -1,5 +1,7 @@
 # pervert
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pervert.md)
+
 <p><span class="chinese">但是我不能走进酒吧去找一个25岁的姑娘，不然他们都会当我是色狼。</span><span class="english">They'd think I'm a pervert.</span></p>
 
 <p><span class="chinese">山帝，我觉得你是个性变态。</span><span class="english">Sandy, I think you're a pervert.</span></p>

@@ -1,5 +1,7 @@
 # decrescent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decrescent.md)
+
 <p><span class="chinese">怎么使眼袋变小？</span><span class="english">How to make pouch decrescent?</span></p>
 
 <p><span class="chinese">要怎样让鼻子变小啊？</span><span class="english">How should let nose decrescent?</span></p>

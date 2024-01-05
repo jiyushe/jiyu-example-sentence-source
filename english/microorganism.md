@@ -1,5 +1,7 @@
 # microorganism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microorganism.md)
+
 <p><span class="chinese">电子束通过干扰微生物DNA从而发挥作用。</span><span class="english">The electron beams work by interfering with microorganism DNA.</span></p>
 
 <p><span class="chinese">人工绿地土壤微生物数量秋季比夏季略有增加。</span><span class="english">The amount of microorganism in summer were different from autumn.</span></p>

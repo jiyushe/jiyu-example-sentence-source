@@ -1,5 +1,7 @@
 # hedgerow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hedgerow.md)
+
 <p><span class="chinese">他与沃伊中尉蹲伏在一道树篱后边。</span><span class="english">He and Wray were crouched behind a hedgerow.</span></p>
 
 <p><span class="chinese">本来应该是寻找对该树篱侧翼进攻路线。</span><span class="english">It would have found a way to flank the hedgerow.</span></p>

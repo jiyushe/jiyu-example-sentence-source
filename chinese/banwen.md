@@ -1,5 +1,7 @@
 # 斑纹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banwen.md)
+
 <p><span class="chinese">幼鹿失去皮毛上的斑纹。</span><span class="english">Fawns lose their spotted coat.</span></p>
 
 <p><span class="chinese">不同深浅的红色、深褐色或带有斑纹。</span><span class="english">All shades of red, sable and brindle.</span></p>

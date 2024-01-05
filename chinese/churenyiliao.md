@@ -1,5 +1,7 @@
 # 出人意料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/churenyiliao.md)
+
 <p><span class="chinese">但是，也有出人意料的发现。</span><span class="english">But there were unexpected findings too.</span></p>
 
 <p><span class="chinese">此外，还有一些更为概括的数据，或许更出人意料。</span><span class="english">Other, more-general stats might surprise.</span></p>

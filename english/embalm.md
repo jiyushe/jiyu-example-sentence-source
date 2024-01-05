@@ -1,5 +1,7 @@
 # embalm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/embalm.md)
+
 <p><span class="chinese">没药也是一种香料，抹在死人的身上用来防腐。</span><span class="english">Myrrh was a spice used to embalm the dead.</span></p>
 
 <p><span class="chinese">这位大师的崇论闳议，我们一定要铭记于心。</span><span class="english">We must embalm the master's wise opinions.</span></p>

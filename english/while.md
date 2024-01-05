@@ -1,5 +1,7 @@
 # while
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/while.md)
+
 <p><span class="chinese">务请多待一会儿。</span><span class="english">Do stay a while.</span></p>
 
 <p><span class="chinese">你这张快嘴！</span><span class="english">You while big mouth!</span></p>

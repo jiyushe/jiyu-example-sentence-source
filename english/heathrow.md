@@ -1,5 +1,7 @@
 # heathrow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heathrow.md)
+
 <p><span class="chinese">希斯罗机场从这个举措中想得到什么呢？</span><span class="english">What is Heathrow hoping to get out of the scheme?</span></p>
 
 <p><span class="chinese">强风迫使飞机在希思罗机场上空作定高分层盘旋。</span><span class="english">High winds forced planes to stack up over heathrow airport.</span></p>

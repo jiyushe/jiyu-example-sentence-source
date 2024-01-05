@@ -1,5 +1,7 @@
 # afire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/afire.md)
+
 <p><span class="chinese">一颗滚烫的心哪。</span><span class="english">With a heart afire.</span></p>
 
 <p><span class="chinese">我们看见一座房子着火了。</span><span class="english">We saw a house afire.</span></p>

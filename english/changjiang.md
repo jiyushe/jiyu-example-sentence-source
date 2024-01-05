@@ -1,5 +1,7 @@
 # changjiang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/changjiang.md)
+
 <p><span class="chinese">有多长的长江水?。</span><span class="english">How long is the Changjiang River?</span></p>
 
 <p><span class="chinese">大江东去。</span><span class="english">Eastward flows the Changjiang River.</span></p>

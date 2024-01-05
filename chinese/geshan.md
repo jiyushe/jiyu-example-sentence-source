@@ -1,5 +1,7 @@
 # 隔扇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/geshan.md)
+
 <p><span class="chinese">我们的办公室用一个隔扇分成两部分。</span><span class="english">Our office is compared by a partition board.</span></p>
 
 <p><span class="chinese">我们的办公室用一个隔扇分成两部分。</span><span class="english">Our office is comparted by a partition board.</span></p>

@@ -1,5 +1,7 @@
 # 一元论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyuanlun.md)
+
 <p><span class="chinese">说一点天上的一元论，千万别谈地狱的二元论。</span><span class="english">Don't say a syllable about the Infernal Twoness.</span></p>
 
 <p><span class="chinese">如果能办到我就设法让他们谈一元论。</span><span class="english">I'm going to get them started on monism if I can.</span></p>

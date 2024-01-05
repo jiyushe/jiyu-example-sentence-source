@@ -1,5 +1,7 @@
 # 先辈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianbei.md)
+
 <p><span class="chinese">我们必须和先辈们站在一起。</span><span class="english">We must stand with our fathers.</span></p>
 
 <p><span class="chinese">墙上是巴斯克维尔家族的先辈们的画像。</span><span class="english">On the walls were the pictures of the Baskervilles of the past.</span></p>

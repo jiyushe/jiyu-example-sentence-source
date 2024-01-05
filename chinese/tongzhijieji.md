@@ -1,5 +1,7 @@
 # 统治阶级
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongzhijieji.md)
+
 <p><span class="chinese">帝国主义的好战的统治阶级。</span><span class="english">The imperialist war-mongering ruling classes.</span></p>
 
 <p><span class="chinese">中国的统治阶级意识到了历史。</span><span class="english">China’s governing class has its eye on history.</span></p>

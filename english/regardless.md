@@ -1,5 +1,7 @@
 # regardless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regardless.md)
+
 <p><span class="chinese">扔下它不管。</span><span class="english">Threw it regardless.</span></p>
 
 <p><span class="chinese">忽略可能发生的错误。</span><span class="english">Mistakes will happen regardless.</span></p>

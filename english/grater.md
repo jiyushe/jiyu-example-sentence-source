@@ -1,5 +1,7 @@
 # grater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grater.md)
+
 <p><span class="chinese">你需要放多少柠檬进磨碎器？</span><span class="english">How many lemons do you need for the grater?</span></p>
 
 <p><span class="chinese">喂，我想再买一个干酪擦板。</span><span class="english">I’m thinking of buying a new Parmesan grater</span></p>

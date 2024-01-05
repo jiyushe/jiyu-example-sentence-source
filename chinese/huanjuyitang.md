@@ -1,5 +1,7 @@
 # 欢聚一堂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanjuyitang.md)
+
 <p><span class="chinese">我非常荣幸地来到这里，与大家欢聚一堂。</span><span class="english">It is a true pleasure to be here with all of you.</span></p>
 
 <p><span class="chinese">金融论坛组委会成员与嘉宾欢聚一堂，举杯共庆。</span><span class="english">Members of the forum's organizing committee cheers with speakers.</span></p>

@@ -1,5 +1,7 @@
 # lackey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lackey.md)
+
 <p><span class="chinese">唐顿庄园赢来了新的仆人。</span><span class="english">Tang Du is manorial win came new lackey.</span></p>
 
 <p><span class="chinese">侍从?噢，抱歉，从政治角度，这么说对吗?。</span><span class="english">A lackey?Oh, I'm sorry. Is that politically incorrect ?</span></p>

@@ -1,5 +1,7 @@
 # 鲣鸟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianniao.md)
+
 <p><span class="chinese">栖在树枝上的红脚鲣鸟</span><span class="english">Red-Footed Booby on a Tree Branch</span></p>
 
 <p><span class="chinese">鲣鸟栖息在外海地区。</span><span class="english">Gannets are denizens of the open ocean.</span></p>

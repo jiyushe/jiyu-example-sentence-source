@@ -1,5 +1,7 @@
 # 扑救
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pujiu.md)
+
 <p><span class="chinese">这个夏季我在扑救森林大火。</span><span class="english">I spent this summer fighting forest fires.</span></p>
 
 <p><span class="chinese">马．卡兰贝为切尔西作出了一次漂亮扑救。</span><span class="english">Ma Kalambay makes a good save for Chelsea.</span></p>

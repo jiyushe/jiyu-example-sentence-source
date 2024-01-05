@@ -1,5 +1,7 @@
 # agriculture 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agriculture.md)
+
 <p><span class="chinese">农业化是什么呢？</span><span class="english">What is "agriculture"?</span></p>
 
 <p><span class="chinese">农业是当时的主导产业。</span><span class="english">Agriculture was dominant.</span></p>

@@ -1,5 +1,7 @@
 # borderline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/borderline.md)
+
 <p><span class="chinese">这服务不太合标准。</span><span class="english">The service was borderline.</span></p>
 
 <p><span class="chinese">我要扬弃那命定不祥的界线。</span><span class="english">I'll sublate that predestined, ominous borderline.</span></p>

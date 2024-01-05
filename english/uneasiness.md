@@ -1,5 +1,7 @@
 # uneasiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uneasiness.md)
+
 <p><span class="chinese">兰登突感一阵不安。</span><span class="english">Langdon felt a sudden surge of uneasiness.</span></p>
 
 <p><span class="chinese">苏丹红的显现让咱们感到了不平。</span><span class="english">The occurrence with red Sudan let us sense uneasiness.</span></p>

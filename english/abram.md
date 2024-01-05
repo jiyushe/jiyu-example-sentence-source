@@ -1,5 +1,7 @@
 # abram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abram.md)
+
 <p><span class="chinese">亚伯兰同意莎莱的话。</span><span class="english">Abram agreed to what Sarai said.</span></p>
 
 <p><span class="chinese">亚伯兰又对神表示了什么样的担忧？</span><span class="english">What further concern did Abram express to God?</span></p>

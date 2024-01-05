@@ -1,5 +1,7 @@
 # 查询
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaxun.md)
+
 <p><span class="chinese">查询起飞时间。</span><span class="english">Asking for departure time.</span></p>
 
 <p><span class="chinese">查询词最新更新。</span><span class="english">Recent updates about QUERY.</span></p>

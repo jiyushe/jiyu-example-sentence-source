@@ -1,5 +1,7 @@
 # corsair
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corsair.md)
+
 <p><span class="chinese">海盗船里遽然响起了古怪的声响。</span><span class="english">Corsair in sudden sounded strange sound.</span></p>
 
 <p><span class="chinese">同时，这也是在英国首次发现海盗船。</span><span class="english">It is also the first found in Britain Corsair.</span></p>

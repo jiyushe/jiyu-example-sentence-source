@@ -1,5 +1,7 @@
 # 知识
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhishi_8.md)
+
 <p><span class="chinese">知识就是力量。</span><span class="english">Knowlege is power.</span></p>
 
 <p><span class="chinese">我们提供专门知识。</span><span class="english">We deliver expertise.</span></p>

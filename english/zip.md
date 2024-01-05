@@ -1,5 +1,7 @@
 # zip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zip.md)
+
 <p><span class="chinese">无假货邮政编码。</span><span class="english">NO Fake Zip Codes.</span></p>
 
 <p><span class="chinese">双向拉链。</span><span class="english">Two-way front zip.</span></p>

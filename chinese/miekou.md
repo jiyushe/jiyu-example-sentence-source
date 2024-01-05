@@ -1,5 +1,7 @@
 # 灭口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miekou.md)
+
 <p><span class="chinese">冢本拿到大鼎后将邬家满门灭口。</span><span class="english">The mound to the big house ManMen after wu kill.</span></p>
 
 <p><span class="chinese">是因为她怕她们发现她的弱点而想杀人灭口吗？</span><span class="english">To silence them in case they had noticed something?</span></p>

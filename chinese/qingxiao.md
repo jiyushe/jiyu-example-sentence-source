@@ -1,5 +1,7 @@
 # 倾销
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingxiao.md)
+
 <p><span class="chinese">清仓物资，低价倾销。</span><span class="english">Dump clearance goods at low price.</span></p>
 
 <p><span class="chinese">月球将会成为塑料玩具的倾销地。</span><span class="english">Now Moon had become a plastic toys dumping yard.</span></p>

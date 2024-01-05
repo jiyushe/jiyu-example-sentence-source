@@ -1,5 +1,7 @@
 # hyperemia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyperemia.md)
+
 <p><span class="chinese">肾间质血管充血。</span><span class="english">Hyperemia was found in the kidney mesenchyme.</span></p>
 
 <p><span class="chinese">子宫、卵巢组织发生不同程度的增生与充血。</span><span class="english">Hyperplasia and hyperemia existed in matrix and ovary.</span></p>

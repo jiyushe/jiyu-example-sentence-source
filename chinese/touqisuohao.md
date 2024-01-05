@@ -1,5 +1,7 @@
 # 投其所好
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touqisuohao.md)
+
 <p><span class="chinese">点菜时注意凉、热搭配，投其所好。</span><span class="english">Attention is cool, hot order is tie-in, cast its.</span></p>
 
 <p><span class="chinese">哦？这位郡王爷似乎很会投其所好。</span><span class="english">This county Wang Ye seems to be good at to throw it like.</span></p>

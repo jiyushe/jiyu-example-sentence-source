@@ -1,5 +1,7 @@
 # 天桥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianqiao.md)
+
 <p><span class="chinese">你走天桥，我走地下道。</span><span class="english">Let you go, I go underground.</span></p>
 
 <p><span class="chinese">房屋入口处的天桥和阶梯外观。</span><span class="english">Exterior entry bridge and stair.</span></p>

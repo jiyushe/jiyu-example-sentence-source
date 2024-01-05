@@ -1,5 +1,7 @@
 # connoisseur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/connoisseur.md)
+
 <p><span class="chinese">总是一个鉴定家。</span><span class="english">He is somewhat of a connoisseur.</span></p>
 
 <p><span class="chinese">他是古家俱鉴定家。</span><span class="english">He is a connoisseur of antique furniture.</span></p>

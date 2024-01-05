@@ -1,5 +1,7 @@
 # 埋伏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maifu.md)
+
 <p><span class="chinese">这是上天安排的可爱的埋伏！</span><span class="english">Adorable ambuscades of providence!</span></p>
 
 <p><span class="chinese">一支叛军受诱骗中了埋伏。</span><span class="english">A rebel force was beguiled into ambush.</span></p>

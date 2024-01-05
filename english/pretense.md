@@ -1,5 +1,7 @@
 # pretense
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pretense.md)
+
 <p><span class="chinese">你看到的东西是实实在在的，没有虚伪做作。</span><span class="english">What you see is what you get, no pretense.</span></p>
 
 <p><span class="chinese">我不喜欢你的装扮因为太古怪了。</span><span class="english">I don't like your pretense since it's werid. save.</span></p>

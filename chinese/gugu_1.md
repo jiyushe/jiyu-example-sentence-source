@@ -1,5 +1,7 @@
 # 汩汩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gugu_1.md)
+
 <p><span class="chinese">血液的汩汩声在我耳边响。</span><span class="english">The blood thrummed in my ears.</span></p>
 
 <p><span class="chinese">旅馆大门口泉水汩汩地流着。</span><span class="english">A fountain bubbled at the hotel gate.</span></p>

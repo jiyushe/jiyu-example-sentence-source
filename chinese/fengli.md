@@ -1,5 +1,7 @@
 # 封里
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengli.md)
+
 <p><span class="chinese">这么好的天气，要呆在封里，真可惜！</span><span class="english">What a pity to have to stick in on a lovely day like this!</span></p>
 
 <p><span class="chinese">我要把爱每天装在信封里送给你，以吻来封缄。</span><span class="english">I'll send you all my love every day in a letter sealed with a kiss.</span></p>

@@ -1,5 +1,7 @@
 # 大关
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daguan.md)
+
 <p><span class="chinese">到2013年住户开支统计调查希望能超过100亿欧元大关。</span><span class="english">By 2013 hes hoping to surpass the 100-million-euro mark.</span></p>
 
 <p><span class="chinese">勘探能力将突破1万亿立方米的大关。</span><span class="english">The exploration capacity would hit 1 trillion cubic meters.</span></p>

@@ -1,5 +1,7 @@
 # diffuser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diffuser.md)
+
 <p><span class="chinese">无火香薰挥发精油是否可以喷洒在纺织物上，当香水使用？</span><span class="english">Can I use Aroma Reed Diffuser Oil on Fabric as perfume?</span></p>
 
 <p><span class="chinese">光线自光源发出后投射到一个漫射器d上，如图6．8所示。</span><span class="english">Light from the source falls on a diffuser D, Figure 6.8.</span></p>

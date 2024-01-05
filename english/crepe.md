@@ -1,5 +1,7 @@
 # crepe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crepe.md)
+
 <p><span class="chinese">你知道在橘子黄油薄卷饼里面有什么？</span><span class="english">You know what's in the crepe suzette?</span></p>
 
 <p><span class="chinese">皱纹纸纸板所涵盖的丑陋。</span><span class="english">Crepe paper covered the ugly cardboard.</span></p>

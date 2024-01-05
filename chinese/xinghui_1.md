@@ -1,5 +1,7 @@
 # 行贿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinghui_1.md)
+
 <p><span class="chinese">这商人向他行贿。</span><span class="english">The merchant offers a bribe to him.</span></p>
 
 <p><span class="chinese">他向警察行贿要求放了他。</span><span class="english">He bribed the policeman to set him free.</span></p>

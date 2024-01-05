@@ -1,5 +1,7 @@
 # 绊倒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bandao_2.md)
+
 <p><span class="chinese">我被一个篮子绊倒了。</span><span class="english">I tripped over a basket.</span></p>
 
 <p><span class="chinese">我差点被它绊倒。</span><span class="english">I nearly stumbled over it.</span></p>

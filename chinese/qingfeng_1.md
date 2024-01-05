@@ -1,5 +1,7 @@
 # 轻风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingfeng_1.md)
+
 <p><span class="chinese">月影烛光，夜雨轻风。</span><span class="english">Moon Shadow candlelight, night rain breeze.</span></p>
 
 <p><span class="chinese">轻风拂面，清爽而又温暖。</span><span class="english">A breeze touching my face felt cool yet warm.</span></p>

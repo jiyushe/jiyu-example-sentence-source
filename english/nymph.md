@@ -1,5 +1,7 @@
 # nymph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nymph.md)
+
 <p><span class="chinese">“小仙女”是你的名字。</span><span class="english">"Nymph" is your name.</span></p>
 
 <p><span class="chinese">潘不知道哪根芦苇是仙女。</span><span class="english">Pan did not know which reed was the nymph.</span></p>

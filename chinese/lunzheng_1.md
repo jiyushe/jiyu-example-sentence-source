@@ -1,5 +1,7 @@
 # 论证
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lunzheng_1.md)
+
 <p><span class="chinese">现在,这个论证是有效的</span><span class="english">Now, the argument is valid.</span></p>
 
 <p><span class="chinese">他的论证是这样的。</span><span class="english">His argument goes like this.</span></p>

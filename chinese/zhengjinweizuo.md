@@ -1,5 +1,7 @@
 # 正襟危坐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengjinweizuo.md)
+
 <p><span class="chinese">大家相互推推胳膊，眨眨眼睛，低声耳语。但是汤姆却正襟危坐。</span><span class="english">Nudges and winks and whispers traversed the room, but Tom sat still.</span></p>
 
 <p><span class="chinese">你是会哼着歌，还是会正襟危坐，认真地去听他们讲的话呢？</span><span class="english">Are you humming a tune, or do you sit and really listen to what they have to say?</span></p>

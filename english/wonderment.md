@@ -1,5 +1,7 @@
 # wonderment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wonderment.md)
+
 <p><span class="chinese">每当你惊奇地凝视它时，你都能欣赏到它的美。</span><span class="english">You can enjoy its beautiful each time you stare at it in wonderment.</span></p>
 
 <p><span class="chinese">可能尤为重要的是，又用什么来取代能够产生泪满衣襟奇迹的古雅的情书呢？</span><span class="english">Perhaps most importantly, what could ever replace the soppy wonderment of the old-fashioned love letter?</span></p>

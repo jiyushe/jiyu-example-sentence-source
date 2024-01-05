@@ -1,5 +1,7 @@
 # 金碧辉煌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinbihuihuang.md)
+
 <p><span class="chinese">哇，真是金碧辉煌啊！</span><span class="english">Wow, it is indeed resplendent !</span></p>
 
 <p><span class="chinese">金碧辉煌的宫殿使她赞叹不已。</span><span class="english">The glorious palace dazzled her.</span></p>

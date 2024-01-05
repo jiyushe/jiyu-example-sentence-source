@@ -1,5 +1,7 @@
 # 清清爽爽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingqingshuangshuang.md)
+
 <p><span class="chinese">它将令您的各种资料分门别类，清清爽爽。</span><span class="english">It will make you the breakdown-cool cool.</span></p>
 
 <p><span class="chinese">我常常睡得香，醒来清清爽爽。</span><span class="english">I sleep very well at night and wake up refreshed.</span></p>

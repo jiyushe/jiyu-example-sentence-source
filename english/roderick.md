@@ -1,5 +1,7 @@
 # roderick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roderick.md)
+
 <p><span class="chinese">罗德里克刘易斯昨天做了三件怪事。</span><span class="english">Roderick Lewis did three odd things yesterday.</span></p>
 
 <p><span class="chinese">一对年老又富有的兄弟，罗德里克和奥利弗，打了一个赌。</span><span class="english">Two old and wealthy brothers, Roderick and Oliver, have made a bet.</span></p>

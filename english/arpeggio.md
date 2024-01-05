@@ -1,5 +1,7 @@
 # arpeggio
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arpeggio.md)
+
 <p><span class="chinese">什么是琶音？</span><span class="english">What is arpeggio?</span></p>
 
 <p><span class="chinese">整首曲子充满著流畅高雅的琶音，代表著自由的精神。</span><span class="english">The fluent and graceful arpeggio suggests a free spirit.</span></p>

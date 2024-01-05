@@ -1,5 +1,7 @@
 # 路上
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lushang.md)
+
 <p><span class="chinese">在建设路上？</span><span class="english">On Jianshe road?</span></p>
 
 <p><span class="chinese">上班路上我碰见了一个色鬼。</span><span class="english">I ran over a goat.</span></p>

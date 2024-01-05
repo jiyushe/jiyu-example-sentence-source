@@ -1,5 +1,7 @@
 # mender
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mender.md)
+
 <p><span class="chinese">他是一个技术高超的修路工。</span><span class="english">He is a highly skilled road mender.</span></p>
 
 <p><span class="chinese">修理的人建议我改正图例操作规程。</span><span class="english">The mender recommends me to amend the legend agenda.</span></p>

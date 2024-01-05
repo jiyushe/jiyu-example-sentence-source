@@ -1,5 +1,7 @@
 # 将领
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangling_1.md)
+
 <p><span class="chinese">让行动作生命的将领。</span><span class="english">Let action be the leadre of life.</span></p>
 
 <p><span class="chinese">他们都是亚历山大麾下的将领。</span><span class="english">They were four generals of Alexander.</span></p>

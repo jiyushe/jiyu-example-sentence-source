@@ -1,5 +1,7 @@
 # 省内
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengnei.md)
+
 <p><span class="chinese">省内各式各样的寺院。</span><span class="english">Complex of monasteries in Kotaik province.</span></p>
 
 <p><span class="chinese">半挂车2辆，省内拉货。</span><span class="english">Semitrailer 2, save the internal bracing goods.</span></p>

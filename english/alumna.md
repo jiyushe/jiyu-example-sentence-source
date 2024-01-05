@@ -1,5 +1,7 @@
 # alumna
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alumna.md)
+
 <p><span class="chinese">这些记忆将会不断提醒自己是科大人。</span><span class="english">These memories will always recall the fact I am an HKUST alumna.</span></p>
 
 <p><span class="chinese">因此，能够被哈佛承认为校友，对我来说是一种特别的光荣。</span><span class="english">It is, therefore, for me a profound honor to be counted as an alumna.</span></p>

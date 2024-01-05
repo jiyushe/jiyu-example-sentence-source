@@ -1,5 +1,7 @@
 # 为国捐躯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiguojuanqu.md)
+
 <p><span class="chinese">好多人为国尽忠，为国捐躯。</span><span class="english">Many a man has lived and died for his country.</span></p>
 
 <p><span class="chinese">我开始祈祷，为了她父亲，在波兰为国捐躯的赫尔曼祷告。</span><span class="english">I try to pray. For Hermann, lying in a grave somewhere in Poland.</span></p>

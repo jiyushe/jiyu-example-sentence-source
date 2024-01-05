@@ -1,5 +1,7 @@
 # spy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spy.md)
+
 <p><span class="chinese">把密探带走。</span><span class="english">Take the spy.</span></p>
 
 <p><span class="chinese">最好的间谍？</span><span class="english">Best spy ever?</span></p>

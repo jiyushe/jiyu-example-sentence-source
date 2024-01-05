@@ -1,5 +1,7 @@
 # adept
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adept.md)
+
 <p><span class="chinese">他是个熟练的机械师。</span><span class="english">He is an adept mechanic.</span></p>
 
 <p><span class="chinese">他针线活是内行。</span><span class="english">He's adept in needlecraft.</span></p>

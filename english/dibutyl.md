@@ -1,5 +1,7 @@
 # dibutyl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dibutyl.md)
+
 <p><span class="chinese">酞酸二丁酯一般用来作为这类增塑剂。</span><span class="english">Dibutyl phthalate is commonly employed as such a plasticizer.</span></p>
 
 <p><span class="chinese">去年，该公司称要从指甲油中去掉邻苯二甲酸二丁酯。</span><span class="english">Last year, the company said it was removing dibutyl phthalate.</span></p>

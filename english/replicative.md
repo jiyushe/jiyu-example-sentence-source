@@ -1,5 +1,7 @@
 # replicative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/replicative.md)
+
 <p><span class="chinese">有些患者有一个稳定的低层次的复制状态。</span><span class="english">Some patients had a steady low-level replicative state.</span></p>
 
 <p><span class="chinese">复制的和复制后的DNA甲基化类型是不同的。</span><span class="english">Replicative and post-replicative DNA methylation types are distinguished.</span></p>

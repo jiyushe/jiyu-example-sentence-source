@@ -1,5 +1,7 @@
 # dour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dour.md)
+
 <p><span class="chinese">你的钮扣孔里有洞！</span><span class="english">You have dour holes in your coat-buttonholes!</span></p>
 
 <p><span class="chinese">他是个众所周知的抑郁的新英格兰清教徒。</span><span class="english">He is a proverbially dour New England Puritan.</span></p>

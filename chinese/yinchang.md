@@ -1,5 +1,7 @@
 # 吟唱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinchang.md)
+
 <p><span class="chinese">吟唱人生悲喜交加。</span><span class="english">Singing and joyful life.</span></p>
 
 <p><span class="chinese">如今春之歌依然吟唱。</span><span class="english">When songs of spring are sung.</span></p>

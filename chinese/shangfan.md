@@ -1,5 +1,7 @@
 # 商贩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangfan.md)
+
 <p><span class="chinese">商贩经常报谎价以便获得更高的利润。</span><span class="english">Peddleries usually overbid to gain more profits.</span></p>
 
 <p><span class="chinese">警察正在取缔无证商贩。</span><span class="english">The police are weeding out the unlicensed pedler.</span></p>

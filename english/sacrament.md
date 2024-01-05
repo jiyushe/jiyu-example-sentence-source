@@ -1,5 +1,7 @@
 # sacrament
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sacrament.md)
+
 <p><span class="chinese">重金属是圣礼吗？</span><span class="english">Is heavy metal a sacrament?</span></p>
 
 <p><span class="chinese">哦，夏日的圣礼。</span><span class="english">Oh, sacrament of summer days.</span></p>

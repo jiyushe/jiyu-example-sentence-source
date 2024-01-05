@@ -1,5 +1,7 @@
 # 充公
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chonggong.md)
+
 <p><span class="chinese">我们有权利把你的汇款充公。</span><span class="english">We have a right to your remittance confiscated.</span></p>
 
 <p><span class="chinese">而在中国你会被枪毙，公司会被充公。</span><span class="english">In China they may shoot the owner and confiscate the company.</span></p>

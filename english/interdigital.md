@@ -1,5 +1,7 @@
 # interdigital
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interdigital.md)
+
 <p><span class="chinese">Interdigital在八月早些时候报告收益。</span><span class="english">Interdigital reports earnings in early August.</span></p>
 
 <p><span class="chinese">该设计的特点是由一个辅助又指换能器的断开或接入。</span><span class="english">The design is characterized by breaking or connecting an auxiliary interdigital transducer.</span></p>

@@ -1,5 +1,7 @@
 # 附设
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fushe_3.md)
+
 <p><span class="chinese">这个商店附设了一个早晚服务部。</span><span class="english">This store has set up an after-hours department.</span></p>
 
 <p><span class="chinese">这个学院附设一所中学。</span><span class="english">There is a middle school attached to the institute.</span></p>

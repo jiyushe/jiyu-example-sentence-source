@@ -1,5 +1,7 @@
 # indicative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indicative.md)
+
 <p><span class="chinese">碧空无云，预示着一个好天气。</span><span class="english">Azure skies are indicative of good weather.</span></p>
 
 <p><span class="chinese">保罗思想里的「已然」与「应然」。</span><span class="english">The problem of indicative and imperative in Paul.</span></p>

@@ -1,5 +1,7 @@
 # basha
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/basha.md)
+
 <p><span class="chinese">又杀巴珊王噩，因他的慈爱永远长存。</span><span class="english">And og king of basha n--his love endures forever.</span></p>
 
 <p><span class="chinese">从江县城打车到岜沙，只不过半个小时车程。</span><span class="english">It took only half an hour by taxi from Congjiang county to Basha.</span></p>

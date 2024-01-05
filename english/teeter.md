@@ -1,5 +1,7 @@
 # teeter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teeter.md)
+
 <p><span class="chinese">孩子们常在公园玩跷跷板。</span><span class="english">The children often teeter in the park.</span></p>
 
 <p><span class="chinese">你会在失败的边沿摇摇欲坠地行走。</span><span class="english">You should teeter on the brink of failure.</span></p>

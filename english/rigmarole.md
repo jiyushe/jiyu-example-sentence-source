@@ -1,5 +1,7 @@
 # rigmarole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rigmarole.md)
+
 <p><span class="chinese">我从来没听过像这样的长篇废话。</span><span class="english">I 've never heard such rigmarole.</span></p>
 
 <p><span class="chinese">我从来没听过像这样的长篇废话。</span><span class="english">I ve never heard such a rigmarole.</span></p>

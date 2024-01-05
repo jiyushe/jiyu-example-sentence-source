@@ -1,5 +1,7 @@
 # shortcake
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shortcake.md)
+
 <p><span class="chinese">我做了草莓酥饼。</span><span class="english">I made strawberry shortcake.</span></p>
 
 <p><span class="chinese">莎利讨厌草莓松饼。</span><span class="english">Sally hates strawberry shortcake.</span></p>

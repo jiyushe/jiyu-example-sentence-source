@@ -1,5 +1,7 @@
 # ursine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ursine.md)
+
 <p><span class="chinese">熊身守护灵进场时上面有四个医疗指示物。</span><span class="english">Ursine Fylgja comes into play with four healing counters on it.</span></p>
 
 <p><span class="chinese">因此，兔胆已成为熊胆替代品。</span><span class="english">Accordingly, hare bravery already became ursine bravery substitute.</span></p>

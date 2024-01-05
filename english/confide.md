@@ -1,5 +1,7 @@
 # confide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confide.md)
+
 <p><span class="chinese">你不能得到任何人的信任吗？</span><span class="english">Not got anyone you can confide in?</span></p>
 
 <p><span class="chinese">我绝对信任他的忠实可靠。</span><span class="english">I confide absolutely in his honesty.</span></p>

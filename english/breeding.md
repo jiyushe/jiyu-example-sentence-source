@@ -1,5 +1,7 @@
 # breeding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/breeding.md)
+
 <p><span class="chinese">杰克这人缺乏教养。</span><span class="english">Jack is a man of ill breeding.</span></p>
 
 <p><span class="chinese">秋季是蜘蛛繁殖的季节。</span><span class="english">Autumn is spider breeding season.</span></p>

@@ -1,5 +1,7 @@
 # blatter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blatter.md)
+
 <p><span class="chinese">但很显然，布拉特无视了一切。</span><span class="english">But, evidently, Blatter is oblivious to all that.</span></p>
 
 <p><span class="chinese">“我们来到一片新土地。”国际足联主席赛普·布拉特说道。</span><span class="english">"We go to new lands. " FIFA President Sepp Blatter said.</span></p>

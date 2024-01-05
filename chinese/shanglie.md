@@ -1,5 +1,7 @@
 # 上列
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanglie.md)
+
 <p><span class="chinese">比如说，也许你会想要在清单上列上树木。</span><span class="english">You might want to list trees, say.</span></p>
 
 <p><span class="chinese">这份单子上列出了我感兴趣的机床。</span><span class="english">Here’s my list of interested machine tools.</span></p>

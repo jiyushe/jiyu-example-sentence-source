@@ -1,5 +1,7 @@
 # abide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abide.md)
+
 <p><span class="chinese">你怎能容忍他?</span><span class="english">How can you abide him?</span></p>
 
 <p><span class="chinese">兴母亲同住。</span><span class="english">Abide with one's mother.</span></p>

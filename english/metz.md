@@ -1,5 +1,7 @@
 # metz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metz.md)
+
 <p><span class="chinese">“这不只是花费问题，”麦兹说道。</span><span class="english">"It's not just about the cost, " Metz said.</span></p>
 
 <p><span class="chinese">那凡尔登与梅斯的防御工事呢？</span><span class="english">What about the fortifications at Verdun and Metz?</span></p>

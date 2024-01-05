@@ -1,5 +1,7 @@
 # effectuation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/effectuation.md)
+
 <p><span class="chinese">法律行为既可以附条件又可以附期限。</span><span class="english">Chapter 4 focuses on validity of juristic act based on effectuation.</span></p>
 
 <p><span class="chinese">将英语学习纳入年度训练计画实施。</span><span class="english">Incorporate English learning as part of our school yearly effectuation.</span></p>

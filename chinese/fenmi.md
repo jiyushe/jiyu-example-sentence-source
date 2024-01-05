@@ -1,5 +1,7 @@
 # 分泌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenmi.md)
+
 <p><span class="chinese">不再分泌唾液。</span><span class="english">You stop.</span></p>
 
 <p><span class="chinese">他研究的是唾液的分泌。</span><span class="english">He was interested in saliva.</span></p>

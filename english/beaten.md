@@ -1,5 +1,7 @@
 # beaten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beaten.md)
+
 <p><span class="chinese">刷上打散的鸡蛋上光。</span><span class="english">Brush on beaten egg glaze.</span></p>
 
 <p><span class="chinese">他被打的鼻青脸肿。</span><span class="english">He was beaten black and blue.</span></p>

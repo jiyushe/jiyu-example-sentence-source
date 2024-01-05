@@ -1,5 +1,7 @@
 # aspirated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aspirated.md)
+
 <p><span class="chinese">样品可以通过泵给一个压力进样或自动进样。</span><span class="english">Samples can be pumped or free aspirated.</span></p>
 
 <p><span class="chinese">中的p要送气发音，但spin中的p不送气发音。</span><span class="english">P is aspirated in pin but not in spin. pin.</span></p>

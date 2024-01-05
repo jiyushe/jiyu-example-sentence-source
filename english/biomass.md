@@ -1,5 +1,7 @@
 # biomass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biomass.md)
+
 <p><span class="chinese">全球排名前20位传统生物能燃料使用国</span><span class="english">Top-20 users of traditional biomass fuels</span></p>
 
 <p><span class="chinese">他们出于许多原因而需要生物质。</span><span class="english">They need biomass for a number of reasons.</span></p>

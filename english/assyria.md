@@ -1,5 +1,7 @@
 # assyria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assyria.md)
+
 <p><span class="chinese">那时，亚哈斯王差遣人去见亚述诸王，求他们帮助。</span><span class="english">At that time King Ahaz sent to the king of Assyria for help.</span></p>
 
 <p><span class="chinese">他背叛，不肯事奉亚述王。</span><span class="english">He rebelled against the king of Assyria and did not serve him.</span></p>

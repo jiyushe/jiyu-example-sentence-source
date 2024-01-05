@@ -1,5 +1,7 @@
 # 顺耳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuner.md)
+
 <p><span class="chinese">这首诗读来顺耳。</span><span class="english">This poem reads well.</span></p>
 
 <p><span class="chinese">当然，爱上瘾听上去更顺耳。</span><span class="english">Love addict sounds nicer for sure.</span></p>

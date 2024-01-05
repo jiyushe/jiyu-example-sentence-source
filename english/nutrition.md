@@ -1,5 +1,7 @@
 # nutrition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nutrition.md)
+
 <p><span class="chinese">壮志雄心地投入到食品营养的研发上。</span><span class="english">For its ambitious nutrition R&D.</span></p>
 
 <p><span class="chinese">牛奶是一种近乎完美的营养品。</span><span class="english">Milk is a near perfect nutrition.</span></p>

@@ -1,5 +1,7 @@
 # sympatric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sympatric.md)
+
 <p><span class="chinese">食性分化推动了同域物种形成。</span><span class="english">Host plants differentiation accelerates sympatric speciation.</span></p>
 
 <p><span class="chinese">相似物种在共域活动时经常发生资源分配的情形。</span><span class="english">Similar species are often found to partition resources where they are sympatric.</span></p>

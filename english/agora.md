@@ -1,5 +1,7 @@
 # agora
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agora.md)
+
 <p><span class="chinese">雅典的集会所就是他的讲堂。</span><span class="english">The Athenian agora was his teaching room.</span></p>
 
 <p><span class="chinese">遗址博物馆，古安哥拉遗址，雅典，希腊。</span><span class="english">Agora Museum, Ancient Agora, Athens, Greece.</span></p>

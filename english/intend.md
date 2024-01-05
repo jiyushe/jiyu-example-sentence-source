@@ -1,5 +1,7 @@
 # intend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intend.md)
+
 <p><span class="chinese">我准备结束这一战争。</span><span class="english">I intend to end this war.</span></p>
 
 <p><span class="chinese">我要给我的房门上锁。</span><span class="english">I intend to lock my door.</span></p>

@@ -1,5 +1,7 @@
 # 舒张
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuzhang.md)
+
 <p><span class="chinese">像分数那样收缩的在上舒张的在下给出血压值。</span><span class="english">They're given as systolic over diastolic, like a fraction.</span></p>
 
 <p><span class="chinese">自动定位收缩和舒张末结束帧。</span><span class="english">Automatically locates the end systolic and end diastolic frames.</span></p>

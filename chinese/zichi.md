@@ -1,5 +1,7 @@
 # 自持
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zichi.md)
+
 <p><span class="chinese">我有一种难以自持的冲动想吻她。</span><span class="english">I had an overwhelming urge to kiss her.</span></p>
 
 <p><span class="chinese">我将暗承受，自持且死去</span><span class="english">Then would I bear, and clench myself, and die</span></p>

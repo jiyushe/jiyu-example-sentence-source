@@ -1,5 +1,7 @@
 # 残羹剩饭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cangengshengfan.md)
+
 <p><span class="chinese">学会如何使用残羹剩饭。</span><span class="english">Learn how to use leftovers in recipes.</span></p>
 
 <p><span class="chinese">农民们用厨房里的残羹剩饭喂猪。</span><span class="english">Farmers feed kitchen waste to the pigs.</span></p>

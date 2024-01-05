@@ -1,5 +1,7 @@
 # 定向培育
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingxiangpeiyu.md)
+
 <p><span class="chinese">1979年我们创造了“棉枯萎抗性定向培育法”。</span><span class="english">We developed a directive cotton breeding method of resistance to Furarium through 1974—1979.</span></p>
 
 <p><span class="chinese">该文具体论述了意杨优质胶合板材的要求及其进行定向培育的措施。</span><span class="english">This paper analyses the demands on the trees of producing plywood. And it also suggests the measures for directive breeding.</span></p>

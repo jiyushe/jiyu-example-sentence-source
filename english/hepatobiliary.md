@@ -1,5 +1,7 @@
 # hepatobiliary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hepatobiliary.md)
+
 <p><span class="chinese">约瑟夫·施拉格是一名身兼肝胆和胰脏科的医生。</span><span class="english">Joseph Shrager is a Hepatobiliary and Pancreatic surgeon.</span></p>
 
 <p><span class="chinese">巨结节型之肝胆道结核菌感染是非常罕见的。</span><span class="english">The macronodular form of hepatobiliary tuberculosis is rare.</span></p>

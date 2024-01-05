@@ -1,5 +1,7 @@
 # trendline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trendline.md)
+
 <p><span class="chinese">如果我们抛售，今天打破这个趋势，我们跳出下周。</span><span class="english">If we selloff today and break this trendline we bounce next week.</span></p>
 
 <p><span class="chinese">但是，绘制走势图和趋势线允许一位偏差的。</span><span class="english">But charting and trendline drawing allow for a bit of wiggle room.</span></p>

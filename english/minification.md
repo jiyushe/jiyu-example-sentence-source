@@ -1,5 +1,7 @@
 # minification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minification.md)
+
 <p><span class="chinese">如何缩小工作是否影响角嵌套的对象？</span><span class="english">How does minification work and does it affect angular nested objects?</span></p>
 
 <p><span class="chinese">外部和内部样式表都可以缩小。</span><span class="english">You can use minification for both external and internal style sheets.</span></p>

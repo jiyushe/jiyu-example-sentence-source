@@ -1,5 +1,7 @@
 # 手上
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoushang_1.md)
+
 <p><span class="chinese">胜负全在你手上。</span><span class="english">It's in you hands.</span></p>
 
 <p><span class="chinese">我们手上有一个人质！</span><span class="english">And we got a hostage!</span></p>

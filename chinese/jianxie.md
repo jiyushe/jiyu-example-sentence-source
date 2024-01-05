@@ -1,5 +1,7 @@
 # 间歇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianxie.md)
+
 <p><span class="chinese">这叫做“间歇喷泉”。</span><span class="english">This is called a geyser.</span></p>
 
 <p><span class="chinese">火山和间歇喷泉均能喷发。</span><span class="english">Volcanoes and geysers erupt.</span></p>

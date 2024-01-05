@@ -1,5 +1,7 @@
 # 干巴巴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganbaba.md)
+
 <p><span class="chinese">有种干巴巴的感觉。</span><span class="english">It has that dry quality to it.</span></p>
 
 <p><span class="chinese">"尿到里面"，她干巴巴地说。</span><span class="english">"Urinate into this," she said dryly.</span></p>

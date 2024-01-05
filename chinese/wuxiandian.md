@@ -1,5 +1,7 @@
 # 无线电
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuxiandian.md)
+
 <p><span class="chinese">毕竟是无线电设备发出的。</span><span class="english">after all, radios do that.</span></p>
 
 <p><span class="chinese">你有没有无线电对讲机啊？</span><span class="english">Do you have a walkie-talkie?</span></p>

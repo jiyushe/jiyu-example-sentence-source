@@ -1,5 +1,7 @@
 # 田鼠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianshu_1.md)
+
 <p><span class="chinese">这次，田鼠逃过一劫。</span><span class="english">This time, the vole escapes.</span></p>
 
 <p><span class="chinese">草原田鼠却不会结成配偶。</span><span class="english">Meadow voles do not form pair bonds.</span></p>

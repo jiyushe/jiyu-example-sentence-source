@@ -1,5 +1,7 @@
 # intricate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intricate.md)
+
 <p><span class="chinese">挑染现在很流行。</span><span class="english">Intricate highlighting is very popular now.</span></p>
 
 <p><span class="chinese">洛可可式圣坛背壁装饰画的复杂细节。</span><span class="english">The intricate detail of a rococo altarpiece.</span></p>

@@ -1,5 +1,7 @@
 # gridlock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gridlock.md)
+
 <p><span class="chinese">一声尖锐的哨声，眼中投射出的愤怒眼神，一场极端严重的全面交通堵塞的威胁就这样避免了。</span><span class="english">An angry stare. The threat of gridlock faded.</span></p>
 
 <p><span class="chinese">但是北京人对这种规模巨大的交通阻塞早已习以为常。</span><span class="english">But Beijingers are used to epic-scale gridlock.</span></p>

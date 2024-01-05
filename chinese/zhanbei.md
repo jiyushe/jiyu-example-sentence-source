@@ -1,5 +1,7 @@
 # 战备
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanbei.md)
+
 <p><span class="chinese">部队已进入战备状态。</span><span class="english">The troops have entered into combat readiness.</span></p>
 
 <p><span class="chinese">我认为这是理想的方阵战备方式</span><span class="english">I'd like to think that's the ideal hoplite mode.</span></p>

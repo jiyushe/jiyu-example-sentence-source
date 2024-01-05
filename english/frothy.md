@@ -1,5 +1,7 @@
 # frothy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frothy.md)
+
 <p><span class="chinese">汗珠马或马类的泡沫状汗水。</span><span class="english">The frothy sweat of a horse or other equine animal.</span></p>
 
 <p><span class="chinese">等量的烹煮香浓咖啡和绵密冒蒸的奶泡！</span><span class="english">Equal parts rich-brewed coffee and frothy steamed milk!</span></p>

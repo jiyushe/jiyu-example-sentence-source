@@ -1,5 +1,7 @@
 # bergamot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bergamot.md)
+
 <p><span class="chinese">佛手柑油还常常应用于芳香疗法中。</span><span class="english">Bergamot oil is also commonly used in aromatherapy.</span></p>
 
 <p><span class="chinese">红茶，金盏花，红花，香柠檬油。</span><span class="english">Black tea, marigold petals, safflowers, and bergamot oil.</span></p>

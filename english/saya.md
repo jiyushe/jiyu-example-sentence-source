@@ -1,5 +1,7 @@
 # saya
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saya.md)
+
 <p><span class="chinese">莎娅与九段小学的学生们在一起。</span><span class="english">Saya with pupils at the Kudan primary school.</span></p>
 
 <p><span class="chinese">有关塞娅的可怕事情是她虚拟的过去。</span><span class="english">The scary thing about Saya is her virtual past.</span></p>

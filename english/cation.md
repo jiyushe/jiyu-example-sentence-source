@@ -1,5 +1,7 @@
 # cation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cation.md)
+
 <p><span class="chinese">阳离子的电荷乘以。</span><span class="english">e The charge on the cation times e.</span></p>
 
 <p><span class="chinese">阳离子带正电荷，阴离子带负电荷。</span><span class="english">Cation is plus one, anion is minus one.</span></p>

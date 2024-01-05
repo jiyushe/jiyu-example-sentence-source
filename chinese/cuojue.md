@@ -1,5 +1,7 @@
 # 错觉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuojue.md)
+
 <p><span class="chinese">爱是一种错觉，就将错就错吧！</span><span class="english">Love is always my gift to you!</span></p>
 
 <p><span class="chinese">在三个层面上可见这是一个错觉。</span><span class="english">For delusion it is, on three levels.</span></p>

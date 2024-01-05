@@ -1,5 +1,7 @@
 # 贞操
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhencao.md)
+
 <p><span class="chinese">罪恶、羞耻或处女贞操的失去。</span><span class="english">A sin, or a shame, or loss of maidenhead.</span></p>
 
 <p><span class="chinese">她们还对较早失去贞操感到压力更大。</span><span class="english">They also feel more pressurised to lose their virginity early.</span></p>

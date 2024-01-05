@@ -1,5 +1,7 @@
 # buy 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buy.md)
+
 <p><span class="chinese">购买散装。</span><span class="english">Buy bulk.</span></p>
 
 <p><span class="chinese">我要买车！墨尔本！</span><span class="english">Buy a car!</span></p>

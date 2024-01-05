@@ -1,5 +1,7 @@
 # unwashed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unwashed.md)
+
 <p><span class="chinese">难道你没看到学校那些龌龊的家伙？</span><span class="english">Have you seen the unwashed miscreants that go to that school ?</span></p>
 
 <p><span class="chinese">儿童和妇女必须避免与未洗或赤身应用网站联系。</span><span class="english">Children and women must avoid contact with unwashed or unclothed application sites.</span></p>

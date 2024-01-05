@@ -1,5 +1,7 @@
 # crowning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crowning.md)
+
 <p><span class="chinese">她的秀发是她的无尚荣耀。</span><span class="english">Her hair is her crowning glory.</span></p>
 
 <p><span class="chinese">酒店的员工们就是酒店王冠上闪耀的光芒。</span><span class="english">The hotel staff were the crowning glory of the hotel.</span></p>

@@ -1,5 +1,7 @@
 # downloadable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/downloadable.md)
+
 <p><span class="chinese">下载图片，动画和铃声。</span><span class="english">Downloadable pictures, animations and ring tones.</span></p>
 
 <p><span class="chinese">他们只提供了一个可下载的.deb文件。</span><span class="english">In this case they just provide a downloadable .deb file.</span></p>

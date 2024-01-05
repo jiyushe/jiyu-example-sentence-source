@@ -1,5 +1,7 @@
 # perpetrator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perpetrator.md)
+
 <p><span class="chinese">浮石认为自己既是始作俑者，也是受害者。</span><span class="english">Mr. Fu sees himself as both perpetrator and victim.</span></p>
 
 <p><span class="chinese">而且社会的几乎所有部门都有责任。</span><span class="english">And almost every sector of society is a perpetrator.</span></p>

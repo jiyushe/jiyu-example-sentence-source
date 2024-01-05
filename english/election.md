@@ -1,5 +1,7 @@
 # election
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/election.md)
+
 <p><span class="chinese">荣安选的是狗。</span><span class="english">Rong election is a dog.</span></p>
 
 <p><span class="chinese">这次选举是一场骗局。</span><span class="english">The election is a fraud.</span></p>

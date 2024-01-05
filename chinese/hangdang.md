@@ -1,5 +1,7 @@
 # 行当
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hangdang.md)
+
 <p><span class="chinese">会计这行当就像一把剑。</span><span class="english">The accounting profession is a sword.</span></p>
 
 <p><span class="chinese">她在新行当里干得很不错。</span><span class="english">She is doing fine in her new business.</span></p>

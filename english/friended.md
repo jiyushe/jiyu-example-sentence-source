@@ -1,5 +1,7 @@
 # friended
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/friended.md)
+
 <p><span class="chinese">我在脸谱上加你为好友。</span><span class="english">I friended you on facebook.</span></p>
 
 <p><span class="chinese">从S加我为好友开始，算来已经一年过去了。</span><span class="english">A year had passed since S had friended me.</span></p>

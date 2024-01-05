@@ -1,5 +1,7 @@
 # 语焉不详
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuyanbuxiang.md)
+
 <p><span class="chinese">杂志今天更是语焉不详。</span><span class="english">Zines today are even more elaborate.</span></p>
 
 <p><span class="chinese">像往常一样，该文件对中国所持有的武器语焉不详。</span><span class="english">As usual it gives few details of China’s own weapons.</span></p>

@@ -1,5 +1,7 @@
 # 冥想
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingxiang.md)
+
 <p><span class="chinese">引导性冥想治疗法。</span><span class="english">Guided meditation.</span></p>
 
 <p><span class="chinese">做一会冥想。</span><span class="english">Do some meditation.</span></p>

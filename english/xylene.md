@@ -1,5 +1,7 @@
 # xylene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xylene.md)
+
 <p><span class="chinese">二甲苯。白电油。</span><span class="english">Xylene. white petroleum spirit.</span></p>
 
 <p><span class="chinese">透明剂包括苯和二甲苯。</span><span class="english">Clearing agents include benzene and xylene.</span></p>

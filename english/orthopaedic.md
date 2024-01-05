@@ -1,5 +1,7 @@
 # orthopaedic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orthopaedic.md)
+
 <p><span class="chinese">关节镜外科是骨科的一项新技术。</span><span class="english">Arthroscopic surgery is anew technique for orthopaedic.</span></p>
 
 <p><span class="chinese">唇裂做手术属于矫形吗？？？？</span><span class="english">Does harelip do an operation to belong to orthopaedic? ? ? ?</span></p>

@@ -1,5 +1,7 @@
 # rubber 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rubber.md)
+
 <p><span class="chinese">那是一根橡皮筋。</span><span class="english">A rubber band.</span></p>
 
 <p><span class="chinese">拿出你的橡皮擦给我看。</span><span class="english">Show me your rubber.</span></p>

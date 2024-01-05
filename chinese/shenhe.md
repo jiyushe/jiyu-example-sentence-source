@@ -1,5 +1,7 @@
 # 审核
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenhe.md)
+
 <p><span class="chinese">避免审核账单。</span><span class="english">Avoid the line-item audit.</span></p>
 
 <p><span class="chinese">审核跟班质量报告。</span><span class="english">Check quality records of shift.</span></p>

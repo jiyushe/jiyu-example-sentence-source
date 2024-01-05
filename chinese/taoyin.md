@@ -1,5 +1,7 @@
 # 套印
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taoyin.md)
+
 <p><span class="chinese">棉花纱多臂机的套印。</span><span class="english">Cotton voile dobby with overprint.</span></p>
 
 <p><span class="chinese">多次套印废品率高，色彩偏差大。</span><span class="english">High reject rate, Large color deviation.</span></p>

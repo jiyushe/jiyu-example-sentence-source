@@ -1,5 +1,7 @@
 # megakaryocyte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/megakaryocyte.md)
+
 <p><span class="chinese">在右侧中心处有一个孤立巨核细胞。</span><span class="english">There is one lone megakaryocyte at the right center.</span></p>
 
 <p><span class="chinese">细胞免疫化学法检测巨核细胞MPL。</span><span class="english">Immune cytochemistry was used to detect MPL on megakaryocyte.</span></p>

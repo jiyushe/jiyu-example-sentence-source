@@ -1,5 +1,7 @@
 # biochemistry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biochemistry.md)
+
 <p><span class="chinese">但生物化学远远超出氧气。</span><span class="english">But biochemistry goes far beyond oxygen.</span></p>
 
 <p><span class="chinese">如果发烧我身体的生物化学化境会发生变化。</span><span class="english">So my biochemistry would change if I had a fever.</span></p>

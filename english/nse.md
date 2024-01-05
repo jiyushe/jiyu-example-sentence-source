@@ -1,5 +1,7 @@
 # nse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nse.md)
+
 <p><span class="chinese">打扰一下，我来自电台NSE的。我能问你一些问题吗？谢谢。</span><span class="english">Excuse me, I'm from Radio NSE. Can I ask you some questions, please?</span></p>
 
 <p><span class="chinese">透析治疗使血清CA125和NSE的诊断价值进一步降低。</span><span class="english">Dialysis treatment itself may further reduce the diagnostic value of CA125 and NSE.</span></p>

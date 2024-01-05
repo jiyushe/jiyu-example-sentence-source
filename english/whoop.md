@@ -1,5 +1,7 @@
 # whoop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whoop.md)
+
 <p><span class="chinese">我们救世军能够抹平朝鲜。</span><span class="english">Our Salvation Army could whoop N. Korea.</span></p>
 
 <p><span class="chinese">当杰克加入舞者的圆圈中时，猎人们发出一阵欢呼。</span><span class="english">The hunters WHOOP and CHEER as Jake joins the circle of</span></p>

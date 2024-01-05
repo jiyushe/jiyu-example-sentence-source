@@ -1,5 +1,7 @@
 # isothermal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isothermal.md)
+
 <p><span class="chinese">这是恒温的变化。</span><span class="english">It's an isothermal change.</span></p>
 
 <p><span class="chinese">那么这是路径A，它是等温的。</span><span class="english">So here's path A, it's isothermal.</span></p>

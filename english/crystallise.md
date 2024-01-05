@@ -1,5 +1,7 @@
 # crystallise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crystallise.md)
+
 <p><span class="chinese">糖果不应该结晶但是也不应该吸收太多水分。</span><span class="english">The candy should not crystallise but should also not absorb too much water.</span></p>
 
 <p><span class="chinese">肾结石是尿液中的矿物质结晶而成为的固体。</span><span class="english">A kidney stone is a solid mass formed when minerals in our urine crystallise.</span></p>

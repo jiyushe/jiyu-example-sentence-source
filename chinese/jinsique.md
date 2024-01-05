@@ -1,5 +1,7 @@
 # 金丝雀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinsique.md)
+
 <p><span class="chinese">那只金丝雀整天在鸣叫。</span><span class="english">The canary warbled all day long.</span></p>
 
 <p><span class="chinese">那只金丝雀在笼中鸣啾。</span><span class="english">I coaxed the canary into the cage.</span></p>

@@ -1,5 +1,7 @@
 # 穷途末路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiongtumolu.md)
+
 <p><span class="chinese">但是，实际上台式电脑正在走向穷途末路吗?</span><span class="english">But are they actually on their way out?</span></p>
 
 <p><span class="chinese">这并不意味着雄心已到了穷途末路。</span><span class="english">This does not mean that ambition is at an end.</span></p>

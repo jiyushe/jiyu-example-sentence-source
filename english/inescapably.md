@@ -1,5 +1,7 @@
 # inescapably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inescapably.md)
+
 <p><span class="chinese">事实上，他们确是两者的化身。</span><span class="english">In truth, they are inescapably both</span></p>
 
 <p><span class="chinese">这无法逃遁地是一个宗教信仰任务。</span><span class="english">This is inescapably a religious task.</span></p>

@@ -1,5 +1,7 @@
 # introductory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/introductory.md)
+
 <p><span class="chinese">此时将显示关于模式的介绍信息。</span><span class="english">Introductory information about patterns is displayed.</span></p>
 
 <p><span class="chinese">忘记了开场白真使我窘迫。</span><span class="english">Forgetting the introductory remarks really mortified me.</span></p>

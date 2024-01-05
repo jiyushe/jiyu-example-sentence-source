@@ -1,5 +1,7 @@
 # syrup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/syrup.md)
+
 <p><span class="chinese">这瓶糖浆是治咳嗽的吗?。</span><span class="english">Is this syrup for my cough?</span></p>
 
 <p><span class="chinese">玉米糖浆跟色素吗？</span><span class="english">Karo syrup and food coloring?</span></p>

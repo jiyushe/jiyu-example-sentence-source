@@ -1,5 +1,7 @@
 # 宽广
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuanguang.md)
+
 <p><span class="chinese">博大宽广，悦心而动。</span><span class="english">Broad, mind and.</span></p>
 
 <p><span class="chinese">要像海一般宽广。正所谓「有容乃大」。</span><span class="english">In tolerance be like a sea.</span></p>

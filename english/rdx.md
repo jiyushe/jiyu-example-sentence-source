@@ -1,5 +1,7 @@
 # rdx
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rdx.md)
+
 <p><span class="chinese">是一个非常有名的爆炸物，RDX，is，a，famous，explosive，我相信你们知道。</span><span class="english">RDX as I'm sure you know.</span></p>
 
 <p><span class="chinese">对一种改性的RDX炸药进行了热烤实验。</span><span class="english">The Cook-off test of RDX explosive was carried out.</span></p>

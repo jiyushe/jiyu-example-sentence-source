@@ -1,5 +1,7 @@
 # malolactic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malolactic.md)
+
 <p><span class="chinese">乳酸发酵是至关重要的减少葡萄酒的酸度。</span><span class="english">Malolactic fermentation is vital to lessen the wine's acidity.</span></p>
 
 <p><span class="chinese">在苹果乳酸发酵期间会转化为更圆滑的乳酸。</span><span class="english">Converted to smoother lactic acid during malolactic fermentation.</span></p>

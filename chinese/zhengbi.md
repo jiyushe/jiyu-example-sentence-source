@@ -1,5 +1,7 @@
 # 正比
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengbi.md)
+
 <p><span class="chinese">不公正比全面毁灭来得好。</span><span class="english">Injustice is preferable to total ruin.</span></p>
 
 <p><span class="chinese">这是很简单的一种正比关系。</span><span class="english">It could be mathematically worked out.</span></p>

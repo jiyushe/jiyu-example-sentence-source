@@ -1,5 +1,7 @@
 # 缘由
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanyou_1.md)
+
 <p><span class="chinese">这就是我认识赛斯•罗根的缘由。</span><span class="english">That’s how I met Seth Rogen.</span></p>
 
 <p><span class="chinese">也是虚胖的缘由一。</span><span class="english">Puffiness of the reason is one.</span></p>

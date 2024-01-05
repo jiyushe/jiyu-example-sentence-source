@@ -1,5 +1,7 @@
 # 在意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaiyi.md)
+
 <p><span class="chinese">但我不在意。</span><span class="english">Not that I cared.</span></p>
 
 <p><span class="chinese">他会在意地聆听。</span><span class="english">He listened and cared.</span></p>

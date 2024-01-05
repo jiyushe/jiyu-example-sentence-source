@@ -1,5 +1,7 @@
 # eclipse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eclipse.md)
+
 <p><span class="chinese">日食“蹙眉”</span><span class="english">Eclipse "Frown"</span></p>
 
 <p><span class="chinese">什么是日环食？</span><span class="english">WHAT IS AN ANNULAR ECLIPSE?</span></p>

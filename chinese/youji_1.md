@@ -1,5 +1,7 @@
 # 游击
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youji_1.md)
+
 <p><span class="chinese">第三，“尝试游击战术”。</span><span class="english">Third, "Try guerilla tactics."</span></p>
 
 <p><span class="chinese">游击女郎本身的名称也是一种扭曲的讽刺。</span><span class="english">The name Guerilla Girl also has a twist of irony.</span></p>

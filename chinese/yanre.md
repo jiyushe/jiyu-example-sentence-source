@@ -1,5 +1,7 @@
 # 炎热
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanre.md)
+
 <p><span class="chinese">既炎热又阳光。</span><span class="english">Both hot and sunny.</span></p>
 
 <p><span class="chinese">炎热的长夏晒枯了青草。</span><span class="english">It was a torrid summer day.</span></p>

@@ -1,5 +1,7 @@
 # buchenwald
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buchenwald.md)
+
 <p><span class="chinese">手样品由布痕瓦尔德集中营囚犯制造的武器。</span><span class="english">Samples of hand-made weapons made by Buchenwald prisoners.</span></p>
 
 <p><span class="chinese">后来，他们访问了不累瓦尔德纳粹集中营遗址。</span><span class="english">Later they visited the remains of the Nazi death camp at Buchenwald.</span></p>

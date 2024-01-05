@@ -1,5 +1,7 @@
 # 无所谓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wusuowei.md)
+
 <p><span class="chinese">我在你心里已经无所谓了吗？</span><span class="english">Am I nothing to you any more?</span></p>
 
 <p><span class="chinese">其他的都无所谓，</span><span class="english">Everything else doesn't matter,</span></p>

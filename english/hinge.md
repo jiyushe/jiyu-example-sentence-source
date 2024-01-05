@@ -1,5 +1,7 @@
 # hinge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hinge.md)
+
 <p><span class="chinese">请注意铰链销行。</span><span class="english">Note the hinge pin line.</span></p>
 
 <p><span class="chinese">门依靠门枢而转动。</span><span class="english">A door turns on its hinge.</span></p>

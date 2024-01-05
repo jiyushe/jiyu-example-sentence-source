@@ -1,5 +1,7 @@
 # rostov
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rostov.md)
+
 <p><span class="chinese">“是的，我也疲倦了。”罗斯托夫说。</span><span class="english">"Yes, I'm tired too, " said Rostov.</span></p>
 
 <p><span class="chinese">斯托夫和伊林心情十分愉快。</span><span class="english">Rostov and Ilyin were in the liveliest spirits.</span></p>

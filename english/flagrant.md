@@ -1,5 +1,7 @@
 # flagrant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flagrant.md)
+
 <p><span class="chinese">他犯下了滔天大罪。</span><span class="english">He committed a flagrant crime.</span></p>
 
 <p><span class="chinese">最明目张胆的藐视法律行径要算闯红灯了。</span><span class="english">The most flagrant scofflaw of them all is the red-light runner.</span></p>

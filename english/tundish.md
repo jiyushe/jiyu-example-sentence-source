@@ -1,5 +1,7 @@
 # tundish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tundish.md)
+
 <p><span class="chinese">同时确定了中间包卷渣的临界高度。</span><span class="english">The critical highness of slag entrapment was gained in tundish.</span></p>
 
 <p><span class="chinese">研究离心中间包离心室旋流发生的方法。</span><span class="english">The generation of swirling flow in a centrifugal tundish is studied.</span></p>

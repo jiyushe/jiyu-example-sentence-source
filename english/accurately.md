@@ -1,5 +1,7 @@
 # accurately
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accurately.md)
+
 <p><span class="chinese">他能计量准确吗?</span><span class="english">Can he measure accurately?</span></p>
 
 <p><span class="chinese">你要把这些准确地描绘出来。</span><span class="english">You’ve got portray that accurately.</span></p>

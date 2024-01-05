@@ -1,5 +1,7 @@
 # indemnificatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indemnificatory.md)
+
 <p><span class="chinese">保障性住房难就难在资金来源。</span><span class="english">Indemnificatory housing difficultly on difficultly in sources of fund.</span></p>
 
 <p><span class="chinese">因为目前，深圳的保障房价格大约为市场价格的三分之一。</span><span class="english">Currently, the price of indemnificatory housings is about one-third of the market price in Shenzhen.</span></p>

@@ -1,5 +1,7 @@
 # 耶和华
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yehehua.md)
+
 <p><span class="chinese">你们应当颂赞耶和华。</span><span class="english">Bless ye the LORD.</span></p>
 
 <p><span class="chinese">这样，耶和华才放了他。</span><span class="english">So the Lord let him alone.</span></p>

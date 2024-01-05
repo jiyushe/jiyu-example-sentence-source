@@ -1,5 +1,7 @@
 # 古都
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gudu.md)
+
 <p><span class="chinese">天国古都，大马士革，神秘又古老。</span><span class="english">Heaven ancient capital, Damascus, mysterious and old.</span></p>
 
 <p><span class="chinese">我正在中国古都西安撰写此文。</span><span class="english">I am writing this in Xi’an, ancient capital of the Chinese empire.</span></p>

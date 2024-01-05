@@ -1,5 +1,7 @@
 # 丑角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/choujue.md)
+
 <p><span class="chinese">我们用哔哔声消除丑角式人物的污秽的台词。</span><span class="english">We bleeped the comedian's obscene lines.</span></p>
 
 <p><span class="chinese">小丑，丑角小丑，尤指表演的丑角。</span><span class="english">A buffoon, especially a performing clown.</span></p>

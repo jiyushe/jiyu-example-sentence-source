@@ -1,5 +1,7 @@
 # 野生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yesheng.md)
+
 <p><span class="chinese">上海野生动物园的入口处。</span><span class="english">The entrance of the zoon.</span></p>
 
 <p><span class="chinese">这些草药一般是野生的。</span><span class="english">These herbs usually grow wild.</span></p>

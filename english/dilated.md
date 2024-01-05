@@ -1,5 +1,7 @@
 # dilated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dilated.md)
+
 <p><span class="chinese">在黑暗中猫眼睁大了。</span><span class="english">The cat's eyes dilated in the darkness.</span></p>
 
 <p><span class="chinese">猫在黑暗中睁大眼睛。</span><span class="english">The cat dilated its eyes in the darkness.</span></p>

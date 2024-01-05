@@ -1,5 +1,7 @@
 # 特产
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/techan.md)
+
 <p><span class="chinese">南澳特产龙虾。</span><span class="english">South Australian lobster products.</span></p>
 
 <p><span class="chinese">黔西南有哪些特产食品？</span><span class="english">What specialty food southwest Guizhou?</span></p>

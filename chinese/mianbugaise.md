@@ -1,5 +1,7 @@
 # 面不改色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianbugaise.md)
+
 <p><span class="chinese">她竭力使自己做到面不改色。</span><span class="english">Her face tried to look normal.</span></p>
 
 <p><span class="chinese">当她重新安装子弹时，仍然面不改色。</span><span class="english">Her face remains impassive as she reloads.</span></p>

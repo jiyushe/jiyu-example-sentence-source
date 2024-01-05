@@ -1,5 +1,7 @@
 # massa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/massa.md)
+
 <p><span class="chinese">马萨耸耸肩。</span><span class="english">Massa shrugs.</span></p>
 
 <p><span class="chinese">马萨第一次战栗起来。</span><span class="english">Massa shudders for the first time.</span></p>

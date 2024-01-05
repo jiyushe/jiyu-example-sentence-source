@@ -1,5 +1,7 @@
 # senatorial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/senatorial.md)
+
 <p><span class="chinese">我们把众议院立法这道茶倒入参议员这个茶杯来冷却。</span><span class="english">We pour House legislation into the senatorial saucer to cool it.</span></p>
 
 <p><span class="chinese">当时卫星的议员代表是年轻的春竹琦。</span><span class="english">The moon's Senatorial representative at the time was young Riyo Chuchi.</span></p>

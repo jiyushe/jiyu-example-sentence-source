@@ -1,5 +1,7 @@
 # julian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/julian.md)
+
 <p><span class="chinese">朱利安是描绘略图的最困难。</span><span class="english">Julian was the hardest to draw.</span></p>
 
 <p><span class="chinese">朱利安·阿桑奇也是一个革新者。</span><span class="english">Julian Assange is also an innovator.</span></p>

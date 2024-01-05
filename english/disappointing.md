@@ -1,5 +1,7 @@
 # disappointing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disappointing.md)
+
 <p><span class="chinese">那是很令人失望的。</span><span class="english">It's very disappointing.</span></p>
 
 <p><span class="chinese">真让人失望。</span><span class="english">So it's very disappointing.</span></p>

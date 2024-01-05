@@ -1,5 +1,7 @@
 # 指甲油
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhijiayou.md)
+
 <p><span class="chinese">试试这种指甲油。</span><span class="english">Try this nail-polish.</span></p>
 
 <p><span class="chinese">一起涂指甲油.</span><span class="english">Paint your nails together.</span></p>

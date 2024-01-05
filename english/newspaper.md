@@ -1,5 +1,7 @@
 # newspaper 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/newspaper.md)
+
 <p><span class="chinese">这份报纸要八便士。</span><span class="english">This newspaper costs 8p.</span></p>
 
 <p><span class="chinese">把网页设计成一份报纸。</span><span class="english">Web-site as a newspaper.</span></p>

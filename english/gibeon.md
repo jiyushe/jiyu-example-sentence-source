@@ -1,5 +1,7 @@
 # gibeon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gibeon.md)
+
 <p><span class="chinese">在基遍住的有基遍的父亲耶利。</span><span class="english">Jeiel the father of Gibeon lived in Gibeon.</span></p>
 
 <p><span class="chinese">你对基遍人事件有何感想？</span><span class="english">What have you learned from the event of Gibeon?</span></p>

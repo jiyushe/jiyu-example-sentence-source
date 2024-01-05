@@ -1,5 +1,7 @@
 # shellfish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shellfish.md)
+
 <p><span class="chinese">他们在落潮时采集贝壳类动物。</span><span class="english">They gathered shellfish at low tide.</span></p>
 
 <p><span class="chinese">自私的贝类嗅了嗅不新鲜的鱼味。</span><span class="english">A selfish shellfish smelt a stale fish.</span></p>

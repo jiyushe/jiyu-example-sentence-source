@@ -1,5 +1,7 @@
 # frugally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frugally.md)
+
 <p><span class="chinese">她被责成更俭省地生活。</span><span class="english">She was enjoined to live more frugally.</span></p>
 
 <p><span class="chinese">我们还能活得更省一点。</span><span class="english">We’re able to live a lot more frugally now.</span></p>

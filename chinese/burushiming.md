@@ -1,5 +1,7 @@
 # 不辱使命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/burushiming.md)
+
 <p><span class="chinese">不负烈士，不辱使命！</span><span class="english">Do not disappoint martyrs, fulfill our mission!</span></p>
 
 <p><span class="chinese">我们竭尽所能，力求不辱使命。</span><span class="english">We try to achieve what we can afford, and to achieve our mission.</span></p>

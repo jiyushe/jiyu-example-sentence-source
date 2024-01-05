@@ -1,5 +1,7 @@
 # 软硬兼施
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruanyingjianshi.md)
+
 <p><span class="chinese">并以软硬兼施的办法，奋发努力，确保同行业中的领先地位。</span><span class="english">We work hard to hold the sate lead in the same trade.</span></p>
 
 <p><span class="chinese">就算你对我软硬兼施，利诱和恐吓我，我都不会出卖我的上司的。</span><span class="english">I will not betray my boss regardless of your threats or promises.</span></p>

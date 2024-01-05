@@ -1,5 +1,7 @@
 # puffin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/puffin.md)
+
 <p><span class="chinese">有很多关于海鹦的故事。</span><span class="english">There are many stories about puffin.</span></p>
 
 <p><span class="chinese">这只海鹦正在为筑巢而收集枝条。</span><span class="english">This puffin was collecting twigs for his nest.</span></p>

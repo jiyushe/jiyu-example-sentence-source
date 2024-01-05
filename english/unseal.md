@@ -1,5 +1,7 @@
 # unseal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unseal.md)
+
 <p><span class="chinese">请把本房间启封。</span><span class="english">Please unseal this room.</span></p>
 
 <p><span class="chinese">我请求你打开保税仓库。</span><span class="english">I ask you to unseal the bonded store.</span></p>

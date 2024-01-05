@@ -1,5 +1,7 @@
 # conformability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conformability.md)
+
 <p><span class="chinese">元件的响应速度快，重复性和一致性好。</span><span class="english">The elements also show rapid responsibility, good repeatability and conformability.</span></p>
 
 <p><span class="chinese">同时还确认了场地卓越周期和基岩埋深具有很好的相关性。</span><span class="english">The relationship of the predominant period and the bedrock' s depth has good conformability.</span></p>

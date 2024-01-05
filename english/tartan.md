@@ -1,5 +1,7 @@
 # tartan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tartan.md)
+
 <p><span class="chinese">我们都知道苏格兰花格布。</span><span class="english">We all know about Scottish tartan.</span></p>
 
 <p><span class="chinese">穿我的格子裙，今晚是苏格兰之夜。</span><span class="english">My tartan skirt. It's scottish night.</span></p>

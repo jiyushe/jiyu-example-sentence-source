@@ -1,5 +1,7 @@
 # ac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ac.md)
+
 <p><span class="chinese">消除交流哼声。</span><span class="english">Elimination of AC hum.</span></p>
 
 <p><span class="chinese">米兰，费拉里是新目标？</span><span class="english">AC MILAN, Ferrari new target?</span></p>

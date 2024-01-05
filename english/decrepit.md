@@ -1,5 +1,7 @@
 # decrepit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decrepit.md)
+
 <p><span class="chinese">这是一个老朽的人。</span><span class="english">He was a decrepit man.</span></p>
 
 <p><span class="chinese">英国音乐呈现出感伤怀旧、暮气沉沉、行将就木的景象。</span><span class="english">The British music scene is nostalgic, decrepit and moribund.</span></p>

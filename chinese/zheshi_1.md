@@ -1,5 +1,7 @@
 # 赭石
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zheshi_1.md)
+
 <p><span class="chinese">这块玉是赭石色的。</span><span class="english">This jade is reddish brown in colour.</span></p>
 
 <p><span class="chinese">他们还发现了赭石、骨头、木炭、研磨石和石锤。</span><span class="english">They also found ochre, bone, charcoal, grindstones and hammerstones.</span></p>

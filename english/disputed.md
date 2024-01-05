@@ -1,5 +1,7 @@
 # disputed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disputed.md)
+
 <p><span class="chinese">这是有争论的。</span><span class="english">That's disputed.</span></p>
 
 <p><span class="chinese">这里有争论</span><span class="english">This is disputed.</span></p>

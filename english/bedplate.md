@@ -1,5 +1,7 @@
 # bedplate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bedplate.md)
+
 <p><span class="chinese">该台板是发动机的基础。</span><span class="english">The bedplate is the foundation of the engine.</span></p>
 
 <p><span class="chinese">众所周知，台板是由木材精制而成的。</span><span class="english">As everyone knows, bedplate was well made by the timber.</span></p>

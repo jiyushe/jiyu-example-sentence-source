@@ -1,5 +1,7 @@
 # 呆头呆脑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daitoudainao.md)
+
 <p><span class="chinese">他开始叫喊起来，呆头呆脑地咒骂着。</span><span class="english">He began to cry and swear foolishly.</span></p>
 
 <p><span class="chinese">他看上去呆头呆脑，实际上很聪明。</span><span class="english">He looks a fool, but he is really clever.</span></p>

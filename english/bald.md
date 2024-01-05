@@ -1,5 +1,7 @@
 # bald
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bald.md)
+
 <p><span class="chinese">秃子不需梳头。</span><span class="english">The bald need no comb.</span></p>
 
 <p><span class="chinese">他像一只水鸡一样秃。</span><span class="english">He's as bald as a coot.</span></p>

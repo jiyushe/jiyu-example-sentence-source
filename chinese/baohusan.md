@@ -1,5 +1,7 @@
 # 保护伞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baohusan.md)
+
 <p><span class="chinese">它会给恐怖分子一把核保护伞。</span><span class="english">It would give terrorists a nuclear umbrella.</span></p>
 
 <p><span class="chinese">然后，才慢腾腾的添加治理这把保护伞。</span><span class="english">Then, belatedly, an umbrella of governance would be added.</span></p>

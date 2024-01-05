@@ -1,5 +1,7 @@
 # 量程
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangcheng.md)
+
 <p><span class="chinese">测试电流通常由量程决定。</span><span class="english">It is generally determined by the range.</span></p>
 
 <p><span class="chinese">选择伏特计的最低量程。</span><span class="english">Select the lowest range of the voltmeter.</span></p>

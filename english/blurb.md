@@ -1,5 +1,7 @@
 # blurb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blurb.md)
+
 <p><span class="chinese">然后浏览一下作者简介。</span><span class="english">Then look through the author blurb.</span></p>
 
 <p><span class="chinese">最给力的是Blurb是完全免费的。</span><span class="english">Best of all, Blurb is completely free to use.</span></p>

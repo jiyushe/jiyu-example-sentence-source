@@ -1,5 +1,7 @@
 # doll
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doll.md)
+
 <p><span class="chinese">我的玩具娃娃有一顶大大的帽子。</span><span class="english">My doll has a big hat.</span></p>
 
 <p><span class="chinese">那是兰兰的洋娃娃。</span><span class="english">That's Lan Lan's doll.</span></p>

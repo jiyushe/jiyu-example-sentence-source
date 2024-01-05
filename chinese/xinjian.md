@@ -1,5 +1,7 @@
 # 信件
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinjian.md)
+
 <p><span class="chinese">寄送爱的信件。</span><span class="english">Send Love Letters.</span></p>
 
 <p><span class="chinese">本局并不拆阅信件。</span><span class="english">We do not open letters.</span></p>

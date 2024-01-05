@@ -1,5 +1,7 @@
 # 颤颤巍巍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chanchanweiwei.md)
+
 <p><span class="chinese">她颤颤巍巍地坐在一张又高又窄的凳子上。</span><span class="english">She was perched on a tall narrow stool.</span></p>
 
 <p><span class="chinese">那时候中国的火箭和蛋蛋发射都颤颤巍巍的大多数还爆了。</span><span class="english">Missle to not wobble upon launch and most of them blew.</span></p>

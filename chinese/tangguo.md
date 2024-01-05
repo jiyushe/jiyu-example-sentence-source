@@ -1,5 +1,7 @@
 # 汤锅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tangguo.md)
+
 <p><span class="chinese">用大汤锅烧开水。</span><span class="english">Boil some water in a pot.</span></p>
 
 <p><span class="chinese">在小汤锅中将黄油融化。</span><span class="english">Melt the butter in a small saucepan.</span></p>

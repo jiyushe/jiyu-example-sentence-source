@@ -1,5 +1,7 @@
 # retrospection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retrospection.md)
+
 <p><span class="chinese">追忆每一个给过我们记忆的人。</span><span class="english">People who sent us the retrospection.</span></p>
 
 <p><span class="chinese">第一章简单回顾了转述引语研究的历史。</span><span class="english">Chapter One is a retrospection of the studies on speech reporting.</span></p>

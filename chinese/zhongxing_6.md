@@ -1,5 +1,7 @@
 # 重型
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongxing_6.md)
+
 <p><span class="chinese">重型前拉链。</span><span class="english">Heavy-duty front zipper.</span></p>
 
 <p><span class="chinese">一辆重型卡车隆隆驶过。</span><span class="english">A heavy truck lumbered by.</span></p>

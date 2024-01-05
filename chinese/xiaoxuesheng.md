@@ -1,5 +1,7 @@
 # 小学生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoxuesheng.md)
+
 <p><span class="chinese">丹丹是小学生。</span><span class="english">Danny is a pupil.</span></p>
 
 <p><span class="chinese">这名小学生逃学。</span><span class="english">The pupil bagged school.</span></p>

@@ -1,5 +1,7 @@
 # anthropophagus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anthropophagus.md)
+
 <p><span class="chinese">目的了解横琴岛嗜人按蚊盐水耐受特性。</span><span class="english">Objective To study the salt-tolerant characteristic of the An. anthropophagus in Zhuhai Hengqin Island.</span></p>
 
 <p><span class="chinese">目的观察拜虫杀对中华按蚊和嗜人按蚊的毒杀效果。</span><span class="english">ObjectiveTo observe the effectiveness of Responsar against Anopheles sinensis and Anopheles anthropophagus.</span></p>

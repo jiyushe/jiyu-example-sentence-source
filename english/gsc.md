@@ -1,5 +1,7 @@
 # gsc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gsc.md)
+
 <p><span class="chinese">自动化的GSC可以提升运营效率，降低成本，并增加利润率。</span><span class="english">Automated GSC can result in operational improvements, cost reductions and increased profitability.</span></p>
 
 <p><span class="chinese">酒店员工一旦发现初级火情，应迅速将火灾信息传递到总机和保安部消防中心。</span><span class="english">Once a primary fire alarm situation is found, hotel employees shall immediately report it to GSC or CCTV.</span></p>

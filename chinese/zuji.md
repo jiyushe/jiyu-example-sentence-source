@@ -1,5 +1,7 @@
 # 祖籍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuji.md)
+
 <p><span class="chinese">祖籍属于那条村，镇，县，市及省。</span><span class="english">Home village, town, county, city, and province.</span></p>
 
 <p><span class="chinese">他们祖籍在立陶宛，并于1907至1910年间搬到果园街97号。</span><span class="english">They moved to 97 Orchard Street between 1907 and 1910.</span></p>

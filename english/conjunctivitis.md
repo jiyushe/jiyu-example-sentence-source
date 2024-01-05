@@ -1,5 +1,7 @@
 # conjunctivitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conjunctivitis.md)
+
 <p><span class="chinese">您患的是急性结膜炎。</span><span class="english">You have got acute conjunctivitis.</span></p>
 
 <p><span class="chinese">您患的是急性传染性结膜炎。</span><span class="english">You have acute injective conjunctivitis.</span></p>

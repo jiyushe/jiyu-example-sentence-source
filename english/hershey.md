@@ -1,5 +1,7 @@
 # hershey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hershey.md)
+
 <p><span class="chinese">我爱贺喜。</span><span class="english">I love Hershey.</span></p>
 
 <p><span class="chinese">赫尔希是我的家乡。</span><span class="english">Hershey is my hometown.</span></p>

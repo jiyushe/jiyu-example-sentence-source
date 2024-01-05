@@ -1,5 +1,7 @@
 # intramural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intramural.md)
+
 <p><span class="chinese">这是人民内部的小矛盾。</span><span class="english">This is an intramural scrimmage.</span></p>
 
 <p><span class="chinese">你能解释一下什么是内部体育运动吗？</span><span class="english">Can you explain what intramural sports are?</span></p>

@@ -1,5 +1,7 @@
 # 他家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tajia.md)
+
 <p><span class="chinese">他把我们带到他家。</span><span class="english">He led us to his home.</span></p>
 
 <p><span class="chinese">我带着花去他家。</span><span class="english">Voy a su casa con flores.</span></p>

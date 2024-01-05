@@ -1,5 +1,7 @@
 # 盐碱土
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanjiantu.md)
+
 <p><span class="chinese">草炭与风化炭改良盐碱土的生态效应。</span><span class="english">Ecological effect of peat and weathered coal on alkali-saline soil.</span></p>
 
 <p><span class="chinese">研究结果为天津滨海新区盐碱土生态治理规划提供了参考依据。</span><span class="english">The research provided guidance for planning and design of saline-alkali soil improvement in Tianjin.</span></p>

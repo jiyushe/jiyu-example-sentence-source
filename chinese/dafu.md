@@ -1,5 +1,7 @@
 # 大副
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dafu.md)
+
 <p><span class="chinese">什么是因为，大副？</span><span class="english">What be that, first mate?</span></p>
 
 <p><span class="chinese">史蒂文斯是大副</span><span class="english">Stevens was the first mate</span></p>

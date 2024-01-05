@@ -1,5 +1,7 @@
 # 讳言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huiyan_2.md)
+
 <p><span class="chinese">他有时态度是粗鲁了一些，但不可讳言的是，他。</span><span class="english">He may be a bit rude sometimes, but let's face it.</span></p>
 
 <p><span class="chinese">奥巴马总统的预算蓝图对削减战争开支和刺激需求并不讳言。</span><span class="english">The president's blueprint is open about war costs and stimulus needs.</span></p>

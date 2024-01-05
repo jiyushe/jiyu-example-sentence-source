@@ -1,5 +1,7 @@
 # 面粉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianfen.md)
+
 <p><span class="chinese">面粉过筛了吗?</span><span class="english">Has the flour sifted?</span></p>
 
 <p><span class="chinese">搅好鸡蛋后再慢慢地拌入面粉。</span><span class="english">Fold in the egg whites.</span></p>

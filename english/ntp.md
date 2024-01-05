@@ -1,5 +1,7 @@
 # ntp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ntp.md)
+
 <p><span class="chinese">社区参与结核控制规划是14个结核负担沉重国家结核控制规划的一部分。</span><span class="english">Community participation in TB control is part of NTP strategy in 14 HBCs.</span></p>
 
 <p><span class="chinese">在几乎所有国家，DOTS是在国家结核控制规划预算中占最大份额的单一项目。</span><span class="english">DOTS accounts for the largest single share of NTP budgets in almost all countries.</span></p>

@@ -1,5 +1,7 @@
 # 送气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songqi.md)
+
 <p><span class="chinese">中的p要送气发音，但spin中的p不送气发音。</span><span class="english">P is aspirated in pin but not in spin. pin.</span></p>
 
 <p><span class="chinese">从嘴或风箱中往外送气。</span><span class="english">To expel a current of air, AS from the mouth or from a bellows.</span></p>

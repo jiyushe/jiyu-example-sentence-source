@@ -1,5 +1,7 @@
 # 研习
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanxi_3.md)
+
 <p><span class="chinese">这是一个为期两天的研习会。</span><span class="english">This will be a two-day workshop.</span></p>
 
 <p><span class="chinese">回到家后，他便在烛光下研习。</span><span class="english">He studied at home by candlelight.</span></p>

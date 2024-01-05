@@ -1,5 +1,7 @@
 # remanent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remanent.md)
+
 <p><span class="chinese">正如你说的一样，这里的确还有一只鸡腿没有吃掉。</span><span class="english">As you said, here sure have one remanent chicken leg.</span></p>
 
 <p><span class="chinese">而切向永磁体采用剩磁密度高但矫顽力却很低的铝镍钴。</span><span class="english">The tangential-set magnets are AlNiCo with high remanent flux density and low coercive force.</span></p>

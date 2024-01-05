@@ -1,5 +1,7 @@
 # 生辉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenghui.md)
+
 <p><span class="chinese">花朵让房间满室生辉。</span><span class="english">Flowers brighten up a room.</span></p>
 
 <p><span class="chinese">你的到来使这屋棚壁生辉。</span><span class="english">Your coming brightened up the room.</span></p>

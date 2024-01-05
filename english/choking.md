@@ -1,5 +1,7 @@
 # choking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/choking.md)
+
 <p><span class="chinese">你干吗噎我？</span><span class="english">Why are you choking me?</span></p>
 
 <p><span class="chinese">他们现在还没有窒息。</span><span class="english">They are not choking yet.</span></p>

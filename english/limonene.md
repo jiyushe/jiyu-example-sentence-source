@@ -1,5 +1,7 @@
 # limonene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/limonene.md)
+
 <p><span class="chinese">缩短戊巴比妥钠催眠时间。</span><span class="english">Limonene shorten the sleeping time induced by sodium pentobarbital.</span></p>
 
 <p><span class="chinese">你将得到香芹酮和柠檬烯馏份的红外光谱图。并且要解析其结果。</span><span class="english">You will obtain infrared spectra of the carvone and limonene fractions and interpret the results.</span></p>

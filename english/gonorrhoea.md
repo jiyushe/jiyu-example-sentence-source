@@ -1,5 +1,7 @@
 # gonorrhoea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gonorrhoea.md)
+
 <p><span class="chinese">提示淋病患者存在合并弓形虫感染的可能性。</span><span class="english">The results indicated that gonorrhoea was related with infection of toxoplasma gondii.</span></p>
 
 <p><span class="chinese">目的建立快速、敏感、特异的淋球菌感染实验诊断方法。</span><span class="english">Objective To establish a rapid, sensitive and specific diagnostic test for detecting Neisse-ria gonorrhoea.</span></p>

@@ -1,5 +1,7 @@
 # evaluating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evaluating.md)
+
 <p><span class="chinese">首先，帮助他评估他的生活。</span><span class="english">First, assist him in evaluating his life.</span></p>
 
 <p><span class="chinese">闻是评价茶的重要组成部分。</span><span class="english">Smelling is an important part of evaluating tea.</span></p>

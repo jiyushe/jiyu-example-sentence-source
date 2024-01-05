@@ -1,5 +1,7 @@
 # predictor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/predictor.md)
+
 <p><span class="chinese">但长相对关系的发展确实非常重要。</span><span class="english">But it is a great predictor of a second date.</span></p>
 
 <p><span class="chinese">告辞完成了任务离开了房间。</span><span class="english">The Predictor has done her work and left the room.</span></p>

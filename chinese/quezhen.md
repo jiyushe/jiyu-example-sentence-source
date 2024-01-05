@@ -1,5 +1,7 @@
 # 确诊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quezhen.md)
+
 <p><span class="chinese">这种病症难以确诊。</span><span class="english">The case defies diagnosis.</span></p>
 
 <p><span class="chinese">医生确诊他精神失常。</span><span class="english">The doctor certified him insane.</span></p>

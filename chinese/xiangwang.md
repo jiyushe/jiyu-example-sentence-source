@@ -1,5 +1,7 @@
 # 向往
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangwang.md)
+
 <p><span class="chinese">朝我所向往的化蛹前进。</span><span class="english">Look at me the pupa forward.</span></p>
 
 <p><span class="chinese">这有如飞蛾向往星天。</span><span class="english">The desire of the moth for star.</span></p>

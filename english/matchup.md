@@ -1,5 +1,7 @@
 # matchup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/matchup.md)
+
 <p><span class="chinese">它是一场非常艰难的比赛，韦斯特说。</span><span class="english">It's a very tough matchup , West said.</span></p>
 
 <p><span class="chinese">这是热火队一直想要的比赛。</span><span class="english">This is the matchup the Heat wanted all along.</span></p>

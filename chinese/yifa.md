@@ -1,5 +1,7 @@
 # 一发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yifa.md)
+
 <p><span class="chinese">然后事情一发不可收拾了。</span><span class="english">And things got out of hand.</span></p>
 
 <p><span class="chinese">这一发现令我浮想联翩。</span><span class="english">This discovery intrigued me.</span></p>

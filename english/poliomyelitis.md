@@ -1,5 +1,7 @@
 # poliomyelitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poliomyelitis.md)
+
 <p><span class="chinese">他在两岁半的时候患了小儿麻痹症。</span><span class="english">He had poliomyelitis at two and a half.</span></p>
 
 <p><span class="chinese">消灭脊髓灰质炎规划中的安全性问题</span><span class="english">Safety issues in the poliomyelitis eradication campaign</span></p>

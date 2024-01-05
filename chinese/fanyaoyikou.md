@@ -1,5 +1,7 @@
 # 反咬一口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanyaoyikou.md)
+
 <p><span class="chinese">一有弱势，他们就会反咬一口。</span><span class="english">They will turn on us at the first sign of weakness.</span></p>
 
 <p><span class="chinese">稀奇的是，执着的人们如何反咬一口。</span><span class="english">It’s funny how people’s obsessions come back to bite them.</span></p>

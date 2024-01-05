@@ -1,5 +1,7 @@
 # safe 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/safe.md)
+
 <p><span class="chinese">自我感觉安全。</span><span class="english">We feel safe.</span></p>
 
 <p><span class="chinese">你永远都会觉得有压力感。</span><span class="english">You’re never safe.</span></p>

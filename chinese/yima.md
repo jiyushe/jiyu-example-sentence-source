@@ -1,5 +1,7 @@
 # 姨妈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yima.md)
+
 <p><span class="chinese">我的姨妈住在这里.</span><span class="english">My aunt lives here.</span></p>
 
 <p><span class="chinese">姨妈，请您别拔啦。</span><span class="english">Please don't, auntie.</span></p>

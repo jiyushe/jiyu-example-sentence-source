@@ -1,5 +1,7 @@
 # dumpster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dumpster.md)
+
 <p><span class="chinese">干嘛不把她剁成几块然后扔到垃圾车里?。</span><span class="english">Why not just chop her up in pieces and stutt her in the dumpster?</span></p>
 
 <p><span class="chinese">今天在工作时，我把一只巨大的垃圾袋从垃圾箱里搬出来。</span><span class="english">Today, at work, I was bringing a very heavy garbage bag out to the dumpster.</span></p>

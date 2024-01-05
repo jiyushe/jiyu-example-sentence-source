@@ -1,5 +1,7 @@
 # manometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manometer.md)
+
 <p><span class="chinese">本方法较传统的液体检压计法更为精确。</span><span class="english">This method is more exact than that of manometer.</span></p>
 
 <p><span class="chinese">水银压力表可能产生污染破坏。</span><span class="english">A mercury manometer could cause a pollution hazard.</span></p>

@@ -1,5 +1,7 @@
 # 进城
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jincheng.md)
+
 <p><span class="chinese">我因事进城去了。</span><span class="english">Business took me to town.</span></p>
 
 <p><span class="chinese">让我用汽车送你进城。</span><span class="english">Let me motor you to town.</span></p>

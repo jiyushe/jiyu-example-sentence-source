@@ -1,5 +1,7 @@
 # cinnabar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cinnabar.md)
+
 <p><span class="chinese">要在你的朱红色的果汁里结束还是开始？</span><span class="english">Will it end or begin in your cinnabar juice?</span></p>
 
 <p><span class="chinese">这就是你之前提过的朱金漆木雕？</span><span class="english">Are they the cinnabar gold and wood carvings you mentioned?</span></p>

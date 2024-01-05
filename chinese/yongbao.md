@@ -1,5 +1,7 @@
 # 拥抱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongbao.md)
+
 <p><span class="chinese">没有拥抱。</span><span class="english">No hugs.</span></p>
 
 <p><span class="chinese">拥抱它吧！</span><span class="english">Embrace it!</span></p>

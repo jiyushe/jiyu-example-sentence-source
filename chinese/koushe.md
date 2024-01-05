@@ -1,5 +1,7 @@
 # 口舌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/koushe.md)
+
 <p><span class="chinese">或者有什麽可以将我的口舌囚禁至死？</span><span class="english">Or put my tongue in durance for to die?</span></p>
 
 <p><span class="chinese">打个马虎眼有时可省却许多口舌来解释。</span><span class="english">A little inaccuracy sometimes saves tons of explanation.</span></p>

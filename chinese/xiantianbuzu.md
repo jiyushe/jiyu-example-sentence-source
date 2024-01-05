@@ -1,5 +1,7 @@
 # 先天不足
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiantianbuzu.md)
+
 <p><span class="chinese">而我们的房地产业在这方面恰恰先天不足。</span><span class="english">Our real estate is congenitally deficient in this regard.</span></p>
 
 <p><span class="chinese">的开发商做出先天不足的产品。</span><span class="english">Second, not professional developers make congenitally deficient products.</span></p>

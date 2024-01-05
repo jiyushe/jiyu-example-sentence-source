@@ -1,5 +1,7 @@
 # 麻绳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/masheng.md)
+
 <p><span class="chinese">用麻绳构造一个椒盐卷饼形状。</span><span class="english">Form a pretzel-like shape with the twine.</span></p>
 
 <p><span class="chinese">可加麻绳机构，包边纸机构。</span><span class="english">Hemptwist or overedging paper mechanism can be added.</span></p>

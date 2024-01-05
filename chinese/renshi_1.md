@@ -1,5 +1,7 @@
 # 人事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renshi_1.md)
+
 <p><span class="chinese">接下来则是人事管理。</span><span class="english">Then there's personnel management.</span></p>
 
 <p><span class="chinese">有没有重大的人事变动？</span><span class="english">Have there been any major shake-ups?</span></p>

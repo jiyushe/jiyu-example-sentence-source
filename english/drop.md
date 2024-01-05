@@ -1,5 +1,7 @@
 # drop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drop.md)
+
 <p><span class="chinese">滴铃铃！</span><span class="english">Drop bell bell!</span></p>
 
 <p><span class="chinese">给我寄张明信片来。</span><span class="english">Drop me a postcard.</span></p>

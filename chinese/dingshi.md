@@ -1,5 +1,7 @@
 # 定势
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingshi.md)
+
 <p><span class="chinese">改变思维定势。</span><span class="english">Change the mind-set.</span></p>
 
 <p><span class="chinese">这是传统的思维定势。</span><span class="english">That is the conventional wisdom.</span></p>

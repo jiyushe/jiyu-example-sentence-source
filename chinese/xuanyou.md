@@ -1,5 +1,7 @@
 # 选优
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanyou.md)
+
 <p><span class="chinese">这种选优汰劣是很自然的事。</span><span class="english">Such supplanting was to be.</span></p>
 
 <p><span class="chinese">可以说，列在我们清单上的软件算是优中选优了。</span><span class="english">Best of all, every program on this list is free.</span></p>

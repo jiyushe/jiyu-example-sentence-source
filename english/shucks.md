@@ -1,5 +1,7 @@
 # shucks
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shucks.md)
+
 <p><span class="chinese">做礼拜和看马戏相比，算不了什么。</span><span class="english">Church ain't shucks to a circus.</span></p>
 
 <p><span class="chinese">但是没用的，上帝不读报纸的。</span><span class="english">But shucks , the Lord don't don't read the paper.</span></p>

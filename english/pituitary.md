@@ -1,5 +1,7 @@
 # pituitary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pituitary.md)
+
 <p><span class="chinese">脑垂体腺瘤属良性肿瘤。</span><span class="english">Pituitary adenomas belongs to benign tumors.</span></p>
 
 <p><span class="chinese">常伴发脑下垂体巨人症。</span><span class="english">It is often associated with pituitary gigantism.</span></p>

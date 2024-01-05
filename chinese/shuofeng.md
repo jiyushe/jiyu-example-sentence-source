@@ -1,5 +1,7 @@
 # 朔风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuofeng.md)
+
 <p><span class="chinese">宛若朔风冲着云雾。</span><span class="english">As the north wind to the clouds.</span></p>
 
 <p><span class="chinese">朔风在我们小屋周围怒号。</span><span class="english">The north wind howled around our cabin.</span></p>

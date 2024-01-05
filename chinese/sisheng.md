@@ -1,5 +1,7 @@
 # 四声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sisheng.md)
+
 <p><span class="chinese">汉语有四声。</span><span class="english">Mandarin Chinese has four tones.</span></p>
 
 <p><span class="chinese">我认为这只是四声杜鹃。</span><span class="english">I think this is an Indian Cuckoo.</span></p>

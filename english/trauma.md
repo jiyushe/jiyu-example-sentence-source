@@ -1,5 +1,7 @@
 # trauma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trauma.md)
+
 <p><span class="chinese">来治愈创伤。</span><span class="english">or heal from trauma.</span></p>
 
 <p><span class="chinese">创伤不仅仅是生活中的一个冲击。</span><span class="english">Trauma is not just a bump in life.</span></p>

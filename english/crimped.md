@@ -1,5 +1,7 @@
 # crimped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crimped.md)
+
 <p><span class="chinese">这是一个密封的单位，在该基地轧花。</span><span class="english">It is a sealed unit, crimped at the base.</span></p>
 
 <p><span class="chinese">钢带应使用卷曲钢密封以确保安全。</span><span class="english">Straps to be secured with crimped steel seals.</span></p>

@@ -1,5 +1,7 @@
 # 束手就擒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shushoujiuqin.md)
+
 <p><span class="chinese">极通人性的“星期五”哪肯束手就擒！</span><span class="english">A human ", "which will tranquilliser Friday!</span></p>
 
 <p><span class="chinese">他们如此总结，我们束手就擒。</span><span class="english">We're not doing well at all, they concluded.</span></p>

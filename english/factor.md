@@ -1,5 +1,7 @@
 # factor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/factor.md)
+
 <p><span class="chinese">这是关键之处。</span><span class="english">That is a key factor.</span></p>
 
 <p><span class="chinese">风寒因素。</span><span class="english">The wind-chill factor.</span></p>

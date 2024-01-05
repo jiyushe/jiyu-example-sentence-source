@@ -1,5 +1,7 @@
 # shorn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shorn.md)
+
 <p><span class="chinese">他的资本被骗光了，他回到家里。</span><span class="english">He came home shorn of its capital.</span></p>
 
 <p><span class="chinese">“至少，这一面是剪过的，”麦克先生说。</span><span class="english">" They have been shorn on this side, at any any, " said Mr. Mack.</span></p>

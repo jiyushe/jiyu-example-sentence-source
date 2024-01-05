@@ -1,5 +1,7 @@
 # telegraphy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/telegraphy.md)
+
 <p><span class="chinese">他嗒嗒地拍发了一份摩尔斯电码的电报。</span><span class="english">Morse code was an early code in telegraphy.</span></p>
 
 <p><span class="chinese">他在电信技术领域获得多项专利。</span><span class="english">He obtained patents in such fields as telegraphy.</span></p>

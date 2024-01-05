@@ -1,5 +1,7 @@
 # partiality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/partiality.md)
+
 <p><span class="chinese">老师对他偏心。</span><span class="english">The teacher shows partiality to him.</span></p>
 
 <p><span class="chinese">个人比偏私还要低级。</span><span class="english">Personality is lower than partiality.</span></p>

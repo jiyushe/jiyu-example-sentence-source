@@ -1,5 +1,7 @@
 # iraq
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iraq.md)
+
 <p><span class="chinese">我们不该进攻伊拉克。</span><span class="english">We were wrong in Iraq.</span></p>
 
 <p><span class="chinese">我在伊拉克呆得太久了。</span><span class="english">I had been in Iraq too long.</span></p>

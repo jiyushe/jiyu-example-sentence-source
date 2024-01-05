@@ -1,5 +1,7 @@
 # dinosaur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dinosaur.md)
+
 <p><span class="chinese">它是一颗恐龙蛋。</span><span class="english">It is a dinosaur egg.</span></p>
 
 <p><span class="chinese">原来是小恐龙啊。</span><span class="english">Oh, a little dinosaur.</span></p>

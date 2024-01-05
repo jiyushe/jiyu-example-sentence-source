@@ -1,5 +1,7 @@
 # 固若金汤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guruojintang.md)
+
 <p><span class="chinese">难道你没看见那固若金汤的城墙?。</span><span class="english">Can't you see the fortified walls?</span></p>
 
 <p><span class="chinese">潜艇固若金汤，海上攻击打不倒。</span><span class="english">The submarine is invulnerable to attack while at sea.</span></p>

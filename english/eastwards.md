@@ -1,5 +1,7 @@
 # eastwards
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eastwards.md)
+
 <p><span class="chinese">假如你往东看，能够看到大海。</span><span class="english">If you look eastwards , you can see the sea.</span></p>
 
 <p><span class="chinese">于是我又爬下来，朝东走去。</span><span class="english">So I climbed down again, and walked eastwards.</span></p>

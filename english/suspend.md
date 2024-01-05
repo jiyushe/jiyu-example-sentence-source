@@ -1,5 +1,7 @@
 # suspend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suspend.md)
+
 <p><span class="chinese">把灯从天花板挂下。</span><span class="english">Suspend a lamp from the ceiling.</span></p>
 
 <p><span class="chinese">我们可以把一根绳子吊在那棵树上。</span><span class="english">We could suspend a rope from tht tree.</span></p>

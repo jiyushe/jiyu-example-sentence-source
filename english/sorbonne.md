@@ -1,5 +1,7 @@
 # sorbonne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sorbonne.md)
+
 <p><span class="chinese">以东方百合“索邦”的鳞片为外植体，进行组织培养技术研究。</span><span class="english">The oriental lily squamas of Sorbonne were used as explants for tissue culture.</span></p>
 
 <p><span class="chinese">你知道的实际上在故事里老G此刻身在巴黎大学授课。</span><span class="english">You know actually at this point in the story, Grissom is in Paris at the Sorbonne.</span></p>

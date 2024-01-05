@@ -1,5 +1,7 @@
 # 部位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buwei.md)
+
 <p><span class="chinese">绝不推压或牵拉任何部位。</span><span class="english">Never pull or force anything.</span></p>
 
 <p><span class="chinese">每个部位可以刷2-3颗牙齿。</span><span class="english">Each part can brush 2-3 tooths.</span></p>

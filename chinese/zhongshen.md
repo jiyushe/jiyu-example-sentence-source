@@ -1,5 +1,7 @@
 # 终审
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongshen.md)
+
 <p><span class="chinese">终审判决——多数原则</span><span class="english">The Final Decision —— The Majority Rules</span></p>
 
 <p><span class="chinese">法官把终审推迟了20天。</span><span class="english">The judge waived the final decision for 20 days.</span></p>

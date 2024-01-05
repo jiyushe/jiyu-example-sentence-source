@@ -1,5 +1,7 @@
 # centrist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/centrist.md)
+
 <p><span class="chinese">奥巴马先生也应该试图争取中立派的共和党。</span><span class="english">Mr Obama should also court centrist Republicans.</span></p>
 
 <p><span class="chinese">但其目的还是值得称赞的，这是任何中间派议员都会认可的目的。</span><span class="english">But the goal is worthy, one that any centrist can endorse.</span></p>

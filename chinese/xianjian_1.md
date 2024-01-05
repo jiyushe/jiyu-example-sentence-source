@@ -1,5 +1,7 @@
 # 显见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianjian_1.md)
+
 <p><span class="chinese">最显见的就是核武器。</span><span class="english">The most obvious is nuclear war.</span></p>
 
 <p><span class="chinese">这是个很慢，可怕的后果并不显见的过程。</span><span class="english">In unphotogenic slow motion, which makes the dire consequences harder to see.</span></p>

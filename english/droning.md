@@ -1,5 +1,7 @@
 # droning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/droning.md)
+
 <p><span class="chinese">会上人人都是语言乏味的空谈家。</span><span class="english">Everybody at the meeting is a droning pedant.</span></p>
 
 <p><span class="chinese">会议主席没完没了地在说什么?</span><span class="english">Whatever is the chairman droning on about now?</span></p>

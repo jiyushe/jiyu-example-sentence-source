@@ -1,5 +1,7 @@
 # whichever
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whichever.md)
+
 <p><span class="chinese">不论怎样，我只能靠自己了。</span><span class="english">Whichever. I was on my own.</span></p>
 
 <p><span class="chinese">你可以自由选择你喜欢的食物。</span><span class="english">You can choose whichever you like.</span></p>

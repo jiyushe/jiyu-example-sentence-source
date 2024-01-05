@@ -1,5 +1,7 @@
 # virus 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/virus.md)
+
 <p><span class="chinese">宏病毒？</span><span class="english">Macro Virus?</span></p>
 
 <p><span class="chinese">就像是病毒。</span><span class="english">Ithas like a virus.</span></p>

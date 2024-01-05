@@ -1,5 +1,7 @@
 # fsb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fsb.md)
+
 <p><span class="chinese">如果外频调的太高，声卡就有可能不发声了。</span><span class="english">If the FSB is too high profile , sound card, there may not be the voice.</span></p>
 
 <p><span class="chinese">我们不认为我们和留在安全局里的人分开了。</span><span class="english">We did not consider ourselves to be separate from those who stayed in the FSB.</span></p>

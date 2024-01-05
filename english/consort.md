@@ -1,5 +1,7 @@
 # consort
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consort.md)
+
 <p><span class="chinese">她是湿婆的配偶。</span><span class="english">She is the consort of Shiva.</span></p>
 
 <p><span class="chinese">矜持兴贫穷不两立。</span><span class="english">Pride does not consort with poverty.</span></p>

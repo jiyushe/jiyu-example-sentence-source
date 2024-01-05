@@ -1,5 +1,7 @@
 # reservation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reservation.md)
+
 <p><span class="chinese">毫无保留。</span><span class="english">Without reservation.</span></p>
 
 <p><span class="chinese">请接服务台。</span><span class="english">Reservation desk,please.</span></p>

@@ -1,5 +1,7 @@
 # alfresco
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alfresco.md)
+
 <p><span class="chinese">你可以露天就餐。</span><span class="english">You may dine alfresco.</span></p>
 
 <p><span class="chinese">他们在夏日傍晚时，常在户外用餐。</span><span class="english">They often dined alfresco in the summer evenings.</span></p>

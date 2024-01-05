@@ -1,5 +1,7 @@
 # 涂鸦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuya.md)
+
 <p><span class="chinese">是涂鸦还是达芬奇密码？</span><span class="english">Doodler or da Vinci?</span></p>
 
 <p><span class="chinese">在桌上用立可白画的涂鸦。</span><span class="english">The graffiti I drew on the desk.</span></p>

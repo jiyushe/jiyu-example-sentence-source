@@ -1,5 +1,7 @@
 # laver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laver.md)
+
 <p><span class="chinese">蕃茄蛋花紫菜酸辣海鲜任选！</span><span class="english">Tomato egg flower laver acid seafood choose!</span></p>
 
 <p><span class="chinese">紫菜中的丰富胆碱，对记忆衰退有改善作用。</span><span class="english">The rich choline in laver can reduce memory loss.</span></p>

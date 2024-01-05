@@ -1,5 +1,7 @@
 # amino
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amino.md)
+
 <p><span class="chinese">结果氨基酸总量树舌G。</span><span class="english">RESULTS The total amino acids in G.</span></p>
 
 <p><span class="chinese">而氨基酸聚合物就是蛋白质</span><span class="english">A polymer of amino acids is a protein.</span></p>

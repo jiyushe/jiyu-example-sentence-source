@@ -1,5 +1,7 @@
 # 拷打
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaoda.md)
+
 <p><span class="chinese">巴林一名博主被严刑拷打。</span><span class="english">Bahraini blogger tortured.</span></p>
 
 <p><span class="chinese">他们以为我们不会拷打你！</span><span class="english">They think we won’t beat you!</span></p>

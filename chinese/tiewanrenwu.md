@@ -1,5 +1,7 @@
 # 铁腕人物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiewanrenwu.md)
+
 <p><span class="chinese">铁腕人物手下一定有唯命是从的人。</span><span class="english">The strong men must have their stooges.</span></p>
 
 <p><span class="chinese">温斯顿•丘吉尔是个铁腕人物。</span><span class="english">Winston Churchill was an iron-handed person.</span></p>

@@ -1,5 +1,7 @@
 # eniac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eniac.md)
+
 <p><span class="chinese">ENIAC以前是第一台现代电脑。</span><span class="english">The ENIAC was the first modern computer.</span></p>
 
 <p><span class="chinese">搔痒娃娃就是分人工智能界的ENIAC始祖计算机。</span><span class="english">Tickle Me Elmo is the ENIAC of fractional AI.</span></p>

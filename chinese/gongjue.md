@@ -1,5 +1,7 @@
 # 公爵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongjue.md)
+
 <p><span class="chinese">伯爵在公爵之下。</span><span class="english">An earl is beneath a duke.</span></p>
 
 <p><span class="chinese">永远的毁灭公爵显示。</span><span class="english">Duke Nukem Forever is shown.</span></p>

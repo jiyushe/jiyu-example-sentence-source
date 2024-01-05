@@ -1,5 +1,7 @@
 # plasmid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plasmid.md)
+
 <p><span class="chinese">载体可以是质粒</span><span class="english">This might be a plasmid.</span></p>
 
 <p><span class="chinese">然而,这两点质粒DNA都不具备</span><span class="english">Well, plasmid DNA is neither of those.</span></p>

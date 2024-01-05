@@ -1,5 +1,7 @@
 # xenophobia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xenophobia.md)
+
 <p><span class="chinese">这是经济方面反生产仇外症的经典案例。</span><span class="english">It was a classic case of economically counterproductive xenophobia.</span></p>
 
 <p><span class="chinese">这首诗根本显示出倾向性信息给那些对外仇恨加油加料。</span><span class="english">The point of this "poem" was to show how slanted information fuels xenophobia.</span></p>

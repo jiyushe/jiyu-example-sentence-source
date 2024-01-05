@@ -1,5 +1,7 @@
 # bicultural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bicultural.md)
+
 <p><span class="chinese">相对当地的白人。</span><span class="english">They tend to be bilingual and bicultural.</span></p>
 
 <p><span class="chinese">芮成钢说，童年时候他就接受双语教育，受到中西文化的影响。</span><span class="english">As a child, Mr. Rui says, he was bilingual and bicultural.</span></p>

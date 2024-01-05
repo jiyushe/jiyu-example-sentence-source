@@ -1,5 +1,7 @@
 # symbolise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/symbolise.md)
+
 <p><span class="chinese">这种结果象征着卫兵换岗。</span><span class="english">Such an outcome would symbolise the changing of the guard.</span></p>
 
 <p><span class="chinese">这个其实之后逐步当做象征独立和统一的象征。</span><span class="english">The flag then, appears to symbolise both independence and unity.</span></p>

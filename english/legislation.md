@@ -1,5 +1,7 @@
 # legislation 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legislation.md)
+
 <p><span class="chinese">立法是一种选择。</span><span class="english">Legislation is one option.</span></p>
 
 <p><span class="chinese">第二点，不应有道德式的立法。</span><span class="english">Number two, no morals legislation.</span></p>

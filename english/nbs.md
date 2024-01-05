@@ -1,5 +1,7 @@
 # nbs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nbs.md)
+
 <p><span class="chinese">国家统计局的回应方法是停止公布这一数据。</span><span class="english">The response from the NBS was to cease publication of the series.</span></p>
 
 <p><span class="chinese">其中使用NBS代替亚硫酰溴作为溴代试剂。</span><span class="english">In this process NBS was Instead of thionyl bromide as a Bromide reagents.</span></p>

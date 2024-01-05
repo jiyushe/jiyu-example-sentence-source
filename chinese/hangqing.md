@@ -1,5 +1,7 @@
 # 行情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hangqing.md)
+
 <p><span class="chinese">行情看涨。</span><span class="english">Market will be strong.</span></p>
 
 <p><span class="chinese">股票行情暴跌。</span><span class="english">The stock market crashed.</span></p>

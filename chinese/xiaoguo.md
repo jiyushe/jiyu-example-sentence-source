@@ -1,5 +1,7 @@
 # 小国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoguo.md)
+
 <p><span class="chinese">我的国家只是一个小国，</span><span class="english">My country is a small country</span></p>
 
 <p><span class="chinese">内陆小国家，安道尔共和国。</span><span class="english">The tiny landlocked nation of Andorra.</span></p>

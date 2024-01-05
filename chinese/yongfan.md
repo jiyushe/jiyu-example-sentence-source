@@ -1,5 +1,7 @@
 # 用饭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongfan.md)
+
 <p><span class="chinese">中国人幽筷子用饭。</span><span class="english">Chinese eat with chopsticks.</span></p>
 
 <p><span class="chinese">他很少出往用饭。</span><span class="english">Seldom does he go out for dinner.</span></p>

@@ -1,5 +1,7 @@
 # reprogram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reprogram.md)
+
 <p><span class="chinese">他所做的是重新给Linda的大脑编程。</span><span class="english">All he's done is reprogram Linda's brain.</span></p>
 
 <p><span class="chinese">我会重新编程，然后我将轻弹开关。</span><span class="english">I'll reprogram and then I'll flick the switch.</span></p>

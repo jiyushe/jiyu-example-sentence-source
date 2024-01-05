@@ -1,5 +1,7 @@
 # 踏板
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taban.md)
+
 <p><span class="chinese">我的爱好是踏板车。</span><span class="english">My hobby is riding my scooter.</span></p>
 
 <p><span class="chinese">但踏板对我有反力。</span><span class="english">But the pedals push back on me.</span></p>

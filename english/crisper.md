@@ -1,5 +1,7 @@
 # crisper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crisper.md)
+
 <p><span class="chinese">该保鲜储藏格可以使水汽保留在里面。</span><span class="english">The crisper keeps water vapor in.</span></p>
 
 <p><span class="chinese">随着那记忆里的片段，吹着轻盈明快的节拍。</span><span class="english">With that memory segment, yelling lithe crisper rhythms.</span></p>

@@ -1,5 +1,7 @@
 # tubercle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tubercle.md)
+
 <p><span class="chinese">内侧髋臼穿刺应自坐骨结节，经坐骨升支抵达病变区。</span><span class="english">The puncture to the ischium was from ischium tubercle to the lesions.</span></p>
 
 <p><span class="chinese">一扇玻璃门，你那玻璃门顶什么用啊，小土豆儿？</span><span class="english">A glass door? What do you expect us to do with a glass door, tubercle?</span></p>

@@ -1,5 +1,7 @@
 # hood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hood.md)
+
 <p><span class="chinese">红头巾说。</span><span class="english">Red Hood said.</span></p>
 
 <p><span class="chinese">配套雨罩。</span><span class="english">Matching rain hood.</span></p>

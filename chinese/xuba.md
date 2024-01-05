@@ -1,5 +1,7 @@
 # 序跋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuba.md)
+
 <p><span class="chinese">序跋是谱牒作品不可缺少的部分，往往在一部谱牒作品中占有重要地位。</span><span class="english">Preface and postscript are necessary and important parts of works of clan records.</span></p>
 
 <p><span class="chinese">传统小说批评文体主要为评点、评传、序跋、书信等。</span><span class="english">The traditional novel criticism style includes critical article, preface, and letters.</span></p>

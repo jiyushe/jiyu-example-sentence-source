@@ -1,5 +1,7 @@
 # smith
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smith.md)
+
 <p><span class="chinese">史密斯公馆.</span><span class="english">Smith residence.</span></p>
 
 <p><span class="chinese">我是富莱尔的史密斯.</span><span class="english">Smith from Flyer.</span></p>

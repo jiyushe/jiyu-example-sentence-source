@@ -1,5 +1,7 @@
 # outgo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outgo.md)
+
 <p><span class="chinese">这可以视为一个大的开支。</span><span class="english">This could account for the large outgo.</span></p>
 
 <p><span class="chinese">工厂蹬平菌支出是二迁美元。</span><span class="english">The average outgo of the is 2000 dollars.</span></p>

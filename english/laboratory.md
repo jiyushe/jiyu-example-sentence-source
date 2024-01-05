@@ -1,5 +1,7 @@
 # laboratory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laboratory.md)
+
 <p><span class="chinese">布鲁克海文国家实验室</span><span class="english">Brookhaven National Laboratory</span></p>
 
 <p><span class="chinese">由实验室分包合同。</span><span class="english">Sub-Contracting by Laboratory.</span></p>

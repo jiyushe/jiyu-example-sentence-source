@@ -1,5 +1,7 @@
 # 雷同
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leitong.md)
+
 <p><span class="chinese">罗尼克说，“我现在飞去雷同崖。</span><span class="english">I will now fly to Thunder Bluff.</span></p>
 
 <p><span class="chinese">本年五大最受欢迎的男孩名与客岁大抵雷同。</span><span class="english">The boys' top five looks almost the same as last year.</span></p>

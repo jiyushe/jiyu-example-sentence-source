@@ -1,5 +1,7 @@
 # berkeley
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/berkeley.md)
+
 <p><span class="chinese">他出生于伯克利市。</span><span class="english">He was born in Berkeley.</span></p>
 
 <p><span class="chinese">它在伯克利分校流行吗？</span><span class="english">Is it popular at Berkeley?</span></p>

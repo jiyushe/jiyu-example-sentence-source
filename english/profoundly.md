@@ -1,5 +1,7 @@
 # profoundly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/profoundly.md)
+
 <p><span class="chinese">但是很多人不敢苟同。</span><span class="english">But many profoundly disagree.</span></p>
 
 <p><span class="chinese">这是一个极度优秀的位置。</span><span class="english">It is a profoundly elitist position.</span></p>

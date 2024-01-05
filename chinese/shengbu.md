@@ -1,5 +1,7 @@
 # 声部
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengbu.md)
+
 <p><span class="chinese">他唱最高声部。</span><span class="english">He sings treble.</span></p>
 
 <p><span class="chinese">我的声部是女高音。</span><span class="english">My part is soprano.</span></p>

@@ -1,5 +1,7 @@
 # hour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hour.md)
+
 <p><span class="chinese">一个小时之内。</span><span class="english">In one hour.</span></p>
 
 <p><span class="chinese">一个小时。没了！</span><span class="english">One hour. Poof!</span></p>

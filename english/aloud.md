@@ -1,5 +1,7 @@
 # aloud
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aloud.md)
+
 <p><span class="chinese">但是我不能放歌。</span><span class="english">But I cannot sing aloud.</span></p>
 
 <p><span class="chinese">你能朗读课文吗？</span><span class="english">Can you read the text aloud?</span></p>

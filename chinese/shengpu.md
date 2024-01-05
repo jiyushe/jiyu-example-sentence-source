@@ -1,5 +1,7 @@
 # 声谱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengpu.md)
+
 <p><span class="chinese">这个声谱约有十个八度的跨度。</span><span class="english">This sound spectrum spans about ten octaves.</span></p>
 
 <p><span class="chinese">“声谱图”一词是从光学借来的。</span><span class="english">The term "spectrogram" is borrowed from optics.</span></p>

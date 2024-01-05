@@ -1,5 +1,7 @@
 # postcode
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/postcode.md)
+
 <p><span class="chinese">这是美国奥尔德姆的邮政编码分类。</span><span class="english">This is the postcode category of Oldham, U. S.</span></p>
 
 <p><span class="chinese">这是美国戴维森的邮政编码分类。</span><span class="english">This is the postcode category of Davison, U. S.</span></p>

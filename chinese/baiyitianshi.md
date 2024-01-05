@@ -1,5 +1,7 @@
 # 白衣天使
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baiyitianshi.md)
+
 <p><span class="chinese">护士被人们称为白衣天使。</span><span class="english">Nurses are called 'Angels in White'.</span></p>
 
 <p><span class="chinese">美丽的白衣天使，祝福你！</span><span class="english">Best blessing to you! My dearest dad!</span></p>

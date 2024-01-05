@@ -1,5 +1,7 @@
 # vegetarianism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vegetarianism.md)
+
 <p><span class="chinese">素食论的虚伪，从此可以略见一斑。</span><span class="english">The hypocrisy of vegetarianism.</span></p>
 
 <p><span class="chinese">吃鱼与素食主义有矛盾吗？</span><span class="english">Can eating fish be reconciled with vegetarianism ?</span></p>

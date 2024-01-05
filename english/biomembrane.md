@@ -1,5 +1,7 @@
 # biomembrane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biomembrane.md)
+
 <p><span class="chinese">其杀精机理主要是破坏精子的生物膜系统。</span><span class="english">These spermatocidal agents mainly destroy the biomembrane system of sperm.</span></p>
 
 <p><span class="chinese">对活性炭生物膜作为吸附新技术的应用也作了简介。</span><span class="english">It also briefly inrtoduces the active carbon biomembrane as adsorption technology.</span></p>

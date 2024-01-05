@@ -1,5 +1,7 @@
 # stap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stap.md)
+
 <p><span class="chinese">该算法在不同的计算阶段之间进行数据重映射。</span><span class="english">Data remapping is used between successive computation steps of STAP.</span></p>
 
 <p><span class="chinese">除需人工送包、穿带外。其余动作均能自动完成…</span><span class="english">They can stap automatically on the condition that you carry the packages and put the band through.</span></p>

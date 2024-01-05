@@ -1,5 +1,7 @@
 # 看望
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kanwang.md)
+
 <p><span class="chinese">朱迪思来看望了我。</span><span class="english">Judith paid me a visit.</span></p>
 
 <p><span class="chinese">孙老师一周去看望他爷爷两次。</span><span class="english">Mr. Sun goes to a week.</span></p>

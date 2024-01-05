@@ -1,5 +1,7 @@
 # free 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/free.md)
+
 <p><span class="chinese">潇洒的走。</span><span class="english">Free walk.</span></p>
 
 <p><span class="chinese">是免费送吗？</span><span class="english">Is it free?</span></p>

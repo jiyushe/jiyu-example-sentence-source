@@ -1,5 +1,7 @@
 # 守卫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouwei.md)
+
 <p><span class="chinese">化作明镜、剑与盾，守卫我身！</span><span class="english">Be my mirror my sword and shield.</span></p>
 
 <p><span class="chinese">守卫心防需要力量。</span><span class="english">It takes strength to stand guard.</span></p>

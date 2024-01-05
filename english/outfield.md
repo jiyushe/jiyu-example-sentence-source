@@ -1,5 +1,7 @@
 # outfield
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outfield.md)
+
 <p><span class="chinese">内场以外的地区为外场，外场为草皮场地。</span><span class="english">Outside the infield is outfield with grass.</span></p>
 
 <p><span class="chinese">棒球场分为内场和外场。</span><span class="english">The field is divided into an infield and an outfield.</span></p>

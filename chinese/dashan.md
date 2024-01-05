@@ -1,5 +1,7 @@
 # 搭讪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dashan.md)
+
 <p><span class="chinese">一位陌生人在公共汽车上同他搭讪。</span><span class="english">A stranger accosted him on the bus.</span></p>
 
 <p><span class="chinese">怀特先生喜欢跟姑娘们搭讪。</span><span class="english">Mr White likes chatting up the girls.</span></p>

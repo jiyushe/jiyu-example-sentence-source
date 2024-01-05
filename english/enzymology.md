@@ -1,5 +1,7 @@
 # enzymology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enzymology.md)
+
 <p><span class="chinese">对体细胞杂种及其后代进行了形态学、细胞学及酶学研究。</span><span class="english">These somatic hybrids and their offsprings were studied by the methods of morphology, cytology and enzymology.</span></p>
 
 <p><span class="chinese">目的探讨血清酶的变化在小儿肺炎并心衰时的临床意义。</span><span class="english">Objective To explore the significance of serum enzymology in diagnosis and treatment of children pneumonia with heart failure.</span></p>

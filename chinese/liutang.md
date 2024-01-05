@@ -1,5 +1,7 @@
 # 流淌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liutang.md)
+
 <p><span class="chinese">流淌的是一寸寸春华的脉动。</span><span class="english">It flows the Spring pulse.</span></p>
 
 <p><span class="chinese">天使珠泪树下流淌。</span><span class="english">Angel's tears below a tree.</span></p>

@@ -1,5 +1,7 @@
 # symbolization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/symbolization.md)
+
 <p><span class="chinese">第三章是对符号化消费行为的历史性综述。</span><span class="english">The third chapter is the review of the history of symbolization.</span></p>
 
 <p><span class="chinese">因此，地图符号化也是地理信息系统的重要内容之一。</span><span class="english">Accordingly map symbolization is one of important matters of GIS.</span></p>

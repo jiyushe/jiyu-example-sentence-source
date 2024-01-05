@@ -1,5 +1,7 @@
 # 偏瘫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piantan.md)
+
 <p><span class="chinese">术后2例不全偏瘫，2例动眼神经麻痹，无死亡。</span><span class="english">Hemiplegia occurred in 2 cases and oculomotor nerve palsy in 2 cases.</span></p>
 
 <p><span class="chinese">肢体痉挛是偏瘫恢复中需要解决的重要问题。</span><span class="english">Spastic limb paralysis recovery is an important issue to be resolved.</span></p>

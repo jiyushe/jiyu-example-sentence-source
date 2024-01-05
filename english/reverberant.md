@@ -1,5 +1,7 @@
 # reverberant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reverberant.md)
+
 <p><span class="chinese">在混响声场中小声源和移动声源的工程测量方法。</span><span class="english">Engineering methods for small, movable sources in reverberant fields.</span></p>
 
 <p><span class="chinese">创作的曲目与正在建设的混响大的教堂相吻合。</span><span class="english">The compositions were appropriate for the large reverberant cathedrals under construction.</span></p>

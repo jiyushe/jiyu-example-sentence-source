@@ -1,5 +1,7 @@
 # 针尖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenjian.md)
+
 <p><span class="chinese">两个人针尖对麦芒，言辞激烈。</span><span class="english">Into a two people, rhetoric.</span></p>
 
 <p><span class="chinese">松叶像针尖刺人。</span><span class="english">Pine needles prickle like pins.</span></p>

@@ -1,5 +1,7 @@
 # hierachical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hierachical.md)
+
 <p><span class="chinese">在锥形器壁上分层次设置的旁路集尘室是作为分级集尘之用。</span><span class="english">Hierachical dust-collecting chamber is arranged on wall of cylinder for sorting.</span></p>
 
 <p><span class="chinese">使用石膏作为原料，通过水热反应得到具有特殊结构的多孔羟基磷灰石。</span><span class="english">Gypsum was used as raw material to prepare porous hydroxyapatite with hierachical structure by hydrothermal reaction.</span></p>

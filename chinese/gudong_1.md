@@ -1,5 +1,7 @@
 # 股东
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gudong_1.md)
+
 <p><span class="chinese">让股东监督？</span><span class="english">Let shareholders supervise?</span></p>
 
 <p><span class="chinese">一些股东希望他能留任。</span><span class="english">Some shareholders want him to stay put.</span></p>

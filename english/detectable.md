@@ -1,5 +1,7 @@
 # detectable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/detectable.md)
+
 <p><span class="chinese">但是无线电波呢？是可以检测的。</span><span class="english">But radio waves? They are detectable.</span></p>
 
 <p><span class="chinese">这种微震非常特别，在陆地上无法察觉。</span><span class="english">They’re unique and not detectable on land.</span></p>

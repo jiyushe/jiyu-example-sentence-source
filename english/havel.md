@@ -1,5 +1,7 @@
 # havel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/havel.md)
+
 <p><span class="chinese">我们都在等他讲一些具有重要意义的话。</span><span class="english">We're all waiting for Havel to say something fundamental.</span></p>
 
 <p><span class="chinese">施普雷河和哈韦尔河流经该市。</span><span class="english">Vaclav Havel and Spree River and the river through the city.</span></p>

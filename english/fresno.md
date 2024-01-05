@@ -1,5 +1,7 @@
 # fresno
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fresno.md)
+
 <p><span class="chinese">弗雷斯诺就是我的家，而我的家庭就在弗雷斯诺。</span><span class="english">Fresno was my place, and my family was my p</span></p>
 
 <p><span class="chinese">有一年，我的叔叔梅利做了一次从福勒斯诺到纽约的旅行。</span><span class="english">One year, my Uncle Mellie traveled from Fresno to New York.</span></p>

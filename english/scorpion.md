@@ -1,5 +1,7 @@
 # scorpion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scorpion.md)
+
 <p><span class="chinese">蝎，节肢动物纲毒虫。</span><span class="english">Scorpion is arthropod poisonous insect.</span></p>
 
 <p><span class="chinese">蝎子的毒钩在其尾部。</span><span class="english">The sting of a scorpion is in its tail.</span></p>

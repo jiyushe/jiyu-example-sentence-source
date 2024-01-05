@@ -1,5 +1,7 @@
 # thesaurus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thesaurus.md)
+
 <p><span class="chinese">你怎么能在同义词典中发现反义词呢？</span><span class="english">How can you find antonyms in the thesaurus?</span></p>
 
 <p><span class="chinese">通过右键单击一个单词查词典。</span><span class="english">Right click on a word to use the thesaurus.</span></p>

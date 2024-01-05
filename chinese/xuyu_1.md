@@ -1,5 +1,7 @@
 # 须臾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuyu_1.md)
+
 <p><span class="chinese">谁曾听见你须臾间的叹息。</span><span class="english">Who heard your brief sigh.</span></p>
 
 <p><span class="chinese">顿了须臾，又同时笑起来。</span><span class="english">Smile in the meantime again in a moment.</span></p>

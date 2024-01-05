@@ -1,5 +1,7 @@
 # resonantly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resonantly.md)
+
 <p><span class="chinese">用脉冲可调谐染料激光共振激励火焰中的钠原子。</span><span class="english">Sodium atoms in flame can be resonantly excited by pulsed tunable dye laser.</span></p>
 
 <p><span class="chinese">浓郁的黑浆果和李子的香味混合糕饼的香味。</span><span class="english">Richly scanted dark berry and plum aroma with complex fruitcake, richness and resonantly depth.</span></p>

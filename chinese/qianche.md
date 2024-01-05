@@ -1,5 +1,7 @@
 # 牵扯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianche.md)
+
 <p><span class="chinese">或者牵扯别的一大堆事吧？</span><span class="english">Or a whole bunch of something elses?</span></p>
 
 <p><span class="chinese">别把他人牵扯进你的费事中去。</span><span class="english">Don't involve other people in your trouble.</span></p>

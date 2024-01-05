@@ -1,5 +1,7 @@
 # 山丹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shandan.md)
+
 <p><span class="chinese">由于不幸染上疾病，年仅30岁的何克在山丹去世。</span><span class="english">Unfortunately, due to diseases, Hogg died in Shandan at the age of just 30.</span></p>
 
 <p><span class="chinese">第四部分，山丹“工合”事业的恢复以及发展历程。</span><span class="english">Part four is Shandan "Gung Ho" to restore, as well as the cause of the development process.</span></p>

@@ -1,5 +1,7 @@
 # lugubrious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lugubrious.md)
+
 <p><span class="chinese">一八一五是种阴沉的阳春天气。</span><span class="english">This 1815 was a sort of lugubrious April.</span></p>
 
 <p><span class="chinese">四面八方全是凄凉寥廓的旷地。</span><span class="english">On all sides there were lugubrious stretches.</span></p>

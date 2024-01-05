@@ -1,5 +1,7 @@
 # imperatively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imperatively.md)
+
 <p><span class="chinese">描述如何以声明和命令的方式实现权限对象。</span><span class="english">Describes how to implement permission objects declarative ly and imperatively.</span></p>
 
 <p><span class="chinese">定单中所列进度表对供应商具有当然的约束力。</span><span class="english">The time schedule set down in the order is imperatively binding on the supplier.</span></p>

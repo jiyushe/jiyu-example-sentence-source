@@ -1,5 +1,7 @@
 # muslim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/muslim.md)
+
 <p><span class="chinese">可贾萨姆是个什叶派穆斯林。</span><span class="english">Jassam is a Shi'ite Muslim.</span></p>
 
 <p><span class="chinese">然而，31岁侯赛因是一位穆斯林。</span><span class="english">Mr Hussin, 31, is a Muslim.</span></p>

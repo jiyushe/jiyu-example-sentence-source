@@ -1,5 +1,7 @@
 # 咿呀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiya.md)
+
 <p><span class="chinese">这婴儿接连几个小时地咿呀学语。</span><span class="english">The baby babbled on for hours.</span></p>
 
 <p><span class="chinese">婴儿在大约七个月大的时候开始咿呀学语</span><span class="english">Around seven months is babbling.</span></p>

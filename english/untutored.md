@@ -1,5 +1,7 @@
 # untutored
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/untutored.md)
+
 <p><span class="chinese">神和宗教是幼稚的头脑幻想。</span><span class="english">God and religion were illusions of the untutored mind.</span></p>
 
 <p><span class="chinese">他只有未经锻炼的力气，像瓷器店里的一头牛。</span><span class="english">He has only untutored strength, like a bull in a china shop.</span></p>

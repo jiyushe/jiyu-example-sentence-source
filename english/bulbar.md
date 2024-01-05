@@ -1,5 +1,7 @@
 # bulbar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bulbar.md)
+
 <p><span class="chinese">目的提高十二指肠球部溃疡的诊断率。</span><span class="english">Objective To improve the diagnostic rate of duodenal bulbar ulcer.</span></p>
 
 <p><span class="chinese">蚕蚀性角膜溃疡的球结膜可能起着局部淋巴结作用。</span><span class="english">Bulbar conjunctiva may act as a local lymph node of Mooren's ulcer.</span></p>

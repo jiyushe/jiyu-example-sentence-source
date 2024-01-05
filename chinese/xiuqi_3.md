@@ -1,5 +1,7 @@
 # 秀气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuqi_3.md)
+
 <p><span class="chinese">她的眉毛很秀气。</span><span class="english">Her eyebrows are shapely.</span></p>
 
 <p><span class="chinese">我的同桌是一个秀气的小姑娘。</span><span class="english">My desk-mate is a pretty girl.</span></p>

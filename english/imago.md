@@ -1,5 +1,7 @@
 # imago
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imago.md)
+
 <p><span class="chinese">我们试图通过片中的意象对比表现主题。</span><span class="english">We try to show a subject by imago contrast in movie.</span></p>
 
 <p><span class="chinese">成虫危害叶片，幼虫危害根系。</span><span class="english">The imago destructs leaves and larva destructs roots.</span></p>

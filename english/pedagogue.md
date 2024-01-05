@@ -1,5 +1,7 @@
 # pedagogue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pedagogue.md)
+
 <p><span class="chinese">他是法国历史学家和教育家。</span><span class="english">He was a French pedagogue and historian.</span></p>
 
 <p><span class="chinese">他是法国历史学家和教育家。</span><span class="english">He was a french historian and pedagogue.</span></p>

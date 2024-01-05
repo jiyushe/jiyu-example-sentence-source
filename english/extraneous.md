@@ -1,5 +1,7 @@
 # extraneous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extraneous.md)
+
 <p><span class="chinese">是否有你不需要的无关线头？</span><span class="english">Are there extraneous cords you don’t need?</span></p>
 
 <p><span class="chinese">外来的还原剂被引进来。</span><span class="english">Reductant from an extraneous source is introduced.</span></p>

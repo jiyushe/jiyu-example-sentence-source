@@ -1,5 +1,7 @@
 # borzoi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/borzoi.md)
+
 <p><span class="chinese">猎狼和孩子相处会怎样？</span><span class="english">Borzoi good with children?</span></p>
 
 <p><span class="chinese">猎狼需要运动吗？</span><span class="english">Do Borzoi require exercise?</span></p>

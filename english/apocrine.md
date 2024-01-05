@@ -1,5 +1,7 @@
 # apocrine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apocrine.md)
+
 <p><span class="chinese">母乳是一种顶浆分泌液。</span><span class="english">Mother's milk is one apocrine secretion.</span></p>
 
 <p><span class="chinese">培养细胞有局部分泌和顶浆分泌。</span><span class="english">The cultured cells show merocrine and apocrine secretion.</span></p>

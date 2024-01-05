@@ -1,5 +1,7 @@
 # grasp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grasp.md)
+
 <p><span class="chinese">抓紧你手中的曼德拉草。</span><span class="english">Grasp your Mandrake firmly.</span></p>
 
 <p><span class="chinese">掌握每个单元发音法的拼读。</span><span class="english">To grasp phonics of each unit.</span></p>

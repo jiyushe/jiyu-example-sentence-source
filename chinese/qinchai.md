@@ -1,5 +1,7 @@
 # 钦差
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinchai.md)
+
 <p><span class="chinese">钦差见王发这么积极，还以为他是个好人。</span><span class="english">An imperial see Wang Fa so positive, thought he was a good man.</span></p>
 
 <p><span class="chinese">众人一看钦差大人的马儿死在了马厩里，一时吓得六神无主。</span><span class="english">All the people see the governors of adult horse died in the stable, frighten a dump.</span></p>

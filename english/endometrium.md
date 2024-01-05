@@ -1,5 +1,7 @@
 # endometrium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endometrium.md)
+
 <p><span class="chinese">结论子宫内膜异位种植是本症的主要发病机制。</span><span class="english">Conclusion The major pathogenesis is endometrium ectopia and implantation.</span></p>
 
 <p><span class="chinese">子宫内膜炎12例，增生期或分泌期子宫内膜2例。</span><span class="english">Endometritis in 12 cases, hyperplastic or secretory phase endometrium in 2 cases.</span></p>

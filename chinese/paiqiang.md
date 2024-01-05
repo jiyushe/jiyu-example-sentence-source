@@ -1,5 +1,7 @@
 # 排枪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paiqiang.md)
+
 <p><span class="chinese">我授权你们，向他们放一排狠毒的排枪。</span><span class="english">I authorize you to hit 'em a tremendous whack.</span></p>
 
 <p><span class="chinese">躲避排枪与躲避单枪是一样容易的。</span><span class="english">It is as easy to dodge a volley as a single shot.</span></p>

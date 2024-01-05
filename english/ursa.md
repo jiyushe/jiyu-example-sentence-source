@@ -1,5 +1,7 @@
 # ursa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ursa.md)
+
 <p><span class="chinese">阴天的夜空既看不到牛郎星，也看不到北斗星。</span><span class="english">We can see neither Altair or Ursa Major in the cloudy night sky.</span></p>
 
 <p><span class="chinese">在星座大熊座，完成与解释和用户指南。</span><span class="english">In the constellation Ursa Major, complete with explanation and user guide.</span></p>

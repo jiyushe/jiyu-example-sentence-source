@@ -1,5 +1,7 @@
 # spout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spout.md)
+
 <p><span class="chinese">拉下来壶嘴倒。</span><span class="english">Pull pour spout down.</span></p>
 
 <p><span class="chinese">这茶壶的壶嘴坏了。</span><span class="english">This teapot's got a broken spout.</span></p>

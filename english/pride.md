@@ -1,5 +1,7 @@
 # pride
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pride.md)
+
 <p><span class="chinese">因为那是我的冀望，我的骄傲。</span><span class="english">For my image and pride.</span></p>
 
 <p><span class="chinese">我的自尊心太强了。</span><span class="english">My pride is too strong.</span></p>

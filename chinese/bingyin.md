@@ -1,5 +1,7 @@
 # 病因
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingyin.md)
+
 <p><span class="chinese">疝气的病因有哪些？</span><span class="english">WHAT CAUSES A HERNIA?</span></p>
 
 <p><span class="chinese">最常见的一种病因是椎间盘突出。</span><span class="english">One common cause is a herniated disc.</span></p>

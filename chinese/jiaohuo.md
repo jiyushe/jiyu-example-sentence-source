@@ -1,5 +1,7 @@
 # 交货
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaohuo.md)
+
 <p><span class="chinese">交货付款是我们通常的方法！</span><span class="english">C. O. D is our usual way !</span></p>
 
 <p><span class="chinese">我们为交货量短缺向贵公司致歉。</span><span class="english">We are sorry for the brief delivery.</span></p>

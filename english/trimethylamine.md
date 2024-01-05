@@ -1,5 +1,7 @@
 # trimethylamine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trimethylamine.md)
+
 <p><span class="chinese">以三甲胺及一氯乙酸为原料合成甜菜碱。</span><span class="english">Beet alkali was synthesized from trimethylamine and chloroacetic acid.</span></p>
 
 <p><span class="chinese">人们发现异味蛋含有大量的三甲胺。</span><span class="english">The off-flavored eggs were found to contain large amounts of trimethylamine.</span></p>

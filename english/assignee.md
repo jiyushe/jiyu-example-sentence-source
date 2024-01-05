@@ -1,5 +1,7 @@
 # assignee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assignee.md)
+
 <p><span class="chinese">债务人可以向受让人主张抵销。</span><span class="english">The obligor May avail itself of any set-off against the assignee.</span></p>
 
 <p><span class="chinese">而且，发布计划现在可以根据活动或被分配人分组。</span><span class="english">Also, the release plan can now be grouped by Activtiy or Assignee.</span></p>

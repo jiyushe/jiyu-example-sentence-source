@@ -1,5 +1,7 @@
 # 四肢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sizhi_1.md)
+
 <p><span class="chinese">没有四肢的骨骼。</span><span class="english">There were no limb bones.</span></p>
 
 <p><span class="chinese">熊有强壮的四肢，可以站立。</span><span class="english">Bears have four strong limbs.</span></p>

@@ -1,5 +1,7 @@
 # bricklaying
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bricklaying.md)
+
 <p><span class="chinese">砌砖是父亲的职业。</span><span class="english">Bricklaying was Father's trade.</span></p>
 
 <p><span class="chinese">砌砖时应挂线进行砌筑。</span><span class="english">Control lines shall be used for bricklaying.</span></p>

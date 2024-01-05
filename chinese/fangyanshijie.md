@@ -1,5 +1,7 @@
 # 放眼世界
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangyanshijie.md)
+
 <p><span class="chinese">在印尼这是一个大新闻，但是我们相信或许这样的情况放眼世界也绝无仅有。</span><span class="english">This is currently big news in Indonesia.</span></p>
 
 <p><span class="chinese">放眼世界，当前比这要紧的事儿多了去了。</span><span class="english">There are more pressing issues in the world today.</span></p>

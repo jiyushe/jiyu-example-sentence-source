@@ -1,5 +1,7 @@
 # 油酥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yousu.md)
+
 <p><span class="chinese">你吃油酥点心吃得太多了。</span><span class="english">You eat too much pastry.</span></p>
 
 <p><span class="chinese">母亲把油酥面中的一些团块拍平。</span><span class="english">Mother patted down some lumps in the pastry.</span></p>

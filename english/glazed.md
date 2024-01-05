@@ -1,5 +1,7 @@
 # glazed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glazed.md)
+
 <p><span class="chinese">是用釉面砖铺就的。</span><span class="english">It is glazed brick.</span></p>
 
 <p><span class="chinese">她目光呆滞。</span><span class="english">Her eyes are glazed.</span></p>

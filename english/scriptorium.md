@@ -1,5 +1,7 @@
 # scriptorium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scriptorium.md)
+
 <p><span class="chinese">似乎在写字间里，还隐藏着一个房间。</span><span class="english">It would seem that there's a hidden room in the scriptorium.</span></p>
 
 <p><span class="chinese">他把它带回他在缮写室的书桌并开始阅读。</span><span class="english">He took it back to his desk in the scriptorium and began to read it.</span></p>

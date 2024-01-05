@@ -1,5 +1,7 @@
 # kylie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kylie.md)
+
 <p><span class="chinese">雅欣将原动力视为自己成功之道。</span><span class="english">Kylie cites motivation as the key to her success.</span></p>
 
 <p><span class="chinese">剀莉接受了这个提议，录制了这首歌的单曲。</span><span class="english">Kylie accepted the advice and went on to record the single.</span></p>

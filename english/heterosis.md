@@ -1,5 +1,7 @@
 # heterosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heterosis.md)
+
 <p><span class="chinese">异品种花粉授粉在杂交当代存在杂种优势效应。</span><span class="english">There are heterosis of single hybrids re-cross.</span></p>
 
 <p><span class="chinese">油菜杂种优势利用途径主要有三系法和两系法。</span><span class="english">There are two ways in utilization of heterosis in rapeseed.</span></p>

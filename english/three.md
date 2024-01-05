@@ -1,5 +1,7 @@
 # three
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/three.md)
+
 <p><span class="chinese">三个筛子？</span><span class="english">Three sieves?</span></p>
 
 <p><span class="chinese">马库斯,三条</span><span class="english">Marcus? Three.</span></p>

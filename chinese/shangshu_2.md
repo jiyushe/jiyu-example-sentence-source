@@ -1,5 +1,7 @@
 # 尚书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangshu_2.md)
+
 <p><span class="chinese">尚书制度是中国古代政治制度中的一项重要制度。</span><span class="english">Shangshu institution was an important political institution in China history.</span></p>
 
 <p><span class="chinese">是皇帝御赐给陈家礼部尚书陈诜的妻子的。</span><span class="english">The emperor presented the plaque to Cha, the wife of Chen Shen, Minister of Rites.</span></p>

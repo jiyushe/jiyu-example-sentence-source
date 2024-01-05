@@ -1,5 +1,7 @@
 # 险峻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianjun.md)
+
 <p><span class="chinese">某一地方相当是险峻的。</span><span class="english">Some places were very precipitous.</span></p>
 
 <p><span class="chinese">这险峻陡峭的岩石山时。</span><span class="english">The steep slope of the rocky mountain.</span></p>

@@ -1,5 +1,7 @@
 # 倒班
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daoban.md)
+
 <p><span class="chinese">飓风季节里，机组成员常常要倒班连续工作。</span><span class="english">Hurricane season puts the crew on multiple shifts.</span></p>
 
 <p><span class="chinese">适应倒班工作，能够承受一定的工作压力。</span><span class="english">Adapt to shift work and can work under big pressure.</span></p>

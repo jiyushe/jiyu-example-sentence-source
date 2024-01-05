@@ -1,5 +1,7 @@
 # vigorous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vigorous.md)
+
 <p><span class="chinese">她遇到一个劲敌。</span><span class="english">She had a vigorous opponent.</span></p>
 
 <p><span class="chinese">刚健的文字都是简练的。</span><span class="english">Vigorous writing is concise.</span></p>

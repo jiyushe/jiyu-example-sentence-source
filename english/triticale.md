@@ -1,5 +1,7 @@
 # triticale
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/triticale.md)
+
 <p><span class="chinese">小麦、大麦、小黑麦文摘。</span><span class="english">Wheat, Barley and Triticale Abstracts.</span></p>
 
 <p><span class="chinese">在河北低平原区，对引进的11个饲用黑麦、小黑麦品种进行比较试验。</span><span class="english">In the low plain area of Hebei province, we compared 11 rye and triticale varieties.</span></p>

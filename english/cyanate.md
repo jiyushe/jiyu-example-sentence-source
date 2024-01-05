@@ -1,5 +1,7 @@
 # cyanate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cyanate.md)
+
 <p><span class="chinese">利用傅立叶变换红外光谱对纯氰酸酯及其改性树脂体系进行固化反应动力学的研究。</span><span class="english">The kinetics of neat cyanate ester and its modified resin systems were investigated by FTIR.</span></p>
 
 <p><span class="chinese">简单介绍了氰酸酯树脂的性能，重点概括了氰酸酯在高透波雷达天线罩中的应用情况。</span><span class="english">The properties of cyanate resin is simply introduces and its application in radomes is reviewed.</span></p>

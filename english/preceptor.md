@@ -1,5 +1,7 @@
 # preceptor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preceptor.md)
+
 <p><span class="chinese">他既是时代的产儿，也是时代的先锋。</span><span class="english">He is at once the product and preceptor of his time.</span></p>
 
 <p><span class="chinese">那个散布谣言的人，师父知道是谁？</span><span class="english">The person who spreads a rumor, does the preceptor understand to is who?</span></p>

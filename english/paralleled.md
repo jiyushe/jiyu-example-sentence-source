@@ -1,5 +1,7 @@
 # paralleled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paralleled.md)
+
 <p><span class="chinese">没有人赶得上他在事业上的成就。</span><span class="english">This bird cannot be paralleled for beauty.</span></p>
 
 <p><span class="chinese">你船的航迹和参照线平行。</span><span class="english">Your track is paralleled with reference line.</span></p>

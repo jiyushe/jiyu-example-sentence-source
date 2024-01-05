@@ -1,5 +1,7 @@
 # abdicate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abdicate.md)
+
 <p><span class="chinese">该大学年事已高的创始人决定引退。</span><span class="english">The aging founder of the university decided to abdicate.</span></p>
 
 <p><span class="chinese">我辞职是因为我想尝试些不一样的东西。</span><span class="english">The reason I wnat to abdicate is to try something different.</span></p>

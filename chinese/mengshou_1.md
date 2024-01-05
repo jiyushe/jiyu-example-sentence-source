@@ -1,5 +1,7 @@
 # 蒙受
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mengshou_1.md)
+
 <p><span class="chinese">你使我蒙受了耻辱！</span><span class="english">You have disgraced me!</span></p>
 
 <p><span class="chinese">她将蒙受耻辱。</span><span class="english">She would be stigmatized.</span></p>

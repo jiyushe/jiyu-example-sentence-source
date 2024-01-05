@@ -1,5 +1,7 @@
 # condolence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/condolence.md)
+
 <p><span class="chinese">有的人留下了吊唁卡。</span><span class="english">Some left condolence cards.</span></p>
 
 <p><span class="chinese">他为爱狗的去世表示哀悼。</span><span class="english">He expressed condolence for his loved dog.</span></p>

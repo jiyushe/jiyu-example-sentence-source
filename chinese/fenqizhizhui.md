@@ -1,5 +1,7 @@
 # 奋起直追
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenqizhizhui.md)
+
 <p><span class="chinese">谷歌需要奋起直追。</span><span class="english">It is up to Google to catch up.</span></p>
 
 <p><span class="chinese">看涨者认为，股市不久将奋起直追。</span><span class="english">A catch-up is imminent, say the bulls.</span></p>

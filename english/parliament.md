@@ -1,5 +1,7 @@
 # parliament 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parliament.md)
+
 <p><span class="chinese">国王解散了议会。</span><span class="english">The king dissolved parliament.</span></p>
 
 <p><span class="chinese">斐济实行两院制议会。</span><span class="english">Fiji"s Parliament is bicameral.</span></p>

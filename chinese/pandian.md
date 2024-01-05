@@ -1,5 +1,7 @@
 # 盘点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pandian.md)
+
 <p><span class="chinese">盘点下你的性伴侣。</span><span class="english">Tally up your sexual partners.</span></p>
 
 <p><span class="chinese">下星期我们暂停营业盘点存货。</span><span class="english">The food store took stock every week.</span></p>

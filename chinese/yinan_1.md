@@ -1,5 +1,7 @@
 # 阴暗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinan_1.md)
+
 <p><span class="chinese">阴暗的天空令人感到沉闷。</span><span class="english">The overcast sky is stifling.</span></p>
 
 <p><span class="chinese">冥后珀尔塞福涅阴暗的卧室</span><span class="english">into Persephone's dark bedroom</span></p>

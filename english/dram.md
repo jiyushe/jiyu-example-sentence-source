@@ -1,5 +1,7 @@
 # dram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dram.md)
+
 <p><span class="chinese">现在能看到DRAM的价格明显涨了。</span><span class="english">You've seen the DRAM price go up significantly.</span></p>
 
 <p><span class="chinese">在2005年7月打兰的兑率是1美元兑452打兰。</span><span class="english">The exchange rate was 1USD to 452 DRAM in July 2005.</span></p>

@@ -1,5 +1,7 @@
 # opal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/opal.md)
+
 <p><span class="chinese">一个小蛋白石可以去长的路。</span><span class="english">A little opal can go a long way.</span></p>
 
 <p><span class="chinese">他是一个在蛋白石办公室。</span><span class="english">He's the one in the Opal Office.</span></p>

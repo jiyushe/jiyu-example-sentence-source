@@ -1,5 +1,7 @@
 # micronesia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/micronesia.md)
+
 <p><span class="chinese">2006年7月30日，密克罗尼西亚联邦总统乌鲁塞马尔会见了正在密克罗尼西亚联邦进行正式访问的中国外交部长李肇星。</span><span class="english">President of the Federated States of Micronesia</span></p>
 
 <p><span class="chinese">一条拿破仑的濑鱼巡游在密克罗西亚群岛海洋的沿岸而游。</span><span class="english">Napoleon wrasse patrols the waters off the coast of Palau in Micronesia.</span></p>

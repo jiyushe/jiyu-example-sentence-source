@@ -1,5 +1,7 @@
 # 专责
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanze.md)
+
 <p><span class="chinese">专责就更名和名称你的回收站提高到一个新的名字。</span><span class="english">Select on Rename and name your Recycle Bin to a new name.</span></p>
 
 <p><span class="chinese">龚永德专责处理中国税务、关税及商业咨询等业务。</span><span class="english">Peter focuses on China tax, customs duty and business advisory matters.</span></p>

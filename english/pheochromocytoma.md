@@ -1,5 +1,7 @@
 # pheochromocytoma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pheochromocytoma.md)
+
 <p><span class="chinese">肾上腺嗜铬细胞瘤嗜铬反应阳性。</span><span class="english">This pheochromocytoma demonstrates the chromaffin reaction.</span></p>
 
 <p><span class="chinese">病理及随访证实5例为恶性嗜铬细胞瘤。</span><span class="english">Of them 5 cases were confirmed as malignant pheochromocytoma.</span></p>

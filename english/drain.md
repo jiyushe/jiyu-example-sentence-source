@@ -1,5 +1,7 @@
 # drain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drain.md)
+
 <p><span class="chinese">他用水冲排水沟。</span><span class="english">He flushed the drain.</span></p>
 
 <p><span class="chinese">这条阴沟堵塞了。</span><span class="english">The drain is clogged.</span></p>

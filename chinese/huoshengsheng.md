@@ -1,5 +1,7 @@
 # 活生生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoshengsheng.md)
+
 <p><span class="chinese">我就是活生生的证明！</span><span class="english">I'm living proof of it!</span></p>
 
 <p><span class="chinese">我就是一个活生生的例子。</span><span class="english">I’m living proof of that.</span></p>

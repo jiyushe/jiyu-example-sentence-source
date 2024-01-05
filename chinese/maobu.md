@@ -1,5 +1,7 @@
 # 毛布
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maobu.md)
+
 <p><span class="chinese">裁剪毛毛布，然后用热熔胶粘上。</span><span class="english">Cut out the fur, attaching with hot glue.</span></p>
 
 <p><span class="chinese">毛布辊，羊毛辊，胶辊。</span><span class="english">Felt roller, paper roller, rubber roller.</span></p>

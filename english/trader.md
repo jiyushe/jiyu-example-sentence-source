@@ -1,5 +1,7 @@
 # trader
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trader.md)
+
 <p><span class="chinese">他把自己装扮成一个茶叶商。</span><span class="english">He disguised himself as a tea trader.</span></p>
 
 <p><span class="chinese">这个商人经常表现得不诚实。</span><span class="english">The trader is always showing dishonesty.</span></p>

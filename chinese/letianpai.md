@@ -1,5 +1,7 @@
 # 乐天派
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/letianpai.md)
+
 <p><span class="chinese">我猜有点乐天派？</span><span class="english">Kind of an optimistic, I suppose?</span></p>
 
 <p><span class="chinese">作一个数据完整性的乐天派</span><span class="english">Being an optimist about data integrity</span></p>

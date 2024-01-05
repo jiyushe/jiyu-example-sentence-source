@@ -1,5 +1,7 @@
 # arcane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arcane.md)
+
 <p><span class="chinese">增加奥术抗性190点。</span><span class="english">Increases arcane resistance by 190.</span></p>
 
 <p><span class="chinese">这是一场关于关税的神秘争斗。</span><span class="english">It was an arcane dispute over tariffs.</span></p>

@@ -1,5 +1,7 @@
 # row
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/row.md)
+
 <p><span class="chinese">楼厅第一排您要吗？</span><span class="english">Can you row a boat?</span></p>
 
 <p><span class="chinese">我们去划船吧。</span><span class="english">Let us go for a row.</span></p>

@@ -1,5 +1,7 @@
 # 隐现
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinxian_2.md)
+
 <p><span class="chinese">月亮从一片云后隐现出来。</span><span class="english">The moon peeped out from behind a cloud.</span></p>
 
 <p><span class="chinese">她对我的畴昔隐现出莫大年夜的猎奇。</span><span class="english">She showed great curiosity about my past.</span></p>

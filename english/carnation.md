@@ -1,5 +1,7 @@
 # carnation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carnation.md)
+
 <p><span class="chinese">我做了一个纸康乃馨。</span><span class="english">I made a paper carnation.</span></p>
 
 <p><span class="chinese">香石竹再生体系的建立。</span><span class="english">Regeneration systems of carnation.</span></p>

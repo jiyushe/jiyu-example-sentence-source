@@ -1,5 +1,7 @@
 # 铁箍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiegu.md)
+
 <p><span class="chinese">木箱装，两端用铁箍围住。</span><span class="english">Packed in wooden cases iron hooped at both ends.</span></p>
 
 <p><span class="chinese">这个工人用一个铁箍修桶。</span><span class="english">The worker repaired the barrel with a hoop iron.</span></p>

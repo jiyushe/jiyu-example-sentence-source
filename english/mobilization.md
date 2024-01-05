@@ -1,5 +1,7 @@
 # mobilization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mobilization.md)
+
 <p><span class="chinese">什么是政治动员呢?。</span><span class="english">What does political mobilization mean?</span></p>
 
 <p><span class="chinese">这要动员受影响的各个社区。</span><span class="english">This requires mobilization of affected communities.</span></p>

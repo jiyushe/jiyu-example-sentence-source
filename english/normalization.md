@@ -1,5 +1,7 @@
 # normalization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/normalization.md)
+
 <p><span class="chinese">该过程形式上被认为是标准化。</span><span class="english">The process is formally known as normalization.</span></p>
 
 <p><span class="chinese">自此，中美关系实现正常化。</span><span class="english">Normalization of Sino-U. S. relations was thus achieved.</span></p>

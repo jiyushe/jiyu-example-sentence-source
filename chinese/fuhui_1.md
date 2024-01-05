@@ -1,5 +1,7 @@
 # 附会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuhui_1.md)
+
 <p><span class="chinese">下面三足是异型怪兽，有镇宅辟邪之附会。</span><span class="english">The following three feet is alien monster, have the lines.</span></p>
 
 <p><span class="chinese">概因此附会于伯牙与钟子期知音的故事。</span><span class="english">Shall be so attached to Bo Ya and Zhong Ziqi Concert story.</span></p>

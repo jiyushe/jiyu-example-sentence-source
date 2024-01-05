@@ -1,5 +1,7 @@
 # 扇贝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanbei_1.md)
+
 <p><span class="chinese">好漂亮的扇贝，是你在跟我说话吗？</span><span class="english">A beautiful scallop, is you talking to me?</span></p>
 
 <p><span class="chinese">虾，雪蟹，带壳扇贝，蛤蜊。</span><span class="english">Shrimp, snow crab, and scallop in shell, clam.</span></p>

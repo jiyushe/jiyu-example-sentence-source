@@ -1,5 +1,7 @@
 # aggrandizement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aggrandizement.md)
+
 <p><span class="chinese">市场理念，敢于竞争，强化发展，排除困难。</span><span class="english">Marker thoughts, brave to compete, aggrandizement develop, debar difficulties.</span></p>
 
 <p><span class="chinese">房子的外表是用我发明的超级强化不锈钢制成的。</span><span class="english">The house with my appearance is invented by super aggrandizement stainless steel.</span></p>

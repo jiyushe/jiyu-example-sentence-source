@@ -1,5 +1,7 @@
 # loopy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loopy.md)
+
 <p><span class="chinese">这听起来可能有点愚蠢或者太简单。</span><span class="english">It might sound a bit loopy or too simple.</span></p>
 
 <p><span class="chinese">无性的社会是令人费解的。</span><span class="english">This sexless society is making people loopy.</span></p>

@@ -1,5 +1,7 @@
 # 烦乱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanluan.md)
+
 <p><span class="chinese">她一夜心神烦乱，很早就醒了。</span><span class="english">She awoke early after a disturbed night.</span></p>
 
 <p><span class="chinese">他心情太烦乱了，无法分辨善恶。</span><span class="english">He was too upset to distinguish vice from virtue.</span></p>

@@ -1,5 +1,7 @@
 # hydroelectricity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydroelectricity.md)
+
 <p><span class="chinese">大容量水电机组宜采用交-交变频器。</span><span class="english">Large content hydroelectricity set should use AC-AC frequency converter.</span></p>
 
 <p><span class="chinese">目前，全国最大的能源存储选择是泵送水电。</span><span class="english">The nation’s largest energy storage option right now is pumped hydroelectricity.</span></p>

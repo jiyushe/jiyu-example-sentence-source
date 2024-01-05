@@ -1,5 +1,7 @@
 # cathay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cathay.md)
+
 <p><span class="chinese">国泰航空公司售票处，有什么可以为你效劳吗？</span><span class="english">Booking office of Cathay Pacific. May I help you?</span></p>
 
 <p><span class="chinese">这也许就是“华轩人”的可爱之处吧。</span><span class="english">Maybe this is why I love the people of Cathay so much.</span></p>

@@ -1,5 +1,7 @@
 # bedlam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bedlam.md)
+
 <p><span class="chinese">舰桥也是一片混乱。</span><span class="english">The bridge was bedlam.</span></p>
 
 <p><span class="chinese">这是那家疯人院。</span><span class="english">This is the house of Bedlam.</span></p>

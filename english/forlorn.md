@@ -1,5 +1,7 @@
 # forlorn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forlorn.md)
+
 <p><span class="chinese">分享收入似乎希望渺茫。</span><span class="english">Revenue sharing seems a forlorn hope.</span></p>
 
 <p><span class="chinese">英雄生来是孤独的。</span><span class="english">Heros are born to be alone and forlorn.</span></p>

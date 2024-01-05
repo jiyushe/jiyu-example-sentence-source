@@ -1,5 +1,7 @@
 # histological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/histological.md)
+
 <p><span class="chinese">组织病理示外毛根鞘囊肿。</span><span class="english">Histological examinations showed trichilemmal cyst.</span></p>
 
 <p><span class="chinese">对鸵鸟皮及成革的组织结构进行了研究。</span><span class="english">The histological structure of ostrich skin is studied.</span></p>

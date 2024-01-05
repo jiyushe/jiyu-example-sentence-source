@@ -1,5 +1,7 @@
 # 雪茄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuejia.md)
+
 <p><span class="chinese">我的雪茄在哪?。</span><span class="english">Wheres my cigar?</span></p>
 
 <p><span class="chinese">我只抽味道淡的雪茄。</span><span class="english">I only smoke mild cigars.</span></p>

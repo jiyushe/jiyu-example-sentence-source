@@ -1,5 +1,7 @@
 # 函授
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanshou.md)
+
 <p><span class="chinese">他的英语是靠函授学习的。</span><span class="english">His English was taught by correspondence.</span></p>
 
 <p><span class="chinese">她在函授学校修法语课程。</span><span class="english">She took a French course in a correspondence school.</span></p>

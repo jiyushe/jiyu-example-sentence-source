@@ -1,5 +1,7 @@
 # 介入
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieru.md)
+
 <p><span class="chinese">他介入了一场辩论。</span><span class="english">He interposed in a dispute.</span></p>
 
 <p><span class="chinese">道德在此介入。</span><span class="english">That is where the moral domain enters.</span></p>

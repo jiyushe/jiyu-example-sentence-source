@@ -1,5 +1,7 @@
 # siloxane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/siloxane.md)
+
 <p><span class="chinese">通过多步骤合成了四种含有季铵基的有机硅表面活性剂。</span><span class="english">Four new types of organic siloxane surfactants with quaternary ammonium group have been obtained.</span></p>
 
 <p><span class="chinese">接着视需要使所述浆液成形，并且使所述灰泥凝固并使所述硅氧烷聚合。</span><span class="english">The slurry is then shaped as desired and the stucco is allowed to set and the siloxane polymerizes.</span></p>

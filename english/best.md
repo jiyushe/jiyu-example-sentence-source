@@ -1,5 +1,7 @@
 # best 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/best.md)
+
 <p><span class="chinese">最好的间谍？</span><span class="english">Best spy ever?</span></p>
 
 <p><span class="chinese">我的最佳摰友呀！</span><span class="english">My best friend!</span></p>

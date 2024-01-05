@@ -1,5 +1,7 @@
 # 膳食
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanshi_2.md)
+
 <p><span class="chinese">想在膳食中降低脂肪的含量？</span><span class="english">Want to cut fat in meals?</span></p>
 
 <p><span class="chinese">柿子还富含膳食纤维和热量。</span><span class="english">They are rich in fiber and calories.</span></p>

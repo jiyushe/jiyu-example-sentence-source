@@ -1,5 +1,7 @@
 # vulva
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vulva.md)
+
 <p><span class="chinese">女阴没有男性的对等物。</span><span class="english">There is no male equivalent of the vulva.</span></p>
 
 <p><span class="chinese">组织病理改变符合硬化性萎缩性苔藓。</span><span class="english">The change of histopathology on the vulva lesion was consistent with sclerotic atrophic lichen.</span></p>

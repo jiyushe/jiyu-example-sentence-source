@@ -1,5 +1,7 @@
 # ivr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ivr.md)
+
 <p><span class="chinese">一般而言，你可以在自己创造的这套IVCM情景。</span><span class="english">In general, you can create IVR scenarios by yourself in IVCM.</span></p>
 
 <p><span class="chinese">该系统支持WEB和IVR两种技术发送传真。</span><span class="english">This system supports two methods to access, which are WEB and IVR.</span></p>

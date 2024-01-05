@@ -1,5 +1,7 @@
 # 生物武器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengwuwuqi.md)
+
 <p><span class="chinese">美国在朝鲜和越南战争中都钟使用生物武器。</span><span class="english">US in North Korean and in Vietnam War clock use biological weapon.</span></p>
 
 <p><span class="chinese">生物武器也是一样，很难追踪到肇事者，这都是广为人知的。</span><span class="english">bioweapons, too, are famously difficult to trace back to a perpetrator.</span></p>

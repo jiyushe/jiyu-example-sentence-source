@@ -1,5 +1,7 @@
 # mst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mst.md)
+
 <p><span class="chinese">我在亚利桑那州东海岸的MST时间落后3小时。</span><span class="english">I am in Arizona MST 3 hrs behind east coast time.</span></p>
 
 <p><span class="chinese">肝癌患者能耐受全肝移动条照射。</span><span class="english">The patients tolerated MST of total liver irradiation well.</span></p>

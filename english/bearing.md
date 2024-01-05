@@ -1,5 +1,7 @@
 # bearing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bearing.md)
+
 <p><span class="chinese">主轴承盖松动。</span><span class="english">Loose main bearing cap.</span></p>
 
 <p><span class="chinese">我们在避让那辆车。</span><span class="english">We are bearing off the car.</span></p>

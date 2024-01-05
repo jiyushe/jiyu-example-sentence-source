@@ -1,5 +1,7 @@
 # 数据库
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shujuku.md)
+
 <p><span class="chinese">还原数据库。</span><span class="english">Restore the database.</span></p>
 
 <p><span class="chinese">极大型数据库?。</span><span class="english">VLDB? Very Large Data Base?</span></p>

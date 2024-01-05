@@ -1,5 +1,7 @@
 # 连着
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianzhe.md)
+
 <p><span class="chinese">教师连着讲了两遍。</span><span class="english">The teacher explained twice in succession.</span></p>
 
 <p><span class="chinese">我今天要连着上家教课。</span><span class="english">I have back-to-back tutoring sessions today.</span></p>

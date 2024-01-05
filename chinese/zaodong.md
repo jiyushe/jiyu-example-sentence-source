@@ -1,5 +1,7 @@
 # 躁动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaodong.md)
+
 <p><span class="chinese">谁没有躁动？</span><span class="english">Who has no agitations?</span></p>
 
 <p><span class="chinese">认识到这一点，我们才有可能不那么躁动。</span><span class="english">Up to a point, we can rationalize our pushiness.</span></p>

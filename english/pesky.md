@@ -1,5 +1,7 @@
 # pesky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pesky.md)
+
 <p><span class="chinese">一个主要问题是麻烦的生理构造。</span><span class="english">One major problem is our pesky anatomy.</span></p>
 
 <p><span class="chinese">但是首先，让我们来讨论一下密码所带来的讨厌的问题。</span><span class="english">But first, let's discuss the pesky problems that passwords present.</span></p>

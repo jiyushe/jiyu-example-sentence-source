@@ -1,5 +1,7 @@
 # convulsions
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/convulsions.md)
+
 <p><span class="chinese">本机为外抽风。</span><span class="english">This machine is outside convulsions.</span></p>
 
 <p><span class="chinese">重者可有躁动，抽搐式昏迷。</span><span class="english">In severe cases, may have irritability, convulsions coma.</span></p>

@@ -1,5 +1,7 @@
 # 冷板凳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lengbandeng.md)
+
 <p><span class="chinese">坐在冷板凳上，等待著你的呼唤。</span><span class="english">Sitting on the bench, waiting for your call.</span></p>
 
 <p><span class="chinese">在当时，丰田章男似乎是坐着冷板凳。</span><span class="english">At the time, Mr. Toyoda seemed to have been sidelined.</span></p>

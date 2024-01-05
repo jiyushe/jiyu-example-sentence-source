@@ -1,5 +1,7 @@
 # degeneracy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/degeneracy.md)
+
 <p><span class="chinese">而简并是什么意思呢？</span><span class="english">What do I mean by degeneracy?</span></p>
 
 <p><span class="chinese">那也是我们系统的简并度。</span><span class="english">And that's also our system degeneracy.</span></p>

@@ -1,5 +1,7 @@
 # rp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rp.md)
+
 <p><span class="chinese">中大西洋口音其实是一种美国化的标准发音。</span><span class="english">It is an Americanized RP accent.</span></p>
 
 <p><span class="chinese">这样的晚上我能赚大约2百万卢比。</span><span class="english">On those nights, I make roughly Rp 2 million.</span></p>

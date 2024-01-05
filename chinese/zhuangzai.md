@@ -1,5 +1,7 @@
 # 装载
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangzai.md)
+
 <p><span class="chinese">虚拟可装载模块?。</span><span class="english">VLM? Virtual Loadable Module?</span></p>
 
 <p><span class="chinese">她是真的那么无心装载吗？</span><span class="english">Is she really that unobservant?</span></p>

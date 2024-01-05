@@ -1,5 +1,7 @@
 # rumor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rumor.md)
+
 <p><span class="chinese">这是瞎说吗？</span><span class="english">Is this a rumor?</span></p>
 
 <p><span class="chinese">不过，这个谣言的价值何在？</span><span class="english">What’s the rumor worth?</span></p>

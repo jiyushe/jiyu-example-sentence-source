@@ -1,5 +1,7 @@
 # surmount
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surmount.md)
+
 <p><span class="chinese">CTF将帮助克服障碍</span><span class="english">CTF Will Help Surmount Barriers</span></p>
 
 <p><span class="chinese">他们登上一块又一块的峭壁。</span><span class="english">They surmount one crag after another.</span></p>

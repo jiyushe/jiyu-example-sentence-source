@@ -1,5 +1,7 @@
 # ailment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ailment.md)
+
 <p><span class="chinese">癌症是一种顽症。</span><span class="english">Cancer is a persistent ailment.</span></p>
 
 <p><span class="chinese">她肝部有点小毛病。</span><span class="english">She suffers from a liver ailment.</span></p>

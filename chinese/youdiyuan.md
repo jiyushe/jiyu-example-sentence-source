@@ -1,5 +1,7 @@
 # 邮递员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youdiyuan.md)
+
 <p><span class="chinese">汤姆的工作是邮递员。</span><span class="english">Tom is working as a postman.</span></p>
 
 <p><span class="chinese">邮递员天天来一次。</span><span class="english">The postman calls once a day.</span></p>

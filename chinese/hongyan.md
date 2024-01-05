@@ -1,5 +1,7 @@
 # 红眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongyan.md)
+
 <p><span class="chinese">我怎样才能消除红眼的宠物？</span><span class="english">How can I get rid of pet redeye?</span></p>
 
 <p><span class="chinese">自动，不闪光，强制闪光，防红眼。</span><span class="english">Auto, Red-eye reduction, Fill-In, Off.</span></p>

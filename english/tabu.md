@@ -1,5 +1,7 @@
 # tabu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tabu.md)
+
 <p><span class="chinese">拟人和禁忌表两个策略被给出。</span><span class="english">Personification strategy and tabu list strategy are presented.</span></p>
 
 <p><span class="chinese">禁忌频率的信息压缩技术节约了大量存储空间。</span><span class="english">The information compression of tabu frequency reduces plenty of memory demand.</span></p>

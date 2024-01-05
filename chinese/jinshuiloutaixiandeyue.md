@@ -1,5 +1,7 @@
 # 近水楼台先得月
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinshuiloutaixiandeyue.md)
+
 <p><span class="chinese">哪家要卖房、哪家要出租，物业公司近水楼台先得月。</span><span class="english">To any real, caused to rental property company gets.</span></p>
 
 <p><span class="chinese">香港建筑企业可以说是近水楼台先得月。</span><span class="english">Hong Kong construction enterprises can be said to be easier.</span></p>

@@ -1,5 +1,7 @@
 # 年鉴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianjian_1.md)
+
 <p><span class="chinese">年鉴、地图册、授权目录</span><span class="english">Almanacs, Atlases, AV Catalogs</span></p>
 
 <p><span class="chinese">第一只直立行走的猴子，后来与汤姆.布罗考和亚伯拉罕.林肯一起编写年鉴的人。</span><span class="english">Tom Brokaw and Abraham Lincoln.</span></p>

@@ -1,5 +1,7 @@
 # 食槽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shicao_1.md)
+
 <p><span class="chinese">猪把食槽拱翻了。</span><span class="english">The pig nosed the trough down.</span></p>
 
 <p><span class="chinese">他在食槽里放了些草。</span><span class="english">He put some grass in the manger.</span></p>

@@ -1,5 +1,7 @@
 # higgs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/higgs.md)
+
 <p><span class="chinese">其中之一便是希格斯波色子的任意的附属特性。</span><span class="english">One is the arbitrary, bolt-on nature of the Higgs boson.</span></p>
 
 <p><span class="chinese">只有一件事我们相当确定——一定没有希格斯玻色子。</span><span class="english">One thing we know for sure -- it is not the Higgs boson.</span></p>

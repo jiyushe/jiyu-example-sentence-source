@@ -1,5 +1,7 @@
 # 投奔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touben.md)
+
 <p><span class="chinese">涉水而过，投奔岸的另一边。</span><span class="english">Splashing, to shore on the other side.</span></p>
 
 <p><span class="chinese">投奔我的关口是十字架的苦难。</span><span class="english">The gateway is the cross to get to Me.</span></p>

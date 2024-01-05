@@ -1,5 +1,7 @@
 # waistline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waistline.md)
+
 <p><span class="chinese">我的腰围又怎么办呢？</span><span class="english">And what about my waistline?</span></p>
 
 <p><span class="chinese">请将腰围收紧一点。</span><span class="english">Please catch in the waistline slightly.</span></p>

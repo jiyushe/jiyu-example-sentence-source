@@ -1,5 +1,7 @@
 # fur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fur.md)
+
 <p><span class="chinese">她的皮草外套。</span><span class="english">Her fur coat.</span></p>
 
 <p><span class="chinese">他的毛是白色的。</span><span class="english">His fur is white.</span></p>

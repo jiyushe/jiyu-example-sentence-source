@@ -1,5 +1,7 @@
 # 笑话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaohua_2.md)
+
 <p><span class="chinese">他爱说笑话。</span><span class="english">He made a joke.</span></p>
 
 <p><span class="chinese">一句笑话，他就生气了。</span><span class="english">A joke nettled him.</span></p>

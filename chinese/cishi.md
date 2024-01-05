@@ -1,5 +1,7 @@
 # 磁石
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cishi.md)
+
 <p><span class="chinese">磁石吸铁。</span><span class="english">Magnets attract iron.</span></p>
 
 <p><span class="chinese">磁石吸铁。</span><span class="english">A magnet attracts iron.</span></p>

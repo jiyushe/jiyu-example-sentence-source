@@ -1,5 +1,7 @@
 # sandhi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sandhi.md)
+
 <p><span class="chinese">他紧张得连说话都走音变调了。</span><span class="english">He was not even nervous all speak the go tone sandhi.</span></p>
 
 <p><span class="chinese">描写莒南方言两字组连读变调及轻声的变调。</span><span class="english">The tone sandhi of disyllabic word and the neutral tone.</span></p>

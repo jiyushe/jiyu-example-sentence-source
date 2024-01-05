@@ -1,5 +1,7 @@
 # 布防
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bufang_1.md)
+
 <p><span class="chinese">整个沿罗尔河德军布防的状况都差不多。</span><span class="english">Conditions were similar along the whole stretch of the Roer.</span></p>
 
 <p><span class="chinese">背面处理有发泡乳胶，PVC，滴塑布防滑等。</span><span class="english">Back to deal with the foam latex, PVC, and other anti-skid plastic drop cloth.</span></p>

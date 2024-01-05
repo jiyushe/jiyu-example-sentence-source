@@ -1,5 +1,7 @@
 # gelada
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gelada.md)
+
 <p><span class="chinese">这是一张埃塞俄比亚高地一只坐着的狮尾狒狒的肖像照片。</span><span class="english">A gelada monkey sits for a portrait in the Ethiopian highlands.</span></p>
 
 <p><span class="chinese">一只雄性狒狒露出了尖牙和有力的齿龈，这使它看上去相当的暴戾。</span><span class="english">With fangs bared and gums blazing, a male gelada looks tough enough.</span></p>

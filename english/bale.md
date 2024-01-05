@@ -1,5 +1,7 @@
 # bale
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bale.md)
+
 <p><span class="chinese">他们用一部大机器将干草捆包。</span><span class="english">They use a big machine to bale Hay.</span></p>
 
 <p><span class="chinese">将5具尸体藏于干草堆中。</span><span class="english">Hide 5 dead bodies in a Bale of Hay.</span></p>

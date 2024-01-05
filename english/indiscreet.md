@@ -1,5 +1,7 @@
 # indiscreet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indiscreet.md)
+
 <p><span class="chinese">吾信任轻率之傻子而猜疑律师。</span><span class="english">I trust an indiscreet fool and suspect a lawyer.</span></p>
 
 <p><span class="chinese">这是轻率发表推文的最新警讯。</span><span class="english">It is the latest warning of the dangers of indiscreet tweeting.</span></p>

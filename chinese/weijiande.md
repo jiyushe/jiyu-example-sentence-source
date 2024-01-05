@@ -1,5 +1,7 @@
 # 未见得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weijiande.md)
+
 <p><span class="chinese">没有孤独而活着未见得是好事。</span><span class="english">Have no standing alone and on the hoof see is a good matter.</span></p>
 
 <p><span class="chinese">摩擦效应与载荷未见得能成线性关系。</span><span class="english">It is unlikely that the effects of friction are linear with load.</span></p>

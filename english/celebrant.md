@@ -1,5 +1,7 @@
 # celebrant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/celebrant.md)
+
 <p><span class="chinese">愿基督的圣血，护祐我得到永生。</span><span class="english">The Celebrant receives the Body of Christ.</span></p>
 
 <p><span class="chinese">愿基督的圣血，护祐我得到永生。</span><span class="english">The Celebrant receives the Precious Blood.</span></p>

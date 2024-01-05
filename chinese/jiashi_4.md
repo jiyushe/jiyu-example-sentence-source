@@ -1,5 +1,7 @@
 # 家史
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiashi_4.md)
+
 <p><span class="chinese">我的家史可追溯至18世纪。</span><span class="english">My family goes back to the 18th century.</span></p>
 
 <p><span class="chinese">福克纳追述了康普生家史。</span><span class="english">Faulkner traces the history of the Compson family.</span></p>

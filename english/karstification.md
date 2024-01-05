@@ -1,5 +1,7 @@
 # karstification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/karstification.md)
+
 <p><span class="chinese">岩溶作用使得灰岩的储集性能在一定程度上得到了改善。</span><span class="english">The karstification benefited improvement for reservoir limestones to a certain extent.</span></p>
 
 <p><span class="chinese">在所研究的样品中，都检测到这些可发生生物岩溶作用的菌类。</span><span class="english">The bacteria related to the biogenetic karstification have been found in many samples of gypsum.</span></p>

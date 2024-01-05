@@ -1,5 +1,7 @@
 # slot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slot.md)
+
 <p><span class="chinese">我把光盘发到狭槽中。</span><span class="english">I put a CD-ROM in the slot.</span></p>
 
 <p><span class="chinese">他把一枚硬币投进孔里。</span><span class="english">He dropped a coin into the slot.</span></p>

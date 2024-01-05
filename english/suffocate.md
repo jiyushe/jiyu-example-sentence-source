@@ -1,5 +1,7 @@
 # suffocate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suffocate.md)
+
 <p><span class="chinese">大家都被这紧张的气氛搞得透不过气来。</span><span class="english">The tense atmosphere made everybody suffocate.</span></p>
 
 <p><span class="chinese">如果你还留在座位上，他说，你就窒息了。</span><span class="english">If you stayed seated, he said, you'd suffocate.</span></p>

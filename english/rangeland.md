@@ -1,5 +1,7 @@
 # rangeland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rangeland.md)
+
 <p><span class="chinese">我国南方有十四个主要草地植被类型。</span><span class="english">South China have fourteen main types of rangeland vegetation.</span></p>
 
 <p><span class="chinese">毫无疑问，现在正在耕种的大量土壤将需要变成牧场。</span><span class="english">No doubt much land that is now cultivated will need to become rangeland.</span></p>

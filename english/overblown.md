@@ -1,5 +1,7 @@
 # overblown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overblown.md)
+
 <p><span class="chinese">这种美元下跌论言过其实了。</span><span class="english">This dollar declinism is overblown.</span></p>
 
 <p><span class="chinese">这些警告是过分夸大。</span><span class="english">These warnings are grossly overblown.</span></p>

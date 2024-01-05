@@ -1,5 +1,7 @@
 # 盐滩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yantan.md)
+
 <p><span class="chinese">这是家在盐滩上的奇怪的盐酒店。</span><span class="english">Here's the strange Salt Hotel of the Uyuni Flats.</span></p>
 
 <p><span class="chinese">他于1935年9月在犹他州的邦纳维尔盐滩创造了一项新的世界纪录。</span><span class="english">He set up a new world record in September 1935 at Bonneville Salt Flats, Utah.</span></p>

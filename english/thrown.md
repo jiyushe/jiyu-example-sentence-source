@@ -1,5 +1,7 @@
 # thrown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thrown.md)
+
 <p><span class="chinese">门突然大开。</span><span class="english">The door was thrown open.</span></p>
 
 <p><span class="chinese">他从一辆出租车上被甩了出去。</span><span class="english">He was thrown from a taxi.</span></p>

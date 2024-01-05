@@ -1,5 +1,7 @@
 # nita
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nita.md)
+
 <p><span class="chinese">莫尼塔首席宏观经济学家马青表示。</span><span class="english">Not Nita chief macro economic scientist Ma Qing expressed.</span></p>
 
 <p><span class="chinese">妮塔希望有一天能遇上一位白马王子，但现在她只要保持无忧无虑的单身生活。</span><span class="english">Nita would like to get involved with Mr. Right some day, but just now she would prefer to.</span></p>

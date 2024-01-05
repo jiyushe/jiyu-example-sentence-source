@@ -1,5 +1,7 @@
 # rung
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rung.md)
+
 <p><span class="chinese">她离家后给我来过一次电话。</span><span class="english">She has rung me once since she left.</span></p>
 
 <p><span class="chinese">思考占居最高的阶梯。</span><span class="english">The reason occupies the highest rung.</span></p>

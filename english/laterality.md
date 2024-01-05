@@ -1,5 +1,7 @@
 # laterality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laterality.md)
+
 <p><span class="chinese">在C3-C6两组中，还记录了早期疼痛的偏侧性。</span><span class="english">The laterality of early pain in the C3-C6 groups was recorded.</span></p>
 
 <p><span class="chinese">结果病患的年龄、性别、高血压有无及手术时间长短与术后并发症发生机率无关。</span><span class="english">Age, Sex, laterality , presence of systemic hypertension, operation time were not associated with the complication.</span></p>

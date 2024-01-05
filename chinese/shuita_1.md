@@ -1,5 +1,7 @@
 # 水獭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuita_1.md)
+
 <p><span class="chinese">这里有水獭吗？</span><span class="english">Otters? There are otters here?</span></p>
 
 <p><span class="chinese">野狼，黑熊，水獭，火龙，白鸽。</span><span class="english">Wolf, bear, and otter, dragon, dove.</span></p>

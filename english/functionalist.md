@@ -1,5 +1,7 @@
 # functionalist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/functionalist.md)
+
 <p><span class="chinese">第二部分介绍了德国的功能翻译理论。</span><span class="english">The second part introduces functionalist theory of translation.</span></p>
 
 <p><span class="chinese">工业社会的实用主义模型在概念上遭到了批判。</span><span class="english">The functionalist model of industrial society was subjected to conceptual criticism.</span></p>

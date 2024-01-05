@@ -1,5 +1,7 @@
 # 失意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyi_1.md)
+
 <p><span class="chinese">发泄你的失意。</span><span class="english">Vent your frustration.</span></p>
 
 <p><span class="chinese">微风吹来失意的琵琶。</span><span class="english">The breezes brought dejected lutes.</span></p>

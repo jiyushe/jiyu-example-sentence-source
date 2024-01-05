@@ -1,5 +1,7 @@
 # preponderance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preponderance.md)
+
 <p><span class="chinese">大量的证据表明，对大脑没有影响。</span><span class="english">The preponderance of evidence continues to indicate there is no threat.</span></p>
 
 <p><span class="chinese">在民事诉讼中，判决会以证据为基础。</span><span class="english">In a civil action, a verdict may be based on the preponderance of evidence.</span></p>

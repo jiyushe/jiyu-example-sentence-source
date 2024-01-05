@@ -1,5 +1,7 @@
 # 商业网
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangyewang.md)
+
 <p><span class="chinese">此乃非商业网站，同时不设会员登入。</span><span class="english">Non-commercial website, No membership service.</span></p>
 
 <p><span class="chinese">不要连接商业网站，破解网站到论坛来。</span><span class="english">No links to warez or crack sites in the forums.</span></p>

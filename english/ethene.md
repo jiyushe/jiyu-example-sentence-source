@@ -1,5 +1,7 @@
 # ethene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ethene.md)
+
 <p><span class="chinese">这就是乙烷里的三种间。</span><span class="english">So those are our three types of bonds in ethene.</span></p>
 
 <p><span class="chinese">乙烷脱氢制乙烯是乙烷利用的有效途径。</span><span class="english">Advances in ethane dehydrogenation to ethene have been reviewed.</span></p>

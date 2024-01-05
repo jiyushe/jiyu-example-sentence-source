@@ -1,5 +1,7 @@
 # boss 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boss.md)
+
 <p><span class="chinese">老板哼一声。</span><span class="english">Boss humph.</span></p>
 
 <p><span class="chinese">我们是有上司的。</span><span class="english">There is a boss.</span></p>

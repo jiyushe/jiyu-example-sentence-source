@@ -1,5 +1,7 @@
 # sophisticate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sophisticate.md)
+
 <p><span class="chinese">用奉承话诡辩。</span><span class="english">Sophisticate rose water with geraniol.</span></p>
 
 <p><span class="chinese">有良好的沟通和协调能力。</span><span class="english">Sophisticate in communication and coordination skills.</span></p>

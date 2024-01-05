@@ -1,5 +1,7 @@
 # 通知书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongzhishu.md)
+
 <p><span class="chinese">到目前为止，你收到过录用通知书吗？</span><span class="english">Have you received any offers sofar?</span></p>
 
 <p><span class="chinese">大学的入学通知书也拿到啦。</span><span class="english">University admission tickets also get Matata.</span></p>

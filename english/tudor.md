@@ -1,5 +1,7 @@
 # tudor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tudor.md)
+
 <p><span class="chinese">在英国都铎王朝时期，猪肉是农村主要的肉类来源。</span><span class="english">Pork was the main meat of the peasant in Tudor times.</span></p>
 
 <p><span class="chinese">他们住在乡间有一座都铎时代的华宅。</span><span class="english">They live in a magnificent Tudor house in the country.</span></p>

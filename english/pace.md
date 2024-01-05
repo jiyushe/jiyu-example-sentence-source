@@ -1,5 +1,7 @@
 # pace 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pace.md)
+
 <p><span class="chinese">我来步测一下。</span><span class="english">I'll pace it out.</span></p>
 
 <p><span class="chinese">他的步伐开始减慢。</span><span class="english">His pace began to remit.</span></p>

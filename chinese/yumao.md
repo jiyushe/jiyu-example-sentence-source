@@ -1,5 +1,7 @@
 # 羽毛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yumao.md)
+
 <p><span class="chinese">长着羽毛?</span><span class="english">With feathers?</span></p>
 
 <p><span class="chinese">花白色的羽毛。</span><span class="english">It took white feathers.</span></p>

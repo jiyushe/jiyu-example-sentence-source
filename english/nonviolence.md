@@ -1,5 +1,7 @@
 # nonviolence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonviolence.md)
+
 <p><span class="chinese">对这些人而言，非暴力是一项原则。</span><span class="english">They followed the way of principled nonviolence.</span></p>
 
 <p><span class="chinese">嬉皮士宣扬利他主义和神秘主义，诚实、喜悦与非暴力。</span><span class="english">Hippies preach altruism and mysticism, honesty, joy and nonviolence.</span></p>

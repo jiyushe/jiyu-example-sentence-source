@@ -1,5 +1,7 @@
 # 交换
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaohuan.md)
+
 <p><span class="chinese">所以,这是个交换</span><span class="english">So, it's a tradeoff.</span></p>
 
 <p><span class="chinese">他们交换了碗。</span><span class="english">They exchange bowls.</span></p>

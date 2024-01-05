@@ -1,5 +1,7 @@
 # 高抬贵手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaotaiguishou.md)
+
 <p><span class="chinese">可以请你高抬贵手吗？</span><span class="english">Can i ask for quarter?</span></p>
 
 <p><span class="chinese">但那柄镰刀偏对一丛花高抬贵手。</span><span class="english">Beside a reedy brook the scythe had bared.</span></p>

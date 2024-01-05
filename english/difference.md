@@ -1,5 +1,7 @@
 # difference 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/difference.md)
+
 <p><span class="chinese">所以，为什么会有区别呢？</span><span class="english">So why the difference?</span></p>
 
 <p><span class="chinese">有何不同?</span><span class="english">What is the difference?</span></p>

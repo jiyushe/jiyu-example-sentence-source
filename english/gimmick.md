@@ -1,5 +1,7 @@
 # gimmick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gimmick.md)
+
 <p><span class="chinese">这些问题其实暗藏玄机。</span><span class="english">Here's the gimmick.</span></p>
 
 <p><span class="chinese">这是新花招。</span><span class="english">It's a new gimmick.</span></p>

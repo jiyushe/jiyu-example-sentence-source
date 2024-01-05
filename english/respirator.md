@@ -1,5 +1,7 @@
 # respirator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/respirator.md)
+
 <p><span class="chinese">他被连上了呼吸机，现在就是个植物人了。</span><span class="english">He's on a respirator and is in a vegetative state.</span></p>
 
 <p><span class="chinese">怎样才能学习到呼吸防护用品的佩戴和使用方法？</span><span class="english">Q. How do I learn how to put on and use a respirator?</span></p>

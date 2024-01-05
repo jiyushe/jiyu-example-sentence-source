@@ -1,5 +1,7 @@
 # 裙带关系
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qundaiguanxi.md)
+
 <p><span class="chinese">新教徒之间的裙带关系是与生俱来的。</span><span class="english">The Protestant Establishment was inbred.</span></p>
 
 <p><span class="chinese">国会议员抨击总统搞裙带关系。</span><span class="english">The congressman lashed the president for his nepotism.</span></p>

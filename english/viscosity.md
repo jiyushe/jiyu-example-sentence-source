@@ -1,5 +1,7 @@
 # viscosity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/viscosity.md)
+
 <p><span class="chinese">磁场可以降低血液粘度</span><span class="english">Magnetic fields reduce blood viscosity</span></p>
 
 <p><span class="chinese">一是降低混凝土粘稠度。</span><span class="english">First, reduce the viscosity of concrete.</span></p>

@@ -1,5 +1,7 @@
 # 物主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuzhu.md)
+
 <p><span class="chinese">对名词性物主代词进行总结。</span><span class="english">The possessive form of nouns.</span></p>
 
 <p><span class="chinese">您也是与制物主开一的“一”。</span><span class="english">You are also One with Creator.</span></p>

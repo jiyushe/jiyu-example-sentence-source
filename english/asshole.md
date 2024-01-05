@@ -1,5 +1,7 @@
 # asshole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asshole.md)
+
 <p><span class="chinese">他真是个该死的王八蛋.</span><span class="english">He is a fucking asshole.</span></p>
 
 <p><span class="chinese">是当混蛋的借口。</span><span class="english">An excuse to be an asshole.</span></p>

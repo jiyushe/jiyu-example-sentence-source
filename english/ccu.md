@@ -1,5 +1,7 @@
 # ccu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ccu.md)
+
 <p><span class="chinese">方法入选56例患者均在CCU接受治疗。</span><span class="english">Methods 56 cases were treated with CCU.</span></p>
 
 <p><span class="chinese">目的总结CCU新护士临床培训方法。</span><span class="english">Objective To explore the clinical training method for new nurses in CCU.</span></p>

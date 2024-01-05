@@ -1,5 +1,7 @@
 # keener
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/keener.md)
+
 <p><span class="chinese">相比于给经济放血，它看起来更热衷于给它输血。</span><span class="english">It seems keener on blood transfusions than on bloodletting.</span></p>
 
 <p><span class="chinese">但某些细微的接触，需要你擦亮眼睛认真观察。</span><span class="english">But there is subtle contact that you may need an even keener eye to catch.</span></p>

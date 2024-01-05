@@ -1,5 +1,7 @@
 # nucleophilic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nucleophilic.md)
+
 <p><span class="chinese">涉及36的这种逐步亲核取代是不大可能的。</span><span class="english">A stepwise nucleophilic displacement involving 36 was highly unlikely.</span></p>
 
 <p><span class="chinese">胺的亲核能力对酰胺的收率也有一定的影响。</span><span class="english">The nucleophilic ability of the amines had effect on the yields of the amides as well.</span></p>

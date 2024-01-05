@@ -1,5 +1,7 @@
 # marzipan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marzipan.md)
+
 <p><span class="chinese">杏仁蛋糕，有奶油和用酸橙调味。</span><span class="english">Marzipan cake with creme de menthe and lime zest.</span></p>
 
 <p><span class="chinese">用杏仁碎和可食用珍珠点缀。</span><span class="english">Enrobed in marzipan with edible pearls and flourishes.</span></p>

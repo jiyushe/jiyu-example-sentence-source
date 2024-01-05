@@ -1,5 +1,7 @@
 # glioma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glioma.md)
+
 <p><span class="chinese">神经胶质瘤是脑癌最常见的一种类型。</span><span class="english">Glioma is the most common form of brain cancer.</span></p>
 
 <p><span class="chinese">神经胶质瘤的恶性程度决定于它们生长的部位。</span><span class="english">The severity of glioma tumors depends on their location.</span></p>

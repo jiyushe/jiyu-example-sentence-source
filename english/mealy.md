@@ -1,5 +1,7 @@
 # mealy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mealy.md)
+
 <p><span class="chinese">我只知道两种男孩，脸色苍白和满脸都是横肉的。</span><span class="english">I only know two sorts of boys. Mealy boys, and beef-faced boys.</span></p>
 
 <p><span class="chinese">不要接受那大块嘴巴里还留有食物残渣、衣服穿得半裸的编辑所说的话。</span><span class="english">Don't accept mealy -mouthed half-baked editorial mush that says otherwise.</span></p>

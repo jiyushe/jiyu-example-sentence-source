@@ -1,5 +1,7 @@
 # 樊篱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanli.md)
+
 <p><span class="chinese">在耶利内克手中，文学体裁的樊篱消失了。</span><span class="english">Literary genres pale to disappearance under Jelinek's hand.</span></p>
 
 <p><span class="chinese">但是，技术和不断变化的市场打破了种种樊篱。</span><span class="english">But technology and changing markets have broken down barriers.</span></p>

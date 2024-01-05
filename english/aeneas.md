@@ -1,5 +1,7 @@
 # aeneas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aeneas.md)
+
 <p><span class="chinese">他就立刻起来了。</span><span class="english">Immediately Aeneas got up.</span></p>
 
 <p><span class="chinese">彼得治愈了一个叫以尼雅，瘫痪了的人。</span><span class="english">Peter heals a bed ridden man called Aeneas.</span></p>

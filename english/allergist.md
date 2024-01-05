@@ -1,5 +1,7 @@
 # allergist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allergist.md)
+
 <p><span class="chinese">我建议你去看一看过敏症专家。</span><span class="english">I'm going to refer you to an allergist.</span></p>
 
 <p><span class="chinese">过敏症专家布尔特？沃尔夫说今年的情况比往年更不乐观。</span><span class="english">Allergist Bruce Wolf says this year has been especially bad.</span></p>

@@ -1,5 +1,7 @@
 # foxed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foxed.md)
+
 <p><span class="chinese">这份文件变色得厉害。</span><span class="english">This document is badly foxed.</span></p>
 
 <p><span class="chinese">他完全被她的行为迷惑了。</span><span class="english">He was completely foxed by her behavior.</span></p>

@@ -1,5 +1,7 @@
 # stilted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stilted.md)
+
 <p><span class="chinese">他不追求夸张的警句。</span><span class="english">He fashioned no stilted epigram.</span></p>
 
 <p><span class="chinese">我们再次见面时，就更加不自然了。</span><span class="english">When we do meet again, it's stilted.</span></p>

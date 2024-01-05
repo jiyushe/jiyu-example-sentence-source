@@ -1,5 +1,7 @@
 # multilateral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multilateral.md)
+
 <p><span class="chinese">所以我认为，我们需要多边政策。</span><span class="english">So my view is we need multilateral policies.</span></p>
 
 <p><span class="chinese">开放是多边的，也是双边的。</span><span class="english">Opening-up can be both bilateral and multilateral.</span></p>

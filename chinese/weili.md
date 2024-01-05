@@ -1,5 +1,7 @@
 # 伟力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weili.md)
+
 <p><span class="chinese">反向伟力建设。</span><span class="english">Reverse welt construction.</span></p>
 
 <p><span class="chinese">我们具有真正的伟力，我们深知这一点。</span><span class="english">We have real power and we know it.</span></p>

@@ -1,5 +1,7 @@
 # 荣誉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongyu.md)
+
 <p><span class="chinese">受伤是荣誉？</span><span class="english">Honor in bruises?</span></p>
 
 <p><span class="chinese">纽伯瑞荣誉书。</span><span class="english">Newbery Honor Book.</span></p>

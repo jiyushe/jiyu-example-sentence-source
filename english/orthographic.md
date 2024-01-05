@@ -1,5 +1,7 @@
 # orthographic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orthographic.md)
+
 <p><span class="chinese">了解三视图。</span><span class="english">Understanding orthographic views.</span></p>
 
 <p><span class="chinese">在正交模式下相机的一半尺寸。</span><span class="english">Camera's half-size when in orthographic mode.</span></p>

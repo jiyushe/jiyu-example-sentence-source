@@ -1,5 +1,7 @@
 # placidly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/placidly.md)
+
 <p><span class="chinese">“那他们就不再是吉库尤人了。”我依旧平静地回答。</span><span class="english">"Then they are no longer Kikuyu, " I said placidly.</span></p>
 
 <p><span class="chinese">我提了很多问题，她温和地一一回答。</span><span class="english">I put the questions, and she answered them placidly.</span></p>

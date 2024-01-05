@@ -1,5 +1,7 @@
 # 伪证罪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weizhengzui.md)
+
 <p><span class="chinese">我会以伪证罪被拘禁。</span><span class="english">That I would be held under arrest for perjury.</span></p>
 
 <p><span class="chinese">假如立誓之后还撒谎，你可能被判伪证罪。</span><span class="english">If you lie while you are under oath , you can be found guilty of perjury.</span></p>

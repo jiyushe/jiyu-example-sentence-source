@@ -1,5 +1,7 @@
 # coupling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coupling.md)
+
 <p><span class="chinese">松耦合和无状态性。</span><span class="english">Loose coupling and statelessness.</span></p>
 
 <p><span class="chinese">使用的连接耦合不适合。</span><span class="english">Use a coupling compatible with this scaler.</span></p>

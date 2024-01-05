@@ -1,5 +1,7 @@
 # 空手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongshou.md)
+
 <p><span class="chinese">没人空手回家。</span><span class="english">No one goes home empty-handed.</span></p>
 
 <p><span class="chinese">绝对不要空手去任何地方。</span><span class="english">Never go anywhere empty-handed.</span></p>

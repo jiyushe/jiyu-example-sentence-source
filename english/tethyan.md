@@ -1,5 +1,7 @@
 # tethyan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tethyan.md)
+
 <p><span class="chinese">岩浆形成于大陆弧的构造背景，俯冲的陆壳和古特提斯洋壳对富集的源区均有贡献。</span><span class="english">Both subducted continental and ancient Tethyan oceanic crust contributed to enriched mantle source region.</span></p>
 
 <p><span class="chinese">特提斯构造域是除冈瓦纳构造域、欧亚大陆构造域、太平洋构造域之外的又一全球范围的大构造域。</span><span class="english">Tethyan realm is a global structural realm on the world besides of Gondwana realm, Euro-Asian realm and Pacific realm.</span></p>

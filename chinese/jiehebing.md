@@ -1,5 +1,7 @@
 # 结核病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiehebing.md)
+
 <p><span class="chinese">结核病是可治愈的。</span><span class="english">TB is curable.</span></p>
 
 <p><span class="chinese">结核病致死率继续下降。</span><span class="english">Deaths from TB continue to decline.</span></p>

@@ -1,5 +1,7 @@
 # polysyllabic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polysyllabic.md)
+
 <p><span class="chinese">一齐吹奏，因此产生了复音现象。</span><span class="english">Play together, resulting in a polysyllabic phenomenon.</span></p>
 
 <p><span class="chinese">词汇中的大多数双音节词都是外来语，主要来源是库美尔语、巴厘语和梵语。</span><span class="english">Most polysyllabic words in the vocabulary have been borrowed, mainly from Khmer, Pali and Sanskrit.</span></p>

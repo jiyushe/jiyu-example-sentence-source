@@ -1,5 +1,7 @@
 # tweezers
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tweezers.md)
+
 <p><span class="chinese">我时常借助镊子来搞定这些造型。</span><span class="english">I use tweezers to manipulate the paper shapes.</span></p>
 
 <p><span class="chinese">只需备有解剖刀和镊子。</span><span class="english">A scalpel and tweezers are the only tools needed.</span></p>

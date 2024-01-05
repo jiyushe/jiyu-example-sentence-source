@@ -1,5 +1,7 @@
 # bream
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bream.md)
+
 <p><span class="chinese">塑料海藻小鱼群。</span><span class="english">Through plastic kelp and Bream.</span></p>
 
 <p><span class="chinese">如果我的梦想成真，我将有很多钱。</span><span class="english">If my bream comes true, I will have lots of money.</span></p>

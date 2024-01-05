@@ -1,5 +1,7 @@
 # 依此类推
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yicileitui_2.md)
+
 <p><span class="chinese">接着放2号皇后，依此类推。</span><span class="english">Then put 2 queens, and so on.</span></p>
 
 <p><span class="chinese">根节点的子节点深度为一，依此类推。</span><span class="english">A child of the root node has a depth of one, and so on.</span></p>

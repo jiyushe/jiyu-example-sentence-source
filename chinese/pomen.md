@@ -1,5 +1,7 @@
 # 破门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pomen.md)
+
 <p><span class="chinese">他破门盗窃了办公室。</span><span class="english">He'd burgled the office.</span></p>
 
 <p><span class="chinese">他来了一个远射，但没有破门。</span><span class="english">He gave a long shot, but missed the goal.</span></p>

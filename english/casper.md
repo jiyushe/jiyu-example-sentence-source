@@ -1,5 +1,7 @@
 # casper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/casper.md)
+
 <p><span class="chinese">大家都喜欢卡士伯这个友善的鬼。</span><span class="english">Everybody likes Casper the friendly ghost.</span></p>
 
 <p><span class="chinese">卡斯帕`海德伯格—-国际先驱论坛报</span><span class="english">Casper Hedberg for the International Herald Tribune</span></p>

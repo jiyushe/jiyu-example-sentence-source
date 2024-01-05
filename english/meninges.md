@@ -1,5 +1,7 @@
 # meninges
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meninges.md)
+
 <p><span class="chinese">脑膜上的伤如何解释？</span><span class="english">Any information of the meninges?</span></p>
 
 <p><span class="chinese">真菌感染最常见的部位是肺，其次为口腔、脑膜和血液。</span><span class="english">The infective site were lung, oral cavity, cerebral meninges and blood etc.</span></p>

@@ -1,5 +1,7 @@
 # reykjavik
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reykjavik.md)
+
 <p><span class="chinese">雷克雅未克现在是很多环游世界者的新宠。</span><span class="english">Reykjavik is trendy with a lot of globetrotters nowadays.</span></p>
 
 <p><span class="chinese">在雷克雅未克最好的比萨饼比萨的地方，显然是国王。</span><span class="english">The best pizza place in Reykjavík is obviously Pizza King.</span></p>

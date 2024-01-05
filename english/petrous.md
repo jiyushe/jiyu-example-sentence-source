@@ -1,5 +1,7 @@
 # petrous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/petrous.md)
+
 <p><span class="chinese">原始岩画的象征性几乎是天籁所成。</span><span class="english">The symbolism of the primordial petrous picture was almost the nature made.</span></p>
 
 <p><span class="chinese">三叉神经瘤表现为特征性哑铃形伴岩骨尖骨质破坏。</span><span class="english">The characteristic trigeminoma appeared as dumb bell with erosion of petrous bone.</span></p>

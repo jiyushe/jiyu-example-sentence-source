@@ -1,5 +1,7 @@
 # stump
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stump.md)
+
 <p><span class="chinese">拇指的残根。</span><span class="english">Thumb stump.</span></p>
 
 <p><span class="chinese">这圣洁的苗裔，就是这国的馀干。</span><span class="english">The holy seed is its stump.</span></p>

@@ -1,5 +1,7 @@
 # 满天星
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mantianxing.md)
+
 <p><span class="chinese">我喜欢这满天星斗的冬夜。</span><span class="english">I like the starry winter sky.</span></p>
 
 <p><span class="chinese">她看到满天星斗的夜空。</span><span class="english">She saw the black sky full of stars.</span></p>

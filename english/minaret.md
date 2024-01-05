@@ -1,5 +1,7 @@
 # minaret
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minaret.md)
+
 <p><span class="chinese">他们还朝一个尖塔开了炮。</span><span class="english">They blasted a minaret too.</span></p>
 
 <p><span class="chinese">阿富汗贾米清真寺的宣礼塔和考古遗址。</span><span class="english">Minaret and archaeological remains of Jam, Afghanistan.</span></p>

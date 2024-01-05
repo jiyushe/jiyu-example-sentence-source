@@ -1,5 +1,7 @@
 # kay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kay.md)
+
 <p><span class="chinese">但是，恺低着头，默默无语。</span><span class="english">But Kay bowed her head.</span></p>
 
 <p><span class="chinese">玫琳凯喜欢这种颜色。</span><span class="english">Mary Kay liked that color.</span></p>

@@ -1,5 +1,7 @@
 # 史论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shilun.md)
+
 <p><span class="chinese">美国芝加哥艺术学院美术史论与批评系主任。</span><span class="english">Art critic and historian, School of the Art Institute of Chicago.</span></p>
 
 <p><span class="chinese">本文主要采用史论结合、文献研究、理论研究和实践相结合的研究方法。</span><span class="english">The research method taken in this thesis is the combination of theory and practice.</span></p>

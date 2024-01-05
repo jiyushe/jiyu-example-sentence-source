@@ -1,5 +1,7 @@
 # variational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/variational.md)
+
 <p><span class="chinese">首先改进互补变分原理。</span><span class="english">We first improve the complementary variational principle.</span></p>
 
 <p><span class="chinese">本文发展了S散射矩阵的时间相关的变分表示式。</span><span class="english">A time-dependent variational expression of S-matrix is developed.</span></p>

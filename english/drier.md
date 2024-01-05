@@ -1,5 +1,7 @@
 # drier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drier.md)
+
 <p><span class="chinese">你有吹风机吗？</span><span class="english">Do you have an electric drier?</span></p>
 
 <p><span class="chinese">我正在用吹风机吹干头发。</span><span class="english">I'm drying my hair with a drier now.</span></p>

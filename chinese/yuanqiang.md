@@ -1,5 +1,7 @@
 # 院墙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanqiang.md)
+
 <p><span class="chinese">攀援植物给院墙披上了绿装。</span><span class="english">Climbing plants clothed the courtyard walls.</span></p>
 
 <p><span class="chinese">他们用泥把院墙的裂缝堵上。</span><span class="english">They mudded the cracks in the courtyard wall.</span></p>

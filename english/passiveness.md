@@ -1,5 +1,7 @@
 # passiveness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/passiveness.md)
+
 <p><span class="chinese">消极被动减弱了你被听到和被认可的能力。</span><span class="english">Passiveness diminishes your capacity to be heard and validated.</span></p>
 
 <p><span class="chinese">防卫的表现介于好斗和消极之间的灰色地带。</span><span class="english">Defensiveness is in the gray zone between aggression and passiveness.</span></p>

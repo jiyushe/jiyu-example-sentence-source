@@ -1,5 +1,7 @@
 # 故伎重演
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gujizhongyan.md)
+
 <p><span class="chinese">两年后的今天，苹果故伎重演，只是这次是针对台式电脑。</span><span class="english">Now, two years later, Apple is ready to do it again, this time for the desktop.</span></p>
 
 <p><span class="chinese">一天，萨宾娜在咖啡馆故伎重演时，被一个中年男人制止。</span><span class="english">A day, sa Binna repeats in cafe old tactics when, be checked by a middleaged man.</span></p>

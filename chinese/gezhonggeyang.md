@@ -1,5 +1,7 @@
 # 各种各样
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gezhonggeyang.md)
+
 <p><span class="chinese">各种各样的问题</span><span class="english">All kinds of problems.</span></p>
 
 <p><span class="chinese">我做各种各样的梦。</span><span class="english">I dream all sorts of dreams.</span></p>

@@ -1,5 +1,7 @@
 # 头疼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touteng.md)
+
 <p><span class="chinese">头疼折磨着她。</span><span class="english">The headache excruciated her.</span></p>
 
 <p><span class="chinese">最近“搬家”二字一听就头疼。</span><span class="english">RCT "move" become a rough word.</span></p>

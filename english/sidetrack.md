@@ -1,5 +1,7 @@
 # sidetrack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sidetrack.md)
+
 <p><span class="chinese">这些贪官污吏企图岔开我们的调查。</span><span class="english">The corrupt officials tried to sidetrack our investigation.</span></p>
 
 <p><span class="chinese">而环境保护论者则指责美国试图转移话题。</span><span class="english">Environmentalists accuse it of trying to sidetrack the issue.</span></p>

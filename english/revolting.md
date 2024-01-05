@@ -1,5 +1,7 @@
 # revolting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revolting.md)
+
 <p><span class="chinese">陛下，陛下，农民们造反了</span><span class="english">Sire, sire, the peasants are revolting</span></p>
 
 <p><span class="chinese">农场主对新出台的出口税率浮动上调政策非常不满。</span><span class="english">Farmers are revolting over a new sliding-scale increase in export taxes.</span></p>

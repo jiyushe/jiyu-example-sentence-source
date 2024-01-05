@@ -1,5 +1,7 @@
 # dong
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dong.md)
+
 <p><span class="chinese">嗨，我是李东健！</span><span class="english">I am Lee Dong Gun!</span></p>
 
 <p><span class="chinese">大东烤鸭。</span><span class="english">Da Dong Roast Duck.</span></p>

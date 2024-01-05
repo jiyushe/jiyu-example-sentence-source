@@ -1,5 +1,7 @@
 # joey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/joey.md)
+
 <p><span class="chinese">乔伊老是弄脏衬衫。</span><span class="english">Joey keeps staining his shirts.</span></p>
 
 <p><span class="chinese">克尼什是个纽约传奇人物。</span><span class="english">Joey Knish is a New York legend.</span></p>

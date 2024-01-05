@@ -1,5 +1,7 @@
 # bring 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bring.md)
+
 <p><span class="chinese">我带着我的玫瑰。</span><span class="english">I bring my Rose.</span></p>
 
 <p><span class="chinese">好了，把他带进来。</span><span class="english">Well, bring him in.</span></p>

@@ -1,5 +1,7 @@
 # 衬裙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenqun.md)
+
 <p><span class="chinese">我的衬裙露出来了吗?</span><span class="english">Did my slip show?</span></p>
 
 <p><span class="chinese">用这种织物做成的衬裙。</span><span class="english">A petticoat made of this fabric.</span></p>

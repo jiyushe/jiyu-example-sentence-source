@@ -1,5 +1,7 @@
 # 祖先
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuxian.md)
+
 <p><span class="chinese">我已为我的祖先报了仇。</span><span class="english">I have avenged my ancestors.</span></p>
 
 <p><span class="chinese">我时常对我的祖先们很好奇。</span><span class="english">I often wondered my ancestry.</span></p>

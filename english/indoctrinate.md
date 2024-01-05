@@ -1,5 +1,7 @@
 # indoctrinate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indoctrinate.md)
+
 <p><span class="chinese">你，去教育共和党人！</span><span class="english">You indoctrinate republicans!</span></p>
 
 <p><span class="chinese">在当时，政府否认他们将向年青人强行灌输任何思想。</span><span class="english">Back then, the government denied that it was seeking to indoctrinate youngsters.</span></p>

@@ -1,5 +1,7 @@
 # 亲吻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinwen.md)
+
 <p><span class="chinese">但是不亲吻。</span><span class="english">But no kissing.</span></p>
 
 <p><span class="chinese">她亲吻钢牙奇奇。</span><span class="english">She kisses Chip.</span></p>

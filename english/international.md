@@ -1,5 +1,7 @@
 # international 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/international.md)
+
 <p><span class="chinese">东京国际论坛。</span><span class="english">Tokyo International Forum.</span></p>
 
 <p><span class="chinese">我要做个国际型人才。</span><span class="english">I want to be international !</span></p>

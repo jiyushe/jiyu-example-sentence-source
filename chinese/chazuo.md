@@ -1,5 +1,7 @@
 # 插座
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chazuo.md)
+
 <p><span class="chinese">需要八进制插座。</span><span class="english">Requires octal socket.</span></p>
 
 <p><span class="chinese">是两脚插头的插座吗？</span><span class="english">Is it a two-pin socket?</span></p>

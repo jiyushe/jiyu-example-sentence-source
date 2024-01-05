@@ -1,5 +1,7 @@
 # availability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/availability.md)
+
 <p><span class="chinese">可用性是什么？</span><span class="english">What is its availability?</span></p>
 
 <p><span class="chinese">什么是高可用性？</span><span class="english">What is high availability?</span></p>

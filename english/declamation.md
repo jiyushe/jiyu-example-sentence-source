@@ -1,5 +1,7 @@
 # declamation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/declamation.md)
+
 <p><span class="chinese">大一的朗诵比赛你参加了没有?。</span><span class="english">Having the quality of a declamation.</span></p>
 
 <p><span class="chinese">大一的朗诵比赛你参加了没有?。</span><span class="english">Were you present at the declamation contest of Freshmen?</span></p>

@@ -1,5 +1,7 @@
 # lipoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lipoid.md)
+
 <p><span class="chinese">切除范围从全胸腺组织到前纵隔和上纵隔的所有脂肪样软组织。</span><span class="english">Resected area from thymus and all lipoid tissue in the front mediastinum.</span></p>
 
 <p><span class="chinese">此荧光强度反映的是整个脂区运动状态的平均值。</span><span class="english">And this fluorescence reflects the average value of all the lipoid region's movement.</span></p>

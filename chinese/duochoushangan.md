@@ -1,5 +1,7 @@
 # 多愁善感
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duochoushangan.md)
+
 <p><span class="chinese">这是一首多愁善感的歌。</span><span class="english">It's a sappy song in word.</span></p>
 
 <p><span class="chinese">你太多愁善感了，伊坦。</span><span class="english">You're too sensitive, Ethan.</span></p>

@@ -1,5 +1,7 @@
 # gracious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gracious.md)
+
 <p><span class="chinese">请移玉趾。</span><span class="english">Please move your gracious steps.</span></p>
 
 <p><span class="chinese">难道神忘记开恩。</span><span class="english">Hath God forgotten to be gracious?</span></p>

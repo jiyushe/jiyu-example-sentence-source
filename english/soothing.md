@@ -1,5 +1,7 @@
 # soothing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soothing.md)
+
 <p><span class="chinese">她正在哄那个哭叫的婴儿。</span><span class="english">She is soothing the crying baby.</span></p>
 
 <p><span class="chinese">它抚摸你的屁股，你感到很舒服。</span><span class="english">It caresses your bottom. It is soothing.</span></p>

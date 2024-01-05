@@ -1,5 +1,7 @@
 # kuru
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kuru.md)
+
 <p><span class="chinese">到1965年，这些动物已显示出库鲁病具有传染性。</span><span class="english">By 1965 they had shown that kuru was transmissible.</span></p>
 
 <p><span class="chinese">库鲁病与吃人习惯之间的联系似乎是相当清楚了。</span><span class="english">The link between kuru and cannibalism seemed clear enough.</span></p>

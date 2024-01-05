@@ -1,5 +1,7 @@
 # nervy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nervy.md)
+
 <p><span class="chinese">你看上去有点紧张，怎么了？</span><span class="english">You look a bit nervy . Why?</span></p>
 
 <p><span class="chinese">艾伦很急躁，很明显他处于紧张不安的状态。</span><span class="english">Alan was irritable, and very evidently in a nervy state.</span></p>

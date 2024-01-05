@@ -1,5 +1,7 @@
 # 两可
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangke.md)
+
 <p><span class="chinese">她给了摸棱两可的回答。</span><span class="english">She gave an evasive answer.</span></p>
 
 <p><span class="chinese">回复的摸棱两可，再说一遍！</span><span class="english">Reply harizonay. Try once again!</span></p>

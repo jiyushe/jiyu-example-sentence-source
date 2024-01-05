@@ -1,5 +1,7 @@
 # pseudocode
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pseudocode.md)
+
 <p><span class="chinese">上周我们写了一个socks程序，但那只是伪代码。</span><span class="english">Last week we did the socks thing and that was in pseudocode.</span></p>
 
 <p><span class="chinese">而是用伪码写的。</span><span class="english">This is what's written in what we'll generally call pseudocode.</span></p>

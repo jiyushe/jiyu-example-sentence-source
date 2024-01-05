@@ -1,5 +1,7 @@
 # 懒汉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lanhan.md)
+
 <p><span class="chinese">你能帮我吗，你这个肥胖的懒汉？</span><span class="english">Can you help me, you fat slob?</span></p>
 
 <p><span class="chinese">谢辽日卡是个懒汉，酒鬼。</span><span class="english">Seryozhka is a sluggard, a drunkard.</span></p>

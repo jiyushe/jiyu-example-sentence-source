@@ -1,5 +1,7 @@
 # foolhardy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foolhardy.md)
+
 <p><span class="chinese">一定是又笨又傻吧？并不都是。</span><span class="english">Foolhardy and stupid? Not at all.</span></p>
 
 <p><span class="chinese">我们认为与这两者对抗就是愚勇。</span><span class="english">Fighting this combination is in our view for the foolhardy.</span></p>

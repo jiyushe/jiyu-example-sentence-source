@@ -1,5 +1,7 @@
 # 旁证
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pangzheng.md)
+
 <p><span class="chinese">陪审团不会仅仅根据旁证来定罪。</span><span class="english">The jury will not convict on circumstantial evidence alone.</span></p>
 
 <p><span class="chinese">不能只靠旁证就判定一个人有罪。</span><span class="english">You can't convict a man of a crime on circumstantial evidence alone.</span></p>

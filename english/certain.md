@@ -1,5 +1,7 @@
 # certain 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/certain.md)
+
 <p><span class="chinese">还不确定。</span><span class="english">Itas not certain.</span></p>
 
 <p><span class="chinese">有一件事是确定的。</span><span class="english">One thing is for certain.</span></p>

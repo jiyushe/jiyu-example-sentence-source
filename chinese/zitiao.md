@@ -1,5 +1,7 @@
 # 字条
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zitiao.md)
+
 <p><span class="chinese">后来，老师当众读了那张字条！</span><span class="english">Then the teacher read it to the class!</span></p>
 
 <p><span class="chinese">看女人写的字条很痛苦。</span><span class="english">It is a pain to read a note from a woman.</span></p>

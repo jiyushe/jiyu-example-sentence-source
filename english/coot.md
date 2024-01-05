@@ -1,5 +1,7 @@
 # coot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coot.md)
+
 <p><span class="chinese">他可真是个傻瓜！</span><span class="english">What a coot he is!</span></p>
 
 <p><span class="chinese">他像一只水鸡一样秃。</span><span class="english">He's as bald as a coot.</span></p>

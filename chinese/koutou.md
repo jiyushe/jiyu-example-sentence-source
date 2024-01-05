@@ -1,5 +1,7 @@
 # 口头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/koutou.md)
+
 <p><span class="chinese">口头说三昧。</span><span class="english">Paying lip service to samadhi.</span></p>
 
 <p><span class="chinese">我已口头通知他了。</span><span class="english">I have informed him by word of mouth.</span></p>

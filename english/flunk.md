@@ -1,5 +1,7 @@
 # flunk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flunk.md)
+
 <p><span class="chinese">如果他表现不好，给他不及格。</span><span class="english">If he is no good, flunk him.</span></p>
 
 <p><span class="chinese">如果你不学习你会不及格的。</span><span class="english">You're going to flunk if you don't study.</span></p>

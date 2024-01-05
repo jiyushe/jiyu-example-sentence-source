@@ -1,5 +1,7 @@
 # tost
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tost.md)
+
 <p><span class="chinese">和平常一样，鸡蛋、烤面包和牛奶。</span><span class="english">Just as usual. Eggs , tost and milk.</span></p>
 
 <p><span class="chinese">把他们，那些无家可归的人，那些饱受折磨的人，送给我。</span><span class="english">Send these, the homeless, tempest- tost to me.</span></p>

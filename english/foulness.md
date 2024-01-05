@@ -1,5 +1,7 @@
 # foulness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foulness.md)
+
 <p><span class="chinese">他们曾生活在尘垢与肮脏之中。</span><span class="english">They had lived amid dirt and foulness.</span></p>
 
 <p><span class="chinese">空气中有一股潮湿的恶臭味。</span><span class="english">The air was heavy with the stink of damp and foulness.</span></p>

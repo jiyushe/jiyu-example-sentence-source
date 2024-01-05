@@ -1,5 +1,7 @@
 # marc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marc.md)
+
 <p><span class="chinese">我的名字叫马克马奎斯。</span><span class="english">My name is Marc Marquez.</span></p>
 
 <p><span class="chinese">需要推荐的是他的肖像摄影。</span><span class="english">Marc McAndrews is good at portrait shooting.</span></p>

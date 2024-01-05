@@ -1,5 +1,7 @@
 # 糜费
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mifei.md)
+
 <p><span class="chinese">不要糜费任何东西。</span><span class="english">Never waste every thing.</span></p>
 
 <p><span class="chinese">糜费食品是一种罪孽。</span><span class="english">It's a sin to waste food.</span></p>

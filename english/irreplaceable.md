@@ -1,5 +1,7 @@
 # irreplaceable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irreplaceable.md)
+
 <p><span class="chinese">你是唯一的，无可取代。</span><span class="english">You are unique, irreplaceable.</span></p>
 
 <p><span class="chinese">在焦渴中，这是任何饮品都无法替代的。</span><span class="english">In Jiaohe, this is any drinks are irreplaceable.</span></p>

@@ -1,5 +1,7 @@
 # vacuum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vacuum.md)
+
 <p><span class="chinese">旋片式真空泵油。</span><span class="english">High vacuum oil.</span></p>
 
 <p><span class="chinese">我现在可以吸地吗?。</span><span class="english">May I vacuum now?</span></p>

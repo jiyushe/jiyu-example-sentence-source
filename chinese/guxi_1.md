@@ -1,5 +1,7 @@
 # 姑息
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guxi_1.md)
+
 <p><span class="chinese">不应该姑息他的错误。</span><span class="english">We shouldn't be indulgent towards his mistakes.</span></p>
 
 <p><span class="chinese">你若姑息此事，你的孩子将是下一个牺牲品。</span><span class="english">IF YOU tolerate this, your children will be next.</span></p>

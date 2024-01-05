@@ -1,5 +1,7 @@
 # 筋疲力竭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinpilijie.md)
+
 <p><span class="chinese">事实是，这是令人筋疲力竭的！</span><span class="english">Truth is, it’s exhausting!</span></p>
 
 <p><span class="chinese">长期熬夜使她筋疲力竭。</span><span class="english">She was tired out by these long vigils.</span></p>

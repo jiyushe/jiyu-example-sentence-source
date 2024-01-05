@@ -1,5 +1,7 @@
 # anthracite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anthracite.md)
+
 <p><span class="chinese">上图是高等级别的煤，也就是无烟煤。</span><span class="english">Detail of this higher grade of coal, anthracite.</span></p>
 
 <p><span class="chinese">地板覆盖是无烟煤针感觉。</span><span class="english">The floor covering is an anthracite needle felt.</span></p>

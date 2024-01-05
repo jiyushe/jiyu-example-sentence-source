@@ -1,5 +1,7 @@
 # 细毛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ximao.md)
+
 <p><span class="chinese">用细火轻轻烧去羊皮上的细毛。</span><span class="english">Slightly burn away hair on lamb skin.</span></p>
 
 <p><span class="chinese">未梳的动物细毛或粗毛。</span><span class="english">Fine or coarse animal hair, not carded or combed.</span></p>

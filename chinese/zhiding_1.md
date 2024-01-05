@@ -1,5 +1,7 @@
 # 制订
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiding_1.md)
+
 <p><span class="chinese">将军责成我制订战略行动计划。</span><span class="english">The general ordered me to strategize.</span></p>
 
 <p><span class="chinese">制订目标和时间表，然后马上开始吧！</span><span class="english">Set a goal and a time-line, and get started.</span></p>

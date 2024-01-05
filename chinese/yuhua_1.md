@@ -1,5 +1,7 @@
 # 羽化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuhua_1.md)
+
 <p><span class="chinese">蜂羽化后不久即可进行交尾。</span><span class="english">Copulating appears shortly after emergence.</span></p>
 
 <p><span class="chinese">在这里，我使用了3个像素的羽化。</span><span class="english">In my case I want to use about 3 pixels of feather.</span></p>

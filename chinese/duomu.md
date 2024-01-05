@@ -1,5 +1,7 @@
 # 夺目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duomu.md)
+
 <p><span class="chinese">闪电光辉夺目。</span><span class="english">The lightning was vivid.</span></p>
 
 <p><span class="chinese">干木燃起夺目的火焰。</span><span class="english">Dry wood makes a good blaze.</span></p>

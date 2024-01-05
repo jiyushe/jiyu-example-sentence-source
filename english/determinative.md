@@ -1,5 +1,7 @@
 # determinative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/determinative.md)
+
 <p><span class="chinese">这些标准是决定性的价格的首饰。</span><span class="english">These criteria are determinative of the price of the jewelry.</span></p>
 
 <p><span class="chinese">公司治理是公司制度中有决定意义的方面。</span><span class="english">Corporate Governance is the determinative aspect in the company system.</span></p>

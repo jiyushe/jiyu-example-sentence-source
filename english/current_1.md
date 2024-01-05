@@ -1,5 +1,7 @@
 # current 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/current_1.md)
+
 <p><span class="chinese">低激磁电流。</span><span class="english">Low exciting current.</span></p>
 
 <p><span class="chinese">水流湍急。</span><span class="english">The current is swift.</span></p>

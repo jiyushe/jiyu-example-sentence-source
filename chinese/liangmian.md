@@ -1,5 +1,7 @@
 # 两面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangmian.md)
+
 <p><span class="chinese">目下现古两面钟了。</span><span class="english">It's two o'clock now.</span></p>
 
 <p><span class="chinese">他老是两面讨好。</span><span class="english">He is always trimming.</span></p>

@@ -1,5 +1,7 @@
 # 虚无主义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuwuzhuyi.md)
+
 <p><span class="chinese">我认为将是虚无主义。</span><span class="english">Well, I would say one ends up in nihilism.</span></p>
 
 <p><span class="chinese">对无极的否认会直接导向虚无主义。</span><span class="english">The negation of the infinite leads straight to nihilism.</span></p>

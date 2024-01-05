@@ -1,5 +1,7 @@
 # lockable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lockable.md)
+
 <p><span class="chinese">哪些进来可锁定的铝案件。</span><span class="english">All of which comes in a lockable aluminum case.</span></p>
 
 <p><span class="chinese">可上锁以防止未经授权使用该产品。</span><span class="english">Lockable to prevent un-authorized use of the product.</span></p>

@@ -1,5 +1,7 @@
 # menfolk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/menfolk.md)
+
 <p><span class="chinese">乖乖跟爷们上京里去吧！</span><span class="english">Obediently to Beijing where a with the menfolk go!</span></p>
 
 <p><span class="chinese">除此之外，一走进更多的物体同志洗澡，炎热的一天充满了赤裸裸的年轻人和老年人聚集男人。</span><span class="english">Beyond that one comrade walked more objects baths, hot day full of naked young and old gather menfolk.</span></p>

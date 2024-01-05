@@ -1,5 +1,7 @@
 # 私人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/siren.md)
+
 <p><span class="chinese">他的私人支票簿。</span><span class="english">His checkbook.</span></p>
 
 <p><span class="chinese">是的，一架私人飞机。</span><span class="english">Yep, a private plane.</span></p>

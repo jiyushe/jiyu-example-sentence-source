@@ -1,5 +1,7 @@
 # ideogram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ideogram.md)
+
 <p><span class="chinese">中文字是一种表意文字。</span><span class="english">Chinese characters are a form of ideogram.</span></p>
 
 <p><span class="chinese">汉字是当今世界仅存的一种表意文字。</span><span class="english">Chinese characters are the only existing ideogram in the world today.</span></p>

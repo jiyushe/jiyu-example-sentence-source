@@ -1,5 +1,7 @@
 # chihuahua
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chihuahua.md)
+
 <p><span class="chinese">吉娃娃怎么可能会要了罗特韦尔的命？</span><span class="english">How could a Chihuahua kill a Rottweiler?</span></p>
 
 <p><span class="chinese">又一个人带着一只吉娃娃狗走进酒吧。</span><span class="english">Another guy walks in the bar with a Chihuahua.</span></p>

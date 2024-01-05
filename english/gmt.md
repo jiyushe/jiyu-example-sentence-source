@@ -1,5 +1,7 @@
 # gmt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gmt.md)
+
 <p><span class="chinese">三副，我们准备格林尼治时间1400时开航。</span><span class="english">Third Officer, we are about to sail at 1400 GMT.</span></p>
 
 <p><span class="chinese">卫报，2011年11月11日星期五，格林尼治时间1901</span><span class="english">guardian.co.uk, Friday 11 November 2011 19.01 GMT</span></p>

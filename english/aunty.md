@@ -1,5 +1,7 @@
 # aunty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aunty.md)
+
 <p><span class="chinese">很欢畅见到你，苏姨娘。</span><span class="english">Good to meet you, Aunty Su.</span></p>
 
 <p><span class="chinese">下午我跟我的阿姨和老妈逛街去了。</span><span class="english">I went shopping with my mum and aunty today.</span></p>

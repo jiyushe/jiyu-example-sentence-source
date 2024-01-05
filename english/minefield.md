@@ -1,5 +1,7 @@
 # minefield
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minefield.md)
+
 <p><span class="chinese">它是一个政治雷区。</span><span class="english">It's a political minefield.</span></p>
 
 <p><span class="chinese">Google“刚刚闯入了巨大的布雷区。”</span><span class="english">oogle “just ran into a huge minefield.”</span></p>

@@ -1,5 +1,7 @@
 # 恩典
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/endian.md)
+
 <p><span class="chinese">什么是恩典？</span><span class="english">What is Grace?</span></p>
 
 <p><span class="chinese">恩典或业报？</span><span class="english">Grace or Karma?</span></p>

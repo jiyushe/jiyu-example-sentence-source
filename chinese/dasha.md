@@ -1,5 +1,7 @@
 # 大厦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dasha.md)
+
 <p><span class="chinese">香港山顶花园大厦。</span><span class="english">The Peak Garden, H. K.</span></p>
 
 <p><span class="chinese">我在地王大厦工作。</span><span class="english">I'm at the Diwang tower.</span></p>

@@ -1,5 +1,7 @@
 # 头人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touren.md)
+
 <p><span class="chinese">永远不要和牛头人一起吃牛肉。</span><span class="english">Never eat beef with a tauren.</span></p>
 
 <p><span class="chinese">这年头人得万事小心呵。</span><span class="english">One must be so careful these days.</span></p>

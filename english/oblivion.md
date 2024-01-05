@@ -1,5 +1,7 @@
 # oblivion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oblivion.md)
+
 <p><span class="chinese">她注定被人遗忘。</span><span class="english">She was doomed to oblivion.</span></p>
 
 <p><span class="chinese">听闻超越记忆，空白一片！</span><span class="english">Hearing oblivion beyond memory!</span></p>

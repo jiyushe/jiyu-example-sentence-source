@@ -1,5 +1,7 @@
 # 修起
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuqi_2.md)
+
 <p><span class="chinese">我们将连夜施工，修起一个围挡将牌楼圈起来。</span><span class="english">We will work into the night to erect a barrier around the archway.</span></p>
 
 <p><span class="chinese">我想，等新的成量修起来，我还是会去看看罢。</span><span class="english">When the new plant is built, I am sure that I will go visiting it.</span></p>

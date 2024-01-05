@@ -1,5 +1,7 @@
 # erwin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/erwin.md)
+
 <p><span class="chinese">让我们请教埃文，薛定谔吧。</span><span class="english">Let's go to Erwin Schrodinger.</span></p>
 
 <p><span class="chinese">埃文，薛定谔也是澳大利亚人。</span><span class="english">Erwin Schrodinger also an Austrian.</span></p>

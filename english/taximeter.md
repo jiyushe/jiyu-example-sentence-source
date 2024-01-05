@@ -1,5 +1,7 @@
 # taximeter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taximeter.md)
+
 <p><span class="chinese">现在，你可以做一个像计程器一样的东东在你手机上。</span><span class="english">Now you can act like one with a taximeter on your mobile.</span></p>
 
 <p><span class="chinese">是关于多功能出租车计价器的设计，有许多创新方面。</span><span class="english">Taximeter on the multi-function design, there are many innovations.</span></p>

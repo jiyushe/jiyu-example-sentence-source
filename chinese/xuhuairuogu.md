@@ -1,5 +1,7 @@
 # 虚怀若谷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuhuairuogu.md)
+
 <p><span class="chinese">往往越有知识的人越虚怀若谷。</span><span class="english">Usually, Knowledge People are more modest.</span></p>
 
 <p><span class="chinese">我们应该以一种虚怀若谷、海纳百川的态度去审视、挖掘它。</span><span class="english">We should take a humble and compatible attitude to examine and tap it.</span></p>

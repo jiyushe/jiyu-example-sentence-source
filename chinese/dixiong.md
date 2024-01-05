@@ -1,5 +1,7 @@
 # 弟兄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dixiong.md)
+
 <p><span class="chinese">你有弟兄吗？</span><span class="english">Do you have any brother?</span></p>
 
 <p><span class="chinese">众弟兄都问你们安。</span><span class="english">All the brethren greet you.</span></p>

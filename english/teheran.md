@@ -1,5 +1,7 @@
 # teheran
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teheran.md)
+
 <p><span class="chinese">这就是我在德黑兰会议前夕所持的立场的一个忠实的纪录。</span><span class="english">This is a faithful record of my position on the eve of Teheran.</span></p>
 
 <p><span class="chinese">这位在德黑兰的年轻人平生第一次买了一样什么东西？</span><span class="english">What did a young man in Teheran buy for the first time in his life?</span></p>

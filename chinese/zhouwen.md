@@ -1,5 +1,7 @@
 # 皱纹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhouwen.md)
+
 <p><span class="chinese">有些纸被弄得起了皱纹。</span><span class="english">Some paper is crinkled.</span></p>
 
 <p><span class="chinese">通过平滑皱纹。</span><span class="english">By smoothing out wrinkles.</span></p>

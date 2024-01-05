@@ -1,5 +1,7 @@
 # softwood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/softwood.md)
+
 <p><span class="chinese">铁杉是一种优良的软木材。</span><span class="english">Tsuga is a fine kind of softwood.</span></p>
 
 <p><span class="chinese">有些树的软木部分能用来造纸。</span><span class="english">The softwood of some trees can be made into paper.</span></p>

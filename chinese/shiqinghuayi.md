@@ -1,5 +1,7 @@
 # 诗情画意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiqinghuayi.md)
+
 <p><span class="chinese">她的舞姿袅娜，富有诗情画意。</span><span class="english">She danced with poetic grace.</span></p>
 
 <p><span class="chinese">中大最诗情画意的地方在哪里？</span><span class="english">Where lies the poetry of CUHK?</span></p>

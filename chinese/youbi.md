@@ -1,5 +1,7 @@
 # 右臂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youbi.md)
+
 <p><span class="chinese">他的右臂上留有一个伤疤。</span><span class="english">His right arm carries a scar.</span></p>
 
 <p><span class="chinese">我看见他挥起右臂。</span><span class="english">I saw his right arm swing up.</span></p>

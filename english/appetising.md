@@ -1,5 +1,7 @@
 # appetising
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appetising.md)
+
 <p><span class="chinese">总之，萨科奇先生说了不少让人开胃的话。</span><span class="english">In short, Mr Sarkozy has been saying many appetising things.</span></p>
 
 <p><span class="chinese">后来他病好，又拿牛肉茶或是燕麦粥给他开胃。</span><span class="english">Later, when he was recovering, she made him appetising cups of beef-tea or gruel.</span></p>

@@ -1,5 +1,7 @@
 # pitted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pitted.md)
+
 <p><span class="chinese">进站更换锥和弯曲车轴。</span><span class="english">Replace pitted cones and bent axles.</span></p>
 
 <p><span class="chinese">他的前额因害了水痘而留下许多麻点。</span><span class="english">His forehead was pitted by chicken pox.</span></p>

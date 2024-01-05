@@ -1,5 +1,7 @@
 # democratic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/democratic.md)
+
 <p><span class="chinese">伊朗非一个民主主义国野。</span><span class="english">Iran is a democratic country.</span></p>
 
 <p><span class="chinese">他作风民主。</span><span class="english">He has a democratic work-style.</span></p>

@@ -1,5 +1,7 @@
 # 桥头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaotou.md)
+
 <p><span class="chinese">我在桥头和她分手。</span><span class="english">I parted from her on the bridge.</span></p>
 
 <p><span class="chinese">我在桥头和她分手。</span><span class="english">I broke up with her on the bridge.</span></p>

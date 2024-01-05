@@ -1,5 +1,7 @@
 # outland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outland.md)
+
 <p><span class="chinese">我的人民，和外域的所有住民需要自由！</span><span class="english">My people and all of Outland shall be free!</span></p>
 
 <p><span class="chinese">我的人民与整个外域将重获自由。</span><span class="english">My people and all of outland shall be free.</span></p>

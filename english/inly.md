@@ -1,5 +1,7 @@
 # inly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inly.md)
+
 <p><span class="chinese">衷心祝福远方的父母和朋友！</span><span class="english">Blessing in distant place parents and friends inly.</span></p>
 
 <p><span class="chinese">哦，我真不该说这些给你，我真该住嘴了。</span><span class="english">Oh, if inly I hadn't said that, if only I had held my tongue.</span></p>

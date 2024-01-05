@@ -1,5 +1,7 @@
 # 群魔乱舞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qunmoluanwu.md)
+
 <p><span class="chinese">迪厅的年轻人在冰毒的作用下正群魔乱舞。</span><span class="english">In ballroom ice drove youth to wild dancing.</span></p>
 
 <p><span class="chinese">在这个群魔乱舞之夜必须注意</span><span class="english">Precautions must be taken on this night of enchantment.</span></p>

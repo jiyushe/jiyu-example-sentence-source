@@ -1,5 +1,7 @@
 # thoracotomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thoracotomy.md)
+
 <p><span class="chinese">因此病人被送到手术室立即作胸廓切开术。</span><span class="english">The patient was therefore transferred to theatre for immediate thoracotomy.</span></p>
 
 <p><span class="chinese">结论丁丙诺啡能够安全有效地应用于开胸术后自控皮下镇痛。</span><span class="english">Conclusion Buprenorphine can be safely applied to skin-analgesia after thoracotomy.</span></p>

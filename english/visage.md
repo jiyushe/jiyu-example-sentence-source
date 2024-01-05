@@ -1,5 +1,7 @@
 # visage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/visage.md)
+
 <p><span class="chinese">围包著，没有任何男人能看见她的容貌。</span><span class="english">She is always wimpled that no man can see her visage.</span></p>
 
 <p><span class="chinese">那张孔武黝黑的英俊面孔相当的疲惫憔悴。</span><span class="english">The strong and darkly handsome visage was gaunt and haggard.</span></p>

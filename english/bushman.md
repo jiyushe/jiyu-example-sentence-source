@@ -1,5 +1,7 @@
 # bushman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bushman.md)
+
 <p><span class="chinese">美国爱荷华州立大学的布希曼著了先鞭。</span><span class="english">Brad J. Bushman of Iowa State University took the lead.</span></p>
 
 <p><span class="chinese">布什曼也让学生们用强噪音轰击彼此。</span><span class="english">Bushman also had the students blast each other with loud noises.</span></p>

@@ -1,5 +1,7 @@
 # anaplastic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anaplastic.md)
+
 <p><span class="chinese">大细胞淋巴瘤会影响到免疫系统。</span><span class="english">The cancer, anaplastic large-cell lymphoma involves the immune system.</span></p>
 
 <p><span class="chinese">诊断为原发性皮肤间变性大细胞淋巴瘤。</span><span class="english">The pathologic diagnosis was primary cutaneous anaplastic large cell lymphoma.</span></p>

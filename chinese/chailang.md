@@ -1,5 +1,7 @@
 # 豺狼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chailang.md)
+
 <p><span class="chinese">丫的这帮豺狼。</span><span class="english">Christ, the jackals.</span></p>
 
 <p><span class="chinese">他正在把伊拉克丢给豺狼，”他说。</span><span class="english">He is leaving Iraq to the wolves," he said.</span></p>

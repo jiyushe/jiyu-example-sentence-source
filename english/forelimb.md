@@ -1,5 +1,7 @@
 # forelimb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forelimb.md)
+
 <p><span class="chinese">头部和前肢毛发较短。</span><span class="english">Head and forelimb of short hair.</span></p>
 
 <p><span class="chinese">医生说问题在于它的前肢上，不过它不会死的。</span><span class="english">The doctor said the problem lied in its forelimb and it would not die.</span></p>

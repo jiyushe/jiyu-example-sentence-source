@@ -1,5 +1,7 @@
 # 介绍信
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieshaoxin.md)
+
 <p><span class="chinese">不要忘记要介绍信。</span><span class="english">Don't forget to ask for a reference.</span></p>
 
 <p><span class="chinese">好的相貌就是一封推举的介绍信。</span><span class="english">Agood face is a letter of recommendation.</span></p>

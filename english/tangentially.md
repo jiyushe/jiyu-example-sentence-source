@@ -1,5 +1,7 @@
 # tangentially
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tangentially.md)
+
 <p><span class="chinese">本文主要针对四角切圆燃煤锅炉进行了研究。</span><span class="english">This article focuses on the tangentially fired boiler.</span></p>
 
 <p><span class="chinese">四角切向燃烧是我国电站煤粉锅炉广泛采用的燃烧方式。</span><span class="english">Tangentially firing is a widely used combustion mode in our pulverized coal boilers.</span></p>

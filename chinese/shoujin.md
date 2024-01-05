@@ -1,5 +1,7 @@
 # 手巾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoujin.md)
+
 <p><span class="chinese">我自己拿手巾擦干了脸。</span><span class="english">I dried myself with a handkerchief.</span></p>
 
 <p><span class="chinese">采购产品纱，织物，手巾，浴袍，衣服织物。</span><span class="english">Yarns, Fabrics, Towels, Bathrobes , Garments Fabrics.</span></p>

@@ -1,5 +1,7 @@
 # trocar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trocar.md)
+
 <p><span class="chinese">在病者傍边把针头锁接与套管针端口连接上。</span><span class="english">Connect the Luer lock to the trocar port on the patient side.</span></p>
 
 <p><span class="chinese">一种叫做套管针的工具在腹壁上刺了一个孔。</span><span class="english">An instrument called a trocar makes a puncture in the abdominal wall.</span></p>

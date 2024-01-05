@@ -1,5 +1,7 @@
 # 签字
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianzi.md)
+
 <p><span class="chinese">您认得这签字吧？</span><span class="english">You know that signature?</span></p>
 
 <p><span class="chinese">他已在口供上签字画押。</span><span class="english">He has signed his confession.</span></p>

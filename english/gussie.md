@@ -1,5 +1,7 @@
 # gussie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gussie.md)
+
 <p><span class="chinese">“三天，”格西答道。</span><span class="english">Three days, " Gussie said."</span></p>
 
 <p><span class="chinese">我知道这都是因为有了格西…</span><span class="english">I knew it was because of Gussie.</span></p>

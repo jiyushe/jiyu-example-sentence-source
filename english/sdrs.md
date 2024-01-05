@@ -1,5 +1,7 @@
 # sdrs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sdrs.md)
+
 <p><span class="chinese">西方立法者过去曾经批评特别提款权是通货膨胀。</span><span class="english">Western legislators have in the past criticized SDRs as inflationary.</span></p>
 
 <p><span class="chinese">特别提款权是作为补充国际货币基金组织成员国的现有储备而运行。</span><span class="english">SDRs operate as supplements to the existing reserves of IMF member nations.</span></p>

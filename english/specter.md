@@ -1,5 +1,7 @@
 # specter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/specter.md)
+
 <p><span class="chinese">战争的幽灵逼近了。</span><span class="english">The specter of war loomed ahead.</span></p>
 
 <p><span class="chinese">一些人还祭出了优生学的幽灵。</span><span class="english">Some are raising the specter of eugenics.</span></p>

@@ -1,5 +1,7 @@
 # 有机化学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youjihuaxue.md)
+
 <p><span class="chinese">在学院里我主修有机化学。</span><span class="english">In collage I specialize in organic chemistry.</span></p>
 
 <p><span class="chinese">让我告诉你一个关于有机化学的故事。</span><span class="english">Let me tell you a story about organic chemistry.</span></p>

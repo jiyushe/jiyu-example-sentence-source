@@ -1,5 +1,7 @@
 # 辩证法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianzhengfa.md)
+
 <p><span class="chinese">这也是我们时代的辩证法。</span><span class="english">That is one of the dialectics of our era.</span></p>
 
 <p><span class="chinese">世界观、方法论、辩证法是也！</span><span class="english">It is world view, methodology and dialectics.</span></p>

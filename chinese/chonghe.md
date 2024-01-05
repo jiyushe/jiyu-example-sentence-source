@@ -1,5 +1,7 @@
 # 重合
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chonghe.md)
+
 <p><span class="chinese">这两个三角形相重合。</span><span class="english">The two triangles coincide.</span></p>
 
 <p><span class="chinese">还有一些人仍然迷信十三号与星期五重合的那天是很不吉利的一天。</span><span class="english">Friday the 13th an unlucky day.</span></p>

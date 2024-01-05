@@ -1,5 +1,7 @@
 # truckle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/truckle.md)
+
 <p><span class="chinese">我不喜欢对上司惟命是从。</span><span class="english">I hate to truckle to my superiors.</span></p>
 
 <p><span class="chinese">不要向无理要求屈服。</span><span class="english">Don't truckle under to unreasonable demands.</span></p>

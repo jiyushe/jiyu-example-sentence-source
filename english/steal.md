@@ -1,5 +1,7 @@
 # steal 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/steal.md)
+
 <p><span class="chinese">偷走它的能量。</span><span class="english">Steal its energy.</span></p>
 
 <p><span class="chinese">偷他的穿梭机。</span><span class="english">Steal his machine.</span></p>

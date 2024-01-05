@@ -1,5 +1,7 @@
 # housemate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/housemate.md)
+
 <p><span class="chinese">我的室友知道有个女人想弃养她的婴儿。</span><span class="english">A housemate of mine knew a woman who wanted to give away her baby.</span></p>
 
 <p><span class="chinese">我心目中的理想室友是一个性情平和﹐不惹是生非的人。</span><span class="english">My ideal housemate would be someone who is laid-back and drama-free.</span></p>

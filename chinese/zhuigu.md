@@ -1,5 +1,7 @@
 # 椎骨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuigu.md)
+
 <p><span class="chinese">在她易碎的椎骨上轻轻摇晃。</span><span class="english">Oscillates gently on her fragile vertebrae.</span></p>
 
 <p><span class="chinese">成骨细胞瘤恰是椎骨上的大骨样骨瘤。</span><span class="english">An osteoblastoma is just a big osteoid osteoma in the vertebra.</span></p>

@@ -1,5 +1,7 @@
 # 语句
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuju.md)
+
 <p><span class="chinese">我们学习了条件语句。</span><span class="english">We have conditionals.</span></p>
 
 <p><span class="chinese">一条语句是个动作。</span><span class="english">A statement is an action.</span></p>

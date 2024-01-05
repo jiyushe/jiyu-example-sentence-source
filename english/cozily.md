@@ -1,5 +1,7 @@
 # cozily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cozily.md)
+
 <p><span class="chinese">我的心在那河水里游…．。</span><span class="english">Swimming in it is my heart cozily.</span></p>
 
 <p><span class="chinese">她会很舒服的闭上眼睛，怡然自得。</span><span class="english">She will close the eyes comfortably, cozily.</span></p>

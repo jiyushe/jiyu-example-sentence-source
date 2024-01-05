@@ -1,5 +1,7 @@
 # appear 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appear.md)
+
 <p><span class="chinese">将出现一个文本框。</span><span class="english">A text box will appear.</span></p>
 
 <p><span class="chinese">这将出现一个新表单。</span><span class="english">A new form should appear.</span></p>

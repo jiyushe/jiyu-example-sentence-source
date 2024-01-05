@@ -1,5 +1,7 @@
 # milkweed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/milkweed.md)
+
 <p><span class="chinese">一只沙漠蛛蜂正在吞食马利筋的花粉。</span><span class="english">The tarantula hawk wasp feeds on milkweed pollen.</span></p>
 
 <p><span class="chinese">斑蝶栖息在印度班加罗尔市内的一棵树的树枝上。</span><span class="english">Butterflies of the milkweed family sit on a tree branch in Bangalore.</span></p>

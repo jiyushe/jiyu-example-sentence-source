@@ -1,5 +1,7 @@
 # 椰林
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yelin.md)
+
 <p><span class="chinese">椰林和滑石粉般细腻的沙子也会为沙滩增色不少。</span><span class="english">Coconuts and powder-like sand help too.</span></p>
 
 <p><span class="chinese">椰林棕榈，热带风味。</span><span class="english">Coconut trees and palms have a tropical flavour.</span></p>

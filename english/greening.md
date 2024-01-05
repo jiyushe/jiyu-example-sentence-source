@@ -1,5 +1,7 @@
 # greening
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/greening.md)
+
 <p><span class="chinese">绿色工业和世界银行政策研究</span><span class="english">Greening Industry and World Bank policy research</span></p>
 
 <p><span class="chinese">要想绿化整个非洲大陆，前路依然漫长。</span><span class="english">That's still a long way from greening a continent.</span></p>

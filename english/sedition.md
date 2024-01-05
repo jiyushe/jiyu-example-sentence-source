@@ -1,5 +1,7 @@
 # sedition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sedition.md)
+
 <p><span class="chinese">这是他回应的镇压1798年的外国人及煽动叛乱的行为。</span><span class="english">It was his response to the repressive 1798 Alien and Sedition Acts.</span></p>
 
 <p><span class="chinese">先生们，议员被指责在亚美利加进行煽动。</span><span class="english">Gentlemen, sir, have been charged with giving birth to sedition in America.</span></p>

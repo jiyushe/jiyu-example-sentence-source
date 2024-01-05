@@ -1,5 +1,7 @@
 # photometric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photometric.md)
+
 <p><span class="chinese">槐花比色法含量测定的原理是什么？</span><span class="english">What is the principle of the photometric assay of this drug?</span></p>
 
 <p><span class="chinese">旋转元件式椭圆偏振仪，是一种光度式椭偏仪。</span><span class="english">Rotating element ellipsometer is one of photometric ellipsometer.</span></p>

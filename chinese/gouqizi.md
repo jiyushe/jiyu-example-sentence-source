@@ -1,5 +1,7 @@
 # 枸杞子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gouqizi.md)
+
 <p><span class="chinese">里面有红枣和枸杞子。</span><span class="english">It has jujube and medlar.</span></p>
 
 <p><span class="chinese">枸杞子能补肝肾。</span><span class="english">Chinese Wolfberry nourishes the liver and kidney.</span></p>

@@ -1,5 +1,7 @@
 # 宣纸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanzhi.md)
+
 <p><span class="chinese">宣纸泼墨，画笔勾勒出轮廓。</span><span class="english">Rice paper Chinese ink, brush outline outline.</span></p>
 
 <p><span class="chinese">我铺开宣纸，倒上墨，开始写。</span><span class="english">I spread out the paper, pour ink, and began to write.</span></p>

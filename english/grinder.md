@@ -1,5 +1,7 @@
 # grinder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grinder.md)
+
 <p><span class="chinese">为一般平面磨床最普及型之电磁盘。</span><span class="english">It is popular for surface grinder.</span></p>
 
 <p><span class="chinese">在这个时候，世界上的第一台角磨就出现了。</span><span class="english">This was the world's first angle grinder.</span></p>

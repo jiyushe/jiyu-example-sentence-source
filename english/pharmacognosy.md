@@ -1,5 +1,7 @@
 # pharmacognosy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pharmacognosy.md)
+
 <p><span class="chinese">目的对吉尔吉斯斯坦野生粗毛甘草进行生药学研究。</span><span class="english">Objective To study pharmacognosy of wild Glycyrrhiza aspera Pall.</span></p>
 
 <p><span class="chinese">生药学的发展面临着机遇和挑战。</span><span class="english">The development of pharmacognosy is facing opportunities and challenges.</span></p>

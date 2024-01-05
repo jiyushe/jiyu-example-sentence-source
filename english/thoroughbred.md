@@ -1,5 +1,7 @@
 # thoroughbred
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thoroughbred.md)
+
 <p><span class="chinese">她骑着一匹纯种马。</span><span class="english">She was riding a thoroughbred horse.</span></p>
 
 <p><span class="chinese">我拥有世界上最古老的纯种马血统。</span><span class="english">I have the oldest thoroughbred blood in the world.</span></p>

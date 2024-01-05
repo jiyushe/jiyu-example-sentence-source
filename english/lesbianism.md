@@ -1,5 +1,7 @@
 # lesbianism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lesbianism.md)
+
 <p><span class="chinese">同性爱被看作是一种违反自然的罪过。</span><span class="english">Lesbianism was considered a crime against nature.</span></p>
 
 <p><span class="chinese">女同性恋者的名称出自希腊的莱斯博斯岛。</span><span class="english">Lesbianism gained its name from the Greek island of Lesbos.</span></p>

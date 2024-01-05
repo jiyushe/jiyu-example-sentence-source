@@ -1,5 +1,7 @@
 # awry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/awry.md)
+
 <p><span class="chinese">他们为什么都歪歪的站着？</span><span class="english">Why do all of them stand awry?</span></p>
 
 <p><span class="chinese">有时这些工作也会走叉了。</span><span class="english">Occasionally, these jobs can go awry.</span></p>

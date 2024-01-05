@@ -1,5 +1,7 @@
 # herbicide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/herbicide.md)
+
 <p><span class="chinese">什么是后应急选择性除草剂？。</span><span class="english">What is Post-Emergent Selective Herbicide?</span></p>
 
 <p><span class="chinese">百草枯是一种高效能除草剂。</span><span class="english">Paraquat is an effective and widely used herbicide.</span></p>

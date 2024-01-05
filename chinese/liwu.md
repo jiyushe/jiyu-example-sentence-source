@@ -1,5 +1,7 @@
 # 里屋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liwu.md)
+
 <p><span class="chinese">这个“里屋”是一个非常私密的地方。</span><span class="english">The inside room was a very private place.</span></p>
 
 <p><span class="chinese">她在抽斗里屋或者发明一些旧相片。</span><span class="english">she came across some old photographs in a drawer.</span></p>

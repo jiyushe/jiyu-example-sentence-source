@@ -1,5 +1,7 @@
 # 侏儒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuru.md)
+
 <p><span class="chinese">侏儒窃笑。</span><span class="english">The dwarf sniggered.</span></p>
 
 <p><span class="chinese">吻卧冬我是侏儒！</span><span class="english">Kiss me , I'm gnomish !</span></p>

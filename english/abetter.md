@@ -1,5 +1,7 @@
 # abetter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abetter.md)
+
 <p><span class="chinese">他建议我们找个好点的工作。</span><span class="english">He suggested that we find abetter job.</span></p>
 
 <p><span class="chinese">你认为现在我应聘这个职位会成功吗？</span><span class="english">Do you think I'm in with abetter chance now?</span></p>

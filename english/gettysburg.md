@@ -1,5 +1,7 @@
 # gettysburg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gettysburg.md)
+
 <p><span class="chinese">1863年在葛底斯堡发生了什么事情？</span><span class="english">What happened at Gettysburg in 1863?</span></p>
 
 <p><span class="chinese">我还真不知道盖茨堡在内华达呢。</span><span class="english">I didn't know Gettysburg was in nevada.</span></p>

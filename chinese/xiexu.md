@@ -1,5 +1,7 @@
 # 些许
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiexu.md)
+
 <p><span class="chinese">些许伤感，但也些许凄美。</span><span class="english">Kinda sad, but kinda beautiful too.</span></p>
 
 <p><span class="chinese">他们对彼此的爱会减少些许吗？</span><span class="english">Would they love each other any less?</span></p>

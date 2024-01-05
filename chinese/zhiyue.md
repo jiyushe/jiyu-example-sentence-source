@@ -1,5 +1,7 @@
 # 制约
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiyue.md)
+
 <p><span class="chinese">而不受历史制约。</span><span class="english">He's not subject to history.</span></p>
 
 <p><span class="chinese">它制约的是什么呢？</span><span class="english">Well what are the constraints?</span></p>

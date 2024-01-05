@@ -1,5 +1,7 @@
 # ur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ur.md)
+
 <p><span class="chinese">我会为你分忧解劳。</span><span class="english">I'll take Ur part.</span></p>
 
 <p><span class="chinese">能给我搭把手吗？</span><span class="english">Coule u give me ur hand?</span></p>

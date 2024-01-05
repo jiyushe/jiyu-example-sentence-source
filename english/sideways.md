@@ -1,5 +1,7 @@
 # sideways
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sideways.md)
+
 <p><span class="chinese">他横躺在床上。</span><span class="english">He lay sideways on the bed.</span></p>
 
 <p><span class="chinese">进入梦乡时是身体斜着的。</span><span class="english">Sleep is the body sideways.</span></p>

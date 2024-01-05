@@ -1,5 +1,7 @@
 # refusal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refusal.md)
+
 <p><span class="chinese">第四，拒绝中阴线。</span><span class="english">Fourth, the refusal of Yin Xian.</span></p>
 
 <p><span class="chinese">汤姆微笑着加以婉转拒绝。</span><span class="english">Tom tempered his refusal with a smile.</span></p>

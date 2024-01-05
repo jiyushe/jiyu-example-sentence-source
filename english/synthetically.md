@@ -1,5 +1,7 @@
 # synthetically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synthetically.md)
+
 <p><span class="chinese">现如今，红宝石也可在实验室被人工合成。</span><span class="english">Today rubies are also created synthetically in the lab.</span></p>
 
 <p><span class="chinese">将这些误差进行合成，可以综合评定仪器的精度。</span><span class="english">Compose these errors, its precision can be assessed synthetically.</span></p>

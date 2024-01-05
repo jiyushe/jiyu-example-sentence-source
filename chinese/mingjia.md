@@ -1,5 +1,7 @@
 # 名家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingjia.md)
+
 <p><span class="chinese">打方块牌，名家就可以出王牌压。</span><span class="english">A diamond lead allows a ruff in dummy.</span></p>
 
 <p><span class="chinese">他在名家指导下学画。</span><span class="english">He studied painting under the masters.</span></p>

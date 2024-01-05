@@ -1,5 +1,7 @@
 # 痞子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pizi.md)
+
 <p><span class="chinese">一个人曾经是痞子。</span><span class="english">A person once was a ruffian.</span></p>
 
 <p><span class="chinese">你只是个痞子，你知道吗？</span><span class="english">You are just a punk , you know that?</span></p>

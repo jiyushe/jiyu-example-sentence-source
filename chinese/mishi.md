@@ -1,5 +1,7 @@
 # 密实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mishi.md)
+
 <p><span class="chinese">兼有密实及良好的防水防渗性。</span><span class="english">Both dense and good nature of water seepage.</span></p>
 
 <p><span class="chinese">准备一些冷冻的葡萄，装在一个密实袋里。</span><span class="english">Freeze grapes and put them into a zippered plastic bag.</span></p>

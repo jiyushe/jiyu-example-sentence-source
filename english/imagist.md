@@ -1,5 +1,7 @@
 # imagist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imagist.md)
+
 <p><span class="chinese">诗人是客观现实，而意象派诗人的浪漫。</span><span class="english">Objectivist poets are realistic, while Imagist poets are romantic.</span></p>
 
 <p><span class="chinese">并利用意象来呈现剧中的意涵。</span><span class="english">Also, imagist expression is used to present the connotation of the play.</span></p>

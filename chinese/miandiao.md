@@ -1,5 +1,7 @@
 # 免掉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miandiao.md)
+
 <p><span class="chinese">他己被悄悄地免掉主任的职务。</span><span class="english">He has been quietlybooted out as chief.</span></p>
 
 <p><span class="chinese">我来看看是否能给你免掉今晚的家庭作业。</span><span class="english">I'll see if I can get you out of homework tonight.</span></p>

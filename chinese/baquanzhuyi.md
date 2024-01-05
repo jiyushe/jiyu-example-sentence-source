@@ -1,5 +1,7 @@
 # 霸权主义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baquanzhuyi.md)
+
 <p><span class="chinese">霸权主义和强权政治依然存在。</span><span class="english">Hegemonism and power politics still exist.</span></p>
 
 <p><span class="chinese">中国不搞霸权主义，不搞强权政治，不对外搞军事扩张。</span><span class="english">China does not seek hegemony and power politics.</span></p>

@@ -1,5 +1,7 @@
 # dissemble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissemble.md)
+
 <p><span class="chinese">这意味着我们不需要任何掩饰。</span><span class="english">It means we need not dissemble.</span></p>
 
 <p><span class="chinese">但是，他突然想起来，以掩饰。</span><span class="english">But suddenly he bethought himself to dissemble.</span></p>

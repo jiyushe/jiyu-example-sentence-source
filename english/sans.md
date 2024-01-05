@@ -1,5 +1,7 @@
 # sans
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sans.md)
+
 <p><span class="chinese">桑斯把刘先生和一位电影制作者相比较。</span><span class="english">Sans compares Liu to a filmmaker.</span></p>
 
 <p><span class="chinese">不带这种衬线的字母称作无衬线字母。</span><span class="english">Alphabets without serifs are called sans serif.</span></p>

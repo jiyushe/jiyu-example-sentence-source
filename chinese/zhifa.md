@@ -1,5 +1,7 @@
 # 执法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhifa.md)
+
 <p><span class="chinese">人民警察必须做到公正执法。</span><span class="english">Police must enforce law justly.</span></p>
 
 <p><span class="chinese">您在国际执法学院修过什么课程？</span><span class="english">What course did you take at ILEA?</span></p>

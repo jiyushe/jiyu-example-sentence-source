@@ -1,5 +1,7 @@
 # 旋绕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanrao_1.md)
+
 <p><span class="chinese">他们的歌声在山谷中旋绕。</span><span class="english">Their songs reverberated through the valley.</span></p>
 
 <p><span class="chinese">炊烟旋绕。</span><span class="english">A wisp of smoke is curling up from a chimney.</span></p>

@@ -1,5 +1,7 @@
 # thermoset
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thermoset.md)
+
 <p><span class="chinese">麦克的首个产品是热固性瓶帽。</span><span class="english">Mack's first product was thermoset bottle caps.</span></p>
 
 <p><span class="chinese">这种情况没有发生在热固性酚醛身上。</span><span class="english">That did not happen for the thermoset phenolic.</span></p>

@@ -1,5 +1,7 @@
 # lemma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lemma.md)
+
 <p><span class="chinese">这是使用的泵引理的正确方法？</span><span class="english">Is this the correct way to use the pumping lemma?</span></p>
 
 <p><span class="chinese">我们来证明下面的冗长的技术性的引理。</span><span class="english">We shall prove the following ungainly technical lemma.</span></p>

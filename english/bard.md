@@ -1,5 +1,7 @@
 # bard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bard.md)
+
 <p><span class="chinese">永远不要让呤诗的人弹五弦琴。</span><span class="english">Never ask a bard to play the banjo.</span></p>
 
 <p><span class="chinese">我发现了正在徘徊的衰老游唱诗人。</span><span class="english">I find him, the wandering grey bard.</span></p>

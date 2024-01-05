@@ -1,5 +1,7 @@
 # bobcat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bobcat.md)
+
 <p><span class="chinese">就像野猫。你知道，很可怕的！</span><span class="english">It's, Iike, bobcat. You know, it's scary.</span></p>
 
 <p><span class="chinese">或者问过山猫它为何龇牙带笑？</span><span class="english">Or ask the grinning bobcat why he grinned?</span></p>

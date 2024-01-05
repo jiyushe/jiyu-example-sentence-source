@@ -1,5 +1,7 @@
 # temperately
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/temperately.md)
+
 <p><span class="chinese">这些喜好被适度地说了出来。</span><span class="english">These preferences are temperately stated.</span></p>
 
 <p><span class="chinese">实验证明纯正温和倍感柔软舒适。</span><span class="english">Tests the certificate purely to feel urgently soft temperately comfortable.</span></p>

@@ -1,5 +1,7 @@
 # 用途
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongtu.md)
+
 <p><span class="chinese">羊毛毡的用途？</span><span class="english">The utility of abb felt?</span></p>
 
 <p><span class="chinese">雅思考试的用途是什么？</span><span class="english">What is IELTS useful for?</span></p>

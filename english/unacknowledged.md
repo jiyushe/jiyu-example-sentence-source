@@ -1,5 +1,7 @@
 # unacknowledged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unacknowledged.md)
+
 <p><span class="chinese">不要忽略婚姻关系中隐而未现的问题。</span><span class="english">Don’t ignore unacknowledged problems in your relationship.</span></p>
 
 <p><span class="chinese">对于“罗马”的恐惧正是对于我们自身恐惧的不承认。</span><span class="english">The fear of the Roma is an unacknowledged fear of ourselves.</span></p>

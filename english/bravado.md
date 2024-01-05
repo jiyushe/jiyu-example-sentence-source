@@ -1,5 +1,7 @@
 # bravado
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bravado.md)
+
 <p><span class="chinese">那种虚张声势的作用正在逐渐消失。</span><span class="english">The bravado was wearing off.</span></p>
 
 <p><span class="chinese">他不需要虚张声势给观众催眠。</span><span class="english">He needs no bravado to mesmerize spectators.</span></p>

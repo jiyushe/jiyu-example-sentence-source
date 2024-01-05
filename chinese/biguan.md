@@ -1,5 +1,7 @@
 # 闭关
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biguan.md)
+
 <p><span class="chinese">保持离线。关断电脑。闭关修*河*炼*蟹*。</span><span class="english">Stay offline. Shut off your computer. Stay in the shed.</span></p>
 
 <p><span class="chinese">我们所有的人都对政府的闭关政策。</span><span class="english">All of us come down on the closed door policy of the government.</span></p>

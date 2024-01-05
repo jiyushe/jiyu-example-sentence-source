@@ -1,5 +1,7 @@
 # 世道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shidao.md)
+
 <p><span class="chinese">恸哭，为这邪恶的世道！</span><span class="english">Wail, for the worlds wrong!</span></p>
 
 <p><span class="chinese">“什么世道，”那男人嘀咕了一下。</span><span class="english">"Whata ripoff, " the man muttered.</span></p>

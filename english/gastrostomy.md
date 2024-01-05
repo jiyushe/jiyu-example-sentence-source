@@ -1,5 +1,7 @@
 # gastrostomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gastrostomy.md)
+
 <p><span class="chinese">但对急性胃扭转伴胃壁坏死者，应加胃造瘘术。</span><span class="english">But when acute stomach volvulus occurrs with necrosis of stomach wall, gastrostomy should be performed.</span></p>
 
 <p><span class="chinese">局麻下，给6位需长期行肠内营养的患者，行经皮穿刺胃造口术。</span><span class="english">Under local anesthesia percutaneous gastrostomy was performed in 6 patients for long enteral nutrition.</span></p>

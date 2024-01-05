@@ -1,5 +1,7 @@
 # thirtieth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thirtieth.md)
+
 <p><span class="chinese">第三十条子项目延期验收。</span><span class="english">Thirtieth sliver item deferred acceptance.</span></p>
 
 <p><span class="chinese">明天是我们结婚30周年纪念日。</span><span class="english">Tomorrow is our thirtieth wedding anniversary.</span></p>

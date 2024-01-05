@@ -1,5 +1,7 @@
 # watchmaking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/watchmaking.md)
+
 <p><span class="chinese">我和中国的孩子们一起学习了造表工艺。</span><span class="english">I got to do a watchmaking workshop with children from China.</span></p>
 
 <p><span class="chinese">瑞士以制表业和漂亮的风景而闻名。</span><span class="english">Switzerland is famous for its watchmaking and beautiful scenery.</span></p>

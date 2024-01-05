@@ -1,5 +1,7 @@
 # 驱逐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quzhu.md)
+
 <p><span class="chinese">是什么驱逐了黑暗？</span><span class="english">What banishes the dark?</span></p>
 
 <p><span class="chinese">一个爱情驱逐另一个。</span><span class="english">One love expels another.</span></p>

@@ -1,5 +1,7 @@
 # nodulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nodulation.md)
+
 <p><span class="chinese">结瘤使沙棘的落叶延迟。</span><span class="english">Nodulation delayed the falling-leaf of H. rhamnoides.</span></p>
 
 <p><span class="chinese">这一减少一般是与结瘤的减少相对应。</span><span class="english">This reduction was generally coincidental with reduced nodulation.</span></p>

@@ -1,5 +1,7 @@
 # postwar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/postwar.md)
+
 <p><span class="chinese">但在战后时期，对于这种作用的需求不多。</span><span class="english">But in the postwar era there wasn’t much need for this.</span></p>
 
 <p><span class="chinese">关于与联合国妇女基金会访问战后科索沃避难所</span><span class="english">Onvisiting women's shelters in postwar Kosovo with UNIFEM</span></p>

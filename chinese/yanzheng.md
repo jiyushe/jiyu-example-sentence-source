@@ -1,5 +1,7 @@
 # 严整
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanzheng.md)
+
 <p><span class="chinese">军容严整。</span><span class="english">The troops are in gallant array.</span></p>
 
 <p><span class="chinese">他们这个部队向来以军风严整著称。</span><span class="english">Their troop is famous for its neat carriage.</span></p>

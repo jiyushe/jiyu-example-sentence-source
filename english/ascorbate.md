@@ -1,5 +1,7 @@
 # ascorbate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ascorbate.md)
+
 <p><span class="chinese">为了维持抗坏血酸的抗氧化活力，它的再生就显得尤为重要。</span><span class="english">For maintenance of the antioxidative activity of ascorbate , its regeneration is necessary.</span></p>
 
 <p><span class="chinese">乙醛酸比抗坏血酸更能作为水稻草酸合成的前体物质。</span><span class="english">Glyoxylate rather than ascorbate is an efficient precursor for oxalate biosynthesis in rice.</span></p>

@@ -1,5 +1,7 @@
 # mock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mock.md)
+
 <p><span class="chinese">你们喜欢的话可以去嘲笑。</span><span class="english">You may mock if you like.</span></p>
 
 <p><span class="chinese">嘲弄跛子是不道德的。</span><span class="english">It's wrong to mock cripples.</span></p>

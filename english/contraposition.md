@@ -1,5 +1,7 @@
 # contraposition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contraposition.md)
+
 <p><span class="chinese">介绍一种用于软管灌装设备上的软管自动对位系统。</span><span class="english">In this paper, we introduce an automatic tube fill contraposition system.</span></p>
 
 <p><span class="chinese">平衡钢索对置，同步性能好。</span><span class="english">Contraposition of the balance steel cables bring the good synchronous performance.</span></p>

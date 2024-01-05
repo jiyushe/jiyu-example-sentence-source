@@ -1,5 +1,7 @@
 # demented
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demented.md)
+
 <p><span class="chinese">并且狗是随时可以疯起来的。</span><span class="english">What's more, dogs can become demented at any time.</span></p>
 
 <p><span class="chinese">我们一起去过一些很出色的令人发狂的画廊开幕式。</span><span class="english">We've been to some brilliantly demented gallery openings.</span></p>

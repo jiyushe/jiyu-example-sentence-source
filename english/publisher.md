@@ -1,5 +1,7 @@
 # publisher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/publisher.md)
+
 <p><span class="chinese">我的出版商也是如此。</span><span class="english">As does my publisher.</span></p>
 
 <p><span class="chinese">它没有被出版商丢到一边。</span><span class="english">It was not dropped by the publisher.</span></p>

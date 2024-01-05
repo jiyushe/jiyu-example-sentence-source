@@ -1,5 +1,7 @@
 # unsharp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsharp.md)
+
 <p><span class="chinese">提供比GIMP内置的锐化掩模更好的效果。</span><span class="english">Provides better results than Unsharp masking which is built into GIMP.</span></p>
 
 <p><span class="chinese">如何解决这个问题一直是图像增强领域的一个研究热点。</span><span class="english">In this paper, the unsharp masking method of image enhancement is discussed.</span></p>

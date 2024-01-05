@@ -1,5 +1,7 @@
 # trf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trf.md)
+
 <p><span class="chinese">教育、邀请及要求扶轮社员支持扶轮基金会。</span><span class="english">Educate, involve, and ask Rotarians to support TRF.</span></p>
 
 <p><span class="chinese">提供如何改进计划回馈意见给基金会办事员。</span><span class="english">Provide TRF staff with feedback on how to improve programs.</span></p>

@@ -1,5 +1,7 @@
 # 沿途
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yantu.md)
+
 <p><span class="chinese">沿途于永平稍作休息。</span><span class="english">Yong Peng along the break.</span></p>
 
 <p><span class="chinese">他们沿途跳布加路舞。</span><span class="english">They boogalooed down the road.</span></p>

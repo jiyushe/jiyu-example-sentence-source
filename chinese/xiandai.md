@@ -1,5 +1,7 @@
 # 现代
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiandai.md)
+
 <p><span class="chinese">你去过现代艺术博物馆吗？</span><span class="english">Have you been to MoMA?</span></p>
 
 <p><span class="chinese">现代生活节奏快。</span><span class="english">Modern life moves fast.</span></p>

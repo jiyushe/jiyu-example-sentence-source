@@ -1,5 +1,7 @@
 # 山花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanhua.md)
+
 <p><span class="chinese">另一家公司是山花我遵循黄金。</span><span class="english">Another company I follow is Pediment Gold.</span></p>
 
 <p><span class="chinese">山花不知心里事，海风空落眼前花。</span><span class="english">Yamahana somehow my heart something, the empty at present flowers.</span></p>

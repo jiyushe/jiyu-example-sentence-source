@@ -1,5 +1,7 @@
 # overpower
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overpower.md)
+
 <p><span class="chinese">我真受不了他那种溜须拍马的样子。</span><span class="english">I did overpower him the way he flattered.</span></p>
 
 <p><span class="chinese">刺穿现在影响压制而非斩杀。</span><span class="english">Impale now affects Overpower instead of Execute.</span></p>

@@ -1,5 +1,7 @@
 # linchpin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/linchpin.md)
+
 <p><span class="chinese">关键去了，你向越南送海军陆战队吗？</span><span class="english">The linchpin is gone, do you send Marines to Vietnam?</span></p>
 
 <p><span class="chinese">伍德福是英国田径队中的关键人物。</span><span class="english">Woodford is the linchpin of the british athletics team.</span></p>

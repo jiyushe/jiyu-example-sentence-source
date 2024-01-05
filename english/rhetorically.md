@@ -1,5 +1,7 @@
 # rhetorically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhetorically.md)
+
 <p><span class="chinese">兰德，在另一方面，则措辞相当精明。</span><span class="english">Rand, on the other hand, was rhetorically shrewd.</span></p>
 
 <p><span class="chinese">什么是生命？“他在介绍部分煞有介事地问。</span><span class="english">What is life?" he asks, rhetorically in the introduction.</span></p>

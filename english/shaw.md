@@ -1,5 +1,7 @@
 # shaw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shaw.md)
+
 <p><span class="chinese">坎德拉·肖飞那艘船？</span><span class="english">Kendra Shaw flew which ship?</span></p>
 
 <p><span class="chinese">萧船没有死，但是却发了疯。</span><span class="english">Shaw didn't die, but the mad.</span></p>

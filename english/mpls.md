@@ -1,5 +1,7 @@
 # mpls
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mpls.md)
+
 <p><span class="chinese">MPLS网络技术的数据转发依赖于标签。</span><span class="english">The MPLS network technology data retransmission relies on label.</span></p>
 
 <p><span class="chinese">以太网下MPLS数据流监测平台就在这种情况下应运而生。</span><span class="english">It is urgent to design a platform to monitor MPLS Datagram in ethernet.</span></p>

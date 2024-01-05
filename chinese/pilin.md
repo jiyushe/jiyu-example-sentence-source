@@ -1,5 +1,7 @@
 # 毗邻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pilin.md)
+
 <p><span class="chinese">缅甸与印度毗邻。</span><span class="english">Burma borders on India.</span></p>
 
 <p><span class="chinese">越南与中国毗邻。</span><span class="english">Viet Nam is contiguous to China.</span></p>

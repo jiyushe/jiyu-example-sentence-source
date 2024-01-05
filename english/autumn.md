@@ -1,5 +1,7 @@
 # autumn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autumn.md)
+
 <p><span class="chinese">我喜欢秋季。</span><span class="english">I like autumn.</span></p>
 
 <p><span class="chinese">我更喜欢秋天。</span><span class="english">I prefer autumn.</span></p>

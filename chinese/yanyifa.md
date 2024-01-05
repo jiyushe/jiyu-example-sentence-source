@@ -1,5 +1,7 @@
 # 演绎法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanyifa.md)
+
 <p><span class="chinese">用演绎法推算的结果是错误的。</span><span class="english">The result calculated by the deductive method is wrong.</span></p>
 
 <p><span class="chinese">定义说明文可用演绎法或归纳法展开。</span><span class="english">A definition paper may be either deductive or inductive.</span></p>

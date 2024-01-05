@@ -1,5 +1,7 @@
 # 兵力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingli.md)
+
 <p><span class="chinese">敌人在山后集结了大量兵力。</span><span class="english">The enemy is in force behind the hill.</span></p>
 
 <p><span class="chinese">美军目前在德国驻有4万兵力。</span><span class="english">Army now has 40,000 soldiers in Germany.</span></p>

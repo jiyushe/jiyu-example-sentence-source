@@ -1,5 +1,7 @@
 # inpatient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inpatient.md)
+
 <p><span class="chinese">如住院部、门诊部。</span><span class="english">Such as the inpatient and outpatient departments.</span></p>
 
 <p><span class="chinese">他一不耐烦的时候就对人没有好气。</span><span class="english">He tends to snap at people when he gets inpatient.</span></p>

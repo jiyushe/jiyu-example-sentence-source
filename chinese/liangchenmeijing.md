@@ -1,5 +1,7 @@
 # 良辰美景
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangchenmeijing.md)
+
 <p><span class="chinese">城市也并非没有良辰美景。</span><span class="english">Nor is the city withoutits moments of beauty.</span></p>
 
 <p><span class="chinese">城市也并非没有自己的良辰美景。</span><span class="english">Nor is the city without its moments of beauty.</span></p>

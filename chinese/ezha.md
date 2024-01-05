@@ -1,5 +1,7 @@
 # 讹诈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ezha.md)
+
 <p><span class="chinese">我觉得我好像被讹诈了。</span><span class="english">I feel like I've been gypped.</span></p>
 
 <p><span class="chinese">我根本不准备向讹诈屈服。</span><span class="english">I'm never prepared to surrender to blackmail.</span></p>

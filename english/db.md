@@ -1,5 +1,7 @@
 # db
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/db.md)
+
 <p><span class="chinese">,我们是如何消去db的呢？</span><span class="english">db How do we get rid of db?</span></p>
 
 <p><span class="chinese">信号-噪音12分贝马克斯。</span><span class="english">Signal-to-Noise Level 12 dB max.</span></p>

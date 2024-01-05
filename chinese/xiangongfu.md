@@ -1,5 +1,7 @@
 # 闲工夫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangongfu.md)
+
 <p><span class="chinese">我没有一点闲工夫。</span><span class="english">I have not a moment's leisure.</span></p>
 
 <p><span class="chinese">现在我有闲工夫看一看那个钱包儿了。</span><span class="english">I had now leisure to examine the purse.</span></p>

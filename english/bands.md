@@ -1,5 +1,7 @@
 # bands
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bands.md)
+
 <p><span class="chinese">我要一些橡皮圈。</span><span class="english">I want some rubber bands.</span></p>
 
 <p><span class="chinese">它从来不听发夹和发带的话。</span><span class="english">It never obeys barrettes or bands.</span></p>

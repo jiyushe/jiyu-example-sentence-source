@@ -1,5 +1,7 @@
 # cheap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cheap.md)
+
 <p><span class="chinese">有一台缝纫机廉价求售。</span><span class="english">sale cheap.</span></p>
 
 <p><span class="chinese">名称易得易用。</span><span class="english">Names are cheap.</span></p>

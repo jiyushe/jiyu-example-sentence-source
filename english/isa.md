@@ -1,5 +1,7 @@
 # isa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isa.md)
+
 <p><span class="chinese">进而我认识了他的妻子，伊莎。</span><span class="english">Through him, I met his wife, Isa.</span></p>
 
 <p><span class="chinese">同人小说习惯是一种文学习惯。</span><span class="english">The fanfic habit isa literary habit.</span></p>

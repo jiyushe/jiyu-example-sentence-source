@@ -1,5 +1,7 @@
 # printmaker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/printmaker.md)
+
 <p><span class="chinese">然后，我们将要采访制造这件艺术品的制版专家。</span><span class="english">Then, we visit the expert printmaker who made this work of art.</span></p>
 
 <p><span class="chinese">首先，制作者在一块光滑的木头上画出一个图像。</span><span class="english">The printmaker first draws an image onto a smooth piece of wood.</span></p>

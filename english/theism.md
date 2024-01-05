@@ -1,5 +1,7 @@
 # theism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theism.md)
+
 <p><span class="chinese">而有神论则让我受到了希望。</span><span class="english">Theism , and let me be hope.</span></p>
 
 <p><span class="chinese">有神失去了支点。</span><span class="english">It draws out the pivot of theism.</span></p>

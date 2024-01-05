@@ -1,5 +1,7 @@
 # locomotion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/locomotion.md)
+
 <p><span class="chinese">人用两足行走，双手得到解放，可以用来抓握和操作。</span><span class="english">Bipedal locomotion in humans frees the hands for grasping and manipulation.</span></p>
 
 <p><span class="chinese">事实上，这种走路模式受天择青睐，也许是许多因素造成的。</span><span class="english">In reality, a number of factors probably selected for this type of locomotion.</span></p>

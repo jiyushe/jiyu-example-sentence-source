@@ -1,5 +1,7 @@
 # 顶端
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingduan.md)
+
 <p><span class="chinese">楼梯顶端，两扇门。</span><span class="english">At the top, two doors.</span></p>
 
 <p><span class="chinese">顶端是最窄的。</span><span class="english">It's narrowest at its point.</span></p>

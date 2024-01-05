@@ -1,5 +1,7 @@
 # 糖衣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tangyi.md)
+
 <p><span class="chinese">把糖衣挤开。</span><span class="english">You squeeze the icing on.</span></p>
 
 <p><span class="chinese">那些花生米都给裹上糖衣。</span><span class="english">The peanuts were sugarcoated.</span></p>

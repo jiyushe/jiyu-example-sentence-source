@@ -1,5 +1,7 @@
 # weldable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weldable.md)
+
 <p><span class="chinese">杆端座体带有可焊接的基座。</span><span class="english">Rod end housing with weldable base.</span></p>
 
 <p><span class="chinese">所有以上合金均可焊。</span><span class="english">All of these alloys are readily weldable.</span></p>

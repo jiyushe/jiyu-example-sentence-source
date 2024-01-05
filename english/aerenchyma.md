@@ -1,5 +1,7 @@
 # aerenchyma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aerenchyma.md)
+
 <p><span class="chinese">叶柄薄壁细胞存在晶体，叶柄的导管管径比较大，有大量的通气组织。</span><span class="english">The crystals exist in parenchyma cells of its petioles. Its petioles have big vessels and much aerenchyma.</span></p>
 
 <p><span class="chinese">结果表明施用硝酸盐，水分胁迫致使两个水稻品种通气组织增加。</span><span class="english">The results showed that root aerenchyma tissue increased in water-stressed plants of both cultivars fed by nitrate.</span></p>

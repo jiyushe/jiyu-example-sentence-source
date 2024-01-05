@@ -1,5 +1,7 @@
 # chiao
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chiao.md)
+
 <p><span class="chinese">终于给我找到那本董桥的书了。</span><span class="english">I have finally found the book by Tung Chiao.</span></p>
 
 <p><span class="chinese">焦立中说，这张照片中的美景对他而言就如同梦境。</span><span class="english">This photo to me is about dreaming, Chiao said.</span></p>

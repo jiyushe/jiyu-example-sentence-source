@@ -1,5 +1,7 @@
 # 接踵而至
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiezhongerzhi.md)
+
 <p><span class="chinese">许多抱怨声将接踵而至。</span><span class="english">Much hand-wringing will ensue.</span></p>
 
 <p><span class="chinese">接踵而至就是滚滚而来的财富。</span><span class="english">Wealth often comes along with fame.</span></p>

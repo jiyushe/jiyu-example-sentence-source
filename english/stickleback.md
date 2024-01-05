@@ -1,5 +1,7 @@
 # stickleback
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stickleback.md)
+
 <p><span class="chinese">普罗勒克斯的观点是建立在有项圈的和三脊刺鱼的研究之上的。</span><span class="english">Prolux's theory is based on studies of the collared flycatcher and the three-spined stickleback.</span></p>
 
 <p><span class="chinese">九刺鱼和人类一样，如果对它们有利的话，能够相互模仿行为。</span><span class="english">Nine-spined stickleback share the human ability to copy each other's behaviour if it's to their advantage.</span></p>

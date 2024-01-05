@@ -1,5 +1,7 @@
 # 漆黑一团
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiheiyituan.md)
+
 <p><span class="chinese">这个谜洞对我来说深不可测、漆黑一团。</span><span class="english">It was just a deep, dark puzzle to me.</span></p>
 
 <p><span class="chinese">省级行政管理同样也是漆黑一团。</span><span class="english">Provincial administration was equally black spot.</span></p>

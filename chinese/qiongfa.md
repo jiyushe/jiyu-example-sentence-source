@@ -1,5 +1,7 @@
 # 穷乏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiongfa.md)
+
 <p><span class="chinese">因为耶和华听了穷乏人，不藐视被囚的人。</span><span class="english">For the LORD heareth the poor, and despiseth not his prisoners.</span></p>
 
 <p><span class="chinese">因为耶和华听了穷乏人，不藐视被囚的人。</span><span class="english">The Lord hears the needy and does not despise his captive people.</span></p>

@@ -1,5 +1,7 @@
 # pip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pip.md)
+
 <p><span class="chinese">她与匹普和艾斯黛拉有什么样的关系？</span><span class="english">How does she relate to Pip and Estella ?</span></p>
 
 <p><span class="chinese">最后的嘟一声正正是六点钟。</span><span class="english">At the last pip it will be exactly six o'clock.</span></p>

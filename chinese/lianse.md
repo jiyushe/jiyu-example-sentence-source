@@ -1,5 +1,7 @@
 # 脸色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianse.md)
+
 <p><span class="chinese">她的脸色白了。</span><span class="english">Her face whitened.</span></p>
 
 <p><span class="chinese">阿切尔太太脸色煞白。</span><span class="english">Mrs. Archer paled.</span></p>

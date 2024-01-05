@@ -1,5 +1,7 @@
 # inject
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inject.md)
+
 <p><span class="chinese">你要尽力在工作中倾注一点感情。</span><span class="english">Try to inject a little enthusiam in your work.</span></p>
 
 <p><span class="chinese">我相信她会给俱乐部带来新的活力。</span><span class="english">I believe she will inject new life into the club.</span></p>

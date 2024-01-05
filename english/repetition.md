@@ -1,5 +1,7 @@
 # repetition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repetition.md)
+
 <p><span class="chinese">因为里面确实有大量的反复</span><span class="english">There's a lot of repetition.</span></p>
 
 <p><span class="chinese">习惯是由重复养成的。</span><span class="english">Habits are created by repetition.</span></p>

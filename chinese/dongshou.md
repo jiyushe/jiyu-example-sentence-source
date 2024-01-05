@@ -1,5 +1,7 @@
 # 动手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongshou.md)
+
 <p><span class="chinese">我们动手干吧。</span><span class="english">Let's do it.</span></p>
 
 <p><span class="chinese">他动手能力很强。</span><span class="english">He was very handy.</span></p>

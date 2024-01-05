@@ -1,5 +1,7 @@
 # 小集团
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaojituan.md)
+
 <p><span class="chinese">在学校，我是我们小集团中唯一的女孩。</span><span class="english">I'm the only girl in my school group.</span></p>
 
 <p><span class="chinese">“四人帮”是个野心勃勃的政治小集团。</span><span class="english">"The gang of four" was an ambitious political Clique.</span></p>

@@ -1,5 +1,7 @@
 # 妖怪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoguai.md)
+
 <p><span class="chinese">口袋妖怪是什么？。</span><span class="english">What is Pokemon?</span></p>
 
 <p><span class="chinese">我要扮个妖怪。</span><span class="english">I'm gonna be a genie.</span></p>

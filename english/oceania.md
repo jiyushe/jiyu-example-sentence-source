@@ -1,5 +1,7 @@
 # oceania
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oceania.md)
+
 <p><span class="chinese">在大洋洲上贴一只树袋熊。</span><span class="english">Stick a koala on Oceania.</span></p>
 
 <p><span class="chinese">大洋国同东亚国作战。</span><span class="english">Oceania is at war with Eastasia.</span></p>

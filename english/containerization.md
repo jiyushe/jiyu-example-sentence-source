@@ -1,5 +1,7 @@
 # containerization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/containerization.md)
+
 <p><span class="chinese">集装箱化在国际运输中甚受欢迎。</span><span class="english">Containerization is popular in international movement.</span></p>
 
 <p><span class="chinese">集装箱化被认为是一种高效率的货运方式。</span><span class="english">Containerization is regarded as a mode of more efficient shipment.</span></p>

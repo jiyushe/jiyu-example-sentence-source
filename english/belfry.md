@@ -1,5 +1,7 @@
 # belfry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/belfry.md)
+
 <p><span class="chinese">钟楼岩石。</span><span class="english">Belfry rock.</span></p>
 
 <p><span class="chinese">许多雕塑装饰着钟楼。</span><span class="english">The belfry abounds in ornamental carving.</span></p>

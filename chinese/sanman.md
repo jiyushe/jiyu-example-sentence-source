@@ -1,5 +1,7 @@
 # 散漫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanman.md)
+
 <p><span class="chinese">他是个散漫的人。</span><span class="english">He is a discursive person.</span></p>
 
 <p><span class="chinese">他散漫安闲地度过夏天。</span><span class="english">He lounged the summer away.</span></p>

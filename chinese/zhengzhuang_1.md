@@ -1,5 +1,7 @@
 # 症状
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengzhuang_1.md)
+
 <p><span class="chinese">有别的症状吗？</span><span class="english">Any other symptom?</span></p>
 
 <p><span class="chinese">有些人什么症状都没有。</span><span class="english">Some people have no symptoms.</span></p>

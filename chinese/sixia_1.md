@@ -1,5 +1,7 @@
 # 私下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sixia_1.md)
+
 <p><span class="chinese">第二层就是私下刻板印象。</span><span class="english">Then there is private.</span></p>
 
 <p><span class="chinese">这是我对他私下的评价”。</span><span class="english">I rated him from the off.</span></p>

@@ -1,5 +1,7 @@
 # diamante
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diamante.md)
+
 <p><span class="chinese">眼镜比较相似，但是其中一副镶有金箔。</span><span class="english">They are similar, but one pair has diamanté on it.</span></p>
 
 <p><span class="chinese">没有品味的粉红色衣着和闪光饰品，这类玩艺儿只适合三岁儿童和意大利时装设计师。</span><span class="english">Naff, pink and diamanté only ever work for three-year-olds and Italian fashion designers.</span></p>

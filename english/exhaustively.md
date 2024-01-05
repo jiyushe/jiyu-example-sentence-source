@@ -1,5 +1,7 @@
 # exhaustively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exhaustively.md)
+
 <p><span class="chinese">但是有很多算法是采取这个。</span><span class="english">You just want to exhaustively go through things.</span></p>
 
 <p><span class="chinese">我们将在会议上与他们详尽地讨论这一问题。</span><span class="english">We'll discuss it exhaustively with them at the meeting.</span></p>

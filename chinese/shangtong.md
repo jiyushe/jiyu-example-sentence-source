@@ -1,5 +1,7 @@
 # 伤痛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangtong.md)
+
 <p><span class="chinese">伤痛拂去。</span><span class="english">I forget every pain.</span></p>
 
 <p><span class="chinese">拉科鲁尼亚是一个很大的伤痛。</span><span class="english">La Coruna was a big hurt.</span></p>

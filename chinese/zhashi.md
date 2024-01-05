@@ -1,5 +1,7 @@
 # 扎实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhashi.md)
+
 <p><span class="chinese">他拉丁语的功底很扎实。</span><span class="english">He is well grounded in Latin.</span></p>
 
 <p><span class="chinese">五是上下一心，扎实工作。</span><span class="english">Is of one mind, and do solid work.</span></p>

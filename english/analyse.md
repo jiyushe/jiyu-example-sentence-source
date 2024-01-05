@@ -1,5 +1,7 @@
 # analyse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/analyse.md)
+
 <p><span class="chinese">接下来，你需要分析这个矩阵。</span><span class="english">Next, you need to analyse the metrics.</span></p>
 
 <p><span class="chinese">我的主要任务是分析人体排泄物。</span><span class="english">My main role was to analyse human excrement.</span></p>

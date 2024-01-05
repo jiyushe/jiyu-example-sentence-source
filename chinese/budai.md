@@ -1,5 +1,7 @@
 # 布袋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/budai.md)
+
 <p><span class="chinese">小鸡在布袋上啄了一个洞。</span><span class="english">The chicken pecked a hole in the sack.</span></p>
 
 <p><span class="chinese">一个热的装着豆类的布袋正好能满足你的需要。</span><span class="english">A hot beanbag may be just the cure you need.</span></p>

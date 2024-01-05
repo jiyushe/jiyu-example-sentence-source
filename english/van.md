@@ -1,5 +1,7 @@
 # van 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/van.md)
+
 <p><span class="chinese">哪个行李是您的？</span><span class="english">Welke baggage is van u?</span></p>
 
 <p><span class="chinese">范。巴斯滕是个什么样的人？</span><span class="english">What is Van Basten like?</span></p>

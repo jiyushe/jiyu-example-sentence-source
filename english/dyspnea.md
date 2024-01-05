@@ -1,5 +1,7 @@
 # dyspnea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dyspnea.md)
+
 <p><span class="chinese">因为呼吸困难而来门诊部求诊。</span><span class="english">Due to dyspnea , she was brought to our OPD.</span></p>
 
 <p><span class="chinese">因为他的呼吸困难，他被送入本医院急救。</span><span class="english">Due to his dyspnea , he was sent to our hospital for help.</span></p>

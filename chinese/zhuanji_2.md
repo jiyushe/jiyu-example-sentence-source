@@ -1,5 +1,7 @@
 # 专集
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanji_2.md)
+
 <p><span class="chinese">他的新专集很畅销。</span><span class="english">His new album sells well.</span></p>
 
 <p><span class="chinese">新专集已经在筹备中了。</span><span class="english">The new album is on the way.</span></p>

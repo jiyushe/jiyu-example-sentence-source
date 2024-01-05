@@ -1,5 +1,7 @@
 # provisionally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/provisionally.md)
+
 <p><span class="chinese">这份合同得到初步认可。</span><span class="english">The contract has been accepted provisionally.</span></p>
 
 <p><span class="chinese">此项预算无法估计，暂定50。</span><span class="english">This budget inestimably, establishes provisionally 50.</span></p>

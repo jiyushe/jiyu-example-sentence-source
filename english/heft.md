@@ -1,5 +1,7 @@
 # heft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heft.md)
+
 <p><span class="chinese">所有获得一点点的分量和无从捉摸。</span><span class="english">Everything gains a bit of heft and tangibility.</span></p>
 
 <p><span class="chinese">新闻资讯的分量明显变重了。</span><span class="english">The heft of 1 news information becomes heavy apparently.</span></p>

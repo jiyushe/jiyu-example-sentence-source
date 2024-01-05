@@ -1,5 +1,7 @@
 # aluminium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aluminium.md)
+
 <p><span class="chinese">铝丝。</span><span class="english">Aluminium wire.</span></p>
 
 <p><span class="chinese">铝是一种轻金属。</span><span class="english">Aluminium is a light metal.</span></p>

@@ -1,5 +1,7 @@
 # 笔下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bixia.md)
+
 <p><span class="chinese">或者有点像狄更斯笔下的世界？</span><span class="english">Or maybe Dickensian?</span></p>
 
 <p><span class="chinese">这就是契诃夫笔下的犹太人形象。</span><span class="english">That was how Chekhov saw Jews.</span></p>

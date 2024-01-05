@@ -1,5 +1,7 @@
 # 流产
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liuchan.md)
+
 <p><span class="chinese">我的全部计划都流产了。</span><span class="english">All my plans have miscarried.</span></p>
 
 <p><span class="chinese">斯洛伐克碾核乐队流产。</span><span class="english">Slovak grindcore band Abortion.</span></p>

@@ -1,5 +1,7 @@
 # 饥寒交迫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jihanjiaopo.md)
+
 <p><span class="chinese">穷到饥寒交迫。</span><span class="english">Poor to the hungry and cold.</span></p>
 
 <p><span class="chinese">日晒风吹、饥寒交迫。</span><span class="english">Sun and wind, hungry and cold.</span></p>

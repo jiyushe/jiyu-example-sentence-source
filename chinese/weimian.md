@@ -1,5 +1,7 @@
 # 未免
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weimian.md)
+
 <p><span class="chinese">未免也太不公平吧？</span><span class="english">Also too is rather unfair?</span></p>
 
 <p><span class="chinese">那未免有点太自恋。</span><span class="english">That would be too self-serving.</span></p>

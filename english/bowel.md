@@ -1,5 +1,7 @@
 # bowel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bowel.md)
+
 <p><span class="chinese">有肠易激综合症？</span><span class="english">Have irritable bowel syndrome?</span></p>
 
 <p><span class="chinese">你把我的手术换成肠阻塞手术了?。</span><span class="english">You bumped me for a bowel obstruction?</span></p>

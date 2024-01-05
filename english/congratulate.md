@@ -1,5 +1,7 @@
 # congratulate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/congratulate.md)
+
 <p><span class="chinese">我祝贺他！</span><span class="english">I congratulate him!</span></p>
 
 <p><span class="chinese">人们都恭喜我。</span><span class="english">People congratulate me.</span></p>

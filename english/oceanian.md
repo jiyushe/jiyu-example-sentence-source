@@ -1,5 +1,7 @@
 # oceanian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oceanian.md)
+
 <p><span class="chinese">台湾动作障碍学会。</span><span class="english">The Movement Disorder Society, Asian and Oceanian Section.</span></p>
 
 <p><span class="chinese">深奥之化合物包围了一间健全之大洋州餐厅。</span><span class="english">The profound compound has surrounded a sound Oceanian cafeteria.</span></p>

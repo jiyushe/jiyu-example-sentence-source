@@ -1,5 +1,7 @@
 # 海气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haiqi.md)
+
 <p><span class="chinese">本文分析了海气热力遥相关联系。</span><span class="english">In this paper, air-sea thermal teleconnection is analyzed.</span></p>
 
 <p><span class="chinese">苍茫海气连云动，石上游人别有情。</span><span class="english">Lianyun vast sea air moving upstream were not sentient rock.</span></p>

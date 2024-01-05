@@ -1,5 +1,7 @@
 # 入声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rusheng_1.md)
+
 <p><span class="chinese">入声吕雷克医用助听器</span><span class="english">InSound Medical Lyric Hearing Aid</span></p>
 
 <p><span class="chinese">第四章是涿鹿方言的入声韵母。</span><span class="english">The fourth chapter is the Zhuolu dialect entering finals.</span></p>

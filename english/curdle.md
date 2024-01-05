@@ -1,5 +1,7 @@
 # curdle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curdle.md)
+
 <p><span class="chinese">血液凝固了。</span><span class="english">Blood is curdle.</span></p>
 
 <p><span class="chinese">骆驼奶不结块。</span><span class="english">Camels milk does not curdle.</span></p>

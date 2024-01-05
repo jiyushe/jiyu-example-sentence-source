@@ -1,5 +1,7 @@
 # 小乘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaocheng.md)
+
 <p><span class="chinese">该族群不信仰小乘佛教，而笃信传统的原始宗教。</span><span class="english">They do not believe in Hinayana but in the primitive religion.</span></p>
 
 <p><span class="chinese">事实上，很多小乘和大乘都不相信金刚乘是佛教。</span><span class="english">In fact, many Hinayana and Mahayana, they don't think Vajrayana is Buddhism.</span></p>

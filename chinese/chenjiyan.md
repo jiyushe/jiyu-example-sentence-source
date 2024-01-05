@@ -1,5 +1,7 @@
 # 沉积岩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenjiyan.md)
+
 <p><span class="chinese">沉积岩的一般概念。</span><span class="english">Concepts of sedimentary rock.</span></p>
 
 <p><span class="chinese">这是一个沉积岩类型铀矿床。</span><span class="english">An uranium deposit is sedimentary rock.</span></p>

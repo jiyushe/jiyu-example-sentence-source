@@ -1,5 +1,7 @@
 # 沾边
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanbian.md)
+
 <p><span class="chinese">这事他没沾边。</span><span class="english">He has nothing to do with the matter.</span></p>
 
 <p><span class="chinese">公司里没有任何人干过与3D沾边的活。</span><span class="english">Nobody in the company had done anything 3D.</span></p>

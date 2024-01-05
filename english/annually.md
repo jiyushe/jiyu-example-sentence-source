@@ -1,5 +1,7 @@
 # annually
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/annually.md)
+
 <p><span class="chinese">这些树每年结实。</span><span class="english">These trees fruit annually.</span></p>
 
 <p><span class="chinese">这些树每年结果子。</span><span class="english">These trees fruit annually.</span></p>

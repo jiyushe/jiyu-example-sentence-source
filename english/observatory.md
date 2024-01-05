@@ -1,5 +1,7 @@
 # observatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/observatory.md)
+
 <p><span class="chinese">通往天文台的上山路。</span><span class="english">The road to the Observatory.</span></p>
 
 <p><span class="chinese">就在天文台外面。</span><span class="english">So that's outside the observatory.</span></p>

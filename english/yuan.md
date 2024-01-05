@@ -1,5 +1,7 @@
 # yuan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yuan.md)
+
 <p><span class="chinese">这是五块钱。</span><span class="english">Here is five Yuan.</span></p>
 
 <p><span class="chinese">七元一公斤。</span><span class="english">Seven yuan a kilo.</span></p>

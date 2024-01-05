@@ -1,5 +1,7 @@
 # hateful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hateful.md)
+
 <p><span class="chinese">这是份可恨的工作。</span><span class="english">It was a hateful job.</span></p>
 
 <p><span class="chinese">走着瞧吧，可恶的压力！</span><span class="english">Waits and sees, hateful pressure!</span></p>

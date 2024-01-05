@@ -1,5 +1,7 @@
 # theatrical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theatrical.md)
+
 <p><span class="chinese">表演是种模仿性艺术。</span><span class="english">Theatrical arts or performances.</span></p>
 
 <p><span class="chinese">那出戏由一个戏班子演出。</span><span class="english">The play was staged by a theatrical company.</span></p>

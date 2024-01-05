@@ -1,5 +1,7 @@
 # 桃李
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taoli.md)
+
 <p><span class="chinese">桃李不言，下自成蹊。</span><span class="english">Tao Li is not made, the next from Seikei.</span></p>
 
 <p><span class="chinese">滋润着祖国的桃李。</span><span class="english">Moistens the motherland of the peaches and plums.</span></p>

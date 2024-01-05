@@ -1,5 +1,7 @@
 # redo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redo.md)
+
 <p><span class="chinese">对于恢复，重做日志是必需的。</span><span class="english">Redo logs are needed for recovery.</span></p>
 
 <p><span class="chinese">您不必重新编写整个应用程序。</span><span class="english">You do not have to redo the entire application.</span></p>

@@ -1,5 +1,7 @@
 # 函告
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hangao.md)
+
 <p><span class="chinese">请把结果函告我们。</span><span class="english">Please write us the result.</span></p>
 
 <p><span class="chinese">母亲于昨晚安全到达，详情函告。</span><span class="english">Mother arrive safely last night letter follow.</span></p>

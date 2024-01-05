@@ -1,5 +1,7 @@
 # 切削
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiexiao.md)
+
 <p><span class="chinese">这种金属容易切削。</span><span class="english">This metal cuts easily.</span></p>
 
 <p><span class="chinese">使用所有后熔接切削。</span><span class="english">With all post-weld machining.</span></p>

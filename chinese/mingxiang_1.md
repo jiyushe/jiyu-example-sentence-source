@@ -1,5 +1,7 @@
 # 命相
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingxiang_1.md)
+
 <p><span class="chinese">健康所系，生命相托。</span><span class="english">The Oath of Medical StudentHealth related, life entrusted.</span></p>
 
 <p><span class="chinese">就为了每日几碗白米，便以命相搏？</span><span class="english">Why, for a handful of rice every day, do they risk their lives?</span></p>

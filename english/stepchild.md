@@ -1,5 +1,7 @@
 # stepchild
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stepchild.md)
+
 <p><span class="chinese">衰老过程是人类生命周期中被忽视的继儿。</span><span class="english">Old age is a neglected stepchild of the human life cycle. The.</span></p>
 
 <p><span class="chinese">几年前，他的海军还是“政府的又丑又小的继子。”</span><span class="english">Few years ago his Navy was "the ugly little stepchild of the Government."</span></p>

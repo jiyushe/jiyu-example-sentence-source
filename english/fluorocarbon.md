@@ -1,5 +1,7 @@
 # fluorocarbon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fluorocarbon.md)
+
 <p><span class="chinese">碳素线是那一年推出问世的？</span><span class="english">When was fluorocarbon line first invented?</span></p>
 
 <p><span class="chinese">是谁发明的碳素线？</span><span class="english">Who invented fluorocarbon line and leader?</span></p>

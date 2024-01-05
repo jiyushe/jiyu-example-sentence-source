@@ -1,5 +1,7 @@
 # 出路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chulu_1.md)
+
 <p><span class="chinese">唯一的出路是治疗。</span><span class="english">The only way out is treatment.</span></p>
 
 <p><span class="chinese">谁能说出路将伸延何方？</span><span class="english">Who can say where the road goes.</span></p>

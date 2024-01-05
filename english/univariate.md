@@ -1,5 +1,7 @@
 # univariate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/univariate.md)
+
 <p><span class="chinese">某些估计只涉及到一重数值积分。</span><span class="english">Some of these estimates involve only univariate numerical integrals.</span></p>
 
 <p><span class="chinese">将上述因子进行单变项及双变项分析，计算后验风险比。</span><span class="english">Posterior odds were all calculated for univariate and bivariate analysis.</span></p>

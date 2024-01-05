@@ -1,5 +1,7 @@
 # guts
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guts.md)
+
 <p><span class="chinese">我恨死他了。</span><span class="english">I hate his guts.</span></p>
 
 <p><span class="chinese">我恨死他了。</span><span class="english">I hated his guts.</span></p>

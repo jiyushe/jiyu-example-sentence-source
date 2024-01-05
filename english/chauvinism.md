@@ -1,5 +1,7 @@
 # chauvinism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chauvinism.md)
+
 <p><span class="chinese">作者猛烈抨击沙文主义。</span><span class="english">The author lashed out against chauvinism.</span></p>
 
 <p><span class="chinese">贝蒂不知道大男子主义是怎么回事。</span><span class="english">Betty had no idea what male chauvinism was.</span></p>

@@ -1,5 +1,7 @@
 # 泔水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganshui.md)
+
 <p><span class="chinese">贻误了一步，它的，你怎么说英语，泔水。</span><span class="english">Bungle a step and it's, how do you say in English, swill.</span></p>
 
 <p><span class="chinese">威尔伯不在意，继续朝泔水桶走去。</span><span class="english">Wilbur didn't care. He kept walking toward the pail of slops.</span></p>

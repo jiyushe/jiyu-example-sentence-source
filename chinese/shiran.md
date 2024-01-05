@@ -1,5 +1,7 @@
 # 使然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiran.md)
+
 <p><span class="chinese">“习惯使然，”最后他说。</span><span class="english">"Habit, " he says, finally.</span></p>
 
 <p><span class="chinese">两人的命运必须互相凭倚，才得平衡，这种妙用，天意使然，高深莫测！</span><span class="english">Oh, unfathomable and divine mystery of the balances of destiny!</span></p>

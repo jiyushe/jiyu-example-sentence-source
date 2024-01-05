@@ -1,5 +1,7 @@
 # 订单
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingdan_1.md)
+
 <p><span class="chinese">有人曾找到一张他的订单</span><span class="english">Somebody found an order.</span></p>
 
 <p><span class="chinese">订单的号码是1089号。</span><span class="english">The order number be 1089.</span></p>

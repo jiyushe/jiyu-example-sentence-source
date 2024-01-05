@@ -1,5 +1,7 @@
 # uric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uric.md)
+
 <p><span class="chinese">聚乙二醇尿酸特定的酶。</span><span class="english">PEGylated uric acid ­specific enzyme.</span></p>
 
 <p><span class="chinese">尿结石因为什么原因引起的？</span><span class="english">Because of what reason uric stone causes?</span></p>

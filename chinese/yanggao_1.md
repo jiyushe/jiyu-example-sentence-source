@@ -1,5 +1,7 @@
 # 羊羔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanggao_1.md)
+
 <p><span class="chinese">羊羔的骨头一根也不可折断。</span><span class="english">Do not break any of the bones.</span></p>
 
 <p><span class="chinese">这只公羊生的羊羔好。</span><span class="english">This ram is throwing good stock.</span></p>

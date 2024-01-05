@@ -1,5 +1,7 @@
 # 安定团结
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/andingtuanjie.md)
+
 <p><span class="chinese">我们已经实现了安定团结。</span><span class="english">We have achieved genuine stability and unity.</span></p>
 
 <p><span class="chinese">第二，要有一个安定团结的政治局面。</span><span class="english">Second, it is essential to maintain political stability and unity.</span></p>

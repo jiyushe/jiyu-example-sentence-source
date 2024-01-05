@@ -1,5 +1,7 @@
 # paratyphoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paratyphoid.md)
+
 <p><span class="chinese">方法对245例副伤寒甲的临床资料进行回顾性分析。</span><span class="english">Retrospective study on the clinical dates of the 245 cases of paratyphoid A.</span></p>
 
 <p><span class="chinese">目的了解副伤寒沙门菌的耐药情况及耐药机制。</span><span class="english">Objective To study the antibiotic resistance and its mechanism of salmonella paratyphoid.</span></p>

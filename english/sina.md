@@ -1,5 +1,7 @@
 # sina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sina.md)
+
 <p><span class="chinese">你们是约翰和海伦。</span><span class="english">Kayo sina John at Helen.</span></p>
 
 <p><span class="chinese">但他却是新浪微博的创始人。</span><span class="english">But he is the founder of Sina Weibo.</span></p>

@@ -1,5 +1,7 @@
 # benzene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/benzene.md)
+
 <p><span class="chinese">苯，甲苯，二甲苯，乙基苯。</span><span class="english">Benzene, Toluene, Xylene, Ethyl Benzene.</span></p>
 
 <p><span class="chinese">透明剂包括苯和二甲苯。</span><span class="english">Clearing agents include benzene and xylene.</span></p>

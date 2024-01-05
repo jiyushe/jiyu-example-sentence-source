@@ -1,5 +1,7 @@
 # 人缘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renyuan_1.md)
+
 <p><span class="chinese">他在朋友中人缘不好。</span><span class="english">He got in bad among his friends.</span></p>
 
 <p><span class="chinese">你人缘好人气旺赢得众望。</span><span class="english">You are win popular with masses.</span></p>

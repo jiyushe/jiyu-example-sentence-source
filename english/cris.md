@@ -1,5 +1,7 @@
 # cris
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cris.md)
+
 <p><span class="chinese">我有我的技能，克里斯有他。</span><span class="english">I have my skills, Cris has his.</span></p>
 
 <p><span class="chinese">克里斯是没有太大的垃圾桶健谈。</span><span class="english">Cris isn't much of a trash talker.</span></p>

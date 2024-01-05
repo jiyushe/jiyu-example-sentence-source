@@ -1,5 +1,7 @@
 # 特辑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/teji_1.md)
+
 <p><span class="chinese">云﹕为左今日的特辑呢﹐我专登找左阿梅姐呢…</span><span class="english">For today's special program, I purposely found Mui Jei.</span></p>
 
 <p><span class="chinese">在2005年他们出版发行第二张特辑“安科拉”。</span><span class="english">Their second album, Ancora, was released in November 2005.</span></p>

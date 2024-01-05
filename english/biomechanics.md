@@ -1,5 +1,7 @@
 # biomechanics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biomechanics.md)
+
 <p><span class="chinese">那将会使你的身体偏离生物力学。</span><span class="english">That will throw off your body’s biomechanics.</span></p>
 
 <p><span class="chinese">上个新期又是一堂有趣的课。</span><span class="english">Last week's Biomechanics lesson was fun! As always.</span></p>

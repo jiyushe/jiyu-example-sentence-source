@@ -1,5 +1,7 @@
 # 上衣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangyi.md)
+
 <p><span class="chinese">把你的上衣扣好。</span><span class="english">Do up your coat.</span></p>
 
 <p><span class="chinese">他的上衣和他合身。</span><span class="english">His coat fits well.</span></p>

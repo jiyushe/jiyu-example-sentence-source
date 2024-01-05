@@ -1,5 +1,7 @@
 # 扰民
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/raomin.md)
+
 <p><span class="chinese">这是非常扰民发送此邮件。</span><span class="english">It's very intrusive to send this email.</span></p>
 
 <p><span class="chinese">你认为广场舞扰民吗？</span><span class="english">Do you think square dancing is causing annoyance?</span></p>

@@ -1,5 +1,7 @@
 # characteristic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/characteristic.md)
+
 <p><span class="chinese">这是个基本特征。</span><span class="english">This characteristic is essential.</span></p>
 
 <p><span class="chinese">特色产业黄烟。</span><span class="english">Yellow Smoke characteristic industry.</span></p>

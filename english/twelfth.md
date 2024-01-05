@@ -1,5 +1,7 @@
 # twelfth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/twelfth.md)
+
 <p><span class="chinese">汤姆乘电梯到十二层楼。</span><span class="english">Tom took the lift to the twelfth floor.</span></p>
 
 <p><span class="chinese">第十二讲里面共有十五道题。</span><span class="english">There are fifteen problems in the twelfth module.</span></p>

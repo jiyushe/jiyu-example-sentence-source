@@ -1,5 +1,7 @@
 # 间或
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianhuo.md)
+
 <p><span class="chinese">中间或左边对齐的布局？</span><span class="english">Centered or left-aligned layout?</span></p>
 
 <p><span class="chinese">间或婴儿似地静躺在摇篮里。</span><span class="english">Or like a cradled creature lies.</span></p>

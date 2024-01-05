@@ -1,5 +1,7 @@
 # wider
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wider.md)
+
 <p><span class="chinese">我们应该从大处着眼。</span><span class="english">We must take a wider view.</span></p>
 
 <p><span class="chinese">它有更广泛的意义。</span><span class="english">It has a wider significance.</span></p>

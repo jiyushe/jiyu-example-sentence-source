@@ -1,5 +1,7 @@
 # riga
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/riga.md)
+
 <p><span class="chinese">润肺又止咳，粥里加百合。</span><span class="english">Lungs and they cough, Porridge Riga lily.</span></p>
 
 <p><span class="chinese">在里加的拉脱维亚首都的秋天色调</span><span class="english">Autumn tones in the Latvian capital, Riga.</span></p>

@@ -1,5 +1,7 @@
 # spectroscope
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spectroscope.md)
+
 <p><span class="chinese">其特征在于分光系统由一个光栏和滤光片组成。</span><span class="english">The spectroscope consists of diaphragm and light filter sheet.</span></p>
 
 <p><span class="chinese">在制作光栅中，由于分光镜的使用，有一伴随光栅存在。</span><span class="english">When making grating, there is an accompany grating because of spectroscope.</span></p>

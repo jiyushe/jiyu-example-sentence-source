@@ -1,5 +1,7 @@
 # directness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/directness.md)
+
 <p><span class="chinese">维娜喜欢我的直率。</span><span class="english">Venna likes my directness.</span></p>
 
 <p><span class="chinese">我在生活中一直崇尚诚实、直接和简单。</span><span class="english">I like honesty, directness and briefness, always!</span></p>

@@ -1,5 +1,7 @@
 # folio
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/folio.md)
+
 <p><span class="chinese">约翰国王是首次出版，在1623年第一对开本的。</span><span class="english">King John was first published in the First Folio of 1623.</span></p>
 
 <p><span class="chinese">理查德告诉过我16世纪的三卷关于炼金术的对开本书籍的事。</span><span class="english">Richard told me of three 16th-century folio volumes on alchemy.</span></p>

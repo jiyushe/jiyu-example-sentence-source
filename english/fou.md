@@ -1,5 +1,7 @@
 # fou
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fou.md)
+
 <p><span class="chinese">期待你的好消息！</span><span class="english">Waiting fou your good news!</span></p>
 
 <p><span class="chinese">我爱你！只要你知道就足够了！</span><span class="english">I love you! It is enough fou you know!</span></p>

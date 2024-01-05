@@ -1,5 +1,7 @@
 # 省力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengli_1.md)
+
 <p><span class="chinese">自动化省时省力。</span><span class="english">Automation reduces time and effort.</span></p>
 
 <p><span class="chinese">不要走最省力气的路。</span><span class="english">Don't follow the way of least resistance.</span></p>

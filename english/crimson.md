@@ -1,5 +1,7 @@
 # crimson
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crimson.md)
+
 <p><span class="chinese">她羞愧得两颊绯红。</span><span class="english">She flushed crimson with shame.</span></p>
 
 <p><span class="chinese">欢迎来到可里木森林。</span><span class="english">Welcome to Crimson Forest Films.</span></p>

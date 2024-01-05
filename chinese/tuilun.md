@@ -1,5 +1,7 @@
 # 推论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuilun.md)
+
 <p><span class="chinese">这有一个推论。</span><span class="english">There is a corollary to this.</span></p>
 
 <p><span class="chinese">他得出一些令人脊背发凉的推论。</span><span class="english">He draws some chilling inferences.</span></p>

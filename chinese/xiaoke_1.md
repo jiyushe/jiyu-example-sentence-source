@@ -1,5 +1,7 @@
 # 消渴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoke_1.md)
+
 <p><span class="chinese">神州中医药学会消渴病专业委员会。</span><span class="english">Trditionl Chinese Medicine Committee of Dibetes.</span></p>
 
 <p><span class="chinese">中国中医药学会消渴病专业委员会。</span><span class="english">Traditional Chinese Medicine Committee of Diabetes.</span></p>

@@ -1,5 +1,7 @@
 # factional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/factional.md)
+
 <p><span class="chinese">他们企图把他们宗派主义的宣传强加给马克思主义者。</span><span class="english">They tried to force their factional preachings on the Marxists.</span></p>
 
 <p><span class="chinese">党派政治在对这些问题的处理上已彻底破败。</span><span class="english">Factional politics has failed utterly to deal with these problems.</span></p>

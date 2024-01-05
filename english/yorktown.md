@@ -1,5 +1,7 @@
 # yorktown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yorktown.md)
+
 <p><span class="chinese">约克镇战役对美国人来说是一次伟大的胜利。</span><span class="english">The Battle of Yorktown was a big victory for the Americans.</span></p>
 
 <p><span class="chinese">马塞诸塞州第一军队在约克敦附近进攻叛军。</span><span class="english">Charge of the First Massachusetts Regiment on a Rebel Rifle Pit Near Yorktown.</span></p>

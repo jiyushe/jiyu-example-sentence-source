@@ -1,5 +1,7 @@
 # cdi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cdi.md)
+
 <p><span class="chinese">这也许是CDI最令人激动的特性了。</span><span class="english">This is perhaps the most exciting feature of CDI.</span></p>
 
 <p><span class="chinese">CDI统一并简化了EJB与JSF的编程模型。</span><span class="english">CDI unifies and simplifies the EJB and JSF programming models.</span></p>

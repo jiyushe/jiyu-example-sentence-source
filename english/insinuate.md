@@ -1,5 +1,7 @@
 # insinuate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insinuate.md)
+
 <p><span class="chinese">我并未影射如何人或任何事。</span><span class="english">I didn't insinuate anybody or anything.</span></p>
 
 <p><span class="chinese">他设法巧妙地渐渐取得老板的欢心。</span><span class="english">He tried to insinuate himself into the boss's favor.</span></p>

@@ -1,5 +1,7 @@
 # 鱼鳞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yulin_3.md)
+
 <p><span class="chinese">有些唇膏中含有鱼鳞。</span><span class="english">Some lipsticks contain fish scales.</span></p>
 
 <p><span class="chinese">绝大部分的唇膏里都含有鱼鳞成分。</span><span class="english">Most  lipstick contains fish scales.</span></p>

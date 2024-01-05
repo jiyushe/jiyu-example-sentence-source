@@ -1,5 +1,7 @@
 # innocence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/innocence.md)
+
 <p><span class="chinese">他坚称自己是无辜的。</span><span class="english">He affirmed his innocence.</span></p>
 
 <p><span class="chinese">那时一个天真烂漫的时代。</span><span class="english">It was an age of innocence.</span></p>

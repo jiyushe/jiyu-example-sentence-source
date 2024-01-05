@@ -1,5 +1,7 @@
 # 射影
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sheying.md)
+
 <p><span class="chinese">综合几何学家们在发展射影几何学。</span><span class="english">The synthetic geometers were developing projective geometry.</span></p>
 
 <p><span class="chinese">文章以二维复射影空间为论域。</span><span class="english">This essay in concerned with two dimension of complex projection space.</span></p>

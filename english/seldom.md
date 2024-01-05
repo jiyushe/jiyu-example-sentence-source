@@ -1,5 +1,7 @@
 # seldom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seldom.md)
+
 <p><span class="chinese">我们很少说话。</span><span class="english">We seldom talk.</span></p>
 
 <p><span class="chinese">他不常在家。</span><span class="english">He is seldom at home.</span></p>

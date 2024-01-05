@@ -1,5 +1,7 @@
 # hippy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hippy.md)
+
 <p><span class="chinese">我将搬出嘻皮社区。</span><span class="english">I'd liberate myself from the Hippy Commune.</span></p>
 
 <p><span class="chinese">在他们看来，肩背帆布包、留长发的人都是嬉皮士。</span><span class="english">In their view anybody with a rucksack and long hair is a hippy.</span></p>

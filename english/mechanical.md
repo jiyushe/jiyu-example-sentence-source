@@ -1,5 +1,7 @@
 # mechanical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mechanical.md)
+
 <p><span class="chinese">机械木浆。</span><span class="english">Mechanical wood pulp.</span></p>
 
 <p><span class="chinese">那机械功怎么样呢？</span><span class="english">How about mechanical work?</span></p>

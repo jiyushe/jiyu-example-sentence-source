@@ -1,5 +1,7 @@
 # agreeableness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agreeableness.md)
+
 <p><span class="chinese">亲切是指和他人愉快相处的个性倾向。</span><span class="english">Agreeableness ---The tendency to get along well with other people.</span></p>
 
 <p><span class="chinese">生态美具有生命性、宜人性、全人类性的性质。</span><span class="english">Ecological beauty is characteristic of life, agreeableness and humanity.</span></p>

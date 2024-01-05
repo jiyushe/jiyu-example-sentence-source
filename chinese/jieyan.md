@@ -1,5 +1,7 @@
 # 戒严
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieyan.md)
+
 <p><span class="chinese">这是废止了1958年的时候，戒严时期被强加的。</span><span class="english">It was abrogated in 1958 when martial law was imposed.</span></p>
 
 <p><span class="chinese">克什米尔首府斯利那加正处于军事戒严状态之中。</span><span class="english">Kashmir’s capital, Srinagar, is under military curfew.</span></p>

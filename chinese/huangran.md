@@ -1,5 +1,7 @@
 # 恍然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huangran.md)
+
 <p><span class="chinese">而现今我恍然跟随的，却是如此单薄的魂灵！</span><span class="english">And not the thin ghost that I now frailly follow!</span></p>
 
 <p><span class="chinese">恍然间，她离开了我建立了自己的生活。</span><span class="english">Soon, too soon, she left and started her own life.</span></p>

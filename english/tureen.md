@@ -1,5 +1,7 @@
 # tureen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tureen.md)
+
 <p><span class="chinese">仿佛你把这个城市的盖子揭开了一样。</span><span class="english">He lifted the lid of a tureen.</span></p>
 
 <p><span class="chinese">按过铃，一个小男仆就捧了一只盛汤的银器进来。</span><span class="english">In answer to the ring, appeared a page boy with a silver soup tureen.</span></p>

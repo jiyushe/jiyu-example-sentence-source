@@ -1,5 +1,7 @@
 # specious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/specious.md)
+
 <p><span class="chinese">这是一个似是而非的伪问题。</span><span class="english">This is a specious puppet.</span></p>
 
 <p><span class="chinese">又用似是而非、伪善的借口。</span><span class="english">And, with pretexts specious and hypocritical.</span></p>

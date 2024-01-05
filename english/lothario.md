@@ -1,5 +1,7 @@
 # lothario
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lothario.md)
+
 <p><span class="chinese">你可以从他的眼中看出“来床上”的表情。色狼。</span><span class="english">You can see that ' come to bed ' look in his eyes. The Lothario.</span></p>
 
 <p><span class="chinese">瘦猴除了是个大饭桶，还是个大色狼。</span><span class="english">Poor clever boy besides it is a big big eater, still be a big Lothario.</span></p>

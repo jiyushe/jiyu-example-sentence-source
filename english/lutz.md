@@ -1,5 +1,7 @@
 # lutz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lutz.md)
+
 <p><span class="chinese">但是鲍勃•鲁兹就是个传说。</span><span class="english">But Bob Lutz is a legend.</span></p>
 
 <p><span class="chinese">Lutz先生认为“我们必须要保持耐心。</span><span class="english">“We have tobe patient, ” Mr. Lutz said.</span></p>

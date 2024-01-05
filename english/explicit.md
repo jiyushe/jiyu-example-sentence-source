@@ -1,5 +1,7 @@
 # explicit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/explicit.md)
+
 <p><span class="chinese">华生明确地指出了这一点。</span><span class="english">And Watson was explicit.</span></p>
 
 <p><span class="chinese">要超越显形知识。</span><span class="english">Go beyond explicit knowledge.</span></p>

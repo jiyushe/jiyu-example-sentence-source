@@ -1,5 +1,7 @@
 # 天南地北
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiannandibei.md)
+
 <p><span class="chinese">虽然他们通讯清楚而且天南地北地聊，但是得有耐心。</span><span class="english">Although they had some clear and extensive conversations, they had to be patient.</span></p>
 
 <p><span class="chinese">这些美食来自天南地北，从西非到亚洲，意味著每个人都可以分享自己喜欢的食物。</span><span class="english">Foods from West Africa to Asia mean that there is something for everyone to enjoy.</span></p>

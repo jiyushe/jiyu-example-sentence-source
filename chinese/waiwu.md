@@ -1,5 +1,7 @@
 # 外侮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waiwu.md)
+
 <p><span class="chinese">张学良和平统一观的基本内涵是“息内争、御外侮”。</span><span class="english">Changs viewpoint of peaceful unification is "ending civil war and resisting foreign aggression".</span></p>
 
 <p><span class="chinese">他强调只有保持国家统一，才能形成抵御外侮的联合阵线。</span><span class="english">He stressed that maintaining national unity was the prerequisite for resisting foreign aggression.</span></p>

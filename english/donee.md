@@ -1,5 +1,7 @@
 # donee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/donee.md)
+
 <p><span class="chinese">就赠与而言，赠物本身要交付给受赠人。</span><span class="english">In the case of a gift the thing itself passes to the donee.</span></p>
 
 <p><span class="chinese">捐献者和被捐献者存在某种对立的利益关系，明白了？</span><span class="english">The donor and the donee sort of have opposing interests, right?</span></p>

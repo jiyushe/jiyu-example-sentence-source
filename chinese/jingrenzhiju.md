@@ -1,5 +1,7 @@
 # 惊人之举
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingrenzhiju.md)
+
 <p><span class="chinese">上帝成就了件惊人之举。</span><span class="english">So, God had done something terrific.</span></p>
 
 <p><span class="chinese">没有人事先知道她在舞台上有那样的惊人之举。</span><span class="english">No one had prior knowledge of her stunt on the stage.</span></p>

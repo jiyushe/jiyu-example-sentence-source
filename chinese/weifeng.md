@@ -1,5 +1,7 @@
 # 微风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weifeng.md)
+
 <p><span class="chinese">微风拂动着我的发丝。</span><span class="english">The wind blew my hair.</span></p>
 
 <p><span class="chinese">微风吹拂我的头发。</span><span class="english">A breeze stirred my hair.</span></p>

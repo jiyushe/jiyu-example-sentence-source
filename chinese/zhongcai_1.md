@@ -1,5 +1,7 @@
 # 仲裁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongcai_1.md)
+
 <p><span class="chinese">他充任仲裁人。</span><span class="english">He acted as arbiter.</span></p>
 
 <p><span class="chinese">仲裁对他们不利。</span><span class="english">The arbitration is against them.</span></p>

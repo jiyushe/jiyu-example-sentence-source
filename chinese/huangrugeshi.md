@@ -1,5 +1,7 @@
 # 恍如隔世
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huangrugeshi.md)
+
 <p><span class="chinese">云气漫山，随风四散，恍如隔世。</span><span class="english">The mist was scattered over the mountain by the wind.</span></p>
 
 <p><span class="chinese">保罗好像与现代社会恍如隔世。</span><span class="english">Paul showed he was out of touch with the modern world.</span></p>

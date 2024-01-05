@@ -1,5 +1,7 @@
 # adit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adit.md)
+
 <p><span class="chinese">我们立即领取了头盔及头灯，准备下矿洞探险。</span><span class="english">We immediately got our helmet and headlight and go down the adit.</span></p>
 
 <p><span class="chinese">丹佛科罗拉多大学的研究人员博士艾迪·金德在一份声明中说道。</span><span class="english">Adit Ginde of the University of Colorado Denver, one of the researchers, said in a statement.</span></p>

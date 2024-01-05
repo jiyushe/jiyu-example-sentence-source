@@ -1,5 +1,7 @@
 # 嫉妒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jidu.md)
+
 <p><span class="chinese">我真是要嫉妒你了！</span><span class="english">I really envy you!</span></p>
 
 <p><span class="chinese">关于多到令人嫉妒的财富。</span><span class="english">ON ENVYING WEALTH.</span></p>

@@ -1,5 +1,7 @@
 # 迎刃而解
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingrenerjie.md)
+
 <p><span class="chinese">新一代的统计学家让这一问题迎刃而解。</span><span class="english">The new breed of statisticians tackle that problem.</span></p>
 
 <p><span class="chinese">欧帕机器人伴侣的诞生，使一切沉重的问题都迎刃而解。</span><span class="english">With Ompa, all the heavy problems can be easily solved!</span></p>

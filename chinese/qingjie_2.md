@@ -1,5 +1,7 @@
 # 轻捷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingjie_2.md)
+
 <p><span class="chinese">他们轻捷地跳过了小溪。</span><span class="english">They leaped lightly oer the stream.</span></p>
 
 <p><span class="chinese">他们轻捷地跳过了小溪。</span><span class="english">They leaped lightly over the stream.</span></p>

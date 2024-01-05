@@ -1,5 +1,7 @@
 # Presbyterian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/presbyterian.md)
+
 <p><span class="chinese">第一长老教会在必新泽西。</span><span class="english">First Presbyterian Church in Pitman , New Jersey.</span></p>
 
 <p><span class="chinese">最近，在美景镇的长老会教堂，举行了一场婚礼。</span><span class="english">There was a wedding recently, at Fairview presbyterian church.</span></p>

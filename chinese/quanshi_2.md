@@ -1,5 +1,7 @@
 # 权势
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanshi_2.md)
+
 <p><span class="chinese">与有权势的男人同居的女人。</span><span class="english">A woman who cohabits with a man.</span></p>
 
 <p><span class="chinese">黑暗权势不能把我骚扰。</span><span class="english">No powers of darkness me molest.</span></p>

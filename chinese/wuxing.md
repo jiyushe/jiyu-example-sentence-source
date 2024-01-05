@@ -1,5 +1,7 @@
 # 五刑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuxing.md)
+
 <p><span class="chinese">五刑是中国古代的统治者用来统治人民的刑罚。</span><span class="english">The five chief forms of punishment in ancient China.</span></p>
 
 <p><span class="chinese">中国古代五刑主要分为奴隶制五刑和封建制五刑。</span><span class="english">It includes five penalties of slavery and five penalties of feudalism.</span></p>

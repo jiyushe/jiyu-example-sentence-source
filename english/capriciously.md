@@ -1,5 +1,7 @@
 # capriciously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capriciously.md)
+
 <p><span class="chinese">因为爱，也发现自己可以变得那么的温柔，不再任性。</span><span class="english">Because of love, I can be sweet, not capriciously.</span></p>
 
 <p><span class="chinese">现在雨变成了一股急流，随着一阵阵骤风四面八方地猛冲。</span><span class="english">The rain now becomes a torrent flung capriciously by a rising wind.</span></p>

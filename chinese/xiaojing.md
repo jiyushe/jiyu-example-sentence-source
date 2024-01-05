@@ -1,5 +1,7 @@
 # 孝敬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaojing.md)
+
 <p><span class="chinese">不仅如此，还要孝敬父母。</span><span class="english">Not only that, but your parents.</span></p>
 
 <p><span class="chinese">孝敬，尊敬父母是每个子女都应尽的责任和义务！</span><span class="english">Youth's first duty is reverence to parents.</span></p>

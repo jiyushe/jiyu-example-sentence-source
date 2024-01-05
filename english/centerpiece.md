@@ -1,5 +1,7 @@
 # centerpiece
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/centerpiece.md)
+
 <p><span class="chinese">展馆的核心展品是法国的花园。</span><span class="english">Gardens are the centerpiece of the pavilion.</span></p>
 
 <p><span class="chinese">“对于我，”她说，“核心问题就是改名字。”</span><span class="english">“For me, ” she said, “the centerpiece was the name change.”</span></p>

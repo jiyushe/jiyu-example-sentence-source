@@ -1,5 +1,7 @@
 # fitment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fitment.md)
+
 <p><span class="chinese">我公司现在有个装修顾问。</span><span class="english">My company is now have an fitment advisor.</span></p>
 
 <p><span class="chinese">这些问题的存在，影响到室内装修污染的救济。</span><span class="english">The existing problems affect the remedy of indoor fitment pollution.</span></p>

@@ -1,5 +1,7 @@
 # begotten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/begotten.md)
+
 <p><span class="chinese">荧光屏技术的进步诞生了超级尺寸的显示器。</span><span class="english">Advances in screen know-how have begotten super-sharp displays.</span></p>
 
 <p><span class="chinese">神的独生子降世后就同时是神是人直到永远。</span><span class="english">Ever since coming to the world, God's only begotten Son is both God and man forever.</span></p>

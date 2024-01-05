@@ -1,5 +1,7 @@
 # decker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decker.md)
+
 <p><span class="chinese">总统控告德克尔。</span><span class="english">President Sue Decker.</span></p>
 
 <p><span class="chinese">琳娜德克尔一直作为一个魅力模型自2010。</span><span class="english">Leanna Decker has been working as a glamour model since 2010.</span></p>

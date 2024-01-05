@@ -1,5 +1,7 @@
 # eocene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eocene.md)
+
 <p><span class="chinese">它侵入始新世砂岩。</span><span class="english">It intruded Eocene sandstones.</span></p>
 
 <p><span class="chinese">东海陆架盆地下第三系进一步细划出38个四级层序。</span><span class="english">The Eocene is subdivided into 38 fourth-order sequences.</span></p>

@@ -1,5 +1,7 @@
 # 花萼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huae.md)
+
 <p><span class="chinese">苞片和花萼星状毡毛状。</span><span class="english">Bracts and calyx stellate pannose.</span></p>
 
 <p><span class="chinese">花萼围绕在花瓣的外层。</span><span class="english">Calyx encloses an unopened flower bud.</span></p>

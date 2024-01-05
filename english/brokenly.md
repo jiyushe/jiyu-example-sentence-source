@@ -1,5 +1,7 @@
 # brokenly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brokenly.md)
+
 <p><span class="chinese">你说你伤心流泪了！</span><span class="english">You said you were cry brokenly.</span></p>
 
 <p><span class="chinese">“我已经祈祷过了，”他断续说。</span><span class="english">"I have prayed, " he said brokenly.</span></p>

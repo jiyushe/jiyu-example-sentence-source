@@ -1,5 +1,7 @@
 # chronic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chronic.md)
+
 <p><span class="chinese">慢性心脏疾病咋办？</span><span class="english">Chronic heart disease?</span></p>
 
 <p><span class="chinese">他患了慢性咳嗽。</span><span class="english">He had a chronic cough.</span></p>

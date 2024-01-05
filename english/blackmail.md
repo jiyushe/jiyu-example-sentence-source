@@ -1,5 +1,7 @@
 # blackmail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blackmail.md)
+
 <p><span class="chinese">这就是情感敲诈。</span><span class="english">This is emotional blackmail.</span></p>
 
 <p><span class="chinese">这个夜盗开始向她勒索。</span><span class="english">The burglar began to blackmail her.</span></p>

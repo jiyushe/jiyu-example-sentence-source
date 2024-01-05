@@ -1,5 +1,7 @@
 # jacquard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jacquard.md)
+
 <p><span class="chinese">这项发明被命名为雅卡尔织布机。</span><span class="english">The invention came to be known as the Jacquard loom.</span></p>
 
 <p><span class="chinese">提花的织锦面料设计性感的夜晚。</span><span class="english">The broche fabrics of jacquard weave designs sexy night.</span></p>

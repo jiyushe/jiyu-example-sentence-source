@@ -1,5 +1,7 @@
 # workout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/workout.md)
+
 <p><span class="chinese">你必要去疏通陶冶一下。</span><span class="english">You need to workout.</span></p>
 
 <p><span class="chinese">这是什么样的锻炼呢?</span><span class="english">What kind of workout is this?</span></p>

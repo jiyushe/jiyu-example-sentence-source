@@ -1,5 +1,7 @@
 # bureaux
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bureaux.md)
+
 <p><span class="chinese">相对而言，气象局的职位则没有那么受欢迎。</span><span class="english">Positions at weather bureaux are the least popular.</span></p>
 
 <p><span class="chinese">一些业主简单地认为这仅仅是公安局从我们身上赚钱。</span><span class="english">Some owners simply think this is for the public security bureaux to make money from us.</span></p>

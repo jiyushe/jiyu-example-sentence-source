@@ -1,5 +1,7 @@
 # ostrich
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ostrich.md)
+
 <p><span class="chinese">哟，鸵鸟蛋。</span><span class="english">Wow, ostrich eggs.</span></p>
 
 <p><span class="chinese">由鸵鸟蛋制造。</span><span class="english">Made from ostrich eggs.</span></p>

@@ -1,5 +1,7 @@
 # 疗养院
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liaoyangyuan.md)
+
 <p><span class="chinese">靠疗养院靠海。</span><span class="english">The sanatorium stands by the sea.</span></p>
 
 <p><span class="chinese">疗养院里九十多岁的居民。</span><span class="english">The nonagenarian inhabitants of the '.</span></p>

@@ -1,5 +1,7 @@
 # 瞬息万变
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shunxiwanbian.md)
+
 <p><span class="chinese">命运瞬息万变，令人目眩。</span><span class="english">Fortunes change with dizzy abruptness.</span></p>
 
 <p><span class="chinese">外面世界是瞬息万变的。</span><span class="english">The objective world is constantly changing.</span></p>

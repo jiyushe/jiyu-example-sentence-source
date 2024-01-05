@@ -1,5 +1,7 @@
 # consider 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consider.md)
+
 <p><span class="chinese">比如,创造力</span><span class="english">Consider creativity.</span></p>
 
 <p><span class="chinese">考虑银行劫案。</span><span class="english">Consider bank-robbing.</span></p>

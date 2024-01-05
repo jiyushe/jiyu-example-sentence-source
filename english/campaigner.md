@@ -1,5 +1,7 @@
 # campaigner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/campaigner.md)
+
 <p><span class="chinese">和奥巴马一样，里根也是一个很好的演讲家和社会活动家。</span><span class="english">And like Obama, Reagan was a good speechmaker and campaigner.</span></p>
 
 <p><span class="chinese">斯加皮罗极力推行美国商业使用更为严厉的规章制度。</span><span class="english">Mr Schapiro is a campaigner for tougher regulation of American business.</span></p>

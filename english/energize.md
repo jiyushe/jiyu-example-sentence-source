@@ -1,5 +1,7 @@
 # energize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/energize.md)
+
 <p><span class="chinese">这种自由能让你生龙活虎。</span><span class="english">This freedom can energize you.</span></p>
 
 <p><span class="chinese">他们希望他能为他们的党带来活力。</span><span class="english">They hope he helps energize their party.</span></p>

@@ -1,5 +1,7 @@
 # 接受
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieshou.md)
+
 <p><span class="chinese">接受失败。</span><span class="english">Accept defeat.</span></p>
 
 <p><span class="chinese">我接受这些了。</span><span class="english">I accept that.</span></p>

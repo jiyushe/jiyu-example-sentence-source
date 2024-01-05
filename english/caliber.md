@@ -1,5 +1,7 @@
 # caliber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caliber.md)
+
 <p><span class="chinese">敌人只配备了短口径的枪。</span><span class="english">The enemy was armed only with low caliber guns.</span></p>
 
 <p><span class="chinese">你能用iPhone射出.45口径的子弹吗？</span><span class="english">Can you shoot a .45 caliber bullet out of your iPhone?</span></p>

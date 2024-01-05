@@ -1,5 +1,7 @@
 # gentile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gentile.md)
+
 <p><span class="chinese">叶忒罗是属神的还是外邦人？</span><span class="english">Was Jethro of God or gentile?</span></p>
 
 <p><span class="chinese">他称之为“移位假说。</span><span class="english">Gentile calls this the "displacement hypothesis.</span></p>

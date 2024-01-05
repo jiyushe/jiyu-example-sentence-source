@@ -1,5 +1,7 @@
 # squama
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/squama.md)
+
 <p><span class="chinese">在鳞片上轻轻一按，鳞片就会脱落。</span><span class="english">Squama will fall off when push it.</span></p>
 
 <p><span class="chinese">长鳞的带鱼确实罕见，不错！顶！！！</span><span class="english">Rare hairtail with long squama , not bad! Push! ! !</span></p>

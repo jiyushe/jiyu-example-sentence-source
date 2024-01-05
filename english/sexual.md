@@ -1,5 +1,7 @@
 # sexual 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sexual.md)
+
 <p><span class="chinese">好色的性兴趣？</span><span class="english">Prurient sexual interest?</span></p>
 
 <p><span class="chinese">什么是性诱惑？</span><span class="english">What is Sexual attraction?</span></p>

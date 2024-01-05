@@ -1,5 +1,7 @@
 # recrudesce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recrudesce.md)
+
 <p><span class="chinese">单纯复发性疱疹如何治疗?。</span><span class="english">How is bleb of pure recrudesce sex treated?</span></p>
 
 <p><span class="chinese">为什么长时间蹲着，再起来后会感到头晕呢？</span><span class="english">Why crouching for long, does the meeting after recrudesce comes feel giddy?</span></p>

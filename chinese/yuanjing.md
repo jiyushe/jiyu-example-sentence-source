@@ -1,5 +1,7 @@
 # 远景
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanjing.md)
+
 <p><span class="chinese">远景还是幻想?</span><span class="english">Future or Fantasy?</span></p>
 
 <p><span class="chinese">和铁塔来张远景合照吧。</span><span class="english">Far view with tower.</span></p>

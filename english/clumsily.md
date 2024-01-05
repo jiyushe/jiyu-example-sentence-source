@@ -1,5 +1,7 @@
 # clumsily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clumsily.md)
+
 <p><span class="chinese">他在雪地里艰难地行走。</span><span class="english">He walked clumsily in the snow.</span></p>
 
 <p><span class="chinese">笨拙愚鲁，自堵去路?。</span><span class="english">Who clumsily blocks his own way?</span></p>

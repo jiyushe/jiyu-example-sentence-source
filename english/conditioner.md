@@ -1,5 +1,7 @@
 # conditioner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conditioner.md)
+
 <p><span class="chinese">我需要那种护发素。</span><span class="english">I need the conditioner.</span></p>
 
 <p><span class="chinese">你用润丝精吗？</span><span class="english">Do you use hair conditioner?</span></p>

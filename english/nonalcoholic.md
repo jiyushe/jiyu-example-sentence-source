@@ -1,5 +1,7 @@
 # nonalcoholic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonalcoholic.md)
+
 <p><span class="chinese">目的分析非酒精性脂肪肝病的临床特点。</span><span class="english">Objective To analyse clinical features of nonalcoholic fatty liver.</span></p>
 
 <p><span class="chinese">每种无酒精饮料和食物都能满足你的水分摄入要求。</span><span class="english">Any nonalcoholic beverages and even foods help you meet your hydration needs.</span></p>

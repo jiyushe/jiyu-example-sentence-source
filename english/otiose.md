@@ -1,5 +1,7 @@
 # otiose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/otiose.md)
+
 <p><span class="chinese">因为抛弃了不必要的包袱，生活才会更美好。</span><span class="english">Because abandon otiose burden, the life would be more fine.</span></p>
 
 <p><span class="chinese">在校期间学了的知识，可以说基本上没有用的。</span><span class="english">In the knowledge that learned during school can say basically otiose.</span></p>

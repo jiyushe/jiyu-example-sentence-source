@@ -1,5 +1,7 @@
 # poorness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poorness.md)
+
 <p><span class="chinese">由于土地贫瘠而无法耕作。</span><span class="english">The poorness of the land makes farming impossible.</span></p>
 
 <p><span class="chinese">您知道有些人为了摆脱贫穷，宁愿去死。</span><span class="english">Some people are willing to die because of poorness.</span></p>

@@ -1,5 +1,7 @@
 # 对照
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duizhao.md)
+
 <p><span class="chinese">另设对照组。</span><span class="english">There was a control group.</span></p>
 
 <p><span class="chinese">右股骨作为对照。</span><span class="english">Right femora acted as controls.</span></p>

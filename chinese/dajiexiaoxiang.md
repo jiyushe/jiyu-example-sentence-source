@@ -1,5 +1,7 @@
 # 大街小巷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dajiexiaoxiang.md)
+
 <p><span class="chinese">供出租的汽车则停放在城市的大街小巷。</span><span class="english">Cars are parked throughout their city.</span></p>
 
 <p><span class="chinese">相反，它来自于的黎波里的大街小巷。</span><span class="english">It will be in the avenues and alleys of Tripoli.</span></p>

@@ -1,5 +1,7 @@
 # marla
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marla.md)
+
 <p><span class="chinese">只有玛拉知道这些。</span><span class="english">Only Marla knows this.</span></p>
 
 <p><span class="chinese">我问玛拉，我叫什么名字。</span><span class="english">I ask Marla what my name is.</span></p>

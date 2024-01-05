@@ -1,5 +1,7 @@
 # 转瞬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanshun.md)
+
 <p><span class="chinese">缐我就像你生命中划过的流星，转瞬即逝。</span><span class="english">I like your life across the meteor, fleeting.</span></p>
 
 <p><span class="chinese">人类生机勃勃的家园，转瞬之间惨不忍睹。</span><span class="english">Human vibrant homes, Zhuanshun between appalling.</span></p>

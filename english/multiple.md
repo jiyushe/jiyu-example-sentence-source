@@ -1,5 +1,7 @@
 # multiple
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multiple.md)
+
 <p><span class="chinese">选择多个生命线。</span><span class="english">Select multiple lifelines.</span></p>
 
 <p><span class="chinese">有很多作者。</span><span class="english">There are multiple authors.</span></p>

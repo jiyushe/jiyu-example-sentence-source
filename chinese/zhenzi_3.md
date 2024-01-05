@@ -1,5 +1,7 @@
 # 镇子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenzi_3.md)
+
 <p><span class="chinese">镇子变化很大。</span><span class="english">The town had changed a lot.</span></p>
 
 <p><span class="chinese">他们住在用栅栏围起的镇子里。</span><span class="english">They lived in a palisaded town.</span></p>

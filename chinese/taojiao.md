@@ -1,5 +1,7 @@
 # 讨教
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taojiao.md)
+
 <p><span class="chinese">以后少不得要去向您讨教。</span><span class="english">I may have to ask for your advice later on.</span></p>
 
 <p><span class="chinese">那你为什么不向你爸爸讨教讨教怎么搭帐篷?。</span><span class="english">Well, why didn't you ask your dad how to build a tent?</span></p>

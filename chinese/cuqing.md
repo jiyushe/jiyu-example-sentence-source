@@ -1,5 +1,7 @@
 # 促请
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuqing.md)
+
 <p><span class="chinese">波卡涅拉促请市议会维护与威尼斯的和平。</span><span class="english">Boccanegra urges the city council to preserve peace with Venice.</span></p>
 
 <p><span class="chinese">他也促请内阁谴责慕沙发表具有威胁性的言论。</span><span class="english">Teng urged the Cabinet to censure Musa for making such a threat.</span></p>

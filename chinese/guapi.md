@@ -1,5 +1,7 @@
 # 瓜皮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guapi.md)
+
 <p><span class="chinese">这些地瓜皮给你拿去喂猪用。</span><span class="english">Take these sweet potato peels to feed the pigs.</span></p>
 
 <p><span class="chinese">记得一定要吃瓜皮，因为大部分瓜氨酸都在瓜皮里。</span><span class="english">Remember to eat the rind, since this is where most of the citrulline is found.</span></p>

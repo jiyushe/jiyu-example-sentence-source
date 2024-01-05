@@ -1,5 +1,7 @@
 # dossier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dossier.md)
+
 <p><span class="chinese">建立站场技术档案，及时更新技术资料。</span><span class="english">Build technical dossier of station and it in time.</span></p>
 
 <p><span class="chinese">张毅指着文件柜里的一排档案卷宗说。</span><span class="english">Chang pointed to a row of file cabinets file dossier said.</span></p>

@@ -1,5 +1,7 @@
 # 谷子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guzi_1.md)
+
 <p><span class="chinese">谷子已种上了。</span><span class="english">The grain has swon.</span></p>
 
 <p><span class="chinese">让我们回家去吃谷子吧。</span><span class="english">Let's go home to eat millet.</span></p>

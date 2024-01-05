@@ -1,5 +1,7 @@
 # 陈列室
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenlieshi.md)
+
 <p><span class="chinese">他们将不会有陈列室。</span><span class="english">They will not have showrooms.</span></p>
 
 <p><span class="chinese">我看见一个男孩在货品陈列室行窃。</span><span class="english">I saw a boy thieving in the showroom.</span></p>

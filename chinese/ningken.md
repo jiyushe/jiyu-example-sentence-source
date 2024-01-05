@@ -1,5 +1,7 @@
 # 宁肯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ningken.md)
+
 <p><span class="chinese">他宁肯不吃，也不愿借债。</span><span class="english">Rather than borrow, he went without food.</span></p>
 
 <p><span class="chinese">她似乎宁肯坐那辆简陋寒酸的马车。</span><span class="english">She would have preferred the humble cart.</span></p>

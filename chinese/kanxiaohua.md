@@ -1,5 +1,7 @@
 # 看笑话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kanxiaohua.md)
+
 <p><span class="chinese">倒是让皇太后看笑话了。</span><span class="english">Pour is show empress dowager joke.</span></p>
 
 <p><span class="chinese">我就像看笑话一样、看着自己。</span><span class="english">I like see a joke, look at yourself.</span></p>

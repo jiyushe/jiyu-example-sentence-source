@@ -1,5 +1,7 @@
 # revitalize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revitalize.md)
+
 <p><span class="chinese">公民社会如何为西九注入动力？</span><span class="english">How should civil society energize and revitalize WKCD?</span></p>
 
 <p><span class="chinese">这是使底特律学校复兴的项目的一部分。</span><span class="english">It's all part of a program to revitalize Detroit schools.</span></p>

@@ -1,5 +1,7 @@
 # reconnect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reconnect.md)
+
 <p><span class="chinese">你们再次相遇，再次结合。</span><span class="english">You re-meet, reconnect.</span></p>
 
 <p><span class="chinese">可以替我重新接通吗？</span><span class="english">Could you reconnect me, please?</span></p>

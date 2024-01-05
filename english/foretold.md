@@ -1,5 +1,7 @@
 # foretold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foretold.md)
+
 <p><span class="chinese">所有先知都是这样宣告的。</span><span class="english">It was foretold by all the seers.</span></p>
 
 <p><span class="chinese">我预言的时刻已经来了。</span><span class="english">That which I foretold has come to pass.</span></p>

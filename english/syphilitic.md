@@ -1,5 +1,7 @@
 # syphilitic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/syphilitic.md)
+
 <p><span class="chinese">结果有16例梅毒患者脑脊液存在梅毒抗体。</span><span class="english">Results 16 syphilitic had one or more than one treponemal antibodies in CSF.</span></p>
 
 <p><span class="chinese">梅毒被治愈的人对新的梅毒感染有免疫能力。</span><span class="english">People who have been cured of syphilis are immune to new syphilitic infections.</span></p>

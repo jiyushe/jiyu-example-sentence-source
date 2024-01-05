@@ -1,5 +1,7 @@
 # emphatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emphatic.md)
+
 <p><span class="chinese">他用一个加强语气的'不'字回答了这个问题。</span><span class="english">He answered the question with an emphatic 'No'.</span></p>
 
 <p><span class="chinese">他很坚决地摇头，拒绝了我的要求。</span><span class="english">He rejected my request with an emphatic shake of his head.</span></p>

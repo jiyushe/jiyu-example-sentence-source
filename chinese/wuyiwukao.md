@@ -1,5 +1,7 @@
 # 无依无靠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuyiwukao.md)
+
 <p><span class="chinese">我发先自己无依无靠，无家可归。</span><span class="english">I found myself homeless and alone.</span></p>
 
 <p><span class="chinese">无依无靠者的朋友啊！我已孑然一身！</span><span class="english">Friend of the friendless! I am friendless.</span></p>

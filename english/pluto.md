@@ -1,5 +1,7 @@
 # pluto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pluto.md)
+
 <p><span class="chinese">布鲁托是一只狗。</span><span class="english">Pluto is a dog.</span></p>
 
 <p><span class="chinese">布鲁托爱她。</span><span class="english">Pluto loves her.</span></p>

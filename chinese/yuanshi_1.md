@@ -1,5 +1,7 @@
 # 远视
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanshi_1.md)
+
 <p><span class="chinese">我们通常天生远视。</span><span class="english">We are normally born farsighted.</span></p>
 
 <p><span class="chinese">画面大，远视强这两个特点是相联系的。</span><span class="english">Large screen, high hyperopia, these two features are linked.</span></p>

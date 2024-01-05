@@ -1,5 +1,7 @@
 # Englishman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/englishman.md)
+
 <p><span class="chinese">他是在场的唯一一名英国人。</span><span class="english">He was the only Englishman present.</span></p>
 
 <p><span class="chinese">“不，我是来参观的，”聂赫留朵夫说。</span><span class="english">"What is he saying?" asked the Englishman.</span></p>

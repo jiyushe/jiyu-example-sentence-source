@@ -1,5 +1,7 @@
 # homomorphism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homomorphism.md)
+
 <p><span class="chinese">最后，研究了粗糙集的同态问题。</span><span class="english">Finally, the homomorphism issues on Rough sets are discussed.</span></p>
 
 <p><span class="chinese">本文首先定义了两个拟环之间的模糊同态映射。</span><span class="english">The concept of fuzzy homomorphism between two near-ring was defined.</span></p>

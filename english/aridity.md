@@ -1,5 +1,7 @@
 # aridity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aridity.md)
+
 <p><span class="chinese">不只因为它的乏味，不只因为它的平淡。</span><span class="english">Not only because of the aridity and wateriness.</span></p>
 
 <p><span class="chinese">这个在阿拉伯世界的趋势将趋向于干燥。</span><span class="english">The trend in the Arab world leans towards aridity.</span></p>

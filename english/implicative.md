@@ -1,5 +1,7 @@
 # implicative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/implicative.md)
+
 <p><span class="chinese">中国人是内敛的，含蓄的。</span><span class="english">Chinese are inside collect, implicative.</span></p>
 
 <p><span class="chinese">结论CT能确定出血部位和累及范围。</span><span class="english">Conclusion CT can define the site of hemorrhage and implicative range.</span></p>

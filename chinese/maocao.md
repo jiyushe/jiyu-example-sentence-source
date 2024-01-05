@@ -1,5 +1,7 @@
 # 毛糙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maocao.md)
+
 <p><span class="chinese">猫的舌面是毛糙的。</span><span class="english">A cat's tongue is rough.</span></p>
 
 <p><span class="chinese">你做事总这么毛糙。</span><span class="english">You are always so careless.</span></p>

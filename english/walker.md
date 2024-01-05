@@ -1,5 +1,7 @@
 # walker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/walker.md)
+
 <p><span class="chinese">我是个专注的步行者。</span><span class="english">I'm a keen walker.</span></p>
 
 <p><span class="chinese">他不需要助行架。</span><span class="english">He needed no walker.</span></p>

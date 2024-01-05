@@ -1,5 +1,7 @@
 # unfair
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unfair.md)
+
 <p><span class="chinese">但这是不公正的。</span><span class="english">But that was unfair.</span></p>
 
 <p><span class="chinese">未免也太不公平吧？</span><span class="english">Also too is rather unfair?</span></p>

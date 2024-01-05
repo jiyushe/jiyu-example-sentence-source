@@ -1,5 +1,7 @@
 # producibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/producibility.md)
+
 <p><span class="chinese">探讨了动力学过程的再现性。</span><span class="english">A producibility of kinetic process was investigated.</span></p>
 
 <p><span class="chinese">基于对引信设计的可生产性考虑，开发了工艺与成本分析软件。</span><span class="english">The process and cost analysis software is designed for producibility of fuzes.</span></p>

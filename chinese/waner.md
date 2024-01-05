@@ -1,5 +1,7 @@
 # 玩儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waner.md)
+
 <p><span class="chinese">说得对，这个真好玩儿。</span><span class="english">Yes, this is really fun.</span></p>
 
 <p><span class="chinese">谁邀请邦尼一起玩儿？</span><span class="english">Who asked Boonie to play?</span></p>

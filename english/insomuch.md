@@ -1,5 +1,7 @@
 # insomuch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insomuch.md)
+
 <p><span class="chinese">我干得很快，半小时内就把活儿做完了。</span><span class="english">I worked very fast, insomuch that I was through in half an hour.</span></p>
 
 <p><span class="chinese">由于被告已经坦白了，法官就不会严厉惩罚他。</span><span class="english">Insomuch as the accused had confessed, the judge would not punish him severely.</span></p>

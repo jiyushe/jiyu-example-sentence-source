@@ -1,5 +1,7 @@
 # 礼让
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lirang.md)
+
 <p><span class="chinese">礼让有助于更安全驾驶。</span><span class="english">Courtesy makes for safer driving.</span></p>
 
 <p><span class="chinese">礼让有先行权的车子。</span><span class="english">Yield to vehicles who have the right of way.</span></p>

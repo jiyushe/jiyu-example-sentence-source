@@ -1,5 +1,7 @@
 # carousel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carousel.md)
+
 <p><span class="chinese">之后我们去坐旋转木马。</span><span class="english">Later we got on the carousel.</span></p>
 
 <p><span class="chinese">沿着向下的轨道引导媒质走向传送带。</span><span class="english">Guide the media down the path towards the carousel.</span></p>

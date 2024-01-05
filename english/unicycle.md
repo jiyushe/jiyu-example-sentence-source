@@ -1,5 +1,7 @@
 # unicycle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unicycle.md)
+
 <p><span class="chinese">是代表单轮脚踏车很发光和新。</span><span class="english">U is for unicycle so shiny and new.</span></p>
 
 <p><span class="chinese">杂技演员骑在独轮车上表演。</span><span class="english">The juggler performed atop a unicycle.</span></p>

@@ -1,5 +1,7 @@
 # nonfat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonfat.md)
+
 <p><span class="chinese">瑞秋，里面有没有脱脂奶？</span><span class="english">Rach, does this have nonfat milk?</span></p>
 
 <p><span class="chinese">然而，他们忍受脱脂酸奶很好。</span><span class="english">However, they tolerate nonfat yogurt very well.</span></p>

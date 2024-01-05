@@ -1,5 +1,7 @@
 # 原告
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuangao.md)
+
 <p><span class="chinese">原告被判给损失赔偿费。</span><span class="english">The plaintiff was awarded damages.</span></p>
 
 <p><span class="chinese">所有刑事原告暗示不伏罪。</span><span class="english">All the accused pleaded not guilty.</span></p>

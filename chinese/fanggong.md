@@ -1,5 +1,7 @@
 # 放工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanggong.md)
+
 <p><span class="chinese">他放工回家了吗？</span><span class="english">Is he home from work?</span></p>
 
 <p><span class="chinese">我刚放工回到家里。</span><span class="english">I just come home from work.</span></p>

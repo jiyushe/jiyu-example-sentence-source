@@ -1,5 +1,7 @@
 # bewilderment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bewilderment.md)
+
 <p><span class="chinese">他张着嘴迷惑不解地看着我。</span><span class="english">He looked at me in open-mouthed bewilderment.</span></p>
 
 <p><span class="chinese">一整天，珂赛特都处在如醉如痴的状态中。</span><span class="english">All day long, Cosette remained in a sort of bewilderment.</span></p>

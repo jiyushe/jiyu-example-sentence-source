@@ -1,5 +1,7 @@
 # 万年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wannian.md)
+
 <p><span class="chinese">万年求来的月老祝福。</span><span class="english">Million years of the matchmaker.</span></p>
 
 <p><span class="chinese">小心驶得万年船。</span><span class="english">Little things amuse little minds.</span></p>

@@ -1,5 +1,7 @@
 # awn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/awn.md)
+
 <p><span class="chinese">我见到的只是他们的背影，还有那一片黄色的麦芒。</span><span class="english">I can see only their backs, there was a yellow awn.</span></p>
 
 <p><span class="chinese">中国刑警学院的吴旭芒教授今年74岁了。</span><span class="english">Awn teaches the Wu Xu of Chinese gumshoe institute this year 74 years old.</span></p>

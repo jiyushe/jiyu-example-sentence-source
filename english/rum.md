@@ -1,5 +1,7 @@
 # rum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rum.md)
+
 <p><span class="chinese">他呷着朗姆酒。</span><span class="english">He sipped his rum.</span></p>
 
 <p><span class="chinese">甜酒我还是喜欢喝干酒。</span><span class="english">I prefer dry wine to rum.</span></p>

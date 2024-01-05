@@ -1,5 +1,7 @@
 # pragmatical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pragmatical.md)
+
 <p><span class="chinese">河道治理是传统实用的工程，是一个古老而活跃的领域。</span><span class="english">Riverway treatment is a traditional and pragmatical engineering of an ancient and active field.</span></p>
 
 <p><span class="chinese">本文论述后现代主义哲学代表人物罗蒂的实用主义文化观。</span><span class="english">The essay gives an analysis of the pragmatical cultural view of a contemporary American philosopher.</span></p>

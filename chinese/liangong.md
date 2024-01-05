@@ -1,5 +1,7 @@
 # 练功
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangong.md)
+
 <p><span class="chinese">芭蕾舞演员每天练功。</span><span class="english">Ballet dancers practise their skill every day.</span></p>
 
 <p><span class="chinese">练功时他总是要系上那块黑色的板儿带。</span><span class="english">He always ties a black strap during practice time.</span></p>

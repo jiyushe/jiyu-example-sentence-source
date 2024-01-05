@@ -1,5 +1,7 @@
 # george
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/george.md)
+
 <p><span class="chinese">再见，乔治。</span><span class="english">Goodbye, George.</span></p>
 
 <p><span class="chinese">像乔治-伯恩斯。</span><span class="english">Like George Burns.</span></p>

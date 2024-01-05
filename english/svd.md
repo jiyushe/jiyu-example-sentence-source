@@ -1,5 +1,7 @@
 # svd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/svd.md)
+
 <p><span class="chinese">SVD分解保证了算法的鲁棒性。</span><span class="english">SVD method ensured the algorithm's robustness.</span></p>
 
 <p><span class="chinese">奇异值分解的性质使得本文算法有更好的鲁棒性。</span><span class="english">The properties of SVD make our algorithm more robust.</span></p>

@@ -1,5 +1,7 @@
 # unaware
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unaware.md)
+
 <p><span class="chinese">不知道我也在那里。</span><span class="english">Unaware that I was there.</span></p>
 
 <p><span class="chinese">我们都不明真相。</span><span class="english">We are all unaware of the truth.</span></p>

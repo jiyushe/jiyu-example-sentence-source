@@ -1,5 +1,7 @@
 # futures
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/futures.md)
+
 <p><span class="chinese">他们梦想的未来是怎样的呢？</span><span class="english">What futures do they dream of?</span></p>
 
 <p><span class="chinese">期货交易不像股票那样分发股份。</span><span class="english">Futures do not trade in shares like stocks.</span></p>

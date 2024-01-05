@@ -1,5 +1,7 @@
 # 招租
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaozu.md)
+
 <p><span class="chinese">是的，这件小卧室招租。</span><span class="english">Yes, this small bed room is for rent.</span></p>
 
 <p><span class="chinese">如欲招租，请与我们联系。</span><span class="english">Please contact us for leasing opportunities.</span></p>

@@ -1,5 +1,7 @@
 # liverpudlian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liverpudlian.md)
+
 <p><span class="chinese">但作为一名土生土长的利物浦人。</span><span class="english">But as a local born and bred Liverpudlian person.</span></p>
 
 <p><span class="chinese">他是一个典型的利物浦人，就像斯蒂夫和卡拉一样。</span><span class="english">He was a typical Liverpudlian like Stevie and Carra.</span></p>

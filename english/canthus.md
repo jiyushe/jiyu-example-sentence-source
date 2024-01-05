@@ -1,5 +1,7 @@
 # canthus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/canthus.md)
+
 <p><span class="chinese">什么是开眼角手术?。</span><span class="english">What is a canthus operation?</span></p>
 
 <p><span class="chinese">一眼角作为汁液五到六次每天。</span><span class="english">One canthus take juices five to six times a day.</span></p>

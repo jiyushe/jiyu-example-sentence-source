@@ -1,5 +1,7 @@
 # purchaser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/purchaser.md)
+
 <p><span class="chinese">购买者是主要的参与者。</span><span class="english">The purchaser is the primary actor.</span></p>
 
 <p><span class="chinese">卖方须与买方签订契约。</span><span class="english">The vendor signs a contract with the purchaser.</span></p>

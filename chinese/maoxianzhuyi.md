@@ -1,5 +1,7 @@
 # 冒险主义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maoxianzhuyi.md)
+
 <p><span class="chinese">当中国开始靠近军事冒险主义时，我会担心它的动机。</span><span class="english">When China starts approaching that type of military adventurism, I will start worrying about it"s motives."</span></p>
 
 <p><span class="chinese">多年以来，它一直利用自己的否决权使得朝鲜的政治冒险主义不在联合国的议事日程上。</span><span class="english">For years it had used the threat of its veto to keep North Korean adventurism off the Security Council's agenda.</span></p>

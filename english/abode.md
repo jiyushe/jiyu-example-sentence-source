@@ -1,5 +1,7 @@
 # abode
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abode.md)
+
 <p><span class="chinese">欢迎来到我的陋室。</span><span class="english">Welcome to my humble abode.</span></p>
 
 <p><span class="chinese">这是一所无鼠害的房子。</span><span class="english">It is a abode free of mouse.</span></p>

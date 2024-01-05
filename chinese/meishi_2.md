@@ -1,5 +1,7 @@
 # 美食
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meishi_2.md)
+
 <p><span class="chinese">低卡美食亲手做！</span><span class="english">Cook up a low-cal storm!</span></p>
 
 <p><span class="chinese">这就等于是让你免费享用了中国美食，因此你会非常开心。</span><span class="english">So you will be very glad.</span></p>

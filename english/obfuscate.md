@@ -1,5 +1,7 @@
 # obfuscate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obfuscate.md)
+
 <p><span class="chinese">我必须加深这个示例的难度。</span><span class="english">I must obfuscate this example.</span></p>
 
 <p><span class="chinese">为什么？因为错误处理不应该把代码的逻辑弄得晦涩难懂。</span><span class="english">Why? Because error handling should not obfuscate the logic of the code.</span></p>

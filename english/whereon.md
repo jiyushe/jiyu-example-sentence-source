@@ -1,5 +1,7 @@
 # whereon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whereon.md)
+
 <p><span class="chinese">你看到耸立着一座塔的那座小山了吗？</span><span class="english">Have you seen the hill whereon a tower is standing?</span></p>
 
 <p><span class="chinese">从前曾有一物就在那里行走，象一朵燃烧的云。</span><span class="english">Whereon a thing once walked that seemed a burning cloud.</span></p>

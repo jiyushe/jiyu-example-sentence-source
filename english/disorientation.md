@@ -1,5 +1,7 @@
 # disorientation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disorientation.md)
+
 <p><span class="chinese">在科幻惊悚片在一个辉煌的开始迷失方向的状态。</span><span class="english">The science-fiction thriller starts in a state of glorious disorientation.</span></p>
 
 <p><span class="chinese">突然森林走廊消失了，在森林走廊里没有方向感。</span><span class="english">Suddenly the corridor of forest is gone. In its place is sheer disorientation.</span></p>

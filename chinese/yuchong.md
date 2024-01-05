@@ -1,5 +1,7 @@
 # 鱼虫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuchong.md)
+
 <p><span class="chinese">上海花鸟鱼虫市场上的一位卖家。</span><span class="english">A merchant at the Shanghai market.</span></p>
 
 <p><span class="chinese">那是沧州花鸟鱼虫的聚集地。</span><span class="english">It was the gathering Cangzhou bird fleas.</span></p>

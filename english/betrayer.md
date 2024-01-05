@@ -1,5 +1,7 @@
 # betrayer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/betrayer.md)
+
 <p><span class="chinese">圣光得背叛者！</span><span class="english">Betrayer of the light!</span></p>
 
 <p><span class="chinese">我的血亲和我的背叛者。</span><span class="english">My blood and my betrayer.</span></p>

@@ -1,5 +1,7 @@
 # officialdom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/officialdom.md)
+
 <p><span class="chinese">我们谈论他的宦海沉浮。</span><span class="english">We talked about his ups and downs in officialdom.</span></p>
 
 <p><span class="chinese">揣摩上心是官场的基本原则。</span><span class="english">Surmising the heart is the basic principle of officialdom.</span></p>

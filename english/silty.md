@@ -1,5 +1,7 @@
 # silty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/silty.md)
+
 <p><span class="chinese">土质为肥沃的粘土。</span><span class="english">The soils are primarily silty loam.</span></p>
 
 <p><span class="chinese">果肉橙黄亮丽、粉质、风味佳。</span><span class="english">Pulp orange bright beautiful, silty and flavor.</span></p>

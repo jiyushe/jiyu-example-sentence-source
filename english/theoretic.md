@@ -1,5 +1,7 @@
 # theoretic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theoretic.md)
+
 <p><span class="chinese">从理论上说，或许是这样吧。</span><span class="english">From theoretic say, maybe so.</span></p>
 
 <p><span class="chinese">第二部分为释明权相关理论研究。</span><span class="english">Chapter Tw the theoretic study of the interpretation right.</span></p>

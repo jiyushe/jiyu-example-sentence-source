@@ -1,5 +1,7 @@
 # pestle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pestle.md)
+
 <p><span class="chinese">他自己动手用研钵和杵把冰糖研成粉。</span><span class="english">He ground the rock candy with a mortar and pestle.</span></p>
 
 <p><span class="chinese">研磨，捣碎用作杵和臼来制作一种牙科用混合物的过程。</span><span class="english">The composing of a dental amalgam by mortar and pestle.</span></p>

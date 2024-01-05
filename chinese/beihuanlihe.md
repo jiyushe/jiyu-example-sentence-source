@@ -1,5 +1,7 @@
 # 悲欢离合
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beihuanlihe.md)
+
 <p><span class="chinese">花开花落皆为景，悲欢离合都是歌。</span><span class="english">Whispering flowers were King, nor are songs.</span></p>
 
 <p><span class="chinese">你们的悲欢离合是我兵荒马乱的悲伤。</span><span class="english">I Beihuanchige is your earth-shaking sadness.</span></p>

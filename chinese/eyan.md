@@ -1,5 +1,7 @@
 # 恶言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/eyan.md)
+
 <p><span class="chinese">现在却要付出辛苦劳作，忍受恶言相向。</span><span class="english">Now it takes hard work.</span></p>
 
 <p><span class="chinese">口出恶言，加禁一周。</span><span class="english">Add another week for blasphemy.</span></p>

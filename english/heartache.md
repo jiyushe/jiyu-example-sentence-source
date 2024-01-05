@@ -1,5 +1,7 @@
 # heartache
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heartache.md)
+
 <p><span class="chinese">心痛和头痛。</span><span class="english">Heartache and Headache.</span></p>
 
 <p><span class="chinese">很快这种心伤将！！！</span><span class="english">Such heartache would soon! ! !</span></p>

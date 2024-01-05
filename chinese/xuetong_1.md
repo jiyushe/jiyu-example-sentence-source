@@ -1,5 +1,7 @@
 # 血统
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuetong_1.md)
+
 <p><span class="chinese">他是纯血统的毛利人。</span><span class="english">He's a full-blooded maori.</span></p>
 
 <p><span class="chinese">我有阿喀留斯的贵族血统。</span><span class="english">I am of Achilles' royal blood.</span></p>

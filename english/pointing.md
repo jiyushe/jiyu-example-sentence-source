@@ -1,5 +1,7 @@
 # pointing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pointing.md)
+
 <p><span class="chinese">指向了3和。</span><span class="english">I'm pointing at 3 and 5.</span></p>
 
 <p><span class="chinese">你看到了我指的地方吗？</span><span class="english">Do you see where I’m pointing?</span></p>

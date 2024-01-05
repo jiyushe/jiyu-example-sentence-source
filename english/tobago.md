@@ -1,5 +1,7 @@
 # tobago
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tobago.md)
+
 <p><span class="chinese">特多首都西班牙港市圣克莱尔区亚历山德拉街39号。</span><span class="english">Alexandra St. , St. Clair, Port of Spain, Trinidad and Tobago.</span></p>
 
 <p><span class="chinese">多巴哥一家小旅店的餐厅提供了一个泳池旁的座位。</span><span class="english">The dining room of a small hotel on Tobago offers a poolside seat.</span></p>

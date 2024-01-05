@@ -1,5 +1,7 @@
 # perplexity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perplexity.md)
+
 <p><span class="chinese">陈旧的困惑，空瘪的钱袋。</span><span class="english">That old perplexity an empty purse.</span></p>
 
 <p><span class="chinese">他困窘得直抓头皮。</span><span class="english">He scratched his head in perplexity.</span></p>

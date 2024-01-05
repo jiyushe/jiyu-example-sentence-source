@@ -1,5 +1,7 @@
 # driver 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/driver.md)
+
 <p><span class="chinese">他是一个司机。</span><span class="english">He e's a driver.</span></p>
 
 <p><span class="chinese">或者一位赛车手。</span><span class="english">Or a race car driver.</span></p>

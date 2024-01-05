@@ -1,5 +1,7 @@
 # 完事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanshi_1.md)
+
 <p><span class="chinese">“我没有Hafez那么乐观，以为按个按钮就完事了，”他说，“还有很多事情要做。”</span><span class="english">A lot of work has to be done.</span></p>
 
 <p><span class="chinese">她总算完事了。</span><span class="english">She has eventually finished the job.</span></p>

@@ -1,5 +1,7 @@
 # summation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/summation.md)
+
 <p><span class="chinese">可是阿诺德如此热情的总结很快就被人们忘在了脑后。</span><span class="english">Arnold’s summation was soon forgotten.</span></p>
 
 <p><span class="chinese">在戏剧性的沉默之后，这位律师作完了她的总述。</span><span class="english">After a dramatic pause, the lawyer finished her summation.</span></p>

@@ -1,5 +1,7 @@
 # ludwig
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ludwig.md)
+
 <p><span class="chinese">路德维格福克斯是合伙人。</span><span class="english">Ludwig Fox is the co-founder.</span></p>
 
 <p><span class="chinese">路德维希·伯埃姆是一位吹玻璃工。</span><span class="english">Ludwig Boehm was a glassblower.</span></p>

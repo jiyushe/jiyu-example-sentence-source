@@ -1,5 +1,7 @@
 # adolescent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adolescent.md)
+
 <p><span class="chinese">他领导了青少年方面的研究。</span><span class="english">He led the adolescent side of the study.</span></p>
 
 <p><span class="chinese">你不能再有这么多懵懂的梦想。</span><span class="english">You can’t have all these adolescent dreams.</span></p>

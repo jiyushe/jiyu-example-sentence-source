@@ -1,5 +1,7 @@
 # tightfisted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tightfisted.md)
+
 <p><span class="chinese">他很吝啬…</span><span class="english">He's very tightfisted.</span></p>
 
 <p><span class="chinese">他很吝啬。她老板是个一毛不拔的人。</span><span class="english">He's very tightfisted. 8. Her boss is a skinflint.</span></p>

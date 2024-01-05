@@ -1,5 +1,7 @@
 # sulfite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sulfite.md)
+
 <p><span class="chinese">钴的萃取被亚硫酸盐离子遮蔽。</span><span class="english">Extraction of cobalt was masked by sulfite ion.</span></p>
 
 <p><span class="chinese">硫酸铵对稻草亚硫酸钾蒸煮有不利影响。</span><span class="english">Ammonium sulfate is against potassium sulfite pulping of rice straw.</span></p>

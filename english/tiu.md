@@ -1,5 +1,7 @@
 # tiu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tiu.md)
+
 <p><span class="chinese">前往调景岭的列车即将到达。</span><span class="english">The train for Tiu Keng Leng is arriving.</span></p>
 
 <p><span class="chinese">往油麻地列车即将到达，请先让车上乘客落车。</span><span class="english">The train to Tiu Keng Leng is arriving. Please let passenger exit first.</span></p>

@@ -1,5 +1,7 @@
 # 全日制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanrizhi.md)
+
 <p><span class="chinese">你需要进行全日制课程的学习。</span><span class="english">You need to study a full-time degree.</span></p>
 
 <p><span class="chinese">找到一份全日制工作不容易。</span><span class="english">It's not easy to find a full-time job.</span></p>

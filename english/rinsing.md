@@ -1,5 +1,7 @@
 # rinsing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rinsing.md)
+
 <p><span class="chinese">我是个可怜的女孩，在这里漂洗线团。</span><span class="english">I am a poor girl, and I am rinsing yarn.</span></p>
 
 <p><span class="chinese">若不慎进入眼睛，请立刻用清水冲洗干净。</span><span class="english">Wash with rinsing when it gets into the eyes.</span></p>

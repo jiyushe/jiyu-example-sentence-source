@@ -1,5 +1,7 @@
 # bowstring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bowstring.md)
+
 <p><span class="chinese">弓弦绷得很紧。</span><span class="english">The bowstring is stretched taut.</span></p>
 
 <p><span class="chinese">生命是一张弓，那弓弦是梦想。</span><span class="english">Life is a bow , bowstring is the dream.</span></p>

@@ -1,5 +1,7 @@
 # indifferent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indifferent.md)
+
 <p><span class="chinese">他是个手艺平平的厨师。</span><span class="english">He is an indifferent cook.</span></p>
 
 <p><span class="chinese">他只淡然一笑。</span><span class="english">He only smiled indifferent.</span></p>

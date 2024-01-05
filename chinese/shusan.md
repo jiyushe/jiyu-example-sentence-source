@@ -1,5 +1,7 @@
 # 疏散
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shusan.md)
+
 <p><span class="chinese">政府已经疏散了海岸地区的民众。</span><span class="english">Officials are evacuating all coastal areas.</span></p>
 
 <p><span class="chinese">打开大门，疏散圣彼得广场的人群。</span><span class="english">Open the doors, evacuate St. Peters square.</span></p>

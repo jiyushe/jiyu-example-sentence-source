@@ -1,5 +1,7 @@
 # weatherability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weatherability.md)
+
 <p><span class="chinese">无皂硅丙乳液的耐候性、耐水性等优良。</span><span class="english">The weatherability and water resistance of the emulsion are better.</span></p>
 
 <p><span class="chinese">该面漆具有优良的耐候性能和防腐蚀性能。</span><span class="english">The obtained topcoat shows good weatherability and anti -corrosion property.</span></p>

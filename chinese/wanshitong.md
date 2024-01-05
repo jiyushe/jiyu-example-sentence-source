@@ -1,5 +1,7 @@
 # 万事通
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanshitong.md)
+
 <p><span class="chinese">一个标准的瞎眼万事通。</span><span class="english">A regular blind jack-of-all-trades.</span></p>
 
 <p><span class="chinese">不要想着成为万事通，去成为某一样事的专家。</span><span class="english">Don't try to be a jack of all trades, become a master of one.</span></p>

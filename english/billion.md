@@ -1,5 +1,7 @@
 # billion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/billion.md)
+
 <p><span class="chinese">只说了大概一万遍。</span><span class="english">Only about a billion times.</span></p>
 
 <p><span class="chinese">中国有十三亿人口。</span><span class="english">China has 1.3 billion people.</span></p>

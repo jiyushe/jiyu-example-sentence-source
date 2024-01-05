@@ -1,5 +1,7 @@
 # donetsk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/donetsk.md)
+
 <p><span class="chinese">周二晚上，在顿涅茨克，你打进关键一球。</span><span class="english">You scored an important goal Tuesday night against Shakhtar in Donetsk.</span></p>
 
 <p><span class="chinese">安切洛蒂很欣赏球队在顿涅茨克所表现出的执行战术的能力。</span><span class="english">Carlo Ancelotti enjoyed a lot the tactical order of the team at Donetsk.</span></p>

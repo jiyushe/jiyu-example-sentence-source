@@ -1,5 +1,7 @@
 # 指控
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhikong.md)
+
 <p><span class="chinese">指控还是没有？</span><span class="english">In charge or not?</span></p>
 
 <p><span class="chinese">他否认了这项指控。</span><span class="english">He denies the charges.</span></p>

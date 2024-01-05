@@ -1,5 +1,7 @@
 # 欢乐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanle.md)
+
 <p><span class="chinese">欢乐或苦难的熬煎。</span><span class="english">Of joy or sorrow.</span></p>
 
 <p><span class="chinese">呵鸟雀的欢乐！</span><span class="english">Oh joy of the birds!</span></p>

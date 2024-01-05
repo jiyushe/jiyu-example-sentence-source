@@ -1,5 +1,7 @@
 # propitiate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/propitiate.md)
+
 <p><span class="chinese">一种宗教中的所有的神。</span><span class="english">Propitiate the gods with a sacrifice.</span></p>
 
 <p><span class="chinese">他们供奉祭品以求神息怒。</span><span class="english">They offered sacrifices to propitiate the god.</span></p>

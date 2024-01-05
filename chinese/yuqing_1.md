@@ -1,5 +1,7 @@
 # 雨情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuqing_1.md)
+
 <p><span class="chinese">防汛等各部门将继续密切跟踪雨情变化，采取有力措施，确保防汛排涝工作万无一失。</span><span class="english">Flood control and related departments shall follow closely the raining situations and take forceful measures to ensure the success of flood control.</span></p>
 
 <p><span class="chinese">本文以柴河水库为例，详细地介绍了水库雨情自动测报系统的风险分析方法，首次将“重现期法”、“安全系数法”引进到水库雨情自动测报系统的风险分析中。</span><span class="english">The paper introduces the risk analysis method of automatic measure and forecast system of reservoir rain regime in greater detail with example of Caihe reservoir.</span></p>

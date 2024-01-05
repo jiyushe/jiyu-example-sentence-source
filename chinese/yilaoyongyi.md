@@ -1,5 +1,7 @@
 # 一劳永逸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yilaoyongyi.md)
+
 <p><span class="chinese">这并非一件一劳永逸的事情。</span><span class="english">This is not an one-time event.</span></p>
 
 <p><span class="chinese">我们已经一劳永逸地解决了这个问题。</span><span class="english">We have solved this problem once for all.</span></p>

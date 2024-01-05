@@ -1,5 +1,7 @@
 # ethambutol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ethambutol.md)
+
 <p><span class="chinese">其它两种药物是乙胺丁醇和吡嗪酰胺。</span><span class="english">The other two medicines are Ethambutol and Pyrazinamide.</span></p>
 
 <p><span class="chinese">此类药物包括克拉霉素，阿奇霉素，乙胺丁醇和利福布丁。</span><span class="english">Such drugs include clarithromycin, azithromycin, ethambutol and rifabutin.</span></p>

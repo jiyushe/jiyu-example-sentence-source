@@ -1,5 +1,7 @@
 # ascaris
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ascaris.md)
+
 <p><span class="chinese">与蛔虫、鞭虫感染无明显的交叉反应。</span><span class="english">No cross reactions with ascaris lumbricoides and trichuris were observed.</span></p>
 
 <p><span class="chinese">成年人结肠取出的蛔虫团，为重度感染。</span><span class="english">This is a ball of Ascaris lumbricoides worms removed from the colon of an adult.</span></p>

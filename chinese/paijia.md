@@ -1,5 +1,7 @@
 # 牌价
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paijia.md)
+
 <p><span class="chinese">今天美元兑人民币的牌价是六点一六。</span><span class="english">The rate today is 6. 16 yuan to the dollar.</span></p>
 
 <p><span class="chinese">明天的兑换牌价在那边的牌子上。</span><span class="english">The rates of exchange are on the board there.</span></p>

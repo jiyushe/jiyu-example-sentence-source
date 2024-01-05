@@ -1,5 +1,7 @@
 # delamination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/delamination.md)
+
 <p><span class="chinese">分层上碴和整道。</span><span class="english">Adding and settling of ballast in delamination.</span></p>
 
 <p><span class="chinese">断头处的介面引力将引起分层。</span><span class="english">Interfacial tractions at the broken ends will produce delamination.</span></p>

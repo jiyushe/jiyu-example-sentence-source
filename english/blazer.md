@@ -1,5 +1,7 @@
 # blazer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blazer.md)
+
 <p><span class="chinese">布雷泽从不相信命运。</span><span class="english">Blazer never believed in destiny.</span></p>
 
 <p><span class="chinese">他穿一件黑色运动夹克，脚蹬白色耐克鞋。</span><span class="english">He was wearing a black blazer and white Nikes.</span></p>

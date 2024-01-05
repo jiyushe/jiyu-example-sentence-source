@@ -1,5 +1,7 @@
 # 工夫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongfu_1.md)
+
 <p><span class="chinese">她可能一会儿的工夫就反反复复唠叨好几遍，但她记起来了。</span><span class="english">But she remembers.</span></p>
 
 <p><span class="chinese">我们有一整天的閒工夫吗？</span><span class="english">Do we have all day?</span></p>

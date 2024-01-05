@@ -1,5 +1,7 @@
 # distensibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distensibility.md)
+
 <p><span class="chinese">权利天生具有扩张性，知识产权也不例外。</span><span class="english">Right has distensibility naturally, so does the IPR.</span></p>
 
 <p><span class="chinese">游离氧化钙是造成转炉渣膨胀的主要因素。</span><span class="english">Free CaO is the main factor affecting the distensibility of slag.</span></p>

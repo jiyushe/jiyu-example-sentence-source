@@ -1,5 +1,7 @@
 # brew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brew.md)
+
 <p><span class="chinese">泡一杯鼠尾草茶。</span><span class="english">Brew a cup of sage tea.</span></p>
 
 <p><span class="chinese">自酿苦酒自己饮。</span><span class="english">One must drink as one brew.</span></p>

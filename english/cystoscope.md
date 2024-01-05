@@ -1,5 +1,7 @@
 # cystoscope
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cystoscope.md)
+
 <p><span class="chinese">结果42例患者均经尿道途径完成腔内碎石，无并发症发生。</span><span class="english">Result all 42 patients completed lithotripsy through cystoscope with no complications.</span></p>
 
 <p><span class="chinese">方法通过膀胱镜输尿管插管引流尿液使肾盂压力降低。</span><span class="english">Methods The pelvis pressure was reduced through urine drainage from catheter under cystoscope.</span></p>

@@ -1,5 +1,7 @@
 # 推翻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuifan.md)
+
 <p><span class="chinese">政府已被推翻。</span><span class="english">The govenment has fallen.</span></p>
 
 <p><span class="chinese">他们很可能推翻选举结果。</span><span class="english">They may well overturn the result.</span></p>

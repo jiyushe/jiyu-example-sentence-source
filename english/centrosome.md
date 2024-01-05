@@ -1,5 +1,7 @@
 # centrosome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/centrosome.md)
+
 <p><span class="chinese">属于或与细胞的中心体有关。</span><span class="english">The entire cell aster with the exception of the centrosome.</span></p>
 
 <p><span class="chinese">因此，肿瘤细胞基因不稳定与中心体异常密切相关。</span><span class="english">Therefore, tumor cell gene instability and centrosome abnormalities are closely related to.</span></p>

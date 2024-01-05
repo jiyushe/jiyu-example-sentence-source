@@ -1,5 +1,7 @@
 # stirrer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stirrer.md)
+
 <p><span class="chinese">如果可以，考虑一下饮料吸管或者搅咖啡的杓子。</span><span class="english">Instead, chew on a drinking straw or a coffee stirrer.</span></p>
 
 <p><span class="chinese">这台机器搅拌器已连续工作好几小时了。</span><span class="english">The mechanical stirrer has been working for several hours.</span></p>

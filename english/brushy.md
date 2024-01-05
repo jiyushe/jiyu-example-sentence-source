@@ -1,5 +1,7 @@
 # brushy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brushy.md)
+
 <p><span class="chinese">他从桥下游过，游向灌木丛中的家里。</span><span class="english">He swam under the bridge to his brushy home.</span></p>
 
 <p><span class="chinese">因为那些毛茸茸的玩偶实在是太可爱了。</span><span class="english">Because those brushy doll are too lovely really.</span></p>

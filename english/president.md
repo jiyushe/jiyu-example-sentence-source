@@ -1,5 +1,7 @@
 # president 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/president.md)
+
 <p><span class="chinese">总统控告德克尔。</span><span class="english">President Sue Decker.</span></p>
 
 <p><span class="chinese">总统同意了。</span><span class="english">The president agreed.</span></p>

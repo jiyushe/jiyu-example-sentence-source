@@ -1,5 +1,7 @@
 # rickets
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rickets.md)
+
 <p><span class="chinese">佝偻病现在很少见了。</span><span class="english">Rickets is quite rare now.</span></p>
 
 <p><span class="chinese">换句话说，越来越多的英国孩子得了软骨病。</span><span class="english">In other words, they’ve got rickets.</span></p>

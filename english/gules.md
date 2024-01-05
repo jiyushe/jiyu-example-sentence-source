@@ -1,5 +1,7 @@
 # gules
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gules.md)
+
 <p><span class="chinese">小枝红色或暗褐色。</span><span class="english">Gules or rod is dark Brown.</span></p>
 
 <p><span class="chinese">嫩枝红色，老枝棕红色。</span><span class="english">Burgeon red, old branch palm is gules.</span></p>

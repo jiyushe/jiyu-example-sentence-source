@@ -1,5 +1,7 @@
 # peril
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peril.md)
+
 <p><span class="chinese">我们相信这个是危险的。</span><span class="english">We believe this at our peril.</span></p>
 
 <p><span class="chinese">但如果你敢小看他，那你可得风险自负。</span><span class="english">But underestimate him at your peril.</span></p>

@@ -1,5 +1,7 @@
 # 铁心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiexin_1.md)
+
 <p><span class="chinese">铁心自动插入机“，”</span><span class="english">Automatic Core Lapping Machines.</span></p>
 
 <p><span class="chinese">剩磁装置可包括铁心壳和衔铁。</span><span class="english">The residual magnetic devices can include a core housing and an armature.</span></p>

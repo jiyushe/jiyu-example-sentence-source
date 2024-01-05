@@ -1,5 +1,7 @@
 # isotropic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isotropic.md)
+
 <p><span class="chinese">分析计算结果表明该传感器是力与力矩解耦和各向同性的。</span><span class="english">The results show that the sensor is decoupled and isotropic.</span></p>
 
 <p><span class="chinese">这两个解随着时间的增长将趋于五维膨胀各向同性宇宙模型。</span><span class="english">With the lapse of time, the two models approach isotropic expansion.</span></p>

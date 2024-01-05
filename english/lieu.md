@@ -1,5 +1,7 @@
 # lieu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lieu.md)
+
 <p><span class="chinese">阿玉的薪水就是铁路公司发给她的“猫粮”。</span><span class="english">The company feeds her in lieu of salary.</span></p>
 
 <p><span class="chinese">为表诚意，我把我的心给你，也就算做给你的小费吧。</span><span class="english">In lieu of gratuity, I leave you my heart.</span></p>

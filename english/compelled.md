@@ -1,5 +1,7 @@
 # compelled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compelled.md)
+
 <p><span class="chinese">什么都是被逼出来的。</span><span class="english">What all is to be compelled out.</span></p>
 
 <p><span class="chinese">布鲁内尔被迫承认失败。</span><span class="english">Brunel was compelled to admit failure.</span></p>

@@ -1,5 +1,7 @@
 # lamination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lamination.md)
+
 <p><span class="chinese">从来没有装饰材料，以最终大小之前层压。</span><span class="english">Never trim materials to final size prior to lamination.</span></p>
 
 <p><span class="chinese">但是叠层结构使得玻璃的制造过程十分繁复。</span><span class="english">But lamination makes fabricating glass for structural uses very difficult.</span></p>

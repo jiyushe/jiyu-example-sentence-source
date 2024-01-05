@@ -1,5 +1,7 @@
 # 派生词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paishengci.md)
+
 <p><span class="chinese">第二章是关于名祖名词的派生词。</span><span class="english">Chapter Two is about the derivatives of eponyms.</span></p>
 
 <p><span class="chinese">这是个派生词，你能指出它的词根吗？</span><span class="english">This word is a derivative. Can you point out its root?</span></p>

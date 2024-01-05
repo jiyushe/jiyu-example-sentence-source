@@ -1,5 +1,7 @@
 # hypodermic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypodermic.md)
+
 <p><span class="chinese">皮下水肿则使皮肤显得苍白。</span><span class="english">Hypodermic oedema makes the skin appears cadaverous.</span></p>
 
 <p><span class="chinese">她熟练地把注射针插入我的静脉里。</span><span class="english">She expertly slid the hypodermic needle into my vein.</span></p>

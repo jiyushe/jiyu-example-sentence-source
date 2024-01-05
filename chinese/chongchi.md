@@ -1,5 +1,7 @@
 # 充斥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongchi.md)
+
 <p><span class="chinese">我们已经变成一个充斥软脚虾的国家。</span><span class="english">We've become a nation of wussies.</span></p>
 
 <p><span class="chinese">市场上充斥着水果。</span><span class="english">The market was glutted with fruit.</span></p>

@@ -1,5 +1,7 @@
 # 推辞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuici.md)
+
 <p><span class="chinese">不要推辞义务。</span><span class="english">Don't shirk your responsibility.</span></p>
 
 <p><span class="chinese">马德兰伯伯又推辞了十字勋章。</span><span class="english">Father Madeleine refused the cross.</span></p>

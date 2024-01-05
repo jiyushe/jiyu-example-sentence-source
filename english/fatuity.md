@@ -1,5 +1,7 @@
 # fatuity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fatuity.md)
+
 <p><span class="chinese">这无疑是摆脱混乱与愚味的第一步。</span><span class="english">This is no doubt the first step out of confusion and fatuity.</span></p>
 
 <p><span class="chinese">这无疑是摆脱混乱与愚味的第一步。</span><span class="english">This is no doubt the first step out of confusion and fatuity.</span></p>

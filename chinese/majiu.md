@@ -1,5 +1,7 @@
 # 马厩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/majiu.md)
+
 <p><span class="chinese">大卫打开了马厩的门。</span><span class="english">David opened the stable door.</span></p>
 
 <p><span class="chinese">它看起来就像一间真正的马厩。</span><span class="english">It's just like a real stable.</span></p>

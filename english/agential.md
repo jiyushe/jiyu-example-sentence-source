@@ -1,5 +1,7 @@
 # agential
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agential.md)
+
 <p><span class="chinese">本文研究的目的是为企业建立一套具有实效性的代理招聘体系。</span><span class="english">The study is to set up an effective agential hiring system for enterprises.</span></p>
 
 <p><span class="chinese">使代理商网站宣传成本变高，且效果很不好，难以盈利。</span><span class="english">Make agential website publicizes cost to become tall, and the result is very bad, hard gain.</span></p>

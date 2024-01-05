@@ -1,5 +1,7 @@
 # 锡箔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xibo_1.md)
+
 <p><span class="chinese">你可以用锡箔纸裹住它。</span><span class="english">You can wrap it up in tinfoil.</span></p>
 
 <p><span class="chinese">要我的锡箔纸帽吗？</span><span class="english">Would you like my tin-foil hat?</span></p>

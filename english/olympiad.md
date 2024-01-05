@@ -1,5 +1,7 @@
 # olympiad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/olympiad.md)
+
 <p><span class="chinese">我会在奥运会期间常来更新我的博客的。</span><span class="english">P. S. I'll update it always during the Olympiad.</span></p>
 
 <p><span class="chinese">这标志着历史上第一个奥林比亚德的开始。</span><span class="english">This marked the beginning of the first Olympiad.</span></p>

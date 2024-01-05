@@ -1,5 +1,7 @@
 # polymorphous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polymorphous.md)
+
 <p><span class="chinese">多形红斑怎么才能根治？急切！！！</span><span class="english">How can polymorphous erythema just effect a radical cure? Be agog ! ! !</span></p>
 
 <p><span class="chinese">弗洛伊德美其名曰“多形性反常“,即追求纯粹的快乐。</span><span class="english">Freud had this wonderful phrase, "polymorphous perversity," this pure desire for pleasure.</span></p>

@@ -1,5 +1,7 @@
 # potash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/potash.md)
+
 <p><span class="chinese">这就是苛性钾。</span><span class="english">This is potash.</span></p>
 
 <p><span class="chinese">加钾盘后股价上涨.</span><span class="english">Potash Corp stock rose in after-hours trade.</span></p>

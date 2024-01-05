@@ -1,5 +1,7 @@
 # 品茗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinming_1.md)
+
 <p><span class="chinese">我喜好品茗不喜欢喝咖啡。</span><span class="english">I prefer tea to coffee.</span></p>
 
 <p><span class="chinese">吃茶品茗没有是个好风俗。</span><span class="english">Tea is not a good habit.</span></p>

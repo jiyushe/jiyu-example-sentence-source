@@ -1,5 +1,7 @@
 # jacksonian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jacksonian.md)
+
 <p><span class="chinese">这是杰克逊式民主的胜利。</span><span class="english">This was the triumph of Jacksonian democracy.</span></p>
 
 <p><span class="chinese">一个是，推翻了许多经济特权的杰克逊时代的民主改革。</span><span class="english">They point to the democratic reforms of the Jacksonian Era, which struck down many economic prerogatives.</span></p>

@@ -1,5 +1,7 @@
 # 茶水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chashui.md)
+
 <p><span class="chinese">我不能带她的茶水了！</span><span class="english">I can not strip her panty off!</span></p>
 
 <p><span class="chinese">她的爱亦如茶水一般，淡淡的，清清的。</span><span class="english">Her love is like tea, light, empty.</span></p>

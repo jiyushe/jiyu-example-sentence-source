@@ -1,5 +1,7 @@
 # kochi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kochi.md)
+
 <p><span class="chinese">一高知高专学生在学习其专业知识的同时。</span><span class="english">Kochi a high students in the learning of their professional knowledge.</span></p>
 
 <p><span class="chinese">记者就此采访了日本广播公司NHK的研究主管高知久保田。</span><span class="english">Well, here's Kochi Kubota, who's research boss of the Japanese broadcaster NHK.</span></p>

@@ -1,5 +1,7 @@
 # doorway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doorway.md)
+
 <p><span class="chinese">你们站在家门口。</span><span class="english">You stand in the doorway.</span></p>
 
 <p><span class="chinese">她冲出大门口。</span><span class="english">She burst throught the doorway.</span></p>

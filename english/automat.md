@@ -1,5 +1,7 @@
 # automat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/automat.md)
+
 <p><span class="chinese">我想从自动售货机上买东西。</span><span class="english">I need the change for the automat.</span></p>
 
 <p><span class="chinese">有人建议我们开一家郊区自助食堂。</span><span class="english">It was suggested that we open a suburban automat.</span></p>

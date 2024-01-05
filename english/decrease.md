@@ -1,5 +1,7 @@
 # decrease
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decrease.md)
+
 <p><span class="chinese">为何运动可以“降压”呢？</span><span class="english">Why does exercise decrease stress?</span></p>
 
 <p><span class="chinese">请调弱底线张力。</span><span class="english">Decrease the bobbin thread tension.</span></p>

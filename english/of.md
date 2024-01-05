@@ -1,5 +1,7 @@
 # of 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/of.md)
+
 <p><span class="chinese">太阳的梦！</span><span class="english">Of sun!</span></p>
 
 <p><span class="chinese">害怕垂死。</span><span class="english">Of dying.</span></p>

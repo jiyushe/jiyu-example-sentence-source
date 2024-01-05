@@ -1,5 +1,7 @@
 # 牙轮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yalun.md)
+
 <p><span class="chinese">对轴承密封，牙轮锁紧，喷嘴安装等也有新的意向。</span><span class="english">There is also a new Intention on bearing's seal, roller's locking and nozzle's mounting.</span></p>
 
 <p><span class="chinese">本文阐述了三牙轮钻头滑动轴承载荷的测试方法。</span><span class="english">A method of determining the load on journal bearing of three-cone bit is described in this paper.</span></p>

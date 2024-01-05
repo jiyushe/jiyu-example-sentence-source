@@ -1,5 +1,7 @@
 # inspiring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inspiring.md)
+
 <p><span class="chinese">他的谈话令人鼓舞。</span><span class="english">His talk is inspiring.</span></p>
 
 <p><span class="chinese">那让我很受激励。</span><span class="english">That's inspiring to me.</span></p>

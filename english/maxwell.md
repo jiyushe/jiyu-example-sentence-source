@@ -1,5 +1,7 @@
 # maxwell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maxwell.md)
+
 <p><span class="chinese">但是，麦克斯韦的确从这个职位受益不浅。</span><span class="english">But Maxwell did profit from his position.</span></p>
 
 <p><span class="chinese">之后不久，马克斯维尔就加盟巴萨了。</span><span class="english">And soon after that, Maxwell signed with Barça.</span></p>

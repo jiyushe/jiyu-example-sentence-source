@@ -1,5 +1,7 @@
 # 维文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiwen_1.md)
+
 <p><span class="chinese">讨论了维文手写输入法的基本研究与实现。</span><span class="english">This paper introduces the foundation of Uyghur handwriting input method, and its implementations.</span></p>
 
 <p><span class="chinese">本文主要陈述笔式维文输入电子文稿编辑器的研究情况。</span><span class="english">This paper is to state the technical research circumstance of electronic text editor of writing style.</span></p>

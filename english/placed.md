@@ -1,5 +1,7 @@
 # placed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/placed.md)
+
 <p><span class="chinese">他把小口袋放在桌上。</span><span class="english">He placed it on the table.</span></p>
 
 <p><span class="chinese">因为是他把我放进笼中。</span><span class="english">Because He placed me there.</span></p>

@@ -1,5 +1,7 @@
 # stradivarius
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stradivarius.md)
+
 <p><span class="chinese">那瓦里小提琴有什么特别的呢?。</span><span class="english">What's so special about Stradivarius violins?</span></p>
 
 <p><span class="chinese">琵琶，在古代是所有弹弦乐器的总称。</span><span class="english">Lute was the general name for all Stradivarius in ancient times.</span></p>

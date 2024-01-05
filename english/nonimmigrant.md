@@ -1,5 +1,7 @@
 # nonimmigrant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonimmigrant.md)
+
 <p><span class="chinese">如果我使用DS-160表申请非移民签证，还需要其它的表格吗？</span><span class="english">When I apply for a nonimmigrant visa using the online DS-160, are additional forms required?</span></p>
 
 <p><span class="chinese">这是一个为在个人特色领域工作的非移民准备的签证。</span><span class="english">This is a nonimmigrant non-immigrant visa for work in the person's area of special feespecialty.</span></p>

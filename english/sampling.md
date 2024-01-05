@@ -1,5 +1,7 @@
 # sampling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sampling.md)
+
 <p><span class="chinese">采样方法。</span><span class="english">Sampling method.</span></p>
 
 <p><span class="chinese">一个数据采集应已足够。</span><span class="english">A data sampling should suffice.</span></p>

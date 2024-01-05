@@ -1,5 +1,7 @@
 # laypeople
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laypeople.md)
+
 <p><span class="chinese">这是对在家同修们说的。</span><span class="english">The last prohibition is for laypeople.</span></p>
 
 <p><span class="chinese">可以这么说吗？，这是本专门为普通人写的书。</span><span class="english">Could I say that? It's meant for laypeople.</span></p>

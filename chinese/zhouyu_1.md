@@ -1,5 +1,7 @@
 # 骤雨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhouyu_1.md)
+
 <p><span class="chinese">一阵骤雨把露营者都淋湿了。</span><span class="english">A heavy shower drench the camp ers.</span></p>
 
 <p><span class="chinese">这场骤雨有可能把低洼地淹没。</span><span class="english">Rain may flood the low-lying land out.</span></p>

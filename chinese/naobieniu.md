@@ -1,5 +1,7 @@
 # 闹别扭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naobieniu.md)
+
 <p><span class="chinese">这孩子只有在生病时才会闹别扭。</span><span class="english">I was up all night with a sick child.</span></p>
 
 <p><span class="chinese">这弟兄俩又在闹别扭。</span><span class="english">The two brothers are bickering again.</span></p>

@@ -1,5 +1,7 @@
 # neurogenesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neurogenesis.md)
+
 <p><span class="chinese">那么，如何刺激神经发育呢？</span><span class="english">So how does one stimulate neurogenesis?</span></p>
 
 <p><span class="chinese">神经再生是创造新的神经元。</span><span class="english">Neurogenesis is the creation of new neurons.</span></p>

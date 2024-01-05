@@ -1,5 +1,7 @@
 # 墙脚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangjiao_1.md)
+
 <p><span class="chinese">熊熊的火焰舔舐着墙脚。</span><span class="english">Flames are licking at their walls.</span></p>
 
 <p><span class="chinese">鼹鼠在墙脚下面钻了一个洞。</span><span class="english">A mole tunneled a hole under the wall.</span></p>

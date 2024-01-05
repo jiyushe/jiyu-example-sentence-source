@@ -1,5 +1,7 @@
 # comp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comp.md)
+
 <p><span class="chinese">订购B组份原料的包装桶。</span><span class="english">Booking barrel for packaging Comp.</span></p>
 
 <p><span class="chinese">向能提供帮助的人抱怨才有用。</span><span class="english">Comp lain to one who can help you.</span></p>

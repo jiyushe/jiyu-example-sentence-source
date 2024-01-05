@@ -1,5 +1,7 @@
 # grade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grade.md)
+
 <p><span class="chinese">成绩弥补？</span><span class="english">To recover the grade?</span></p>
 
 <p><span class="chinese">请问你是几年级？</span><span class="english">What grade are you in?</span></p>

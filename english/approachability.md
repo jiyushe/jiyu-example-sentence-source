@@ -1,5 +1,7 @@
 # approachability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/approachability.md)
+
 <p><span class="chinese">你可以说，麦可的服装让他平易近人。</span><span class="english">You might say that Michael is clothed in "approachability."</span></p>
 
 <p><span class="chinese">他的滑稽动作和个性带来了一定的可接近到严峻课题。</span><span class="english">His antics and personality brought a certain approachability to a grim subject.</span></p>

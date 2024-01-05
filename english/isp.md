@@ -1,5 +1,7 @@
 # isp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isp.md)
+
 <p><span class="chinese">胡和其前网络服务供应商都设在北京。</span><span class="english">Hu and his former ISP are based in Beijing.</span></p>
 
 <p><span class="chinese">美属维尔京媒体是唯一的ISP联系，以回公众宣传局的运动，迄今。</span><span class="english">Virgin Media is the only ISP to back the BPI 's campaign thus far.</span></p>

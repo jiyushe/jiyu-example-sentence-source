@@ -1,5 +1,7 @@
 # 在制品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaizhipin.md)
+
 <p><span class="chinese">这里有两种限定在制品数量的机制。</span><span class="english">These two mechanisms limit WIP.</span></p>
 
 <p><span class="chinese">在制品的压缩因子与浸灰碱条件有相关性和规律性。</span><span class="english">Kc of limed skin was related with treating conditions.</span></p>

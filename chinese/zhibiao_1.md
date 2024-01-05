@@ -1,5 +1,7 @@
 # 治标
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhibiao_1.md)
+
 <p><span class="chinese">这样的行动是治标不治本的。</span><span class="english">Such actions are palliatives.</span></p>
 
 <p><span class="chinese">但这种债券买法治标不治本。</span><span class="english">But such bond-buying is a temporary palliative.</span></p>

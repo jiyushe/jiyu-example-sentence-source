@@ -1,5 +1,7 @@
 # 奸夫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianfu_1.md)
+
 <p><span class="chinese">她有没有奸夫？</span><span class="english">Does she have a lover?</span></p>
 
 <p><span class="chinese">你始终不肖泄露你的奸夫。</span><span class="english">Thou hast kept the secret of thy paramour.</span></p>

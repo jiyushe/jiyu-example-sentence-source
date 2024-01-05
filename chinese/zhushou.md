@@ -1,5 +1,7 @@
 # 住手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhushou.md)
+
 <p><span class="chinese">我会就此住手。</span><span class="english">I’m gonna stop.</span></p>
 
 <p><span class="chinese">再不住手，我就去告诉华夫人！</span><span class="english">Stop, or I will inform Madam!</span></p>

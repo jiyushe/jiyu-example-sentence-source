@@ -1,5 +1,7 @@
 # toddler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toddler.md)
+
 <p><span class="chinese">她在盆里给婴儿洗澡。</span><span class="english">She bathed the toddler in the tubs.</span></p>
 
 <p><span class="chinese">你让你的孩子有Froot循环？</span><span class="english">You let your toddler have Froot Loops?</span></p>

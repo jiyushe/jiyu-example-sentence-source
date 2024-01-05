@@ -1,5 +1,7 @@
 # 烦闷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanmen.md)
+
 <p><span class="chinese">我来日诰日感到很烦闷。</span><span class="english">I feel really down.</span></p>
 
 <p><span class="chinese">人们会经常感到无聊烦闷。</span><span class="english">People are often bored.</span></p>

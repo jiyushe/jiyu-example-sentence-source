@@ -1,5 +1,7 @@
 # oddly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oddly.md)
+
 <p><span class="chinese">你这么奇怪地看着我。</span><span class="english">You looked at me so oddly.</span></p>
 
 <p><span class="chinese">玛丽怪模怪样地看着汤姆。</span><span class="english">Mary looked at Tom very oddly.</span></p>

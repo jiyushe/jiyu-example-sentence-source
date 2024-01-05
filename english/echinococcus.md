@@ -1,5 +1,7 @@
 # echinococcus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/echinococcus.md)
+
 <p><span class="chinese">成熟的精子可分为头部和尾部。</span><span class="english">The mature sperm of Echinococcus granulosus was composed of head and tail.</span></p>
 
 <p><span class="chinese">异丙肌苷在体外没有迅速直接的杀虫作用。</span><span class="english">Isoprinosine hasn't quick action to against Echinococcus Multilocularis metacestodes in vitro.</span></p>

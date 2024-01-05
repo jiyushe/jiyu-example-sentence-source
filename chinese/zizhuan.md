@@ -1,5 +1,7 @@
 # 自传
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zizhuan.md)
+
 <p><span class="chinese">自传是什么？</span><span class="english">So what is autobiography?</span></p>
 
 <p><span class="chinese">我用我的自传，风唱。</span><span class="english">I use my autobiography, Windsong.</span></p>

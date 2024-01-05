@@ -1,5 +1,7 @@
 # 抗暴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kangbao.md)
+
 <p><span class="chinese">对抗暴步兵流最好的组合。</span><span class="english">Your best bet against infantry spam.</span></p>
 
 <p><span class="chinese">中国武术以其突出的格杀功能，在民族抗争史上发挥着抗暴御侮、保家卫国的重要作用。</span><span class="english">Chinese martial arts had outstanding military functions, and had been used as effective means to defend the nation.</span></p>

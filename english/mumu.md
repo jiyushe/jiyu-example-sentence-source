@@ -1,5 +1,7 @@
 # mumu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mumu.md)
+
 <p><span class="chinese">他心里还存着希望，木木终归还会回来。</span><span class="english">The hope still flickered within him that Mumu would come back.</span></p>
 
 <p><span class="chinese">我店有十年锯木经验的锯木木师。</span><span class="english">I shop with 10 years experience of sawn wood sawing Mumu division.</span></p>

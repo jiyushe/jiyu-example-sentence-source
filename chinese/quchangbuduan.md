@@ -1,5 +1,7 @@
 # 取长补短
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quchangbuduan.md)
+
 <p><span class="chinese">传统的报纸传媒如何取长补短、创新发展？</span><span class="english">How are the traditional newspaper innovated and developed?</span></p>
 
 <p><span class="chinese">不盲从是取长补短，择善而从。</span><span class="english">Is not blind obedience is each other, and accepting good advice.</span></p>

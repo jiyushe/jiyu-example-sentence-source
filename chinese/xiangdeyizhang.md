@@ -1,5 +1,7 @@
 # 相得益彰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangdeyizhang.md)
+
 <p><span class="chinese">工作和休息齐头并进，相得益彰。</span><span class="english">Work and rest go together, hand in hand.</span></p>
 
 <p><span class="chinese">一个灯两个灯几个灯一打之后，这个房子不见了，这个房子完全是个假的'，相得益彰。</span><span class="english">When several lights are done, the room disappears.</span></p>

@@ -1,5 +1,7 @@
 # indra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indra.md)
+
 <p><span class="chinese">以因陀罗在喧哗的战斗。</span><span class="english">To Indra in the tumult of battle.</span></p>
 
 <p><span class="chinese">和固体这个庞大的地球，看守因陀罗。</span><span class="english">And solid is this vast Earth, guarded by Indra.</span></p>

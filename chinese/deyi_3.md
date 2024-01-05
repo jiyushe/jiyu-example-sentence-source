@@ -1,5 +1,7 @@
 # 得益
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/deyi_3.md)
+
 <p><span class="chinese">我们可以得益于两者。</span><span class="english">We can have both.</span></p>
 
 <p><span class="chinese">再问一遍，谁从中得益了？</span><span class="english">Again, who benefits from that?</span></p>

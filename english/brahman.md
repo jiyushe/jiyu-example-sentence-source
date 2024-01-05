@@ -1,5 +1,7 @@
 # brahman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brahman.md)
+
 <p><span class="chinese">梵天超越了思想和语言。</span><span class="english">Brahman is beyond mind and speech.</span></p>
 
 <p><span class="chinese">梵天是唯一的真正存在。</span><span class="english">Brahman is the only Real Existence.</span></p>

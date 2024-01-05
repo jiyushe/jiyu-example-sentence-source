@@ -1,5 +1,7 @@
 # 骚客
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/saoke.md)
+
 <p><span class="chinese">泰山历来是画家骚客所钟情的聚集地。</span><span class="english">Mount Tai has long been the preferred gathering place for artists and poets.</span></p>
 
 <p><span class="chinese">从古至今，美丽的杭州引得无数文人骚客留恋忘返。</span><span class="english">Throughout history, the beautiful city of Hangzhou has attracted numerous literary tourists.</span></p>

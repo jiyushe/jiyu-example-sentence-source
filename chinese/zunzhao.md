@@ -1,5 +1,7 @@
 # 遵照
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zunzhao.md)
+
 <p><span class="chinese">我遵照律师的意见办理。</span><span class="english">I acted on the lawyer's advice.</span></p>
 
 <p><span class="chinese">她完全遵照她母亲的建议。</span><span class="english">She follwed out her mother's advice.</span></p>

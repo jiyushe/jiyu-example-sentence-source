@@ -1,5 +1,7 @@
 # 二副
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/erfu.md)
+
 <p><span class="chinese">签字商业发票，一正二副。中华考试网。</span><span class="english">Signed Commercial Invoice, one original and two copies.</span></p>
 
 <p><span class="chinese">它们也能携带二副480公升或720公升副油箱。</span><span class="english">They can also carry two 480 litre or 720 litre drop tanks.</span></p>

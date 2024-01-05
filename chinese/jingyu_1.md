@@ -1,5 +1,7 @@
 # 警语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingyu_1.md)
+
 <p><span class="chinese">女孩，你让我完全损失踪了警语。</span><span class="english">Girl you caught me completely off guard.</span></p>
 
 <p><span class="chinese">上载成年作品时，记得加上警语。</span><span class="english">Upload Become Aduit Works, Remember Add Warning Language.</span></p>

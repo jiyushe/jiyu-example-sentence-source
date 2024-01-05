@@ -1,5 +1,7 @@
 # 追缉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuiji_1.md)
+
 <p><span class="chinese">警方正在追缉我。</span><span class="english">The police are after me.</span></p>
 
 <p><span class="chinese">他们正在追缉一名罪犯。</span><span class="english">They are running down a criminal.</span></p>

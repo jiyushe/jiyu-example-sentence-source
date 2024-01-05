@@ -1,5 +1,7 @@
 # 挨饿受冻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aieshoudong.md)
+
 <p><span class="chinese">他挨饿受冻。</span><span class="english">He suffered from cold and hunger.</span></p>
 
 <p><span class="chinese">永永远远都不会让你挨饿受冻的。</span><span class="english">I love you, and I hope you always happy.</span></p>

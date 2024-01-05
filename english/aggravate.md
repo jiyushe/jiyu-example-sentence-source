@@ -1,5 +1,7 @@
 # aggravate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aggravate.md)
+
 <p><span class="chinese">她的问题激怒了他。</span><span class="english">Her questions aggravate him.</span></p>
 
 <p><span class="chinese">咖啡因会加重某些心脏问题。</span><span class="english">Caffeine can aggravate certain heart problems.</span></p>

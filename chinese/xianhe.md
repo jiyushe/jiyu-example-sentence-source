@@ -1,5 +1,7 @@
 # 仙鹤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianhe.md)
+
 <p><span class="chinese">仙鹤，接住了！</span><span class="english">Crane, catch!</span></p>
 
 <p><span class="chinese">灵蛇、仙鹤、金猴、螳螂。</span><span class="english">Viper! Orane! Monkey! Mantis!</span></p>

@@ -1,5 +1,7 @@
 # terbium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/terbium.md)
+
 <p><span class="chinese">本文评述了近年来铽的光度分析方法及其进展状况。</span><span class="english">In present paper, the advance of spectrophotometric analysis of terbium is described.</span></p>
 
 <p><span class="chinese">它将会增加大多数使用项目的补给量。</span><span class="english">Finding terbium and dysprosium is a big deal. It will increase supply for most applications.</span></p>

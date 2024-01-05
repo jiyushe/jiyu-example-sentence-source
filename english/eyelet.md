@@ -1,5 +1,7 @@
 # eyelet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eyelet.md)
+
 <p><span class="chinese">单，铜金属顶部的小孔和拼接细节。</span><span class="english">Single, brass-metallic top eyelet and stitching detail.</span></p>
 
 <p><span class="chinese">在底部有一个镶了黄铜小孔的排水孔。</span><span class="english">At the bottom there is a drain hole edged with a brass eyelet.</span></p>

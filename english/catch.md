@@ -1,5 +1,7 @@
 # catch 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catch.md)
+
 <p><span class="chinese">我会接住你的。</span><span class="english">I’ll catch you.</span></p>
 
 <p><span class="chinese">我们来玩抛球接球。</span><span class="english">Let's play catch.</span></p>

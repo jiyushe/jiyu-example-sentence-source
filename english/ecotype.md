@@ -1,5 +1,7 @@
 # ecotype
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ecotype.md)
+
 <p><span class="chinese">说明一般年份沈阳地区玉米螟二化性比例比一化性大。</span><span class="english">This indicated that the bivoltine ecotype was dominant in Shenyang area.</span></p>
 
 <p><span class="chinese">最后提出了发展生态型城镇的对策。</span><span class="english">Finally, countermeasures were proposed for development of the ecotype town.</span></p>

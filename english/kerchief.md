@@ -1,5 +1,7 @@
 # kerchief
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kerchief.md)
+
 <p><span class="chinese">她的围巾被油弄脏了。</span><span class="english">Her kerchief is dirty with oil.</span></p>
 
 <p><span class="chinese">她头尚带着踊块黄色的畏巾。</span><span class="english">She wore on her head a kerchief.</span></p>

@@ -1,5 +1,7 @@
 # 夹袄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaao.md)
+
 <p><span class="chinese">有棉夹袄和人造毛夹袄。</span><span class="english">With cotton pad and artificial wool pad.</span></p>
 
 <p><span class="chinese">没逛多久便看中一件碎花夹袄。</span><span class="english">How long did they fancy a stroll Floral Jiaao.</span></p>

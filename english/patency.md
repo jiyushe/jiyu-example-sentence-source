@@ -1,5 +1,7 @@
 # patency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/patency.md)
+
 <p><span class="chinese">咽鼓管的通畅被损害。</span><span class="english">The patency of the eustachian tube is compromised.</span></p>
 
 <p><span class="chinese">另外，你要给孩子检查一下奶嘴，是否通畅。</span><span class="english">In addition, you give children pacifiers check whether patency.</span></p>

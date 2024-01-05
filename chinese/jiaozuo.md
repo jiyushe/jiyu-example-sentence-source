@@ -1,5 +1,7 @@
 # 叫座
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaozuo.md)
+
 <p><span class="chinese">这部电影很叫座。</span><span class="english">The film draws well.</span></p>
 
 <p><span class="chinese">当然叫座也就成了南柯一梦。</span><span class="english">Of course it became a popular story.</span></p>

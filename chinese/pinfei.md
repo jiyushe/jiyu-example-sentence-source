@@ -1,5 +1,7 @@
 # 嫔妃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinfei.md)
+
 <p><span class="chinese">他曾经一夜间一夜召幸三十嫔妃？</span><span class="english">He had enjoyed sex with 30 imperial concubines in one night.</span></p>
 
 <p><span class="chinese">菲利普有很多的嫔妃，并最终娶了其中一个。</span><span class="english">Philip had many concubines and eventually married one of them.</span></p>

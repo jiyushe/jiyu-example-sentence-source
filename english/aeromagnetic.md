@@ -1,5 +1,7 @@
 # aeromagnetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aeromagnetic.md)
+
 <p><span class="chinese">用航磁资料研究了青海柴达木盆地中部的深部构造环境。</span><span class="english">The deep tectonics in central Tsaidam Basin has been studied with aeromagnetic date.</span></p>
 
 <p><span class="chinese">总结了金矿床上航磁梯度异常的变化规律。</span><span class="english">The features of aeromagnetic gradient anomalies about the gold deposits are summarized.</span></p>

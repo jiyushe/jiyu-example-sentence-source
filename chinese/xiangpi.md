@@ -1,5 +1,7 @@
 # 橡皮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangpi.md)
+
 <p><span class="chinese">我有一块橡皮。</span><span class="english">I have an eraser.</span></p>
 
 <p><span class="chinese">三只橡皮小黄鸭！</span><span class="english">Three yellow ducks!</span></p>

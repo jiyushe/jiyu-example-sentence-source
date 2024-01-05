@@ -1,5 +1,7 @@
 # 自然环境
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziranhuanjing.md)
+
 <p><span class="chinese">在自然环境中，他是一种温和、平静的狗。</span><span class="english">By nature he is an equable dog.</span></p>
 
 <p><span class="chinese">钦州除了自然环境优美。</span><span class="english">Apart from its beautiful natural environment.</span></p>

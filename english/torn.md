@@ -1,5 +1,7 @@
 # torn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/torn.md)
+
 <p><span class="chinese">什么都不对,我伤透了心.</span><span class="english">nothings right,i'm torn.</span></p>
 
 <p><span class="chinese">通知被人撕下来。</span><span class="english">The notice was torn down.</span></p>

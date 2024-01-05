@@ -1,5 +1,7 @@
 # 鄙视
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bishi_7.md)
+
 <p><span class="chinese">真的鄙视他们。</span><span class="english">Really despised them.</span></p>
 
 <p><span class="chinese">我们空白接受鄙视。</span><span class="english">Our blank in scorning.</span></p>

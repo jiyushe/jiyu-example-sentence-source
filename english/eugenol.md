@@ -1,5 +1,7 @@
 # eugenol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eugenol.md)
+
 <p><span class="chinese">其中含量最高的物质为丁子香酚。</span><span class="english">The highest content in the oil is eugenol.</span></p>
 
 <p><span class="chinese">裂解产物中含量最多的均为丁香酚及其同分异构体。</span><span class="english">The contents of eugenol and its isomers were most the pyrolysis.</span></p>

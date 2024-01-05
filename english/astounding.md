@@ -1,5 +1,7 @@
 # astounding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/astounding.md)
+
 <p><span class="chinese">他的技术水平令人拍案叫绝。</span><span class="english">His skill level was simply astounding.</span></p>
 
 <p><span class="chinese">正如您可以在上面看到的，其结果是令人震惊的。</span><span class="english">As you can see above, the result is astounding.</span></p>

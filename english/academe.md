@@ -1,5 +1,7 @@
 # academe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/academe.md)
+
 <p><span class="chinese">启蒙是一个很大的题目，也是当代学界研究的热点问题。</span><span class="english">Enlightenment is a charming theme, also a hotspot in nowdays" academe."</span></p>
 
 <p><span class="chinese">刑诉法再修改问题是当前学界关注的焦点问题。</span><span class="english">The re-amendment to the criminal procedure law is the focus of academe.</span></p>

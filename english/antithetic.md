@@ -1,5 +1,7 @@
 # antithetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antithetic.md)
+
 <p><span class="chinese">希望与绝望是对立的。</span><span class="english">Hope is antithetic to despair.</span></p>
 
 <p><span class="chinese">希望是与绝望对立的。</span><span class="english">Hope is antithetic to despair.</span></p>

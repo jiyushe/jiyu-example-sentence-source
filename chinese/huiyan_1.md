@@ -1,5 +1,7 @@
 # 汇演
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huiyan_1.md)
+
 <p><span class="chinese">这场汇演是里夫斯的心血结晶。</span><span class="english">The festival was the brainchild of Reeves.</span></p>
 
 <p><span class="chinese">这次的“贺新春杂技汇演”真是有意义啊！</span><span class="english">This " new acrobatic show" is really meaningful!</span></p>

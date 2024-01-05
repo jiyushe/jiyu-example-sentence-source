@@ -1,5 +1,7 @@
 # risk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/risk.md)
+
 <p><span class="chinese">不承担风险。</span><span class="english">Not risk taking.</span></p>
 
 <p><span class="chinese">他是个冒险家。</span><span class="english">He's a risk -taker.</span></p>

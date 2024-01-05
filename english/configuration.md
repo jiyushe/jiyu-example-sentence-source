@@ -1,5 +1,7 @@
 # configuration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/configuration.md)
+
 <p><span class="chinese">电子组态。</span><span class="english">Electron configuration.</span></p>
 
 <p><span class="chinese">保存配置，然后退出。</span><span class="english">Save the configuration and exit.</span></p>

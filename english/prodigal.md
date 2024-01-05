@@ -1,5 +1,7 @@
 # prodigal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prodigal.md)
+
 <p><span class="chinese">悲剧之子。</span><span class="english">The prodigal son.</span></p>
 
 <p><span class="chinese">五月里百花盛开。</span><span class="english">May is prodigal with flowers.</span></p>

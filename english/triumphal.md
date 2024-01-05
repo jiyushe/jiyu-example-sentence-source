@@ -1,5 +1,7 @@
 # triumphal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/triumphal.md)
+
 <p><span class="chinese">接着是夜晚的凯旋门。</span><span class="english">The Triumphal arch, at night.</span></p>
 
 <p><span class="chinese">十二条大街从凯旋门向外伸展出去。</span><span class="english">Twelve roads radiate from the Triumphal Arch.</span></p>

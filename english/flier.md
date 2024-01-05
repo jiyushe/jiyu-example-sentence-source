@@ -1,5 +1,7 @@
 # flier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flier.md)
+
 <p><span class="chinese">你是一位高空飞行员吗？</span><span class="english">Are you a high flier?</span></p>
 
 <p><span class="chinese">在出口处有人给我发了这张传单。</span><span class="english">Someone gave me this flier at the exit.</span></p>

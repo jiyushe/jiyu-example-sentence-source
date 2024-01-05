@@ -1,5 +1,7 @@
 # antibiotic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antibiotic.md)
+
 <p><span class="chinese">氨苄青霉素是一种抗生素</span><span class="english">Ampicillin is an antibiotic.</span></p>
 
 <p><span class="chinese">什么药物属于抗生素？</span><span class="english">What medicaments belongs to antibiotic?</span></p>

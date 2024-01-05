@@ -1,5 +1,7 @@
 # romance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/romance.md)
+
 <p><span class="chinese">好莱坞式的爱情。</span><span class="english">It's a Hollywood romance.</span></p>
 
 <p><span class="chinese">从那时起，我们的罗曼史开始了。</span><span class="english">And lo, our romance began.</span></p>

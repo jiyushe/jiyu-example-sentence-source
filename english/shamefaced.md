@@ -1,5 +1,7 @@
 # shamefaced
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shamefaced.md)
+
 <p><span class="chinese">布朗或许感到格外地羞愧。</span><span class="english">Mr brown might feel particularly shamefaced.</span></p>
 
 <p><span class="chinese">圣洁而知耻的妇女，乃无上的恩赐。</span><span class="english">A holy and shamefaced woman is grace upon grace.</span></p>

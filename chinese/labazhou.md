@@ -1,5 +1,7 @@
 # 腊八粥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/labazhou.md)
+
 <p><span class="chinese">煮腊八粥时控制好火候是关键。</span><span class="english">Controlling the heat is of great importance in making Laba porridge.</span></p>
 
 <p><span class="chinese">腊八粥在大约900年前的宋代首次引入中国。</span><span class="english">Laba rice porridge was first introduced to China in the Song Dynasty about 900 years ago.</span></p>

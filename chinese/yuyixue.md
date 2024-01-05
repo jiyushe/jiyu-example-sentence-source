@@ -1,5 +1,7 @@
 # 语义学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuyixue.md)
+
 <p><span class="chinese">第二章着重讨论了博弈论语义学。</span><span class="english">Chapter two comes to game-theoretical semantics.</span></p>
 
 <p><span class="chinese">比起其他的来，关于冥王星的行星身份的论战也许更多是语义学上的争执。</span><span class="english">planethood may be more semantic than anything else.</span></p>

@@ -1,5 +1,7 @@
 # 寒湿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanshi.md)
+
 <p><span class="chinese">抗风湿汤治疗寒湿阻络型类风湿性关节炎疗效优于对照组。</span><span class="english">The effective rate in the treatment group was superior to that in the control group.</span></p>
 
 <p><span class="chinese">采用问卷形式在各个临床点收集感冒风寒、寒湿证患者的临床资料。</span><span class="english">We collected clinical data of wind-cold type and cold-wetnesstype patients at test plot.</span></p>

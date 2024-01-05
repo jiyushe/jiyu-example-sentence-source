@@ -1,5 +1,7 @@
 # 短兵相接
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duanbingxiangjie.md)
+
 <p><span class="chinese">短兵相接，马踏敌营。</span><span class="english">Closer and closer, your Knight took my Pawn.</span></p>
 
 <p><span class="chinese">两军在战场上短兵相接。</span><span class="english">The two armies met face to face on the battlefield.</span></p>

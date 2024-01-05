@@ -1,5 +1,7 @@
 # newsletter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/newsletter.md)
+
 <p><span class="chinese">期刊是我编辑的。</span><span class="english">I edit the newsletter.</span></p>
 
 <p><span class="chinese">免费通迅。现在就报名！</span><span class="english">FREE Newsletter. Sign Up Now!</span></p>

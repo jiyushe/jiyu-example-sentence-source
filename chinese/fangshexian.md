@@ -1,5 +1,7 @@
 # 放射线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangshexian.md)
+
 <p><span class="chinese">身体经不住那么大剂量的放射线。</span><span class="english">The body cannot tolerate such large amounts of radiation.</span></p>
 
 <p><span class="chinese">放射线狙击兵芯块技术正在变得比较每个日子。</span><span class="english">Radiation Sniper SlugsTechnology is getting better each day.</span></p>

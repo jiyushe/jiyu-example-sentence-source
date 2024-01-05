@@ -1,5 +1,7 @@
 # fervor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fervor.md)
+
 <p><span class="chinese">排灯节是一个充满热情与欢乐的节日。</span><span class="english">Diwali is celebrated with fervor and gaiety.</span></p>
 
 <p><span class="chinese">爱犬悲伤的眼神总会激起我心中的热情。</span><span class="english">Any of my dog’s sad eyes always stirs the fervor in my heart.</span></p>

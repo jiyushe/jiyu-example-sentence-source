@@ -1,5 +1,7 @@
 # 幻景
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanjing.md)
+
 <p><span class="chinese">每一个明天都是有希望的幻景。</span><span class="english">And every tomorrow a vision of hope.</span></p>
 
 <p><span class="chinese">弥尔顿想把术士们放进这一幻景中。</span><span class="english">Milton wants to beat the Three Wise Men to the scene.</span></p>

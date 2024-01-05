@@ -1,5 +1,7 @@
 # alkylate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alkylate.md)
+
 <p><span class="chinese">催化裂化装置还生产大量可以用于生产优质汽油组分的气体原料。</span><span class="english">The FCC unit produces large quantity of raw materials for MTBE and alkylate producing.</span></p>
 
 <p><span class="chinese">本文介绍了一种烷基化油单体烃组成分离和测定的方法。</span><span class="english">A method for separation and determination of monomer hydrocarbon composition of alkylate was introduced.</span></p>

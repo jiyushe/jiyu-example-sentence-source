@@ -1,5 +1,7 @@
 # 细布
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xibu.md)
+
 <p><span class="chinese">革舜的长子是细布业。</span><span class="english">Of the sons of Gershom, Shebuel was the chief.</span></p>
 
 <p><span class="chinese">用双层平纹细布或干酪包布过滤混合料。</span><span class="english">Strain the mixture through a double thickness of muslin or cheesecloth.</span></p>

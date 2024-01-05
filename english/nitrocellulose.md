@@ -1,5 +1,7 @@
 # nitrocellulose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nitrocellulose.md)
+
 <p><span class="chinese">在硝化纤维素发射药中，这一点特别明显。</span><span class="english">This is particularly evident in nitrocellulose propellants.</span></p>
 
 <p><span class="chinese">在硝化纤维素发射药中，这一点特别明显。</span><span class="english">This is particularly evident in nitrocellulose propellants.</span></p>

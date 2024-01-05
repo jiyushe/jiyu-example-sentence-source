@@ -1,5 +1,7 @@
 # 揩油
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaiyou.md)
+
 <p><span class="chinese">布朗先生是个人所共知的喜欢揩油的人。</span><span class="english">Mr. Brown is known as a free loader.</span></p>
 
 <p><span class="chinese">「这以及你向人揩油差别，」她说。</span><span class="english">"It's not like you're some moocher, " she said.</span></p>

@@ -1,5 +1,7 @@
 # 雪橇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueqiao.md)
+
 <p><span class="chinese">去滑雪橇。</span><span class="english">Go sledding.</span></p>
 
 <p><span class="chinese">我是滑雪橇所需的雪。</span><span class="english">I am snow for sledding.</span></p>

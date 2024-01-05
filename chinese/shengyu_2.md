@@ -1,5 +1,7 @@
 # 声誉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengyu_2.md)
+
 <p><span class="chinese">声誉是良习的影子。</span><span class="english">Glory is the shadow of virtue.</span></p>
 
 <p><span class="chinese">马基维利值得这样的声誉吗?。</span><span class="english">Did he deserve this reputation?</span></p>

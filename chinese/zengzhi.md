@@ -1,5 +1,7 @@
 # 增殖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zengzhi.md)
+
 <p><span class="chinese">人工鱼礁增殖技术中有好多急待解决的问题。</span><span class="english">There are a lot of problems to solve.</span></p>
 
 <p><span class="chinese">结论IP是有一定增殖活性的良性肿瘤。</span><span class="english">Conclusion IP is a proliferous benign tumor.</span></p>

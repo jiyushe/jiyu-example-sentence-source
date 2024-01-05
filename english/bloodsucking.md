@@ -1,5 +1,7 @@
 # bloodsucking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bloodsucking.md)
+
 <p><span class="chinese">造成蜜蜂死亡的其它潜在因素包括吸血寄生虫和感染。</span><span class="english">Other potentialfactors include bloodsucking parasites and infections.</span></p>
 
 <p><span class="chinese">而39岁梅耶则是来英国艾塞克斯，他在剧中扮演男主角、吸血鬼比尔·坎普顿。</span><span class="english">Moyer, from Essex, England, plays bloodsucking Bill Compton on the series.</span></p>

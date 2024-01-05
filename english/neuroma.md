@@ -1,5 +1,7 @@
 # neuroma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neuroma.md)
+
 <p><span class="chinese">你可能患有叫做神经瘤的神经疾病。</span><span class="english">You may have a nerve issue called a neuroma.</span></p>
 
 <p><span class="chinese">目的总结囊性听神经瘤的临床特点及治疗效果。</span><span class="english">Objective To study the clinical features and treatment of cystic acoustic neuroma.</span></p>

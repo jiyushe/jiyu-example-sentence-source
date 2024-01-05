@@ -1,5 +1,7 @@
 # armor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/armor.md)
+
 <p><span class="chinese">增加的护甲从23点增加到25点。</span><span class="english">Armor increased to 25 from 23.</span></p>
 
 <p><span class="chinese">普通鳞甲采用金属片。</span><span class="english">Mundane scale armor uses metal plates.</span></p>

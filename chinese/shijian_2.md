@@ -1,5 +1,7 @@
 # 实践
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shijian_2.md)
+
 <p><span class="chinese">成为实践理想主义者？</span><span class="english">Be practical idealists?</span></p>
 
 <p><span class="chinese">好了，让我们来描述实践吧。</span><span class="english">Okay, on to the practices.</span></p>

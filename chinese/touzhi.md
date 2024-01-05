@@ -1,5 +1,7 @@
 # 投掷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touzhi.md)
+
 <p><span class="chinese">有没有投掷兵呢</span><span class="english">What about projectiles?</span></p>
 
 <p><span class="chinese">这是投掷兵可以重创敌军的时候了</span><span class="english">That's where they do it harm.</span></p>

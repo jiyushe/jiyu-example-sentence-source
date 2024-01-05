@@ -1,5 +1,7 @@
 # discontentment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discontentment.md)
+
 <p><span class="chinese">人的痛苦大多是源于不知足。</span><span class="english">Human agony mostly derives from discontentment.</span></p>
 
 <p><span class="chinese">希望不至于引起大家的强烈不满和鄙视，此幸，万幸。</span><span class="english">I hope it won't cause you consuming discontentment and disdain.</span></p>

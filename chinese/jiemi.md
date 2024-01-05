@@ -1,5 +1,7 @@
 # 揭秘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiemi.md)
+
 <p><span class="chinese">红酒木瓜靓汤的做法大揭秘！</span><span class="english">The practice of red wine a large papaya soup Secret!</span></p>
 
 <p><span class="chinese">德国科学家揭秘了最新一代的无人驾驶汽车。</span><span class="english">Scientists in Germany have unveiled the latest self-driven car.</span></p>

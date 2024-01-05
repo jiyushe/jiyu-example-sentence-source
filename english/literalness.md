@@ -1,5 +1,7 @@
 # literalness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/literalness.md)
+
 <p><span class="chinese">堆砌文字的时候，我喜欢用到女子。</span><span class="english">Pile up literalness for time, I like to use woman.</span></p>
 
 <p><span class="chinese">我写着这些文字的时候我依旧在心里爱着一个人。</span><span class="english">I write these literalness times me still in mind a love a person.</span></p>

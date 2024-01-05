@@ -1,5 +1,7 @@
 # contractility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contractility.md)
+
 <p><span class="chinese">记录心功能，测量心肌酶活性。</span><span class="english">Cardiac muscle contractility and enzyme were examined.</span></p>
 
 <p><span class="chinese">心肌收缩蛋白是心肌产生收缩的物质基础。</span><span class="english">Cardiac contractile proteins are the material basis of cardiac contractility.</span></p>

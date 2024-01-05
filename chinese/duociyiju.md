@@ -1,5 +1,7 @@
 # 多此一举
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duociyiju.md)
+
 <p><span class="chinese">免费是多此一举。</span><span class="english">Free is duplicable.</span></p>
 
 <p><span class="chinese">向煤区运煤，多此一举。</span><span class="english">Carry coals to Newcastle.</span></p>

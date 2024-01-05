@@ -1,5 +1,7 @@
 # 深耕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengeng.md)
+
 <p><span class="chinese">第三，要深度分销，深耕市场。</span><span class="english">Third, it requires the enterprise to classify the market.</span></p>
 
 <p><span class="chinese">我们祈许在文化出版领域中「深耕」与「伸根」。</span><span class="english">We hope to stretch the root and plow deeply in the publishing field.</span></p>

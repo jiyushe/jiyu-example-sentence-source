@@ -1,5 +1,7 @@
 # leachable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leachable.md)
+
 <p><span class="chinese">辉绿岩中氟的可淋失比例与原岩中氟含量存在正相关关系。</span><span class="english">The leachable fluorine in diabase is in direct proportion to its fluorine concentration.</span></p>
 
 <p><span class="chinese">按照该理论，我们发现了我国第一个万吨级可地浸砂岩型铀矿床。</span><span class="english">According to the theory, we found a ton of first-situ leachable sandstone-type uranium deposit.</span></p>

@@ -1,5 +1,7 @@
 # 开方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaifang_2.md)
+
 <p><span class="chinese">您是要给我开方吗？</span><span class="english">Are you prescribing medicine for me?</span></p>
 
 <p><span class="chinese">打开方纱布，泡入温水中。</span><span class="english">Open squares and soak in tepid water.</span></p>

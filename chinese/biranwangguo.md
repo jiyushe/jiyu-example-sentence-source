@@ -1,5 +1,7 @@
 # 必然王国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biranwangguo.md)
+
 <p><span class="chinese">认识和把握客观事物的规律性，是人类从必然王国走向自由王国的前提。</span><span class="english">Identifying and grasping things' natural law is the premise for man to make for the realm of freedom.</span></p>
 
 <p><span class="chinese">人类的历史，就是一个不断地从必然王国向自由王国发展的历史。</span><span class="english">History of mankind, is a continuously from the kingdom of necessity to the free kingdom of development history.</span></p>

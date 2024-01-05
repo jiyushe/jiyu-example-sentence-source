@@ -1,5 +1,7 @@
 # 某人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mouren.md)
+
 <p><span class="chinese">我给某人打电话。</span><span class="english">I'll ring sb. up.</span></p>
 
 <p><span class="chinese">向某人提供谋事的详情。</span><span class="english">Fill sb in on sth.</span></p>

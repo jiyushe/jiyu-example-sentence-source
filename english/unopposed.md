@@ -1,5 +1,7 @@
 # unopposed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unopposed.md)
+
 <p><span class="chinese">这个党派的领袖未遇反对，再次当选。</span><span class="english">The party leader was re-elected unopposed.</span></p>
 
 <p><span class="chinese">委员会一致通过再次选举他为党的领袖。</span><span class="english">The council re-elected him unopposed as party leader.</span></p>

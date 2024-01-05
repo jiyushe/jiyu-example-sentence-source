@@ -1,5 +1,7 @@
 # 体操
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ticao.md)
+
 <p><span class="chinese">体操垫。</span><span class="english">Gymnastics mats.</span></p>
 
 <p><span class="chinese">就比如，我是体操运动员，</span><span class="english">Like, I was a gymnast,</span></p>

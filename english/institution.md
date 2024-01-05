@@ -1,5 +1,7 @@
 # institution 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/institution.md)
+
 <p><span class="chinese">来代替储蓄机构这个词。</span><span class="english">to a depository institution.</span></p>
 
 <p><span class="chinese">陪审团是一种独特的制度。</span><span class="english">The jury is a unique institution.</span></p>

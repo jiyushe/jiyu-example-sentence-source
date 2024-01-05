@@ -1,5 +1,7 @@
 # 议员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyuan_2.md)
+
 <p><span class="chinese">李华明议员贝恩斯是其中之一。</span><span class="english">Fred Baines was one of them.</span></p>
 
 <p><span class="chinese">他被提名为议员候选人。</span><span class="english">He was nominated for the MP.</span></p>

@@ -1,5 +1,7 @@
 # 完婚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanhun.md)
+
 <p><span class="chinese">泰勒与艾迪在1959年完婚，1964年两人分手。</span><span class="english">They married in 1959, but divorced in 1964.</span></p>
 
 <p><span class="chinese">克瑞．怀特与杰逊·埃德嘉刚刚完婚。</span><span class="english">JUST married were Kerry White and Jason Edgar.</span></p>

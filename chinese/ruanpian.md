@@ -1,5 +1,7 @@
 # 软片
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruanpian.md)
+
 <p><span class="chinese">光线使软片上起雾翳。</span><span class="english">Light has fogged this film.</span></p>
 
 <p><span class="chinese">摄影棚内的场景可以拍到软片上。</span><span class="english">A scene in a studio can be captured on film.</span></p>

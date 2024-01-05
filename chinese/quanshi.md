@@ -1,5 +1,7 @@
 # 全食
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanshi.md)
+
 <p><span class="chinese">这次持续100分钟的全食是自2000年七月的月全食以来时间最长的一次全食。</span><span class="english">The 100-minute period of totality was the longest since July 2000.</span></p>
 
 <p><span class="chinese">当日全食食甚来临，重庆市的天空被一片黑暗笼罩。</span><span class="english">A total solar eclipse darkens the skies in Chongqing municipality in China.</span></p>

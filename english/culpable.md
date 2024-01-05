@@ -1,5 +1,7 @@
 # culpable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/culpable.md)
+
 <p><span class="chinese">但是吕萍认为刘嘉玲同样应该受到处罚。</span><span class="english">But Lu believes that Carina Lau is also culpable.</span></p>
 
 <p><span class="chinese">依我看来，至今为止他应对四粒失球负有责任。</span><span class="english">In my view, he is culpable for four goals so far.</span></p>

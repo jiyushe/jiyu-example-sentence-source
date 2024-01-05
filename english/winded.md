@@ -1,5 +1,7 @@
 # winded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/winded.md)
+
 <p><span class="chinese">猎狗闻出了有狐狸的气味。</span><span class="english">The hounds had winded the fox.</span></p>
 
 <p><span class="chinese">我们爬那个陡坡累得上气不接下气。</span><span class="english">We were winded by the steep climb.</span></p>

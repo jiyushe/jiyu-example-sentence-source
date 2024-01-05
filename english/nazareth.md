@@ -1,5 +1,7 @@
 # nazareth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nazareth.md)
+
 <p><span class="chinese">他们说，找拿撒勒人耶稣。</span><span class="english">And they said, Jesus of Nazareth.</span></p>
 
 <p><span class="chinese">除了他们还会回到拿撒勒。</span><span class="english">Except they got to go back to Nazareth.</span></p>

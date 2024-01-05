@@ -1,5 +1,7 @@
 # kilimanjaro
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kilimanjaro.md)
+
 <p><span class="chinese">她还攀登了乞力马扎罗山。</span><span class="english">She also climbed Mount Kilimanjaro.</span></p>
 
 <p><span class="chinese">这个故事叫做“乞力马扎罗雪。”</span><span class="english">The story is called "The Snows of Kilimanjaro."</span></p>

@@ -1,5 +1,7 @@
 # jumping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jumping.md)
+
 <p><span class="chinese">另一种是障碍赛马。</span><span class="english">and the show jumping.</span></p>
 
 <p><span class="chinese">蹦跳的鱼跃出水面。</span><span class="english">The jumping fish broke.</span></p>

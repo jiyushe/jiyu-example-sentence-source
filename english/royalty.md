@@ -1,5 +1,7 @@
 # royalty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/royalty.md)
+
 <p><span class="chinese">他声称跟王室有亲戚关系。</span><span class="english">He claims kindred with royalty.</span></p>
 
 <p><span class="chinese">王冠就是王权的象征。</span><span class="english">The diadem is the symbol of royalty.</span></p>

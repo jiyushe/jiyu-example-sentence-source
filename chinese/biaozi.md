@@ -1,5 +1,7 @@
 # 婊子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaozi.md)
+
 <p><span class="chinese">婊子来啊！</span><span class="english">Come on bitch!</span></p>
 
 <p><span class="chinese">杀了那婊子！</span><span class="english">Kill the fucker!</span></p>

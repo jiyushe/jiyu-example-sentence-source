@@ -1,5 +1,7 @@
 # oceanographer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oceanographer.md)
+
 <p><span class="chinese">她是个如何伟大的海洋学家。</span><span class="english">How she was this great oceanographer.</span></p>
 
 <p><span class="chinese">在许多科学家眼中，卡尔·温斯迟是世界上顶级的海洋学家。</span><span class="english">To many scientists, Carl Wunsch is the world's top oceanographer.</span></p>

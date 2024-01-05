@@ -1,5 +1,7 @@
 # 勤恳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinken.md)
+
 <p><span class="chinese">我会勤恳学习。</span><span class="english">I'll work really hard.</span></p>
 
 <p><span class="chinese">我们是勤恳工作的人。</span><span class="english">We're hardworking people.</span></p>

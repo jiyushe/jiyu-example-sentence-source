@@ -1,5 +1,7 @@
 # 凸透镜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tutoujing.md)
+
 <p><span class="chinese">凸透镜是用来放大图像。</span><span class="english">Convex glass is used to magnify an image.</span></p>
 
 <p><span class="chinese">平面镜、凸透镜和凹透镜。</span><span class="english">Plane mirrors, convex lens and concave lens.</span></p>

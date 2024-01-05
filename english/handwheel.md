@@ -1,5 +1,7 @@
 # handwheel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handwheel.md)
+
 <p><span class="chinese">拆卸手轮固定螺栓。</span><span class="english">Remove handwheel retaining bolt.</span></p>
 
 <p><span class="chinese">涂盖多层环氧树脂，附手轮。</span><span class="english">Epoxy Heavy Coating, with handwheel. Fig. 5207</span></p>

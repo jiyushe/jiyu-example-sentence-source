@@ -1,5 +1,7 @@
 # 词序
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cixu_1.md)
+
 <p><span class="chinese">一些语言，包括拉丁文，都有灵活的词序变化。</span><span class="english">Some languages, including Latin, have a flexible word order.</span></p>
 
 <p><span class="chinese">也许歧义的最普通的原因是由于粗心导致的词序。</span><span class="english">Perhaps the commonest cause of ambiguity is careless word order.</span></p>

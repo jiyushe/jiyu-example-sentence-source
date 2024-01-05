@@ -1,5 +1,7 @@
 # roadhouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roadhouse.md)
+
 <p><span class="chinese">哦，我告诉过你道基把酒吧给卖了吗？</span><span class="english">Oh, did I tell you Dougie sold the roadhouse?</span></p>
 
 <p><span class="chinese">相信路边旅馆是位于内布拉斯加州。</span><span class="english">The location of the Roadhouse is believed to be Nebraska.</span></p>

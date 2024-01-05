@@ -1,5 +1,7 @@
 # cortisol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cortisol.md)
+
 <p><span class="chinese">放免法检测血清皮质醇浓度。</span><span class="english">The serum cortisol was detected with ELISA.</span></p>
 
 <p><span class="chinese">“皮质醇和肾上腺素升高和降低，”他说。</span><span class="english">“ Cortisol and adrenaline go up and down, ” he said.</span></p>

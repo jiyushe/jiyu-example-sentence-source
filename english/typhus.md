@@ -1,5 +1,7 @@
 # typhus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/typhus.md)
+
 <p><span class="chinese">是什么让人类患上斑疹伤寒？</span><span class="english">What is it causes typhus?</span></p>
 
 <p><span class="chinese">霍乱和斑疹伤寒都时常发生。</span><span class="english">Cholera and typhus outbreaks are common.</span></p>

@@ -1,5 +1,7 @@
 # 皮鞭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pibian.md)
+
 <p><span class="chinese">骇人皮鞭打奴隶？</span><span class="english">Slaves Were Flogged by Whip?</span></p>
 
 <p><span class="chinese">他用皮鞭把奴隶抽打得浑身青一块紫一块。</span><span class="english">He leathered the slave black and blue.</span></p>

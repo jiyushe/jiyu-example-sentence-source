@@ -1,5 +1,7 @@
 # 优待券
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youdaiquan.md)
+
 <p><span class="chinese">我们可以使用优待券。</span><span class="english">We may use coupons.</span></p>
 
 <p><span class="chinese">你们收优待券吗？</span><span class="english">Do you accept coupons?</span></p>

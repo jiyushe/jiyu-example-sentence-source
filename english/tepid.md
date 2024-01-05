@@ -1,5 +1,7 @@
 # tepid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tepid.md)
+
 <p><span class="chinese">后用温热水�净。</span><span class="english">Rinse off with tepid water.</span></p>
 
 <p><span class="chinese">打开方纱布，泡入温水中。</span><span class="english">Open squares and soak in tepid water.</span></p>

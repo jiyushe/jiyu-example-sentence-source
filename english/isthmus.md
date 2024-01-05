@@ -1,5 +1,7 @@
 # isthmus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isthmus.md)
+
 <p><span class="chinese">生活是永恒的生死两端之间的峡道。</span><span class="english">Life is an isthmus between two eternities.</span></p>
 
 <p><span class="chinese">这个陆地的狭窄地带，我们称之为巴拿马地峡。</span><span class="english">It was the neck of land which we call the Isthmus of Panama.</span></p>

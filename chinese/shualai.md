@@ -1,5 +1,7 @@
 # 耍赖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shualai.md)
+
 <p><span class="chinese">我用得着耍赖吗？</span><span class="english">Like I need to use tricks?</span></p>
 
 <p><span class="chinese">男人有盲点还要耍赖！</span><span class="english">Men refuse to admit their own blind spots!</span></p>

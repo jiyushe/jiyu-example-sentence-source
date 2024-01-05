@@ -1,5 +1,7 @@
 # typecast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/typecast.md)
+
 <p><span class="chinese">凡是演员都知道，出演适合自己的角色并非难事。</span><span class="english">As every actor knows, it is easy to be typecast.</span></p>
 
 <p><span class="chinese">他已定型专演学者了。</span><span class="english">He has become typecast for the role as a scholar.</span></p>

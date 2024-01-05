@@ -1,5 +1,7 @@
 # 为非作歹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weifeizuodai.md)
+
 <p><span class="chinese">他为非作歹，罪恶滔天。</span><span class="english">He has committed many towering crimes.</span></p>
 
 <p><span class="chinese">然而，骇客为非作歹的动机，大多是贪婪。</span><span class="english">The motive for most wrongdoing, though, tends to be greed.</span></p>

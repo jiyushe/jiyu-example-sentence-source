@@ -1,5 +1,7 @@
 # 浊流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuoliu.md)
+
 <p><span class="chinese">粒度分析表明其具有典型的浊流特征。</span><span class="english">The granularity analysis results show typical features of turbidite deposits.</span></p>
 
 <p><span class="chinese">下白垩统的扎赉诺尔群的沉积相的主要类型为三角洲相，湖相和浊流相。</span><span class="english">The facies types of the Lower Cretaceous are mainly delta, lake and turbidity.</span></p>

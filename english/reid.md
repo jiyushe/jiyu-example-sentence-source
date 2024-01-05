@@ -1,5 +1,7 @@
 # reid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reid.md)
+
 <p><span class="chinese">里德算不上什么深刻的思想者。</span><span class="english">Mr Reid is not a deep thinker.</span></p>
 
 <p><span class="chinese">另外还有安迪-里德的问题。</span><span class="english">Then there is the Andy Reid question.</span></p>

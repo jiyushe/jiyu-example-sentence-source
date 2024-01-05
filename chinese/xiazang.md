@@ -1,5 +1,7 @@
 # 下葬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiazang.md)
+
 <p><span class="chinese">尸体下葬在那个公墓。</span><span class="english">The body was interred at that cemetery.</span></p>
 
 <p><span class="chinese">在他下葬的那天，我像个孩子一样痛哭流涕。</span><span class="english">At his grave today, I cried like a baby.</span></p>

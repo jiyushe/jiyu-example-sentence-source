@@ -1,5 +1,7 @@
 # comely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comely.md)
+
 <p><span class="chinese">你有一个漂亮的头发，大斗。</span><span class="english">You've got big hair and a comely doo.</span></p>
 
 <p><span class="chinese">屏幕上出现了一个清秀的女孩的脸。</span><span class="english">On the screen appeared a girl of comely face.</span></p>

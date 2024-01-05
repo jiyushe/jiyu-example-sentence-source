@@ -1,5 +1,7 @@
 # 封建主义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengjianzhuyi.md)
+
 <p><span class="chinese">我们说的封建主义，是指什么呢？</span><span class="english">What do we mean by feudalism ?</span></p>
 
 <p><span class="chinese">封建主义的残余不会很快消失。</span><span class="english">The hulk of feudalism will not quickly fade away.</span></p>

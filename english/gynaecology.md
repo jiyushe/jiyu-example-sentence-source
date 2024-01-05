@@ -1,5 +1,7 @@
 # gynaecology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gynaecology.md)
+
 <p><span class="chinese">妇科学是医学的一个分科。</span><span class="english">Gynaecology is a branch of medicine.</span></p>
 
 <p><span class="chinese">泌尿学、妇科学与性健康趋势。</span><span class="english">Trends in Urology, Gynaecology & Sexual Health.</span></p>

@@ -1,5 +1,7 @@
 # wiping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wiping.md)
+
 <p><span class="chinese">老秦抹了把脸上的雨水。</span><span class="english">Laoqin wiping the face rain.</span></p>
 
 <p><span class="chinese">他正用破布揩着双手。</span><span class="english">He was wiping his hands on a rag.</span></p>

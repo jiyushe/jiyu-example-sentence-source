@@ -1,5 +1,7 @@
 # 宽待
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuandai_1.md)
+
 <p><span class="chinese">我希望生活能宽待你。</span><span class="english">I hope life treats U kind.</span></p>
 
 <p><span class="chinese">不应太宽待自己。</span><span class="english">Should not treat ourselves too lenient.</span></p>

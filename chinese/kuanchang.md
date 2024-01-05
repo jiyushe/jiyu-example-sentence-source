@@ -1,5 +1,7 @@
 # 宽敞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuanchang.md)
+
 <p><span class="chinese">你有多么宽敞的一个洞啊！</span><span class="english">What a roomy hole you have!</span></p>
 
 <p><span class="chinese">我需要一个宽敞的房子.</span><span class="english">I need a spacious apartment.</span></p>

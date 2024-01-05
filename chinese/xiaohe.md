@@ -1,5 +1,7 @@
 # 小河
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaohe.md)
+
 <p><span class="chinese">它靠近一条小河。</span><span class="english">It is on a river.</span></p>
 
 <p><span class="chinese">他跌足落入小河。</span><span class="english">He tumbled into a stream.</span></p>

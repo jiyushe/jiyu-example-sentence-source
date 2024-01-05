@@ -1,5 +1,7 @@
 # 透镜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toujing_1.md)
+
 <p><span class="chinese">塔顶的菲涅尔透镜。</span><span class="english">Fresnel lens on the top.</span></p>
 
 <p><span class="chinese">焦距长底随透镜的厚度而变化。</span><span class="english">This is a long focus lens.</span></p>

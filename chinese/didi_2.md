@@ -1,5 +1,7 @@
 # 弟弟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/didi_2.md)
+
 <p><span class="chinese">安有两个弟弟。</span><span class="english">Ann has two brothers.</span></p>
 
 <p><span class="chinese">我有一个弟弟，名叫汤姆。</span><span class="english">I have a brother, Tom.</span></p>

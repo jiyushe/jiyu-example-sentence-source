@@ -1,5 +1,7 @@
 # 电闸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dianzha.md)
+
 <p><span class="chinese">合闸时，电闸就把电路接通了。</span><span class="english">When you close the switch, it completes the circuit.</span></p>
 
 <p><span class="chinese">如果机器发生故障，就把电闸关上。</span><span class="english">Turn off the switch when anything goes wrong with the machine.</span></p>

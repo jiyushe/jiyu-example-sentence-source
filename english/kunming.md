@@ -1,5 +1,7 @@
 # kunming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kunming.md)
+
 <p><span class="chinese">我是昆明人。</span><span class="english">I'm from Kunming.</span></p>
 
 <p><span class="chinese">我来自昆明。</span><span class="english">I come from Kunming.</span></p>

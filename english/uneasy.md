@@ -1,5 +1,7 @@
 # uneasy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uneasy.md)
+
 <p><span class="chinese">这句话让我有一丁点儿不舒服。</span><span class="english">This made me a tiny bit uneasy.</span></p>
 
 <p><span class="chinese">始终会良心不安。</span><span class="english">Will always be uneasy conscience.</span></p>

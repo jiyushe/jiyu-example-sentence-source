@@ -1,5 +1,7 @@
 # strew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strew.md)
+
 <p><span class="chinese">刷漆之前先撒些锯末。</span><span class="english">Strew sawdust before painting.</span></p>
 
 <p><span class="chinese">淋上蜂蜜，撒上白芝麻即可。</span><span class="english">Pour honey and strew white sesame.</span></p>

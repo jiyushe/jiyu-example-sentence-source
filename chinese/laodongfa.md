@@ -1,5 +1,7 @@
 # 劳动法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laodongfa.md)
+
 <p><span class="chinese">有些国家的劳动法确实比别的国家宽松。</span><span class="english">Indeed some countries have looser labor laws than others.</span></p>
 
 <p><span class="chinese">如何保护好劳动权不受侵犯，是当今劳动法所要解决的重要问题之一。</span><span class="english">How to protect labor rights is one of resolutions in labor law.</span></p>

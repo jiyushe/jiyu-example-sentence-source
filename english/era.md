@@ -1,5 +1,7 @@
 # era
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/era.md)
+
 <p><span class="chinese">可那个时代结束了。</span><span class="english">But that era is over.</span></p>
 
 <p><span class="chinese">现在那个时代过去了。</span><span class="english">Now that era is gone.</span></p>

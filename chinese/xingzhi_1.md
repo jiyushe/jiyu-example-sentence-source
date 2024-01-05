@@ -1,5 +1,7 @@
 # 形制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingzhi_1.md)
+
 <p><span class="chinese">呵呵！这只说明了一个形制的源用性的时间跨度问题。</span><span class="english">It just tells the time span of the use of a shape.</span></p>
 
 <p><span class="chinese">至今同一形制的磨盘还在使用。</span><span class="english">Today, millstones of the same shape are still being used.</span></p>

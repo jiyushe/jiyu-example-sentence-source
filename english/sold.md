@@ -1,5 +1,7 @@
 # sold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sold.md)
+
 <p><span class="chinese">你把它卖了？</span><span class="english">You sold it?</span></p>
 
 <p><span class="chinese">没有，我已卖掉踪椒怂。</span><span class="english">No, I have sold it.</span></p>

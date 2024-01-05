@@ -1,5 +1,7 @@
 # clear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clear.md)
+
 <p><span class="chinese">是的，是的，-我就是想弄清楚。，You，are，，you，are。，–</span><span class="english">Just be clear.</span></p>
 
 <p><span class="chinese">让我们澄清一下。</span><span class="english">Let us be clear.</span></p>

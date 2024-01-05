@@ -1,5 +1,7 @@
 # polyisobutylene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polyisobutylene.md)
+
 <p><span class="chinese">聚异丁烯为基本成分的附有人造毛毡的板，片，卷材。</span><span class="english">Plates, sheets, coils of polyisobutylene with man-made felt.</span></p>
 
 <p><span class="chinese">介绍了一种经过改进的乳化炸药用聚异丁烯丁二酰亚胺的生产工艺。</span><span class="english">An improved process for producing polyisobutylene succinimide used in emulsion explosive was introduced.</span></p>

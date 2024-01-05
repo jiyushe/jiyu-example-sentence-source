@@ -1,5 +1,7 @@
 # hobble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hobble.md)
+
 <p><span class="chinese">我看见她在过道边蹦跳着移动。</span><span class="english">I saw her hobble down the aisle.</span></p>
 
 <p><span class="chinese">妇女倚着行走架跛行。</span><span class="english">Women hobble about on walking frames.</span></p>

@@ -1,5 +1,7 @@
 # 勤勉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinmian.md)
+
 <p><span class="chinese">五赞家人兮孝悌勤勉。</span><span class="english">Five is for the family so dear.</span></p>
 
 <p><span class="chinese">勤勉奋进口号到处都是。</span><span class="english">Exhortatory slogans are everywhere.</span></p>

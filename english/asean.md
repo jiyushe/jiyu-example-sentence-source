@@ -1,5 +1,7 @@
 # asean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asean.md)
+
 <p><span class="chinese">关于东盟的兄弟之谊就言尽于此。</span><span class="english">So much for ASEAN brotherhood.</span></p>
 
 <p><span class="chinese">他们每天在院子里洗漱。</span><span class="english">Al dia, ellos se asean en el patio.</span></p>

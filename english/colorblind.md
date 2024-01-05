@@ -1,5 +1,7 @@
 # colorblind
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colorblind.md)
+
 <p><span class="chinese">为色盲使用的图像过滤器。</span><span class="english">Image filters for the colorblind.</span></p>
 
 <p><span class="chinese">色盲在儿童中的比例是十二分之一。</span><span class="english">The odds are about one in twelve that a child will be colorblind.</span></p>

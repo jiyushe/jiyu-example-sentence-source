@@ -1,5 +1,7 @@
 # supposition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supposition.md)
+
 <p><span class="chinese">然而，这种假设应该修改一下。</span><span class="english">However, this supposition should be modified.</span></p>
 
 <p><span class="chinese">呃，其实这不过是一种望风捉影的悬想。</span><span class="english">Well, it really is but a shadowy supposition.</span></p>

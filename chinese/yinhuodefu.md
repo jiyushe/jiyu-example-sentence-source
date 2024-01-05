@@ -1,5 +1,7 @@
 # 因祸得福
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinhuodefu.md)
+
 <p><span class="chinese">被开除对我来说是因祸得福。</span><span class="english">Being cut loose was a blessing in disguise.</span></p>
 
 <p><span class="chinese">发生海啸，我们因祸得福。我很高兴亚齐终于得享和平。</span><span class="english">The tsunami was a blessing in disguise. I'm really.</span></p>

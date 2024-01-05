@@ -1,5 +1,7 @@
 # 并处
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingchu_1.md)
+
 <p><span class="chinese">1989年末Ceausescu被推翻并处被处死。</span><span class="english">Ceausescu was overthrown and executed in late 1989.</span></p>
 
 <p><span class="chinese">第三档是7年以上10年以下有期徒刑并处罚金。</span><span class="english">The third is the prison with the fine from 7 years to 10 years.</span></p>

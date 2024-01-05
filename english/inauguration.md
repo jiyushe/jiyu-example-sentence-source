@@ -1,5 +1,7 @@
 # inauguration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inauguration.md)
+
 <p><span class="chinese">就职仪式是一场盛典。</span><span class="english">The inauguration was a big event.</span></p>
 
 <p><span class="chinese">他来参加开幕典礼吗？</span><span class="english">Is he coming to the inauguration ceremony?</span></p>

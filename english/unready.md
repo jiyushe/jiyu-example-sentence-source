@@ -1,5 +1,7 @@
 # unready
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unready.md)
+
 <p><span class="chinese">阿拉伯世界没有为自由做好准备吗？</span><span class="english">Is the Arab world unready for freedom?</span></p>
 
 <p><span class="chinese">丁香酒，我仍未准备好迎接爱情。</span><span class="english">Lilac Wine, I feel unready for my love.</span></p>

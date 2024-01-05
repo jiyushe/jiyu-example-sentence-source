@@ -1,5 +1,7 @@
 # notochord
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/notochord.md)
+
 <p><span class="chinese">此时椎间的脊索细胞逐渐增多。</span><span class="english">Right now the notochord cell between vertebra is added gradually much.</span></p>
 
 <p><span class="chinese">在脊索组织不断迁移时，纤维环亦增大。</span><span class="english">When notochord organization is ceaseless and migratory, fiber annulus also increases.</span></p>

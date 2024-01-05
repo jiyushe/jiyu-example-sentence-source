@@ -1,5 +1,7 @@
 # 送命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songming.md)
+
 <p><span class="chinese">我想明天还得有多少人要送命啊。</span><span class="english">I wonder how many men will die tomorrow.</span></p>
 
 <p><span class="chinese">车祸能让莉莉和詹姆送命？</span><span class="english">A car crash killed Lily and James Potter?</span></p>

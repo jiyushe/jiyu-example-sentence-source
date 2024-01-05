@@ -1,5 +1,7 @@
 # tactical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tactical.md)
+
 <p><span class="chinese">战术通信网。</span><span class="english">Tactical communications network.</span></p>
 
 <p><span class="chinese">战术二队，你们是否就位？</span><span class="english">Tactical Team Two, are you with us?</span></p>

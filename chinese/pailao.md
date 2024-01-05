@@ -1,5 +1,7 @@
 # 排涝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pailao.md)
+
 <p><span class="chinese">普遍适用于平原圩区低扬程排涝与灌溉的水利工程。</span><span class="english">It is universally available for low-lift drainage and irrigation projects in the plain diked areas.</span></p>
 
 <p><span class="chinese">合理确定圩区排涝模数对于降低涝灾损失有重要意义。</span><span class="english">Reasonably determining drainage modulus is very important for decreasing logging loss in diked area.</span></p>

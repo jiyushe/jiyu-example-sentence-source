@@ -1,5 +1,7 @@
 # 两旁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangpang.md)
+
 <p><span class="chinese">街道两旁榆树成行。</span><span class="english">Elms line the steets.</span></p>
 
 <p><span class="chinese">布达佩斯位于河的两旁。</span><span class="english">Budapest lies astride the river.</span></p>

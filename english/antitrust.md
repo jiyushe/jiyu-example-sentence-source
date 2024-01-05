@@ -1,5 +1,7 @@
 # antitrust
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antitrust.md)
+
 <p><span class="chinese">中国反垄断法于2008年正式生效。</span><span class="english">China’s antitrust law took effect in 2008.</span></p>
 
 <p><span class="chinese">但是即使有些讽刺意味，在反垄断主义中也是没有用武之地的。</span><span class="english">Still, irony has no place in antitrust doctrine.</span></p>

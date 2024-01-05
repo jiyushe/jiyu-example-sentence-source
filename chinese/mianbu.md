@@ -1,5 +1,7 @@
 # 棉布
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianbu.md)
+
 <p><span class="chinese">斜纹棉布裤可能是卡其色。</span><span class="english">Chinos can be khaki color.</span></p>
 
 <p><span class="chinese">她穿着一条细棉布的裙子。</span><span class="english">She wears a skirt of cambric.</span></p>

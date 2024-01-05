@@ -1,5 +1,7 @@
 # straw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/straw.md)
+
 <p><span class="chinese">它是由稻草造的。</span><span class="english">It is made of straw.</span></p>
 
 <p><span class="chinese">浅禾秆色。</span><span class="english">Pale straw in color.</span></p>

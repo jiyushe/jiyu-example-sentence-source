@@ -1,5 +1,7 @@
 # chromatogram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chromatogram.md)
+
 <p><span class="chinese">过滤层析和杂交用耗材。</span><span class="english">Filtration chromatogram and hybridization consumables.</span></p>
 
 <p><span class="chinese">色层析分析谱图中的峰面积与样品中物质的量是成正比的。</span><span class="english">Chromatogram is proportional to the amount of that substance in the sample.</span></p>

@@ -1,5 +1,7 @@
 # potted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/potted.md)
+
 <p><span class="chinese">她赢得了全部奖品。</span><span class="english">She potted all the prizes.</span></p>
 
 <p><span class="chinese">他把玫瑰花的插枝种在花盆内。</span><span class="english">He potted up the rose cuttings.</span></p>

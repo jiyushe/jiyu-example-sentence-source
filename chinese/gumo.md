@@ -1,5 +1,7 @@
 # 估摸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gumo.md)
+
 <p><span class="chinese">杰姆说，他估摸，下回我会信他的话。</span><span class="english">Jim said he reckoned I would believe him next time.</span></p>
 
 <p><span class="chinese">舞台上的杰克逊是一个真正的活物，真正的不可战胜，真正的“难以估摸”。</span><span class="english">On stage he felt truly alive, invincible, “unlimited”.</span></p>

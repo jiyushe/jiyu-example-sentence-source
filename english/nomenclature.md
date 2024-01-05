@@ -1,5 +1,7 @@
 # nomenclature
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nomenclature.md)
+
 <p><span class="chinese">下面这个与命名法有关。</span><span class="english">OK, let's get to nomenclature.</span></p>
 
 <p><span class="chinese">在这里我们面对一个命名法的问题。</span><span class="english">Here we face a problem of nomenclature.</span></p>

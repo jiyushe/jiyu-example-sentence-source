@@ -1,5 +1,7 @@
 # hackney
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hackney.md)
+
 <p><span class="chinese">警方跟踪达根从东伦敦的哈克尼到莱顿。</span><span class="english">Duggan was followed from an address in Hackney and one in Leyton, east London.</span></p>
 
 <p><span class="chinese">明年，一个盛大的赛前音乐节在哈克尼市的开幕，将会使该市更加具有吸引力。</span><span class="english">A huge pre-games music festival in Hackney next year could make it trendier still.</span></p>

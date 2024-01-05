@@ -1,5 +1,7 @@
 # nonlinear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonlinear.md)
+
 <p><span class="chinese">最后这是一些非线性数值。</span><span class="english">And, third, it is nonlinear.</span></p>
 
 <p><span class="chinese">这是气相中的非线性曲线。</span><span class="english">This nonlinear one in the gas phase.</span></p>

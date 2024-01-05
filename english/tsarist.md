@@ -1,5 +1,7 @@
 # tsarist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tsarist.md)
+
 <p><span class="chinese">沙皇俄国的最后一批铜制戈比铸于1916年。</span><span class="english">The last copper copekcs of Tsarist Russia were minted in 1916.</span></p>
 
 <p><span class="chinese">沙皇政府在1905年12月查封了这家报馆。</span><span class="english">The tsarist government closed down the newspaper in December 1905.</span></p>

@@ -1,5 +1,7 @@
 # answer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/answer.md)
+
 <p><span class="chinese">那怎样回答呢？</span><span class="english">How to answer it?</span></p>
 
 <p><span class="chinese">没人会回答你。</span><span class="english">Noone will answer.</span></p>

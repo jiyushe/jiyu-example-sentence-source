@@ -1,5 +1,7 @@
 # corruptly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corruptly.md)
+
 <p><span class="chinese">只是你们从早起来，就在一切事上败坏自己。</span><span class="english">But they were still eager to act corruptly in all they did.</span></p>
 
 <p><span class="chinese">小人因为想荣华富贵，所以贪得到无厌。</span><span class="english">Because the villain thinks the nabobism, therefore obtains corruptly not tires.</span></p>

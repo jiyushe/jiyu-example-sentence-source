@@ -1,5 +1,7 @@
 # thracian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thracian.md)
+
 <p><span class="chinese">色雷斯人，在罗马军队服役。</span><span class="english">A Thracian , he served in the Roman army.</span></p>
 
 <p><span class="chinese">考古人员研究后表示，这对耳环曾是色雷斯人的陪葬品。</span><span class="english">New unearthed Archaeological research, said after the earrings was Thracian funerary.</span></p>

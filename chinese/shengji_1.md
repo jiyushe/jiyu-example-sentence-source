@@ -1,5 +1,7 @@
 # 生机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengji_1.md)
+
 <p><span class="chinese">水池里因鱼而有了生机。</span><span class="english">The pool was alive with fish.</span></p>
 
 <p><span class="chinese">庄稼在雨后又恢复了生机。</span><span class="english">The crops revived after the rain.</span></p>

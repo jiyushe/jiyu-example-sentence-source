@@ -1,5 +1,7 @@
 # 震撼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenhan.md)
+
 <p><span class="chinese">今天他把我震撼了！</span><span class="english">He wows me today.</span></p>
 
 <p><span class="chinese">我喜欢这种震撼！</span><span class="english">I love this shot!</span></p>

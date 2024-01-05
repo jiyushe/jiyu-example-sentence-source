@@ -1,5 +1,7 @@
 # completely 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/completely.md)
+
 <p><span class="chinese">让它完全凉干。</span><span class="english">Let it dry completely.</span></p>
 
 <p><span class="chinese">我完全信任他。</span><span class="english">I trust him completely.</span></p>

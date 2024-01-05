@@ -1,5 +1,7 @@
 # pitying
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pitying.md)
+
 <p><span class="chinese">不要，我不要怜悯的施舍。</span><span class="english">No, I do not need the pitying almsgiving.</span></p>
 
 <p><span class="chinese">我并没有花太多时间自怨自艾。</span><span class="english">I don’t spend a lot of time pitying myself.</span></p>

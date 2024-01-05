@@ -1,5 +1,7 @@
 # 签到
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiandao_1.md)
+
 <p><span class="chinese">一张这个课的签到卡？</span><span class="english">An AD card for the course?</span></p>
 
 <p><span class="chinese">活动当日付于签到到，接受现金。</span><span class="english">Pay at the door, cash only.</span></p>

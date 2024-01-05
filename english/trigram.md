@@ -1,5 +1,7 @@
 # trigram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trigram.md)
+
 <p><span class="chinese">其中最重要的选择是确定三元模型是什么。</span><span class="english">The biggest choice was deciding what a trigram is.</span></p>
 
 <p><span class="chinese">道教教义中的八卦在义和团揭帖中多有使用。</span><span class="english">Trigram of Taoism doctrine had been largely used in the Boxers' notices.</span></p>

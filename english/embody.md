@@ -1,5 +1,7 @@
 # embody
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/embody.md)
+
 <p><span class="chinese">法律是人民意志的体现。</span><span class="english">Laws embody the will of people.</span></p>
 
 <p><span class="chinese">人可以表现他不理解的真理“</span><span class="english">Man can embody truth but cannot know it."</span></p>

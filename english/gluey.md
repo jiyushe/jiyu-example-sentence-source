@@ -1,5 +1,7 @@
 # gluey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gluey.md)
+
 <p><span class="chinese">粘粘的，稠稠的，蓝色的胶，新鲜的胶，稠稠的，粘粘的。</span><span class="english">Gooey. Gooey. Blue goo. New goo. Gluey. Gluey.</span></p>
 
 <p><span class="chinese">她是对的，但汤却令人失望。</span><span class="english">But the soup is a disappointment – a "bit gluey".</span></p>

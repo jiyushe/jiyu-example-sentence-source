@@ -1,5 +1,7 @@
 # wimpy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wimpy.md)
+
 <p><span class="chinese">毕竟，欧洲虽富有但却胆小如鼠。</span><span class="english">After all, Europe is rich but wimpy.</span></p>
 
 <p><span class="chinese">我看了一部名叫“小屁孩日记”的电影。</span><span class="english">I watched a movie called "Diary of a Wimpy Kid".</span></p>

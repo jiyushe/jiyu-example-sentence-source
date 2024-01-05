@@ -1,5 +1,7 @@
 # templet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/templet.md)
+
 <p><span class="chinese">提出了一种改进的模板匹配方法。</span><span class="english">A modified templet matching method was proposed.</span></p>
 
 <p><span class="chinese">样板现较多采用线切割加工。</span><span class="english">It's now adopted that templet is machined by wire-cutting.</span></p>

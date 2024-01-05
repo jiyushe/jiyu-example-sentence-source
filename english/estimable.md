@@ -1,5 +1,7 @@
 # estimable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/estimable.md)
+
 <p><span class="chinese">一个真正朋友的价值是无法估量的。</span><span class="english">The value of a true friend is not estimable.</span></p>
 
 <p><span class="chinese">他是一个难能可贵而又可爱的年轻人。</span><span class="english">He is an estimable and likeable young fellow.</span></p>

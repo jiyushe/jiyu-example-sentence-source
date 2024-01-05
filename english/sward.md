@@ -1,5 +1,7 @@
 # sward
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sward.md)
+
 <p><span class="chinese">济南租草皮?。</span><span class="english">Does Jinan rent a sward?</span></p>
 
 <p><span class="chinese">我是我的草地的骨头。</span><span class="english">I am the bone of my sward.</span></p>

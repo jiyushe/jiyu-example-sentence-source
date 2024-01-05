@@ -1,5 +1,7 @@
 # 受礼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouli_1.md)
+
 <p><span class="chinese">至于在送礼人和受礼人间的年龄差异的增加，确实会变得效率低下。</span><span class="english">As the age difference between giver and recipient grew, so did the inefficiency.</span></p>
 
 <p><span class="chinese">最后，有些上平受礼人会接受却不会去购买。</span><span class="english">Finally, there are items that a recipient would like to receive but not purchase.</span></p>

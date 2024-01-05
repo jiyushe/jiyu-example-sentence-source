@@ -1,5 +1,7 @@
 # backboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backboard.md)
+
 <p><span class="chinese">这是透明的篮板球。</span><span class="english">This is a transparent backboard.</span></p>
 
 <p><span class="chinese">球从篮板上弹回来。</span><span class="english">The ball rebounded from the backboard.</span></p>

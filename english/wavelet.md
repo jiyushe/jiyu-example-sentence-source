@@ -1,5 +1,7 @@
 # wavelet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wavelet.md)
+
 <p><span class="chinese">小波理论在单分形研究中的运用。</span><span class="english">Section 2 applies the wavelet theory to monofractal.</span></p>
 
 <p><span class="chinese">本文介绍了微波的基本原理。</span><span class="english">This paper introduced the basic theories of wavelet.</span></p>

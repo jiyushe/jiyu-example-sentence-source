@@ -1,5 +1,7 @@
 # 静止
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingzhi_3.md)
+
 <p><span class="chinese">因此，地球是静止不动的。</span><span class="english">Ergo, the Earth was still.</span></p>
 
 <p><span class="chinese">他们认为世界是静止的。</span><span class="english">They treat the world as static.</span></p>

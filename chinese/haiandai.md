@@ -1,5 +1,7 @@
 # 海岸带
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haiandai.md)
+
 <p><span class="chinese">并详细分析了海岸带系统综合管理模式的内容和方法。</span><span class="english">Besides, the content and method of SCMM is discussed in detail.</span></p>
 
 <p><span class="chinese">水深遥感是遥感在海岸带及近海水域中的重要应用之一。</span><span class="english">RS-fathoming is one of the most applications in remote sensing in coast.</span></p>

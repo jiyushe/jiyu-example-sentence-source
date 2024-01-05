@@ -1,5 +1,7 @@
 # didactic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/didactic.md)
+
 <p><span class="chinese">不过这必须避免说教的方式。</span><span class="english">However it should avoid being didactic.</span></p>
 
 <p><span class="chinese">我的隔壁邻居是个爱训人的老太太。</span><span class="english">My next-door neighbor is a didactic old lady.</span></p>

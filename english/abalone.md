@@ -1,5 +1,7 @@
 # abalone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abalone.md)
+
 <p><span class="chinese">去喝鲍鱼汤如何？</span><span class="english">How does abalone soup sound?</span></p>
 
 <p><span class="chinese">为鲍鱼的干制品。</span><span class="english">For abalone and dried products.</span></p>

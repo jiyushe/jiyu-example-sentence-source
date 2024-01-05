@@ -1,5 +1,7 @@
 # 满腹经纶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manfujinglun.md)
+
 <p><span class="chinese">尽管卡副久经沙场、满腹经纶，他还是希望能从新老大身上学到足够多的东西。</span><span class="english">And despite the Scouser's veteran status, he hopes to learn plenty from the new man.</span></p>
 
 <p><span class="chinese">他训练有素，满腹经纶，假如他参与任何争论，不至于失策犯错。</span><span class="english">If he engages in controversy of any kind, his disciplined intellect preserves him form the blunder.</span></p>

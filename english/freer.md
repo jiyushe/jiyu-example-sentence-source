@@ -1,5 +1,7 @@
 # freer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freer.md)
+
 <p><span class="chinese">我是过于年轻和狂暴了，才会遍寻不得自由的自我。</span><span class="english">Too young am I and too outraged to be my freer self.</span></p>
 
 <p><span class="chinese">把管子做成钟状，可使气流更畅通。</span><span class="english">Belling out the tubes will permit a freer passage of air.</span></p>

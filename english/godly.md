@@ -1,5 +1,7 @@
 # godly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/godly.md)
+
 <p><span class="chinese">罪恶感并不代表敬神与虔诚。</span><span class="english">Guilt is not a Godly place to be.</span></p>
 
 <p><span class="chinese">属神的人制定的目标，必须是通过信靠神才能完成的。</span><span class="english">Godly goals are set through faith.</span></p>

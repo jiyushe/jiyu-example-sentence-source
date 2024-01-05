@@ -1,5 +1,7 @@
 # 症候
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenghou_1.md)
+
 <p><span class="chinese">因为晕车症候，我曾购买治晕药丸。</span><span class="english">For carsickness, I took motion sickness pills.</span></p>
 
 <p><span class="chinese">我感觉到我肚子里有明显的消化不良症候。</span><span class="english">I feel within me the manifest prognostics of indigestion.</span></p>

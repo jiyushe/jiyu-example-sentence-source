@@ -1,5 +1,7 @@
 # 评议
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingyi_2.md)
+
 <p><span class="chinese">然而这类主张没有一项经过了同行评议。</span><span class="english">Yet no claim has been peer-reviewed.</span></p>
 
 <p><span class="chinese">让群众评议一下谁当先进工作者。</span><span class="english">Let the masses discuss who will be chosen as an advanced worker.</span></p>

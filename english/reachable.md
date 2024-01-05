@@ -1,5 +1,7 @@
 # reachable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reachable.md)
+
 <p><span class="chinese">理想的投标人将始终通过电子邮件或IM到达。</span><span class="english">Ideal bidders will be consistently reachable via email or IM.</span></p>
 
 <p><span class="chinese">您需要在雅虎通可达而做的工作。</span><span class="english">You need to be reachable on Yahoo! Messenger while doing the job.</span></p>

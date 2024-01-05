@@ -1,5 +1,7 @@
 # investigatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/investigatory.md)
+
 <p><span class="chinese">委员会还应该有更大的研究和调查资源。</span><span class="english">The committee should also have greater research and investigatory resources.</span></p>
 
 <p><span class="chinese">美国食品药品监督管理局一定会在人体试验前批准新药的研究申请。</span><span class="english">The F.D.A. must approve an investigatory new drug application before any human testing.</span></p>

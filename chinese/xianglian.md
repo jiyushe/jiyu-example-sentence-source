@@ -1,5 +1,7 @@
 # 相恋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianglian.md)
+
 <p><span class="chinese">爱情是一层纱布，隔在相恋的人中间。</span><span class="english">Love is the veil between lover and lover.</span></p>
 
 <p><span class="chinese">云雀靠韭葱生活，相恋一方靠恋爱生活。</span><span class="english">Lovers live by love as larks live by leeks.</span></p>

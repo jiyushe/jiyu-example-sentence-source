@@ -1,5 +1,7 @@
 # 阴沟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingou.md)
+
 <p><span class="chinese">这条阴沟堵塞了。</span><span class="english">The drain is clogged.</span></p>
 
 <p><span class="chinese">池塘像阴沟一样散发着恶臭。</span><span class="english">The pond stank like a sewer.</span></p>

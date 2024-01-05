@@ -1,5 +1,7 @@
 # 听筒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingtong.md)
+
 <p><span class="chinese">爸爸把听筒递给我。</span><span class="english">Dad handed the receiver to me.</span></p>
 
 <p><span class="chinese">不需要有听筒喇叭扩音器。</span><span class="english">Not with the handset speakerphone.</span></p>

@@ -1,5 +1,7 @@
 # mirthful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mirthful.md)
+
 <p><span class="chinese">但是，奴隶们却有可能作乐，有时也作乐。</span><span class="english">Slaves, however, may be. and sometimes are mirthful.</span></p>
 
 <p><span class="chinese">大声大笑可以说是具有普遍性，快乐的大笑是一种极为积极的情感经历。</span><span class="english">Laughter is universal. And mirthful , happy laughter is a very positive emotional experience, he says.</span></p>

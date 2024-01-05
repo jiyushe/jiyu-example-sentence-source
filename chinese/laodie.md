@@ -1,5 +1,7 @@
 # 老爹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laodie.md)
+
 <p><span class="chinese">老爹，让我看看你的脚指头。</span><span class="english">Dad , show me your toes !</span></p>
 
 <p><span class="chinese">他们叫他乔老爹。</span><span class="english">They called him Daddy Joe.</span></p>

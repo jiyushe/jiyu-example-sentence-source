@@ -1,5 +1,7 @@
 # exudative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exudative.md)
+
 <p><span class="chinese">支气管肺炎在性质上是渗出性的，在分布是小叶性的。</span><span class="english">The bronchopneumonia is exudative in type and lobular in distribution.</span></p>
 
 <p><span class="chinese">这是视网膜脱离最常见的一种类型，比牵拉性和渗出性的病例多发。</span><span class="english">It is the most common type of retinal detachment, ahead of tractional and exudative.</span></p>

@@ -1,5 +1,7 @@
 # mylonite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mylonite.md)
+
 <p><span class="chinese">我认为在这个片理化带中的大多数岩石都是糜棱岩。</span><span class="english">I think the foliated rocks within the belt are mostly mylonite.</span></p>
 
 <p><span class="chinese">强蚀变糜棱岩即为金矿体及金矿化体。</span><span class="english">Strongly altered mylonite is gold orebody and gold mineralized body.</span></p>

@@ -1,5 +1,7 @@
 # goof
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goof.md)
+
 <p><span class="chinese">这是个大忽悠</span><span class="english">There was a big goof up.</span></p>
 
 <p><span class="chinese">我们应该去，就像个傻瓜一样。</span><span class="english">We should go, just as a goof.</span></p>

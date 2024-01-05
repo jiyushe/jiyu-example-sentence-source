@@ -1,5 +1,7 @@
 # algae
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/algae.md)
+
 <p><span class="chinese">所以海蛤蝓吃海藻。</span><span class="english">So sea slugs eat algae.</span></p>
 
 <p><span class="chinese">拖上来的只是些水藻。</span><span class="english">Drag up just some of the algae.</span></p>

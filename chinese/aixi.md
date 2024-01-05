@@ -1,5 +1,7 @@
 # 爱惜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aixi.md)
+
 <p><span class="chinese">爱树就是爱惜生命。</span><span class="english">Aiki is the treasure life.</span></p>
 
 <p><span class="chinese">爱惜你的每一寸发肤。</span><span class="english">Love every inch of your body.</span></p>

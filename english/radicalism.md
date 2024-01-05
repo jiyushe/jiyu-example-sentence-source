@@ -1,5 +1,7 @@
 # radicalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radicalism.md)
+
 <p><span class="chinese">瑞斯寇拉的激进消防演习引起极大讨论。</span><span class="english">The radicalism of Rescorla's drills cannot be overstated.</span></p>
 
 <p><span class="chinese">苏菲反对激进主义并且帮助提升伊斯兰。</span><span class="english">Sufism is opposed to radicalism and helps to promote Islam.</span></p>

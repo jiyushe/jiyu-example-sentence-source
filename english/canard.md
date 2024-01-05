@@ -1,5 +1,7 @@
 # canard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/canard.md)
+
 <p><span class="chinese">后来那条谣言被证实是真的。</span><span class="english">That canard were proved to be three later.</span></p>
 
 <p><span class="chinese">他还必须解除他敌视犹太人国家的流言。</span><span class="english">Mr Obama must dispatch the canard that he is hostile to the Jewish state.</span></p>

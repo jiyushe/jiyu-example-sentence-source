@@ -1,5 +1,7 @@
 # 喜讯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xixun.md)
+
 <p><span class="chinese">真是天大的喜讯！</span><span class="english">Great news!</span></p>
 
 <p><span class="chinese">嗷喜讯安慰和快乐！</span><span class="english">O tidings of comfort and joy!</span></p>

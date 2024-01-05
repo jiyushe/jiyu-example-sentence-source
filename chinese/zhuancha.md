@@ -1,5 +1,7 @@
 # 砖茶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuancha.md)
+
 <p><span class="chinese">砖茶。</span><span class="english">Brick tea.</span></p>
 
 <p><span class="chinese">砖茶属紧压茶。</span><span class="english">Brick tea belongs to pressed tea.</span></p>

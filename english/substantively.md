@@ -1,5 +1,7 @@
 # substantively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/substantively.md)
+
 <p><span class="chinese">与WTO的一致性还必须获得实质性的保证。</span><span class="english">WTO-consistency had to be secured substantively as well.</span></p>
 
 <p><span class="chinese">气候预测的精度也将大大提高。</span><span class="english">The skill of climate prediction would he improved substantively.</span></p>

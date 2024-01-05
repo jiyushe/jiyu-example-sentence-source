@@ -1,5 +1,7 @@
 # serried
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/serried.md)
+
 <p><span class="chinese">月出是缓缓的，而又充满惊喜的。</span><span class="english">Moonrise is slow and serried with subtleties.</span></p>
 
 <p><span class="chinese">或者，倘若我们攀登重岩叠嶂的峰巅。</span><span class="english">Or again if we but climb the serried mountain peaks.</span></p>

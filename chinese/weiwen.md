@@ -1,5 +1,7 @@
 # 慰问
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiwen.md)
+
 <p><span class="chinese">去慰问他们？</span><span class="english">To console them?</span></p>
 
 <p><span class="chinese">尼希米记的意思是“慰问使者”。</span><span class="english">Nehemiah means " Jah is comfort".</span></p>

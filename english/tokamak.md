@@ -1,5 +1,7 @@
 # tokamak
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tokamak.md)
+
 <p><span class="chinese">是带4个内导体坏的托卡马克装置。</span><span class="english">MPT-X is a tokamak with a 4-node poloidal divertor.</span></p>
 
 <p><span class="chinese">本文介绍了KT—5托卡马克装置质谱测量的初步结果。</span><span class="english">A primary measurement of mass spectrum on Tokamak KT-5 is presented.</span></p>

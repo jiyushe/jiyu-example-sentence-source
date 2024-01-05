@@ -1,5 +1,7 @@
 # 地物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diwu.md)
+
 <p><span class="chinese">地名是指一些地物或地域的名称。</span><span class="english">Place-names refers to some features or geographical names.</span></p>
 
 <p><span class="chinese">详细讨论了野外地物双向反射因子的测定问题及测定误差。</span><span class="english">BRF measurement in the field and error analyses are discussed in detail.</span></p>

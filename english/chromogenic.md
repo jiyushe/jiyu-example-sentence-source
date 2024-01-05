@@ -1,5 +1,7 @@
 # chromogenic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chromogenic.md)
+
 <p><span class="chinese">内毒素测定采用鲎试验偶氮基质显色法。</span><span class="english">Serum endotoxin was determined by limulus ameobatic chromogenic assay.</span></p>
 
 <p><span class="chinese">目的旨在辅以厚壁孢子形成实验完善显色培养基的菌株鉴别。</span><span class="english">Objective Use chlamydospores'test to assist chromogenic medium and to improve its value.</span></p>

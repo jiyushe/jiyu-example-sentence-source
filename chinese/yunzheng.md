@@ -1,5 +1,7 @@
 # 匀整
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunzheng.md)
+
 <p><span class="chinese">我收到她的字体很匀整的来信。</span><span class="english">I received a letter from her in her neat script.</span></p>
 
 <p><span class="chinese">文章就如何正确使用毛C-07型自调匀整装置进行了详细的阐述。</span><span class="english">This Chapten expound how to using wool C-07 type Auto leveler.</span></p>

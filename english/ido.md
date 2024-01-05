@@ -1,5 +1,7 @@
 # ido
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ido.md)
+
 <p><span class="chinese">我当然看好她。</span><span class="english">Of course Ido.</span></p>
 
 <p><span class="chinese">太太。我能为您做些什么?。</span><span class="english">Madam. What can Ido for you?</span></p>

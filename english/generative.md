@@ -1,5 +1,7 @@
 # generative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/generative.md)
+
 <p><span class="chinese">生殖细胞壁为胼胝质成分。</span><span class="english">The wall of the generative cell contains callose.</span></p>
 
 <p><span class="chinese">即时性是一种相对概念，这也是它为什么属于可生性的原因。</span><span class="english">Immediacy is a relative term, which is why it is generative.</span></p>

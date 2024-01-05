@@ -1,5 +1,7 @@
 # microelectronics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microelectronics.md)
+
 <p><span class="chinese">天水华天微电子有限公司。</span><span class="english">Tianshui Huatian Microelectronics Co. , Ltd.</span></p>
 
 <p><span class="chinese">微电子学的基础是近代固体物理。</span><span class="english">The foundation of microelectronics is modern solid state physics.</span></p>

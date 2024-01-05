@@ -1,5 +1,7 @@
 # 庄园
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangyuan.md)
+
 <p><span class="chinese">我们为什么有庄园？</span><span class="english">Why do we have a manor?</span></p>
 
 <p><span class="chinese">他的庄园里建了一个工场。</span><span class="english">A workshop was built on his estate.</span></p>

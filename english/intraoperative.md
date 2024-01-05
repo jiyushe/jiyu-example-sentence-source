@@ -1,5 +1,7 @@
 # intraoperative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intraoperative.md)
+
 <p><span class="chinese">术中平均失血量500毫升。</span><span class="english">Median intraoperative blood loss was 500 mL.</span></p>
 
 <p><span class="chinese">无术中死亡，无肝功能衰竭等严重并发症。</span><span class="english">There was no intraoperative death or liver failure.</span></p>

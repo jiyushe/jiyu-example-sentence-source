@@ -1,5 +1,7 @@
 # geomantic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geomantic.md)
+
 <p><span class="chinese">这里的风水就是好。</span><span class="english">The geomantic omen here is just fantastic.</span></p>
 
 <p><span class="chinese">风水文化是中国传统文化的一部分。</span><span class="english">Geomantic culture is a part of Chinese traditional culture.</span></p>

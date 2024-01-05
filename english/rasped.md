@@ -1,5 +1,7 @@
 # rasped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rasped.md)
+
 <p><span class="chinese">她的傻笑刺激他的神经。</span><span class="english">Her giggling rasped his nerves.</span></p>
 
 <p><span class="chinese">猫的舌头在我手上舐来舐去。</span><span class="english">The cat's tongue rasped my hand.</span></p>

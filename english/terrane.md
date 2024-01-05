@@ -1,5 +1,7 @@
 # terrane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/terrane.md)
+
 <p><span class="chinese">相似材料模型实验是研究地下采矿引起的岩层变形情况的重要方法。</span><span class="english">The Similar Material Model is usually used to study the deformation of the terrane.</span></p>
 
 <p><span class="chinese">此外，可以通过岩层年龄测查找到斜岩时间分布的时间。</span><span class="english">Furthermore, the time of plagioclase time distribution can be found by terrane age detection.</span></p>

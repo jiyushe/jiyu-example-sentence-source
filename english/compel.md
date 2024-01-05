@@ -1,5 +1,7 @@
 # compel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compel.md)
+
 <p><span class="chinese">他们能迫使我们屈服吗?</span><span class="english">Can they compel obedience from us?</span></p>
 
 <p><span class="chinese">他们能迫使我们听从命令吗?。</span><span class="english">Can they compel obedience from us?</span></p>

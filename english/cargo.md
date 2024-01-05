@@ -1,5 +1,7 @@
 # cargo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cargo.md)
+
 <p><span class="chinese">密封货物。</span><span class="english">Pressurize cargo.</span></p>
 
 <p><span class="chinese">船货移动了位置。</span><span class="english">The cargo has shifted.</span></p>

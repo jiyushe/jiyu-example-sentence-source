@@ -1,5 +1,7 @@
 # capricious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capricious.md)
+
 <p><span class="chinese">草原的气候变化无常。</span><span class="english">The climate on grassland is capricious.</span></p>
 
 <p><span class="chinese">生动而多变的器乐曲。</span><span class="english">A lively and capricious instrumental composition.</span></p>

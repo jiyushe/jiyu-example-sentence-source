@@ -1,5 +1,7 @@
 # isoline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isoline.md)
+
 <p><span class="chinese">给出了多种策略相结合绘制等值线的方法。</span><span class="english">A multi-strategy method of drawing isoline is given.</span></p>
 
 <p><span class="chinese">可以绘制各种等值线图和三维立体图。</span><span class="english">It can plot diversified Isoline Figure and 3-D solid figure.</span></p>

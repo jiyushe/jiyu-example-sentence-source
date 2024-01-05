@@ -1,5 +1,7 @@
 # 无边无际
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wubianwuji.md)
+
 <p><span class="chinese">因为自我是无边无际无从度量的大海。</span><span class="english">For self is a sea boundless and measureless.</span></p>
 
 <p><span class="chinese">天连水，水连天，浩浩荡荡，无边无际。</span><span class="english">Days even water, the sky, a mighty, boundless.</span></p>

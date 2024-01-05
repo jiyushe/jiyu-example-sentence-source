@@ -1,5 +1,7 @@
 # confident 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confident.md)
+
 <p><span class="chinese">保持清洁和自信。</span><span class="english">Keep clean and confident.</span></p>
 
 <p><span class="chinese">你会变得更加有信心。</span><span class="english">You will be more confident.</span></p>

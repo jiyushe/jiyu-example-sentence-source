@@ -1,5 +1,7 @@
 # Parmesan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parmesan.md)
+
 <p><span class="chinese">喂，我想再买一个干酪擦板。</span><span class="english">I’m thinking of buying a new Parmesan grater</span></p>
 
 <p><span class="chinese">嫩菠菜配慢烤蕃茄，醋味蘑菇，帕尔玛芝士。</span><span class="english">Baby Spinach, Slow roast Tomatoes, Mushrooms, Parmesan.</span></p>

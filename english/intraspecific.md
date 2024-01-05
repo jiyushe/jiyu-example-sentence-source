@@ -1,5 +1,7 @@
 # intraspecific
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intraspecific.md)
+
 <p><span class="chinese">鬼箭锦鸡儿花粉形态也有一定的种内差异。</span><span class="english">The similar intraspecific variations were observed in C. jubata also.</span></p>
 
 <p><span class="chinese">竞争是植物种内和种间关系的主要形式之一。</span><span class="english">Intraspecific and interspecific competitions are important relationships of plants.</span></p>

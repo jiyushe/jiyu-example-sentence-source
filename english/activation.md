@@ -1,5 +1,7 @@
 # activation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/activation.md)
+
 <p><span class="chinese">宝石有激活状态。</span><span class="english">Gems have activation conditions.</span></p>
 
 <p><span class="chinese">如何获得激活码的工作？</span><span class="english">How to get working activation code?</span></p>

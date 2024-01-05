@@ -1,5 +1,7 @@
 # creepage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/creepage.md)
+
 <p><span class="chinese">阐述了煤矿井下低压供电网络漏电电流的产生和危害。</span><span class="english">This essay expatiates on the harm of low creepage current in coal mines.</span></p>
 
 <p><span class="chinese">爬电距离是安全试验和国内外水平测试的重要项目。</span><span class="english">Creepage distance is an important test item of safety test and international proficiency test.</span></p>

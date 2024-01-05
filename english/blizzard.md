@@ -1,5 +1,7 @@
 # blizzard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blizzard.md)
+
 <p><span class="chinese">这大风雪是谁的主意？</span><span class="english">Whose idea was this blizzard?</span></p>
 
 <p><span class="chinese">暴风雪中的足球比赛报道？</span><span class="english">A football game to cover in a blizzard?</span></p>

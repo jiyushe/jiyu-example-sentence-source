@@ -1,5 +1,7 @@
 # 骗取
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianqu_1.md)
+
 <p><span class="chinese">他们骗取了怀特先生300英镑。</span><span class="english">They mulcted Mr White of ￡300.</span></p>
 
 <p><span class="chinese">他骗取他们的钱财。</span><span class="english">He defrauded them of their money.</span></p>

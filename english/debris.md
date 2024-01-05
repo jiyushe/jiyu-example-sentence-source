@@ -1,5 +1,7 @@
 # debris
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/debris.md)
+
 <p><span class="chinese">垃圾堵塞了道路。</span><span class="english">Debris obstructed the road.</span></p>
 
 <p><span class="chinese">潮水将碎片冲上海滩。</span><span class="english">The sea tided the debris ashore.</span></p>

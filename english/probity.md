@@ -1,5 +1,7 @@
 # probity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/probity.md)
+
 <p><span class="chinese">“啊，诚实探测器，”特拉弗斯夸张地叹口气，“很原始——但很有效！”</span><span class="english">"Ah, Probity Probes, " sighed Travers theatrically, "so crude — but effective! "</span></p>
 
 <p><span class="chinese">“可是，”波尚傲慢地答道，“有的时候，当正义的命令——”</span><span class="english">"Yet , " replied Beauchamp haughtily, "there are occasions when probity commands"</span></p>

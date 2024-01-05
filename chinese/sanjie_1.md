@@ -1,5 +1,7 @@
 # 三节
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanjie_1.md)
+
 <p><span class="chinese">他有三节课。</span><span class="english">He has three lessons.</span></p>
 
 <p><span class="chinese">本章分三节。</span><span class="english">This chapter divides three.</span></p>

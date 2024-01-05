@@ -1,5 +1,7 @@
 # gangrenous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gangrenous.md)
+
 <p><span class="chinese">李婉芝的手臂被压在碎石底下后来腐烂了。</span><span class="english">Li's arm became gangrenous after being crushed in the rubble.</span></p>
 
 <p><span class="chinese">这个小男孩的左胳膊已经被扯掉了，而且已经严重的感染并已经腐烂。</span><span class="english">The boy's left arm had been ripped off and was badly infected and gangrenous.</span></p>

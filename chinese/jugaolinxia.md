@@ -1,5 +1,7 @@
 # 居高临下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jugaolinxia.md)
+
 <p><span class="chinese">他现在富了，竟然以居高临下的口气对朋友们讲话。</span><span class="english">Now that he is rich,he talks down to his friends.</span></p>
 
 <p><span class="chinese">那座房子的窗户居高临下阴森森地对着她。</span><span class="english">The windows of the house stared bleakly down at her.</span></p>

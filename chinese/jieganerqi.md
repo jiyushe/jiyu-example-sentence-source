@@ -1,5 +1,7 @@
 # 揭竿而起
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieganerqi.md)
+
 <p><span class="chinese">就像一场揭竿而起的战斗？</span><span class="english">Just like a battle rise up?</span></p>
 
 <p><span class="chinese">我期待着有一天动物们揭竿而起，发动革命！</span><span class="english">I hope for an Animal Revolution one day!</span></p>

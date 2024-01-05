@@ -1,5 +1,7 @@
 # 心曲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinqu.md)
+
 <p><span class="chinese">一首心曲，愿你事事如意！</span><span class="english">A song, and wish you all the best!</span></p>
 
 <p><span class="chinese">让我们献上祝福的心曲！</span><span class="english">Let us sing our heart of blessings.</span></p>

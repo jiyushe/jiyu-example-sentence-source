@@ -1,5 +1,7 @@
 # 架空
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiakong.md)
+
 <p><span class="chinese">自支持架空安装。</span><span class="english">Self-support aerial installation.</span></p>
 
 <p><span class="chinese">这里的竹楼都是架空的。</span><span class="english">The bamboo huts here are all built on stilts.</span></p>

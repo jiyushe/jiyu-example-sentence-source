@@ -1,5 +1,7 @@
 # wholesale
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wholesale.md)
+
 <p><span class="chinese">批发零售无任欢迎。</span><span class="english">Wholesale and retail not welcome.</span></p>
 
 <p><span class="chinese">他们批发电冰箱。</span><span class="english">They sell refrigerators wholesale.</span></p>

@@ -1,5 +1,7 @@
 # generosity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/generosity.md)
+
 <p><span class="chinese">布鲁克斯总是利用我的慷慨大方。</span><span class="english">Brooks always cashes in on my generosity.</span></p>
 
 <p><span class="chinese">你可以称为陌生人之间的慷慨解囊。</span><span class="english">Call it generosity between two strangers.</span></p>

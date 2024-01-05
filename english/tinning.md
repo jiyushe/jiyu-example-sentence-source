@@ -1,5 +1,7 @@
 # tinning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tinning.md)
+
 <p><span class="chinese">各类电子线裁切、镀锡。</span><span class="english">The cutting and tinning of various electronic wires.</span></p>
 
 <p><span class="chinese">传统干式电流互感器的镀锡工艺是采用槽镀镀锡技术。</span><span class="english">The tinning process of dry type current transformer is Electroplate Technology.</span></p>

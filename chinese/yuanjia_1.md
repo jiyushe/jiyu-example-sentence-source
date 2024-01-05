@@ -1,5 +1,7 @@
 # 原价
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanjia_1.md)
+
 <p><span class="chinese">享原价282元城市之光酒店四人套餐！</span><span class="english">Share price 282 Yuan City Light Hotel four meal!</span></p>
 
 <p><span class="chinese">他们以原价买回了这幢小别墅。</span><span class="english">They bought the cottage back at the original price.</span></p>

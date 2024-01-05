@@ -1,5 +1,7 @@
 # pant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pant.md)
+
 <p><span class="chinese">谁会穿只有一条裤管的裤子？</span><span class="english">Who uses one pant?</span></p>
 
 <p><span class="chinese">他们渴望解放。</span><span class="english">They pant after liberation.</span></p>

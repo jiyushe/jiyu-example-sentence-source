@@ -1,5 +1,7 @@
 # calorimetry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calorimetry.md)
+
 <p><span class="chinese">关于量热法有什么问题？</span><span class="english">Any questions on calorimetry? OK.</span></p>
 
 <p><span class="chinese">了解基础代谢的测定方法。</span><span class="english">To understand calorimetry of the basic metabolism.</span></p>

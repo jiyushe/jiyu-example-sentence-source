@@ -1,5 +1,7 @@
 # succeed 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/succeed.md)
+
 <p><span class="chinese">我希望你成功。</span><span class="english">I hope you succeed.</span></p>
 
 <p><span class="chinese">我会成功“</span><span class="english">I'm going to succeed."</span></p>

@@ -1,5 +1,7 @@
 # uninhabited
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uninhabited.md)
+
 <p><span class="chinese">但愿我能到无人岛去隐居。</span><span class="english">I wish I could retreat to an uninhabited island.</span></p>
 
 <p><span class="chinese">东京消防庁无人走行放水车Dragon。</span><span class="english">Tokyo Fire Department uninhabited run water truck.</span></p>

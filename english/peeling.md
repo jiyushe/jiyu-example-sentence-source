@@ -1,5 +1,7 @@
 # peeling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peeling.md)
+
 <p><span class="chinese">他在削水果。</span><span class="english">He is peeling a fruit.</span></p>
 
 <p><span class="chinese">好几处的墙面正在脱落。</span><span class="english">Bits of the walls were peeling.</span></p>

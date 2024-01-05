@@ -1,5 +1,7 @@
 # 油料作物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youliaozuowu.md)
+
 <p><span class="chinese">新疆油料作物的近缘植物。</span><span class="english">The relative plants of oil crops in Xinjiang.</span></p>
 
 <p><span class="chinese">大面积土地已种上油料作物。</span><span class="english">Large acreages have been planted to oil crops.</span></p>

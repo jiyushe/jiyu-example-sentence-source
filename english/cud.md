@@ -1,5 +1,7 @@
 # cud
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cud.md)
+
 <p><span class="chinese">退休以后，他有足够的时间来回想回想过去。</span><span class="english">After retirement, he has enough time to chew the cud of his past.</span></p>
 
 <p><span class="chinese">河马不反刍，这意味着他们不咀嚼反刍。</span><span class="english">Hippos do not ruminate, which means that they do not chew their cud.</span></p>

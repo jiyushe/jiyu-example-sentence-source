@@ -1,5 +1,7 @@
 # clamp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clamp.md)
+
 <p><span class="chinese">用老虎钳固定起动机。</span><span class="english">Clamp the starter in a vise.</span></p>
 
 <p><span class="chinese">夹具则是采用了楔块夹紧装置。</span><span class="english">And clamp is the device of the wedge.</span></p>

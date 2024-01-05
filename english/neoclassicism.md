@@ -1,5 +1,7 @@
 # neoclassicism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neoclassicism.md)
+
 <p><span class="chinese">紫金尚古设计追求每个项目，每个案例做到精益求精。</span><span class="english">The design of Neoclassicism pursues perfectness in every project and case.</span></p>
 
 <p><span class="chinese">此方案让消费者体验新古典主义风格的意境。</span><span class="english">This plan lets consumer learn the artistic concept of neoclassicism style.</span></p>

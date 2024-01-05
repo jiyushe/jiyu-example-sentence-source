@@ -1,5 +1,7 @@
 # 挣钱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengqian.md)
+
 <p><span class="chinese">我们也得挣钱养家。</span><span class="english">We have to earn our bread.</span></p>
 
 <p><span class="chinese">你通过写博客挣钱吗？</span><span class="english">Do you make money blogging?</span></p>

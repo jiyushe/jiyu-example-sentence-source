@@ -1,5 +1,7 @@
 # hawaiian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hawaiian.md)
+
 <p><span class="chinese">她最喜欢的夏威夷岛？</span><span class="english">Her favorite Hawaiian island?</span></p>
 
 <p><span class="chinese">夏威夷音乐帮我找回了笑容。</span><span class="english">Hawaiian music gave me back my smile.</span></p>

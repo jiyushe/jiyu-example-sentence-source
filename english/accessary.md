@@ -1,5 +1,7 @@
 # accessary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accessary.md)
+
 <p><span class="chinese">这种事先的准备工作是附带进行的。</span><span class="english">This kind of previous job is accessary.</span></p>
 
 <p><span class="chinese">别忽视这个小配饰的功能。</span><span class="english">Don't ignore the use of the small accessary.</span></p>

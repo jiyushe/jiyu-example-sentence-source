@@ -1,5 +1,7 @@
 # aleatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aleatory.md)
+
 <p><span class="chinese">你投机成功的经验，让你经常存有侥幸的心理。</span><span class="english">Your experience of speculation makes you have aleatory thought.</span></p>
 
 <p><span class="chinese">它以射幸性为主要特征，与实定合同有显著区别。</span><span class="english">Aleatory as the main feature, it has obvious difference from jitsusada contracts.</span></p>

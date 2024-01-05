@@ -1,5 +1,7 @@
 # monochromator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monochromator.md)
+
 <p><span class="chinese">图.2…双光栅单色仪结构图。</span><span class="english">Fig. 2. the structure of double grating monochromator.</span></p>
 
 <p><span class="chinese">这个单色器有很大的水平接收角。</span><span class="english">The monochromator has a large horizontal collection angle.</span></p>

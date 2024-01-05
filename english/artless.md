@@ -1,5 +1,7 @@
 # artless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/artless.md)
+
 <p><span class="chinese">与其说她是天真不如说她幼稚无知。</span><span class="english">She is not so much artless as naive.</span></p>
 
 <p><span class="chinese">她是一个诚实天真的女孩子。</span><span class="english">She was a single-minded, artless girl.</span></p>

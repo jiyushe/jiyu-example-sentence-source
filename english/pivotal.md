@@ -1,5 +1,7 @@
 # pivotal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pivotal.md)
+
 <p><span class="chinese">关键性转折始于09年中期。</span><span class="english">A pivotal turn began midyear.</span></p>
 
 <p><span class="chinese">至关重要的炮弹总是哑弹。</span><span class="english">The pivotal circular is a dud.</span></p>

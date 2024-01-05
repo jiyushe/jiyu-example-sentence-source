@@ -1,5 +1,7 @@
 # accustomed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accustomed.md)
+
 <p><span class="chinese">我习惯于简单的饮食。</span><span class="english">I am accustomed to a spare diet.</span></p>
 
 <p><span class="chinese">她不习惯于乞求于人。</span><span class="english">She was not accustomed to entreat.</span></p>

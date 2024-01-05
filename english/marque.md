@@ -1,5 +1,7 @@
 # marque
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marque.md)
+
 <p><span class="chinese">凯迪拉克是通用汽车旗下的豪华汽车品牌。</span><span class="english">Cadillac is a luxury vehicle marque owned by General Motors.</span></p>
 
 <p><span class="chinese">著名英国跑车MG型号已经被中国人持有。</span><span class="english">Famed British sports car marque MG has been acquired by the Chinese.</span></p>

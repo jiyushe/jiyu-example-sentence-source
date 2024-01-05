@@ -1,5 +1,7 @@
 # behavioral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/behavioral.md)
+
 <p><span class="chinese">行为规范。</span><span class="english">A behavioral specification.</span></p>
 
 <p><span class="chinese">这也与跟行为金融学有关</span><span class="english">It also relates to behavioral finance.</span></p>

@@ -1,5 +1,7 @@
 # adapted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adapted.md)
+
 <p><span class="chinese">这是我表妹第一次适应新的工作。</span><span class="english">Are you adapted for the new job?</span></p>
 
 <p><span class="chinese">他不能适应粗重的工作。</span><span class="english">He is not adapted for heavy work.</span></p>

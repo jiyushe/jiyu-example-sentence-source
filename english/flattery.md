@@ -1,5 +1,7 @@
 # flattery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flattery.md)
+
 <p><span class="chinese">他不屑阿谀奉承。</span><span class="english">He is above flattery.</span></p>
 
 <p><span class="chinese">他不为阿谀奉承所动。</span><span class="english">He is proof against flattery.</span></p>

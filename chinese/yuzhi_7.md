@@ -1,5 +1,7 @@
 # 预知
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuzhi_7.md)
+
 <p><span class="chinese">我们就能做到，要预知位置。</span><span class="english">So as to predict that location.</span></p>
 
 <p><span class="chinese">预知定价和运送详情请点击这里。</span><span class="english">Pricing and shipping details here.</span></p>

@@ -1,5 +1,7 @@
 # forebode
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forebode.md)
+
 <p><span class="chinese">乌云预示着有暴风雨。</span><span class="english">Black clouds forebode a storm.</span></p>
 
 <p><span class="chinese">乌云是风雨欲来的前兆。</span><span class="english">Those black clouds forebode rain.</span></p>

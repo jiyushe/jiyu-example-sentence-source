@@ -1,5 +1,7 @@
 # 帝位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diwei_2.md)
+
 <p><span class="chinese">拿破仑的司令官们也坚决主张他放弃帝位。</span><span class="english">Napoleon's commanders insisted that he give up the throne.</span></p>
 
 <p><span class="chinese">为了她，你堂堂六王爷连帝位都不要了？</span><span class="english">"In order to her, you open six sovereign even tells all don"t?</span></p>

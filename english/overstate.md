@@ -1,5 +1,7 @@
 # overstate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overstate.md)
+
 <p><span class="chinese">对此我不想赘述</span><span class="english">I don't want to overstate this.</span></p>
 
 <p><span class="chinese">但这个小组夸大这个事件了么？</span><span class="english">But did the panel overstate its case?</span></p>

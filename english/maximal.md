@@ -1,5 +1,7 @@
 # maximal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maximal.md)
+
 <p><span class="chinese">其直径最大可达12F。</span><span class="english">Its maximal diameter could reach 12F.</span></p>
 
 <p><span class="chinese">输出最大子立方体的和。</span><span class="english">The output is the sum of the maximal sub-cube.</span></p>

@@ -1,5 +1,7 @@
 # 手舞足蹈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouwuzudao.md)
+
 <p><span class="chinese">那支歌曲令我们手舞足蹈。</span><span class="english">The song makes us dance for joy.</span></p>
 
 <p><span class="chinese">那节奏强劲的歌曲什么时候听什么时候令我们手舞足蹈。</span><span class="english">The song that swings makes us dance for joy.</span></p>

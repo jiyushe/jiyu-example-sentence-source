@@ -1,5 +1,7 @@
 # refrigerate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refrigerate.md)
+
 <p><span class="chinese">做好后舀到碗里放进冰箱。</span><span class="english">Scoop into a bowl and refrigerate.</span></p>
 
 <p><span class="chinese">在家里，冷和冷藏食品。</span><span class="english">At home, chill and refrigerate foods.</span></p>

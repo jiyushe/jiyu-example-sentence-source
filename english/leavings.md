@@ -1,5 +1,7 @@
 # leavings
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leavings.md)
+
 <p><span class="chinese">我不要你留下的东西。</span><span class="english">I want none of your leavings.</span></p>
 
 <p><span class="chinese">是他们在讽刺正直的人们吗?。</span><span class="english">Are their leavings a satire upon the self-righteous people here?</span></p>

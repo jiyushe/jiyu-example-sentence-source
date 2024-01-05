@@ -1,5 +1,7 @@
 # sideboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sideboard.md)
+
 <p><span class="chinese">来装饰一下餐具柜或门廊。</span><span class="english">To grace a sideboard or an entrance hall.</span></p>
 
 <p><span class="chinese">在餐具架上有一对花瓶。</span><span class="english">There are a pair of vases on the sideboard.</span></p>

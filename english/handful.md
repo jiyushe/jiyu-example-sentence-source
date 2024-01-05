@@ -1,5 +1,7 @@
 # handful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handful.md)
+
 <p><span class="chinese">你需要的其实就是“盈盈一握”。</span><span class="english">A handful is all you need.</span></p>
 
 <p><span class="chinese">大概一只足便能足数完？</span><span class="english">There are maybe a handful?</span></p>

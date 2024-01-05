@@ -1,5 +1,7 @@
 # 并列
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/binglie.md)
+
 <p><span class="chinese">他跟大作家并列。</span><span class="english">He ranges with great writers.</span></p>
 
 <p><span class="chinese">三人并列第一。</span><span class="english">Three people tied for first place.</span></p>

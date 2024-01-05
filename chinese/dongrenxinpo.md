@@ -1,5 +1,7 @@
 # 动人心魄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongrenxinpo.md)
+
 <p><span class="chinese">请在这场动人心魄的解谜冒险中找出答案！</span><span class="english">Find out in this exhilarating Hidden-Object Puzzle adventure!</span></p>
 
 <p><span class="chinese">啊，如此的美景，不正是一幅动人心魄的纸织画吗？</span><span class="english">Oh, so beautiful, is it not a anemae core paper texture painting?</span></p>

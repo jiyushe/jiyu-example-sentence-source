@@ -1,5 +1,7 @@
 # late
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/late.md)
+
 <p><span class="chinese">宝贝，我该迟到了。</span><span class="english">Babe, I'm late.</span></p>
 
 <p><span class="chinese">他刹车过晚。</span><span class="english">He braked late.</span></p>

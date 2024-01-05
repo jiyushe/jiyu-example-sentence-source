@@ -1,5 +1,7 @@
 # 断送
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duansong.md)
+
 <p><span class="chinese">断送半度微凉。</span><span class="english">Ruined half degrees small cool.</span></p>
 
 <p><span class="chinese">布莱克断送了我的梅林爵士团勋章！！！</span><span class="english">Black cost me the Order of Merlin!!!</span></p>

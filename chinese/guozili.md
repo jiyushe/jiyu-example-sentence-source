@@ -1,5 +1,7 @@
 # 果子狸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guozili.md)
+
 <p><span class="chinese">果子狸是冬季中国南部的一种很受欢迎的食物。</span><span class="english">Civets are a popular food in southern China during winter.</span></p>
 
 <p><span class="chinese">果子狸在这些市场的贸易因而于2004年被禁。</span><span class="english">As a result, civet trading in these markets was banned in 2004.</span></p>

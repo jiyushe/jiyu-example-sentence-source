@@ -1,5 +1,7 @@
 # inconsiderate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inconsiderate.md)
+
 <p><span class="chinese">你根本就不会体谅人。</span><span class="english">You're inconsiderate.</span></p>
 
 <p><span class="chinese">他常常不体谅他的家人</span><span class="english">He’s often inconsiderate to his family.</span></p>

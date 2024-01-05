@@ -1,5 +1,7 @@
 # 宏阔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongkuo.md)
+
 <p><span class="chinese">在巨人的体内你们才宏阔浩瀚</span><span class="english">It is in the vast man that you are vast</span></p>
 
 <p><span class="chinese">文学现代主义与先前两三千年的文学样态之间存在着一条深邃而宏阔的断层线。</span><span class="english">There is a profound fault line between modernism and the dominating literary forms of the preceding eras.</span></p>

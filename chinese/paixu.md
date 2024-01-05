@@ -1,5 +1,7 @@
 # 排序
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paixu.md)
+
 <p><span class="chinese">归并排序。</span><span class="english">Merge Sort.</span></p>
 
 <p><span class="chinese">按类型排序。</span><span class="english">Sort by type.</span></p>

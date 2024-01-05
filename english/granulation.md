@@ -1,5 +1,7 @@
 # granulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/granulation.md)
+
 <p><span class="chinese">适用于粉末、颗粒集尘。</span><span class="english">It use suitable to collect powder and granulation.</span></p>
 
 <p><span class="chinese">目的探讨肉芽创面的修复方法。</span><span class="english">Objective To probe the repair of granulation wound.</span></p>

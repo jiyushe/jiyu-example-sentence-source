@@ -1,5 +1,7 @@
 # hypnotherapy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypnotherapy.md)
+
 <p><span class="chinese">有些治疗师使用催眠疗法来帮着克服失眠。</span><span class="english">Some therapists use hypnotherapy to help overcome insomnia.</span></p>
 
 <p><span class="chinese">催眠是一种很好的放松和缓解压力的工具。</span><span class="english">Hypnotherapy is a great tool for relaxation and relieving stress.</span></p>

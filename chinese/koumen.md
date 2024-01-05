@@ -1,5 +1,7 @@
 # 叩门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/koumen.md)
+
 <p><span class="chinese">看哪，我站在门外叩门。</span><span class="english">I stand at the door and knock.</span></p>
 
 <p><span class="chinese">我已经听到了新世界的叩门声。</span><span class="english">I can already hear it knocking.</span></p>

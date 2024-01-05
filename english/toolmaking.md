@@ -1,5 +1,7 @@
 # toolmaking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toolmaking.md)
+
 <p><span class="chinese">沟通与非技术性客户方面的模具问题，始终是困难的。</span><span class="english">Communicating with a non-technical customer in regard to toolmaking issues is always difficult.</span></p>
 
 <p><span class="chinese">然后在一百万年间传播到欧洲和亚洲，是最长的工具制造传统时期。</span><span class="english">It spread to Europe and Asia and continued for well over a million years, the longest period of any toolmaking tradition.</span></p>

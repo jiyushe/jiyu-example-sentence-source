@@ -1,5 +1,7 @@
 # coulomb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coulomb.md)
+
 <p><span class="chinese">国际单位制中的电荷单位是什么，库仑。</span><span class="english">What is the unit of charge in SI? Coulomb.</span></p>
 
 <p><span class="chinese">库仓斥力增添了对高温的需求。</span><span class="english">Coulomb repulsion imposes the need for high temperature.</span></p>

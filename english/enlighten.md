@@ -1,5 +1,7 @@
 # enlighten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enlighten.md)
+
 <p><span class="chinese">请告诉我。</span><span class="english">Enlighten me, please.</span></p>
 
 <p><span class="chinese">谢谢你开导我。</span><span class="english">Thank you for enlighten me.</span></p>

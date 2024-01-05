@@ -1,5 +1,7 @@
 # bluff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bluff.md)
+
 <p><span class="chinese">不要自夸和虚张声势。</span><span class="english">Do not brag or bluff.</span></p>
 
 <p><span class="chinese">他是个众所周知的大忽悠。</span><span class="english">He is bluff known to all!</span></p>

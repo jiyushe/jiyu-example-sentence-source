@@ -1,5 +1,7 @@
 # 神州
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenzhou.md)
+
 <p><span class="chinese">今晚我将飞往神州。</span><span class="english">I will fly to Dhina tonight.</span></p>
 
 <p><span class="chinese">我是神州后门上的一把铁锁。</span><span class="english">I is the back door of a carabiner.</span></p>

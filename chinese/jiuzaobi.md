@@ -1,5 +1,7 @@
 # 酒糟鼻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuzaobi.md)
+
 <p><span class="chinese">不只是酒糟鼻而已。</span><span class="english">Not just the nose.</span></p>
 
 <p><span class="chinese">一面说，一面酒糟鼻子就更红了。</span><span class="english">One said, one side more red vinasse nose.</span></p>

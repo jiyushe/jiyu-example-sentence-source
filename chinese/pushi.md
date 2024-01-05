@@ -1,5 +1,7 @@
 # 朴实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pushi.md)
+
 <p><span class="chinese">朴实之余，就全部是垃圾了。</span><span class="english">The rest is just rubbish.</span></p>
 
 <p><span class="chinese">当初起来，很朴实。</span><span class="english">Rise at the outset, very guileless.</span></p>

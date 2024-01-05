@@ -1,5 +1,7 @@
 # 社区
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shequ_1.md)
+
 <p><span class="chinese">社区的路要走。</span><span class="english">Community on the go.</span></p>
 
 <p><span class="chinese">社区启蒙通过任何书面考试。</span><span class="english">Pass any CCIE written exam.</span></p>

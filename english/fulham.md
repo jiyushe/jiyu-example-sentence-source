@@ -1,5 +1,7 @@
 # fulham
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fulham.md)
+
 <p><span class="chinese">我父亲是富勒姆足球队的球迷。</span><span class="english">My father is a Fulham supporter.</span></p>
 
 <p><span class="chinese">然而这个实验在富勒姆的最近一场比赛中失败了。</span><span class="english">Yet it failed at Fulham recently.</span></p>

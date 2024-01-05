@@ -1,5 +1,7 @@
 # mohawk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mohawk.md)
+
 <p><span class="chinese">海龟与红色莫霍克。</span><span class="english">Turtles with red mohawk.</span></p>
 
 <p><span class="chinese">留大红莫西干头的球迷是对的，火箭在劫难逃。</span><span class="english">The big guy in the bright red mohawk was right.</span></p>

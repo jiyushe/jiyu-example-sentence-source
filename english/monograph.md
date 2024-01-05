@@ -1,5 +1,7 @@
 # monograph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monograph.md)
+
 <p><span class="chinese">请输入英文药品名称或专论名称。</span><span class="english">Search by Drug name, Monograph name.</span></p>
 
 <p><span class="chinese">的高度评价，并为该专著作序。</span><span class="english">He also wrote preface for the monograph.</span></p>

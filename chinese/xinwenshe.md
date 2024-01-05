@@ -1,5 +1,7 @@
 # 新闻社
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinwenshe.md)
+
 <p><span class="chinese">它也是法国最大的新闻社。</span><span class="english">It is also the largest French news agency.</span></p>
 
 <p><span class="chinese">壹般而论这揭新闻社的工伧是让人感饯的。</span><span class="english">By and the work of the news agency is appreciative.</span></p>

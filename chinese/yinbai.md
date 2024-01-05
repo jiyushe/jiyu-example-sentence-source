@@ -1,5 +1,7 @@
 # 银白
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinbai.md)
+
 <p><span class="chinese">有木兰月染的银白。</span><span class="english">The silver of moon-touched magnolias.</span></p>
 
 <p><span class="chinese">银白，黑，仿金，红，蓝等。</span><span class="english">Silvery white black, golden, red, blue etc.</span></p>

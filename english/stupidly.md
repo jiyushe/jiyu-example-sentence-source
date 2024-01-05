@@ -1,5 +1,7 @@
 # stupidly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stupidly.md)
+
 <p><span class="chinese">即使不愚蠢，也算不得聪明。</span><span class="english">Ineptly, if not stupidly.</span></p>
 
 <p><span class="chinese">他真笨，竟然回答了这个问题。</span><span class="english">He stupidly answered the question.</span></p>

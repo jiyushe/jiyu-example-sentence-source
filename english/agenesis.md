@@ -1,5 +1,7 @@
 # agenesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agenesis.md)
+
 <p><span class="chinese">分析了八种成岩作用类型。</span><span class="english">Eight types of di agenesis are analyzed in detail.</span></p>
 
 <p><span class="chinese">目的探讨先天性胆囊缺如的诊断方法。</span><span class="english">Objective To investigate the diagnostic methods for agenesis of gallbladder.</span></p>

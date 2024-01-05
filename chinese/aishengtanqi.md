@@ -1,5 +1,7 @@
 # 唉声叹气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aishengtanqi.md)
+
 <p><span class="chinese">你为什么唉声叹气？</span><span class="english">What are you sighing about?</span></p>
 
 <p><span class="chinese">你是否曾经因为失败而唉声叹气？</span><span class="english">Have you ever sighed over the failures?</span></p>

@@ -1,5 +1,7 @@
 # 师徒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shitu_2.md)
+
 <p><span class="chinese">他与一建筑工人订了师徒合同。</span><span class="english">He is indenture to a builder.</span></p>
 
 <p><span class="chinese">师徒弟子，亦复如是。</span><span class="english">This is also true with teachersdisciples.</span></p>

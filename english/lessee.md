@@ -1,5 +1,7 @@
 # lessee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lessee.md)
+
 <p><span class="chinese">租户放弃续租。</span><span class="english">If Lessee has signed a waiver.</span></p>
 
 <p><span class="chinese">不要用“出租人”和“承租人”。</span><span class="english">Don't say "Lessor" and "Lessee."</span></p>

@@ -1,5 +1,7 @@
 # cisterna
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cisterna.md)
+
 <p><span class="chinese">发现枕大池扩大与此病无关。</span><span class="english">The enlarged cisterna magna is an unrelated finding.</span></p>
 
 <p><span class="chinese">由于池成熟，可以修改内酶的蛋白质。</span><span class="english">As the cisterna matures, enzymes inside can modify the protein.</span></p>

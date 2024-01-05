@@ -1,5 +1,7 @@
 # 反射
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanshe.md)
+
 <p><span class="chinese">什么是反射?</span><span class="english">What is Reflection?</span></p>
 
 <p><span class="chinese">并非每种色光都会反射回来。</span><span class="english">Every color is not reflected.</span></p>

@@ -1,5 +1,7 @@
 # washable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/washable.md)
+
 <p><span class="chinese">这些毯子既暖和又耐洗。</span><span class="english">These blankets are warm and washable.</span></p>
 
 <p><span class="chinese">拖把头可替换，可机洗。</span><span class="english">Replaceable mop refill machine washable.</span></p>

@@ -1,5 +1,7 @@
 # auto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/auto.md)
+
 <p><span class="chinese">自动擦鞋机“，”</span><span class="english">Auto Shoe Polisher.</span></p>
 
 <p><span class="chinese">碧沙汽车销售。</span><span class="english">Bayside Auto Sales.</span></p>

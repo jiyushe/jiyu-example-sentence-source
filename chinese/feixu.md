@@ -1,5 +1,7 @@
 # 飞絮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feixu.md)
+
 <p><span class="chinese">飞絮落花时候、一登楼。</span><span class="english">When willow catkins flower, a climbing.</span></p>
 
 <p><span class="chinese">歌曲循环。时光就这样在飞絮的思想中结疤。</span><span class="english">Song cycle. Time so at the thought of scarring.</span></p>

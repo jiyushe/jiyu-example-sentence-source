@@ -1,5 +1,7 @@
 # sixteenth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sixteenth.md)
+
 <p><span class="chinese">一盎斯是十六分之一磅。</span><span class="english">An ounce is one sixteenth of a pound.</span></p>
 
 <p><span class="chinese">美利坚第十六任总统。</span><span class="english">The sixteenth president of the United States.</span></p>

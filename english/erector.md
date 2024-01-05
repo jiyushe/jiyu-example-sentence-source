@@ -1,5 +1,7 @@
 # erector
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/erector.md)
+
 <p><span class="chinese">在这张图上竖立肌以蓝色标志。</span><span class="english">On this chart, the erector is marked in blue.</span></p>
 
 <p><span class="chinese">这台机器看起来既像玩具“建造模型”又像喷墨打印机。</span><span class="english">The machine looks like the offspring of an Erector Set and an inkjet printer.</span></p>

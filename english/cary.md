@@ -1,5 +1,7 @@
 # cary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cary.md)
+
 <p><span class="chinese">我们早晨都在课室外大声喊英语。</span><span class="english">We all cary out English out class in the morning.</span></p>
 
 <p><span class="chinese">念晓得办公室流程凯瑞将他的钥匙卡拔出保齐部例。</span><span class="english">Cary put his key card into the security system slot.</span></p>

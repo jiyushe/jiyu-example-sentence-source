@@ -1,5 +1,7 @@
 # epithelioid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epithelioid.md)
+
 <p><span class="chinese">结果病理诊断为上皮样肉瘤。</span><span class="english">Results The pathological diagnosis was epithelioid sarcoma.</span></p>
 
 <p><span class="chinese">肿瘤组织形态为梭形细胞和上皮样细胞。</span><span class="english">The tumor cells consisted of spindle shaped cells and epithelioid cells.</span></p>

@@ -1,5 +1,7 @@
 # universalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/universalism.md)
+
 <p><span class="chinese">基督是我们的普遍性的基础。</span><span class="english">Christ is the basis of our Universalism.</span></p>
 
 <p><span class="chinese">对于普遍主义有很多偏见。</span><span class="english">There was a lot of prejudice about universalism.</span></p>

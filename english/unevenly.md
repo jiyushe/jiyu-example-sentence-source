@@ -1,5 +1,7 @@
 # unevenly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unevenly.md)
+
 <p><span class="chinese">布染花了。</span><span class="english">The cloth is dyed unevenly.</span></p>
 
 <p><span class="chinese">战利品有必要被如此不均地分割吗？</span><span class="english">Do the spoils need to be so unevenly split?</span></p>

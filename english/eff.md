@@ -1,5 +1,7 @@
 # eff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eff.md)
+
 <p><span class="chinese">你这个小淘气滚开。</span><span class="english">You little rascal eff off.</span></p>
 
 <p><span class="chinese">EFF是这方面一个好资源。</span><span class="english">The EFF is a great resource for this.</span></p>

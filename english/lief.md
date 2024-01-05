@@ -1,5 +1,7 @@
 # lief
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lief.md)
+
 <p><span class="chinese">那等于想我兔子生孩子一样！</span><span class="english">As lief have a child to a rabbit!</span></p>
 
 <p><span class="chinese">这使我想起来我的大学时代。</span><span class="english">It reminds me of my college lief.</span></p>

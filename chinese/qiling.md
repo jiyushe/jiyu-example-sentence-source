@@ -1,5 +1,7 @@
 # 欺凌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiling.md)
+
 <p><span class="chinese">这项研究没有用“欺凌“这个词，相反，学生们被问之在过去的那些年里”有意义的事情“发生的频率。</span><span class="english">The study didn't use the term "bullying."</span></p>
 
 <p><span class="chinese">你曾经是网络欺凌之受害者？</span><span class="english">Have you been the victim of Cyberbullying?</span></p>

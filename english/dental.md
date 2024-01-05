@@ -1,5 +1,7 @@
 # dental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dental.md)
+
 <p><span class="chinese">每天使用牙线。</span><span class="english">Use dental floss daily.</span></p>
 
 <p><span class="chinese">迈克在一家牙科诊所工作。</span><span class="english">Mike works in a dental clinic.</span></p>

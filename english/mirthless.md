@@ -1,5 +1,7 @@
 # mirthless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mirthless.md)
+
 <p><span class="chinese">精灵说，上帝是忧郁的。</span><span class="english">God said, Fairy is mirthless.</span></p>
 
 <p><span class="chinese">他生硬的笑使我们感到很不舒服。</span><span class="english">His mirthless smile made all of us uncomfortable.</span></p>

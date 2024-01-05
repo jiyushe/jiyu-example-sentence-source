@@ -1,5 +1,7 @@
 # paulownia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paulownia.md)
+
 <p><span class="chinese">下个月就是桐子开花的季节了。</span><span class="english">The paulownia will blossom next month.</span></p>
 
 <p><span class="chinese">探讨了泡桐树叶作饲料的可能性。</span><span class="english">The results showed that paulownia leaves can be used as good fodder.</span></p>

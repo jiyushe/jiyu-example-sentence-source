@@ -1,5 +1,7 @@
 # offensive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/offensive.md)
+
 <p><span class="chinese">亦或是一种冒犯？</span><span class="english">Or was it offensive?</span></p>
 
 <p><span class="chinese">进攻是最好的防御。</span><span class="english">Offensive is the best defence.</span></p>

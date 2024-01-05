@@ -1,5 +1,7 @@
 # truncation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/truncation.md)
+
 <p><span class="chinese">自动截断固定长度的数据。</span><span class="english">Automatic truncation of fixed length data.</span></p>
 
 <p><span class="chinese">多个小数分隔符会导致截断。</span><span class="english">Multiple decimal separators result in truncation.</span></p>

@@ -1,5 +1,7 @@
 # falsification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/falsification.md)
+
 <p><span class="chinese">如何防假和打假成为当前社会各界共同关注的焦点。</span><span class="english">How to prevent and treat the falsification have been the focus of the society.</span></p>
 
 <p><span class="chinese">为了逃过被证伪的命运，星象学整个抹掉了其理论的可测试性。</span><span class="english">In order to escape falsification they destroyed the testability of their theory.</span></p>

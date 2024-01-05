@@ -1,5 +1,7 @@
 # 信口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinkou.md)
+
 <p><span class="chinese">不要信口胡说。</span><span class="english">Don't talk at random.</span></p>
 
 <p><span class="chinese">为我寄上一封情书，用你的吻封上信口。</span><span class="english">I send a love letter, sealed off with your kiss.</span></p>

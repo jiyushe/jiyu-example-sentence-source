@@ -1,5 +1,7 @@
 # 摇曳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoye_1.md)
+
 <p><span class="chinese">犹如那摇曳的风中之烛。</span><span class="english">Like a candle in wind.</span></p>
 
 <p><span class="chinese">在白雪飘飞的季节里摇曳。</span><span class="english">In this white snow season.</span></p>

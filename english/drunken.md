@@ -1,5 +1,7 @@
 # drunken
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drunken.md)
+
 <p><span class="chinese">他说起话来就像个醉汉。</span><span class="english">He speaks like a drunken man.</span></p>
 
 <p><span class="chinese">今日酒后我要出巡。</span><span class="english">Today I'm going for a drunken stroll.</span></p>

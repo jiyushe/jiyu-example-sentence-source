@@ -1,5 +1,7 @@
 # heatedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heatedly.md)
+
 <p><span class="chinese">有时我们热烈地讨论这些问题。</span><span class="english">Sometimes we heatedly discussed these problems.</span></p>
 
 <p><span class="chinese">我们就这场战争的正义性激烈地争了起来。</span><span class="english">We tangled heatedly over the justice of the war.</span></p>

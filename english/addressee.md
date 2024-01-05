@@ -1,5 +1,7 @@
 # addressee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/addressee.md)
+
 <p><span class="chinese">收件人是谁？</span><span class="english">Who is the addressee?</span></p>
 
 <p><span class="chinese">此消息完全是为了指定的收件人。</span><span class="english">This message is intended solely for the named addressee.</span></p>

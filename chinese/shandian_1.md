@@ -1,5 +1,7 @@
 # 闪电
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shandian_1.md)
+
 <p><span class="chinese">因为我快如闪电。</span><span class="english">Because I'm fast.</span></p>
 
 <p><span class="chinese">他行动快如闪电。</span><span class="english">He moved like lightning.</span></p>

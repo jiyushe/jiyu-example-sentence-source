@@ -1,5 +1,7 @@
 # 作乐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoyue.md)
+
 <p><span class="chinese">骑士们骑马比武，嬉戏作乐。</span><span class="english">Knights joust and frolic.</span></p>
 
 <p><span class="chinese">生活并非饮酒作乐而已。</span><span class="english">Life is not all beer and skittle.</span></p>

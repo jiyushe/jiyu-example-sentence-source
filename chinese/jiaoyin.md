@@ -1,5 +1,7 @@
 # 脚印
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoyin.md)
+
 <p><span class="chinese">一个跨时代的脚印！</span><span class="english">A print of cross-time!</span></p>
 
 <p><span class="chinese">伊丽？看看我们的脚印。</span><span class="english">Ellie. Look at our footprints.</span></p>

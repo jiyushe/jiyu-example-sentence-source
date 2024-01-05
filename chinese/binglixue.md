@@ -1,5 +1,7 @@
 # 病理学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/binglixue.md)
+
 <p><span class="chinese">组织病理学。</span><span class="english">Histopathology.</span></p>
 
 <p><span class="chinese">什么是医疗语音，语言病理学家？。</span><span class="english">What Is a Medical Speech-Language Pathologist?</span></p>

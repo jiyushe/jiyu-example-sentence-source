@@ -1,5 +1,7 @@
 # 一尘不染
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yichenburan.md)
+
 <p><span class="chinese">一辆一尘不染的出租车停在面前。</span><span class="english">A spotless cab pulled up.</span></p>
 
 <p><span class="chinese">房间干净的一尘不染。</span><span class="english">The room was spotlessly clean.</span></p>

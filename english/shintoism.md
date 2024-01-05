@@ -1,5 +1,7 @@
 # shintoism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shintoism.md)
+
 <p><span class="chinese">不管如何，你是从哪知道神道教起源资料的？</span><span class="english">However, where do you get the information from about the origins of Shintoism?</span></p>
 
 <p><span class="chinese">主要信奉神道和佛教，少数人信奉基督教和道教等。</span><span class="english">Shintoism and Buddhism are the major religions, with minority of Christians and Daoist, etc.</span></p>

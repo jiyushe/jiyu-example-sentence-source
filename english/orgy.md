@@ -1,5 +1,7 @@
 # orgy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orgy.md)
+
 <p><span class="chinese">房地产泡沫的狂欢是最后的欢呼。</span><span class="english">The housing bubble orgy was the last hurrah.</span></p>
 
 <p><span class="chinese">这一幕让人想起古罗马荒淫的狂欢宴会。</span><span class="english">It was reminiscent of a scene from a Roman orgy.</span></p>

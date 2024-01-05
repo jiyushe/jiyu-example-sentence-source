@@ -1,5 +1,7 @@
 # frenchman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frenchman.md)
+
 <p><span class="chinese">我认出他是一名法国人。</span><span class="english">I knew him for a Frenchman.</span></p>
 
 <p><span class="chinese">这是我最后一次见到这样勇武的法国男子了。</span><span class="english">This was the last time I saw this valiant Frenchman.</span></p>

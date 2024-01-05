@@ -1,5 +1,7 @@
 # 和暖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/henuan.md)
+
 <p><span class="chinese">卡特是-可爱和暖和专家。</span><span class="english">Carter's is the expert for cuddly and snuggly.</span></p>
 
 <p><span class="chinese">他问道，而扯淡“竟有点可爱和暖人？</span><span class="english">" he asked, while bull "is sort of cuddly and warm?</span></p>

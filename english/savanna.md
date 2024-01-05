@@ -1,5 +1,7 @@
 # savanna
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/savanna.md)
+
 <p><span class="chinese">这个阳光充裕的无树平原不产食物。</span><span class="english">The sunny savanna yields no food.</span></p>
 
 <p><span class="chinese">肯尼亚热带草原上，一头成年雄狮正在草丛里休息。</span><span class="english">A mature male lion rests in the grasses of the Kenyan savanna.</span></p>

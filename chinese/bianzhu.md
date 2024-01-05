@@ -1,5 +1,7 @@
 # 编著
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianzhu.md)
+
 <p><span class="chinese">爱新觉罗·固山额真编著请特别关注你的生存空间！</span><span class="english">Pay close attention to your living space please!</span></p>
 
 <p><span class="chinese">Fu说她一周大约花费20小时来编著这本书。</span><span class="english">Fu says she spends about 20 hours a week on the book.</span></p>

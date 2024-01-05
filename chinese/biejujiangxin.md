@@ -1,5 +1,7 @@
 # 别具匠心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biejujiangxin.md)
+
 <p><span class="chinese">作者别具匠心地设计了一个出人意料的结尾。</span><span class="english">The writer showed ingenuity in creating a surprising ending.</span></p>
 
 <p><span class="chinese">别具匠心的木质的把手更是给你贴身的隔热保护。</span><span class="english">We caring of you by the usage of the wood handle to protect you.</span></p>

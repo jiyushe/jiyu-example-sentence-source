@@ -1,5 +1,7 @@
 # thrilling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thrilling.md)
+
 <p><span class="chinese">因为你觉得这事很刺激。</span><span class="english">Because you think it's thrilling.</span></p>
 
 <p><span class="chinese">那应该是很令人兴奋的经历。</span><span class="english">It is supposedly a thrilling experience.</span></p>

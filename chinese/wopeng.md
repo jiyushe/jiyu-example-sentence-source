@@ -1,5 +1,7 @@
 # 窝棚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wopeng.md)
+
 <p><span class="chinese">那时只有低矮的窝棚似的小房子和泥泞的道路。</span><span class="english">There was nothing except shacks and muddy streets.</span></p>
 
 <p><span class="chinese">桅杆跟这窝棚内的单间房子差未几普通长。</span><span class="english">The mast was nearly as long as the one room of the shack.</span></p>

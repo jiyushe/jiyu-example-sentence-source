@@ -1,5 +1,7 @@
 # retired
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retired.md)
+
 <p><span class="chinese">他是一位退休工人。</span><span class="english">He is a retired worker.</span></p>
 
 <p><span class="chinese">给我全薪让我退休了。</span><span class="english">I was retired on full pay.</span></p>

@@ -1,5 +1,7 @@
 # dba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dba.md)
+
 <p><span class="chinese">尹先生也是本校博士课程学生。</span><span class="english">Wan is also one of our current DBA students.</span></p>
 
 <p><span class="chinese">为什么选择在诺丁汉商学院深造DBA学位?。</span><span class="english">Why study for the DBA at Nottingham Business Schoo?</span></p>

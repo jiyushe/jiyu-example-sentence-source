@@ -1,5 +1,7 @@
 # herry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/herry.md)
+
 <p><span class="chinese">把信带来交给我，别交给亨利。</span><span class="english">Bring the letter to me, not to Herry.</span></p>
 
 <p><span class="chinese">我第一次和亨利认识在一年前。</span><span class="english">I first got acquainted with Herry a year ago.</span></p>

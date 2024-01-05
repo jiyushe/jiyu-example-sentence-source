@@ -1,5 +1,7 @@
 # strike
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strike.md)
+
 <p><span class="chinese">敲出铿锵的音符。</span><span class="english">Strike a note.</span></p>
 
 <p><span class="chinese">绝不发动第一击。</span><span class="english">No first strike.</span></p>

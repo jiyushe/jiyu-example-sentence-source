@@ -1,5 +1,7 @@
 # sherwood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sherwood.md)
+
 <p><span class="chinese">站住！来者何人，来经许可，竟敢闯进谢伍德森林？</span><span class="english">Hold! Who comes here into Sherwood Forest without my pass?</span></p>
 
 <p><span class="chinese">提摩西薛伍这名字你有印象吗？</span><span class="english">Does the name Timothy Sherwood mean anything to you, doctor?</span></p>

@@ -1,5 +1,7 @@
 # clandestinely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clandestinely.md)
+
 <p><span class="chinese">三年来，他秘密去看心理医生，为了不留下记录他甚至还用现金支付。</span><span class="english">For three years, he clandestinely saw a therapist, paying in cash so there would be no record.</span></p>
 
 <p><span class="chinese">然后，他们会拿这些信息与当地的报纸或秘密拦截的电话内容相互进行参照。</span><span class="english">They cross-reference it with the local newspaper or a clandestinely intercepted phone conversation.</span></p>

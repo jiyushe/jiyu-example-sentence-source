@@ -1,5 +1,7 @@
 # 测算
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cesuan.md)
+
 <p><span class="chinese">好，那我们又该如何使用这个测算标准呢？</span><span class="english">OK, but how we can use this metric?</span></p>
 
 <p><span class="chinese">此研究测算的EG值为0.39。</span><span class="english">The value of EG measured in the study was 0.39.</span></p>

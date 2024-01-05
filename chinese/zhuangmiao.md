@@ -1,5 +1,7 @@
 # 壮苗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangmiao.md)
+
 <p><span class="chinese">壮苗在活棵立苗和生长方面都好于弱苗和黄化苗。</span><span class="english">Strong seedlings were better than weak seedlings in standing.</span></p>
 
 <p><span class="chinese">育苗底纸对种子发芽和出苗无影响，可以促进主根的发育和培养壮苗。</span><span class="english">There was no influence with the bottom paper on germination and emergence.</span></p>

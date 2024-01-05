@@ -1,5 +1,7 @@
 # 远走高飞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanzougaofei.md)
+
 <p><span class="chinese">等它找上时，我们早就远走高飞了。</span><span class="english">When it does, we'll be long gone.</span></p>
 
 <p><span class="chinese">现在我要带你远走高飞。</span><span class="english">About what are you still hesitating?</span></p>

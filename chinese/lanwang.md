@@ -1,5 +1,7 @@
 # 拦网
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lanwang.md)
+
 <p><span class="chinese">拦网得分比重有逐渐上升的趋势。</span><span class="english">The proportion of block is seeing an upward trend.</span></p>
 
 <p><span class="chinese">迫不及待去看冯坤如何施展他的魔法去对付俄罗斯的拦网！</span><span class="english">Can't wait to see Kun Feng work her magic on the Russian block.</span></p>

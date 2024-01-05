@@ -1,5 +1,7 @@
 # humankind
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humankind.md)
+
 <p><span class="chinese">智慧果会带给人类死亡。</span><span class="english">The fruit did bring death to humankind.</span></p>
 
 <p><span class="chinese">你有什麽想问我的呢？</span><span class="english">What suprises you most about humankind?</span></p>

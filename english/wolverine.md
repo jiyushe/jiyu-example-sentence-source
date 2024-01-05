@@ -1,5 +1,7 @@
 # wolverine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wolverine.md)
+
 <p><span class="chinese">密执安州是“狼獾之州”。</span><span class="english">Michigan is the Wolverine State.</span></p>
 
 <p><span class="chinese">密歇根州是“貂熊州”。</span><span class="english">Michigan is "The Wolverine State".</span></p>

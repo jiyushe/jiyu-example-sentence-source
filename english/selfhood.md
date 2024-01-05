@@ -1,5 +1,7 @@
 # selfhood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/selfhood.md)
+
 <p><span class="chinese">它一直在塑造着我的个性和自我。</span><span class="english">It figures my personality and selfhood.</span></p>
 
 <p><span class="chinese">首先，这是一部关于自我迷失与自我拯救的作品。</span><span class="english">First, it is a novel about the wandering and salvation of selfhood.</span></p>

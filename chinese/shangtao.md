@@ -1,5 +1,7 @@
 # 商讨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangtao.md)
+
 <p><span class="chinese">让我们商讨一下这个问题。</span><span class="english">Let's thresh out this problem.</span></p>
 
 <p><span class="chinese">他召集众神商讨对策。</span><span class="english">He summoned the gods to council.</span></p>

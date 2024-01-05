@@ -1,5 +1,7 @@
 # munich
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/munich.md)
+
 <p><span class="chinese">然后我们去了慕尼黑。</span><span class="english">And then we went to Munich.</span></p>
 
 <p><span class="chinese">参加慕尼黑啤酒节。</span><span class="english">Hit up Oktoberfest in Munich.</span></p>

@@ -1,5 +1,7 @@
 # 文盲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenmang.md)
+
 <p><span class="chinese">许多人是文盲。</span><span class="english">Many are illiterate.</span></p>
 
 <p><span class="chinese">文盲有依赖性。</span><span class="english">Illiteracy is dependence.</span></p>

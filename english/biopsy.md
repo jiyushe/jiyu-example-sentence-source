@@ -1,5 +1,7 @@
 # biopsy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biopsy.md)
+
 <p><span class="chinese">组织活检可能需要多个样本。</span><span class="english">Biopsy may involve several samples</span></p>
 
 <p><span class="chinese">活组织检查结果还没拿到。</span><span class="english">The biopsy results weren't back yet.</span></p>

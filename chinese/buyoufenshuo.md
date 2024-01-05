@@ -1,5 +1,7 @@
 # 不由分说
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buyoufenshuo.md)
+
 <p><span class="chinese">到了目的地后，大家不由分说，争先恐后地干起来。</span><span class="english">On arriving there, everybody went into action in no time.</span></p>
 
 <p><span class="chinese">到的城下，不由分说，开始攻城。</span><span class="english">To the city, the men without any explanation, began attacking the city.</span></p>

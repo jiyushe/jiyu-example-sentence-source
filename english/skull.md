@@ -1,5 +1,7 @@
 # skull
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skull.md)
+
 <p><span class="chinese">我斜睨着头骨。</span><span class="english">I squinted up at the skull.</span></p>
 
 <p><span class="chinese">再等一下，它又成了一个关盖骨。</span><span class="english">Hold on, it's a skull again.</span></p>

@@ -1,5 +1,7 @@
 # 温度表
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wendubiao.md)
+
 <p><span class="chinese">我不会看温度表上的度数。</span><span class="english">I can't read what the thermometer says.</span></p>
 
 <p><span class="chinese">昨天温度表上显示的读数为摄氏29度。</span><span class="english">The thermometer registered 29℃ yesterday.</span></p>

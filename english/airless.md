@@ -1,5 +1,7 @@
 # airless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/airless.md)
+
 <p><span class="chinese">墨西哥秃子大模大样地走了出去。</span><span class="english">The airless Mexican walked boldly out.</span></p>
 
 <p><span class="chinese">在那间闷气的屋子里我感觉都快憋死了。</span><span class="english">I felt I was stifling in the airless room.</span></p>

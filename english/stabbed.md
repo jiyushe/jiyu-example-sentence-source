@@ -1,5 +1,7 @@
 # stabbed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stabbed.md)
+
 <p><span class="chinese">但你还是捅了。</span><span class="english">But still you stabbed.</span></p>
 
 <p><span class="chinese">在一家酒吧的殴斗中被刺杀。</span><span class="english">Stabbed in a bar fight.</span></p>

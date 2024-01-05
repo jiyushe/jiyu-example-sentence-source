@@ -1,5 +1,7 @@
 # footpath
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/footpath.md)
+
 <p><span class="chinese">那是一条几乎人走的小道。</span><span class="english">It is a little-used footpath.</span></p>
 
 <p><span class="chinese">那是一条几乎没有人走的小道。</span><span class="english">It is a little-used footpath.</span></p>

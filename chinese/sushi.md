@@ -1,5 +1,7 @@
 # 素食
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sushi.md)
+
 <p><span class="chinese">素食。那感觉很奇怪。</span><span class="english">Vegan, yeah. It's weird,</span></p>
 
 <p><span class="chinese">我们先去了素食餐厅。</span><span class="english">We went to a vegan restaurant.</span></p>

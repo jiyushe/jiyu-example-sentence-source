@@ -1,5 +1,7 @@
 # tombstone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tombstone.md)
+
 <p><span class="chinese">被铭刻在他的墓碑上。</span><span class="english">And that is what is on his tombstone.</span></p>
 
 <p><span class="chinese">然后在我家附近立一个小墓碑。</span><span class="english">And please leave a small tombstone near home.</span></p>

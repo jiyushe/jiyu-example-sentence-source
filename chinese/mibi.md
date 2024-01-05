@@ -1,5 +1,7 @@
 # 密闭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mibi.md)
+
 <p><span class="chinese">独片门、开启容易、密闭性佳。</span><span class="english">One-panel door , easy to open and close.</span></p>
 
 <p><span class="chinese">验证手机结构密闭性。</span><span class="english">Validate the frame obturation of the handset.</span></p>

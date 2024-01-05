@@ -1,5 +1,7 @@
 # vibe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vibe.md)
+
 <p><span class="chinese">你已经感觉到了一个好的氛围。</span><span class="english">You've got a good vibe.</span></p>
 
 <p><span class="chinese">我想，它给了伦敦一种特有的氛围。</span><span class="english">I think, it gives London its vibe.</span></p>

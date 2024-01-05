@@ -1,5 +1,7 @@
 # circulatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/circulatory.md)
+
 <p><span class="chinese">他死于血液循环衰竭。</span><span class="english">He died of circulatory failure.</span></p>
 
 <p><span class="chinese">这就是所谓的急性循环衰竭，或休克。</span><span class="english">This is called acute circulatory failure, or shock.</span></p>

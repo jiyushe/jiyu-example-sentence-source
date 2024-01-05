@@ -1,5 +1,7 @@
 # pyroelectric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pyroelectric.md)
+
 <p><span class="chinese">热释电型探测器实际是一种对温度敏感的传感器。</span><span class="english">Pyroelectric detector is actually a sensor sensitive to temperature.</span></p>
 
 <p><span class="chinese">在PZT中通过掺杂得到了本体“黑”化的PZT热释电陶瓷。</span><span class="english">The self-darken pyroelectric ceramic has been obtained by doping in PZT.</span></p>

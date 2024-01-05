@@ -1,5 +1,7 @@
 # expansive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expansive.md)
+
 <p><span class="chinese">成见愈少，生命愈宽广。</span><span class="english">Less prejudice makes your life expansive.</span></p>
 
 <p><span class="chinese">他们采用向外展开打法打了一场橄榄球。</span><span class="english">They have played an expansive style of rugby.</span></p>

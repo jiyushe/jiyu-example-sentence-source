@@ -1,5 +1,7 @@
 # carla
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carla.md)
+
 <p><span class="chinese">米歇尔和卡拉坐在同一个沙发上。</span><span class="english">Michelle and Carla share a settee.</span></p>
 
 <p><span class="chinese">“为什么要我去？”卡拉嗫嚅道。</span><span class="english">"Why do I have to go" whined Carla.</span></p>

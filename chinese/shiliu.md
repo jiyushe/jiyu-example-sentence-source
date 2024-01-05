@@ -1,5 +1,7 @@
 # 石榴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiliu.md)
+
 <p><span class="chinese">吃石榴。</span><span class="english">Eat pomegranates.</span></p>
 
 <p><span class="chinese">深邃深厚的石榴红光彩。</span><span class="english">A deep garnet color.</span></p>

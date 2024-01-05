@@ -1,5 +1,7 @@
 # 聋哑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/longya.md)
+
 <p><span class="chinese">这男孩天生聋哑。</span><span class="english">The boy was born a deaf-mute.</span></p>
 
 <p><span class="chinese">我不能忍受我的破烂的聋哑英语！</span><span class="english">I can't stand my poor deaf-mute English.</span></p>

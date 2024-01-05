@@ -1,5 +1,7 @@
 # 恩怨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/enyuan.md)
+
 <p><span class="chinese">我没有牵扯到你们的私人恩怨里。</span><span class="english">I'm not getting involved in your personal vendettas.</span></p>
 
 <p><span class="chinese">此时我们必须摒弃个人之间的恩怨。</span><span class="english">We must blot out the personal enmities at this time.</span></p>

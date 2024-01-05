@@ -1,5 +1,7 @@
 # 摊开
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tankai.md)
+
 <p><span class="chinese">他手脚摊开横躺在床上。</span><span class="english">He was sprawled full-length across the bed.</span></p>
 
 <p><span class="chinese">麦克梯格摊开那双生满老茧坚硬的手掌。</span><span class="english">Mcteague exhibited his hard, calloused palms.</span></p>

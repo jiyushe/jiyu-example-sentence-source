@@ -1,5 +1,7 @@
 # iodoform
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iodoform.md)
+
 <p><span class="chinese">根管充填是治疗根尖周炎的一种简便有效的方法。</span><span class="english">It ls a simple and convenient method that iodoform paste filling root canal.</span></p>
 
 <p><span class="chinese">本文报道应用氢氧化钙蒸馏水糊剂作根管充填30例。</span><span class="english">This article reports 30 cases of root canal filling with calcium hydroxide and iodoform paste.</span></p>

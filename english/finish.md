@@ -1,5 +1,7 @@
 # finish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/finish.md)
+
 <p><span class="chinese">到达了终点线。</span><span class="english">At the finish line.</span></p>
 
 <p><span class="chinese">他说，“一定得弄完。</span><span class="english">I must finish this.</span></p>

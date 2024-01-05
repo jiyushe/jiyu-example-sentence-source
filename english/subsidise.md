@@ -1,5 +1,7 @@
 # subsidise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subsidise.md)
+
 <p><span class="chinese">华盛顿将会资助许多新建的州医疗保险交易所。</span><span class="english">Washington will subsidise many of those on the new state exchanges.</span></p>
 
 <p><span class="chinese">所以政府应补贴为后来者探路的行业先锋企业。</span><span class="english">So the government should subsidise pioneers who break a path for others.</span></p>

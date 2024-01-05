@@ -1,5 +1,7 @@
 # 抛锚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paomao.md)
+
 <p><span class="chinese">他们抛锚停船。</span><span class="english">They anchored the boat.</span></p>
 
 <p><span class="chinese">我的汽车抛锚了。</span><span class="english">My car broke down on me.</span></p>

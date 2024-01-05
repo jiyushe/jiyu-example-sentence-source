@@ -1,5 +1,7 @@
 # cob
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cob.md)
+
 <p><span class="chinese">他刚挖空一只玉米棒子。</span><span class="english">He had finished gouging out a cob.</span></p>
 
 <p><span class="chinese">这支玉米棒儿仍然自信地说道。</span><span class="english">The corn on the cob said with confidence.</span></p>

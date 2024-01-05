@@ -1,5 +1,7 @@
 # creamery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/creamery.md)
+
 <p><span class="chinese">的产量正在增长。</span><span class="english">The outputs of creamery are increasing.</span></p>
 
 <p><span class="chinese">一个叫酷圣石冰淇淋店的小地方。</span><span class="english">It's a little place called Cold Stone Creamery.</span></p>

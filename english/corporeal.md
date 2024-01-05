@@ -1,5 +1,7 @@
 # corporeal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corporeal.md)
+
 <p><span class="chinese">肉体意味着躯体和物质。</span><span class="english">Corporeal means bodily ,material.</span></p>
 
 <p><span class="chinese">我过去很喜欢肉体的陌生感。</span><span class="english">I was interested in corporeal strangeness.</span></p>

@@ -1,5 +1,7 @@
 # 沉吟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenyin.md)
+
 <p><span class="chinese">雷斯脱手里拿一把叉玩弄着沉吟了半晌。</span><span class="english">Lester ruminated for a while, toying with his fork.</span></p>
 
 <p><span class="chinese">丹尼尔沉吟片刻，“我从来没听说过他。”</span><span class="english">Danielle thought a moment. "I've never heard of him."</span></p>

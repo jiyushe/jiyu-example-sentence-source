@@ -1,5 +1,7 @@
 # approximate 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/approximate.md)
+
 <p><span class="chinese">这是个概数。</span><span class="english">It is an approximate number.</span></p>
 
 <p><span class="chinese">近似的和真实的的黄金螺旋线。</span><span class="english">Approximate and true golden spirals.</span></p>

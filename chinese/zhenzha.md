@@ -1,5 +1,7 @@
 # 侦查
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenzha.md)
+
 <p><span class="chinese">警方侦查出一名间谍。</span><span class="english">The police detected a spy.</span></p>
 
 <p><span class="chinese">但那仅能放慢他的侦查进程。</span><span class="english">But that just slows him down.</span></p>

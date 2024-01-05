@@ -1,5 +1,7 @@
 # honeybee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/honeybee.md)
+
 <p><span class="chinese">蜜蜂蛰过受害者后，不久就会死亡。</span><span class="english">Soon after stinging its victim, a honeybee will die.</span></p>
 
 <p><span class="chinese">略带灰色且性情安静的欧洲蜜蜂，繁殖率高。</span><span class="english">Grayish quiet-dispositioned highly productive european honeybee.</span></p>

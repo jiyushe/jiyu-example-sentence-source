@@ -1,5 +1,7 @@
 # 焦土
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaotu_1.md)
+
 <p><span class="chinese">一片焦土。</span><span class="english">Scorched dEarth.</span></p>
 
 <p><span class="chinese">整片树林被烧成了一片焦土。</span><span class="english">The whole forests seared.</span></p>

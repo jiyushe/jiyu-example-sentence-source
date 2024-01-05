@@ -1,5 +1,7 @@
 # 灵机一动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingjiyidong.md)
+
 <p><span class="chinese">我灵机一动,想到了问题关键</span><span class="english">That told me the answer.</span></p>
 
 <p><span class="chinese">突然我灵机一动。</span><span class="english">Then I had a brainstorm.</span></p>

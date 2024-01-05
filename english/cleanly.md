@@ -1,5 +1,7 @@
 # cleanly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cleanly.md)
+
 <p><span class="chinese">这刀切起来很锋利。</span><span class="english">The knife cuts very cleanly.</span></p>
 
 <p><span class="chinese">这刀切起来不利索。</span><span class="english">The knife doesn't cut cleanly.</span></p>

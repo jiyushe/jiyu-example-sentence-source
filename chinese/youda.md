@@ -1,5 +1,7 @@
 # 犹大
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youda.md)
+
 <p><span class="chinese">那十二个门徒里名叫犹大的，走在前头，就近耶稣，要与他亲嘴。</span><span class="english">He approached Jesus to kiss him</span></p>
 
 <p><span class="chinese">雅各生犹大和他的弟兄。</span><span class="english">Jacob had Judah and his brothers.</span></p>

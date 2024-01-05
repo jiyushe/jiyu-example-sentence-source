@@ -1,5 +1,7 @@
 # cassie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cassie.md)
+
 <p><span class="chinese">凯西现在长的什么样子?。</span><span class="english">What does Cassie look like now?</span></p>
 
 <p><span class="chinese">凯西必须去住你家为什么?。</span><span class="english">Cassie needs to stay at your place.</span></p>

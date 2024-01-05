@@ -1,5 +1,7 @@
 # jotting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jotting.md)
+
 <p><span class="chinese">我总是随身带一个笔记本，以便记下我的想法。</span><span class="english">I always carry a notebook with me for jotting down my ideas.</span></p>
 
 <p><span class="chinese">我发现粗略记下自己想做的，应该做或者能做的事情，这个方法对我很管用。</span><span class="english">I find jotting down a few things I want to do, should do, or could do, works best for me.</span></p>

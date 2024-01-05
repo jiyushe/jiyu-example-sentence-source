@@ -1,5 +1,7 @@
 # johnny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/johnny.md)
+
 <p><span class="chinese">强尼·戴普！</span><span class="english">Johnny Depp!</span></p>
 
 <p><span class="chinese">约翰尼·丰塔纳站起来。</span><span class="english">Johnny Fontane got up.</span></p>

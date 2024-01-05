@@ -1,5 +1,7 @@
 # lick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lick.md)
+
 <p><span class="chinese">舔我的嘴唇！</span><span class="english">Lick my lips!</span></p>
 
 <p><span class="chinese">让我舔你小妹妹。</span><span class="english">Let me lick your twat.</span></p>

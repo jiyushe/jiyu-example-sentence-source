@@ -1,5 +1,7 @@
 # 横断面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hengduanmian.md)
+
 <p><span class="chinese">穹丘的横断面为圆形或卵圆形。</span><span class="english">The domes are circular or ovoid in cross-section.</span></p>
 
 <p><span class="chinese">方法整群抽样，横断面调查。</span><span class="english">Method cluster sampling and cross sectional study.</span></p>

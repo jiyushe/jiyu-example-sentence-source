@@ -1,5 +1,7 @@
 # osseous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/osseous.md)
+
 <p><span class="chinese">他提出了一个儿童骨骼发育的指标。</span><span class="english">He proposed an indicator of osseous development in children.</span></p>
 
 <p><span class="chinese">所有无活性的组织，包括骨组织和软组织，都应清除。</span><span class="english">All nonviable tissue, both osseous and soft tissue, should be removed.</span></p>

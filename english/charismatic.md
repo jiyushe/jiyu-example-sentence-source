@@ -1,5 +1,7 @@
 # charismatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/charismatic.md)
+
 <p><span class="chinese">甘乃迪是难得一见有魅力的政治家。</span><span class="english">Kennedy was a rare and charismatic politician.</span></p>
 
 <p><span class="chinese">“这是一个很有个人魅力的演讲”彭斯告诉WTOV。</span><span class="english">"It's a very charismatic speech, " Burns told WTOV.</span></p>

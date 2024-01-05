@@ -1,5 +1,7 @@
 # downtime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/downtime.md)
+
 <p><span class="chinese">有停工期。</span><span class="english">There is downtime.</span></p>
 
 <p><span class="chinese">甚至感觉不到停机时间？</span><span class="english">Not even notice the downtime?</span></p>

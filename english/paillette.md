@@ -1,5 +1,7 @@
 # paillette
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paillette.md)
+
 <p><span class="chinese">亮片点缀的包包，形成华丽与梦幻感。</span><span class="english">The bag that paillette adorns, form luxuriant feel with dream.</span></p>
 
 <p><span class="chinese">领圈镶嵌的钻石、珠片，给人清新、亮丽的感觉。</span><span class="english">Studding the neck piece with diamond, paillette , giving a feeling of fresh and brilliance.</span></p>

@@ -1,5 +1,7 @@
 # 了结
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liaojie.md)
+
 <p><span class="chinese">事情了结的时候，他一定跑不了。</span><span class="english">He must be in at the finish.</span></p>
 
 <p><span class="chinese">我们之间的关系了结了!</span><span class="english">Everything is finished between us!</span></p>

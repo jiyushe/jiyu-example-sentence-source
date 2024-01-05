@@ -1,5 +1,7 @@
 # 何处
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hechu.md)
+
 <p><span class="chinese">今霄酒醒何处？</span><span class="english">From wine awake?</span></p>
 
 <p><span class="chinese">那么现在他身在何处呢？</span><span class="english">So where is he now?</span></p>

@@ -1,5 +1,7 @@
 # 无脊椎动物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wujizhuidongwu.md)
+
 <p><span class="chinese">这是无脊椎动物系统分类学的网页。</span><span class="english">This is the web page of Invertebrate Systematics.</span></p>
 
 <p><span class="chinese">海葵是无脊椎动物，有一千多个品种。</span><span class="english">There aremore than a thousand sea anemone species.</span></p>

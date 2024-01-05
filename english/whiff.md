@@ -1,5 +1,7 @@
 # whiff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whiff.md)
+
 <p><span class="chinese">他闻到了她身上的一股香水味。</span><span class="english">He caught a whiff of her perfume.</span></p>
 
 <p><span class="chinese">牙科医师又给她喷射了气雾麻醉药。</span><span class="english">The dentist gave her another whiff of anaesthetic.</span></p>

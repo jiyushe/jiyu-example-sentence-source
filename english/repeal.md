@@ -1,5 +1,7 @@
 # repeal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repeal.md)
+
 <p><span class="chinese">你会抛弃我，放狗追逐我。</span><span class="english">You'll repeal me, set dogs on me.</span></p>
 
 <p><span class="chinese">我会废除奥巴马健保法。</span><span class="english">I would repeal Obama-care, " he said."</span></p>

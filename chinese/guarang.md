@@ -1,5 +1,7 @@
 # 瓜瓤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guarang.md)
+
 <p><span class="chinese">这西瓜瓤儿太肉了。</span><span class="english">The pulp of this watermelon is too spongy.</span></p>
 
 <p><span class="chinese">用时将瓜瓤取出，用消毒洁净毛巾吸干水份。</span><span class="english">When it rang out with with a sterile towel dry clean water.</span></p>

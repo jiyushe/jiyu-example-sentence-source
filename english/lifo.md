@@ -1,5 +1,7 @@
 # lifo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lifo.md)
+
 <p><span class="chinese">加权平均，后进先出法和先进先出库存计算方法。</span><span class="english">Weighted Average, LIFO and FIFO inventory calculation methods.</span></p>
 
 <p><span class="chinese">“LIFO准备”是什麽？哪些因素使得它增加或减少？</span><span class="english">What does "LIFO Reserve" represent? What causes it to increase or decrease?</span></p>

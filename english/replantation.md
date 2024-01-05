@@ -1,5 +1,7 @@
 # replantation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/replantation.md)
+
 <p><span class="chinese">目的探讨小儿断指再植术后的护理。</span><span class="english">Objective The successful nursing after replantation of severed finger.</span></p>
 
 <p><span class="chinese">目的探讨指尖掌侧静脉在指尖再植中的作用。</span><span class="english">Objective To detect the effect of palm veins in fingertip replantation.</span></p>

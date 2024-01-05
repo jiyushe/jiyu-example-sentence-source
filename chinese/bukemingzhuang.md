@@ -1,5 +1,7 @@
 # 不可名状
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bukemingzhuang.md)
+
 <p><span class="chinese">我为不可名状的恐慌所控制。</span><span class="english">I was seized by a nameless horror.</span></p>
 
 <p><span class="chinese">史坦利觉得心头涌起一股不可名状的忧虑。</span><span class="english">Stanley felt a nameless anxiety rising in him.</span></p>

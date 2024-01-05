@@ -1,5 +1,7 @@
 # 眼光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanguang.md)
+
 <p><span class="chinese">你很有审美眼光。</span><span class="english">You have an eye for beauty.</span></p>
 
 <p><span class="chinese">就是她会把眼光放的很长远是吗？</span><span class="english">Is she bird-eyed? Isn't she?</span></p>

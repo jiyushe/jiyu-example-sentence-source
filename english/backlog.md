@@ -1,5 +1,7 @@
 # backlog
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backlog.md)
+
 <p><span class="chinese">那么对剩余部分的积压将会如何处理呢？</span><span class="english">What to do with all the rest of the backlog?</span></p>
 
 <p><span class="chinese">任务的列表就成了所谓的代办冲刺。</span><span class="english">This list of tasks becomes the Sprint Backlog.</span></p>

@@ -1,5 +1,7 @@
 # suppositional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suppositional.md)
+
 <p><span class="chinese">类知识分四个虚拟模块组织。</span><span class="english">The class knowledge is organized as four suppositional modules.</span></p>
 
 <p><span class="chinese">淘宝店做虚拟赚钱快么？？？？</span><span class="english">The store makes naughty treasure suppositional make money quickly? ? ? ?</span></p>

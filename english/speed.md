@@ -1,5 +1,7 @@
 # speed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/speed.md)
+
 <p><span class="chinese">速度限制？</span><span class="english">Speed limit?</span></p>
 
 <p><span class="chinese">如果我将速度加倍。</span><span class="english">I double the speed.</span></p>

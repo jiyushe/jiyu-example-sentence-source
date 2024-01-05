@@ -1,5 +1,7 @@
 # 情同手足
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingtongshouzu.md)
+
 <p><span class="chinese">我们情同手足。</span><span class="english">We are like brothers and sisters.</span></p>
 
 <p><span class="chinese">那两位通知情同手足。</span><span class="english">Those two comrades are hand -in-glove with each other.</span></p>

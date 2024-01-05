@@ -1,5 +1,7 @@
 # 环境规划
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanjingguihua.md)
+
 <p><span class="chinese">这一切给弗吉尼亚州北部地区的环境规划带来巨大改观。</span><span class="english">As a result, environmental planning in Northern Virginia has been transformed.</span></p>
 
 <p><span class="chinese">对每一类环境规划，环境改善均随投入的增加而迅速减少。</span><span class="english">For each of these pro-grains, environmental improvement rapidly decreased with the increase of the input.</span></p>

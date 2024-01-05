@@ -1,5 +1,7 @@
 # tetrahedral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tetrahedral.md)
+
 <p><span class="chinese">本文介绍了一种已有的四面体网格细分算法。</span><span class="english">This paper introduced a refined algorithm of tetrahedral meshes.</span></p>
 
 <p><span class="chinese">中心锡原子为畸变四面体配位构型。</span><span class="english">The tin atoms have a distorted tetrahedral coordination geometry.</span></p>

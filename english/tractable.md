@@ -1,5 +1,7 @@
 # tractable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tractable.md)
+
 <p><span class="chinese">金和银是容易加工的金属。</span><span class="english">Gold and silver are tractable metals.</span></p>
 
 <p><span class="chinese">金和银是容易加工的金属。</span><span class="english">Stener had always been very tractable.</span></p>

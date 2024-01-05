@@ -1,5 +1,7 @@
 # okey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/okey.md)
+
 <p><span class="chinese">好吧，那我明白了。</span><span class="english">Okey , i see then.</span></p>
 
 <p><span class="chinese">我就是我，我很好。</span><span class="english">I am me and Iam okey.</span></p>

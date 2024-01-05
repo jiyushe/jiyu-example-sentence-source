@@ -1,5 +1,7 @@
 # detroit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/detroit.md)
+
 <p><span class="chinese">我讨厌湖人。我是底特律人。</span><span class="english">I hate the Lakers. I'm from Detroit.</span></p>
 
 <p><span class="chinese">飞往底特律的088号班机现在开始登机。</span><span class="english">Flight 088 for Detroit is boarding now.</span></p>

@@ -1,5 +1,7 @@
 # auric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/auric.md)
+
 <p><span class="chinese">我们个人的守护天使，居住在我们的金场。</span><span class="english">Our personal guardian angel resides in our auric field.</span></p>
 
 <p><span class="chinese">你能合成每一个脉轮、精细身体、光身体和更大的金场。</span><span class="english">One can synthesize each chakra, subtle body, light body and greater auric field.</span></p>

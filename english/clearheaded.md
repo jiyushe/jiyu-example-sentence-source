@@ -1,5 +1,7 @@
 # clearheaded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clearheaded.md)
+
 <p><span class="chinese">通过这个计划，她说，她感觉精力充沛，头脑清醒。</span><span class="english">On this plan, she says she feels energetic and clearheaded.</span></p>
 
 <p><span class="chinese">它是清晰的逻辑和强有力的直觉的融合。</span><span class="english">It lies in the blend of clearheaded logic and powerful intuition.</span></p>

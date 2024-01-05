@@ -1,5 +1,7 @@
 # 随时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suishi_1.md)
+
 <p><span class="chinese">随时奉陪！</span><span class="english">Anytime!</span></p>
 
 <p><span class="chinese">随时欢迎！</span><span class="english">Welcome any time!</span></p>

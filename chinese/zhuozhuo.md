@@ -1,5 +1,7 @@
 # 灼灼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuozhuo.md)
+
 <p><span class="chinese">夏日里的阳光灼灼。</span><span class="english">The radiance of a summer day.</span></p>
 
 <p><span class="chinese">我连它们那残忍的眼睛中的灼灼目光都看清楚了。</span><span class="english">I could catch the glare of their ferocious eyes.</span></p>

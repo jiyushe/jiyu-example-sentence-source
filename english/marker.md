@@ -1,5 +1,7 @@
 # marker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marker.md)
+
 <p><span class="chinese">我有一支水彩笔。</span><span class="english">I have a marker.</span></p>
 
 <p><span class="chinese">我喜欢这支红色的记号笔。</span><span class="english">I ike the red marker.</span></p>

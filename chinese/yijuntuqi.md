@@ -1,5 +1,7 @@
 # 异军突起
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yijuntuqi.md)
+
 <p><span class="chinese">为解决这一问题，担保公司异军突起。</span><span class="english">To solve this problem, guarantee companies rise.</span></p>
 
 <p><span class="chinese">中国民办高校能“异军突起”吗?。</span><span class="english">Can China's Civilian-run Colleges Be a Dark Horse?</span></p>

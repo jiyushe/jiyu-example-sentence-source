@@ -1,5 +1,7 @@
 # thereof
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thereof.md)
+
 <p><span class="chinese">或者缺乏这些。</span><span class="english">Or the lack thereof.</span></p>
 
 <p><span class="chinese">所以众人不能吃了。</span><span class="english">And they could not eat thereof.</span></p>

@@ -1,5 +1,7 @@
 # grumble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grumble.md)
+
 <p><span class="chinese">阁楼上有咕咕哝哝的声音。</span><span class="english">The attic grumble.</span></p>
 
 <p><span class="chinese">我因事发牢骚。</span><span class="english">I grumble at thing.</span></p>

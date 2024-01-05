@@ -1,5 +1,7 @@
 # 星象
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingxiang_1.md)
+
 <p><span class="chinese">他们研究各种星象。</span><span class="english">They studied the stars and planets.</span></p>
 
 <p><span class="chinese">在空间站看星星象的样子是什么？</span><span class="english">What do the stars look like in the space?</span></p>

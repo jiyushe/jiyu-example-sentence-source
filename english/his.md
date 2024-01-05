@@ -1,5 +1,7 @@
 # his
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/his.md)
+
 <p><span class="chinese">他的狗！</span><span class="english">His dog.</span></p>
 
 <p><span class="chinese">他的叔叔.</span><span class="english">His uncle.</span></p>

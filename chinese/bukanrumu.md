@@ -1,5 +1,7 @@
 # 不堪入目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bukanrumu.md)
+
 <p><span class="chinese">他的上衣不堪入目。</span><span class="english">His coats were execrable.</span></p>
 
 <p><span class="chinese">那个人权纪录不堪入目的人。</span><span class="english">with abysmal human rights records.</span></p>

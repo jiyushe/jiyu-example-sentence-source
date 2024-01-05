@@ -1,5 +1,7 @@
 # ablution
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ablution.md)
+
 <p><span class="chinese">这是一个洗礼心灵的时刻。</span><span class="english">This is the hour of an ablution heart.</span></p>
 
 <p><span class="chinese">抑或清洗能将以前的罪过涤荡一空？</span><span class="english">Or because ablution washes away the past?</span></p>

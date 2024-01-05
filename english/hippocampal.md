@@ -1,5 +1,7 @@
 # hippocampal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hippocampal.md)
+
 <p><span class="chinese">脑海马神经细胞凋亡结果。</span><span class="english">Results of cerebra hippocampal neural cell apoptosis.</span></p>
 
 <p><span class="chinese">白海马的豆腐脑，由“三锅”组成。</span><span class="english">Hippocampal white tofu brain, by the "three pot" component.</span></p>

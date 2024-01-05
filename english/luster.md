@@ -1,5 +1,7 @@
 # luster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luster.md)
+
 <p><span class="chinese">使失去光泽或没有光泽。</span><span class="english">A surface shininess or luster.</span></p>
 
 <p><span class="chinese">有一天它真的会失去光泽？</span><span class="english">One day it will really lose luster?</span></p>

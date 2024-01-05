@@ -1,5 +1,7 @@
 # mattress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mattress.md)
+
 <p><span class="chinese">有人把床褥抛了出来。</span><span class="english">Somebody flings a mattress out.</span></p>
 
 <p><span class="chinese">在缺口处得放一块床垫。</span><span class="english">We must place a mattress there.</span></p>

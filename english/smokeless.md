@@ -1,5 +1,7 @@
 # smokeless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smokeless.md)
+
 <p><span class="chinese">一座无烟城。</span><span class="english">A SMOKELESS CITY.</span></p>
 
 <p><span class="chinese">旅游被认为是无烟工业。</span><span class="english">Tourism is regarded as a smokeless industry.</span></p>

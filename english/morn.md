@@ -1,5 +1,7 @@
 # morn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/morn.md)
+
 <p><span class="chinese">我早上只吃面包。</span><span class="english">I only eat bread in the morn.</span></p>
 
 <p><span class="chinese">从清晨到夜晚，我的朋友。</span><span class="english">From morn to night, my friend.</span></p>

@@ -1,5 +1,7 @@
 # 削足适履
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuezushilv.md)
+
 <p><span class="chinese">我们绝不能削足适履。</span><span class="english">We mustn't cut the feet to fit the shoes.</span></p>
 
 <p><span class="chinese">这样做无异于削足适履。</span><span class="english">Doing this is cutting the foot to fit the shoe.</span></p>

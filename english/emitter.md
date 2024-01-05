@@ -1,5 +1,7 @@
 # emitter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emitter.md)
+
 <p><span class="chinese">红外线发射器。峰值波长880纳米。</span><span class="english">Infrared emitter. Peak wavelength 880 nm.</span></p>
 
 <p><span class="chinese">红外线发射器。峰值波长945纳米。</span><span class="english">Infrared emitter. Peak wavelength 945 nm.</span></p>

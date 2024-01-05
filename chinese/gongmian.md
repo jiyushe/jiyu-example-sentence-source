@@ -1,5 +1,7 @@
 # 共勉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongmian.md)
+
 <p><span class="chinese">与大家共勉！</span><span class="english">Encourage with everybody!</span></p>
 
 <p><span class="chinese">嗯，呵呵，享受生活，共勉！</span><span class="english">Learn to enjoying life every day!</span></p>

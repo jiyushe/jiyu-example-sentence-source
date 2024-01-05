@@ -1,5 +1,7 @@
 # harmonically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harmonically.md)
+
 <p><span class="chinese">链条送纸，相位手动谐波调节，调整快速而准确。</span><span class="english">The phase is adjusted manually and harmonically with rapid and accurate adjustment.</span></p>
 
 <p><span class="chinese">它们不能协调发展时产生原生和次生两类问题。</span><span class="english">Original and secondary problems come into being while two subsystems do not develope harmonically.</span></p>

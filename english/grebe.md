@@ -1,5 +1,7 @@
 # grebe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grebe.md)
+
 <p><span class="chinese">从各个方向，风带来鲜红的花瓣，把它吹向湖面。</span><span class="english">Winds bring petals of cherry Into the grebe lake.</span></p>
 
 <p><span class="chinese">发白的嘴上有黑色斑纹的美洲。</span><span class="english">American grebe having a black-banded whitish bill.</span></p>

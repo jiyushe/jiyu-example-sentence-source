@@ -1,5 +1,7 @@
 # 望洋兴叹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangyangxingtan.md)
+
 <p><span class="chinese">作为奢侈品牌必须制造望洋兴叹的感觉。</span><span class="english">Often inaccessible as a luxury brand must make sense.</span></p>
 
 <p><span class="chinese">但如果空间面积过大，竹炭纤维也只能是望洋兴叹。</span><span class="english">However, if the space is too large, charcoal can only be always bemoans.</span></p>

@@ -1,5 +1,7 @@
 # 盗匪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daofei_1.md)
+
 <p><span class="chinese">盗匪洗劫这个城镇。</span><span class="english">The bandits looted the town.</span></p>
 
 <p><span class="chinese">盗匪在光天化日之下，洗劫银行。</span><span class="english">The robbers struck the bank in broad daylight!</span></p>

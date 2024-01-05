@@ -1,5 +1,7 @@
 # 接踵而来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiezhongerlai.md)
+
 <p><span class="chinese">接踵而来的是一场短暂的骂战。</span><span class="english">A short verbal battle follows.</span></p>
 
 <p><span class="chinese">失败之后，接踵而来的是大混乱。</span><span class="english">After the defeat great disorders followed.</span></p>

@@ -1,5 +1,7 @@
 # salesian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salesian.md)
+
 <p><span class="chinese">周神父在一个圣诞节报佳音活动上跳舞，很可爱。</span><span class="english">Salesian priest was dancing in a Christmas show.</span></p>
 
 <p><span class="chinese">周神父在一个圣诞节报佳音活动上跳舞，很可爱。</span><span class="english">A Salesian priest was dancing in a Christmas show.</span></p>

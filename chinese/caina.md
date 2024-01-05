@@ -1,5 +1,7 @@
 # 采纳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caina.md)
+
 <p><span class="chinese">他提出的意见被采纳了。</span><span class="english">His proffer of advice was accepted.</span></p>
 
 <p><span class="chinese">这个词现在已被采纳入英语。</span><span class="english">The word is now English by adoption.</span></p>

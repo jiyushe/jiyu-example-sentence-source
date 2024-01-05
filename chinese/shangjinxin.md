@@ -1,5 +1,7 @@
 # 上进心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangjinxin.md)
+
 <p><span class="chinese">我的室友当中，法兰西斯是非常有上进心的演员。</span><span class="english">One of my roommates, Francis, is an aspiring actor.</span></p>
 
 <p><span class="chinese">思想成熟、上进心强，并具极丰富的人际关系技巧。</span><span class="english">Mature, self-motivated and strong interpersonal skills.</span></p>

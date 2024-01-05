@@ -1,5 +1,7 @@
 # geist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geist.md)
+
 <p><span class="chinese">它是生命意识的新的形态，体现出感性与理性的统一。</span><span class="english">It acted as the unification of logos and geist.</span></p>
 
 <p><span class="chinese">你知道有时在镜片上看到的泡泡印是怎么回事吗？</span><span class="english">Geist. 'You know those bubbles you sometimes see on your lens?</span></p>

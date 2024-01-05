@@ -1,5 +1,7 @@
 # wipe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wipe.md)
+
 <p><span class="chinese">帮我擦擦嘛！</span><span class="english">Wipe for me!</span></p>
 
 <p><span class="chinese">擦擦你的小嘴巴。</span><span class="english">Wipe your mouth.</span></p>

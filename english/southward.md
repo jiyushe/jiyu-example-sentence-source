@@ -1,5 +1,7 @@
 # southward
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/southward.md)
+
 <p><span class="chinese">查理向南行走来到一座桥。</span><span class="english">Charlie walked southward to a bridge.</span></p>
 
 <p><span class="chinese">他沿着韦斯特兰横街朝南踱去。</span><span class="english">He walked southward along Westland row.</span></p>

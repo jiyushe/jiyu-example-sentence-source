@@ -1,5 +1,7 @@
 # wintry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wintry.md)
+
 <p><span class="chinese">象寒冬天空的朝晖。</span><span class="english">Like the sun from a wintry sky.</span></p>
 
 <p><span class="chinese">第一次冬季的风暴在森林中狂啸而过。</span><span class="english">The first wintry storm roars through the forest.</span></p>

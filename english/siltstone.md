@@ -1,5 +1,7 @@
 # siltstone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/siltstone.md)
+
 <p><span class="chinese">容矿岩石主要为钙质粉砂岩、粉砂质板岩。</span><span class="english">The host rocks are mainly calcareous siltstone and silty slate.</span></p>
 
 <p><span class="chinese">其中，泥岩的生热率最高，而粉沙岩、砂岩的生热率次之。</span><span class="english">Mudstone has highest heat generation comparing with siltstone and sandstone.</span></p>

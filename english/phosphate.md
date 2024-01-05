@@ -1,5 +1,7 @@
 # phosphate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phosphate.md)
+
 <p><span class="chinese">储藏磷酸钙。</span><span class="english">Storage of calcium phosphate.</span></p>
 
 <p><span class="chinese">别名甘是被压抑的钠含量。</span><span class="english">Byname is Pent-sodium Phosphate.</span></p>

@@ -1,5 +1,7 @@
 # interceptor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interceptor.md)
+
 <p><span class="chinese">每一枚拦截弹都会在顶部携带一架EKV。</span><span class="english">Each interceptor will carry an EKV in its tip.</span></p>
 
 <p><span class="chinese">他们的首个拦截导弹系统竟然是导弹中段拦截。</span><span class="english">The first interceptor they announce is a mid course one.</span></p>

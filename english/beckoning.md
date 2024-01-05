@@ -1,5 +1,7 @@
 # beckoning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beckoning.md)
+
 <p><span class="chinese">未来在向我们招手。</span><span class="english">The future is beckoning.</span></p>
 
 <p><span class="chinese">另一种较常见的手势是招手。</span><span class="english">Another common gesture is that for beckoning.</span></p>

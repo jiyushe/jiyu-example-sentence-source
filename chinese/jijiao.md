@@ -1,5 +1,7 @@
 # 犄角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jijiao.md)
+
 <p><span class="chinese">她喜欢问犄角旮旯儿的问题。</span><span class="english">She likes to ask trite questions.</span></p>
 
 <p><span class="chinese">有些鹿脱换犄角。</span><span class="english">Some kinds of deer shed their horns.</span></p>

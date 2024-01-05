@@ -1,5 +1,7 @@
 # prudish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prudish.md)
+
 <p><span class="chinese">我这也许太拘谨了。</span><span class="english">Perhaps it was too prudish.</span></p>
 
 <p><span class="chinese">相比之下电影为什么会如此谨慎？</span><span class="english">Why are the movies so prudish in comparison?</span></p>

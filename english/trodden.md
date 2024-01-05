@@ -1,5 +1,7 @@
 # trodden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trodden.md)
+
 <p><span class="chinese">没有践踏的污痕啊。</span><span class="english">In leaves no step had trodden back.</span></p>
 
 <p><span class="chinese">落叶覆盖，没有人的足迹。</span><span class="english">In leaves no step ahd trodden black.</span></p>

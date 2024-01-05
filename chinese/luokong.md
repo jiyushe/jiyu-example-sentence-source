@@ -1,5 +1,7 @@
 # 落空
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luokong.md)
+
 <p><span class="chinese">当然，他的奢望最终落空。</span><span class="english">But of course he failed.</span></p>
 
 <p><span class="chinese">但他的计划落空了。</span><span class="english">But his plan fell through.</span></p>

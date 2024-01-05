@@ -1,5 +1,7 @@
 # collisional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collisional.md)
+
 <p><span class="chinese">碰撞过程意味着热平衡。</span><span class="english">Collisional processes suggest thermal equilibrium.</span></p>
 
 <p><span class="chinese">前陆盆地的终结标志着碰撞造山作用的结束。</span><span class="english">The end of the sedimentation of the foreland basin indicates completion of the collisional orogeny.</span></p>

@@ -1,5 +1,7 @@
 # deformable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deformable.md)
+
 <p><span class="chinese">模具看作刚体，板料作为变形体。</span><span class="english">The blank is modeled as a deformable body.</span></p>
 
 <p><span class="chinese">在我们的研究工作中，采用了可变形模型方法。</span><span class="english">The deformable model algorithm is adopted in this research.</span></p>

@@ -1,5 +1,7 @@
 # discordant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discordant.md)
+
 <p><span class="chinese">下面的游客发出不和谐的嗡嗡声。</span><span class="english">The discordant hum of tourists below.</span></p>
 
 <p><span class="chinese">这个环带充满交流，但没有不协调的杂音。</span><span class="english">The ring was full of communication, but no discordant noise.</span></p>

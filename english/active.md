@@ -1,5 +1,7 @@
 # active
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/active.md)
+
 <p><span class="chinese">在这里我们选择活动状态。</span><span class="english">We choose active state.</span></p>
 
 <p><span class="chinese">“爱德华还在服现役吗？”“</span><span class="english">Edward on active service?</span></p>

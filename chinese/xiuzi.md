@@ -1,5 +1,7 @@
 # 袖子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuzi.md)
+
 <p><span class="chinese">所以，我挽起袖子开始打键盘了。</span><span class="english">So I started typing.</span></p>
 
 <p><span class="chinese">别用袖子擦鼻子!</span><span class="english">Don't sleeve your nose!</span></p>

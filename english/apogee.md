@@ -1,5 +1,7 @@
 # apogee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apogee.md)
+
 <p><span class="chinese">这一趋势在切尼担任副总统时达到顶峰。</span><span class="english">That trend reached its apogee in Dick Cheney.</span></p>
 
 <p><span class="chinese">宏伟打算达到口尾下的下潮。</span><span class="english">The Grand Design reached its rhetorical apogee.</span></p>

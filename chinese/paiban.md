@@ -1,5 +1,7 @@
 # 拍板
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paiban.md)
+
 <p><span class="chinese">陈公公拍板婚宴就望德楼办了！</span><span class="english">Chen father-in-law clappers wedding at Lou de do!</span></p>
 
 <p><span class="chinese">戈林正设法同盟国拍板成交。</span><span class="english">Goering was hoping to strike a bargain with the Allies.</span></p>

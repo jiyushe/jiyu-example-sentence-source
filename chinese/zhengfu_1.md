@@ -1,5 +1,7 @@
 # 政府
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengfu_1.md)
+
 <p><span class="chinese">我在政府机关做事。</span><span class="english">I work for government.</span></p>
 
 <p><span class="chinese">那政府如何获利呢？</span><span class="english">Now, how do they gain?</span></p>

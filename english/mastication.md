@@ -1,5 +1,7 @@
 # mastication
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mastication.md)
+
 <p><span class="chinese">咀嚼运动时有较广泛的脑区激活。</span><span class="english">Brain activation was comprehensive during mastication.</span></p>
 
 <p><span class="chinese">脑激活区在不同侧咀嚼中的作用还有待进一步的探讨。</span><span class="english">The roles of activated brain regions in mastication still elucidated.</span></p>

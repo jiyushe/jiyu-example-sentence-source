@@ -1,5 +1,7 @@
 # memento
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/memento.md)
+
 <p><span class="chinese">请题名留念。</span><span class="english">Please give your autograph as a memento.</span></p>
 
 <p><span class="chinese">星芭被推测死掉以后，阿达玛上将发现了她的哪些纪念物？</span><span class="english">What memento of Starbuck does Admiral Adama find after her presumed death?</span></p>

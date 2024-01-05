@@ -1,5 +1,7 @@
 # 厌弃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanqi.md)
+
 <p><span class="chinese">他被人厌弃。</span><span class="english">He was despised among men.</span></p>
 
 <p><span class="chinese">他们就厌弃他。</span><span class="english">And they were offended in him.</span></p>

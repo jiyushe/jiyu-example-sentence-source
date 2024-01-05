@@ -1,5 +1,7 @@
 # 中古
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhonggu.md)
+
 <p><span class="chinese">这部电影演活了中古世纪的情景。</span><span class="english">This movie brought the Middle Ages to life.</span></p>
 
 <p><span class="chinese">该座教堂建造的时间可上溯至中古世纪。</span><span class="english">The cathedral dates back to the Middle Ages.</span></p>

@@ -1,5 +1,7 @@
 # hologram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hologram.md)
+
 <p><span class="chinese">激光全息防伪字模材料。</span><span class="english">Laser hologram tamper evident printing material.</span></p>
 
 <p><span class="chinese">之后船长麦克尼尔的一幅全息影像出现在他的面前。</span><span class="english">Then a hologram of Captain McNeil rose in front of him.</span></p>

@@ -1,5 +1,7 @@
 # dropout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dropout.md)
+
 <p><span class="chinese">他有诵读困难症，还是一名大学退学生。</span><span class="english">He is dyslexic and a college dropout.</span></p>
 
 <p><span class="chinese">学童辍学率也很高。</span><span class="english">The school dropout rate also is high.</span></p>

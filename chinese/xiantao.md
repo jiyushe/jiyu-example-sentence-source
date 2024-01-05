@@ -1,5 +1,7 @@
 # 仙桃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiantao.md)
+
 <p><span class="chinese">今天我们要移植醉仙桃。</span><span class="english">Today we're going to repot Mandrakes.</span></p>
 
 <p><span class="chinese">武汉协和医院的专家已赶到仙桃会诊治疗。</span><span class="english">Wuhan Xiehe Hospital expert consultation has arrived in Xiantao treatment.</span></p>

@@ -1,5 +1,7 @@
 # immediacy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immediacy.md)
+
 <p><span class="chinese">即时性是广播电视新闻的重要特色。</span><span class="english">Immediacy is a key feature of broadcast news.</span></p>
 
 <p><span class="chinese">我们买的是药品的可靠性和即时性。</span><span class="english">We pay for Authenticity and Immediacy in drugs.</span></p>

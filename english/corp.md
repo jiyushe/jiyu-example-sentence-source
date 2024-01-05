@@ -1,5 +1,7 @@
 # corp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corp.md)
+
 <p><span class="chinese">星巴克公司再出新招。</span><span class="english">Starbucks Corp. is at it again.</span></p>
 
 <p><span class="chinese">沙特想象设备传统。公司。</span><span class="english">Saudi Imaging Equipment Trad . Corp.</span></p>

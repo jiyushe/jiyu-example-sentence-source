@@ -1,5 +1,7 @@
 # borneol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/borneol.md)
+
 <p><span class="chinese">这是冰片开放血脑屏障的作用机制之一。</span><span class="english">It was one of mechanisms for borneol opening BBB.</span></p>
 
 <p><span class="chinese">艾粉是艾纳香制取冰片的粗级产品。</span><span class="english">The Blumea balsamifera powder is a crude product of borneol.</span></p>

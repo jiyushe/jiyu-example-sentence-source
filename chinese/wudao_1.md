@@ -1,5 +1,7 @@
 # 舞蹈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wudao_1.md)
+
 <p><span class="chinese">谁舞蹈比力好?。</span><span class="english">Who dances better?</span></p>
 
 <p><span class="chinese">这是基诺族的舞蹈。</span><span class="english">It is a Jino dance.</span></p>

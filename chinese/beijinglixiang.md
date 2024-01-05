@@ -1,5 +1,7 @@
 # 背井离乡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beijinglixiang.md)
+
 <p><span class="chinese">背井离乡的德国犹太裔文学经典重归故里</span><span class="english">German-Jewish Literary Culture Returns from Exile</span></p>
 
 <p><span class="chinese">到头来他会背井离乡，在自助食堂里洗碗碟。</span><span class="english">He'd end up an exile washing dishes at the automat.</span></p>

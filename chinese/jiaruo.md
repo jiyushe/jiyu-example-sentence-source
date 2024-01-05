@@ -1,5 +1,7 @@
 # 假若
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaruo.md)
+
 <p><span class="chinese">试想，假若它意志薄弱。</span><span class="english">If it were ever weak-minded.</span></p>
 
 <p><span class="chinese">假若可能的话，尽量早点启碇。</span><span class="english">Try to start early, if possible.</span></p>

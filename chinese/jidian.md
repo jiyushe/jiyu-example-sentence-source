@@ -1,5 +1,7 @@
 # 机电
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jidian.md)
+
 <p><span class="chinese">还有一个机电市场。</span><span class="english">There are an electromechanical market.</span></p>
 
 <p><span class="chinese">我公司进行机电专业施工图深化设计。</span><span class="english">M&E deepen design finshed by our institute.</span></p>

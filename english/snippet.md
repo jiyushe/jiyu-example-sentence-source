@@ -1,5 +1,7 @@
 # snippet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snippet.md)
+
 <p><span class="chinese">显示的代码片断将完成这一任务。</span><span class="english">The code snippet shown will accomplish this task.</span></p>
 
 <p><span class="chinese">上面代码段的最后一行代码将保存会话。</span><span class="english">The last line of the code snippet saves the session.</span></p>

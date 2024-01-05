@@ -1,5 +1,7 @@
 # 携手并肩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xieshoubingjian.md)
+
 <p><span class="chinese">我们要么成为一支团队携手并肩团结奋战，要么一个个任人宰割的个体。</span><span class="english">And, either we heal, now, as a team, or we will die as individuals.</span></p>
 
 <p><span class="chinese">他说，两个国家都热爱自由，两国将携手并肩打击恐怖主义。</span><span class="english">He said both countries love freedom and together they will fight against terrorism.</span></p>

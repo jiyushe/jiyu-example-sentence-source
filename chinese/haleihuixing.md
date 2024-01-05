@@ -1,5 +1,7 @@
 # 哈雷彗星
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haleihuixing.md)
+
 <p><span class="chinese">哈雷彗星，1910</span><span class="english">Halley's Comet, 1910</span></p>
 
 <p><span class="chinese">一张拍摄于1986年的哈雷彗星照片。</span><span class="english">An image of Halley's Comet taken in 1986.</span></p>

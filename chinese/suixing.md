@@ -1,5 +1,7 @@
 # 遂行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suixing.md)
+
 <p><span class="chinese">遂行剖腹探查及肿瘤切除。</span><span class="english">A laparotomy was performed and the tumor was resected.</span></p>
 
 <p><span class="chinese">第二种办法也是在行星形成时遂行捕捉。</span><span class="english">The second method also places capture during the planetary growth phase.</span></p>

@@ -1,5 +1,7 @@
 # horrid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horrid.md)
+
 <p><span class="chinese">多么讨厌的小男人！</span><span class="english">What a horrid little man!</span></p>
 
 <p><span class="chinese">别这样使简阿姨讨厌！</span><span class="english">Don't be so horrid to Aunt Jane!</span></p>

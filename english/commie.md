@@ -1,5 +1,7 @@
 # commie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commie.md)
+
 <p><span class="chinese">因为他们彼此之间从不信任。</span><span class="english">That why we never trust any commie.</span></p>
 
 <p><span class="chinese">你说的很对，我们的想法其实不矛盾的。</span><span class="english">So are you telling me you are a commie now?</span></p>

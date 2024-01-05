@@ -1,5 +1,7 @@
 # valerie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/valerie.md)
+
 <p><span class="chinese">瞭望楼的瓦莱丽桑德森向哈里森埃德尔说起了这件事。</span><span class="english">Outlook's Valerie Sanderson spoke to Harrison Edell.</span></p>
 
 <p><span class="chinese">你可以问问策展人任卓华为什么她要办这个展。</span><span class="english">You could ask Valerie why she wants to make this show.</span></p>

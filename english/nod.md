@@ -1,5 +1,7 @@
 # nod
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nod.md)
+
 <p><span class="chinese">你点头。</span><span class="english">You nod.</span></p>
 
 <p><span class="chinese">而我总会颔首聆听。</span><span class="english">I nod and listen.</span></p>

@@ -1,5 +1,7 @@
 # 萤火虫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinghuochong.md)
+
 <p><span class="chinese">萤火虫的光要到极限了。</span><span class="english">Firefly's light to the limit.</span></p>
 
 <p><span class="chinese">也想看看萤火虫。</span><span class="english">Also ambition to see glowworm.</span></p>

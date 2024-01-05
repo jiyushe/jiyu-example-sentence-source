@@ -1,5 +1,7 @@
 # aerodynamics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aerodynamics.md)
+
 <p><span class="chinese">经过风洞测试，以实现最佳的空气动力学性能。</span><span class="english">Tested in the wind-tunnel for best aerodynamics.</span></p>
 
 <p><span class="chinese">车身对空气动力学的运用以及外观的设计绝对疯狂。</span><span class="english">The aerodynamics and the design are absolutely crazy.</span></p>

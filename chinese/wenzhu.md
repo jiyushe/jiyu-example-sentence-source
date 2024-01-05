@@ -1,5 +1,7 @@
 # 稳住
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenzhu.md)
+
 <p><span class="chinese">疯子，稳住！</span><span class="english">Madman, hold!</span></p>
 
 <p><span class="chinese">热刺渐渐稳住了阵脚。</span><span class="english">Spurs are steadying themselves.</span></p>

@@ -1,5 +1,7 @@
 # earthling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/earthling.md)
+
 <p><span class="chinese">娜塔莉·波特曼饰演凡人女科学家。</span><span class="english">Natalie Portman plays the Earthling scientist.</span></p>
 
 <p><span class="chinese">您的伟大是当之无愧的，应该受到世人的敬仰！</span><span class="english">Your greatness is deserved and should be revered by earthling.</span></p>

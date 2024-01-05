@@ -1,5 +1,7 @@
 # scrawl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scrawl.md)
+
 <p><span class="chinese">不要在墙上乱涂乱画。</span><span class="english">Don’t scrawl all over the wall.</span></p>
 
 <p><span class="chinese">这种潦潦草草的东西我能看懂吗！</span><span class="english">I can't be expected to read this scrawl !</span></p>

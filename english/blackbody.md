@@ -1,5 +1,7 @@
 # blackbody
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blackbody.md)
+
 <p><span class="chinese">和可见光对比，太阳的黑体光谱是怎样的？</span><span class="english">How does the blackbody spectrum of the sun compare to visible light?</span></p>
 
 <p><span class="chinese">一个辐射黑体在一切惯性系中都呈现黑色。</span><span class="english">A blackbody radiator will therefore appear black in all inertial frames.</span></p>

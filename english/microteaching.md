@@ -1,5 +1,7 @@
 # microteaching
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microteaching.md)
+
 <p><span class="chinese">“微格教研”是“微格教学”的变式。</span><span class="english">Microteaching researching" is a variety of "microteaching".</span></p>
 
 <p><span class="chinese">在此基础上阐述了改进微格教学的具体建议。</span><span class="english">It states the specific suggestions of improving microteaching.</span></p>

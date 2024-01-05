@@ -1,5 +1,7 @@
 # 沙尘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shachen.md)
+
 <p><span class="chinese">康纳布鲁克与沙尘他多次访问。</span><span class="english">Connor Brucker on one of his many visits with Dusty.</span></p>
 
 <p><span class="chinese">沙尘使你喉咙发干，让你感到干渴难忍。</span><span class="english">Dust dries your throat, leaving an unquenchable thirst.</span></p>

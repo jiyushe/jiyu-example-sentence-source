@@ -1,5 +1,7 @@
 # 外文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waiwen.md)
+
 <p><span class="chinese">这本书是我的这是我的外文书。</span><span class="english">The Book Is Mine This is my English book.</span></p>
 
 <p><span class="chinese">有没有外文的交通地图？</span><span class="english">Do you have a foreign language driving map?</span></p>

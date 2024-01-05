@@ -1,5 +1,7 @@
 # rewire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rewire.md)
+
 <p><span class="chinese">等等你是说要重接他的大脑…</span><span class="english">Wait, you want to rewire his brain?</span></p>
 
 <p><span class="chinese">大脑并非恒定不变，神经细胞在人的一生中经常重新连线。</span><span class="english">Brains are not static, and neurons constantly rewire themselves throughout life.</span></p>

@@ -1,5 +1,7 @@
 # 烟叶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanye.md)
+
 <p><span class="chinese">他甚至学会了咀嚼烟叶。</span><span class="english">He even learned to chew tobacco.</span></p>
 
 <p><span class="chinese">香料烟是一种芳香型烟叶。</span><span class="english">Oriental tobacco is an aromatic leaf.</span></p>

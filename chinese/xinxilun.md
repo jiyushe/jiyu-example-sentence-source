@@ -1,5 +1,7 @@
 # 信息论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinxilun.md)
+
 <p><span class="chinese">信息论与编码课件，希望能对大家有所帮助！</span><span class="english">Information theory and coding courseware, we want to help!</span></p>
 
 <p><span class="chinese">研究隐写术安全性的信息论模型。</span><span class="english">The information-theoretic model of stegosystem is studied.</span></p>

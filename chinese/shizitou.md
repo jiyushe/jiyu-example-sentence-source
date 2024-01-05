@@ -1,5 +1,7 @@
 # 狮子头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizitou.md)
+
 <p><span class="chinese">他把那狮子头挂起来作为狩猎纪念品。</span><span class="english">He hung the lion's head as a trophy.</span></p>
 
 <p><span class="chinese">这狮子头又香又嫩。</span><span class="english">The lion's head is tender and tasty.</span></p>

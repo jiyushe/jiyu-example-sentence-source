@@ -1,5 +1,7 @@
 # matriarchal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/matriarchal.md)
+
 <p><span class="chinese">艺妓生活在一个严格的母系社会中，妇女占主导地位。</span><span class="english">The geisha women live in a strictly matriarchal society.Women dominate.</span></p>
 
 <p><span class="chinese">大象的母系族家庭是由其生育的母象和幼象组成的。</span><span class="english">The matriarchal society consists of her female offspring and their young.</span></p>

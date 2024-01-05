@@ -1,5 +1,7 @@
 # faithfulness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faithfulness.md)
+
 <p><span class="chinese">神的良善和信实？</span><span class="english">God's goodness and faithfulness?</span></p>
 
 <p><span class="chinese">他的一片忠诚令人感动。</span><span class="english">His dog-like faithfulness was touching.</span></p>

@@ -1,5 +1,7 @@
 # erlang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/erlang.md)
+
 <p><span class="chinese">跷二郎腿跷二郎腿会使腿部血流不畅，影响健康。</span><span class="english">Organisation Erlang Tui WHO Erlang Tui will flow impeded the leg, affect health.</span></p>
 
 <p><span class="chinese">从工程地质研究思路的角度出发，对位于川藏公路二郎山隧道西口和平沟泥石流进行了研究。</span><span class="english">The Hepinggou Landslide is located at west portal of the highway tunnel in the Erlang Mountain.</span></p>

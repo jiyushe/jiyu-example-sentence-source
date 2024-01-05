@@ -1,5 +1,7 @@
 # 顽强
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanqiang.md)
+
 <p><span class="chinese">我是顽强。</span><span class="english">I am relentlessness.</span></p>
 
 <p><span class="chinese">交纳贡礼或顽强抵抗。</span><span class="english">Pay tribute or fight.</span></p>

@@ -1,5 +1,7 @@
 # narrows
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/narrows.md)
+
 <p><span class="chinese">乔尔眯了眯眼。</span><span class="english">Joel narrows his eyes.</span></p>
 
 <p><span class="chinese">她眯缝起眼睛瞅着我。</span><span class="english">She narrows her eyes at me.</span></p>

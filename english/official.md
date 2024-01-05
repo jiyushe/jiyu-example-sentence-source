@@ -1,5 +1,7 @@
 # official 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/official.md)
+
 <p><span class="chinese">官方网站在这里。</span><span class="english">The official site is here.</span></p>
 
 <p><span class="chinese">他只是个小官吏。</span><span class="english">He is only a petty official.</span></p>

@@ -1,5 +1,7 @@
 # heady
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heady.md)
+
 <p><span class="chinese">现在，贾尔周围都是急性子的人。</span><span class="english">Now he was in heady company.</span></p>
 
 <p><span class="chinese">华盛顿令人兴奋的周末结束了。</span><span class="english">The heady weekend in Washington is over.</span></p>

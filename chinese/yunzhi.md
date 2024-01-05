@@ -1,5 +1,7 @@
 # 韵致
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunzhi.md)
+
 <p><span class="chinese">把抒情的人性韵致“用到我较为熟悉的人事上”。</span><span class="english">He pats the connived human nature in to our familiar affairs.</span></p>
 
 <p><span class="chinese">或许，我是天生对这些轻微而韵致的东西多那么一份情有独钟的。</span><span class="english">Perhaps, I was born to these minor while using much more then a show special preference to the.</span></p>

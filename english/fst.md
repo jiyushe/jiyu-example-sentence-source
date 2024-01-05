@@ -1,5 +1,7 @@
 # fst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fst.md)
+
 <p><span class="chinese">这是我们第一次在一起说话。</span><span class="english">It was the fst time we had spoken together.</span></p>
 
 <p><span class="chinese">不要挥金如土，否则你最终会成为乞丐的。</span><span class="english">Stop spending so fst , or you'll end up as a beggar.</span></p>

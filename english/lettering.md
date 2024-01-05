@@ -1,5 +1,7 @@
 # lettering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lettering.md)
+
 <p><span class="chinese">噢，我的情况只是有刻字。</span><span class="english">Oh, in my case there was just lettering.</span></p>
 
 <p><span class="chinese">我认为它是一个写着白字的黑色广告牌。</span><span class="english">I think it's a black sign with white lettering.</span></p>

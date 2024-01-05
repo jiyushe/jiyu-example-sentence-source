@@ -1,5 +1,7 @@
 # fingered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fingered.md)
+
 <p><span class="chinese">她轻轻地触摸丝绸。</span><span class="english">She fingered the silk gently.</span></p>
 
 <p><span class="chinese">这是我最奇怪的一点。</span><span class="english">It was the one I fingered the most.</span></p>

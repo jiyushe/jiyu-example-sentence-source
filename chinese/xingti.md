@@ -1,5 +1,7 @@
 # 形体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingti.md)
+
 <p><span class="chinese">多形体纸卷将被保留。</span><span class="english">Polymorph scrolls will be kept.</span></p>
 
 <p><span class="chinese">等等，你说的关于我妈妈的事又把我搞糊涂了，她再也不会回到物质形体中了吗？</span><span class="english">never return again to physical form?</span></p>

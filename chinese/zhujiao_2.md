@@ -1,5 +1,7 @@
 # 注脚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhujiao_2.md)
+
 <p><span class="chinese">注脚列在书页下端。</span><span class="english">A footnote is made at the bottom of the page.</span></p>
 
 <p><span class="chinese">参考资料可以在注脚或文章末端标明。</span><span class="english">References may be either footnoted or endnoted.</span></p>

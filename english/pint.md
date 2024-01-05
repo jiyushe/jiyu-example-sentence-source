@@ -1,5 +1,7 @@
 # pint 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pint.md)
+
 <p><span class="chinese">对了，每人一品脱啤酒。</span><span class="english">Yes, a pint of beer each.</span></p>
 
 <p><span class="chinese">老规矩，一品脱嘉士伯。</span><span class="english">As usual, one pint of Carlsberg.</span></p>

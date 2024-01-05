@@ -1,5 +1,7 @@
 # vtc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vtc.md)
+
 <p><span class="chinese">你是否愿意在日后收到职业训练局的资料？</span><span class="english">Do you wish to receive information from VTC in future?</span></p>
 
 <p><span class="chinese">本公司同意退还职业训练局多付的训练津贴。</span><span class="english">We agree to refund the VTC any over payment of training grant.</span></p>

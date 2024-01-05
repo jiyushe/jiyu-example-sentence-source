@@ -1,5 +1,7 @@
 # 主心骨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuxingu.md)
+
 <p><span class="chinese">她是我们车间的主心骨。</span><span class="english">She is the mainstay of our workshop.</span></p>
 
 <p><span class="chinese">我父亲是家庭的主心骨。</span><span class="english">My father is the backbone of my family.</span></p>

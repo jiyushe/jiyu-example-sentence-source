@@ -1,5 +1,7 @@
 # darby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/darby.md)
+
 <p><span class="chinese">来吧，慢慢的，慢慢的，为人声和钢琴而作的三重唱民歌。</span><span class="english">Come, Darby Dear, folk song for voice & piano trio.</span></p>
 
 <p><span class="chinese">埃里克和贝蒂被认为是村里最幸福的一对老夫妻。</span><span class="english">Eric and Betty are regarded as the Darby and Joan of the village.</span></p>

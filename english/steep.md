@@ -1,5 +1,7 @@
 # steep 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/steep.md)
+
 <p><span class="chinese">这条路太陡了。</span><span class="english">The road is so steep.</span></p>
 
 <p><span class="chinese">这条路可是太陡了呀。</span><span class="english">This road is so steep.</span></p>

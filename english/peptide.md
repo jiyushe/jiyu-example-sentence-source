@@ -1,5 +1,7 @@
 # peptide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peptide.md)
+
 <p><span class="chinese">玉米肽具有抗疲劳作用。</span><span class="english">Corn peptide has anti-fatigue effect.</span></p>
 
 <p><span class="chinese">活性肽原子抗皱，效果清楚。</span><span class="english">Anti-wrinkle peptide atoms, the effect is clear.</span></p>

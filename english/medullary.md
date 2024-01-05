@@ -1,5 +1,7 @@
 # medullary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/medullary.md)
+
 <p><span class="chinese">应用MRI研究延髓背外侧综合征。</span><span class="english">To study Dorsolateral Medullary Syndrome with MRI.</span></p>
 
 <p><span class="chinese">还发现不少波浪形扭曲的髓质动脉。</span><span class="english">Wavy, tortuous medullary arteries can be also found.</span></p>

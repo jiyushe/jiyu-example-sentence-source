@@ -1,5 +1,7 @@
 # magnification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magnification.md)
+
 <p><span class="chinese">中高倍率观测。</span><span class="english">Medium to high magnification.</span></p>
 
 <p><span class="chinese">在低和高放大倍率之间实验。</span><span class="english">Experiment between low and high magnification.</span></p>

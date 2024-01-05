@@ -1,5 +1,7 @@
 # lobed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lobed.md)
+
 <p><span class="chinese">花盘波状的环状的或不规则浅裂。</span><span class="english">Disk undulate annular or irregularly lobed.</span></p>
 
 <p><span class="chinese">叶片具两面有鳞的，全缘的鳞片，或浅裂的。</span><span class="english">Leaf blade with both surfaces scaly, scales entire, or lobed.</span></p>

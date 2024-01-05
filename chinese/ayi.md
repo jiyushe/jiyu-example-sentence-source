@@ -1,5 +1,7 @@
 # 阿姨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ayi.md)
+
 <p><span class="chinese">嗨！卡拉阿姨！</span><span class="english">Hi! Aunt Kala!</span></p>
 
 <p><span class="chinese">回头见，阿姨。</span><span class="english">Bye now, auntie.</span></p>

@@ -1,5 +1,7 @@
 # eric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eric.md)
+
 <p><span class="chinese">不，他头发不长，他头发很短。</span><span class="english">Does Eric wear his hair long?</span></p>
 
 <p><span class="chinese">但艾里克对此并没有表现出不安。</span><span class="english">But Eric wasn’t upset about it.</span></p>

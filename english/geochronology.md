@@ -1,5 +1,7 @@
 # geochronology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geochronology.md)
+
 <p><span class="chinese">同位素地质年代学，是研究两群地质演化的一个重要手段。</span><span class="english">The isotopic geochronology is an important way for researching the geologic development of these two groups.</span></p>
 
 <p><span class="chinese">文章研究了鄂尔多斯盆地东胜地区砂岩型铀矿成矿年代学特征。</span><span class="english">This paper studied the geochronology of sandstone-type uranium deposit in the Dongsheng area of Ordos Basin.</span></p>

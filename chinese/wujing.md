@@ -1,5 +1,7 @@
 # 五经
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wujing.md)
+
 <p><span class="chinese">五经中也并没这么说过。</span><span class="english">That's not something they say themselves.</span></p>
 
 <p><span class="chinese">摩西五经的写作，在公元前1450年左右。</span><span class="english">Before Moses wrote his books, about 1450 B. C.</span></p>

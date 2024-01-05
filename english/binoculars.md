@@ -1,5 +1,7 @@
 # binoculars
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/binoculars.md)
+
 <p><span class="chinese">也可以用双筒望远镜和罗盘。</span><span class="english">Try binoculars and compasses, too.</span></p>
 
 <p><span class="chinese">他把双筒远镜的焦点对准在那只鸟上。</span><span class="english">He focused his binoculars on the bird.</span></p>

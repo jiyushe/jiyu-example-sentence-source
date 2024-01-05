@@ -1,5 +1,7 @@
 # indochina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indochina.md)
+
 <p><span class="chinese">中南半岛访古，东京废墟遥祭华夏列祖。</span><span class="english">Indochina Peninsula in Cuba, Tokyo ruins Yaoji Chinese fathers.</span></p>
 
 <p><span class="chinese">中国在湄公河修建大坝已然引起中南半岛下游地区的不满。</span><span class="english">Its damming of the Mekong has sparked anger downstream in Indochina.</span></p>

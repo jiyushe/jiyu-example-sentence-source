@@ -1,5 +1,7 @@
 # tessa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tessa.md)
+
 <p><span class="chinese">泰莎——这是我的妻子，贝拉。</span><span class="english">Tessa. This is Bella, my wife.</span></p>
 
 <p><span class="chinese">苔萨是一个有趣的英国女孩。</span><span class="english">Tessa is an interesting British girl.</span></p>

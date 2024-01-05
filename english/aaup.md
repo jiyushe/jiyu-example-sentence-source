@@ -1,5 +1,7 @@
 # aaup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aaup.md)
+
 <p><span class="chinese">它暴露了全美大学教授联合会正在走下坡路。</span><span class="english">It reveals the slope on which the AAUP now finds itself.</span></p>
 
 <p><span class="chinese">它暴露了全美大学教授联合会正在走下坡路。</span><span class="english">The AAUP has many branches at different colleges and universities in the U. S.</span></p>

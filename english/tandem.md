@@ -1,5 +1,7 @@
 # tandem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tandem.md)
+
 <p><span class="chinese">乔凡尼是我的“串连交流伙伴”。</span><span class="english">Giovanni is my Tandem Exchange Partner.</span></p>
 
 <p><span class="chinese">日本和韩国结合起来遏制中国。</span><span class="english">A Japan-South Korea tandem to deter China.</span></p>

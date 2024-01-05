@@ -1,5 +1,7 @@
 # histone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/histone.md)
+
 <p><span class="chinese">H4组蛋白就是五个组蛋白团之一。</span><span class="english">Histone H4 is one of five histone groups.</span></p>
 
 <p><span class="chinese">本发明涉及组蛋白脱乙酰基酶的抑制。</span><span class="english">The invention relates to the inhibition of histone deacetylase.</span></p>

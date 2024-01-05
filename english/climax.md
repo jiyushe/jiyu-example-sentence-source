@@ -1,5 +1,7 @@
 # climax
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/climax.md)
+
 <p><span class="chinese">气氛达到高潮。</span><span class="english">A shouted climax.</span></p>
 
 <p><span class="chinese">整场戏的高潮来了。</span><span class="english">Here comes the climax of the play.</span></p>

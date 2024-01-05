@@ -1,5 +1,7 @@
 # ineligible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ineligible.md)
+
 <p><span class="chinese">未满18岁者无资格领取补助金。</span><span class="english">Any person under the age of 18 is ineligible for benefit.</span></p>
 
 <p><span class="chinese">来自政党和政治行动委员会的捐款不能得到匹配资金。</span><span class="english">Contributions from parties and PACs are ineligible for matching.</span></p>

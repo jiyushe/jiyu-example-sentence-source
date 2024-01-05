@@ -1,5 +1,7 @@
 # jumble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jumble.md)
+
 <p><span class="chinese">那是一种缺乏鉴赏力和真实性的胡诌。</span><span class="english">It was a jumble without taste or truth.</span></p>
 
 <p><span class="chinese">这篇散文思想混乱，使人不知所云。</span><span class="english">The essay was a meaningless jumble of ideas.</span></p>

@@ -1,5 +1,7 @@
 # crudely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crudely.md)
+
 <p><span class="chinese">这所房子盖得很粗陋。</span><span class="english">This is a crudely built house.</span></p>
 
 <p><span class="chinese">女帽面板本身是粗糙的做。</span><span class="english">The bonnet panel itself is crudely made.</span></p>

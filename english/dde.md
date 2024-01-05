@@ -1,5 +1,7 @@
 # dde
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dde.md)
+
 <p><span class="chinese">各单元通过DDE协议连结起来。</span><span class="english">Each units are connected by DDE protocol.</span></p>
 
 <p><span class="chinese">三者之间通过DDE协议进行数据链接。</span><span class="english">The three parts connect through DDE protocol.</span></p>

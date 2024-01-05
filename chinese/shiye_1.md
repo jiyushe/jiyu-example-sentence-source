@@ -1,5 +1,7 @@
 # 实业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiye_1.md)
+
 <p><span class="chinese">广州西竹实业有限公司。</span><span class="english">Xizhu Industry Co. , Ltd.</span></p>
 
 <p><span class="chinese">自华为中国实业。</span><span class="english">Hunan Huawei China Industry Co.</span></p>

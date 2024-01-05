@@ -1,5 +1,7 @@
 # microvascular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microvascular.md)
+
 <p><span class="chinese">我们检测了微血管浸润的作用。</span><span class="english">We investigated preoperative predictors of microvascular invasion.</span></p>
 
 <p><span class="chinese">TMBG和TMP从心肌微血管水平对再灌注进行评价。</span><span class="english">TMBG and TMP provide the reperfusion evaluation on myocardial microvascular level.</span></p>

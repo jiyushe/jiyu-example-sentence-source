@@ -1,5 +1,7 @@
 # 室内乐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shineile.md)
+
 <p><span class="chinese">世界级水平的室内乐演奏。</span><span class="english">World-class chamber music performance.</span></p>
 
 <p><span class="chinese">大约在一年前，我开始演奏室内乐。</span><span class="english">A year or so ago, I started to play chamber music.</span></p>

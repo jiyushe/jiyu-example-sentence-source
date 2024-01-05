@@ -1,5 +1,7 @@
 # skywalk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skywalk.md)
+
 <p><span class="chinese">请耐心的享受你游览空中通道的这一刻吧。</span><span class="english">Please be patient to enjoy your moment on the Skywalk.</span></p>
 
 <p><span class="chinese">沿著中山路走直到你看到一座天桥。</span><span class="english">Walk straight on Zhong-Shan Road when you see a skywalk.</span></p>

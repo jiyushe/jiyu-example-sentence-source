@@ -1,5 +1,7 @@
 # affine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/affine.md)
+
 <p><span class="chinese">如果某个请求是密切的，那么它不能被负载平衡。</span><span class="english">If a request is affine it cannot be load-balanced.</span></p>
 
 <p><span class="chinese">在经典数学中，每个非空的仿射空间都平行于惟一的向量子空间。</span><span class="english">Each nonempty affine set is parallel to a unique vector subspace.</span></p>

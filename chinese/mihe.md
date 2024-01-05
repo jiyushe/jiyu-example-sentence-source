@@ -1,5 +1,7 @@
 # 弥合
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mihe.md)
+
 <p><span class="chinese">但大家都期待我们弥合这些分歧。</span><span class="english">But you expect us to bridge those differences.</span></p>
 
 <p><span class="chinese">可以使用什么解决方案来弥合这些差距？</span><span class="english">What solution can be used to fill in the gaps?</span></p>

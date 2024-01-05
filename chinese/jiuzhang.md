@@ -1,5 +1,7 @@
 # 旧账
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuzhang.md)
+
 <p><span class="chinese">我们的旧账可以一笔勾销！</span><span class="english">It's time we wrote off all our old scores!</span></p>
 
 <p><span class="chinese">我一有机会就要与对手算清旧账。</span><span class="english">I would get square with my rival on the first opportunity.</span></p>

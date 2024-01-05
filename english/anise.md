@@ -1,5 +1,7 @@
 # anise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anise.md)
+
 <p><span class="chinese">茴香家酿伏特加。</span><span class="english">Anise home-distilled vodka.</span></p>
 
 <p><span class="chinese">一丝淡淡的茴香，弥漫在空气中，还有黄花的芬芳。</span><span class="english">A faint anise smell is on the air, goldenrod scent.</span></p>

@@ -1,5 +1,7 @@
 # 中期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongqi.md)
+
 <p><span class="chinese">我仍处于职业生涯的中期。</span><span class="english">I'm still only mid-career.</span></p>
 
 <p><span class="chinese">关键性转折始于09年中期。</span><span class="english">A pivotal turn began midyear.</span></p>

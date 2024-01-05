@@ -1,5 +1,7 @@
 # songbook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/songbook.md)
+
 <p><span class="chinese">因此，在歌本上创造了许多土俗字。</span><span class="english">Thus, in songbook to create a lot of Tusu word.</span></p>
 
 <p><span class="chinese">于是，阿富汗儿童歌集计划开始了。</span><span class="english">And the Afghan Children's Songbook Project began.</span></p>

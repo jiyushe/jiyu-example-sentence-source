@@ -1,5 +1,7 @@
 # 无暇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuxia.md)
+
 <p><span class="chinese">整个街区银装素裹，洁白无暇。</span><span class="english">The entire block is white, clean.</span></p>
 
 <p><span class="chinese">大家都说她像普绪客一样纯洁无暇。</span><span class="english">They say she is as pure as Psyche.</span></p>

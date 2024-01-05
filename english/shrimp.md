@@ -1,5 +1,7 @@
 # shrimp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shrimp.md)
+
 <p><span class="chinese">我是一个超级大头虾。</span><span class="english">I'm a big head shrimp.</span></p>
 
 <p><span class="chinese">你说什么，小虾米？</span><span class="english">What did you say, Shrimp?</span></p>

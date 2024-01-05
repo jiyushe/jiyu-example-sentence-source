@@ -1,5 +1,7 @@
 # kuching
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kuching.md)
+
 <p><span class="chinese">这是古晋北市市政局的大厦。</span><span class="english">This is Kuching North City Hall building.</span></p>
 
 <p><span class="chinese">关于古晋的得名有好几种说法。</span><span class="english">There are several accounts of how Kuching got its name.</span></p>

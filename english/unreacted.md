@@ -1,5 +1,7 @@
 # unreacted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unreacted.md)
+
 <p><span class="chinese">未反应单体经汽提后回收。</span><span class="english">Unreacted monomer is stripped and recycled.</span></p>
 
 <p><span class="chinese">旋涡加速了未反应区的化学反应速率。</span><span class="english">Vortices accelerate reaction rates of the unreacted region.</span></p>

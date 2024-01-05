@@ -1,5 +1,7 @@
 # 五颜六色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuyanliuse.md)
+
 <p><span class="chinese">一张五颜六色的席子做！</span><span class="english">A colourful mat is done!</span></p>
 
 <p><span class="chinese">花有五颜六色，人生也是一样的。</span><span class="english">Flowers are colorful, life is the same.</span></p>

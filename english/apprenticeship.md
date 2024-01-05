@@ -1,5 +1,7 @@
 # apprenticeship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apprenticeship.md)
+
 <p><span class="chinese">他尚未满师。</span><span class="english">He is not yet out of his apprenticeship.</span></p>
 
 <p><span class="chinese">他曾跟一个裁缝当过学徒。</span><span class="english">He served his apprenticeship with a tailor.</span></p>

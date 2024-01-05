@@ -1,5 +1,7 @@
 # tetanus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tetanus.md)
+
 <p><span class="chinese">最近您打过破伤风针吗？</span><span class="english">Have you had a tetanus shot recently?</span></p>
 
 <p><span class="chinese">你是否知道或者认为你需要打预防针？</span><span class="english">Do you know or think you need a tetanus shot?</span></p>

@@ -1,5 +1,7 @@
 # 主食
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhushi_1.md)
+
 <p><span class="chinese">米是我们的主食。</span><span class="english">Rice is our staple food.</span></p>
 
 <p><span class="chinese">北方人的主食是面条。</span><span class="english">Northern peoples staple fo.</span></p>

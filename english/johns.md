@@ -1,5 +1,7 @@
 # johns
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/johns.md)
+
 <p><span class="chinese">是约翰斯。</span><span class="english">It's Johns.</span></p>
 
 <p><span class="chinese">醒来的那个就是约翰斯。</span><span class="english">That will be Johns woke up.</span></p>

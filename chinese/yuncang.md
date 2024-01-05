@@ -1,5 +1,7 @@
 # 蕴藏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuncang.md)
+
 <p><span class="chinese">科威特蕴藏着丰富的石油资源。</span><span class="english">Kuwait is rich in oil resources.</span></p>
 
 <p><span class="chinese">这蕴藏着丰富的地热资源。</span><span class="english">It riches in geothermal resources.</span></p>

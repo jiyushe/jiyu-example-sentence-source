@@ -1,5 +1,7 @@
 # switchboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/switchboard.md)
+
 <p><span class="chinese">可以把它看成是一个交换总机。</span><span class="english">Think of it as a switchboard.</span></p>
 
 <p><span class="chinese">交换总机看起来比较过瘾。</span><span class="english">A switchboard looks more interesting.</span></p>

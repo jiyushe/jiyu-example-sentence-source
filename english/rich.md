@@ -1,5 +1,7 @@
 # rich
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rich.md)
+
 <p><span class="chinese">我是多么的富有！</span><span class="english">How rich I am!</span></p>
 
 <p><span class="chinese">要是我成了富人。</span><span class="english">If I were rich.</span></p>

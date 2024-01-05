@@ -1,5 +1,7 @@
 # angled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/angled.md)
+
 <p><span class="chinese">角度的手贴边口袋。</span><span class="english">Angled hand welt pockets.</span></p>
 
 <p><span class="chinese">鲑鳟鱼斜向地顺流而下。</span><span class="english">The trout angled downstream.</span></p>

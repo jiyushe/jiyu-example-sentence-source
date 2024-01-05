@@ -1,5 +1,7 @@
 # divers
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/divers.md)
+
 <p><span class="chinese">将潜水者带往潜水处的小船。</span><span class="english">Boat taking divers to dive site.</span></p>
 
 <p><span class="chinese">警方的潜水夫在搜索河底。</span><span class="english">Police divers are searching the river bed.</span></p>

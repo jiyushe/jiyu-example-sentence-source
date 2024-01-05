@@ -1,5 +1,7 @@
 # lifetime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lifetime.md)
+
 <p><span class="chinese">养成好习惯，一辈子受用不尽。</span><span class="english">Good habits, a lifetime ever.</span></p>
 
 <p><span class="chinese">我那时的生活环境就是那样</span><span class="english">And that's just in my lifetime.</span></p>

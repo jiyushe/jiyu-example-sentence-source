@@ -1,5 +1,7 @@
 # 刀耕火种
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daogenghuozhong.md)
+
 <p><span class="chinese">这就是所谓的刀耕火种。</span><span class="english">This is known as slash and burn.</span></p>
 
 <p><span class="chinese">很多人认为玛雅人采取的是刀耕火种的农业种植方式。</span><span class="english">The Maya are thought by many to have used slash-and-burn agriculture.</span></p>

@@ -1,5 +1,7 @@
 # jasmin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jasmin.md)
+
 <p><span class="chinese">茉莉花散发出一种诱人的芳香。</span><span class="english">Jasmin gives forth a pleasant fragrance.</span></p>
 
 <p><span class="chinese">直到现在，简诗美品牌是你在市场上能够找到的最顶级、品质最好的有机护肤品牌。</span><span class="english">Until now, Jasmin is the highest quality organic skincare brand you can find in the market.</span></p>

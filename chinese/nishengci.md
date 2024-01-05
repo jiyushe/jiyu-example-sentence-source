@@ -1,5 +1,7 @@
 # 拟声词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nishengci.md)
+
 <p><span class="chinese">以下是二十个拟声词。</span><span class="english">Here are twenty common onomatopoeias.</span></p>
 
 <p><span class="chinese">你认为拟声词是形式和意义之间的非任意的联结吗？</span><span class="english">Some say that is the process of making the sound onomatopoeia.</span></p>

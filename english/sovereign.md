@@ -1,5 +1,7 @@
 # sovereign
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sovereign.md)
+
 <p><span class="chinese">权力属于拥有主权者。</span><span class="english">Power inheres in the sovereign.</span></p>
 
 <p><span class="chinese">这是他又一非常关键的论述。</span><span class="english">He is the sovereign representative.</span></p>

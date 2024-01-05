@@ -1,5 +1,7 @@
 # heartful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heartful.md)
+
 <p><span class="chinese">我们给他以热诚的欢迎。</span><span class="english">We accorded him a heartful welcome.</span></p>
 
 <p><span class="chinese">他受到热诚的接待。</span><span class="english">A heartful reception was accorded to him.</span></p>

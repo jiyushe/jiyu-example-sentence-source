@@ -1,5 +1,7 @@
 # 占有
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanyou.md)
+
 <p><span class="chinese">你变成了私人占有物。</span><span class="english">You become a possession.</span></p>
 
 <p><span class="chinese">筑巢修建或占有一个巢…</span><span class="english">To build or occupy a nest.</span></p>

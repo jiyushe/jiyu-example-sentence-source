@@ -1,5 +1,7 @@
 # 杂剧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaju.md)
+
 <p><span class="chinese">金教坊仍是宫廷杂剧演出的承应机构。</span><span class="english">It was also a setup which taking on playing Zaju in palace.</span></p>
 
 <p><span class="chinese">其中北宋杂剧的演变最具有典型意义。</span><span class="english">Among them, the evolving of North-song Zaju is a typical case.</span></p>

@@ -1,5 +1,7 @@
 # aficionado
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aficionado.md)
+
 <p><span class="chinese">我是个真正的歌剧迷。</span><span class="english">I'm a real opera aficionado.</span></p>
 
 <p><span class="chinese">并不想冒犯现代艺术爱好者，但是我确实欣赏不了现代艺术。</span><span class="english">No offense to anyone who's in modern art, aficionado. Not my thing.</span></p>

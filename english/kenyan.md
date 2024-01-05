@@ -1,5 +1,7 @@
 # kenyan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kenyan.md)
+
 <p><span class="chinese">王勇阿公旅游脚印遍及全球。</span><span class="english">Yong Kenyan tourism footprint spans the globe.</span></p>
 
 <p><span class="chinese">他回答，“大约48万肯尼亚先令。”</span><span class="english">"About 480, 000 Kenyan shillings, " he answered.</span></p>

@@ -1,5 +1,7 @@
 # 墨迹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moji.md)
+
 <p><span class="chinese">这是他的墨迹。</span><span class="english">This is his calligraphy.</span></p>
 
 <p><span class="chinese">大叔、大婶、加我别墨迹。</span><span class="english">Uncle, aunt, and I don't ink.</span></p>

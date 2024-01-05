@@ -1,5 +1,7 @@
 # 借酒浇愁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiejiujiaochou.md)
+
 <p><span class="chinese">谁给我一杯啤酒，我要借酒浇愁！</span><span class="english">Someone get me A BEER to cry into!</span></p>
 
 <p><span class="chinese">顾可馨便每天在家借酒浇愁。</span><span class="english">Gu Kexin at home every day to drink it.</span></p>

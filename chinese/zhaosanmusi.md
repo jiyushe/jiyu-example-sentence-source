@@ -1,5 +1,7 @@
 # 朝三暮四
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaosanmusi.md)
+
 <p><span class="chinese">朝三暮四。</span><span class="english">Morning three, night four.</span></p>
 
 <p><span class="chinese">简说男人都是朝三暮四的家伙。</span><span class="english">Jane claims that men are all two-timers.</span></p>

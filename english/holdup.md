@@ -1,5 +1,7 @@
 # holdup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/holdup.md)
+
 <p><span class="chinese">他是一次蒙面抢劫的受害者。</span><span class="english">He is the victim of a masked holdup.</span></p>
 
 <p><span class="chinese">摩根信托银行发生一起抢劫案。</span><span class="english">There was a holdup at the Morgan Trust Bank.</span></p>

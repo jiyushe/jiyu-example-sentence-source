@@ -1,5 +1,7 @@
 # emphasize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emphasize.md)
+
 <p><span class="chinese">我无法充分的强调第4步。</span><span class="english">I can't emphasize Step 4 enough.</span></p>
 
 <p><span class="chinese">我想要强调一点，这一切还没有结束。</span><span class="english">I want to emphasize that this is not over yet.</span></p>

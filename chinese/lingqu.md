@@ -1,5 +1,7 @@
 # 领取
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingqu.md)
+
 <p><span class="chinese">假如非美国公民赢得奖金如何领取？</span><span class="english">What if a non-US citizen wins?</span></p>
 
 <p><span class="chinese">只有04F可以领取奖励。</span><span class="english">Rewards only available for 04F.</span></p>

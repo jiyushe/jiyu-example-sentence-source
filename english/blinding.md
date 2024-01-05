@@ -1,5 +1,7 @@
 # blinding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blinding.md)
+
 <p><span class="chinese">我并没有看见天使，没有听闻乐声，也没有炫目的光芒。</span><span class="english">Didn’t hear music. No blinding lights.</span></p>
 
 <p><span class="chinese">所以，对于这朵亮白色云的描写开始了这一张。</span><span class="english">So, the blinding white cloud begins this chapter.</span></p>

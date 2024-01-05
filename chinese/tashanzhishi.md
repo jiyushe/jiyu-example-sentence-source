@@ -1,5 +1,7 @@
 # 他山之石
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tashanzhishi.md)
+
 <p><span class="chinese">实用英语，行业英语…他山之石，能够使我们触类旁通，以更好的学习和思考。</span><span class="english">We can comprehend everything by analogy of others' experience so as to enhance our study and thinking.</span></p>
 
 <p><span class="chinese">“他山之石，可以攻玉”，我国企事业单位的管理者可以从国外管理的成功事例中得到一点借鉴和启示。</span><span class="english">Thus we put forward a proposal that we should study from foreign successful experiences in our country.</span></p>

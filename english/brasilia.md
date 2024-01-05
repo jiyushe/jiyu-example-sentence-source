@@ -1,5 +1,7 @@
 # brasilia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brasilia.md)
+
 <p><span class="chinese">ER住宅位于巴西利亚西北向约70公里处。</span><span class="english">The house ER is situated 70km northwest of Brasília.</span></p>
 
 <p><span class="chinese">绿党在巴西利亚的某些地方亦丧失了道德动力。</span><span class="english">It, too, lost its moral impetus somewhere in Brasilia.</span></p>

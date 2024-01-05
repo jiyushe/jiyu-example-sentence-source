@@ -1,5 +1,7 @@
 # dibble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dibble.md)
+
 <p><span class="chinese">先生，你想点播什么？</span><span class="english">Gentleman, do you think dibble seeding what?</span></p>
 
 <p><span class="chinese">蓝乔让何小姑给了工钱，就开始播种。</span><span class="english">Blue Joe lets what husband's younger sister to wages, begin dibble.</span></p>

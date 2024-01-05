@@ -1,5 +1,7 @@
 # glossitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glossitis.md)
+
 <p><span class="chinese">所有的体征都没有超出舌炎的范围。</span><span class="english">All the signs were restricted to glossitis.</span></p>
 
 <p><span class="chinese">体征都超舌范围。</span><span class="english">All the signs were restricted to glossitis.</span></p>

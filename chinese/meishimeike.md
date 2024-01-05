@@ -1,5 +1,7 @@
 # 每时每刻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meishimeike.md)
+
 <p><span class="chinese">我每时每刻都思念着你。</span><span class="english">I coud not help missing you.</span></p>
 
 <p><span class="chinese">我喜欢教学的每时每刻。</span><span class="english">But I loved every minute of it.</span></p>

@@ -1,5 +1,7 @@
 # 刁难
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diaonan.md)
+
 <p><span class="chinese">方经理的刁难与妻子的不懂得。</span><span class="english">His wife and the manager fang not understand.</span></p>
 
 <p><span class="chinese">那些坏孩子把房间弄脏，以此来刁难女佣人。</span><span class="english">The bad children left the room dirty to spite the maid.</span></p>

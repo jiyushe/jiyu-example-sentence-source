@@ -1,5 +1,7 @@
 # 终究
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongjiu_1.md)
+
 <p><span class="chinese">这终究是一场败仗。</span><span class="english">It is a losing game.</span></p>
 
 <p><span class="chinese">黑话终究是太丑了！</span><span class="english">Why, argot is horrible!</span></p>

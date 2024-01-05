@@ -1,5 +1,7 @@
 # fallacious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fallacious.md)
+
 <p><span class="chinese">这是一个相当靠不住的论调。</span><span class="english">This is a fairly fallacious argument.</span></p>
 
 <p><span class="chinese">高斯向他指出证明是错误的。</span><span class="english">Gauss showed him that the proof was fallacious.</span></p>

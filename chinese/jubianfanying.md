@@ -1,5 +1,7 @@
 # 聚变反应
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jubianfanying.md)
+
 <p><span class="chinese">当我们在2010或2011年得到聚变反应的时候，我们将处于令人兴奋的位置。</span><span class="english">When we get a burn in 2010 or 2011, we'll be in a very exciting place.</span></p>
 
 <p><span class="chinese">这应当依次导致更多的聚变反应，直到燃料耗尽。</span><span class="english">This should, in turn, cause more fusion reactions until the fuel runs out.</span></p>

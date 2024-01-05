@@ -1,5 +1,7 @@
 # 地上茎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dishangjing.md)
+
 <p><span class="chinese">地下根状茎的结构类似地上茎的结构。</span><span class="english">The structure of rhizoma was the same as that of aerial shoot.</span></p>
 
 <p><span class="chinese">地上茎一年生，维管束排成一圈，纤维含量低。</span><span class="english">The aerial stem is annual and has a ring of vascular bundle and low fiber content.</span></p>

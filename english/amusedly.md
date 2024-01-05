@@ -1,5 +1,7 @@
 # amusedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amusedly.md)
+
 <p><span class="chinese">我愉快地启动它。</span><span class="english">I am start it amusedly.</span></p>
 
 <p><span class="chinese">玩也得找个好玩的玩。</span><span class="english">Play to also must search play amusedly.</span></p>

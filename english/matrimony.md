@@ -1,5 +1,7 @@
 # matrimony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/matrimony.md)
+
 <p><span class="chinese">关于婚姻的事，他从来就没有说过一个字。</span><span class="english">On matrimony he had never once said a word.</span></p>
 
 <p><span class="chinese">她从来没有体验过穷酸婚姻的痛苦。</span><span class="english">She had never experienced the pangs of ragged matrimony.</span></p>

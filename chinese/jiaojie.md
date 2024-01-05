@@ -1,5 +1,7 @@
 # 交接
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaojie.md)
+
 <p><span class="chinese">陆地与大海交接之处。</span><span class="english">Where the land meets the sea.</span></p>
 
 <p><span class="chinese">开发人员之间的代码交接</span><span class="english">handoff of code between developers</span></p>

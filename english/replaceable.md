@@ -1,5 +1,7 @@
 # replaceable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/replaceable.md)
+
 <p><span class="chinese">我想要一个可替换的电池。</span><span class="english">I want a replaceable battery.</span></p>
 
 <p><span class="chinese">哦，它还提供一个可更换电池。</span><span class="english">Oh, and it has a replaceable battery.</span></p>

@@ -1,5 +1,7 @@
 # tribulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tribulation.md)
+
 <p><span class="chinese">我对他的磨难表示同情。</span><span class="english">I expressed my commiserations on his tribulation.</span></p>
 
 <p><span class="chinese">没有受不了的苦，只有享不了的福。</span><span class="english">No tribulation is unable to stand , only blessing.</span></p>

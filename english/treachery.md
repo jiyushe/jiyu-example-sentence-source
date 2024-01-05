@@ -1,5 +1,7 @@
 # treachery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/treachery.md)
+
 <p><span class="chinese">犹大成为了背信弃义的终极形象。</span><span class="english">He is the ultimate symbol of treachery.</span></p>
 
 <p><span class="chinese">他们使他面对其叛国的证据。</span><span class="english">They faced him with evidence of treachery.</span></p>

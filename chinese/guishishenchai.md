@@ -1,5 +1,7 @@
 # 鬼使神差
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guishishenchai.md)
+
 <p><span class="chinese">接着，鬼使神差，我眨了一下眼。</span><span class="english">And then, God help me, I wink.</span></p>
 
 <p><span class="chinese">在三个钟头之内，鬼使神差地赶到了。</span><span class="english">In three hours the devils brought us.</span></p>

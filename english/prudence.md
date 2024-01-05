@@ -1,5 +1,7 @@
 # prudence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prudence.md)
+
 <p><span class="chinese">他是谨慎的化身。</span><span class="english">He is prudence personified.</span></p>
 
 <p><span class="chinese">噢,她们信以为真了,普鲁登斯.</span><span class="english">No, they were supposed, Prudence.</span></p>

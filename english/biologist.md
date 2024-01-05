@@ -1,5 +1,7 @@
 # biologist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biologist.md)
+
 <p><span class="chinese">苏茜·阿诺特是一位生物学家。</span><span class="english">Susi Arnott is a biologist.</span></p>
 
 <p><span class="chinese">一位生物学家再一次割除了一个鲸眼球。</span><span class="english">Again, a biologist cuts out an eyeball.</span></p>

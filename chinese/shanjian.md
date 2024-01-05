@@ -1,5 +1,7 @@
 # 删减
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanjian.md)
+
 <p><span class="chinese">因此，李安同意做镜头删减。</span><span class="english">So Lee agreed to make cuts.</span></p>
 
 <p><span class="chinese">删减窗上口和檐口之间的距离。</span><span class="english">Inbulge window head to eave distance.</span></p>

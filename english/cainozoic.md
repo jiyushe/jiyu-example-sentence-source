@@ -1,5 +1,7 @@
 # cainozoic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cainozoic.md)
+
 <p><span class="chinese">如伤痕，乡土，新生代等等的现实主义美术。</span><span class="english">If scar, local, cainozoic era and so on realism fine arts.</span></p>
 
 <p><span class="chinese">这种独特的自我价值关怀深刻地感染了新生代。</span><span class="english">This kind of unique self- concern profoundly infected the cainozoic era.</span></p>

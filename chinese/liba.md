@@ -1,5 +1,7 @@
 # 篱笆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liba.md)
+
 <p><span class="chinese">一条狗跳过了篱笆。</span><span class="english">A dog jumped the fence.</span></p>
 
 <p><span class="chinese">他倾身于篱笆上。</span><span class="english">He leaned over the fence.</span></p>

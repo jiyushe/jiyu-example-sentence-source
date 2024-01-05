@@ -1,5 +1,7 @@
 # kcal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kcal.md)
+
 <p><span class="chinese">你获得了一共1，000或更多的卡路里燃烧掉。</span><span class="english">You've racked up a total of 1,000 or more kcal burned.</span></p>
 
 <p><span class="chinese">你获得了一共5，000或更多的卡路里燃烧掉。</span><span class="english">You've racked up a total of 5,000 or more kcal burned.</span></p>

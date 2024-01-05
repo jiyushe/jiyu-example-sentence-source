@@ -1,5 +1,7 @@
 # 缓慢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanman.md)
+
 <p><span class="chinese">缓慢而持续。</span><span class="english">Slow but Steady.</span></p>
 
 <p><span class="chinese">深深缓慢地吸气。</span><span class="english">Deep, slow inhalation.</span></p>

@@ -1,5 +1,7 @@
 # 烦杂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanza.md)
+
 <p><span class="chinese">生活已烦杂，买鞋要轻松！</span><span class="english">Life is hard, shoes should be easy!</span></p>
 
 <p><span class="chinese">尤其是在交通烦杂的北京？</span><span class="english">Especially in all the traffic in Beijing?</span></p>

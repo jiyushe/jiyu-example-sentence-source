@@ -1,5 +1,7 @@
 # tempera
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tempera.md)
+
 <p><span class="chinese">数世纪前蛋彩画颜料被用来画壁画。</span><span class="english">Tempera was used to paint frescos hundreds of years ago.</span></p>
 
 <p><span class="chinese">数百年前蛋彩画颜料被用来画壁画。</span><span class="english">Tempera was used to paint frescos hundreds of years ago.</span></p>

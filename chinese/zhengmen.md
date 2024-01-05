@@ -1,5 +1,7 @@
 # 正门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengmen.md)
+
 <p><span class="chinese">胡志明博物馆的正门口。</span><span class="english">Ho Chi Minh Museum. Main entrance.</span></p>
 
 <p><span class="chinese">酒家正门挂着一块很大的招牌。</span><span class="english">There's a big sign in front of it.</span></p>

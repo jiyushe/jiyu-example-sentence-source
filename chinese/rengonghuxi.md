@@ -1,5 +1,7 @@
 # 人工呼吸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rengonghuxi.md)
+
 <p><span class="chinese">人工呼吸是紧急救护的方法之一。</span><span class="english">Mouth-to-mouth breathing is a kind of first aid.</span></p>
 
 <p><span class="chinese">她用人工呼吸使她恢复知觉。</span><span class="english">She brought her to life by artificial respiration.</span></p>

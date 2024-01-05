@@ -1,5 +1,7 @@
 # 孤雌生殖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gucishengzhi.md)
+
 <p><span class="chinese">兔眼蓝莓可能存在孤雌生殖的现象。</span><span class="english">Parthenogenesis is possible in Vaccinium ashei Reade.</span></p>
 
 <p><span class="chinese">在这种时候很难找到配偶，这有利于孤雌生殖物种。</span><span class="english">At such times mates are hard to find, and this favors parthenogenic species.</span></p>

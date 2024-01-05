@@ -1,5 +1,7 @@
 # php
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/php.md)
+
 <p><span class="chinese">基于PhP的前端。</span><span class="english">PhP based front-end.</span></p>
 
 <p><span class="chinese">什么是雅姿营养系列？</span><span class="english">What is Artistry? essentialsearch. php?</span></p>

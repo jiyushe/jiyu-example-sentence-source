@@ -1,5 +1,7 @@
 # eyeground
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eyeground.md)
+
 <p><span class="chinese">一丝愁影就这样，轻易滑落眼底，那种凉凉的秋意。</span><span class="english">Worried the shade like this, easily falls the eyeground , that kind of cool autumn chill.</span></p>
 
 <p><span class="chinese">血管畸形、视网膜出血或剥离、视神经病变、眼底病变。</span><span class="english">Vessel deformity, retinal hemorrhage or decollement, optic nerve lesion, or eyeground lesion.</span></p>

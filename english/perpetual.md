@@ -1,5 +1,7 @@
 # perpetual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perpetual.md)
+
 <p><span class="chinese">那只狗是经常惹人讨厌的东西。</span><span class="english">That dog is perpetual nuisance.</span></p>
 
 <p><span class="chinese">这是永远存在的冲突。</span><span class="english">And that's a perpetual conflict.</span></p>

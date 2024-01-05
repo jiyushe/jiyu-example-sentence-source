@@ -1,5 +1,7 @@
 # subdue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subdue.md)
+
 <p><span class="chinese">我强忍住胸中的怒火。</span><span class="english">I tried to subdue my fury.</span></p>
 
 <p><span class="chinese">这油膏可能消此炎症。</span><span class="english">This ointment will subdue the inflammation.</span></p>

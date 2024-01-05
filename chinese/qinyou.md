@@ -1,5 +1,7 @@
 # 亲友
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinyou.md)
+
 <p><span class="chinese">“，”囊中无分文，亲友不上门。</span><span class="english">An empty purse frightens many friends.</span></p>
 
 <p><span class="chinese">我和同性恋亲友会两位同志妈妈的合影。</span><span class="english">Me with two proud moms from PFLAG China.</span></p>

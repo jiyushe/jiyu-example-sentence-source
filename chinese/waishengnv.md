@@ -1,5 +1,7 @@
 # 外甥女
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waishengnv.md)
+
 <p><span class="chinese">我向你道喜，亲爱的外甥女。</span><span class="english">I give you joy, my dear niece.</span></p>
 
 <p><span class="chinese">我的小外甥女很上照。</span><span class="english">My little girl. My little girl.</span></p>

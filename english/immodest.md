@@ -1,5 +1,7 @@
 # immodest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immodest.md)
+
 <p><span class="chinese">不谦虚也不狂傲。</span><span class="english">No more modest than immodest.</span></p>
 
 <p><span class="chinese">告诉我，孩子。这触摸是否有违廉耻？</span><span class="english">Tell me, child. Was this touch immodest?</span></p>

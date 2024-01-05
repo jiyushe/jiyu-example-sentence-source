@@ -1,5 +1,7 @@
 # 邋遢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lata.md)
+
 <p><span class="chinese">她落得了个邋遢女人的名声。</span><span class="english">She got a reputation as a frump.</span></p>
 
 <p><span class="chinese">太松了，会让你看起来显得邋遢。</span><span class="english">Too loose, you just look sloppy.</span></p>

@@ -1,5 +1,7 @@
 # 半音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banyin_1.md)
+
 <p><span class="chinese">上面应该是个半音级</span><span class="english">I need a half step above G.</span></p>
 
 <p><span class="chinese">上升半音级是什么</span><span class="english">What's a half step above D?</span></p>

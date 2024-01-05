@@ -1,5 +1,7 @@
 # 还是
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haishi_2.md)
+
 <p><span class="chinese">我还是要吸取教训。</span><span class="english">I suck.</span></p>
 
 <p><span class="chinese">还是普通版？</span><span class="english">Normal?</span></p>

@@ -1,5 +1,7 @@
 # fibrinogen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fibrinogen.md)
+
 <p><span class="chinese">纤维朊原分子体积很大。</span><span class="english">The molecular volume of fibrinogen is large.</span></p>
 
 <p><span class="chinese">采用组织凝血活酶法测定血浆纤维蛋白原水平。</span><span class="english">Plasma fibrinogen levels were assayed by tissue thromboplastin.</span></p>

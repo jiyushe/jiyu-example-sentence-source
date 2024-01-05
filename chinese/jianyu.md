@@ -1,5 +1,7 @@
 # 监狱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianyu.md)
+
 <p><span class="chinese">它的监狱。</span><span class="english">Its jail.</span></p>
 
 <p><span class="chinese">带回888号监狱去。</span><span class="english">Back to 888.</span></p>

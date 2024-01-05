@@ -1,5 +1,7 @@
 # elsa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elsa.md)
+
 <p><span class="chinese">我认识个叫埃尔莎的妞。</span><span class="english">I know a girl called Elsa.</span></p>
 
 <p><span class="chinese">蒂芙尼开口心戒指。</span><span class="english">Elsa Peretti Open Heart ring.</span></p>

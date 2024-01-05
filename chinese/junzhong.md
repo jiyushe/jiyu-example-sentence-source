@@ -1,5 +1,7 @@
 # 军种
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junzhong.md)
+
 <p><span class="chinese">每军种独立展开自己的战争。</span><span class="english">Each waged its own separate war.</span></p>
 
 <p><span class="chinese">但各军种都应设置一个大同小异的中央规划部门。</span><span class="english">Yet each uses a similar centralized-planning department.</span></p>

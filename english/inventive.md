@@ -1,5 +1,7 @@
 # inventive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inventive.md)
+
 <p><span class="chinese">每一个角落均有其妙处，足见主人的匠心独具。</span><span class="english">Every part shows the inventive mind of the owner.</span></p>
 
 <p><span class="chinese">士丹利在这个发明流露流。</span><span class="english">Stanley is in this stream of inventive outpouring.</span></p>

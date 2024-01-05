@@ -1,5 +1,7 @@
 # categorise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/categorise.md)
+
 <p><span class="chinese">商业记者较难归类。</span><span class="english">Business writers are harder to categorise.</span></p>
 
 <p><span class="chinese">接下来，我必须给自己的小说分类。</span><span class="english">On the next screen, I have to categorise my novel.</span></p>

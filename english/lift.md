@@ -1,5 +1,7 @@
 # lift
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lift.md)
+
 <p><span class="chinese">咱们坐电梯。</span><span class="english">Let's take the lift.</span></p>
 
 <p><span class="chinese">我准备好要做拉皮手术了。</span><span class="english">I'm ready for a lift.</span></p>

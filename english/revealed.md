@@ -1,5 +1,7 @@
 # revealed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revealed.md)
+
 <p><span class="chinese">现在，谜底已经揭穿。</span><span class="english">Now, the mystery is revealed.</span></p>
 
 <p><span class="chinese">1999年，一桩丑闻被披露了。</span><span class="english">In 1999a scandal was revealed.</span></p>

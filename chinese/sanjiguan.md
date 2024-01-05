@@ -1,5 +1,7 @@
 # 三极管
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanjiguan.md)
+
 <p><span class="chinese">三极管能升高电压。</span><span class="english">The triode steps up voltage.</span></p>
 
 <p><span class="chinese">薄膜晶体三极管的缩写。</span><span class="english">Abbreviation of Thin Film Transistor.</span></p>

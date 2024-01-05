@@ -1,5 +1,7 @@
 # 定性分析
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingxingfenxi.md)
+
 <p><span class="chinese">因为这门课是定性分析。</span><span class="english">Because he teaches a very qualitative course.</span></p>
 
 <p><span class="chinese">这就是目前我只想，定性分析的原因。</span><span class="english">That's why, at this point, we'll keep it a little qualitative.</span></p>

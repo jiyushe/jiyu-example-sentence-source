@@ -1,5 +1,7 @@
 # goblet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goblet.md)
+
 <p><span class="chinese">看到这只酒杯了吗？</span><span class="english">You see this goblet?</span></p>
 
 <p><span class="chinese">这个高脚杯有裂痕。</span><span class="english">This goblet is cracked.</span></p>

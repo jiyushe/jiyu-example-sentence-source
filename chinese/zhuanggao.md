@@ -1,5 +1,7 @@
 # 状告
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanggao.md)
+
 <p><span class="chinese">利弗莫尔退休人员因健康保险福利状告加州大学</span><span class="english">Livermore Retirees Sue University Over Health Care Benefits</span></p>
 
 <p><span class="chinese">少年母亲十分生气便一状告上法院。</span><span class="english">The boy's mother was very angry and filed a lawsuit in court.</span></p>

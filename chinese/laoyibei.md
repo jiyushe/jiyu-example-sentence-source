@@ -1,5 +1,7 @@
 # 老一辈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laoyibei.md)
+
 <p><span class="chinese">同样西去的还有大多数老一辈革命家。</span><span class="english">So had most of the veteran revolutionaries.</span></p>
 
 <p><span class="chinese">老一辈人还记得昔日晴朗的天空。</span><span class="english">The older people remember days of clear-aired yore.</span></p>

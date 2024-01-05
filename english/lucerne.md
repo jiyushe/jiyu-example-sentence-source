@@ -1,5 +1,7 @@
 # lucerne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lucerne.md)
+
 <p><span class="chinese">夜晚的琉森水塔。</span><span class="english">Night tower in Lucerne.</span></p>
 
 <p><span class="chinese">但是今年Lucerne的销量下降了14.5个百分点。</span><span class="english">But Lucerne sales are down 14.5percent this year.</span></p>

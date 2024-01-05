@@ -1,5 +1,7 @@
 # extremely 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extremely.md)
+
 <p><span class="chinese">我觉得非常愕然。</span><span class="english">I was extremely stunned.</span></p>
 
 <p><span class="chinese">他们都做得极其好。</span><span class="english">They did extremely well.</span></p>

@@ -1,5 +1,7 @@
 # liquorice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liquorice.md)
+
 <p><span class="chinese">十一只猫头鹰舔吃十一枝甘草棒棒糖。</span><span class="english">Eleven owls licked eleven little liquorice lollipops.</span></p>
 
 <p><span class="chinese">美利奴羔羊防风根，香料烧烤，牛皮菜，甘草。</span><span class="english">Parsnip, Spice Roasted and Braised, Swiss Chard, Liquorice.</span></p>

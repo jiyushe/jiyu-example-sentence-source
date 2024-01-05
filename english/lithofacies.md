@@ -1,5 +1,7 @@
 # lithofacies
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lithofacies.md)
+
 <p><span class="chinese">在此基础上研究了菱铁矿的成因和岩相意义。</span><span class="english">And then studied the origin and lithofacies meaning of siderite.</span></p>
 
 <p><span class="chinese">其成矿作用主要受二叠纪火山岩相及火山机构控制。</span><span class="english">The metallization is controlled by the Permian volcanic lithofacies and volcanic edifice.</span></p>

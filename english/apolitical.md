@@ -1,5 +1,7 @@
 # apolitical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apolitical.md)
+
 <p><span class="chinese">不过，这些抗议活动在本质上仍然难以避免染上政治意味。</span><span class="english">And after all, these protests are far from apolitical in nature.</span></p>
 
 <p><span class="chinese">我更喜欢的是一个真正不问政事的军队。</span><span class="english">I would prefer a situation in which we had a genuinely apolitical military.</span></p>

@@ -1,5 +1,7 @@
 # imaginative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imaginative.md)
+
 <p><span class="chinese">艺术无非就是想象性的创造而已。</span><span class="english">Art is nothing but imaginative creation.</span></p>
 
 <p><span class="chinese">我感觉你是个感情丰富的男人。</span><span class="english">For me, you are an emotional and imaginative man.</span></p>

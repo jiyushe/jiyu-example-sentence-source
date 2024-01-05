@@ -1,5 +1,7 @@
 # 就绪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuxu.md)
+
 <p><span class="chinese">好！一切就绪了。</span><span class="english">Okay. All right.</span></p>
 
 <p><span class="chinese">铀弹壳就绪，将军。</span><span class="english">Uranium shell ready, general.</span></p>

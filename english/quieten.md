@@ -1,5 +1,7 @@
 # quieten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quieten.md)
+
 <p><span class="chinese">难道你不能让这些孩子安静一点吗?</span><span class="english">Can't you quieten those children down?</span></p>
 
 <p><span class="chinese">静下心来继续工作吧。</span><span class="english">Quieten down and get on with your work.</span></p>

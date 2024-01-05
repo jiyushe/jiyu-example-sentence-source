@@ -1,5 +1,7 @@
 # pianoforte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pianoforte.md)
+
 <p><span class="chinese">克斯到14岁时才开始学钢琴。</span><span class="english">Alex only took up the pianoforte when he was 14.</span></p>
 
 <p><span class="chinese">亚历克斯到14岁时才开始学钢琴。</span><span class="english">Alex only took up the pianoforte when he was 14.</span></p>

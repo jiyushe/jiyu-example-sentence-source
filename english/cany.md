@@ -1,5 +1,7 @@
 # cany
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cany.md)
+
 <p><span class="chinese">不要在藤艺家具上蹦跳。</span><span class="english">Not be on cany art furniture skip.</span></p>
 
 <p><span class="chinese">能不能报告我在哪里能够找到她？</span><span class="english">Could you tell me where I cany revery her?</span></p>

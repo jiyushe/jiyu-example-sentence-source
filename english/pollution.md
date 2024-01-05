@@ -1,5 +1,7 @@
 # pollution 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pollution.md)
+
 <p><span class="chinese">那是污染。</span><span class="english">That was pollution.</span></p>
 
 <p><span class="chinese">拒绝白色污染。</span><span class="english">Refuse white pollution.</span></p>

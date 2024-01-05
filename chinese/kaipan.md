@@ -1,5 +1,7 @@
 # 开盘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaipan.md)
+
 <p><span class="chinese">东京股市将于今日重新开盘。</span><span class="english">The Tokyo market re-opens today.</span></p>
 
 <p><span class="chinese">股市开盘时行情看涨。</span><span class="english">The market opened in a bullish mood.</span></p>

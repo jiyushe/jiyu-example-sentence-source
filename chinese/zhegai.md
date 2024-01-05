@@ -1,5 +1,7 @@
 # 遮盖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhegai.md)
+
 <p><span class="chinese">雪遮盖着大地。</span><span class="english">Snow covered the ground.</span></p>
 
 <p><span class="chinese">他的嘴唇被小胡子遮盖住了。</span><span class="english">His lips are roofed by a moustache.</span></p>

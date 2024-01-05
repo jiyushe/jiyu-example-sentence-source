@@ -1,5 +1,7 @@
 # 薏米
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yimi.md)
+
 <p><span class="chinese">大米，小米，糯米，糙米，薏米，黑米。</span><span class="english">Rice, millet, glutinous rice, brown rice, barley, black rice.</span></p>
 
 <p><span class="chinese">对无糖黑木耳薏米保健饮料的加工工艺进行了初步探讨研究。</span><span class="english">Processing technology of auricular auricula and Job's tears beverage without sugar was studied.</span></p>

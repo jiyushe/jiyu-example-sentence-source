@@ -1,5 +1,7 @@
 # fishmeal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fishmeal.md)
+
 <p><span class="chinese">挪威在大豆压榨及鱼粉、鱼油生产方面仍占据着重要地位。</span><span class="english">Norway continues to be a significant crusher of soybeans and producer of fishmeal and fish oils.</span></p>
 
 <p><span class="chinese">目的是在寻求廉价原料、降低乳酸生产成本的同时实现鱼粉废水资源化。</span><span class="english">The aim was to find out cheaper raw material for lactic acid production as well as to treat the fishmeal wastewater.</span></p>

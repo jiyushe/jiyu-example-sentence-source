@@ -1,5 +1,7 @@
 # bloemfontein
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bloemfontein.md)
+
 <p><span class="chinese">德国人在布隆方丹取得了4-1的大捷。</span><span class="english">Germany run out comfortable 4-1 winners in Bloemfontein.</span></p>
 
 <p><span class="chinese">布隆方丹的这场比赛不止于将我们的思绪从过往中带出。</span><span class="english">The match in Bloemfontein offered more than enough to drag thoughts away from the past.</span></p>

@@ -1,5 +1,7 @@
 # myelogenous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/myelogenous.md)
+
 <p><span class="chinese">在高倍镜下，见到的是急性髓母细胞白血病骨髓。</span><span class="english">At high power, the bone marrow of a patient with acute myelogenous leukemia is seen here.</span></p>
 
 <p><span class="chinese">它首先是血细胞形成器官，髓细胞白血病即从此发源。</span><span class="english">The first is the blood cell-forming organ. This is the site where myelogenous leukemia begins.</span></p>

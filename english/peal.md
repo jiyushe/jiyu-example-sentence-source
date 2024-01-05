@@ -1,5 +1,7 @@
 # peal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peal.md)
+
 <p><span class="chinese">房外的油漆容易开裂、脱落和褪色。</span><span class="english">Exterior paint tends to chip, peal and fade.</span></p>
 
 <p><span class="chinese">我这位朋友又咯咯笑了起来。</span><span class="english">My friend broke into another peal of laughter.</span></p>

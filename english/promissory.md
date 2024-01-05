@@ -1,5 +1,7 @@
 # promissory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/promissory.md)
+
 <p><span class="chinese">明天是一张还未到期的本票。</span><span class="english">Tomorrow is a promissory note.</span></p>
 
 <p><span class="chinese">现在我就要兑现我的承诺了。</span><span class="english">So here,at long last,I'm making good on my promissory note.</span></p>

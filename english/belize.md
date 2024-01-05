@@ -1,5 +1,7 @@
 # belize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/belize.md)
+
 <p><span class="chinese">伯里兹所使用的基本货币单位。</span><span class="english">The basic unit of money in Belize.</span></p>
 
 <p><span class="chinese">贝里斯的首要输出品是什麽？</span><span class="english">What is the leading export of Belize?</span></p>

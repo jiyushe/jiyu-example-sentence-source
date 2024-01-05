@@ -1,5 +1,7 @@
 # 预测
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuce.md)
+
 <p><span class="chinese">我们怎样才能预测？</span><span class="english">How do we forecast?</span></p>
 
 <p><span class="chinese">它还做出了预测。</span><span class="english">It made prediction.</span></p>

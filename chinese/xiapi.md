@@ -1,5 +1,7 @@
 # 虾皮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiapi.md)
+
 <p><span class="chinese">还有可不可以在里面放些碎的虾皮呢？</span><span class="english">Also can put some pieces on the inside of the dried small shrimps do?</span></p>
 
 <p><span class="chinese">大咪咪吃饭不挑食，喜欢吃虾皮，小银鱼。所以大咪咪长的很阳光。</span><span class="english">Big Mimi likes eating simple food, such as seafood, so he is very strong and sunny.</span></p>

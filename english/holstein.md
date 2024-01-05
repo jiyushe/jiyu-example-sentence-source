@@ -1,5 +1,7 @@
 # holstein
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/holstein.md)
+
 <p><span class="chinese">德国的荷斯坦奶牛是世界最好的荷斯坦种群。</span><span class="english">The German Holstein cows rank among the world's best of Holstein breed.</span></p>
 
 <p><span class="chinese">新疆褐牛分娩后不同时间段初乳成分的变化规律和荷斯坦牛相似。</span><span class="english">The change of Xinjiang Brown colostrums content is similar to Holstein Cattle.</span></p>

@@ -1,5 +1,7 @@
 # respondent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/respondent.md)
+
 <p><span class="chinese">只有一位受访者表示乐观。</span><span class="english">Only one respondent was optimistic.</span></p>
 
 <p><span class="chinese">响应者也是没有几个人。</span><span class="english">Respondent is also not a few people.</span></p>

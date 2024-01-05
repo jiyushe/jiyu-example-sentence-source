@@ -1,5 +1,7 @@
 # niggling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/niggling.md)
+
 <p><span class="chinese">灵感源于日常生活中常见的那些让人头疼的琐事。</span><span class="english">It began as just one of those niggling everyday frustrations.</span></p>
 
 <p><span class="chinese">温格表示，“因为一些不断烦扰的小伤病，他曾经经历过一段时间的打打停停。”</span><span class="english">He had a period where he was in and out, a little niggling injury.</span></p>

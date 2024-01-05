@@ -1,5 +1,7 @@
 # nonpolitical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonpolitical.md)
+
 <p><span class="chinese">国际扶轮社不具有任何政治倾向，欢迎所有文化、种族和信仰。</span><span class="english">Rotary clubs are nonpolitical and open to all cultures, races, and creeds.</span></p>
 
 <p><span class="chinese">他学会了以榜样来领导别人，不久就发现他的祖国需要一支专业的、非政治性的军队。</span><span class="english">He learned to lead by example and soon recognized his own country’s need for a professional, nonpolitical military.</span></p>

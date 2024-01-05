@@ -1,5 +1,7 @@
 # biosensor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biosensor.md)
+
 <p><span class="chinese">当PKA关闭时，生物传感器发蓝光。</span><span class="english">When PKA is turned off, the biosensor glows blue.</span></p>
 
 <p><span class="chinese">新的生物传感器芯片可实现心电信号的远程采集</span><span class="english">New Biosensor Chip Picks Up Heart Signals Remotely</span></p>

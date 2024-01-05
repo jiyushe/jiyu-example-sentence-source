@@ -1,5 +1,7 @@
 # 失态
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shitai_3.md)
+
 <p><span class="chinese">总之，这是关于“失态效应“的实验。</span><span class="english">All right. So blundering.</span></p>
 
 <p><span class="chinese">这就是所谓的“失态效应。</span><span class="english">That is the Pratfall Effect.</span></p>

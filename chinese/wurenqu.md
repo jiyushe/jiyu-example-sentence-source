@@ -1,5 +1,7 @@
 # 无人区
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wurenqu.md)
+
 <p><span class="chinese">好像在无人区一样，你看起来像还和你妈住一起的样子。</span><span class="english">It's in no-man's-land, you look like you live with your mother.</span></p>
 
 <p><span class="chinese">让船只进入这片“无人区”是荒谬且十分危险的。</span><span class="english">Its ridiculous, and very dangerous for ships to enter this 'no man's land'.</span></p>

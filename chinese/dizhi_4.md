@@ -1,5 +1,7 @@
 # 帝制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dizhi_4.md)
+
 <p><span class="chinese">玉帝制造了人，从泥土中塑造他们。</span><span class="english">The Jade Emperor made men, fashioning them from clay.</span></p>
 
 <p><span class="chinese">国王的臣民反对他的帝制。</span><span class="english">The king's subjects protested against his imperialism.</span></p>

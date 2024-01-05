@@ -1,5 +1,7 @@
 # 抖擞精神
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dousoujingshen.md)
+
 <p><span class="chinese">这无疑已帮助这只“凯尔特之虎”再度抖擞精神。</span><span class="english">No doubt this has helped the Celtic Tiger purr again.</span></p>
 
 <p><span class="chinese">我们要重建辉煌，我们要抖擞精神，美利坚合众国要重现比往日更强大的明天。</span><span class="english">United States of America will emerge stronger than before.</span></p>

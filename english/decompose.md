@@ -1,5 +1,7 @@
 # decompose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decompose.md)
+
 <p><span class="chinese">对粘稠的痰液有分解作用。</span><span class="english">It can decompose the viscous sputum.</span></p>
 
 <p><span class="chinese">然而最终我的身体将会分解</span><span class="english">But eventually my body will decompose.</span></p>

@@ -1,5 +1,7 @@
 # unilateralism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unilateralism.md)
+
 <p><span class="chinese">总统的单方面决定总是置国会与难堪的境地。</span><span class="english">As always, presidential unilateralism puts Congress in a tough position.</span></p>
 
 <p><span class="chinese">我认为单边主义代价太高，公开对话效率太低。</span><span class="english">I believe that unilateralism is too expensive and open dialogue is too slow.</span></p>

@@ -1,5 +1,7 @@
 # 太太
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taitai.md)
+
 <p><span class="chinese">丁太太来了。</span><span class="english">Mrs Dean came.</span></p>
 
 <p><span class="chinese">是斯蒂文森太太吗？</span><span class="english">Mrs. Stevenson?</span></p>

@@ -1,5 +1,7 @@
 # 梗塞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gengse_1.md)
+
 <p><span class="chinese">其次为非Q波型梗塞患者。</span><span class="english">Non-Q-wave type AMI was second.</span></p>
 
 <p><span class="chinese">纤维软骨梗塞或栓塞。</span><span class="english">Fibrocartilaginous Infarct or Embolism.</span></p>

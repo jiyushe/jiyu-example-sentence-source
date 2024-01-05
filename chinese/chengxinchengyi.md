@@ -1,5 +1,7 @@
 # 诚心诚意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengxinchengyi.md)
+
 <p><span class="chinese">他是诚心诚意地想帮助你。</span><span class="english">He has a sincere desire to help you.</span></p>
 
 <p><span class="chinese">带上我的诚心诚意，送上我“成字”的祝福。</span><span class="english">Bring my sincere, send me "into the word" blessing.</span></p>

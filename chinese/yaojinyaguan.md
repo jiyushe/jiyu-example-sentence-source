@@ -1,5 +1,7 @@
 # 咬紧牙关
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaojinyaguan.md)
+
 <p><span class="chinese">他说，“你一定要咬紧牙关坚持住。</span><span class="english">You have to bite the bullet.</span></p>
 
 <p><span class="chinese">她咬紧牙关不肯挪动一步。</span><span class="english">She clenched her teeth and refused to move.</span></p>

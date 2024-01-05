@@ -1,5 +1,7 @@
 # somatostatin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/somatostatin.md)
+
 <p><span class="chinese">目的生长抑素的分子量及其一级结构的测定。</span><span class="english">Aim To determine the molecular weight and first order structure of somatostatin.</span></p>
 
 <p><span class="chinese">多种人类肿瘤上表达有生长抑素受体。</span><span class="english">Different sub-type receptors of somatostatin were found on the surface of cell membrane.</span></p>

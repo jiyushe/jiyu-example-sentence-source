@@ -1,5 +1,7 @@
 # unmet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unmet.md)
+
 <p><span class="chinese">第二，说明未满足的需求意味着什么。</span><span class="english">Second, explain what this unmet need means.</span></p>
 
 <p><span class="chinese">遥不可及的期望——父母自己未能满足的童年愿望</span><span class="english">Hang-over wishes – parents' own unmet childhood wishes</span></p>

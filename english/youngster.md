@@ -1,5 +1,7 @@
 # youngster 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/youngster.md)
+
 <p><span class="chinese">这小伙子干活有股傻劲儿。</span><span class="english">That youngster works with a will.</span></p>
 
 <p><span class="chinese">是英国人对年轻人的称呼。</span><span class="english">Tiddler is a British term for youngster.</span></p>

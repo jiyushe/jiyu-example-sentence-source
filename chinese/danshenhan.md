@@ -1,5 +1,7 @@
 # 单身汉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danshenhan.md)
+
 <p><span class="chinese">这是一个单身汉垫和发挥笔于一体。</span><span class="english">It's a bachelor pad and play pen in one.</span></p>
 
 <p><span class="chinese">瓦克斯纳开始思考，像单身汉一样思考。</span><span class="english">Wexner then began thinking—as a bachelor.</span></p>

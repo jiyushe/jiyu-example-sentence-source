@@ -1,5 +1,7 @@
 # 液态
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yetai.md)
+
 <p><span class="chinese">它是气态还是液态的呢？</span><span class="english">Was it a gas or a liquid?</span></p>
 
 <p><span class="chinese">这是液态的。</span><span class="english">xB So this is the liquid xB.</span></p>

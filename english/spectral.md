@@ -1,5 +1,7 @@
 # spectral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spectral.md)
+
 <p><span class="chinese">此外，本章还研究了它们的光谱性质。</span><span class="english">Their spectral properties were also studied.</span></p>
 
 <p><span class="chinese">方法采用中药紫外谱线组法进行鉴别。</span><span class="english">METHODS A group of ultraviolet spectral was used.</span></p>

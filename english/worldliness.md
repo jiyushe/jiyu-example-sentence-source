@@ -1,5 +1,7 @@
 # worldliness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/worldliness.md)
+
 <p><span class="chinese">他们的思想已经从俗气中解放出来。</span><span class="english">Their minds are free from worldliness.</span></p>
 
 <p><span class="chinese">俗气的疾病如同伤寒。</span><span class="english">The disease of worldliness is like typhoid.</span></p>

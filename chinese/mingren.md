@@ -1,5 +1,7 @@
 # 名人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingren.md)
+
 <p><span class="chinese">问我见的名人多吗？</span><span class="english">Have I seen a lot of celeb?</span></p>
 
 <p><span class="chinese">我喜欢读名人传记。</span><span class="english">I enjoy reading biographies.</span></p>

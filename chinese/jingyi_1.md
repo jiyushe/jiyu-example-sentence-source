@@ -1,5 +1,7 @@
 # 敬意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingyi_1.md)
+
 <p><span class="chinese">在向太阳表达敬意。</span><span class="english">In honor of the sun!</span></p>
 
 <p><span class="chinese">妈妈喃喃地说，带着对死人的敬意。</span><span class="english">Respect for the dead.</span></p>

@@ -1,5 +1,7 @@
 # 毛虫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maochong.md)
+
 <p><span class="chinese">它是一条胖嘟嘟的大毛虫了。</span><span class="english">He was a big, fat caterpillar.</span></p>
 
 <p><span class="chinese">毛虫会变成蝴蝶。</span><span class="english">Caterpillars turned into butterflies.</span></p>

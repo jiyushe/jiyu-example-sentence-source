@@ -1,5 +1,7 @@
 # mto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mto.md)
+
 <p><span class="chinese">甲醇制烯烃的研发重点是MTO催化剂的合成及其特征描述。</span><span class="english">Methanol-to-olefins R&D work focuses on the synthesis and characterization of MTO catalysts.</span></p>
 
 <p><span class="chinese">离子氮化法因其独特的优点在我国应用日益广泛。</span><span class="english">Ion nitridation, because of its ad-vantages, comes mto more and more widely use in our country.</span></p>

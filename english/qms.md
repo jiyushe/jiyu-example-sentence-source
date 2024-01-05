@@ -1,5 +1,7 @@
 # qms
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/qms.md)
+
 <p><span class="chinese">了解注塑机，模具和挤压机方面的知识。</span><span class="english">Learning and understanding the quality about QMS and EHS.</span></p>
 
 <p><span class="chinese">满足要求和改进质量管理体系有效性的承诺。</span><span class="english">Improvement shall satisfy the commitment to improve the QMS.</span></p>

@@ -1,5 +1,7 @@
 # hudson
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hudson.md)
+
 <p><span class="chinese">我是哈德先生，771号房。</span><span class="english">This is Mr. Hudson in room 771.</span></p>
 
 <p><span class="chinese">当我们到哈得逊街时请告诉我下车。</span><span class="english">Let me off when we get to Hudson Street.</span></p>

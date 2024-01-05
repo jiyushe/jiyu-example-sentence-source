@@ -1,5 +1,7 @@
 # parallelism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parallelism.md)
+
 <p><span class="chinese">微观粒子具有波-粒二象性。</span><span class="english">Micro-particle has wave-particle parallelism.</span></p>
 
 <p><span class="chinese">整个合模过程模板精确的平行度。</span><span class="english">Precise platen parallelism across the entire stroke.</span></p>

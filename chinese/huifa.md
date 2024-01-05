@@ -1,5 +1,7 @@
 # 挥发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huifa.md)
+
 <p><span class="chinese">这种物质会挥发掉。</span><span class="english">This substance will  fly off.</span></p>
 
 <p><span class="chinese">乙醇是更容易挥发的组分。</span><span class="english">Ethanol is the more volatile component.</span></p>

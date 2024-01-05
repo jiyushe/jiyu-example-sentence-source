@@ -1,5 +1,7 @@
 # 颜面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanmian_2.md)
+
 <p><span class="chinese">他的颜面显示其邪恶之行为。</span><span class="english">His face blazons his evil deeds.</span></p>
 
 <p><span class="chinese">但是篮圈允许骑士队稍稍挽回点颜面。</span><span class="english">But that hoop allowed the Cavs to cover.</span></p>

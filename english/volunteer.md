@@ -1,5 +1,7 @@
 # volunteer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/volunteer.md)
+
 <p><span class="chinese">有自愿者吗？</span><span class="english">There. A volunteer?</span></p>
 
 <p><span class="chinese">我需要一名志愿者</span><span class="english">Oh. I need a volunteer.</span></p>

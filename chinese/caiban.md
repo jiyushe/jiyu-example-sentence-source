@@ -1,5 +1,7 @@
 # 采办
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caiban.md)
+
 <p><span class="chinese">人们把在胶袋的一切，他们采办。</span><span class="english">People put in plastic bags everything they buy.</span></p>
 
 <p><span class="chinese">在将来，采办东西能在可视电话中进行。</span><span class="english">In the future, shopping can be done by videophone.</span></p>

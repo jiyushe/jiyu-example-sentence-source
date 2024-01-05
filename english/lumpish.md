@@ -1,5 +1,7 @@
 # lumpish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lumpish.md)
+
 <p><span class="chinese">椰壳炭化料是由椰壳烧制而成，其形状为块状或粉状。</span><span class="english">Coconut Shell Charcoal is fired by the shell of coco, its form is lumpish or mealy.</span></p>
 
 <p><span class="chinese">其实盗版光碟真正是中看不中用的东西。</span><span class="english">Actually pilfer edition smooth dish is pleasant to the eye just about really lumpish thing.</span></p>

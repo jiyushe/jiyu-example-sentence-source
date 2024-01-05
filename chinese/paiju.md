@@ -1,5 +1,7 @@
 # 牌局
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paiju.md)
+
 <p><span class="chinese">他们认为没有上限的牌局才是真正的牌局。</span><span class="english">Who consider no-limit they only pure game left.</span></p>
 
 <p><span class="chinese">就是别人邀请，参加牌局，在场上出老千嘛。</span><span class="english">Is an invitation, to participate in the games, a cheat.</span></p>

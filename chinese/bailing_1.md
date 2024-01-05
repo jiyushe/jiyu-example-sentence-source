@@ -1,5 +1,7 @@
 # 白领
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bailing_1.md)
+
 <p><span class="chinese">白领人士，大学毕业。</span><span class="english">White collar, college grad.</span></p>
 
 <p><span class="chinese">钮扣前与蔓延白领。</span><span class="english">Button-up front with spread collar.</span></p>

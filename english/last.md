@@ -1,5 +1,7 @@
 # last 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/last.md)
+
 <p><span class="chinese">终于到家了。</span><span class="english">Home at last.</span></p>
 
 <p><span class="chinese">那最后这几天呢？</span><span class="english">And the last days?</span></p>

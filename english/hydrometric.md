@@ -1,5 +1,7 @@
 # hydrometric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrometric.md)
+
 <p><span class="chinese">比重计空中览绳的当前的勘测的系统聪明的控制箱。</span><span class="english">The hydrometric cableway's current surveying system intelligent control box.</span></p>
 
 <p><span class="chinese">测流速的摆锤有时用于确定明渠中的流速。</span><span class="english">The hydrometric pendulum is sometimes used to determine flow velocities in open channels.</span></p>

@@ -1,5 +1,7 @@
 # subtlety
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subtlety.md)
+
 <p><span class="chinese">的5.回避微妙话题。</span><span class="english">Avoid subtlety.</span></p>
 
 <p><span class="chinese">当需要噼里啪啦讲话，需要讲得很微妙时，你会胜过他们。</span><span class="english">But when subtlety or speed is required, you beat them.</span></p>

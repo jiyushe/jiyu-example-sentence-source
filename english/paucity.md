@@ -1,5 +1,7 @@
 # paucity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paucity.md)
+
 <p><span class="chinese">医生对此类病患的经验并不算少。</span><span class="english">Doctors have no paucity of experience with these patients.</span></p>
 
 <p><span class="chinese">巴什称，从一定程度上来说，正是由于得不到这种帮助，女性的职业抱负随着时间的推移而减弱。</span><span class="english">The paucity of such assistance partly explains why women's</span></p>

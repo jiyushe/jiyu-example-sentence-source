@@ -1,5 +1,7 @@
 # 没趣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meiqu.md)
+
 <p><span class="chinese">这是我所读过的最没趣的书。</span><span class="english">This is the least interesting book I've ever read.</span></p>
 
 <p><span class="chinese">用我最喜欢的一句话来形容，“正常是最没趣的”。</span><span class="english">One of my favourite lines is that "normal is boring".</span></p>

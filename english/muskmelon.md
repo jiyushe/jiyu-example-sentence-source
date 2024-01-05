@@ -1,5 +1,7 @@
 # muskmelon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/muskmelon.md)
+
 <p><span class="chinese">哎，韩佳，你把香瓜给我吃了。</span><span class="english">Han Jia, I ate your muskmelon.</span></p>
 
 <p><span class="chinese">这个瓜是面的。</span><span class="english">This muskmelon is soft and floury.</span></p>

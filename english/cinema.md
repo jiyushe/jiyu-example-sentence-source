@@ -1,5 +1,7 @@
 # cinema 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cinema.md)
+
 <p><span class="chinese">电影或是主题公园？</span><span class="english">Cinema or theme park?</span></p>
 
 <p><span class="chinese">他非常爱看电影。</span><span class="english">He adores the cinema.</span></p>

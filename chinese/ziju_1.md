@@ -1,5 +1,7 @@
 # 字据
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziju_1.md)
+
 <p><span class="chinese">明白，那是一张收款的字据。</span><span class="english">Yes, it is a receipt for money.</span></p>
 
 <p><span class="chinese">他恐吓那位老太太签了字据。</span><span class="english">He frightened the old lady into signing the paper.</span></p>

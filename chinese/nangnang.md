@@ -1,5 +1,7 @@
 # 囔囔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nangnang.md)
+
 <p><span class="chinese">不要对我大声囔囔。</span><span class="english">Don't raise your voice at me.</span></p>
 
 <p><span class="chinese">不要在那儿嘟嘟囔囔的，来，我可不要看护他。</span><span class="english">Come, I'm not going to nurse him.</span></p>

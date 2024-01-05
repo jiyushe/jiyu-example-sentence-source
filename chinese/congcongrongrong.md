@@ -1,5 +1,7 @@
 # 从从容容
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/congcongrongrong.md)
+
 <p><span class="chinese">他喜欢从从容容地吃早饭。</span><span class="english">He liked to take his time over breakfast.</span></p>
 
 <p><span class="chinese">我们有足够的时间从从容容吃顿午饭。</span><span class="english">We have ample time for a leisurely lunch.</span></p>

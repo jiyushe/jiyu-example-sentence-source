@@ -1,5 +1,7 @@
 # 偿命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/changming.md)
+
 <p><span class="chinese">他想让贝拉特里克斯为此偿命。</span><span class="english">He wanted Bellatrix to pay.</span></p>
 
 <p><span class="chinese">利息吃人不偿命啊！</span><span class="english">That interest will eat you alive!</span></p>

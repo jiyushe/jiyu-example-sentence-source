@@ -1,5 +1,7 @@
 # 香瓜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianggua.md)
+
 <p><span class="chinese">哎，韩佳，你把香瓜给我吃了。</span><span class="english">Han Jia, I ate your muskmelon.</span></p>
 
 <p><span class="chinese">香瓜这种水果好吗？</span><span class="english">Cantaloup is this kind of fruit good?</span></p>

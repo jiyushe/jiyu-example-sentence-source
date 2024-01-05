@@ -1,5 +1,7 @@
 # 绳梯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengti_1.md)
+
 <p><span class="chinese">请把绳梯装备起来。</span><span class="english">Please fix up the rope ladders.</span></p>
 
 <p><span class="chinese">安妮和杰克抓住绳梯，开始向上爬。</span><span class="english">Annie and Jack started up the rope ladder.</span></p>

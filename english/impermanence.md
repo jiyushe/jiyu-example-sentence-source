@@ -1,5 +1,7 @@
 # impermanence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impermanence.md)
+
 <p><span class="chinese">这就是所谓无常之理了。</span><span class="english">This is what we call "impermanence".</span></p>
 
 <p><span class="chinese">无常是祸中有福，并非诅咒</span><span class="english">Impermanence is a Blessing, not a Curse.</span></p>

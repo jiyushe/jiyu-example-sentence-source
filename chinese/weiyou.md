@@ -1,5 +1,7 @@
 # 惟有
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiyou.md)
+
 <p><span class="chinese">惟有耶稣是我歌赋。</span><span class="english">We will lift up Jesus ever.</span></p>
 
 <p><span class="chinese">惟有在道理中才调找到智慧。</span><span class="english">Wisdomis only found in truth.</span></p>

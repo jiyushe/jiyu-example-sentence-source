@@ -1,5 +1,7 @@
 # pipa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pipa.md)
+
 <p><span class="chinese">管弦乐和琵琶哀歌“南京！南京！”</span><span class="english">Nanking! Nanking! A Threnody for Orchestra and Pipa.</span></p>
 
 <p><span class="chinese">PIPA可以适用于各类几何形状材料的探伤。</span><span class="english">PIPA is able to work with varying materials in different geometries.</span></p>

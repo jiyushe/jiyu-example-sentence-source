@@ -1,5 +1,7 @@
 # sec
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sec.md)
+
 <p><span class="chinese">等一下。</span><span class="english">One sec.</span></p>
 
 <p><span class="chinese">沉默8秒…暗牧可以去睡觉了…</span><span class="english">Silences the target for 8 sec.</span></p>

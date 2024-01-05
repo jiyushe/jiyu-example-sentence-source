@@ -1,5 +1,7 @@
 # trifle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trifle.md)
+
 <p><span class="chinese">别跟我嬉皮笑脸的。</span><span class="english">Don't trifle with me.</span></p>
 
 <p><span class="chinese">我有点震惊。</span><span class="english">I was a trifle shocked.</span></p>

@@ -1,5 +1,7 @@
 # radical 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radical.md)
+
 <p><span class="chinese">两种皆然不同的观点。</span><span class="english">Two radical views.</span></p>
 
 <p><span class="chinese">我选择彻底改变。</span><span class="english">I chose radical change.</span></p>

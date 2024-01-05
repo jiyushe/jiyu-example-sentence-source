@@ -1,5 +1,7 @@
 # aphid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aphid.md)
+
 <p><span class="chinese">一只寄生蜂正在往一只蚜虫的体内产卵。</span><span class="english">A parasitic wasp lays its eggs in an aphid.</span></p>
 
 <p><span class="chinese">你一定听说过的蚜虫基因组计划。</span><span class="english">Surely you've heard about the Aphid Genome Project.</span></p>

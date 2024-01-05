@@ -1,5 +1,7 @@
 # obliterate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obliterate.md)
+
 <p><span class="chinese">我用粉笔把这个单词涂去了。</span><span class="english">I obliterate the word with chalk.</span></p>
 
 <p><span class="chinese">直接撞击肯定会毁灭地球。</span><span class="english">A direct hit would obliterate Earth, it's said.</span></p>

@@ -1,5 +1,7 @@
 # quotidian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quotidian.md)
+
 <p><span class="chinese">勾心斗角在每个单位都司空见惯。</span><span class="english">Intrigue against each other is quotidian in every company.</span></p>
 
 <p><span class="chinese">大多数应对全球变暖的措施都是冗长乏味，几近压制，以及司空见惯的。</span><span class="english">Most solutions to the problem of global warming are tediously, almost oppressively, quotidian.</span></p>

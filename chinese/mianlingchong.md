@@ -1,5 +1,7 @@
 # 棉铃虫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianlingchong.md)
+
 <p><span class="chinese">这些棉铃虫真可恶!</span><span class="english">What a curse those bollworms are!</span></p>
 
 <p><span class="chinese">这份研究涉及棉铃虫，对棉农来说，这是最大的威胁。</span><span class="english">The study involved bollworms, a major threat to cotton farmers.</span></p>

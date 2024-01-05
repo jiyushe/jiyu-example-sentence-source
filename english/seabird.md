@@ -1,5 +1,7 @@
 # seabird
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seabird.md)
+
 <p><span class="chinese">鼓起你火焰般的羽翼吧，海鸟在歌唱。</span><span class="english">Flap your flaming wings, as many a seabird sings.</span></p>
 
 <p><span class="chinese">他正在非常精细地画一只海鸥。</span><span class="english">He was making, with great care, a picture of a seabird.</span></p>

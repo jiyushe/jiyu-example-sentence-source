@@ -1,5 +1,7 @@
 # 时空
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shikong_1.md)
+
 <p><span class="chinese">来此时空穿梭旅行吧！</span><span class="english">Take a trip through time.</span></p>
 
 <p><span class="chinese">时空穿梭机在哪？</span><span class="english">Where is the time machine?</span></p>

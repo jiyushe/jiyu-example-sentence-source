@@ -1,5 +1,7 @@
 # ostracism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ostracism.md)
+
 <p><span class="chinese">我想他以前遭受过和我一样的排斥和冷漠，”Ella说。</span><span class="english">I think he had felt the ostracism and indifference I had felt, " she says.</span></p>
 
 <p><span class="chinese">一些非洲医士将疾病归咎于巫术，这可能会导致病人受到其他人的排斥。</span><span class="english">Some African healers blame illness on witchcraft, which can lead to ostracism of those accused.</span></p>

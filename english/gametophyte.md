@@ -1,5 +1,7 @@
 # gametophyte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gametophyte.md)
+
 <p><span class="chinese">内部配偶体不同的地钱。</span><span class="english">Liverworts with gametophyte differentiated internally.</span></p>
 
 <p><span class="chinese">雌配子体为八核七细胞蓼形胚囊。</span><span class="english">Female gametophyte was polygonal embryo sac with 8 nucleis.</span></p>

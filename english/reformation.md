@@ -1,5 +1,7 @@
 # reformation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reformation.md)
+
 <p><span class="chinese">变革就是这样开始的。</span><span class="english">This is how reformation begins.</span></p>
 
 <p><span class="chinese">这是在宗教改革运动之前。</span><span class="english">That was before the Reformation.</span></p>

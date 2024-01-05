@@ -1,5 +1,7 @@
 # buddha
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buddha.md)
+
 <p><span class="chinese">金的佛佗。</span><span class="english">A golden Buddha.</span></p>
 
 <p><span class="chinese">接着说佛牙舍利。</span><span class="english">Cue the Buddha tooth.</span></p>

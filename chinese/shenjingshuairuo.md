@@ -1,5 +1,7 @@
 # 神经衰弱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenjingshuairuo.md)
+
 <p><span class="chinese">神经衰弱者身临高处有危险。</span><span class="english">Great height is hazardous to the weak head.</span></p>
 
 <p><span class="chinese">也许我的神经衰弱就是因此而来的吧。</span><span class="english">Maybe it is the reason of I have neurasthenia.</span></p>

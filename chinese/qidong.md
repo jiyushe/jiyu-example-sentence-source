@@ -1,5 +1,7 @@
 # 启动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qidong.md)
+
 <p><span class="chinese">双重启动。</span><span class="english">Dual booting.</span></p>
 
 <p><span class="chinese">没有启动费。</span><span class="english">No set-up fees.</span></p>

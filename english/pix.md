@@ -1,5 +1,7 @@
 # pix
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pix.md)
+
 <p><span class="chinese">照片的主人们是陌生人，我的相机躺在房子的角落，早已落尘。</span><span class="english">These are not my pix. My camera is lying somewhere, covered with dust.</span></p>
 
 <p><span class="chinese">谢谢所有让人惊喜不已的支持与鼓舞人心的故事-我会很快贴上照片的！</span><span class="english">Thanks for the amazing support and inspiring stories- will post pix soon!</span></p>

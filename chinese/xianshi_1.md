@@ -1,5 +1,7 @@
 # 仙逝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianshi_1.md)
+
 <p><span class="chinese">他妻子去年仙逝了。</span><span class="english">His wife died a year within the.</span></p>
 
 <p><span class="chinese">有一年十月的一天，他突然仙逝了。</span><span class="english">He died suddenly one October day.</span></p>

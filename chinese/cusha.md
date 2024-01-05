@@ -1,5 +1,7 @@
 # 粗纱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cusha.md)
+
 <p><span class="chinese">粗纱伸长。</span><span class="english">Stretch in roving.</span></p>
 
 <p><span class="chinese">粗纱捻度过大。</span><span class="english">Excessive twist in roving.</span></p>

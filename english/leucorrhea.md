@@ -1,5 +1,7 @@
 # leucorrhea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leucorrhea.md)
+
 <p><span class="chinese">并且白带增多。</span><span class="english">And the leucorrhea increases.</span></p>
 
 <p><span class="chinese">排尿障碍伴白带增多。</span><span class="english">Fourth, the urination barrier partner leucorrhea increases.</span></p>

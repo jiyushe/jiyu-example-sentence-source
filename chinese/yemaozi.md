@@ -1,5 +1,7 @@
 # 夜猫子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yemaozi.md)
+
 <p><span class="chinese">夜猫子更富创造力。</span><span class="english">Night owls are more creative.</span></p>
 
 <p><span class="chinese">你可能是“夜猫子”或介于两者之间。</span><span class="english">You may be a "night person" or something in between.</span></p>

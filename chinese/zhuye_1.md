@@ -1,5 +1,7 @@
 # 竹叶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuye_1.md)
+
 <p><span class="chinese">熊猫吃嫩竹叶。</span><span class="english">Panda eats shoots and leaves.</span></p>
 
 <p><span class="chinese">熊猫以吃竹叶为生。</span><span class="english">A panda lives on bamboo leaves.</span></p>

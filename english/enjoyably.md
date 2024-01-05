@@ -1,5 +1,7 @@
 # enjoyably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enjoyably.md)
+
 <p><span class="chinese">我善于使学生在轻松愉快的氛围中学习…</span><span class="english">I help my students learn language enjoyably and easily by creating lively scenes.</span></p>
 
 <p><span class="chinese">每年，千百万访客在美国各地安全和愉快地完成旅行。</span><span class="english">Each year millions of visitors travel safely and enjoyably throughout the United States.</span></p>

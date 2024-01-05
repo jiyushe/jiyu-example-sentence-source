@@ -1,5 +1,7 @@
 # distort
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distort.md)
+
 <p><span class="chinese">这将使信号畸变。</span><span class="english">It will distort the signal.</span></p>
 
 <p><span class="chinese">消费者更倾向于选择主动噪音隔离器。</span><span class="english">B. Active isolators can distort sound.</span></p>

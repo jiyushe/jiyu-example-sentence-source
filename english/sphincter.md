@@ -1,5 +1,7 @@
 # sphincter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sphincter.md)
+
 <p><span class="chinese">评估病人外括约机控制情况。</span><span class="english">Assess ability to control external sphincter.</span></p>
 
 <p><span class="chinese">试想想，那个狮身人面像的括约肌发臭了！</span><span class="english">Just think, that sphinx has a sphincter that stinks 1!</span></p>

@@ -1,5 +1,7 @@
 # 大我
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dawo.md)
+
 <p><span class="chinese">你大我啊？</span><span class="english">Do you big me?</span></p>
 
 <p><span class="chinese">我想放大我母亲的照片。</span><span class="english">I want to magnify my mother's picture.</span></p>

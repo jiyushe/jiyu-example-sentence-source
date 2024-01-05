@@ -1,5 +1,7 @@
 # connector
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/connector.md)
+
 <p><span class="chinese">创新的电源接口。</span><span class="english">Innovative power connector.</span></p>
 
 <p><span class="chinese">取出销钉连接器。</span><span class="english">Retrieve the pin connector.</span></p>

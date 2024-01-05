@@ -1,5 +1,7 @@
 # scheduled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scheduled.md)
+
 <p><span class="chinese">期末考试统一安排。</span><span class="english">One exam is scheduled.</span></p>
 
 <p><span class="chinese">时间都安排好了。</span><span class="english">And they've all been scheduled.</span></p>

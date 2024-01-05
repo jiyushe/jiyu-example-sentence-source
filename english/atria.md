@@ -1,5 +1,7 @@
 # atria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atria.md)
+
 <p><span class="chinese">两心房是由薄壁构成的空腔。</span><span class="english">Both atria are thin walled muscular chambers.</span></p>
 
 <p><span class="chinese">心脏有两个心房与两个心室，四间房。</span><span class="english">A heart has two atria and two ventricles, four rooms.</span></p>

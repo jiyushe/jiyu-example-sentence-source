@@ -1,5 +1,7 @@
 # connie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/connie.md)
+
 <p><span class="chinese">比尔天天都来探望康尼。</span><span class="english">Bill visited Connie every day.</span></p>
 
 <p><span class="chinese">比?天天都?看望康尼。</span><span class="english">Bill viwebsited Connie eactual day.</span></p>

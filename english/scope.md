@@ -1,5 +1,7 @@
 # scope 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scope.md)
+
 <p><span class="chinese">什么是范围渐变？</span><span class="english">What is scope creep?</span></p>
 
 <p><span class="chinese">选择服务器级别范围。</span><span class="english">Select a server level scope.</span></p>

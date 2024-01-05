@@ -1,5 +1,7 @@
 # loofah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loofah.md)
+
 <p><span class="chinese">女性，丝瓜可以帮您调理月经！</span><span class="english">Female, loofah can help you menstruation!</span></p>
 
 <p><span class="chinese">丝瓜要如何烹调较不易变黑？</span><span class="english">How do you prevent loofah from turning black?</span></p>

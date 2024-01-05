@@ -1,5 +1,7 @@
 # 古生物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gushengwu.md)
+
 <p><span class="chinese">古生物学者知道黑矽石同样的好地方去观看化石。</span><span class="english">Paleontologists know chert as a good place to look for fossils.</span></p>
 
 <p><span class="chinese">这一猛犸遗骸现已修复陈列在列宁格勒古生物博物馆。</span><span class="english">HAS now been restored in the Palaeontological Museum in Leningrad.</span></p>

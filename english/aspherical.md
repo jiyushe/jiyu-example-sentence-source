@@ -1,5 +1,7 @@
 # aspherical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aspherical.md)
+
 <p><span class="chinese">最后给出了一个非球面面形的测量例。</span><span class="english">Finally, an example of aspherical surface testing is given.</span></p>
 
 <p><span class="chinese">加热式外后视镜，可电动调节。</span><span class="english">Heated exterior mirrors, electrically adjustable, aspherical.</span></p>

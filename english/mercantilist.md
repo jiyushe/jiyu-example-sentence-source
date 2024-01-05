@@ -1,5 +1,7 @@
 # mercantilist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mercantilist.md)
+
 <p><span class="chinese">他们看到，具有重商主义倾向的中国正在一门心思地抢占世界石油供应。</span><span class="english">They see a mercantilist China single-mindedly moving to preempt world oil supplies.</span></p>
 
 <p><span class="chinese">至于英国，即使是最热心的重商主义者也宁可将葡萄种植和酿造留给别人。</span><span class="english">As for the English, even the most ardent mercantilist would rather they left viniculture to others.</span></p>

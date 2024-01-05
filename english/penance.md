@@ -1,5 +1,7 @@
 # penance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/penance.md)
+
 <p><span class="chinese">另一桩苦行就是饮用牛奶。</span><span class="english">Another penance was the drinking of milk.</span></p>
 
 <p><span class="chinese">苦竹斋像忏悔中的一个人。</span><span class="english">Bitter bamboo room is like a person doing penance.</span></p>

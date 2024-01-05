@@ -1,5 +1,7 @@
 # liberia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liberia.md)
+
 <p><span class="chinese">来自赖比瑞亚的钻石多半是无冲突的。</span><span class="english">Diamonds from Liberia are mostly conflict-free.</span></p>
 
 <p><span class="chinese">一些人逃到了西部的利比里亚或东部的加纳。</span><span class="english">Some have fled west to Liberia or east to Ghana.</span></p>

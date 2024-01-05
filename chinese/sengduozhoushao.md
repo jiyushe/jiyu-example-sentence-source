@@ -1,5 +1,7 @@
 # 僧多粥少
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sengduozhoushao.md)
+
 <p><span class="chinese">其实是有超过僧多粥少。</span><span class="english">There actually is more than enough to go around.</span></p>
 
 <p><span class="chinese">就像每次泡沫一样，现在是僧多粥少。</span><span class="english">Like every bubble, this is a game of musical chairs.</span></p>

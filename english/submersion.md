@@ -1,5 +1,7 @@
 # submersion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/submersion.md)
+
 <p><span class="chinese">下沉气流则是干而冷。</span><span class="english">The submersion air current does, but cold.</span></p>
 
 <p><span class="chinese">其他的东西都完全浸没到语言里。</span><span class="english">Other things are complete submersion into the language.</span></p>

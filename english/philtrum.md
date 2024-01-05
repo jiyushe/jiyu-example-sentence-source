@@ -1,5 +1,7 @@
 # philtrum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/philtrum.md)
+
 <p><span class="chinese">人中暑之后的症状有哪些?。</span><span class="english">What does the symptom after philtrum heat have?</span></p>
 
 <p><span class="chinese">蜂蜜加大葱会不会让人中毒？</span><span class="english">Does honey increase green to you can make philtrum poisonous?</span></p>

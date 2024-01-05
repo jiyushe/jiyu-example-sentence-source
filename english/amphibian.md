@@ -1,5 +1,7 @@
 # amphibian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amphibian.md)
+
 <p><span class="chinese">密封式底部，可供两栖动物造景之用。</span><span class="english">The sealed bottom is for setting making for amphibian.</span></p>
 
 <p><span class="chinese">在这次爆炸当中损失了三辆两栖工程车。</span><span class="english">Three Marine amphibian tractors were lost in the explosion.</span></p>

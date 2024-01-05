@@ -1,5 +1,7 @@
 # 无可
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuke.md)
+
 <p><span class="chinese">我决不再是无可指摘的了。</span><span class="english">I never can be blameless.</span></p>
 
 <p><span class="chinese">但是却是无可否认的。</span><span class="english">But there is no denying it.</span></p>

@@ -1,5 +1,7 @@
 # 媾和
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gouhe.md)
+
 <p><span class="chinese">用拒绝媾和的方法？</span><span class="english">By refusing to treat with him?</span></p>
 
 <p><span class="chinese">他永不会原谅她不洁的媾和。</span><span class="english">He never forgave her unholy alliance.</span></p>

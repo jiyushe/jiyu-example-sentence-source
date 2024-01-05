@@ -1,5 +1,7 @@
 # amylase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amylase.md)
+
 <p><span class="chinese">腮腺炎常引起血清淀粉酶增高。</span><span class="english">The blood amylase is usually elevated as a result of parotitis.</span></p>
 
 <p><span class="chinese">目的了解胰淀粉酶测定的假阳性问题。</span><span class="english">Objective In order to realize the false positive of pancreatic amylase.</span></p>

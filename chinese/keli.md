@@ -1,5 +1,7 @@
 # 颗粒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/keli.md)
+
 <p><span class="chinese">颗粒产生沉淀。</span><span class="english">The particles are sedimented.</span></p>
 
 <p><span class="chinese">其次看涂料颗粒细度。</span><span class="english">See coating grain next fineness.</span></p>

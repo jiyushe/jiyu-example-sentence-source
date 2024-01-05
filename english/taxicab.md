@@ -1,5 +1,7 @@
 # taxicab
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taxicab.md)
+
 <p><span class="chinese">有一次一个法国出租汽车司机开了亚瑟·柯南道尔爵士一个玩笑。</span><span class="english">French taxicab driver once played a joke on Sir Arthur Conna Doyle.</span></p>
 
 <p><span class="chinese">这一经典场面在后面的出租车一样移动如昔。</span><span class="english">That classic scene in the back of a taxicab is just as moving as ever.</span></p>

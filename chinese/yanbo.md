@@ -1,5 +1,7 @@
 # 演播
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanbo.md)
+
 <p><span class="chinese">演播员为本人们准备了新闻、诗歌、笑话、音乐等。</span><span class="english">Prepare us for the broadcasting member news, poetry, jokes, music, etc.</span></p>
 
 <p><span class="chinese">拉里。金于1985年就加盟CNN了，但他的演播生涯还要长的多。</span><span class="english">He's been on CNN since 1985, but he has been in broadcasting a lot longer.</span></p>

@@ -1,5 +1,7 @@
 # trait
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trait.md)
+
 <p><span class="chinese">那是她的特点。</span><span class="english">That was her trait.</span></p>
 
 <p><span class="chinese">这是他不变的特质</span><span class="english">This was a constant trait.</span></p>

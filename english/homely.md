@@ -1,5 +1,7 @@
 # homely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homely.md)
+
 <p><span class="chinese">她为我们做了一顿家常饭。</span><span class="english">She cooked us a homely meal.</span></p>
 
 <p><span class="chinese">而那善良的古老传统中纯朴的美德</span><span class="english">The homely beauty of the good old cause</span></p>

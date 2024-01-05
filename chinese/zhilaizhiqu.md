@@ -1,5 +1,7 @@
 # 直来直去
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhilaizhiqu.md)
+
 <p><span class="chinese">我们很少能直来直去。</span><span class="english">We can seldom go erect.</span></p>
 
 <p><span class="chinese">我算是相当直来直去的人。</span><span class="english">I am a pretty straight sort of guy.</span></p>

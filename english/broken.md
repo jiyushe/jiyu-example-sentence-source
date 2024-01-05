@@ -1,5 +1,7 @@
 # broken
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/broken.md)
+
 <p><span class="chinese">它坏掉了</span><span class="english">It's broken.</span></p>
 
 <p><span class="chinese">我的手断了吗？</span><span class="english">Is my hand broken?</span></p>

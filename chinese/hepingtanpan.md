@@ -1,5 +1,7 @@
 # 和平谈判
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hepingtanpan.md)
+
 <p><span class="chinese">联合国派了一队观察员前去和平谈判。</span><span class="english">The UN sent a team of observers to the peace talks.</span></p>
 
 <p><span class="chinese">总统派了一名特使参加和平谈判。</span><span class="english">The President sent a special envoy to the peace talks.</span></p>

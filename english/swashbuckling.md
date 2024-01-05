@@ -1,5 +1,7 @@
 # swashbuckling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swashbuckling.md)
+
 <p><span class="chinese">其中那些虚张声势的技巧能帮她在亚瑟王和海盗三部曲中做个很好的铺垫。</span><span class="english">The swashbuckling skills will serve her well in King Arthur and the Pirates trilogy.</span></p>
 
 <p><span class="chinese">而且如何包含这些因素又不会变得虚张声势。那需要很准确。</span><span class="english">And how to incorporate it so it didn't become swashbuckling. That it had a precision about it.</span></p>

@@ -1,5 +1,7 @@
 # 生不逢时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengbufengshi.md)
+
 <p><span class="chinese">你就不会再抱怨自己缺东少西，你就不会再抱怨自己生不逢时。</span><span class="english">And you will never complain about your present life!</span></p>
 
 <p><span class="chinese">到最后，抱怨老天不公平，认为自己生不逢时。</span><span class="english">Finally, complain god unfair, think oneself unlucky.</span></p>

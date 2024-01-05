@@ -1,5 +1,7 @@
 # complementarity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/complementarity.md)
+
 <p><span class="chinese">深港要在更宽的领域、更高的层次实现优势互补。</span><span class="english">Shenzhen to more areas, a higher level of mutual complementarity.</span></p>
 
 <p><span class="chinese">两国经济具有很大的潜力和互补性。</span><span class="english">There is great potential and complementarity in the two economies.</span></p>

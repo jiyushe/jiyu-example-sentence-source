@@ -1,5 +1,7 @@
 # 聚首
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jushou_1.md)
+
 <p><span class="chinese">偶然的相遇使两位老朋友再一次聚首。</span><span class="english">A chance meeting brought the two old friends together again.</span></p>
 
 <p><span class="chinese">这只不过是一群老板聚首并填写表格。</span><span class="english">It's just a bunch of bosses meeting up and filling in the forms.</span></p>

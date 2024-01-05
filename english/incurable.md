@@ -1,5 +1,7 @@
 # incurable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incurable.md)
+
 <p><span class="chinese">他得了不治之症。</span><span class="english">He got an incurable disease.</span></p>
 
 <p><span class="chinese">他死于一种那个年代不能医治的病。</span><span class="english">The disease from which he died was at that time incurable.</span></p>

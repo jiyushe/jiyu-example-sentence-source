@@ -1,5 +1,7 @@
 # two
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/two.md)
+
 <p><span class="chinese">星号二。</span><span class="english">Star two.</span></p>
 
 <p><span class="chinese">诗二首。</span><span class="english">Two Poems.</span></p>

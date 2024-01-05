@@ -1,5 +1,7 @@
 # pronouncement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pronouncement.md)
+
 <p><span class="chinese">日莲因此而被逐出寺院。</span><span class="english">This pronouncement caused him to be banished from his monastery.</span></p>
 
 <p><span class="chinese">在程亚杰的创作里，我们体验了近似超现实主义所散发的神秘感。</span><span class="english">With Cheng Yajie we are confronted with a certain sense of mystery reminiscent of the Surrealist pronouncement.</span></p>

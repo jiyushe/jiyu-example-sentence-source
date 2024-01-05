@@ -1,5 +1,7 @@
 # freethinking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freethinking.md)
+
 <p><span class="chinese">你和我都是心态成熟、思想自由的成年人。</span><span class="english">You and I are mature, freethinking adults.</span></p>
 
 <p><span class="chinese">一个时代的自由思想在下一个时代就成了常识。</span><span class="english">The freethinking of one age is the common sense of the next.</span></p>

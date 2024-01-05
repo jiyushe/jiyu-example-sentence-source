@@ -1,5 +1,7 @@
 # 火候
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huohou.md)
+
 <p><span class="chinese">他的艺术到了火候了。</span><span class="english">His art has matured.</span></p>
 
 <p><span class="chinese">鱼做的火候够吗?。</span><span class="english">Is the fish cooked enough?</span></p>

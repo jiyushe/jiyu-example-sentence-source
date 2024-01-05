@@ -1,5 +1,7 @@
 # 鱼片
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yupian.md)
+
 <p><span class="chinese">穿小羊驼，吃甜味薄烧鲔鱼片。</span><span class="english">Wearing vicuña. Eating ahi tuna.</span></p>
 
 <p><span class="chinese">什锦菜，小龙虾派，和鱼片浓汤。</span><span class="english">Jambalaya, craw- fish pie, fillet gumbo.</span></p>

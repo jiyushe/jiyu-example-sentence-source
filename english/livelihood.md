@@ -1,5 +1,7 @@
 # livelihood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/livelihood.md)
+
 <p><span class="chinese">他做木工活，以维持生计。</span><span class="english">He makes his livelihood as a carpenter.</span></p>
 
 <p><span class="chinese">那么什么是正当的谋生之道呢？</span><span class="english">So, what is the right means of livelihood?</span></p>

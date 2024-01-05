@@ -1,5 +1,7 @@
 # 余震
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuzhen.md)
+
 <p><span class="chinese">为余震做好准备。</span><span class="english">Be prepared for aftershocks.</span></p>
 
 <p><span class="chinese">每次余震都让李女士心有余悸。</span><span class="english">Every aftershock terrifies Ms. Li.</span></p>

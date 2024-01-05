@@ -1,5 +1,7 @@
 # 其乐融融
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qilerongrong.md)
+
 <p><span class="chinese">我们家人口众多，其乐融融。</span><span class="english">I have a big happy family.</span></p>
 
 <p><span class="chinese">让我们帮助让社会更美好，其乐融融。</span><span class="english">Help make society better and have fun doing it.</span></p>

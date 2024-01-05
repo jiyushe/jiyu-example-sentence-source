@@ -1,5 +1,7 @@
 # parasite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parasite.md)
+
 <p><span class="chinese">这是一种寄生植物。</span><span class="english">Mistletoe is a parasite plant.</span></p>
 
 <p><span class="chinese">什么是最有韧劲白勺寄生物？</span><span class="english">What is the most resilient parasite?</span></p>

@@ -1,5 +1,7 @@
 # 连枷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianjia_1.md)
+
 <p><span class="chinese">他和她用连枷摔打水稻脱粒，摔打完后再扬场。</span><span class="english">They beat it out with flails, he and the woman together.</span></p>
 
 <p><span class="chinese">我们并不清楚其他任何鸟类种群是否将身体充当连枷。</span><span class="english">We don't know of any other species that uses its body like a flail.</span></p>

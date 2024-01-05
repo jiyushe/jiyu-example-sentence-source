@@ -1,5 +1,7 @@
 # sepia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sepia.md)
+
 <p><span class="chinese">使用碳粉铁氰化钾的照片时，棕褐色色调。</span><span class="english">Use toner with ferricyanide when sepia toning photographs.</span></p>
 
 <p><span class="chinese">主持人是几个月之前邀请我们去晚会的那个棕黑色男生。</span><span class="english">The m.c. was the sepia boy who'd invited us to that party months back.</span></p>

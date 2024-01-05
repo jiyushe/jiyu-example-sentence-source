@@ -1,5 +1,7 @@
 # 小解
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaojie_1.md)
+
 <p><span class="chinese">你有时候会觉得你想小解但是解不出来吗？</span><span class="english">Do you sometimes feel like you want to but you can't?</span></p>
 
 <p><span class="chinese">医生，每次我小解的时候，都会出血。</span><span class="english">Doctor, every time I pass water, it looks like blood.</span></p>

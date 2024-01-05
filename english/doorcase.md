@@ -1,5 +1,7 @@
 # doorcase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doorcase.md)
+
 <p><span class="chinese">门框同样为深色的胡桃木。</span><span class="english">Doorcase is brunet Walnut likewise.</span></p>
 
 <p><span class="chinese">门框胡同瑞宾楼。</span><span class="english">In the Ruibin store at Doorcase Lane.</span></p>

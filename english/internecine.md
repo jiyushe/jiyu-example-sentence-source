@@ -1,5 +1,7 @@
 # internecine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/internecine.md)
+
 <p><span class="chinese">唯美的开始，两败俱伤的结局。</span><span class="english">The beginning of aestheticism, internecine ending.</span></p>
 
 <p><span class="chinese">那个曾经，似乎惨不忍睹，最终两败俱伤。</span><span class="english">The once, seem to be miserable, eventually internecine.</span></p>

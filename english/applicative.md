@@ -1,5 +1,7 @@
 # applicative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/applicative.md)
+
 <p><span class="chinese">动作包含施用逻辑。</span><span class="english">Actions contain the applicative logic.</span></p>
 
 <p><span class="chinese">该设计具有较高的实用价值和广阔的应用前景。</span><span class="english">This design is of high practical value and has broad applicative prospects.</span></p>

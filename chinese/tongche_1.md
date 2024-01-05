@@ -1,5 +1,7 @@
 # 通车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongche_1.md)
+
 <p><span class="chinese">这一立交是1993年通车。</span><span class="english">This interchange was opened in 1993.</span></p>
 
 <p><span class="chinese">这条新马路不久就可以通车。</span><span class="english">The new road will soon be open to traffic.</span></p>

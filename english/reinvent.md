@@ -1,5 +1,7 @@
 # reinvent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reinvent.md)
+
 <p><span class="chinese">简而言之，我们需要彻底改造马桶。</span><span class="english">In short, we need to reinvent the toilet.</span></p>
 
 <p><span class="chinese">我愿尽力彻底改造自己的生活。</span><span class="english">I will try my best to reinvent my own life.</span></p>

@@ -1,5 +1,7 @@
 # scatterometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scatterometer.md)
+
 <p><span class="chinese">本文着重介绍全晶体管化X波段地面散射计的设计、结构与性能指标。</span><span class="english">This article describes design construction and characterization of a transistorized X-band ground-based scatterometer.</span></p>
 
 <p><span class="chinese">给出了一种改进的场方式反演方法，利用该方法从卫星散射计测量的后向散射强度的数据中唯一反演出大尺度海洋风场。</span><span class="english">We introduce a modified model approach to estimate the unique synoptic oceanic wind field from backscatter of spaceborne scatterometer.</span></p>

@@ -1,5 +1,7 @@
 # knotting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knotting.md)
+
 <p><span class="chinese">小猫把线弄成了一团儿。</span><span class="english">The little cat is knotting the thread into a ball.</span></p>
 
 <p><span class="chinese">它起因打结这是很不容易理清。</span><span class="english">It causes knotting which is not at all easy to untangle.</span></p>

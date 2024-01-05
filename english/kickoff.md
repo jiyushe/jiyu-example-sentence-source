@@ -1,5 +1,7 @@
 # kickoff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kickoff.md)
+
 <p><span class="chinese">杀死动物只是一个开始。</span><span class="english">Killing is just the kickoff.</span></p>
 
 <p><span class="chinese">事情一开始就大获成功。</span><span class="english">The kickoff was a total success.</span></p>

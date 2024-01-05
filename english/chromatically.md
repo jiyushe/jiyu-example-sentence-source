@@ -1,5 +1,7 @@
 # chromatically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chromatically.md)
+
 <p><span class="chinese">怎么去掉脸上色斑？</span><span class="english">How spot of chromatically of take out face?</span></p>
 
 <p><span class="chinese">排钟，钟琴塔楼里一套固定的乐器，通常在键盘上演奏。</span><span class="english">A stationary set of chromatically tuned bells in a tower, usually played from a keyboard.</span></p>

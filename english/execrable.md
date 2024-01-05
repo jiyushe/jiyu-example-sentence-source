@@ -1,5 +1,7 @@
 # execrable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/execrable.md)
+
 <p><span class="chinese">什么是可憎的诅咒！</span><span class="english">What an execrable curse!</span></p>
 
 <p><span class="chinese">他的上衣不堪入目。</span><span class="english">His coats were execrable.</span></p>

@@ -1,5 +1,7 @@
 # 雇佣劳动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guyonglaodong.md)
+
 <p><span class="chinese">现在，我们来看看雇佣劳动。</span><span class="english">Let us now take wage-labour.</span></p>
 
 <p><span class="chinese">雇佣劳动完全依赖于工人之间的竞争。</span><span class="english">Wage-labour rests exclusively on competition between the laborers.</span></p>

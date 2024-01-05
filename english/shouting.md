@@ -1,5 +1,7 @@
 # shouting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shouting.md)
+
 <p><span class="chinese">欢呼声盖过了他的叫声。</span><span class="english">Cheers drowned his shouting.</span></p>
 
 <p><span class="chinese">高呼着“铭记阿拉莫！”</span><span class="english">Shouting “Remember the Alamo!</span></p>

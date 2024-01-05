@@ -1,5 +1,7 @@
 # 吓唬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiahu.md)
+
 <p><span class="chinese">你们吓唬不了我，你们放心。</span><span class="english">You don't frighten me.</span></p>
 
 <p><span class="chinese">我也要吓唬他。</span><span class="english">I want to frighten him.</span></p>

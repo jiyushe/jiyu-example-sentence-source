@@ -1,5 +1,7 @@
 # nebulizer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nebulizer.md)
+
 <p><span class="chinese">将气流调节器插头接通墙上电源，并连接喷雾器。</span><span class="english">Plug the flow regulator into the wall and attach the nebulizer.</span></p>
 
 <p><span class="chinese">流量计、控制器和雾化器都固定在箱内的面板上。</span><span class="english">Flowmeters, controls, and nebulizer are mounted on a recessed panel.</span></p>

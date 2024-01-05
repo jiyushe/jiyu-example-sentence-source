@@ -1,5 +1,7 @@
 # sadhana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sadhana.md)
+
 <p><span class="chinese">在共修中错过一天是会发生的。</span><span class="english">It may happen that you miss a day during a sadhana.</span></p>
 
 <p><span class="chinese">你的冥想可能一天充满喜乐和祝福而另一天却充满挑战。</span><span class="english">Your sadhana may be blissful one day and very challenging the next.</span></p>

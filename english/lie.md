@@ -1,5 +1,7 @@
 # lie 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lie.md)
+
 <p><span class="chinese">所以何必撒谎呢？</span><span class="english">So why lie?</span></p>
 
 <p><span class="chinese">平躺在地板上。</span><span class="english">Lie on the floor.</span></p>

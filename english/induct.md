@@ -1,5 +1,7 @@
 # induct
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/induct.md)
+
 <p><span class="chinese">引入电力电缆，在预定长度剥开。</span><span class="english">Induct electric power cable, shell up the destine length.</span></p>
 
 <p><span class="chinese">这动词的意思是「正式就任为官职或者为之举行一个正式的就职典礼」。</span><span class="english">This is a verb which means to induct into office or make a formal beginning.</span></p>

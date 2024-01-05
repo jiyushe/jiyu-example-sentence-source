@@ -1,5 +1,7 @@
 # wow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wow.md)
+
 <p><span class="chinese">我们显示结果为奇数，然后我们继续。</span><span class="english">Again, wow.</span></p>
 
 <p><span class="chinese">哇。又大又蓝。</span><span class="english">Wow. The big blue.</span></p>

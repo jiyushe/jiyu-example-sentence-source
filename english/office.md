@@ -1,5 +1,7 @@
 # office
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/office.md)
+
 <p><span class="chinese">唐的办公室。</span><span class="english">Don’s office.</span></p>
 
 <p><span class="chinese">李医生诊所。</span><span class="english">Dr. Lee's office.</span></p>

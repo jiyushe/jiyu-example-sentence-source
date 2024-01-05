@@ -1,5 +1,7 @@
 # bouffant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bouffant.md)
+
 <p><span class="chinese">河南洛阳的一只狗狗设计了一款蓬松发式来参加比赛。</span><span class="english">A dog wears a bouffant to a competition in Luoyang, China.</span></p>
 
 <p><span class="chinese">为了看起来高一些，他穿着厚底鞋并梳着蓬松的发型。</span><span class="english">He uses platform shoes and bouffant hair to appear taller.</span></p>

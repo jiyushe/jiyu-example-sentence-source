@@ -1,5 +1,7 @@
 # 死脑筋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sinaojin.md)
+
 <p><span class="chinese">男人是如此可笑的死脑筋和顽固不化。</span><span class="english">Men are ridiculously pig-headed and stubborn.</span></p>
 
 <p><span class="chinese">男人是如此可笑的死脑筋和顽固不化。</span><span class="english">Most people think you are stubborn and bullheaded.</span></p>

@@ -1,5 +1,7 @@
 # 黑炭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heitan.md)
+
 <p><span class="chinese">在那儿，就像那黑炭色的梨子。</span><span class="english">Where, like the charcoal pears, the crows.</span></p>
 
 <p><span class="chinese">研究者测试了土壤中黑炭和有机碳的数量，发现黑炭的含量比所预期的要高许多。</span><span class="english">So the more black carbon there is in the soil, the less CO2 is released.</span></p>

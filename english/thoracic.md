@@ -1,5 +1,7 @@
 # thoracic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thoracic.md)
+
 <p><span class="chinese">这是两种常见的胸廓畸形。</span><span class="english">This is two common thoracic deformity.</span></p>
 
 <p><span class="chinese">法国的解剖学家，他发现了胸导管。</span><span class="english">French anatomist who discovered the thoracic duct.</span></p>

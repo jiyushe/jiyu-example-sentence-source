@@ -1,5 +1,7 @@
 # athwart
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/athwart.md)
+
 <p><span class="chinese">船朝着那条拖船横向驶去。</span><span class="english">The ship steamed athwart the tug.</span></p>
 
 <p><span class="chinese">如六月和风，她伴你飞起。</span><span class="english">Like June's warm breath, athwart thee fly.</span></p>

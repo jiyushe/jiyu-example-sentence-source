@@ -1,5 +1,7 @@
 # schoolmate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/schoolmate.md)
+
 <p><span class="chinese">同学和老师见状。</span><span class="english">Schoolmate and teacher sees that.</span></p>
 
 <p><span class="chinese">他的两个儿子没有一个是我的同学。</span><span class="english">Neither of his sons is my schoolmate.</span></p>

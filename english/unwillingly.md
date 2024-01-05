@@ -1,5 +1,7 @@
 # unwillingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unwillingly.md)
+
 <p><span class="chinese">但他没有不情愿去。</span><span class="english">But he did not go unwillingly.</span></p>
 
 <p><span class="chinese">她极不情愿地转过身来面向我。</span><span class="english">She turned unwillingly toward me.</span></p>

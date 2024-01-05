@@ -1,5 +1,7 @@
 # unofficially
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unofficially.md)
+
 <p><span class="chinese">如果只是想想的话大概是7岁吧。</span><span class="english">Well, unofficially when I was seven,</span></p>
 
 <p><span class="chinese">蒙大拿州非正式的称为“大天空之州”。</span><span class="english">Montana is unofficially nicknamed "Big Sky Country."</span></p>

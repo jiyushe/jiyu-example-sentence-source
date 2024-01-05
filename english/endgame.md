@@ -1,5 +1,7 @@
 # endgame
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endgame.md)
+
 <p><span class="chinese">黑方如何获得一个多一子的残局？</span><span class="english">How does black get an endgame with a piece up.</span></p>
 
 <p><span class="chinese">你说毕业典礼后菲普斯先生能让我们去试试吗？</span><span class="english">Think Mr. Phipps would let me take time off after endgame ?</span></p>

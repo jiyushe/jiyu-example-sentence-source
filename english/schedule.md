@@ -1,5 +1,7 @@
 # schedule 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/schedule.md)
+
 <p><span class="chinese">制定一份计划表。</span><span class="english">Set a schedule.</span></p>
 
 <p><span class="chinese">我们没有作息时间表。</span><span class="english">We have no schedule.</span></p>

@@ -1,5 +1,7 @@
 # quarry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quarry.md)
+
 <p><span class="chinese">我去了趟采石场。</span><span class="english">I went to the quarry.</span></p>
 
 <p><span class="chinese">塔宝拉还有一些采石场。</span><span class="english">Tabora also hosts a ballast quarry.</span></p>

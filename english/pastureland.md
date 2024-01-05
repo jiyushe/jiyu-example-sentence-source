@@ -1,5 +1,7 @@
 # pastureland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pastureland.md)
+
 <p><span class="chinese">在巴西，220万公顷的土地被占用的牧场。</span><span class="english">In Brazil, 220 million hectares of land are occupied by pastureland.</span></p>
 
 <p><span class="chinese">出租车客运市场能够在我国的牧区出现与存在，这本身就是一个新的事物。</span><span class="english">It is a novelty that taxi market can appear and exist in China's pastureland.</span></p>

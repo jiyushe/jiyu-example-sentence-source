@@ -1,5 +1,7 @@
 # titian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/titian.md)
+
 <p><span class="chinese">1516到1518年间，提香为这幅巨型祭坛装饰画工作了至少两年。</span><span class="english">Titian worked on this altarpiece for more than two years from 1516 to 1518.</span></p>
 
 <p><span class="chinese">还可以见到伦勃朗、鲁本斯、提香和普桑等艺术家的作品。</span><span class="english">Works of artists like Rembrandt, Rubens, Titian and Poussin can also be seen.</span></p>

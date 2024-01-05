@@ -1,5 +1,7 @@
 # 爱面子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aimianzi.md)
+
 <p><span class="chinese">她说她很爱面子。</span><span class="english">She said she cared a lot about face.</span></p>
 
 <p><span class="chinese">我以为你爱面子不爱赡养费呢。</span><span class="english">I thought you were too proud take alimony.</span></p>

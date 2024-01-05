@@ -1,5 +1,7 @@
 # nestle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nestle.md)
+
 <p><span class="chinese">有多少人认为是雀巢</span><span class="english">How many would say Nestle?</span></p>
 
 <p><span class="chinese">至于其他的是安居者所无法理解的。</span><span class="english">As for other nestle to can't comprehend.</span></p>

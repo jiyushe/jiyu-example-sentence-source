@@ -1,5 +1,7 @@
 # timeless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/timeless.md)
+
 <p><span class="chinese">纤细的腰身具有永恒的吸引力</span><span class="english">Timeless Appeal of Slender Waist</span></p>
 
 <p><span class="chinese">他使残暴无限期的上演…</span><span class="english">He who brutalizes the timeless stage.</span></p>

@@ -1,5 +1,7 @@
 # bottled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bottled.md)
+
 <p><span class="chinese">这酒已从桶中移装入瓶中了。</span><span class="english">The wine has been bottled off.</span></p>
 
 <p><span class="chinese">我们有生啤酒和瓶装啤酒。</span><span class="english">We have draft and bottled beer.</span></p>

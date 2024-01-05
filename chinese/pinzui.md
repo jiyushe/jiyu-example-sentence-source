@@ -1,5 +1,7 @@
 # 贫嘴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinzui.md)
+
 <p><span class="chinese">噢，别贫嘴了。你只是在说好话而已。</span><span class="english">Oh, stop it. You're just being nice.</span></p>
 
 <p><span class="chinese">孙子都这么大了，还贫嘴！</span><span class="english">Grandchildren are so big, but also Garrulous !</span></p>

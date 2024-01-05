@@ -1,5 +1,7 @@
 # crimea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crimea.md)
+
 <p><span class="chinese">克里米亚，金秋时节森林中的瀑布。</span><span class="english">Autumnwaterfall in the forest of Crimea.</span></p>
 
 <p><span class="chinese">如果他们有美丽的克里米亚为什么还要去那里。</span><span class="english">Why go there if they have beautiful Crimea.</span></p>

@@ -1,5 +1,7 @@
 # philosophical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/philosophical.md)
+
 <p><span class="chinese">历史是最富哲理的教科书。</span><span class="english">History is the most philosophical textbook.</span></p>
 
 <p><span class="chinese">但这并非一种哲学上的论证”。</span><span class="english">But that's not a philosophical demonstration.</span></p>

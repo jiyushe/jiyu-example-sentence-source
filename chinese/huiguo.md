@@ -1,5 +1,7 @@
 # 回锅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huiguo.md)
+
 <p><span class="chinese">放回锅中。</span><span class="english">Return to the pan.</span></p>
 
 <p><span class="chinese">所有鸡腿倒回锅中。</span><span class="english">Return all of the chicken to the pan.</span></p>

@@ -1,5 +1,7 @@
 # neutralism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neutralism.md)
+
 <p><span class="chinese">科学价值中立说是科学研究的重要课题。</span><span class="english">The neutralism of scientific value is the important issue.</span></p>
 
 <p><span class="chinese">中立主义是缅甸外交政策的基石。</span><span class="english">Neutralism is the cornerstone of neutralism foreign policy.</span></p>

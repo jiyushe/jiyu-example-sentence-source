@@ -1,5 +1,7 @@
 # desensitize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/desensitize.md)
+
 <p><span class="chinese">能否使我们的免疫系统脱敏呢？</span><span class="english">Can we desensitize our immune systems?</span></p>
 
 <p><span class="chinese">闻太多的香味你的鼻子会麻木？</span><span class="english">Does sniffing too many scents desensitize your nose?</span></p>

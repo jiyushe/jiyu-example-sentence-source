@@ -1,5 +1,7 @@
 # 痛痛快快
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongtongkuaikuai.md)
+
 <p><span class="chinese">让我们痛痛快快地玩一天。</span><span class="english">Let's make a day of it.</span></p>
 
 <p><span class="chinese">痛痛快快大哭一场使她好过些了。</span><span class="english">A good bawl made her feel better.</span></p>

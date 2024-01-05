@@ -1,5 +1,7 @@
 # intendance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intendance.md)
+
 <p><span class="chinese">要让规则充分发挥作用需要严格的监督。</span><span class="english">To bring the rules into full play needs strict intendance.</span></p>
 
 <p><span class="chinese">备案制度作为立法制度的重要组成部分，是立法监督的重要形式。</span><span class="english">The system of serving as a record is an important form of legislative intendance.</span></p>

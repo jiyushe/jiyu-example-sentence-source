@@ -1,5 +1,7 @@
 # palpebral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palpebral.md)
+
 <p><span class="chinese">眼睑皮下圆形质块，大小不一。</span><span class="english">Palpebral subcutaneous round mass with different sizes.</span></p>
 
 <p><span class="chinese">眼睑皮下无痛性圆形肿块、大小不一。</span><span class="english">Palpebral subcutaneous anodynia round mass with different sizes.</span></p>

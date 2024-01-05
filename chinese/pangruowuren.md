@@ -1,5 +1,7 @@
 # 旁若无人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pangruowuren.md)
+
 <p><span class="chinese">跳舞要旁若无人一样去跳。</span><span class="english">Dance like nobody's watching.</span></p>
 
 <p><span class="chinese">他表演着，旁若无人的样子。</span><span class="english">He acted as if nobody was around.</span></p>

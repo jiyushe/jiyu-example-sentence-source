@@ -1,5 +1,7 @@
 # 消防
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaofang_2.md)
+
 <p><span class="chinese">这是消防演习。</span><span class="english">This is a fire drill.</span></p>
 
 <p><span class="chinese">进行消防演习并报告。</span><span class="english">Execute a fire drill and report.</span></p>

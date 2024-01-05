@@ -1,5 +1,7 @@
 # extradite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extradite.md)
+
 <p><span class="chinese">法国提出引渡她的申请。</span><span class="english">France has applied to extradite her.</span></p>
 
 <p><span class="chinese">塞内加尔表示将于星期一把哈布雷引渡回乍得。</span><span class="english">Senegal says it will extradite Habre on Monday.</span></p>

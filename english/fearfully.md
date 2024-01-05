@@ -1,5 +1,7 @@
 # fearfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fearfully.md)
+
 <p><span class="chinese">男孩子们害怕地相互看着。</span><span class="english">The boys looked at each other fearfully.</span></p>
 
 <p><span class="chinese">男孩子们害怕地相互看著。</span><span class="english">The boys looked at each other fearfully.</span></p>

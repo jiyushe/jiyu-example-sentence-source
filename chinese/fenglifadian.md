@@ -1,5 +1,7 @@
 # 风力发电
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenglifadian.md)
+
 <p><span class="chinese">但风力发电并不完美。</span><span class="english">But it’s not perfect.</span></p>
 
 <p><span class="chinese">为什么选择风力发电？</span><span class="english">B. Why Choose Wind Power?</span></p>

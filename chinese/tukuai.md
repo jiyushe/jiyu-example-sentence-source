@@ -1,5 +1,7 @@
 # 土块
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tukuai.md)
+
 <p><span class="chinese">那里面是一个巨大的土块。</span><span class="english">Inside is this giant dirt clod.</span></p>
 
 <p><span class="chinese">土块“粘”在铁铲上。</span><span class="english">Clods of soil stuck to the spade.</span></p>

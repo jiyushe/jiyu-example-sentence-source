@@ -1,5 +1,7 @@
 # 紧要关头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinyaoguantou.md)
+
 <p><span class="chinese">哎啊！他老是在紧要关头失常。</span><span class="english">Argh! He's always choking in the clutch.</span></p>
 
 <p><span class="chinese">我们处在历史的紧要关头。</span><span class="english">We are at a critical time in our history.</span></p>

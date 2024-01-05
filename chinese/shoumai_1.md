@@ -1,5 +1,7 @@
 # 收买
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoumai_1.md)
+
 <p><span class="chinese">他收买他们，使他们闭口不言。</span><span class="english">He bribed them into silence.</span></p>
 
 <p><span class="chinese">杰拉尔德爵士已经被收买了。</span><span class="english">Sir Gerald had been nobbled.</span></p>

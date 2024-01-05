@@ -1,5 +1,7 @@
 # 善解人意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanjierenyi.md)
+
 <p><span class="chinese">喜欢小动物，善良，善解人意。</span><span class="english">Like small animals, good-hearted, savvy.</span></p>
 
 <p><span class="chinese">探索，冒险，旅行，善解人意</span><span class="english">seeking, exploring, traveling, understanding</span></p>

@@ -1,5 +1,7 @@
 # papaverine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/papaverine.md)
+
 <p><span class="chinese">罂粟碱损伤血管内皮。</span><span class="english">Papaverine do damage to endothelial cells.</span></p>
 
 <p><span class="chinese">罂粟碱用药无剂量依赖关系，与个体敏感性和阳萎病程有关。</span><span class="english">The dose of papaverine depended on individual sensitivity and the course of disease.</span></p>

@@ -1,5 +1,7 @@
 # 正儿八经
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengerbajing.md)
+
 <p><span class="chinese">我是那第三个人，一个正儿八经的疯人！</span><span class="english">I’m the third, and I really am mad.</span></p>
 
 <p><span class="chinese">那位伙计还以为他们是在正儿八经地对话。</span><span class="english">The guy thought they were having a serious conversation.</span></p>

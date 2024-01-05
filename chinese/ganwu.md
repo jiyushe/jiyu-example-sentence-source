@@ -1,5 +1,7 @@
 # 感悟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganwu.md)
+
 <p><span class="chinese">从没有人像G·K·切斯特顿那样，从生活中获得如此多的感悟。</span><span class="english">No man ever got as much out of life as G.K.</span></p>
 
 <p><span class="chinese">增进对幽默和讽刺效果的感悟力。</span><span class="english">Deepen our understanding of humor and irony.</span></p>

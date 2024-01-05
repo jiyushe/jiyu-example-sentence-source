@@ -1,5 +1,7 @@
 # tray
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tray.md)
+
 <p><span class="chinese">键盘托架。</span><span class="english">Keyboard tray.</span></p>
 
 <p><span class="chinese">托盘菜单重新建造。</span><span class="english">Tray menu re-built.</span></p>

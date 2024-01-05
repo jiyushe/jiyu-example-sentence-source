@@ -1,5 +1,7 @@
 # urologic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/urologic.md)
+
 <p><span class="chinese">他擅长各种泌尿男性疾病的诊断与治疗。</span><span class="english">He specializes in a variety of urologic diseases diagnosis and treatment of men.</span></p>
 
 <p><span class="chinese">泌尿系结石是一种世界范围的常见病、多发病。</span><span class="english">Urolithiasis is one of the most common urologic diseases in the world-wide area.</span></p>

@@ -1,5 +1,7 @@
 # 方程式
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangchengshi.md)
+
 <p><span class="chinese">波动方程式。</span><span class="english">It is a wave equation.</span></p>
 
 <p><span class="chinese">有所有关键的方程式。</span><span class="english">It has all the key equations.</span></p>

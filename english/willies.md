@@ -1,5 +1,7 @@
 # willies
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/willies.md)
+
 <p><span class="chinese">枪总是让我胆战心惊。</span><span class="english">Guns always gave me the willies.</span></p>
 
 <p><span class="chinese">光站在这里我就心惊肉跳的了。</span><span class="english">I get the willies just standing here.</span></p>

@@ -1,5 +1,7 @@
 # 盈余
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingyu.md)
+
 <p><span class="chinese">这是一个相当大的盈余。</span><span class="english">This is a pretty big surplus.</span></p>
 
 <p><span class="chinese">未分配盈余将被忽略。</span><span class="english">Undistributed earnings are ignored.</span></p>

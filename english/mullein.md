@@ -1,5 +1,7 @@
 # mullein
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mullein.md)
+
 <p><span class="chinese">而该植物油可以用来治疗耳朵的感染。</span><span class="english">Mullein oil can be used to treat ear infections.</span></p>
 
 <p><span class="chinese">对于调理内分泌系统，特别是甲状腺。</span><span class="english">Mullein is a great herb for the endocrine glandular system especially the thyroid.</span></p>

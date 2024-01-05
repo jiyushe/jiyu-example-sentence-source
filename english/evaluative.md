@@ -1,5 +1,7 @@
 # evaluative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evaluative.md)
+
 <p><span class="chinese">这个文学鉴赏家使用了很多评价性的术语。</span><span class="english">The literary judge uses many evaluative terms.</span></p>
 
 <p><span class="chinese">最后一章原型理论的评价性分析。</span><span class="english">The final chapter is evaluative analysis of archetype theory.</span></p>

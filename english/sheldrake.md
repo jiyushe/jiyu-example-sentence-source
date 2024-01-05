@@ -1,5 +1,7 @@
 # sheldrake
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sheldrake.md)
+
 <p><span class="chinese">毕竟，秋沙鸭会离群孤飞。</span><span class="english">The sheldrake floats apart from the flock.</span></p>
 
 <p><span class="chinese">与此同时，弗兰正和希德瑞克在巴德的公寓里幽会。</span><span class="english">Meanwhile , Fran and Sheldrake meet at the apartment.</span></p>

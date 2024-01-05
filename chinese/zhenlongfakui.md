@@ -1,5 +1,7 @@
 # 振聋发聩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenlongfakui.md)
+
 <p><span class="chinese">这篇报道起了振聋发聩的作用。</span><span class="english">This report had an enlightening effect.</span></p>
 
 <p><span class="chinese">黄钟大吕，振聋发聩！</span><span class="english">Big of yellow clock, flap the deaf hair !</span></p>

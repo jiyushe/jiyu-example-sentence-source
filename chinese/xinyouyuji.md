@@ -1,5 +1,7 @@
 # 心有余悸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinyouyuji.md)
+
 <p><span class="chinese">赛后，戴门蒂耶娃仍然心有余悸，“我不能为澳网比赛继续热身，甚至我都很难再挥动球拍”。</span><span class="english">I couldn't even hold my racket.</span></p>
 
 <p><span class="chinese">每次余震都让李女士心有余悸。</span><span class="english">Every aftershock terrifies Ms. Li.</span></p>

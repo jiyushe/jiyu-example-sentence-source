@@ -1,5 +1,7 @@
 # nodding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nodding.md)
+
 <p><span class="chinese">约翰频频点头。</span><span class="english">John is nodding his head.</span></p>
 
 <p><span class="chinese">他边说边朝“缅因街”点点头。</span><span class="english">Nodding at theMaine Street.</span></p>

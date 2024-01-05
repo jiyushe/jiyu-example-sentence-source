@@ -1,5 +1,7 @@
 # semipermeable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semipermeable.md)
+
 <p><span class="chinese">用半透膜将海水里面的水分和盐分分开。</span><span class="english">Seawater is forced through a semipermeable membrane that separates salt from water.</span></p>
 
 <p><span class="chinese">我们吸纳着从赛璐珞半透膜另一边渗透进来的你们的政治理念。</span><span class="english">We absorbed your politics by osmosis, across the semipermeable membrane of celluloid.</span></p>

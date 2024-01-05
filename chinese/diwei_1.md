@@ -1,5 +1,7 @@
 # 地位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diwei_1.md)
+
 <p><span class="chinese">汉语普通话的地位会不会上升？</span><span class="english">Will Mandarin ascend?</span></p>
 
 <p><span class="chinese">不要降低你的地位。</span><span class="english">Don't abase your apartment.</span></p>

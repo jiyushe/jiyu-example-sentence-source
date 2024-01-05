@@ -1,5 +1,7 @@
 # 主干
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhugan.md)
+
 <p><span class="chinese">主干是我们的主线。</span><span class="english">The trunk is our mainline.</span></p>
 
 <p><span class="chinese">主干必须一直保持可发布状态。</span><span class="english">The trunk must always be releasable.</span></p>

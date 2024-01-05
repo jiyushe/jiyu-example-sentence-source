@@ -1,5 +1,7 @@
 # 树阴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuyin_1.md)
+
 <p><span class="chinese">在那杨柳依依的树阴。</span><span class="english">All under the willow-tree.</span></p>
 
 <p><span class="chinese">在家里，在你翡翠的树阴中</span><span class="english">At home, in your emerald bowers</span></p>

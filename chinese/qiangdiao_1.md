@@ -1,5 +1,7 @@
 # 腔调
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangdiao_1.md)
+
 <p><span class="chinese">他说话的腔调使我厌烦。</span><span class="english">His accent repels me.</span></p>
 
 <p><span class="chinese">天啊，我真希望这副励志腔调很快就能烟消云散！</span><span class="english">God, I hope this wears off soon.</span></p>

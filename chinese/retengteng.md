@@ -1,5 +1,7 @@
 # 热腾腾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/retengteng.md)
+
 <p><span class="chinese">还有一天三顿热腾腾的饭菜。</span><span class="english">Three hot meals a day on time.</span></p>
 
 <p><span class="chinese">从洗碗机里新鲜出炉的热腾腾的蛋糕。</span><span class="english">Hot and fresh out of the dishwasher.</span></p>

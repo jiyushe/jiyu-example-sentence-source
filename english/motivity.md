@@ -1,5 +1,7 @@
 # motivity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/motivity.md)
+
 <p><span class="chinese">我们知道，你今天在水里游了10几个小时，那是什么使你坚持到底的呢？你的动力来自哪里？</span><span class="english">As we know, you swimmed for over 10 hours. what let you persist it to the end?What is your motivity from?</span></p>
 
 <p><span class="chinese">它是一种吸引力、向心力、亲和力，更是一种推进学校发展的动力。</span><span class="english">It is a kind of attraction, centripetal force, affinity and a motivity to push the development of a university.</span></p>

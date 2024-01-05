@@ -1,5 +1,7 @@
 # brainwashing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brainwashing.md)
+
 <p><span class="chinese">这就是洗脑。</span><span class="english">It was known as brainwashing.</span></p>
 
 <p><span class="chinese">被洗脑不表示他们有精神病。</span><span class="english">Brainwashing didn't mean that they are psychotic.</span></p>

@@ -1,5 +1,7 @@
 # heredity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heredity.md)
+
 <p><span class="chinese">遗传与环境？</span><span class="english">Heredity versus environment?</span></p>
 
 <p><span class="chinese">有些病是遗传的结果。</span><span class="english">Some diseases are present by heredity.</span></p>

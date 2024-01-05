@@ -1,5 +1,7 @@
 # 古国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guguo.md)
+
 <p><span class="chinese">那是在楼兰古国的一种奇特的鸟。</span><span class="english">It was in ancient Loulan a strange bird.</span></p>
 
 <p><span class="chinese">印度和中国都是文明古国。</span><span class="english">India and China are both ancient civilisations.</span></p>

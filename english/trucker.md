@@ -1,5 +1,7 @@
 # trucker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trucker.md)
+
 <p><span class="chinese">另一个朋友提到他会成为货车司机。</span><span class="english">Another friend mentioned he’d become a trucker.</span></p>
 
 <p><span class="chinese">这是“熊猫卡车司机”，是个电动玩具。</span><span class="english">This is a "Panda Trucker". It is an electric toy.</span></p>

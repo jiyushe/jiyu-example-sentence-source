@@ -1,5 +1,7 @@
 # 筹算
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chousuan.md)
+
 <p><span class="chinese">我叔叔下周筹算去日本。</span><span class="english">My uncle is to Japan next.</span></p>
 
 <p><span class="chinese">下礼拜五您们筹算干甚么？</span><span class="english">What are you doing next Friday?</span></p>

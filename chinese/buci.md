@@ -1,5 +1,7 @@
 # 卜辞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buci.md)
+
 <p><span class="chinese">第五章整理何组所见气象卜辞。</span><span class="english">Chapter five sysemizes Ho Group Weather Oracle.</span></p>
 
 <p><span class="chinese">卜辞之“步”应与商代军制单位有关。</span><span class="english">Bu must have a connection with the military system of Shang dynasty.</span></p>

@@ -1,5 +1,7 @@
 # bask
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bask.md)
+
 <p><span class="chinese">沐浴在温暖的热煤。</span><span class="english">Bask in the warm hot coals.</span></p>
 
 <p><span class="chinese">你甚至可以沐浴在一丝高尚的荣耀里。</span><span class="english">And you can even bask in a bit of nobility.</span></p>

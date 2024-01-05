@@ -1,5 +1,7 @@
 # thump
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thump.md)
+
 <p><span class="chinese">它重重地跌到地上。</span><span class="english">It landed with a thump.</span></p>
 
 <p><span class="chinese">他的心开始怦怦狂跳。</span><span class="english">His heart began to thump wildly.</span></p>

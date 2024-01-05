@@ -1,5 +1,7 @@
 # pessimistically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pessimistically.md)
+
 <p><span class="chinese">布鲁斯悲观地对蜘蛛说。</span><span class="english">The blues are said to the spider pessimistically.</span></p>
 
 <p><span class="chinese">要由消极的漠视走向积极的维护与发扬。</span><span class="english">We need to maintain and promote actively instead of ignoring as pessimistically.</span></p>

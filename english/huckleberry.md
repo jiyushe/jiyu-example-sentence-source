@@ -1,5 +1,7 @@
 # huckleberry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/huckleberry.md)
+
 <p><span class="chinese">我的朋友，月河，跟我。</span><span class="english">My huckleberry friend, Moon rive And me.</span></p>
 
 <p><span class="chinese">我那可爱的老朋友。还有月亮河，还有我。</span><span class="english">My huckleberry friend, Moon rive and me.</span></p>

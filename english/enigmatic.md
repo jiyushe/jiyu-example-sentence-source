@@ -1,5 +1,7 @@
 # enigmatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enigmatic.md)
+
 <p><span class="chinese">你是我认识的人中最高深莫测的人。</span><span class="english">You’re the most enigmatic person I know.</span></p>
 
 <p><span class="chinese">我喜欢我的表姐，喜欢她那谜一样的性格。</span><span class="english">I like my cousin, like her enigmatic character.</span></p>

@@ -1,5 +1,7 @@
 # 诱骗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youpian.md)
+
 <p><span class="chinese">他把她诱骗走了。</span><span class="english">He decoyed her away.</span></p>
 
 <p><span class="chinese">她用糖果诱骗小孩们。</span><span class="english">She enticed the children with candy.</span></p>

@@ -1,5 +1,7 @@
 # 垂柳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuiliu.md)
+
 <p><span class="chinese">垂柳在风中摇摆。</span><span class="english">Weeping willows swing in the wind.</span></p>
 
 <p><span class="chinese">垂柳，柳兰，青草。</span><span class="english">And willows, willow-herb, and grass.</span></p>

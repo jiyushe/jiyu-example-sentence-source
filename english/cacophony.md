@@ -1,5 +1,7 @@
 # cacophony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cacophony.md)
+
 <p><span class="chinese">试试下面这个食谱吧，这口味你永远都不会忘！</span><span class="english">For a cacophony of flavors that you won't forget, try this recipe.</span></p>
 
 <p><span class="chinese">大自然的和声世界被人类的工业噪音淹没了。</span><span class="english">Nature's symphonic world was drowned by man's industrial cacophony.</span></p>

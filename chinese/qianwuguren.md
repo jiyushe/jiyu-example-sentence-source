@@ -1,5 +1,7 @@
 # 前无古人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianwuguren.md)
+
 <p><span class="chinese">其文化表现也是前无古人的。</span><span class="english">Its cultural manifestations also appeared to be novel.</span></p>
 
 <p><span class="chinese">津巴布韦的经历让人震惊，但并非前无古人。</span><span class="english">Zimbabwe’s experience was shocking, but not unprecedented.</span></p>

@@ -1,5 +1,7 @@
 # turnkey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turnkey.md)
+
 <p><span class="chinese">我们提供一切齐全即可投入使用的方案。</span><span class="english">We offer a complete turnkey solution.</span></p>
 
 <p><span class="chinese">交钥匙解决方案是端到端解决方案。</span><span class="english">A turnkey solution is an end-to-end solution.</span></p>

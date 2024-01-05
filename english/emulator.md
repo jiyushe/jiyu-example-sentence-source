@@ -1,5 +1,7 @@
 # emulator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emulator.md)
+
 <p><span class="chinese">在线仿真器。查阅仿真器。</span><span class="english">In-Circuit Emulator. See emulator.</span></p>
 
 <p><span class="chinese">这意味着要启动仿真器。</span><span class="english">That means starting up the emulator.</span></p>

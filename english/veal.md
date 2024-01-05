@@ -1,5 +1,7 @@
 # veal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/veal.md)
+
 <p><span class="chinese">我更喜欢小牛肉。</span><span class="english">I prefer veal.</span></p>
 
 <p><span class="chinese">牛肉片，先生。</span><span class="english">Veal cutlet, sir.</span></p>

@@ -1,5 +1,7 @@
 # piped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/piped.md)
+
 <p><span class="chinese">我们没有自来水。</span><span class="english">We have no piped water.</span></p>
 
 <p><span class="chinese">他们用管道把水引走。</span><span class="english">They piped the water away.</span></p>

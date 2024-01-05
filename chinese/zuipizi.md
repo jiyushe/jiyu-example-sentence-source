@@ -1,5 +1,7 @@
 # 嘴皮子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuipizi.md)
+
 <p><span class="chinese">他的嘴皮子捅的你肚子上的那个洞？</span><span class="english">His mouth put that hole in your gut?</span></p>
 
 <p><span class="chinese">党派之间动嘴皮子的时间已经过去了。</span><span class="english">The time for partisan bickering is over.</span></p>

@@ -1,5 +1,7 @@
 # pedicel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pedicel.md)
+
 <p><span class="chinese">花梗直立，对3厘米，圆柱状，具条纹。</span><span class="english">Pedicel erect, to 3 cm, terete, striate.</span></p>
 
 <p><span class="chinese">胸花的花梗也不可太长。</span><span class="english">Boutonniere's pedicel may not be too long.</span></p>

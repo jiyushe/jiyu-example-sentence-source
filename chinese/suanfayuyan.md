@@ -1,5 +1,7 @@
 # 算法语言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suanfayuyan.md)
+
 <p><span class="chinese">面向数值的算法语言?。</span><span class="english">VAL? Value – Oriented Algorithmic Language?</span></p>
 
 <p><span class="chinese">课程采用的算法语言?。</span><span class="english">Which programming languages does the course use?</span></p>

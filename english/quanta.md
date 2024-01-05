@@ -1,5 +1,7 @@
 # quanta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quanta.md)
+
 <p><span class="chinese">指定了较高优先级的线程拥有较长的执行时间量。</span><span class="english">Threads with higher assigned priorities are given longer time quanta to execute.</span></p>
 
 <p><span class="chinese">在这里，量子比特与光量子的强耦合起着举足轻重的作用。</span><span class="english">Here, the strong coupling of quantum bits with light quanta plays a pivotal role.</span></p>

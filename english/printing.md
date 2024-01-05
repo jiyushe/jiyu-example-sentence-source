@@ -1,5 +1,7 @@
 # printing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/printing.md)
+
 <p><span class="chinese">印刷厂。</span><span class="english">The printing plant.</span></p>
 
 <p><span class="chinese">正电极双层印刷。</span><span class="english">Finger double printing.</span></p>

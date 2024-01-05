@@ -1,5 +1,7 @@
 # murphy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/murphy.md)
+
 <p><span class="chinese">天空由麦克·墨菲是蓝色的。</span><span class="english">The sky is blue by Mike Murphy.</span></p>
 
 <p><span class="chinese">有什么问题，摩菲女士？</span><span class="english">What's the problem, Ms. Murphy?</span></p>

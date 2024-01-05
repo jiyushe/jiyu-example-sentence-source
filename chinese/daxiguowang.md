@@ -1,5 +1,7 @@
 # 大喜过望
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daxiguowang.md)
+
 <p><span class="chinese">道看到农，大喜过望。</span><span class="english">Tao farming, overjoyed to see.</span></p>
 
 <p><span class="chinese">他一定对你的消息大喜过望。</span><span class="english">He'll be overjoyed at your news.</span></p>

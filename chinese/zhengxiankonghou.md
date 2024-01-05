@@ -1,5 +1,7 @@
 # 争先恐后
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengxiankonghou.md)
+
 <p><span class="chinese">所以大家争先恐后去买房</span><span class="english">So, they rushed and bought houses.</span></p>
 
 <p><span class="chinese">到了目的地后，大家不由分说，争先恐后地干起来。</span><span class="english">On arriving there, everybody went into action in no time.</span></p>

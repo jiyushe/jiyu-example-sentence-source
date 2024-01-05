@@ -1,5 +1,7 @@
 # 袍子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paozi.md)
+
 <p><span class="chinese">孟克换上了过冬的新袍子。</span><span class="english">Mengke has changed into his new winter robe.</span></p>
 
 <p><span class="chinese">的袍子上尽是尘土，汗渍斑斑。</span><span class="english">His black cassock was dusty and sweat-stained.</span></p>

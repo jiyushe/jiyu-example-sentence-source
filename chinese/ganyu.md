@@ -1,5 +1,7 @@
 # 干预
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganyu.md)
+
 <p><span class="chinese">及早干预是关键。</span><span class="english">Early intervention is key.</span></p>
 
 <p><span class="chinese">别干预我的事。</span><span class="english">Don't meddle in my affairs.</span></p>

@@ -1,5 +1,7 @@
 # pictorial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pictorial.md)
+
 <p><span class="chinese">在英国的园林修剪图案之旅。</span><span class="english">A pictorial tour of topiary in English gardens.</span></p>
 
 <p><span class="chinese">有向图有简单的图形表示。</span><span class="english">Digraphs have a simple pictorial representation.</span></p>

@@ -1,5 +1,7 @@
 # arthroplasty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arthroplasty.md)
+
 <p><span class="chinese">第二阶段的关节置换术极具技术挑战性。</span><span class="english">The second-stage arthroplasty was technically challenging.</span></p>
 
 <p><span class="chinese">是感染还是过敏引起金属对金属全髋关节置换术后疼痛？</span><span class="english">Infection or Allergy in the Painful Metal-on-Metal Total Hip Arthroplasty?</span></p>

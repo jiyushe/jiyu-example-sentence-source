@@ -1,5 +1,7 @@
 # 水运
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiyun.md)
+
 <p><span class="chinese">有五种运输模式—汽运、铁运、水运、空运和管道运输。</span><span class="english">There are five transportation modes—motor, rail, air, water, or pipeline.</span></p>
 
 <p><span class="chinese">日野公司每隔一天还收到从日本水运而来的零件。</span><span class="english">The company typically gets a shipment of gears from Japan every other day.</span></p>

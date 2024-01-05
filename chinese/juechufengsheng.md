@@ -1,5 +1,7 @@
 # 绝处逢生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juechufengsheng.md)
+
 <p><span class="chinese">他绝处逢生，从沙漠被救了回来。</span><span class="english">He was unexpectedly rescued from the desert.</span></p>
 
 <p><span class="chinese">我认为，由于流行音乐的简单性使得其很容易绝处逢生。</span><span class="english">I think it’s the simplicity of pop music. It makes it more likely to get saved.</span></p>

@@ -1,5 +1,7 @@
 # 独木桥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dumuqiao.md)
+
 <p><span class="chinese">她摇摇晃晃地走过独木桥。</span><span class="english">She teetered over the single-log bridge.</span></p>
 
 <p><span class="chinese">学生们逐一走过独木桥。</span><span class="english">The students filed across a narrow foot bridge.</span></p>

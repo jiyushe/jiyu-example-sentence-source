@@ -1,5 +1,7 @@
 # substation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/substation.md)
+
 <p><span class="chinese">当地供电站正在修复中。</span><span class="english">The electricity substation is being repaired.</span></p>
 
 <p><span class="chinese">方案由调度中心站和子站组成。</span><span class="english">The scheme is mainly composed of center station and substation.</span></p>

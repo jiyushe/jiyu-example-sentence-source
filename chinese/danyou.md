@@ -1,5 +1,7 @@
 # 担忧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danyou.md)
+
 <p><span class="chinese">但我也有我的担忧。</span><span class="english">But I also worry.</span></p>
 
 <p><span class="chinese">为他的灵魂担忧。</span><span class="english">Fear for his soul.</span></p>

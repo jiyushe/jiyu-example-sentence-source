@@ -1,5 +1,7 @@
 # 距离
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juli_2.md)
+
 <p><span class="chinese">要游的距离太长了。</span><span class="english">It's such a long swim.</span></p>
 
 <p><span class="chinese">距离是你的敌人。</span><span class="english">Distance is your enemy.</span></p>

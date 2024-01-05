@@ -1,5 +1,7 @@
 # ungovernable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ungovernable.md)
+
 <p><span class="chinese">索马里十多年来一直处于无法无天的状态，它在被调查的48个国家里是最后一名。</span><span class="english">Somalia, ungovernable for more than a decade, ranked last of the 48 countries surveyed.</span></p>
 
 <p><span class="chinese">如果有必要的话，奥廷加先生将他的反对党在肯尼亚的西部据点从肯尼亚分离出去。</span><span class="english">If necessary, Mr Odinga will seek to make his opposition stronghold of western Kenya ungovernable from Nairobi.</span></p>

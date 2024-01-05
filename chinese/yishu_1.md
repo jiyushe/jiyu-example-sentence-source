@@ -1,5 +1,7 @@
 # 医术
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yishu_1.md)
+
 <p><span class="chinese">镇子里的每一个人都相信他的医术。</span><span class="english">Everybody in the town trusted his medicine.</span></p>
 
 <p><span class="chinese">杰里活了下来，部分原因是他的医生医术高明。</span><span class="english">Jerry lived in part because of his doctors.</span></p>

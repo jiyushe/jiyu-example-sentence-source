@@ -1,5 +1,7 @@
 # 防微杜渐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangweidujian.md)
+
 <p><span class="chinese">但事实上，许多人都需要一点帮助来防微杜渐。</span><span class="english">But truth is, many of us need a little help.</span></p>
 
 <p><span class="chinese">一元投入于防微杜渐，十元节约于救助重建！</span><span class="english">One yuan invested in prevention, ten yuan saved in rescue and reconstruction!</span></p>

@@ -1,5 +1,7 @@
 # drive 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drive.md)
+
 <p><span class="chinese">偏航驱动器。</span><span class="english">Yaw drive.</span></p>
 
 <p><span class="chinese">让我开车载你.</span><span class="english">Let me drive you.</span></p>

@@ -1,5 +1,7 @@
 # 普通
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/putong_1.md)
+
 <p><span class="chinese">他是我的普通朋友。</span><span class="english">Es mi amigo normal.</span></p>
 
 <p><span class="chinese">拿普通的痒来说吧。</span><span class="english">Take the common itch.</span></p>

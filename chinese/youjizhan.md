@@ -1,5 +1,7 @@
 # 游击战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youjizhan.md)
+
 <p><span class="chinese">这就像打游击战。</span><span class="english">It is just like guerrilla warfare.</span></p>
 
 <p><span class="chinese">不要翻白眼、大声叹气、打游击战。</span><span class="english">No eye-rolling, no heavy sighing, no guerilla activities.</span></p>

@@ -1,5 +1,7 @@
 # newly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/newly.md)
+
 <p><span class="chinese">这是一项新发明的测试。</span><span class="english">It's a new test, newly devised.</span></p>
 
 <p><span class="chinese">植物菱叶云实在中国的分布新记录。</span><span class="english">Vidal is newly recorded to China.</span></p>

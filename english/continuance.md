@@ -1,5 +1,7 @@
 # continuance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/continuance.md)
+
 <p><span class="chinese">我们推荐的延续，这一计划。</span><span class="english">We recommend continuance of this program.</span></p>
 
 <p><span class="chinese">敬请顾客继续惠顾。</span><span class="english">Solicit a continuance of customer's patronage.</span></p>

@@ -1,5 +1,7 @@
 # compressibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compressibility.md)
+
 <p><span class="chinese">压缩系数。</span><span class="english">Z Compressibility factor, z.</span></p>
 
 <p><span class="chinese">可压缩性的定义与含意，特解。</span><span class="english">Definition and Implications of Compressibility. Special Solutions.</span></p>

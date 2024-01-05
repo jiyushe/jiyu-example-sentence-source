@@ -1,5 +1,7 @@
 # 额头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/etou.md)
+
 <p><span class="chinese">他的额头很突出。</span><span class="english">He has a forehead.</span></p>
 
 <p><span class="chinese">我额头的热狂！</span><span class="english">The fever on my brow.</span></p>

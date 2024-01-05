@@ -1,5 +1,7 @@
 # 披风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pifeng.md)
+
 <p><span class="chinese">披风上的长袜……</span><span class="english">stockings on the mantle...</span></p>
 
 <p><span class="chinese">她拔着红呢绒披风。</span><span class="english">She was cloaked in red wool.</span></p>

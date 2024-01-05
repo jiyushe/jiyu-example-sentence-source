@@ -1,5 +1,7 @@
 # 油水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youshui.md)
+
 <p><span class="chinese">绅士一贫社洗，犹如布丁缺乏油水。</span><span class="english">A gentleman without living is pudding without suet.</span></p>
 
 <p><span class="chinese">用油水分离器来处理含油污水。</span><span class="english">Process oily water through an oily water separator.</span></p>

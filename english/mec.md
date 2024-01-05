@@ -1,5 +1,7 @@
 # mec
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mec.md)
+
 <p><span class="chinese">中型MEC的不平路面升降机有三种驱动模式。</span><span class="english">Mid-sized MEC RTs have three drive modes.</span></p>
 
 <p><span class="chinese">首先，为MEC开发了两种新的算法策略。</span><span class="english">Firstly, two new strategies of MEC are designed.</span></p>

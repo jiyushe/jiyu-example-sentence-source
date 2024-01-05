@@ -1,5 +1,7 @@
 # impute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impute.md)
+
 <p><span class="chinese">你怎么敢把失败归咎于我呢？</span><span class="english">How dare you impute the failure to me?</span></p>
 
 <p><span class="chinese">你把我这沉默认为我的罪行。</span><span class="english">This silence for my sin you did impute.</span></p>

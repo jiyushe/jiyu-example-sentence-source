@@ -1,5 +1,7 @@
 # protestantism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/protestantism.md)
+
 <p><span class="chinese">新教呢？</span><span class="english">Protestantism?</span></p>
 
 <p><span class="chinese">在1807年基督教新教入华之后，同样面临着中国教会自养的问题。</span><span class="english">After the Protestantism entered China in 1807, it was confronted with the same problem.</span></p>

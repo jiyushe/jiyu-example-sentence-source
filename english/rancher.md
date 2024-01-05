@@ -1,5 +1,7 @@
 # rancher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rancher.md)
+
 <p><span class="chinese">大牧场主在扭脖子上绑了条绳子。</span><span class="english">The rancher put a rope around the cow's neck.</span></p>
 
 <p><span class="chinese">为了卖而进行放牧牛或羊的牧场主。</span><span class="english">A rancher who grazes cattle or sheep for market.</span></p>

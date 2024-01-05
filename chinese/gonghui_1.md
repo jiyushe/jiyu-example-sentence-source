@@ -1,5 +1,7 @@
 # 工会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gonghui_1.md)
+
 <p><span class="chinese">什么是天主事工会？</span><span class="english">What is Opus Dei?</span></p>
 
 <p><span class="chinese">工会采取果断行动以迎接困难。</span><span class="english">The trade union battened down.</span></p>

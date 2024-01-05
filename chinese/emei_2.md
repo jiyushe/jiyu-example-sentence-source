@@ -1,5 +1,7 @@
 # 蛾眉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/emei_2.md)
+
 <p><span class="chinese">它如珠玑粉黛的浅浅蛾眉。</span><span class="english">It's shallow, such as Tamaki Prostitute Crescent.</span></p>
 
 <p><span class="chinese">有山峰相对如蛾眉，故名。</span><span class="english">There are peaks relative, such as Crescent, hence the name.</span></p>

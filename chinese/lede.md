@@ -1,5 +1,7 @@
 # 乐得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lede.md)
+
 <p><span class="chinese">乐得跳舞！</span><span class="english">Happy Dance!</span></p>
 
 <p><span class="chinese">他乐得容光焕发，心里暖烘烘的。</span><span class="english">He was glowing and warm with delight.</span></p>

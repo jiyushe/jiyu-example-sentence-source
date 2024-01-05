@@ -1,5 +1,7 @@
 # 物化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuhua_1.md)
+
 <p><span class="chinese">请参阅关于物化查询表的小节。</span><span class="english">Refer to the section on Materialized Query Tables.</span></p>
 
 <p><span class="chinese">编辑活动是对人类实践活动的真知灼见的物化。</span><span class="english">Editor's activities penetratingly judge man's practice.</span></p>

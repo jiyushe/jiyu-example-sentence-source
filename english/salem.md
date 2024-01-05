@@ -1,5 +1,7 @@
 # salem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salem.md)
+
 <p><span class="chinese">我给我的猫起名叫塞勒姆。</span><span class="english">I named my cat Salem.</span></p>
 
 <p><span class="chinese">“书写用纸在那时是非常稀缺的，”萨勒穆解释到。</span><span class="english">"Paper was a rarity back then, " Salem explains.</span></p>

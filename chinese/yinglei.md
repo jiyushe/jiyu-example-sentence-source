@@ -1,5 +1,7 @@
 # 营垒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinglei.md)
+
 <p><span class="chinese">敌人营垒四分五裂。</span><span class="english">The enemy camp is disintegrating.</span></p>
 
 <p><span class="chinese">然后用神话语的宝剑攻破这些营垒。</span><span class="english">God and pull down the strongholds.</span></p>

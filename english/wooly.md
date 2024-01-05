@@ -1,5 +1,7 @@
 # wooly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wooly.md)
+
 <p><span class="chinese">我有一条羊毛围巾。</span><span class="english">I have a wooly scarf.</span></p>
 
 <p><span class="chinese">这些长毛猛犸的平均身高是11英尺。</span><span class="english">The average height of a Wooly Mammoth is about 11 feet tall.</span></p>

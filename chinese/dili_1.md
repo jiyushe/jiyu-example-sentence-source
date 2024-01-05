@@ -1,5 +1,7 @@
 # 地力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dili_1.md)
+
 <p><span class="chinese">这儿没有人带头盔，自行车胎在湿滑的鹅卵石路面上抓地力很好。</span><span class="english">No one wears helmets here.</span></p>
 
 <p><span class="chinese">这会导致抓地力大大降低。</span><span class="english">This leads to vastly reduced levels of grip.</span></p>

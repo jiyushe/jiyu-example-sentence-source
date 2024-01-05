@@ -1,5 +1,7 @@
 # bacon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bacon.md)
+
 <p><span class="chinese">我喜欢腌猪肉。</span><span class="english">I like bacon.</span></p>
 
 <p><span class="chinese">熏肉和鸡蛋。</span><span class="english">Bacon and eggs.</span></p>

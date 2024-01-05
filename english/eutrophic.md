@@ -1,5 +1,7 @@
 # eutrophic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eutrophic.md)
+
 <p><span class="chinese">太湖，洪泽湖和巢湖富营养化曾经在状况。</span><span class="english">Lake Taihu, Hongze and Caohu are already in eutrophic state.</span></p>
 
 <p><span class="chinese">了解汾河二库水体现阶段的富营养状况。</span><span class="english">To know about the eutrophic condition of present Fenhe Second reservoir.</span></p>

@@ -1,5 +1,7 @@
 # 下海
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiahai.md)
+
 <p><span class="chinese">带着这个掉下海会直接沉底的。</span><span class="english">You'd have gone straight to the bottom.</span></p>
 
 <p><span class="chinese">太阳正迅速沈下海面。</span><span class="english">The sun is dipping swiftly into the sea.</span></p>

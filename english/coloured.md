@@ -1,5 +1,7 @@
 # coloured
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coloured.md)
+
 <p><span class="chinese">用彩笔描出路线。</span><span class="english">Trace the way with a coloured pen.</span></p>
 
 <p><span class="chinese">彩旗迎风招展。</span><span class="english">Coloured Banners spread in the wind.</span></p>

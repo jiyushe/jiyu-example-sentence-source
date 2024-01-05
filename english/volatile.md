@@ -1,5 +1,7 @@
 # volatile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/volatile.md)
+
 <p><span class="chinese">市场为什么会如此不稳定？</span><span class="english">Why is the market so volatile?</span></p>
 
 <p><span class="chinese">海，真是个诡谲多变的怪物。</span><span class="english">The sea, is really a volatile monster.</span></p>

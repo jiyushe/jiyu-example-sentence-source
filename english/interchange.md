@@ -1,5 +1,7 @@
 # interchange
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interchange.md)
+
 <p><span class="chinese">这一立交是1993年通车。</span><span class="english">This interchange was opened in 1993.</span></p>
 
 <p><span class="chinese">作为一种公共的交换格式。</span><span class="english">Serve as a common interchange format.</span></p>

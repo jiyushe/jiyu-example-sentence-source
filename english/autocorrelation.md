@@ -1,5 +1,7 @@
 # autocorrelation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autocorrelation.md)
+
 <p><span class="chinese">自相关函数是一个偶函数。</span><span class="english">The autocorrelation function is an even function.</span></p>
 
 <p><span class="chinese">本文提出谱自相关方法。</span><span class="english">This paper deals with the spectrum autocorrelation method.</span></p>

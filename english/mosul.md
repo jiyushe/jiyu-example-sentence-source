@@ -1,5 +1,7 @@
 # mosul
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mosul.md)
+
 <p><span class="chinese">我的这个“时候”就来自于摩苏尔。</span><span class="english">My moment came in Mosul.</span></p>
 
 <p><span class="chinese">摩苏尔是叛军暴力的最新温床。</span><span class="english">Mosul is the latest hotbed of insurgent violence.</span></p>

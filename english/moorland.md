@@ -1,5 +1,7 @@
 # moorland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moorland.md)
+
 <p><span class="chinese">这些田地又恢复成荒地。</span><span class="english">The fields have reverted to moorland.</span></p>
 
 <p><span class="chinese">他们已经仔细搜遍了其间绵延数英里的高沼地。</span><span class="english">They had scoured the intervening miles of moorland.</span></p>

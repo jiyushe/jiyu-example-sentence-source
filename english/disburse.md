@@ -1,5 +1,7 @@
 # disburse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disburse.md)
+
 <p><span class="chinese">我能用支票戓信用卡吗？</span><span class="english">Can I disburse by retard alternatively honor card?</span></p>
 
 <p><span class="chinese">这是一个从中心,分散权力的努力。</span><span class="english">That was an effort to disburse power away from the center.</span></p>

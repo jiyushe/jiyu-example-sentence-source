@@ -1,5 +1,7 @@
 # gluten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gluten.md)
+
 <p><span class="chinese">三聚氰胺是如何掺入小麦麸子的呢？</span><span class="english">How did the melamine wind up in the wheat gluten?</span></p>
 
 <p><span class="chinese">患有腹腔疾病的人不能消化面筋。</span><span class="english">People with celiac disease cannot process gluten.</span></p>

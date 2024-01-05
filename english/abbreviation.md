@@ -1,5 +1,7 @@
 # abbreviation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abbreviation.md)
+
 <p><span class="chinese">一般缩写为“kr”。</span><span class="english">The common abbreviation is "kr".</span></p>
 
 <p><span class="chinese">“借方”的缩写是“Dr.”。</span><span class="english">The abbreviation for debit is Dr.</span></p>

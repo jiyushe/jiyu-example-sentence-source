@@ -1,5 +1,7 @@
 # neither
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neither.md)
+
 <p><span class="chinese">但是，日本方面也不会善罢甘休。</span><span class="english">But neither is Japan.</span></p>
 
 <p><span class="chinese">既不冷也不热。</span><span class="english">Neither cold nor hot.</span></p>

@@ -1,5 +1,7 @@
 # 直肠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhichang.md)
+
 <p><span class="chinese">由盲肠，结肠和直肠组成。</span><span class="english">Composed of caecum, colon and rectum.</span></p>
 
 <p><span class="chinese">肛管直肠损伤的诊断和治疗。</span><span class="english">Diagnosis and treatment of anorectal injuries.</span></p>

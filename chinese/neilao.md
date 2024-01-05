@@ -1,5 +1,7 @@
 # 内涝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neilao.md)
+
 <p><span class="chinese">城市内涝在中国较为普遍。</span><span class="english">Urban waterlogging is relatively common in China.</span></p>
 
 <p><span class="chinese">天津城区内涝对人民的财产和正常生活、交通等方面造成了一定影响。</span><span class="english">Water logging in Tianjin always influences the property, daily life and traffic.</span></p>

@@ -1,5 +1,7 @@
 # abrasion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abrasion.md)
+
 <p><span class="chinese">磨损作用也助长了风的侵蚀。</span><span class="english">Abrasion also abets wind erosion.</span></p>
 
 <p><span class="chinese">我擦伤了，给我绷带。</span><span class="english">Give me a bandage for an abrasion.</span></p>

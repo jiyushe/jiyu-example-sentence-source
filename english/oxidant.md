@@ -1,5 +1,7 @@
 # oxidant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oxidant.md)
+
 <p><span class="chinese">GEN经代谢具有氧化效应。</span><span class="english">GEN may have oxidant effect after metabolizing.</span></p>
 
 <p><span class="chinese">它分别扮演氧化剂和反应底物的角色。</span><span class="english">It plays the role as oxidant and substrate respectively.</span></p>

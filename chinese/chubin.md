@@ -1,5 +1,7 @@
 # 出殡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chubin.md)
+
 <p><span class="chinese">出殡的行列行向坟墓。</span><span class="english">Funeral marches to the grave.</span></p>
 
 <p><span class="chinese">精心装饰的出殡汽车沿街排列著。</span><span class="english">Elaborate funeral cars stood along the curb.</span></p>

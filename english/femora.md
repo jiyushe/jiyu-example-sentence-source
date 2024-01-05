@@ -1,5 +1,7 @@
 # femora
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/femora.md)
+
 <p><span class="chinese">右股骨作为对照。</span><span class="english">Right femora acted as controls.</span></p>
 
 <p><span class="chinese">与早期人类相比，早期能人股骨的头端稍大、杆部更宽广些。</span><span class="english">Early Homo femora have larger heads and broader necks compared to early hominins.</span></p>

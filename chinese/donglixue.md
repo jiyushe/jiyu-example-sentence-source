@@ -1,5 +1,7 @@
 # 动力学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/donglixue.md)
+
 <p><span class="chinese">之前你了解这个动力学过程吗？</span><span class="english">Have you seen this before, this dynamic?</span></p>
 
 <p><span class="chinese">热学，动力学理论，和热动力学。</span><span class="english">Heat, Kinetic Theory, and Thermodynamics.</span></p>

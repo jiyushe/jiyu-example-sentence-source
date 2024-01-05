@@ -1,5 +1,7 @@
 # contingent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contingent.md)
+
 <p><span class="chinese">同一性是偶然的吗</span><span class="english">Is it that identity is contingent?</span></p>
 
 <p><span class="chinese">队伍加速前进。</span><span class="english">The contingent quickened its advance.</span></p>

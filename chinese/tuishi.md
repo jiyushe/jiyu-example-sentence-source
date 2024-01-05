@@ -1,5 +1,7 @@
 # 颓势
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuishi.md)
+
 <p><span class="chinese">之后Friendster采取的一些列错误的决策没有帮助公司扭转颓势。</span><span class="english">A series of bad business decisions didn't help.</span></p>
 
 <p><span class="chinese">欢迎提出能够阻止这种颓势的意见。</span><span class="english">Any idea that might stop this slide is welcome.</span></p>

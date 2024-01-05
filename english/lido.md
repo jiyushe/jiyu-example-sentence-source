@@ -1,5 +1,7 @@
 # lido
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lido.md)
+
 <p><span class="chinese">我住在假日丽都饭店。</span><span class="english">Alloggio all'"Holiday Inn Lido Hotel".</span></p>
 
 <p><span class="chinese">丽都饭店有许多外宾。</span><span class="english">There are many foreign people in Lido Hotel?</span></p>

@@ -1,5 +1,7 @@
 # pontificate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pontificate.md)
+
 <p><span class="chinese">以命令的口气说话的人通常都是邪恶的无赖。</span><span class="english">People who pontificate are usually unholy bores.</span></p>
 
 <p><span class="chinese">教皇福尔摩苏斯上任四年半后去世。</span><span class="english">Pope Formosus died after a pontificate of four and a half years.</span></p>

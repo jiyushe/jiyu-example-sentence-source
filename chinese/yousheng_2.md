@@ -1,5 +1,7 @@
 # 有声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yousheng_2.md)
+
 <p><span class="chinese">沉默，只是沉默，此时无声胜有声。</span><span class="english">Oh, how deafening is silence.</span></p>
 
 <p><span class="chinese">植物有语，动物有声。</span><span class="english">Laguage in plants, animals in sounds.</span></p>

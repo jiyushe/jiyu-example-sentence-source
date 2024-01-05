@@ -1,5 +1,7 @@
 # heaps
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heaps.md)
+
 <p><span class="chinese">堆积物掩埋了道路和房屋。</span><span class="english">Heaps of debris buried roads and houses.</span></p>
 
 <p><span class="chinese">这台机器卷起大块大块的泥土。</span><span class="english">The machine flung up great heaps of earth.</span></p>

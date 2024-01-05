@@ -1,5 +1,7 @@
 # plebeian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plebeian.md)
+
 <p><span class="chinese">这本书有庸俗旳味道。</span><span class="english">This book has plebeian tastes.</span></p>
 
 <p><span class="chinese">这本书有庸俗的味道。</span><span class="english">This book has plebeian tastes.</span></p>

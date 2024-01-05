@@ -1,5 +1,7 @@
 # 引发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinfa_1.md)
+
 <p><span class="chinese">是什么引发的闪回？</span><span class="english">What is the trigger?</span></p>
 
 <p><span class="chinese">所以杠杆性引发风险</span><span class="english">So, leverage brings risk.</span></p>

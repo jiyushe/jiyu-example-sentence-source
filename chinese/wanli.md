@@ -1,5 +1,7 @@
 # 腕力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanli.md)
+
 <p><span class="chinese">嘿，咱们来比腕力吧！</span><span class="english">Hey, let's arm wrestle!</span></p>
 
 <p><span class="chinese">比腕力很好玩。</span><span class="english">Arm wrestling is lots of fun.</span></p>

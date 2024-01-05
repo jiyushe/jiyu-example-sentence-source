@@ -1,5 +1,7 @@
 # 无底洞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wudidong.md)
+
 <p><span class="chinese">托钵人的荷包是无底洞。</span><span class="english">A beggar's purse is bottomless.</span></p>
 
 <p><span class="chinese">茱莉亚说完就跳进了那个无底洞。</span><span class="english">Julia said and she jumped down into the dark pit.</span></p>

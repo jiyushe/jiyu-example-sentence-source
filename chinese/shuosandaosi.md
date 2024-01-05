@@ -1,5 +1,7 @@
 # 说三道四
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuosandaosi.md)
+
 <p><span class="chinese">别让你的行为成为人家说三道四的话柄。</span><span class="english">Don't let your conduct give any handle for gossip.</span></p>
 
 <p><span class="chinese">诶，我不会在人背后说三道四，我会当着他的面说。</span><span class="english">Ay, I don't talk behind a nigga back, I say it in his face.</span></p>

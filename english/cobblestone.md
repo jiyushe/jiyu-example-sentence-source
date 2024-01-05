@@ -1,5 +1,7 @@
 # cobblestone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cobblestone.md)
+
 <p><span class="chinese">大卵石路不平的路面。</span><span class="english">The uneven surface of a cobblestone road.</span></p>
 
 <p><span class="chinese">形状各异的鹅卵石在阳光的照耀下闪闪发光。</span><span class="english">Shapes of the cobblestone glinted in the sunlight.</span></p>

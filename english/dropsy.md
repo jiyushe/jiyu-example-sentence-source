@@ -1,5 +1,7 @@
 # dropsy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dropsy.md)
+
 <p><span class="chinese">下眼袋浮肿要怎么弄没?。</span><span class="english">How should be next pouch dropsy done not?</span></p>
 
 <p><span class="chinese">经常性腿脚浮肿是为什么？</span><span class="english">Regular is dropsy of ability to walk why?</span></p>

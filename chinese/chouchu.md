@@ -1,5 +1,7 @@
 # 踌躇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chouchu.md)
+
 <p><span class="chinese">她对于去和留踌躇不决。</span><span class="english">She wavered between going and staying.</span></p>
 
 <p><span class="chinese">银行却踌躇不决，于是，拜尔决定将此事公开。</span><span class="english">The banks balked, so Bair went public.</span></p>

@@ -1,5 +1,7 @@
 # precedence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/precedence.md)
+
 <p><span class="chinese">什么发生在发生冲突时，优先？</span><span class="english">What takes precedence in a case of conflict?</span></p>
 
 <p><span class="chinese">将给予放射学诊断以优先。</span><span class="english">Radiologic diagnosis will be given precedence.</span></p>

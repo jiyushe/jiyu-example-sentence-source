@@ -1,5 +1,7 @@
 # 上钩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanggou.md)
+
 <p><span class="chinese">要是上钩了可不要怪我!</span><span class="english">Don't blame me if you get hooked!</span></p>
 
 <p><span class="chinese">别忘了那句话‘陷阱诱你上钩’。</span><span class="english">It says that ‘More traps will lure you away.</span></p>

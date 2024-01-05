@@ -1,5 +1,7 @@
 # appeasement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appeasement.md)
+
 <p><span class="chinese">所有忌食减肥的人都碰到一个如何满足口腹之欲的问题。</span><span class="english">All dieters have the problem of appetite appeasement.</span></p>
 
 <p><span class="chinese">无异于姑息养奸，自寻失败。</span><span class="english">In his eyes, this amounted to self-defeating appeasement.</span></p>

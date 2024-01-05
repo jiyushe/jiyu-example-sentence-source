@@ -1,5 +1,7 @@
 # 辨识
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianshi.md)
+
 <p><span class="chinese">明度水平影响辨识的效应。</span><span class="english">The influence of changing brightness.</span></p>
 
 <p><span class="chinese">诀?就是辨识诊断出中风的问题。</span><span class="english">The trick is how to diagnose a stroke.</span></p>

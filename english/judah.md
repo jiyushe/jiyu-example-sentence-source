@@ -1,5 +1,7 @@
 # judah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/judah.md)
+
 <p><span class="chinese">黄昏犹是雨纤纤。</span><span class="english">Dusk judah is rain fashions.</span></p>
 
 <p><span class="chinese">雅各生犹大和他的弟兄。</span><span class="english">Jacob had Judah and his brothers.</span></p>

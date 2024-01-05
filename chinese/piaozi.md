@@ -1,5 +1,7 @@
 # 票子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaozi.md)
+
 <p><span class="chinese">我们的票子是黄色的。</span><span class="english">Our tickets are yellow.</span></p>
 
 <p><span class="chinese">你能匀出一张票子给我吗？</span><span class="english">Could you spare me a ticket?</span></p>

@@ -1,5 +1,7 @@
 # 烧心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaoxin.md)
+
 <p><span class="chinese">饮茶或者喝咖啡则是治疗烧心的普遍方法。</span><span class="english">Drinking tea or coffee was a common cure for heart-burn.</span></p>
 
 <p><span class="chinese">经常打嗝、烧心的人属于重点人群。</span><span class="english">Often the person of belch, heartburn belongs to key crowd.</span></p>

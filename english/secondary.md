@@ -1,5 +1,7 @@
 # secondary 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/secondary.md)
+
 <p><span class="chinese">继发性淀粉样变。</span><span class="english">Secondary amyloidosis.</span></p>
 
 <p><span class="chinese">阿富汗是次要的。</span><span class="english">Afghanistan is secondary.</span></p>

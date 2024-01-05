@@ -1,5 +1,7 @@
 # coreless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coreless.md)
+
 <p><span class="chinese">本文介绍短线圈工频无心感应保温炉采用的复合炉衬。</span><span class="english">The article introduces the composition lining of the mains frequency coreless induction furnace with short coils.</span></p>
 
 <p><span class="chinese">无槽无刷电机，由于其便捷的控制特性，作为高性能的传动机构，代表了交流电机的发展方向之一。</span><span class="english">For the smart control performance and smooth running performance, coreless motor has been a development trend of AC motor.</span></p>

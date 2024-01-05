@@ -1,5 +1,7 @@
 # shilling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shilling.md)
+
 <p><span class="chinese">我找您一先令三便士。</span><span class="english">And one shilling threepence change.</span></p>
 
 <p><span class="chinese">过去，十二便士等于一先令。</span><span class="english">In former times, 12 pence went to a shilling.</span></p>

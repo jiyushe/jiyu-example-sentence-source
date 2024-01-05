@@ -1,5 +1,7 @@
 # 面料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianliao.md)
+
 <p><span class="chinese">面料和手工都很好！</span><span class="english">Good material and handwork!</span></p>
 
 <p><span class="chinese">制服面料，牛仔面料，衬衫面料。</span><span class="english">Fabrics for uniform shirt, jeans.</span></p>

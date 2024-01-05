@@ -1,5 +1,7 @@
 # legislature
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legislature.md)
+
 <p><span class="chinese">国会是一个两院制的立法机关。</span><span class="english">Congress is a bicameral legislature.</span></p>
 
 <p><span class="chinese">他被选举为国家立法机关的委员。</span><span class="english">He was elected to the state legislature.</span></p>

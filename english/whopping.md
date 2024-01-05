@@ -1,5 +1,7 @@
 # whopping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whopping.md)
+
 <p><span class="chinese">一个熏腌肉鸡蛋奶酪羊角面包的卡路里含量高达480。</span><span class="english">A bacon egg 'n cheese croissant packs a whopping 480.</span></p>
 
 <p><span class="chinese">至于中国的隐形飞机，到2024年会高达20架？</span><span class="english">As for China's stealth, a whopping 20 planes by 2024?</span></p>

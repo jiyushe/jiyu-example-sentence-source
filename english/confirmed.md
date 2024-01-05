@@ -1,5 +1,7 @@
 # confirmed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confirmed.md)
+
 <p><span class="chinese">我确证了这件事是真的。</span><span class="english">I confirmed that it was.</span></p>
 
 <p><span class="chinese">我们证实了那则报道。</span><span class="english">We have confirmed the report.</span></p>

@@ -1,5 +1,7 @@
 # septal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/septal.md)
+
 <p><span class="chinese">房间隔缺损的症状有哪些？</span><span class="english">What are the symptoms of an atrial septal defect?</span></p>
 
 <p><span class="chinese">报告4例先天性主-肺动脉间隔缺损。</span><span class="english">This paper reports 4 cases of congenital aortopulmonary septal defect.</span></p>

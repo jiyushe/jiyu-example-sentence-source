@@ -1,5 +1,7 @@
 # 稳扎稳打
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenzhawenda.md)
+
 <p><span class="chinese">辛吉斯始终稳扎稳打，没有给库尔尼科娃以可乘之机。</span><span class="english">Hingis stayed steady throughout, never letting Kournikova break away.</span></p>
 
 <p><span class="chinese">尽管这一时期缺乏轰动效应的片子，摩尔在演艺圈稳扎稳打。</span><span class="english">Despite the lack of surefire hits during this period, Moore worked steadily.</span></p>

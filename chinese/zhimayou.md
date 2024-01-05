@@ -1,5 +1,7 @@
 # 芝麻油
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhimayou.md)
+
 <p><span class="chinese">在上面撒上剩余的芝麻油。</span><span class="english">Drizzle the remaining teaspoon of sesame oil over the top.</span></p>
 
 <p><span class="chinese">加点橄榄油或芝麻油，蒸、烤、炒均可。</span><span class="english">Steam, roast, or panfry with a drizzle of olive or sesame oil.</span></p>

@@ -1,5 +1,7 @@
 # mib
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mib.md)
+
 <p><span class="chinese">它以量规值的形式引用MIB的整形数据和量规值。</span><span class="english">It refers to MIB integer and gauge values as gauge.</span></p>
 
 <p><span class="chinese">你可以拖拽频繁使用的对象来创建你自己的浏览。</span><span class="english">You can drag and dop frequently used MIB objects to create your own views.</span></p>

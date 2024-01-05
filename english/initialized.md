@@ -1,5 +1,7 @@
 # initialized
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/initialized.md)
+
 <p><span class="chinese">只有复杂的变量需要初始化。</span><span class="english">Only complex variables need to be initialized.</span></p>
 
 <p><span class="chinese">协议已缮写完毕并已草签。</span><span class="english">The agreement has been made out and initialized.</span></p>

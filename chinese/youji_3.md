@@ -1,5 +1,7 @@
 # 邮寄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youji_3.md)
+
 <p><span class="chinese">你可以邮寄电子贺卡。</span><span class="english">You could send an e-card.</span></p>
 
 <p><span class="chinese">您想按水陆路邮寄还是按航空邮寄?。</span><span class="english">By surface mail or by airmail?</span></p>

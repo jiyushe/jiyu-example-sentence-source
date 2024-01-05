@@ -1,5 +1,7 @@
 # alf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alf.md)
+
 <p><span class="chinese">为什么阿尔弗想要得到一个白领工作？</span><span class="english">Why did Alf want a white-collar job?</span></p>
 
 <p><span class="chinese">人们称他艾尔弗雷德，或者简称为阿尔夫。</span><span class="english">He is called Alfred, or Alf for short.</span></p>

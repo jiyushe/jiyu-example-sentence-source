@@ -1,5 +1,7 @@
 # 坐吃山空
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuochishankong.md)
+
 <p><span class="chinese">他们山吃海喝奢侈了几年，直至坐吃山空。</span><span class="english">They lived high on the hog for several years until they had no money.</span></p>
 
 <p><span class="chinese">就算有储蓄，几个月内也会坐吃山空。</span><span class="english">Even if they had some savings, these would be depleted in a few months' time.</span></p>

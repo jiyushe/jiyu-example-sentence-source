@@ -1,5 +1,7 @@
 # melanoma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/melanoma.md)
+
 <p><span class="chinese">但是，当黑色素瘤的转移，当心了。</span><span class="english">But when melanoma metastasizes, watch out.</span></p>
 
 <p><span class="chinese">小鼠黑色素瘤B16-F1细胞株是弱免疫原性癌细胞株。</span><span class="english">Mouse melanoma B16-F1 cell line is low immunogenic.</span></p>

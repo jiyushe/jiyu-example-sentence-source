@@ -1,5 +1,7 @@
 # 解药
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieyao.md)
+
 <p><span class="chinese">你看到解药了么？</span><span class="english">Do you see an antidote?</span></p>
 
 <p><span class="chinese">那么，避免相互指责的解药是什么？</span><span class="english">So, what's the antidote to blaming?</span></p>

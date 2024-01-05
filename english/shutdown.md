@@ -1,5 +1,7 @@
 # shutdown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shutdown.md)
+
 <p><span class="chinese">关闭和停止数据库连接。</span><span class="english">Close and shutdown the database connection.</span></p>
 
 <p><span class="chinese">一个线程被分配为处理关机事件。</span><span class="english">A thread is allocated to handle shutdown events.</span></p>

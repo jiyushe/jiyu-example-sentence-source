@@ -1,5 +1,7 @@
 # closest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/closest.md)
+
 <p><span class="chinese">刘莺是我最亲密的朋友。</span><span class="english">Liu Ying is my closest friend.</span></p>
 
 <p><span class="chinese">这附近哪里有西药房？</span><span class="english">Where is the closest pharmacy?</span></p>

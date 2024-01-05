@@ -1,5 +1,7 @@
 # 那末
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/namo_1.md)
+
 <p><span class="chinese">你那末早就去上班啦？</span><span class="english">You're leaving so early for your office?</span></p>
 
 <p><span class="chinese">那末最后一曲终了就让我们启程吧。</span><span class="english">Then finish the last song and let us leave.</span></p>

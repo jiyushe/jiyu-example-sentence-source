@@ -1,5 +1,7 @@
 # 孤老
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gulao_1.md)
+
 <p><span class="chinese">我要怎么样才能孤老一生？</span><span class="english">How am I supposed to go through life alone?</span></p>
 
 <p><span class="chinese">难道我要孤老终生，或是让万能的太阳神来迎娶我？</span><span class="english">Should I be along all my life? Or should Baal marry me?</span></p>

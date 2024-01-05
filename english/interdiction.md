@@ -1,5 +1,7 @@
 # interdiction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interdiction.md)
+
 <p><span class="chinese">而对于战场空中遮断的定义并不像这样容易。</span><span class="english">But battlefield air interdiction is not so crisply defined.</span></p>
 
 <p><span class="chinese">禁毒增加了还是减少了与毒品相关的犯罪？</span><span class="english">Does Drug Interdiction Increase or Decrease Drug-Related Crime?</span></p>

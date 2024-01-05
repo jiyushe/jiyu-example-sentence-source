@@ -1,5 +1,7 @@
 # 坐标变换
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuobiaobianhuan.md)
+
 <p><span class="chinese">从自身坐标到世界坐标变换方向。</span><span class="english">Transforms direction from local space to world space.</span></p>
 
 <p><span class="chinese">给出了对数极坐标变换的FPGA实现方案。</span><span class="english">The FPGA implementation scheme of LPT is also discussed in the paper.</span></p>

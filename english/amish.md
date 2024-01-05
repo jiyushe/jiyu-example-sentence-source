@@ -1,5 +1,7 @@
 # amish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amish.md)
+
 <p><span class="chinese">他说有些农场主是亚美希人。</span><span class="english">He said some of the farmers are Amish.</span></p>
 
 <p><span class="chinese">大家都认为安曼教派是技术恐慌。</span><span class="english">People think the Amish are technophobes.</span></p>

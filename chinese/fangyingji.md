@@ -1,5 +1,7 @@
 # 放映机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangyingji.md)
+
 <p><span class="chinese">安迪叹口气，头斜靠在放映机上。</span><span class="english">Andy sighs, cocks his head at the projector.</span></p>
 
 <p><span class="chinese">中岛先生，我来询问电影放映机价格。</span><span class="english">Hello, Mr Nakajima. I'm here to ask you about the movie projector.</span></p>

@@ -1,5 +1,7 @@
 # 青史
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingshi_5.md)
+
 <p><span class="chinese">青史所留皆为帝王之名</span><span class="english">The books are filled with the names of kings.</span></p>
 
 <p><span class="chinese">青史册册,人才辈出,各领风骚,谁人相助</span><span class="english">Every ten years a great man Who paid the piper?</span></p>

@@ -1,5 +1,7 @@
 # whirlpool
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whirlpool.md)
+
 <p><span class="chinese">漩涡吞没了那只船。</span><span class="english">The whirlpool sucked in the boat.</span></p>
 
 <p><span class="chinese">漩涡把小船吸进去了。</span><span class="english">The whirlpool sucked down the boat.</span></p>

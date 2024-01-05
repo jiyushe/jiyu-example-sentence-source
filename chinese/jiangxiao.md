@@ -1,5 +1,7 @@
 # 将校
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangxiao.md)
+
 <p><span class="chinese">他将校门打开。</span><span class="english">He unbarred the school gate.</span></p>
 
 <p><span class="chinese">他每天早晨将校门打开。</span><span class="english">He unbolts the school gate every morning.</span></p>

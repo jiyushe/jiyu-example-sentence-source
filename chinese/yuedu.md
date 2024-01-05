@@ -1,5 +1,7 @@
 # 月度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuedu.md)
+
 <p><span class="chinese">这将是一个持续的月度任务。</span><span class="english">This will be an on-going monthly task.</span></p>
 
 <p><span class="chinese">管理月度税务调整和入账。</span><span class="english">To supervise monthly tax adjustment and booking.</span></p>

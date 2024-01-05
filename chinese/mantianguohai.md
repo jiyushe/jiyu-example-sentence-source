@@ -1,5 +1,7 @@
 # 瞒天过海
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mantianguohai.md)
+
 <p><span class="chinese">现在只希望宁皇他不识货，能够瞒天过海！</span><span class="english">I hope King Ning would be cheated.</span></p>
 
 <p><span class="chinese">一个人的骗术纵使能瞒天过海，却瞒不了自己的良心。</span><span class="english">It's a deception, as far as I can discover.</span></p>

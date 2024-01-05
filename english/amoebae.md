@@ -1,5 +1,7 @@
 # amoebae
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amoebae.md)
+
 <p><span class="chinese">阿米巴只含有一种大体同质的细胞。</span><span class="english">Amoebae consist of just one more or less homogeneous cell.</span></p>
 
 <p><span class="chinese">部分阿米巴虫体内残存未消化的细菌碎片。</span><span class="english">There was fragment of E. coli that was not digested in some of the amoebae.</span></p>

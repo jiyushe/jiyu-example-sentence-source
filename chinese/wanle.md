@@ -1,5 +1,7 @@
 # 完了
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanle.md)
+
 <p><span class="chinese">迟了合比完了佳/迟到合比丧命佳。</span><span class="english">Better late than the late.</span></p>
 
 <p><span class="chinese">完了后一路向南杀过去。</span><span class="english">Grind your way down south.</span></p>

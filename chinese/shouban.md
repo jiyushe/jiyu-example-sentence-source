@@ -1,5 +1,7 @@
 # 手板
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouban.md)
+
 <p><span class="chinese">手板葫芦是葫芦的一种。</span><span class="english">Palm gourd is a gourd.</span></p>
 
 <p><span class="chinese">这种机器叫手板葫芦。</span><span class="english">This machine is called palm gourd.</span></p>

@@ -1,5 +1,7 @@
 # 这个
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhege.md)
+
 <p><span class="chinese">这个悬崖！</span><span class="english">The cliff!</span></p>
 
 <p><span class="chinese">这个阻力太大。</span><span class="english">That checks.</span></p>

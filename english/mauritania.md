@@ -1,5 +1,7 @@
 # mauritania
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mauritania.md)
+
 <p><span class="chinese">他还将访问利比亚和毛利塔尼亚。</span><span class="english">He will also visit Libya and Mauritania.</span></p>
 
 <p><span class="chinese">茅利塔尼亚也不觉得有收留他们的义务。</span><span class="english">Nor does Mauritania feel obliged to keep them.</span></p>

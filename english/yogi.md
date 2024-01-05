@@ -1,5 +1,7 @@
 # yogi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yogi.md)
+
 <p><span class="chinese">对于瑜伽修炼者，一切都是天赐之福。</span><span class="english">To the Yogi everything is bliss.</span></p>
 
 <p><span class="chinese">“露宿在公园里？”修行者问道。</span><span class="english">"In the open air?" Asked the yogi.</span></p>

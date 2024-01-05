@@ -1,5 +1,7 @@
 # 油腔滑调
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youqianghuadiao.md)
+
 <p><span class="chinese">他说起话来油腔滑调的。</span><span class="english">He has a glib tongue.</span></p>
 
 <p><span class="chinese">微软有理由油腔滑调。</span><span class="english">Microsoft has reason to be glib.</span></p>

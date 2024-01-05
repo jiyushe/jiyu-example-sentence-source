@@ -1,5 +1,7 @@
 # deviled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deviled.md)
+
 <p><span class="chinese">哦太糟糕了来点芥末蘸蛋吗？</span><span class="english">Oh, it's just awful. Deviled egg?</span></p>
 
 <p><span class="chinese">基蒂缠着她母亲要个洋娃娃。</span><span class="english">Kitty deviled her mother for a doll.</span></p>

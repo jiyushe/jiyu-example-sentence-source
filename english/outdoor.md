@@ -1,5 +1,7 @@
 # outdoor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outdoor.md)
+
 <p><span class="chinese">我们都喜欢室外运动。</span><span class="english">We all like outdoor sports.</span></p>
 
 <p><span class="chinese">都是室外运动吗？</span><span class="english">Are they all outdoor sports?</span></p>

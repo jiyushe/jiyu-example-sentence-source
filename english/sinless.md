@@ -1,5 +1,7 @@
 # sinless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sinless.md)
+
 <p><span class="chinese">你过着完美无罪的生活</span><span class="english">You lived a perfect sinless life</span></p>
 
 <p><span class="chinese">耶稣是纯净，无罪和圣洁的。</span><span class="english">Jesus was pure and sinless and holy.</span></p>

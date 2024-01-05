@@ -1,5 +1,7 @@
 # reducing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reducing.md)
+
 <p><span class="chinese">减债将会造成伤害。</span><span class="english">Reducing that load will hurt.</span></p>
 
 <p><span class="chinese">半胱氨酸也是一种还原剂。</span><span class="english">L-cysteine is also a reducing agent.</span></p>

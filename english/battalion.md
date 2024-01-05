@@ -1,5 +1,7 @@
 # battalion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/battalion.md)
+
 <p><span class="chinese">吉林市船营新华书店。</span><span class="english">City boat battalion Xinhua Bookstore.</span></p>
 
 <p><span class="chinese">该镇由一营士兵驻守。</span><span class="english">The town was garrisoned by a battalion.</span></p>

@@ -1,5 +1,7 @@
 # unblemished
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unblemished.md)
+
 <p><span class="chinese">当我们出生时，我们是纯洁无瑕的。</span><span class="english">When we are born, we are unblemished.</span></p>
 
 <p><span class="chinese">还是一片没有破损、没有污点的皮肤？</span><span class="english">Or a swath of unbroken, unblemished skin?</span></p>

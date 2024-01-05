@@ -1,5 +1,7 @@
 # 悲痛欲绝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beitongyujue.md)
+
 <p><span class="chinese">但这一切令我们所有人悲痛欲绝。</span><span class="english">But it has devastated all of us.</span></p>
 
 <p><span class="chinese">我已经做了好些年悲痛欲绝的妻子了。</span><span class="english">I've been a grieving wife for years.</span></p>

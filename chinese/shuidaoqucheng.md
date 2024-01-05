@@ -1,5 +1,7 @@
 # 水到渠成
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuidaoqucheng.md)
+
 <p><span class="chinese">其他的东西都会水到渠成。</span><span class="english">Everything else would then follow.</span></p>
 
 <p><span class="chinese">学业，家庭，事业，都是没有仔细想过就水到渠成了。</span><span class="english">Studies, family, career, they all came when they needed to.</span></p>

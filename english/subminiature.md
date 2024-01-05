@@ -1,5 +1,7 @@
 # subminiature
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subminiature.md)
+
 <p><span class="chinese">动作灵敏的超小型开关。</span><span class="english">Action sensitive subminiature switch.</span></p>
 
 <p><span class="chinese">车上的人，微型脚都是最后回来了。</span><span class="english">People in the subminiature feet are last came back.</span></p>

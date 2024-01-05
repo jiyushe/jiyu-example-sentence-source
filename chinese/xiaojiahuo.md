@@ -1,5 +1,7 @@
 # 小家伙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaojiahuo.md)
+
 <p><span class="chinese">嗨，小家伙们。</span><span class="english">Hi little guys.</span></p>
 
 <p><span class="chinese">你到底是什么人，小家伙？</span><span class="english">Who are you, little one?</span></p>

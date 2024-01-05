@@ -1,5 +1,7 @@
 # disquiet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disquiet.md)
+
 <p><span class="chinese">欧洲的不安可能会渐长。</span><span class="english">Europe 's disquiet is likely to grow.</span></p>
 
 <p><span class="chinese">觉察到了不安或恐惧的感觉，抓紧行动。</span><span class="english">Take good note of any feelings of disquiet or fear and act upon them.</span></p>

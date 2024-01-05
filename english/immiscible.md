@@ -1,5 +1,7 @@
 # immiscible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immiscible.md)
+
 <p><span class="chinese">水和油不能混合。</span><span class="english">Water and oil are immiscible.</span></p>
 
 <p><span class="chinese">在两种非混相流体边界处作用的力。</span><span class="english">The force acting at the boundary of two immiscible fluids.</span></p>

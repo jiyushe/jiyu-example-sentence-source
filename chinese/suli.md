@@ -1,5 +1,7 @@
 # 肃立
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suli.md)
+
 <p><span class="chinese">一只阿富汗猎犬昂首肃立。</span><span class="english">An Afghan hound stands at attention.</span></p>
 
 <p><span class="chinese">全体肃立，出旗，奏乐！</span><span class="english">All attention. Flags out! music play!</span></p>

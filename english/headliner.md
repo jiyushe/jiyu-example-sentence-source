@@ -1,5 +1,7 @@
 # headliner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/headliner.md)
+
 <p><span class="chinese">安装尾部区域的车顶衬里。</span><span class="english">Install headliner in rear area.</span></p>
 
 <p><span class="chinese">将控制单元压入车顶衬里。</span><span class="english">Clip control unit into headliner.</span></p>

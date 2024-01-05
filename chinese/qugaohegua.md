@@ -1,5 +1,7 @@
 # 曲高和寡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qugaohegua.md)
+
 <p><span class="chinese">伟大的艺术作品往往曲高和寡。</span><span class="english">There are great works of art that are appreciated by a limited audience.</span></p>
 
 <p><span class="chinese">这出歌剧虽比过去的歌剧通俗些，但依然是阳春白雪，曲高和寡。</span><span class="english">Though more popular than it used to be, the opera is still caviar to the.</span></p>

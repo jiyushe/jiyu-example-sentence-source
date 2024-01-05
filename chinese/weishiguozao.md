@@ -1,5 +1,7 @@
 # 为时过早
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weishiguozao.md)
+
 <p><span class="chinese">现在决定为时过早。</span><span class="english">It's too early to tell.</span></p>
 
 <p><span class="chinese">现在对这事盖棺论定为时过早。</span><span class="english">It is too early to conclude this matter.</span></p>

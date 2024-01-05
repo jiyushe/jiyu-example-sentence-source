@@ -1,5 +1,7 @@
 # 熟手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shushou.md)
+
 <p><span class="chinese">他是补缀汽车的熟手在行。</span><span class="english">He's an old hand at fixing cars.</span></p>
 
 <p><span class="chinese">刚来的打字员是个熟手。</span><span class="english">The new typist is green at her job.</span></p>

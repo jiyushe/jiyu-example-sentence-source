@@ -1,5 +1,7 @@
 # temperate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/temperate.md)
+
 <p><span class="chinese">阿佛烈在吃方面是有节制的。</span><span class="english">Alfred is temperate in eating.</span></p>
 
 <p><span class="chinese">我舅舅住在气候温和的地区。</span><span class="english">My uncle lived in the temperate zone.</span></p>

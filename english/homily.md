@@ -1,5 +1,7 @@
 # homily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homily.md)
+
 <p><span class="chinese">他开始就家庭关系进行说教。</span><span class="english">He launched into a homily on family relationships.</span></p>
 
 <p><span class="chinese">在演说中，教皇集中批评现代唯物主义的弊病。</span><span class="english">In his homily the Pontiff focused on the ills of modern materialism.</span></p>

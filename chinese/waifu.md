@@ -1,5 +1,7 @@
 # 外敷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waifu.md)
+
 <p><span class="chinese">这药用是外敷用的。</span><span class="english">This medicine is for external application.</span></p>
 
 <p><span class="chinese">这药是用于外敷的。</span><span class="english">This medicine is to be applied externally.</span></p>

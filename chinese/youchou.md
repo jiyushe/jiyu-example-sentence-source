@@ -1,5 +1,7 @@
 # 忧愁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youchou.md)
+
 <p><span class="chinese">那唐璜忧愁郁闷吗？</span><span class="english">Is Don Juan melancholy?</span></p>
 
 <p><span class="chinese">丁香一样的忧愁。</span><span class="english">And the glooms of lilac.</span></p>

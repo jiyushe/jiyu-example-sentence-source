@@ -1,5 +1,7 @@
 # veneer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/veneer.md)
+
 <p><span class="chinese">一个镶牙，是吧？</span><span class="english">One veneer , is that right?</span></p>
 
 <p><span class="chinese">木皮饰面柜。</span><span class="english">Cabinet with wood veneer finish.</span></p>

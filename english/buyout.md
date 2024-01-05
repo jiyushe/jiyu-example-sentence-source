@@ -1,5 +1,7 @@
 # buyout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buyout.md)
+
 <p><span class="chinese">收购再退出的操作，将同时提振并购和IPO市场。</span><span class="english">Buyout exits will lift both the M&A and IPO markets.</span></p>
 
 <p><span class="chinese">这些动向将如何改变本地并购生态圈？</span><span class="english">How is there emergence changing the local buyout scene?</span></p>

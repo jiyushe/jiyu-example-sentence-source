@@ -1,5 +1,7 @@
 # stoat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stoat.md)
+
 <p><span class="chinese">狐狸、獾、黄鼠狼和白鼬在这里很常见。</span><span class="english">Fox, badger, weasel and stoat are regularly seen here.</span></p>
 
 <p><span class="chinese">我要钻进你的地洞里去，象赶一只老鼬鼠一般把你赶出来。</span><span class="english">I shall come down your burrow and chivvy you out like an old stoat.</span></p>

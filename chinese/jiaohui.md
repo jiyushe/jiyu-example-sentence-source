@@ -1,5 +1,7 @@
 # 交会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaohui.md)
+
 <p><span class="chinese">旅交会将于22日结束。</span><span class="english">The fair ends on Sunday.</span></p>
 
 <p><span class="chinese">高交会是指什么？</span><span class="english">What does CHTF stand for?</span></p>

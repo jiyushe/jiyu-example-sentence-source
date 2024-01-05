@@ -1,5 +1,7 @@
 # cracker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cracker.md)
+
 <p><span class="chinese">他在饼干上放了些奶酪。</span><span class="english">He put cheese on a cracker.</span></p>
 
 <p><span class="chinese">在饼干上涂一层黄油。</span><span class="english">Spread a cracker with butter.</span></p>

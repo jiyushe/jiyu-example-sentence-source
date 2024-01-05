@@ -1,5 +1,7 @@
 # 风湿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengshi_1.md)
+
 <p><span class="chinese">什么是风湿性心脏病？</span><span class="english">What is rheumatic heart disease?</span></p>
 
 <p><span class="chinese">我左肩患有风湿症。</span><span class="english">I have rheumatism in my left shoulder.</span></p>

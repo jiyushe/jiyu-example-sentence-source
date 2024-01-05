@@ -1,5 +1,7 @@
 # warning 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/warning.md)
+
 <p><span class="chinese">在切割中发出警告。</span><span class="english">Severs its warning.</span></p>
 
 <p><span class="chinese">我会注意这个警告。</span><span class="english">I'd heed this warning.</span></p>

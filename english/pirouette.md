@@ -1,5 +1,7 @@
 # pirouette
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pirouette.md)
+
 <p><span class="chinese">这位滑冰者完成了一次三周单腿旋转。</span><span class="english">The skater executed a triple pirouette.</span></p>
 
 <p><span class="chinese">以下是一些基本的自旋转动作。</span><span class="english">The following is some basic pirouette based maneuvers.</span></p>

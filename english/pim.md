@@ -1,5 +1,7 @@
 # pim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pim.md)
+
 <p><span class="chinese">平先生，您的成功真令人振奋。</span><span class="english">Mr. Pim , your success is inspiring.</span></p>
 
 <p><span class="chinese">她路过的时候我们都仰慕她“皮姆先生看着皮帕,在啜饮着混喝饮料。</span><span class="english">We always admire her as she passes by." Mr. Pim watches Pippa suck the concoction.</span></p>

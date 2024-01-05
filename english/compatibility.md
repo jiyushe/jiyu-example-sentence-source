@@ -1,5 +1,7 @@
 # compatibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compatibility.md)
+
 <p><span class="chinese">它叫做图灵兼容性。</span><span class="english">It's called Turing compatibility.</span></p>
 
 <p><span class="chinese">狮子座男与金牛座女的相融性</span><span class="english">Leo Man Taurus Woman Compatibility</span></p>

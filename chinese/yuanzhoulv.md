@@ -1,5 +1,7 @@
 # 圆周率
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanzhoulv.md)
+
 <p><span class="chinese">我选了圆周率的符号。</span><span class="english">I chose the symbol for pi.</span></p>
 
 <p><span class="chinese">爱情就象圆周率—自然、非理性，却至关重要。</span><span class="english">Love is like pi¬ —natural , irrational , and VERY important.</span></p>

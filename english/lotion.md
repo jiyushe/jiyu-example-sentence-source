@@ -1,5 +1,7 @@
 # lotion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lotion.md)
+
 <p><span class="chinese">我抹上化妆水。</span><span class="english">I put on some lotion.</span></p>
 
 <p><span class="chinese">闻闻防晒油。</span><span class="english">Smell the suntan lotion.</span></p>

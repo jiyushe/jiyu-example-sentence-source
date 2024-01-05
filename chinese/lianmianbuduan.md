@@ -1,5 +1,7 @@
 # 连绵不断
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianmianbuduan.md)
+
 <p><span class="chinese">连绵不断的雨会使稻谷腐烂。</span><span class="english">The continual rain will rot the rice.</span></p>
 
 <p><span class="chinese">这种媒质连绵不断地从一个星体扩展到另一个星体。</span><span class="english">The medium extends unbroken from star to star.</span></p>

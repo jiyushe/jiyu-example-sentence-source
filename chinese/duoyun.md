@@ -1,5 +1,7 @@
 # 多云
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duoyun.md)
+
 <p><span class="chinese">多云且有风的。</span><span class="english">It's cloudy and windy.</span></p>
 
 <p><span class="chinese">全般早上多云。</span><span class="english">It's been cloudy all morning.</span></p>

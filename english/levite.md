@@ -1,5 +1,7 @@
 # levite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/levite.md)
+
 <p><span class="chinese">利未人就进了他的家。</span><span class="english">So the Levite went in.</span></p>
 
 <p><span class="chinese">然后来了一个有趣的利未人。</span><span class="english">Then came the interested man, a Levite.</span></p>

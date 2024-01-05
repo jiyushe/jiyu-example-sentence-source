@@ -1,5 +1,7 @@
 # 停止
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingzhi.md)
+
 <p><span class="chinese">停止嘘声！</span><span class="english">Stop hushing.</span></p>
 
 <p><span class="chinese">停止抱怨。</span><span class="english">Stop whining.</span></p>

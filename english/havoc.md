@@ -1,5 +1,7 @@
 # havoc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/havoc.md)
+
 <p><span class="chinese">像大闹天宫似的。</span><span class="english">Havoc in Heaven, as if.</span></p>
 
 <p><span class="chinese">只有自然才搞那么可爱的破坏。</span><span class="english">Only nature wreaks such lovely havoc.</span></p>

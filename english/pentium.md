@@ -1,5 +1,7 @@
 # pentium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pentium.md)
+
 <p><span class="chinese">奔腾万岁，纸笔累赘。</span><span class="english">Pentium wise, pen and paper foolish.</span></p>
 
 <p><span class="chinese">如果你看到奔腾四米，那是一件好事。</span><span class="english">If you see Pentium M, that's a good thing.</span></p>

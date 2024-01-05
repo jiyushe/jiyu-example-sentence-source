@@ -1,5 +1,7 @@
 # jovial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jovial.md)
+
 <p><span class="chinese">有三个愉快的威尔斯人。</span><span class="english">There were three jovial Welshmen.</span></p>
 
 <p><span class="chinese">时间在鼓声和愉快的圣歌声中流逝。</span><span class="english">Amidst the drumbeats and jovial chants, time passed.</span></p>

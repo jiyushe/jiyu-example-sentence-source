@@ -1,5 +1,7 @@
 # wasting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wasting.md)
+
 <p><span class="chinese">不许浪费食物。</span><span class="english">No wasting food.</span></p>
 
 <p><span class="chinese">所以究竟是谁乱花钱了？</span><span class="english">So who ended up wasting money?</span></p>

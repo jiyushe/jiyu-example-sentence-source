@@ -1,5 +1,7 @@
 # 威力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weili_1.md)
+
 <p><span class="chinese">下面就是线性的威力。</span><span class="english">Here is the power of linearity.</span></p>
 
 <p><span class="chinese">复利如何发挥时间威力。</span><span class="english">How does it compound over time?</span></p>

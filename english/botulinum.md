@@ -1,5 +1,7 @@
 # botulinum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/botulinum.md)
+
 <p><span class="chinese">肉毒杆菌毒谢特征气体。</span><span class="english">Clostridium botulinum is gas production.</span></p>
 
 <p><span class="chinese">过敏性的皮肤可以注射肉毒素吗？</span><span class="english">Allergic skin that can be injected botulinum toxin it?</span></p>

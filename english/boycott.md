@@ -1,5 +1,7 @@
 # boycott
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boycott.md)
+
 <p><span class="chinese">让我们联合起来抵制日货！</span><span class="english">Let's Boycott Japanese Products!</span></p>
 
 <p><span class="chinese">网上都在谈联合抵制。</span><span class="english">The networks are taiking boycott.</span></p>

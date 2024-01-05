@@ -1,5 +1,7 @@
 # 猎枪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lieqiang_1.md)
+
 <p><span class="chinese">嘿，一起吧，我有猎枪。</span><span class="english">Hey. I got shotgun.</span></p>
 
 <p><span class="chinese">她扣动了猎枪的扳机。</span><span class="english">She pulled the trigger.</span></p>

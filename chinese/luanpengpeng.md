@@ -1,5 +1,7 @@
 # 乱蓬蓬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luanpengpeng.md)
+
 <p><span class="chinese">她正在梳理她那乱蓬蓬的头发。</span><span class="english">She is combing her matted hair.</span></p>
 
 <p><span class="chinese">她正在梳理她那乱蓬蓬的头发。</span><span class="english">That dress matches her red hair.</span></p>

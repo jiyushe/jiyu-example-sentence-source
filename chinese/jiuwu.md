@@ -1,5 +1,7 @@
 # 旧物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuwu.md)
+
 <p><span class="chinese">旧物依旧，人渺渺。</span><span class="english">The old man still, road.</span></p>
 
 <p><span class="chinese">就是我们存放旧物的地方。</span><span class="english">It's where we keeps our old things.</span></p>

@@ -1,5 +1,7 @@
 # foreordination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foreordination.md)
+
 <p><span class="chinese">那么，这是宿命吗？</span><span class="english">And this was foreordination?</span></p>
 
 <p><span class="chinese">这叫宿命？</span><span class="english">Is it call "foreordination"?</span></p>

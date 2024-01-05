@@ -1,5 +1,7 @@
 # mink
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mink.md)
+
 <p><span class="chinese">我不要貂皮大衣。</span><span class="english">I don't want a mink coat!</span></p>
 
 <p><span class="chinese">你的貂皮大衣多少钱？</span><span class="english">How much is your mink coat?</span></p>

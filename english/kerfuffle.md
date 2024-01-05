@@ -1,5 +1,7 @@
 # kerfuffle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kerfuffle.md)
+
 <p><span class="chinese">首先，我来给kerfuffle下个定义。</span><span class="english">To start with I’ll define kerfuffle.</span></p>
 
 <p><span class="chinese">KFC总裁对事件公开道歉。</span><span class="english">KFC's president publicly apologized for the "kerfuffle".</span></p>

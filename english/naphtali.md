@@ -1,5 +1,7 @@
 # naphtali
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/naphtali.md)
+
 <p><span class="chinese">于是给他起名叫拿弗他利。</span><span class="english">So she named him Naphtali.</span></p>
 
 <p><span class="chinese">拿弗他利是被释放的母鹿。他出嘉美的言语。</span><span class="english">Naphtali is a doe set free that bears beautiful fawns.</span></p>

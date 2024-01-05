@@ -1,5 +1,7 @@
 # 体无完肤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiwuwanfu.md)
+
 <p><span class="chinese">劳拉幸存下来了，但却体无完肤。</span><span class="english">Laura survived, but barely.</span></p>
 
 <p><span class="chinese">夏威夷的原生态因为外来物种的入侵已经变得体无完肤。</span><span class="english">Hawaii is ground zero for invasive species.</span></p>

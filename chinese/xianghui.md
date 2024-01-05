@@ -1,5 +1,7 @@
 # 相会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianghui.md)
+
 <p><span class="chinese">希望有缘人在这里相会。</span><span class="english">Hope for see you here.</span></p>
 
 <p><span class="chinese">他们继续每天相会。</span><span class="english">They continue to meet daily.</span></p>

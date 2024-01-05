@@ -1,5 +1,7 @@
 # 萨满教
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/samanjiao.md)
+
 <p><span class="chinese">它被称为“苍鑫式萨满教”。</span><span class="english">It's called Cang-style Shamanism.</span></p>
 
 <p><span class="chinese">这个被银河的玛雅人探访的文明是萨满教的。</span><span class="english">The cultures visited by the Galactic Maya were shamanic.</span></p>

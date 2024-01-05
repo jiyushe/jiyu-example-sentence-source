@@ -1,5 +1,7 @@
 # diffidence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diffidence.md)
+
 <p><span class="chinese">我们把他的沉默归之于缺乏自信。</span><span class="english">We set his silence down to his diffidence.</span></p>
 
 <p><span class="chinese">疑心是友谊的毒药。</span><span class="english">Diffidence is the poison of true friendship.</span></p>

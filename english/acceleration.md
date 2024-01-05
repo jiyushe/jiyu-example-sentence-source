@@ -1,5 +1,7 @@
 # acceleration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acceleration.md)
+
 <p><span class="chinese">硬件加速。</span><span class="english">Hardware acceleration.</span></p>
 
 <p><span class="chinese">现在我就想得到加速度</span><span class="english">I want the acceleration now.</span></p>

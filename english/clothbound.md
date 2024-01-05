@@ -1,5 +1,7 @@
 # clothbound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clothbound.md)
+
 <p><span class="chinese">在日本，通过任何一台自动售货机都可买到各种精装茶饮料。</span><span class="english">Be in Japan, pass an any automats to be able to buy all sorts of clothbound tea drink.</span></p>
 
 <p><span class="chinese">那时候，这里是北京第一家精装修出售的外销公寓。</span><span class="english">Await in those days, beijing is here the first clothbound builds the export boarding house that sell.</span></p>

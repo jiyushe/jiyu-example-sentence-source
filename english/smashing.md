@@ -1,5 +1,7 @@
 # smashing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smashing.md)
+
 <p><span class="chinese">手术大获成功。</span><span class="english">The operation's a smashing success.</span></p>
 
 <p><span class="chinese">随后我把它扔到地上,摔碎它</span><span class="english">And I drop in on the ground, smashing it.</span></p>

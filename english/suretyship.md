@@ -1,5 +1,7 @@
 # suretyship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suretyship.md)
+
 <p><span class="chinese">你可能已经在我们的帐户上达成的任何保证人资格。</span><span class="english">Any suretyship you may have entered into on our account.</span></p>
 
 <p><span class="chinese">甲分支机构已经取得总公司C的书面授权书，因此有权对外提供保证。</span><span class="english">The branch Jia has the power of attorney from the Company C, so he can provide a suretyship.</span></p>

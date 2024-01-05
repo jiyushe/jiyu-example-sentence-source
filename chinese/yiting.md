@@ -1,5 +1,7 @@
 # 一停
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiting.md)
+
 <p><span class="chinese">昨天雨一停孩子们就回家了。</span><span class="english">The children went home yesterday.</span></p>
 
 <p><span class="chinese">停一停！我有话要说。</span><span class="english">Time out! I have something to say.</span></p>

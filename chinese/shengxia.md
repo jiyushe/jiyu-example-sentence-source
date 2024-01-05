@@ -1,5 +1,7 @@
 # 盛夏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengxia.md)
+
 <p><span class="chinese">时逢盛夏，天气异常炎热。</span><span class="english">It was midsummer and very hot.</span></p>
 
 <p><span class="chinese">严冬会带来盛夏。</span><span class="english">A Good Winter Brings a Good Summ.</span></p>

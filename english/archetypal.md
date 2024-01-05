@@ -1,5 +1,7 @@
 # archetypal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/archetypal.md)
+
 <p><span class="chinese">这使他成为典型的战后婴儿潮。</span><span class="english">That makes him the archetypal post-war boomer.</span></p>
 
 <p><span class="chinese">那些表达此原型性质的人是好战分子。</span><span class="english">Those expressing this archetypal nature are warmongers.</span></p>

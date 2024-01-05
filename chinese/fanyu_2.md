@@ -1,5 +1,7 @@
 # 梵语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanyu_2.md)
+
 <p><span class="chinese">或者你过去有使用过梵语吗？</span><span class="english">Or have you used them in the past?</span></p>
 
 <p><span class="chinese">我还成功运用过别的梵语。</span><span class="english">I’ve used other mantras to great success.</span></p>

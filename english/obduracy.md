@@ -1,5 +1,7 @@
 # obduracy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obduracy.md)
+
 <p><span class="chinese">执著、幻想和妄想真的可怕！</span><span class="english">Obduracy , illusion and delusion of one can be terrible.</span></p>
 
 <p><span class="chinese">奥巴马总统只能本能地去回击共和党人的顽固立场。</span><span class="english">Mr Obama could respond by railing against Republican obduracy.</span></p>

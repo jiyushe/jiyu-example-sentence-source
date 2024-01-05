@@ -1,5 +1,7 @@
 # commonsense
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commonsense.md)
+
 <p><span class="chinese">因为你只需常识就可以了。</span><span class="english">for that you just need commonsense.</span></p>
 
 <p><span class="chinese">当然，使用常识在这里太。</span><span class="english">But of course, use your commonsense here too.</span></p>

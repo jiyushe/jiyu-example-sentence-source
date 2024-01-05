@@ -1,5 +1,7 @@
 # bottleneck
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bottleneck.md)
+
 <p><span class="chinese">这是一个关，这个关必须过。</span><span class="english">This is a bottleneck which should be overcome.</span></p>
 
 <p><span class="chinese">那起事故使快车道一下子变成了一个拥挤的狭口。</span><span class="english">The accident turned the freeway into a bottleneck.</span></p>

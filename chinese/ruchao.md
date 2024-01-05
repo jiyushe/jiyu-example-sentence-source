@@ -1,5 +1,7 @@
 # 入超
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruchao.md)
+
 <p><span class="chinese">你也可以在网页中加入超链接来链接到别人的页面。</span><span class="english">You can also put signs on your Internet page to join it to other people's pages.</span></p>
 
 <p><span class="chinese">方法利用XRD和SEM等微观手段，对掺入超缓凝剂水泥砂浆的缓凝性能进行了测试和表征。</span><span class="english">The retarding properties of cement paste with the super-retarding agent have been characterized and analyzed by means of XRD and SEM.</span></p>

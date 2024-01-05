@@ -1,5 +1,7 @@
 # 用之不竭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongzhibujie.md)
+
 <p><span class="chinese">据说这口井很大，它的水是取之不尽用之不竭的。</span><span class="english">The well is, they say, great and inexhaustible.</span></p>
 
 <p><span class="chinese">宇宙中的资源是用之不竭的，这也是一个事实。</span><span class="english">It is also a fact that resources in the universe are inexhaustible.</span></p>

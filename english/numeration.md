@@ -1,5 +1,7 @@
 # numeration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/numeration.md)
+
 <p><span class="chinese">数按某一数制的一种表示。</span><span class="english">A representation of a number in a numeration system.</span></p>
 
 <p><span class="chinese">纯二进制记数系统中的基数补码。</span><span class="english">The radix complement in the pure binary numeration system.</span></p>

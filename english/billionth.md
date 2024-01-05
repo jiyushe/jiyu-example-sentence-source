@@ -1,5 +1,7 @@
 # billionth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/billionth.md)
+
 <p><span class="chinese">一纳米是十亿分之一米。</span><span class="english">One NM is one-1 billionth meter.</span></p>
 
 <p><span class="chinese">十亿分之一米是一纳米。</span><span class="english">A nanometre is a billionth of a metre.</span></p>

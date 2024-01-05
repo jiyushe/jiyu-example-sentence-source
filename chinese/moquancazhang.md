@@ -1,5 +1,7 @@
 # 摩拳擦掌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moquancazhang.md)
+
 <p><span class="chinese">美国摩拳擦掌，派遣军舰前往利比亚</span><span class="english">US flexes muscle, sends warships to Libya</span></p>
 
 <p><span class="chinese">有时也煞有介事，拿着简谱在钢琴上摩拳擦掌。</span><span class="english">Sometimes story, take on the piano chords try.</span></p>

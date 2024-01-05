@@ -1,5 +1,7 @@
 # 励精图治
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lijingtuzhi.md)
+
 <p><span class="chinese">数年磨励、励精图治。</span><span class="english">Years to sharpen, good.</span></p>
 
 <p><span class="chinese">公司经过10年多的励精图治与努力发展，已形成一定规模。</span><span class="english">Company after 10 years of hard efforts to develop and has formed a certain scale.</span></p>

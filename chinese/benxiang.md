@@ -1,5 +1,7 @@
 # 本乡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benxiang.md)
+
 <p><span class="chinese">是的，本乡家是相当贫穷的家庭。</span><span class="english">Yes, own home is quite poor family.</span></p>
 
 <p><span class="chinese">但是此时却发作了让本乡家不坚定的工作。</span><span class="english">But in this case, is attack let own home not firm work.</span></p>

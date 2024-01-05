@@ -1,5 +1,7 @@
 # 梭子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suozi.md)
+
 <p><span class="chinese">织布机上梭子来回飞动。</span><span class="english">The shuttle flies back and forth on the loom.</span></p>
 
 <p><span class="chinese">话音刚落，梭子突然从她手中滑落，蹦跳着跑到门口。</span><span class="english">Just then the shuttle jumped from her hand and out the door.</span></p>

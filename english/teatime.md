@@ -1,5 +1,7 @@
 # teatime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teatime.md)
+
 <p><span class="chinese">享受喝茶时间。</span><span class="english">Enjoy teatime.</span></p>
 
 <p><span class="chinese">这正是都市的午茶时光。</span><span class="english">It is teatime in the city.</span></p>

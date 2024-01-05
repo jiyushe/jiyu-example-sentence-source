@@ -1,5 +1,7 @@
 # 奢华
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shehua.md)
+
 <p><span class="chinese">他是在奢华的环境中长大的。</span><span class="english">He was cradled in luxury.</span></p>
 
 <p><span class="chinese">她过着奢华的生活。</span><span class="english">She is rolling in luxury.</span></p>

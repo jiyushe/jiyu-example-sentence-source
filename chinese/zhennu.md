@@ -1,5 +1,7 @@
 # 震怒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhennu.md)
+
 <p><span class="chinese">亚拉伯罕林肯总统异常震怒。</span><span class="english">President Abraham Lincoln was angry.</span></p>
 
 <p><span class="chinese">当玉帝看到雨，他十分震怒。</span><span class="english">When the Jade Emperor saw the rain, he was furious.</span></p>

@@ -1,5 +1,7 @@
 # 此起彼伏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ciqibifu.md)
+
 <p><span class="chinese">房间里弥漫着此起彼伏的叹息声。</span><span class="english">There were groans all around the room.</span></p>
 
 <p><span class="chinese">此起彼伏的鼾声消溶在昏黄的夜灯里。</span><span class="english">As one falls snoring dissolving in the dim light.</span></p>

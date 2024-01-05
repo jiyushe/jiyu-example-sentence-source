@@ -1,5 +1,7 @@
 # 丧命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sangming.md)
+
 <p><span class="chinese">你当晚就有可能丧命。</span><span class="english">You could die that night.</span></p>
 
 <p><span class="chinese">迟了合比完了佳/迟到合比丧命佳。</span><span class="english">Better late than the late.</span></p>

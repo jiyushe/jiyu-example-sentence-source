@@ -1,5 +1,7 @@
 # lansing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lansing.md)
+
 <p><span class="chinese">我在兰辛长大，毕业于兰辛高中。</span><span class="english">I grew up in Lansing, KS and graduated from Lansing High School.</span></p>
 
 <p><span class="chinese">安阿伯，巴特克里市，弗林特和兰辛所有地区有较小的下跌。</span><span class="english">Ann Arbor, Battle Creek, Flint and Lansing all saw smaller drops.</span></p>

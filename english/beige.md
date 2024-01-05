@@ -1,5 +1,7 @@
 # beige
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beige.md)
+
 <p><span class="chinese">白色？米黄色？</span><span class="english">White? Beige?</span></p>
 
 <p><span class="chinese">米黄色紧身裤？</span><span class="english">Beige leggings?</span></p>

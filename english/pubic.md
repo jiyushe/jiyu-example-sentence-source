@@ -1,5 +1,7 @@
 # pubic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pubic.md)
+
 <p><span class="chinese">疥疮是由阴虱引起的。</span><span class="english">Scabies is caused by pubic lice.</span></p>
 
 <p><span class="chinese">阴虱仅寄生于阴毛。</span><span class="english">Pubic lice infest only pubic hair.</span></p>

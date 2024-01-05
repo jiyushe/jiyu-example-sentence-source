@@ -1,5 +1,7 @@
 # 宦官
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanguan.md)
+
 <p><span class="chinese">陈全请求宦官放了他。</span><span class="english">Chen Quan requested eunuch to put him.</span></p>
 
 <p><span class="chinese">宦官文化也有很长的传统。</span><span class="english">There is also a long tradition of eunuch culture.</span></p>

@@ -1,5 +1,7 @@
 # tuvalu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tuvalu.md)
+
 <p><span class="chinese">没有图瓦卢的森林覆盖数据。</span><span class="english">No data are available for Tuvalu.</span></p>
 
 <p><span class="chinese">图瓦卢的最高点距太平洋面仅有4.5米。</span><span class="english">At its highest point, Tuvalu stands just 4.5 metres out of the Pacific.</span></p>

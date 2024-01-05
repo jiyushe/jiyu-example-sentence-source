@@ -1,5 +1,7 @@
 # prepaid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prepaid.md)
+
 <p><span class="chinese">我用了一个邮资已付的信封。</span><span class="english">I use a prepaid envelope.</span></p>
 
 <p><span class="chinese">请把这份电报作“急电”发出。</span><span class="english">The telegram was sent reply prepaid.</span></p>

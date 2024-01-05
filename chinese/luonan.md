@@ -1,5 +1,7 @@
 # 落难
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luonan.md)
+
 <p><span class="chinese">落难时，你认识了朋友。</span><span class="english">You know your friends when you are in need.</span></p>
 
 <p><span class="chinese">那为暗夜所掩盖的落难的旧爱。</span><span class="english">Where night-rack shrouds the Old Love fugitive.</span></p>

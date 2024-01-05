@@ -1,5 +1,7 @@
 # 休学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuxue.md)
+
 <p><span class="chinese">现在决定先休学一年回国带一段儿时间…</span><span class="english">Decided to spend a year now returned with a child time.</span></p>
 
 <p><span class="chinese">现在兔子连跑步都不及格了，只好休学在家。</span><span class="english">Now the rabbit even running all failed, have to take home.</span></p>

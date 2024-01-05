@@ -1,5 +1,7 @@
 # 下手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiashou.md)
+
 <p><span class="chinese">先别放下手,艾尔</span><span class="english">Ale, keep your hands up.</span></p>
 
 <p><span class="chinese">他又伸下手去搔一搔脚脖子。</span><span class="english">I tickled him with a feather.</span></p>

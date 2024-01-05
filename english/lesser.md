@@ -1,5 +1,7 @@
 # lesser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lesser.md)
+
 <p><span class="chinese">他们软弱地多</span><span class="english">They are much lesser figures.</span></p>
 
 <p><span class="chinese">两害相权取其轻。</span><span class="english">Of two evils choose the lesser.</span></p>

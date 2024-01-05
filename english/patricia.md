@@ -1,5 +1,7 @@
 # patricia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/patricia.md)
+
 <p><span class="chinese">我要给帕特里夏打个电话。</span><span class="english">I'll call Patricia.</span></p>
 
 <p><span class="chinese">舅妈帕特丽夏是他的妻子。</span><span class="english">Aunt Patricia is his wife.</span></p>

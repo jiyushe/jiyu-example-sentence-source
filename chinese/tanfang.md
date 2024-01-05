@@ -1,5 +1,7 @@
 # 坍方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanfang.md)
+
 <p><span class="chinese">地震造成了这个地区的煤矿坍方。</span><span class="english">The earthquake caused the collapse of the coal mines in this district.</span></p>
 
 <p><span class="chinese">某连拱隧道在中导洞施工时出现坍方。</span><span class="english">During construction of the middle drift of a multi-arch tunnel, collapse accident occurred.</span></p>

@@ -1,5 +1,7 @@
 # nine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nine.md)
+
 <p><span class="chinese">九眼天珠。</span><span class="english">Nine beads.</span></p>
 
 <p><span class="chinese">九和十。</span><span class="english">Nine and ten.</span></p>

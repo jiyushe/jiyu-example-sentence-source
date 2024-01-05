@@ -1,5 +1,7 @@
 # 开通
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaitong.md)
+
 <p><span class="chinese">如何开通网上支付？</span><span class="english">How to open e-payment?</span></p>
 
 <p><span class="chinese">这座设施于1966年开通使用。</span><span class="english">Thefacility opened in 1966.</span></p>

@@ -1,5 +1,7 @@
 # 棘皮动物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jipidongwu.md)
+
 <p><span class="chinese">棘皮动物具有一种引人注意的器官。</span><span class="english">The echinodermata are furnished with remarkable organs.</span></p>
 
 <p><span class="chinese">这些小的，多刺的棘皮动物能够找到在全世界的海洋。</span><span class="english">These small, spiny echinoderms are found in oceans all over the world.</span></p>

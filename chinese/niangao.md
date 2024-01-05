@@ -1,5 +1,7 @@
 # 年糕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niangao.md)
+
 <p><span class="chinese">俺们吃了年糕句号。</span><span class="english">We eat rice cakes.</span></p>
 
 <p><span class="chinese">调味年糕.</span><span class="english">Flavoured rice cakes.</span></p>

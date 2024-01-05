@@ -1,5 +1,7 @@
 # monthlong
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monthlong.md)
+
 <p><span class="chinese">并且他们刚刚在一个月的培训中学会了怎样操作消防车。</span><span class="english">And they’d completed a monthlong course to learn how to operate the fire engines.</span></p>
 
 <p><span class="chinese">在印度全国范围内进行，持续一个月的大选经常被称为世界上最大的民主实践。</span><span class="english">India’s monthlong nationwide election is often called the world’s largest exercise in democracy.</span></p>

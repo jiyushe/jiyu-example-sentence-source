@@ -1,5 +1,7 @@
 # 寒暄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanxuan_1.md)
+
 <p><span class="chinese">他在我身旁停下脚步，跟家人寒暄起来。</span><span class="english">He stopped right mest to me to greet his family.</span></p>
 
 <p><span class="chinese">波拉德在寒暄中开始了谈话。</span><span class="english">Pollard opened the conversation with some small talk.</span></p>

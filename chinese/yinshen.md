@@ -1,5 +1,7 @@
 # 引申
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinshen.md)
+
 <p><span class="chinese">一条双向道，有来有往，引申为互相忍让。</span><span class="english">It has to be a two-way street.</span></p>
 
 <p><span class="chinese">“不要说谎”也可以引申为“不掩饰真相”。</span><span class="english">“Never lie” also can be extended as “Don’t mask truths.</span></p>

@@ -1,5 +1,7 @@
 # absentminded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/absentminded.md)
+
 <p><span class="chinese">告诉他切不可心不在焉。</span><span class="english">Tell him never be absentminded.</span></p>
 
 <p><span class="chinese">迈克尔望着她，表现出心不在焉的样子。</span><span class="english">Michael looked at her in an absentminded fashion.</span></p>

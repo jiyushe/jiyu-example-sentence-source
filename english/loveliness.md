@@ -1,5 +1,7 @@
 # loveliness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loveliness.md)
+
 <p><span class="chinese">爱你是如此地美好。</span><span class="english">the loveliness of loving you.</span></p>
 
 <p><span class="chinese">愿你永保青春魅力。</span><span class="english">May you keep loveliness and charm.</span></p>

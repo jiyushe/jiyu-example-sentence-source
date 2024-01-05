@@ -1,5 +1,7 @@
 # ingrown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ingrown.md)
+
 <p><span class="chinese">指甲内嵌通常发生在大拇指上。</span><span class="english">Ingrown toenails usually occur in the big toe.</span></p>
 
 <p><span class="chinese">所以，像脚趾甲向内生长这种问题就会增多。</span><span class="english">Thus the problems like ingrown toenail arises.</span></p>

@@ -1,5 +1,7 @@
 # eustatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eustatic.md)
+
 <p><span class="chinese">全球性海面升降周期是发生一次海平面升和降的时间间隔。</span><span class="english">Eustatic change is pertaining to worldwide changes of sea level that affect all the oceans.</span></p>
 
 <p><span class="chinese">全球性海面升降周期是发生一次海平面升和降的时间间隔。</span><span class="english">Eustatic cycle is the interval of time during which a eustatic rise and fall of sea level takes place.</span></p>

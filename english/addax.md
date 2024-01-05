@@ -1,5 +1,7 @@
 # addax
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/addax.md)
+
 <p><span class="chinese">旋角羚羊生活在北非洲的撒哈拉沙漠中。</span><span class="english">The addax lives in the Sahara Desert of northern Africa.</span></p>
 
 <p><span class="chinese">本周末，阿达克斯公司拒绝就中石化报价的相关报道作出任何评论。</span><span class="english">Addax declined to comment this weekend on reports about Sinopec's offer.</span></p>

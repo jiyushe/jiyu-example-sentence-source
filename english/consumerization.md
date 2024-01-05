@@ -1,5 +1,7 @@
 # consumerization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consumerization.md)
+
 <p><span class="chinese">IT界把它称为鼓励促进消费。</span><span class="english">Call it the consumerization of IT.</span></p>
 
 <p><span class="chinese">移动化计算、消费化集成</span><span class="english">Mobile computing and consumerization integration</span></p>

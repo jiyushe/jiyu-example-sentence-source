@@ -1,5 +1,7 @@
 # gage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gage.md)
+
 <p><span class="chinese">令人惊异的是，盖奇没有死。</span><span class="english">Amazingly, Gage was not killed.</span></p>
 
 <p><span class="chinese">计量器具与生产仪表等得标定。</span><span class="english">Equipment and rulers and gage demarcate.</span></p>

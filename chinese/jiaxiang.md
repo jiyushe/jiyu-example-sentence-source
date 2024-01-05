@@ -1,5 +1,7 @@
 # 假想
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaxiang.md)
+
 <p><span class="chinese">我自己假想的想法却无所适从。</span><span class="english">I am self fanciful ideas but bewilder.</span></p>
 
 <p><span class="chinese">他假想自己身处百年之前。</span><span class="english">He tried to vision himself in a past century.</span></p>

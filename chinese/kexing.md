@@ -1,5 +1,7 @@
 # 克星
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kexing.md)
+
 <p><span class="chinese">邪恶的克星。</span><span class="english">Vanquisher Of Evil.</span></p>
 
 <p><span class="chinese">英语是我的克星。</span><span class="english">English is my kryptonite.</span></p>

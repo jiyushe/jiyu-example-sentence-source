@@ -1,5 +1,7 @@
 # 打杂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daza.md)
+
 <p><span class="chinese">我只是这办公室里一个打杂的。</span><span class="english">I'm just the dogsbody in this office.</span></p>
 
 <p><span class="chinese">他一辈子只配在厨房里打杂。</span><span class="english">His life only with a charwoman in the kitchen.</span></p>

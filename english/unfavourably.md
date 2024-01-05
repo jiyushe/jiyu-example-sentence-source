@@ -1,5 +1,7 @@
 # unfavourably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unfavourably.md)
+
 <p><span class="chinese">你的行为与你的处事原则相差甚远。</span><span class="english">Your actions contrast unfavourably with your principles.</span></p>
 
 <p><span class="chinese">经常调换教师对教学质量有不利影响。</span><span class="english">Constant reshuffles of staff bear unfavourably on the quality of teaching.</span></p>

@@ -1,5 +1,7 @@
 # 失职
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizhi_1.md)
+
 <p><span class="chinese">华尔特将因他的失职而受到处罚。</span><span class="english">Walter will be paid off for his negligence.</span></p>
 
 <p><span class="chinese">钟离的失职令高义山大怒。</span><span class="english">The clock from Gao Yishan rage of dereliction of duty.</span></p>

@@ -1,5 +1,7 @@
 # soluble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soluble.md)
+
 <p><span class="chinese">易溶于冷液体。</span><span class="english">Soluble in cold liquids.</span></p>
 
 <p><span class="chinese">为什么PVA在水中是可溶的？</span><span class="english">Why is PVA soluble in water?</span></p>

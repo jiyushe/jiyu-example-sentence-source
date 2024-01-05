@@ -1,5 +1,7 @@
 # 日趋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/riqu.md)
+
 <p><span class="chinese">实际上郊区贫困化问题正在日趋严重。</span><span class="english">It's increasingly a suburban issue.</span></p>
 
 <p><span class="chinese">建德投资环境日趋完善。</span><span class="english">Jiande investment environment better.</span></p>

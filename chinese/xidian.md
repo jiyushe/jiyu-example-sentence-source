@@ -1,5 +1,7 @@
 # 西点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xidian.md)
+
 <p><span class="chinese">跟新西点学！</span><span class="english">Follow New Westpoint !</span></p>
 
 <p><span class="chinese">她的男朋友是西点军校的一名军校生。</span><span class="english">Her boyfriend is a cadet of West Point.</span></p>

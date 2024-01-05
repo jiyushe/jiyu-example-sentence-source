@@ -1,5 +1,7 @@
 # moralistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moralistic.md)
+
 <p><span class="chinese">他想做一个讲道德的，正直的人。</span><span class="english">He wants to be a moralistic and upright person.</span></p>
 
 <p><span class="chinese">谴责新的生活方式未免有些上纲上线。</span><span class="english">It is too moralistic to condemn new lifestyles.</span></p>

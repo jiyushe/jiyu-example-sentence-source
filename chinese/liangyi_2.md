@@ -1,5 +1,7 @@
 # 良医
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangyi_2.md)
+
 <p><span class="chinese">她得到良医的治疗。</span><span class="english">She is attended by a good doctor.</span></p>
 
 <p><span class="chinese">亲情使是我们彼此疗疾慰苦的良医。</span><span class="english">Kinship is healing , we are physicians to each other.</span></p>

@@ -1,5 +1,7 @@
 # 解馋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiechan.md)
+
 <p><span class="chinese">别忘了重肉桂糖果，1到2块就足够解馋了。</span><span class="english">And don’t forget cinnamon hard candy.</span></p>
 
 <p><span class="chinese">肉食的量要少，以解馋为主。</span><span class="english">Less the amount of meat, mainly to satisfy their craving.</span></p>

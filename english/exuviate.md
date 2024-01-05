@@ -1,5 +1,7 @@
 # exuviate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exuviate.md)
+
 <p><span class="chinese">另一种是蜕膜。</span><span class="english">Another kind is exuviate film.</span></p>
 
 <p><span class="chinese">醒时，身体逐渐蜕去一层薄纱。</span><span class="english">Awake, the body gradually exuviate go a layer of gauze.</span></p>

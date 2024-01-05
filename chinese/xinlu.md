@@ -1,5 +1,7 @@
 # 心路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinlu.md)
+
 <p><span class="chinese">我们的心路，决定我们的出路。</span><span class="english">Our journey, decided to our way out.</span></p>
 
 <p><span class="chinese">生起于耳门的心路历程。</span><span class="english">Thought processes that arise at the ear door.</span></p>

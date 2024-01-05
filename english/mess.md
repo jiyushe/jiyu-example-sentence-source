@@ -1,5 +1,7 @@
 # mess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mess.md)
+
 <p><span class="chinese">我一团乱。</span><span class="english">I was a mess.</span></p>
 
 <p><span class="chinese">我们完全一团糟。</span><span class="english">We were a mess.</span></p>

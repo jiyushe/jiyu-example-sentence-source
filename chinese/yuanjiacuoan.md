@@ -1,5 +1,7 @@
 # 冤假错案
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanjiacuoan.md)
+
 <p><span class="chinese">现代刑事司法改革进程见证了诸多的司法不公和冤假错案。</span><span class="english">Modern criminal judicial reform witnesses many judicature unfairness and miscarriages of justice.</span></p>
 
 <p><span class="chinese">最终，殖民政府承认这是冤假错案，并给予受害者家庭赔偿。</span><span class="english">Eventually, the colony admitted the trials were a mistake and compensated the families of those convicted.</span></p>

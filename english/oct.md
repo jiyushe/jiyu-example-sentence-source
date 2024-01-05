@@ -1,5 +1,7 @@
 # oct
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oct.md)
+
 <p><span class="chinese">达芙将于10月5日开始她的“绯闻”之旅。</span><span class="english">Duff begins her "Gossip" arc on Oct. 5.</span></p>
 
 <p><span class="chinese">我与方昉先生的作品将展出至本月24日。</span><span class="english">This event will last till Oct. 24,2010.</span></p>

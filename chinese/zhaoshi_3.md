@@ -1,5 +1,7 @@
 # 肇事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoshi_3.md)
+
 <p><span class="chinese">我们被车撞了，肇事司机逃逸。</span><span class="english">We were victims of a hit and run driver.</span></p>
 
 <p><span class="chinese">那个驾车肇事后逃跑的司机已被看押起来了。</span><span class="english">The hit-and-run driver has been in custody.</span></p>

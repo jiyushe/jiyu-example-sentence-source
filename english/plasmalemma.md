@@ -1,5 +1,7 @@
 # plasmalemma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plasmalemma.md)
+
 <p><span class="chinese">质膜向内折叠成波浪状。</span><span class="english">The plasmalemma folded entad forming wave shape.</span></p>
 
 <p><span class="chinese">液胞化细胞中的质膜内陷数量多，体积增大。</span><span class="english">The vacuolated cells had larger and more invaginating plasmalemma than those in the meristemate cells.</span></p>

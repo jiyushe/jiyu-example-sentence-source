@@ -1,5 +1,7 @@
 # polonium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polonium.md)
+
 <p><span class="chinese">钋是用来引爆核弹的。</span><span class="english">Polonium is used to set off a nuclear bomb.</span></p>
 
 <p><span class="chinese">1898年，他们发现了钋和镭。</span><span class="english">In 1898 they discovered polonium and radium.</span></p>

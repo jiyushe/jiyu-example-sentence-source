@@ -1,5 +1,7 @@
 # trigonal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trigonal.md)
+
 <p><span class="chinese">所以它是三角形金字塔。</span><span class="english">So it's trigonal pyramidal.</span></p>
 
 <p><span class="chinese">三角区和半卵圆中心7例。</span><span class="english">At trigonal and semiovale center 7 cases.</span></p>

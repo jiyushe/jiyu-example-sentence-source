@@ -1,5 +1,7 @@
 # angolan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/angolan.md)
+
 <p><span class="chinese">安哥拉男孩踢足球，在洛比托村1月14日。</span><span class="english">Angolan boys play football in Lobito village January 14.</span></p>
 
 <p><span class="chinese">他曾参加了西南非民族和古巴人对抗安哥拉的战争。</span><span class="english">He served in the Angolan war against Swapo and the Cubans.</span></p>

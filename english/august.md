@@ -1,5 +1,7 @@
 # august
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/august.md)
+
 <p><span class="chinese">这是八月在济南。</span><span class="english">It is August in Jinan.</span></p>
 
 <p><span class="chinese">八月一号是建军节。</span><span class="english">August 1st is Army Day.</span></p>

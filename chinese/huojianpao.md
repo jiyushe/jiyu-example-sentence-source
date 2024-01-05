@@ -1,5 +1,7 @@
 # 火箭炮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huojianpao.md)
+
 <p><span class="chinese">火箭炮袭击了医院和多所民宅。</span><span class="english">Rockets struck the hospital and multiple homes.</span></p>
 
 <p><span class="chinese">第二天在戈兰高地，托马林被叙利亚的火箭炮击中身亡。</span><span class="english">Next day on the Golan, Tomalin was killed by a Syrian rocket.</span></p>

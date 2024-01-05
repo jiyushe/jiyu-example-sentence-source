@@ -1,5 +1,7 @@
 # tsp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tsp.md)
+
 <p><span class="chinese">接着再加入3茶匙的接骨木果干一齐研碎。</span><span class="english">Into that add 3 tsp of dried elderberries and crush.</span></p>
 
 <p><span class="chinese">舀2勺草莓酱在提拉米苏的表面。</span><span class="english">Pour 2 tsp of strawberry jam on the top of Tiramisu.</span></p>

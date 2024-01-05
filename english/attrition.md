@@ -1,5 +1,7 @@
 # attrition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attrition.md)
+
 <p><span class="chinese">当时在弗吉尼亚还有一场大持久战</span><span class="english">The great war of attrition in Virginia.</span></p>
 
 <p><span class="chinese">现在，卡扎菲玩起了消耗战。</span><span class="english">Now, Qaddafi can play a game of attrition.</span></p>

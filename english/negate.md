@@ -1,5 +1,7 @@
 # negate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/negate.md)
+
 <p><span class="chinese">这简直是触及她的逆鳞。</span><span class="english">This is absolutely the negate scale that touches her.</span></p>
 
 <p><span class="chinese">非决定论否定事物的规律性吗?。</span><span class="english">Does the Theory of Non-decision Negate the Regularity of Things?</span></p>

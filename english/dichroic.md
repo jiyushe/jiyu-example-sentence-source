@@ -1,5 +1,7 @@
 # dichroic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dichroic.md)
+
 <p><span class="chinese">我是一个卷线和二色玻璃艺术家。</span><span class="english">I'm a wire wrap and dichroic glass artist.</span></p>
 
 <p><span class="chinese">参见本免费视频分色斜面的例子。</span><span class="english">See examples of dichroic bevels in this free video.</span></p>

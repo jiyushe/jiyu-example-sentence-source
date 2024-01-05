@@ -1,5 +1,7 @@
 # 和缓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hehuan.md)
+
 <p><span class="chinese">因此，疑惑中，穿过和缓的时间。</span><span class="english">So, wondering, thro' the hours meek.</span></p>
 
 <p><span class="chinese">吹和缓东至东北风。</span><span class="english">Moderate east to northeasterly winds.</span></p>

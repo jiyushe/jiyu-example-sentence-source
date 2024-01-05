@@ -1,5 +1,7 @@
 # hippopotamus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hippopotamus.md)
+
 <p><span class="chinese">一只激情的河马？</span><span class="english">Redbull for an hippopotamus ?</span></p>
 
 <p><span class="chinese">河马现在说的这些是什么意思？</span><span class="english">Now what does Hippopotamus mean by this?</span></p>

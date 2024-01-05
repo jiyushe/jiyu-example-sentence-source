@@ -1,5 +1,7 @@
 # planting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/planting.md)
+
 <p><span class="chinese">我们在给一个小花园栽植花草。</span><span class="english">We are planting a small garden.</span></p>
 
 <p><span class="chinese">土太干了，不能种东西。</span><span class="english">The soil is too dry for planting.</span></p>

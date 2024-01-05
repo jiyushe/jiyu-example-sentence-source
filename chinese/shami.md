@@ -1,5 +1,7 @@
 # 沙弥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shami.md)
+
 <p><span class="chinese">沙弥尔也说“每年来自国防军的采购是一个大单。”</span><span class="english">"As used by the IDF" is a big selling-point, says Mr Shamir.</span></p>
 
 <p><span class="chinese">山上有座小庙，庙里有个沙弥。</span><span class="english">The mountains are a small temple, the temple has a novice monk.</span></p>

@@ -1,5 +1,7 @@
 # flung
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flung.md)
+
 <p><span class="chinese">他把帽子扔向空中。</span><span class="english">He flung his hat up.</span></p>
 
 <p><span class="chinese">她随意地哼出愉快的调子。</span><span class="english">She flung off a merry tune.</span></p>

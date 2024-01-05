@@ -1,5 +1,7 @@
 # weightless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weightless.md)
+
 <p><span class="chinese">这半秒内，一切物体都失重了。</span><span class="english">We're all weightless during half a second.</span></p>
 
 <p><span class="chinese">不过线程本身却赢得了“轻便”的名声。</span><span class="english">But the threading itself earns the "weightless" name.</span></p>

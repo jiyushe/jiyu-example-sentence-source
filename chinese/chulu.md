@@ -1,5 +1,7 @@
 # 出炉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chulu.md)
+
 <p><span class="chinese">刚出炉的小餐包正在特价中。</span><span class="english">Fresh-baked buns are on sale.</span></p>
 
 <p><span class="chinese">本项世界排名已经新鲜出炉了。</span><span class="english">The world giving index is out.</span></p>

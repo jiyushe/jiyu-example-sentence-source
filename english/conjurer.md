@@ -1,5 +1,7 @@
 # conjurer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conjurer.md)
+
 <p><span class="chinese">那个魔术师把鸟变没了。</span><span class="english">The conjurer magicked the bird away.</span></p>
 
 <p><span class="chinese">他目瞪口呆地望着魔术师。</span><span class="english">He looked at the conjurer in silent wonder.</span></p>

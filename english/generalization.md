@@ -1,5 +1,7 @@
 # generalization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/generalization.md)
+
 <p><span class="chinese">这是一个很友好的概括。</span><span class="english">That was a very kind generalization.</span></p>
 
 <p><span class="chinese">当然，这只是一个总的概括。</span><span class="english">This is, of course, a gross generalization.</span></p>

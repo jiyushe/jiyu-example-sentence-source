@@ -1,5 +1,7 @@
 # 大典
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dadian.md)
+
 <p><span class="chinese">我也参加了他们的结婚大典。</span><span class="english">I was at their wedding too.</span></p>
 
 <p><span class="chinese">没想到，却要用在我的册封大典上。</span><span class="english">However, it is now used in my coronation.</span></p>

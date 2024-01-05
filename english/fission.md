@@ -1,5 +1,7 @@
 # fission
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fission.md)
+
 <p><span class="chinese">裂变问题的正确答案是什么？</span><span class="english">What's the right answer in fission?</span></p>
 
 <p><span class="chinese">或者它可以像核裂变一样爆发。</span><span class="english">Or maybe it’s an explosion like nuclear fission.</span></p>

@@ -1,5 +1,7 @@
 # karachi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/karachi.md)
+
 <p><span class="chinese">您好，我的名字是泰莎和我住在卡拉奇。</span><span class="english">Hello, My name is Tessa and I live in Karachi.</span></p>
 
 <p><span class="chinese">飞行计划高度层是多少？</span><span class="english">ATC clears you to Karachi via your flight planned route.</span></p>

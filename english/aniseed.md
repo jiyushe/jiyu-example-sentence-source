@@ -1,5 +1,7 @@
 # aniseed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aniseed.md)
+
 <p><span class="chinese">香草茶中的甜橙和大茴香使口味俞加浓烈。</span><span class="english">The sweet orange and aniseed add intense aromas.</span></p>
 
 <p><span class="chinese">深色森林水果香气伴以一丝八角和橡木带来的烤面包香。</span><span class="english">Black forest fruits with hints of aniseed and a whisper of toasted oak.</span></p>

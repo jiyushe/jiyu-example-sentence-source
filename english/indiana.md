@@ -1,5 +1,7 @@
 # indiana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indiana.md)
+
 <p><span class="chinese">欢迎来到印第安纳州圣克劳斯。</span><span class="english">Welcome to Santa Claus, Indiana.</span></p>
 
 <p><span class="chinese">就像印第安那·琼斯似的。</span><span class="english">It's like an Indiana Jones thing.</span></p>

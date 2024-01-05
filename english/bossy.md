@@ -1,5 +1,7 @@
 # bossy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bossy.md)
+
 <p><span class="chinese">她老是颐指气使的。</span><span class="english">And she's so bossy.</span></p>
 
 <p><span class="chinese">在自己的世界里纵横跋扈。</span><span class="english">Aspect in their own world, bossy.</span></p>

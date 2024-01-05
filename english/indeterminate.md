@@ -1,5 +1,7 @@
 # indeterminate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indeterminate.md)
+
 <p><span class="chinese">我不定量给穷人一些钱。</span><span class="english">This is a sort of indeterminate color.</span></p>
 
 <p><span class="chinese">我不定量给穷人一些钱。</span><span class="english">I give indeterminate money to poor men.</span></p>

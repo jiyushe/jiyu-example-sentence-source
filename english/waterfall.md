@@ -1,5 +1,7 @@
 # waterfall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waterfall.md)
+
 <p><span class="chinese">石瀑！</span><span class="english">Stone waterfall.</span></p>
 
 <p><span class="chinese">你去过黄果树瀑布吗？</span><span class="english">Have you seen the waterfall?</span></p>

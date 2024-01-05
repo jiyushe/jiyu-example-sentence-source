@@ -1,5 +1,7 @@
 # flushing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flushing.md)
+
 <p><span class="chinese">油系统的油清洗。</span><span class="english">Flushing L. O. sytem of stern tube.</span></p>
 
 <p><span class="chinese">滑油日用系统注油清洗完毕。</span><span class="english">Flushing L. O. system of stern tube.</span></p>

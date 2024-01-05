@@ -1,5 +1,7 @@
 # grimy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grimy.md)
+
 <p><span class="chinese">墙上都是污渍。</span><span class="english">The walls are grimy.</span></p>
 
 <p><span class="chinese">两条狗看起来很肮脏。</span><span class="english">Both dogs looked grimy.</span></p>

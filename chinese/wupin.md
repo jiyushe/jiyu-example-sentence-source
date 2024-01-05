@@ -1,5 +1,7 @@
 # 物品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wupin.md)
+
 <p><span class="chinese">不要拥有贵重物品。</span><span class="english">Don’t own valuables.</span></p>
 
 <p><span class="chinese">那你也得吃点儿物品。</span><span class="english">You get to eat event.</span></p>

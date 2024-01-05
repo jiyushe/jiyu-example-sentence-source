@@ -1,5 +1,7 @@
 # irreverence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irreverence.md)
+
 <p><span class="chinese">他对权威的不敬使他成了一个惹是生非的刺儿头。</span><span class="english">His irreverence for authority marks him out as a troublemaker.</span></p>
 
 <p><span class="chinese">孩子们都喜欢广告里面那种不甚恭敬和讽刺的基调。</span><span class="english">It strikes a tone of irreverence and sarcasm that teenagers often appreciate.</span></p>

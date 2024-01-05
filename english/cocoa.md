@@ -1,5 +1,7 @@
 # cocoa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cocoa.md)
+
 <p><span class="chinese">可可泡芙</span><span class="english">Cocoa Puffs.</span></p>
 
 <p><span class="chinese">可可脂、可可油。</span><span class="english">Cocoa butter, fat and oil.</span></p>

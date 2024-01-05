@@ -1,5 +1,7 @@
 # 大喊大叫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dahandajiao.md)
+
 <p><span class="chinese">我对着他大喊大叫。</span><span class="english">I shouted at him.</span></p>
 
 <p><span class="chinese">不要对我大喊大叫。</span><span class="english">Don't shout at me.</span></p>

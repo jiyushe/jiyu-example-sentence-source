@@ -1,5 +1,7 @@
 # 大势已去
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dashiyiqu.md)
+
 <p><span class="chinese">于是天平严重倾斜，大势已去，我的左手回天乏术。</span><span class="english">So the balance is clined seriously. my left hand failed.</span></p>
 
 <p><span class="chinese">他明白自己在选举中大势已去，于是承认失败。</span><span class="english">When it was clear that he would lose the election, he conceded defeat.</span></p>

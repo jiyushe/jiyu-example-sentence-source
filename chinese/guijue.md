@@ -1,5 +1,7 @@
 # 诡谲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guijue.md)
+
 <p><span class="chinese">这里的天气诡谲多变。</span><span class="english">The weather here is treacherous.</span></p>
 
 <p><span class="chinese">海，真是个诡谲多变的怪物。</span><span class="english">The sea, is really a volatile monster.</span></p>

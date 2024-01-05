@@ -1,5 +1,7 @@
 # 偏心轮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianxinlun.md)
+
 <p><span class="chinese">那是个偏心轮。</span><span class="english">That is an eccentric wheel.</span></p>
 
 <p><span class="chinese">偏心轮可能与凸轮轴是一体的，也可能是通过螺钉连接的。</span><span class="english">The eccentric may be part of the camshaft itself or may bolt to it.</span></p>

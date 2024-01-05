@@ -1,5 +1,7 @@
 # simple
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/simple.md)
+
 <p><span class="chinese">非常简单</span><span class="english">Very simple.</span></p>
 
 <p><span class="chinese">很容易理解。</span><span class="english">So this is simple.</span></p>

@@ -1,5 +1,7 @@
 # 总指挥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongzhihui.md)
+
 <p><span class="chinese">这话听上去就像一个总指挥说的那样。</span><span class="english">It makes him sound like a commander-in-chief.</span></p>
 
 <p><span class="chinese">他任命格兰特为联邦军的总指挥。</span><span class="english">Grant was appointed general in chief of the Union army.</span></p>

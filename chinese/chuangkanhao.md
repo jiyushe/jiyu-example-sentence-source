@@ -1,5 +1,7 @@
 # 创刊号
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuangkanhao.md)
+
 <p><span class="chinese">画报的创刊号一举成功。</span><span class="english">The first number of the pictorial leaped straight to success.</span></p>
 
 <p><span class="chinese">创刊号是永远不会过时的文献资料。</span><span class="english">The opening number is the documents and materials never out of date.</span></p>

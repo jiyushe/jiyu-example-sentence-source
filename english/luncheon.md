@@ -1,5 +1,7 @@
 # luncheon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luncheon.md)
+
 <p><span class="chinese">今天的午餐特菜是什么？</span><span class="english">What's the luncheon special today?</span></p>
 
 <p><span class="chinese">授奖仪式在一个午宴上进行。</span><span class="english">The presentation was to be made at a luncheon.</span></p>

@@ -1,5 +1,7 @@
 # 相约
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangyue_1.md)
+
 <p><span class="chinese">相约爱到永远永远。</span><span class="english">And swore eternal love.</span></p>
 
 <p><span class="chinese">品味生活，相约帝豪！</span><span class="english">Taste life, meet in Royal!</span></p>

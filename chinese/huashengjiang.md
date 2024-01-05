@@ -1,5 +1,7 @@
 # 花生酱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huashengjiang.md)
+
 <p><span class="chinese">日式花生酱？</span><span class="english">Japanese peanut butter?</span></p>
 
 <p><span class="chinese">我朋友非常喜欢吃花生酱。</span><span class="english">I am buddy-buddy with him.</span></p>

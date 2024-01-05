@@ -1,5 +1,7 @@
 # 生物制品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengwuzhipin.md)
+
 <p><span class="chinese">沈阳中普生物制品有限公司。</span><span class="english">In Shenyang Pu biological preparations Limited company.</span></p>
 
 <p><span class="chinese">这种清洁炉子是考生物制品、天然气或者太阳能驱动的。</span><span class="english">Clean cook stoves would run on biomass, gas, or solar power.</span></p>

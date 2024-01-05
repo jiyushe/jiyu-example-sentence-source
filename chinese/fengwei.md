@@ -1,5 +1,7 @@
 # 凤尾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengwei.md)
+
 <p><span class="chinese">台湾凤尾蕨科之孢子形态。</span><span class="english">Title Spore morphology of Formosan Pteridaceae.</span></p>
 
 <p><span class="chinese">凤尾香罗薄几重，碧文圆顶夜深缝。</span><span class="english">Hong Luo thin Pteris several heavy, Bi Wen night dome slit.</span></p>

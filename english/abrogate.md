@@ -1,5 +1,7 @@
 # abrogate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abrogate.md)
+
 <p><span class="chinese">政府可以取消任何不公平的条约。</span><span class="english">A government may abrogate any unfair treaties.</span></p>
 
 <p><span class="chinese">下一任首相可能会废除这个条约。</span><span class="english">The next prime minister could abrogate the treaty.</span></p>

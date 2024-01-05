@@ -1,5 +1,7 @@
 # stewardship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stewardship.md)
+
 <p><span class="chinese">广州利运，您专业的优质空气管家。</span><span class="english">Liyun, your high quality air stewardship.</span></p>
 
 <p><span class="chinese">这就是管理工作和责任制的意义。</span><span class="english">This is what is meant by stewardship and accountability.</span></p>

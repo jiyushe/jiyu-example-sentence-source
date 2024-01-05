@@ -1,5 +1,7 @@
 # contiguity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contiguity.md)
+
 <p><span class="chinese">邻接处消除了建筑物之间的残余空间。</span><span class="english">Contiguity eliminates residual spaces between buildings.</span></p>
 
 <p><span class="chinese">住宅和车库毗邻，这在天气不好的时候是很方便的。</span><span class="english">The contiguity of the house and the garage was a convenience in bad weather.</span></p>

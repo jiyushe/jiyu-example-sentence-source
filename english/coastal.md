@@ -1,5 +1,7 @@
 # coastal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coastal.md)
+
 <p><span class="chinese">台风侵袭沿海地区。</span><span class="english">The typhoon hit the coastal areas.</span></p>
 
 <p><span class="chinese">超级台风将肆虐沿海的城市。</span><span class="english">Super-hurricanes hit coastal cities.</span></p>

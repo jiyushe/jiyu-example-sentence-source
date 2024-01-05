@@ -1,5 +1,7 @@
 # accoutrements
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accoutrements.md)
+
 <p><span class="chinese">他们好像对财富的积累没有什么兴趣。</span><span class="english">They seem uninterested in the accoutrements of wealth.</span></p>
 
 <p><span class="chinese">奥巴马已经为接任总统做好了准备。</span><span class="english">Mr Obama now has all the accoutrements of a president-in-waiting.</span></p>

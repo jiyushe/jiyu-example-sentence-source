@@ -1,5 +1,7 @@
 # cruzeiro
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cruzeiro.md)
+
 <p><span class="chinese">如果有报价，这是我和俱乐部都是好消息。</span><span class="english">If there was an offer, it would be good for me and Cruzeiro.</span></p>
 
 <p><span class="chinese">克鲁塞罗前锋克莱伯表示利物浦已经着手他的转会。</span><span class="english">Cruzeiro striker Kleber claims Liverpool have made an approach for his services.</span></p>

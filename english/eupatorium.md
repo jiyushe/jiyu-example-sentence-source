@@ -1,5 +1,7 @@
 # eupatorium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eupatorium.md)
+
 <p><span class="chinese">毒性紫茎泽兰经预处理并沼气发酵后，能制成饲料。</span><span class="english">Toxicant eupatorium adenophorum spreng can be used as a feedstuff after methane fermented.</span></p>
 
 <p><span class="chinese">目的研究紫荆泽兰挥发油的化学成分。</span><span class="english">Objective To investigate the chemical constituents of essential oil in Eupatorium adenophorum.</span></p>

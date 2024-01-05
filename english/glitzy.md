@@ -1,5 +1,7 @@
 # glitzy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glitzy.md)
+
 <p><span class="chinese">巧立名目的各个培训中心刚刚开始创立。</span><span class="english">The glitzy training centres are only the beginning.</span></p>
 
 <p><span class="chinese">棕榈泉有高档的餐厅和奢华的夜生活。</span><span class="english">Palm Springs has ritzy restaurants and glitzy nightlife.</span></p>

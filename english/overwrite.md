@@ -1,5 +1,7 @@
 # overwrite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overwrite.md)
+
 <p><span class="chinese">我认为现在许多作家都爱写长篇大论。</span><span class="english">I think many writers now overwrite.</span></p>
 
 <p><span class="chinese">每次运行覆盖日志文件。</span><span class="english">Overwrite the log file for every run.</span></p>

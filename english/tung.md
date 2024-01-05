@@ -1,5 +1,7 @@
 # tung
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tung.md)
+
 <p><span class="chinese">彤彤是我的表妹。</span><span class="english">Tung Tung is my cousin.</span></p>
 
 <p><span class="chinese">肥东是侧田学教授。</span><span class="english">Tung is a justinology professor.</span></p>

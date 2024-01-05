@@ -1,5 +1,7 @@
 # seeder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seeder.md)
+
 <p><span class="chinese">老师，您就是这希看与幸福的播种人！</span><span class="english">Teacher, you is this watch the seeder with happiness!</span></p>
 
 <p><span class="chinese">提出了一种基于CAN总线的精密播种机监控系统。</span><span class="english">The monitor system of precision seeder based on CAN-bus is proposed.</span></p>

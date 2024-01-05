@@ -1,5 +1,7 @@
 # 横溢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hengyi.md)
+
 <p><span class="chinese">一群才情横溢的天才。</span><span class="english">A group of most talented geniuses.</span></p>
 
 <p><span class="chinese">早在他去世前很久，他横溢的音乐才华就成为了传奇。</span><span class="english">Up to the time of his death, his notable make him become the legendry figue in music.</span></p>

@@ -1,5 +1,7 @@
 # 学会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuehui.md)
+
 <p><span class="chinese">学会了一种新的旋舞？</span><span class="english">A new dance turn.</span></p>
 
 <p><span class="chinese">学会如何拓展人际网。</span><span class="english">Learn how to network.</span></p>

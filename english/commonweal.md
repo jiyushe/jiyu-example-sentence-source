@@ -1,5 +1,7 @@
 # commonweal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commonweal.md)
+
 <p><span class="chinese">或许我们能拯救联邦。</span><span class="english">Or we can save the commonweal th.</span></p>
 
 <p><span class="chinese">因为这是伍泰洋自己的公益家园。</span><span class="english">Because it is my commonweal home of myself.</span></p>

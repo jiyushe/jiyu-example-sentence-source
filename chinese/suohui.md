@@ -1,5 +1,7 @@
 # 索贿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suohui.md)
+
 <p><span class="chinese">钓鱼垃圾邮件是一种特定类型的信息，即个人信息的索贿对象。</span><span class="english">Phishing is a specific type of spam message that solicits personal information from the recipient.</span></p>
 
 <p><span class="chinese">宴请、礼物和其他类似的索贿最令人头疼。</span><span class="english">“Requests for hospitality, gifts and similar favors are among the most difficult areas, ” she said.</span></p>

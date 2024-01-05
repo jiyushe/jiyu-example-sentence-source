@@ -1,5 +1,7 @@
 # fasten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fasten.md)
+
 <p><span class="chinese">这门关不上。</span><span class="english">The door will not fasten.</span></p>
 
 <p><span class="chinese">拿盖儿把这个罐子盖紧。</span><span class="english">Fasten the lid on the jar.</span></p>

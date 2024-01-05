@@ -1,5 +1,7 @@
 # 徐缓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuhuan.md)
+
 <p><span class="chinese">这一段必须节奏徐缓。</span><span class="english">This passage must be played andante.</span></p>
 
 <p><span class="chinese">“你不能继续跟他住在一起了，”海丝特说，语气徐缓而坚定。</span><span class="english">"Thou must dwell no longer with this man, " said Hester, slowly and firmly.</span></p>

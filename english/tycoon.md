@@ -1,5 +1,7 @@
 # tycoon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tycoon.md)
+
 <p><span class="chinese">他是一位实业界巨子。</span><span class="english">He is a business tycoon.</span></p>
 
 <p><span class="chinese">他想把它叫做“大款蒂姆”。</span><span class="english">He wants to all it Tycoon Tim.</span></p>

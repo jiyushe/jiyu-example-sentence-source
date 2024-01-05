@@ -1,5 +1,7 @@
 # 辛辣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinla.md)
+
 <p><span class="chinese">整道菜口感辛辣又不失美味。</span><span class="english">It is spicy but delicious.</span></p>
 
 <p><span class="chinese">他那辛辣的文笔是麻辣味的。</span><span class="english">His spice blend is a peppery one.</span></p>

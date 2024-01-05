@@ -1,5 +1,7 @@
 # bach
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bach.md)
+
 <p><span class="chinese">巴赫喜欢这个</span><span class="english">Bach would like that.</span></p>
 
 <p><span class="chinese">是巴赫还是贝多芬?</span><span class="english">Is it Bach or is it Beethoven?</span></p>

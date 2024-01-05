@@ -1,5 +1,7 @@
 # 树木
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shumu_1.md)
+
 <p><span class="chinese">取自洋槐等树木的硬木。</span><span class="english">Fir or pine wood.</span></p>
 
 <p><span class="chinese">是的，他们的树木。</span><span class="english">Yes, they’re trees.</span></p>

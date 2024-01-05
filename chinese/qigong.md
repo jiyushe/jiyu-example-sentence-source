@@ -1,5 +1,7 @@
 # 漆工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qigong.md)
+
 <p><span class="chinese">我是漆工。</span><span class="english">I am a painter.</span></p>
 
 <p><span class="chinese">我们公司需要一个漆工。</span><span class="english">Our company needs a painter.</span></p>

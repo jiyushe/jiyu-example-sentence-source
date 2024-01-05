@@ -1,5 +1,7 @@
 # envoy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/envoy.md)
+
 <p><span class="chinese">花，还是季候的使者。</span><span class="english">Flower, or designate an envoy quarter.</span></p>
 
 <p><span class="chinese">使者给我们带回了这个好消息。</span><span class="english">The envoy bore back to us this good news.</span></p>

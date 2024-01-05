@@ -1,5 +1,7 @@
 # 敲竹杠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaozhugang.md)
+
 <p><span class="chinese">买房时他向她敲竹杠。</span><span class="english">He did her down over selling the house.</span></p>
 
 <p><span class="chinese">很好，但是小心别被人敲竹杠！</span><span class="english">Meedhupparu- Good, but don't get ripped off!</span></p>

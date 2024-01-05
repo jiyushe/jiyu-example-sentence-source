@@ -1,5 +1,7 @@
 # necromancy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/necromancy.md)
+
 <p><span class="chinese">我是来取招魂护身符的。</span><span class="english">I have come for the Amulet of Necromancy.</span></p>
 
 <p><span class="chinese">若死灵术离场，埋葬该生物。</span><span class="english">If Necromancy leaves play, bury the creature.</span></p>

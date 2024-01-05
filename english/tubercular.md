@@ -1,5 +1,7 @@
 # tubercular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tubercular.md)
+
 <p><span class="chinese">目的为探讨结节性甲状腺肿术后复发的原因。</span><span class="english">Objective To determine the recurrent reasons about tubercular goiters after operation.</span></p>
 
 <p><span class="chinese">目的探讨高蛋白平衡饮食对结核性胸腔积液患者临床疗效的影响。</span><span class="english">Objective To evaluate the effects of highly balanced protein diet on tubercular chest liquid.</span></p>

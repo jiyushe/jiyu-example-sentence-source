@@ -1,5 +1,7 @@
 # 豚鼠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tunshu.md)
+
 <p><span class="chinese">它只是你的豚鼠！</span><span class="english">It is just your guinea pig!</span></p>
 
 <p><span class="chinese">我们都将是实验中的小豚鼠。</span><span class="english">We will all be guinea pigs.</span></p>

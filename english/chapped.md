@@ -1,5 +1,7 @@
 # chapped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chapped.md)
+
 <p><span class="chinese">我皮肤皲裂。</span><span class="english">I have chapped skin.</span></p>
 
 <p><span class="chinese">我的手皲了。</span><span class="english">My hands are chapped.</span></p>

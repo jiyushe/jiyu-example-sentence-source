@@ -1,5 +1,7 @@
 # collude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collude.md)
+
 <p><span class="chinese">专家说，大多数人和向我们撒谎的人合谋。</span><span class="english">The experts say most of us collude with those who lie to us.</span></p>
 
 <p><span class="chinese">这里面就包含了很多勾通的学问。</span><span class="english">Faced and then included a lot of knowledge for collude with here.</span></p>

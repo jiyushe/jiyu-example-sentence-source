@@ -1,5 +1,7 @@
 # semifinished
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semifinished.md)
+
 <p><span class="chinese">目前使用较多的如各种毛坯石板、木材等。</span><span class="english">Use at present more wait like all sorts of semifinished product flag, lumber.</span></p>
 
 <p><span class="chinese">隔断墙，还原毛坯房，室内全套拆除。</span><span class="english">Off the wall, reducing the semifinished materials room, full indoor demolition.</span></p>

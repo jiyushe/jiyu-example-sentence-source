@@ -1,5 +1,7 @@
 # 上文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangwen.md)
+
 <p><span class="chinese">如果你是上文所描述的是你的真实写照，那么请避免多重任务吧。</span><span class="english">If this is you, avoid multi-tasking.</span></p>
 
 <p><span class="chinese">上文写于二○○七年八月。</span><span class="english">The above was written in August 2007.</span></p>

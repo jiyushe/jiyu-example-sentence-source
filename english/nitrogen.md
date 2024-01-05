@@ -1,5 +1,7 @@
 # nitrogen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nitrogen.md)
+
 <p><span class="chinese">试一下氮气。</span><span class="english">Let's try nitrogen.</span></p>
 
 <p><span class="chinese">对于氮气我们知道什么？</span><span class="english">Well, we know nitrogen has what?</span></p>

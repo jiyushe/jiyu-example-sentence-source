@@ -1,5 +1,7 @@
 # 家电
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiadian.md)
+
 <p><span class="chinese">中国小城市家电市场潜能巨大。</span><span class="english">Big opportunities seen in small cities.</span></p>
 
 <p><span class="chinese">本网站是用于家电产品的网上商城。</span><span class="english">This site is an online mall for home appliances.</span></p>

@@ -1,5 +1,7 @@
 # somebody
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/somebody.md)
+
 <p><span class="chinese">大家再猜猜。</span><span class="english">Somebody else.</span></p>
 
 <p><span class="chinese">有人砍了她一刀。</span><span class="english">Somebody knifed her.</span></p>

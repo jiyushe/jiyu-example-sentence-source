@@ -1,5 +1,7 @@
 # womb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/womb.md)
+
 <p><span class="chinese">我为何不出母胎而死。</span><span class="english">Why died I not from the womb?</span></p>
 
 <p><span class="chinese">从子宫里蹦出来的时候。</span><span class="english">When I popped out of the womb.</span></p>

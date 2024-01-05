@@ -1,5 +1,7 @@
 # filet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/filet.md)
+
 <p><span class="chinese">里脊面小半径。</span><span class="english">Filet surfaces with small radius.</span></p>
 
 <p><span class="chinese">晚餐我打算做菲力牛排。</span><span class="english">I prepared filet mignon for dinner.</span></p>

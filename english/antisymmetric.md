@@ -1,5 +1,7 @@
 # antisymmetric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antisymmetric.md)
+
 <p><span class="chinese">对称部分是实模态摄动，反对称部分是复模态摄动。</span><span class="english">The symmetric perturbation is of real mode and the antisymmetric is of complex mode.</span></p>
 
 <p><span class="chinese">要求反对称波函数的粒子，如电子，叫做费米子。</span><span class="english">Particles, such as electrons, requiring antisymmetric wave functions are called fermions.</span></p>

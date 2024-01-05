@@ -1,5 +1,7 @@
 # 定律
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dinglv.md)
+
 <p><span class="chinese">开始吧，摩尔定律。</span><span class="english">Go, Moore's law.</span></p>
 
 <p><span class="chinese">根据牛顿定律</span><span class="english">We go to Newton.</span></p>

@@ -1,5 +1,7 @@
 # bidirectional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bidirectional.md)
+
 <p><span class="chinese">单向关联优先于双向关联。</span><span class="english">Preferring unidirectional to bidirectional.</span></p>
 
 <p><span class="chinese">接下来重复双向可伸缩性测试。</span><span class="english">Ditto on the bidirectional scalability test.</span></p>

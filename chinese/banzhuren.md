@@ -1,5 +1,7 @@
 # 班主任
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banzhuren.md)
+
 <p><span class="chinese">将小组完成的购物单介绍给班主任老师。</span><span class="english">Show your "shopping list" to your classmate.</span></p>
 
 <p><span class="chinese">法语试卷是我们的班主任出的。</span><span class="english">The French paper was set by our form teacher.</span></p>

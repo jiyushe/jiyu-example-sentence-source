@@ -1,5 +1,7 @@
 # 火柴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huochai.md)
+
 <p><span class="chinese">他划了一根火柴。</span><span class="english">He struck a match.</span></p>
 
 <p><span class="chinese">这火柴檫不着。</span><span class="english">The match won't grab.</span></p>

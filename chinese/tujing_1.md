@@ -1,5 +1,7 @@
 # 图景
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tujing_1.md)
+
 <p><span class="chinese">记住大图景。</span><span class="english">Remeber the Big Picture.</span></p>
 
 <p><span class="chinese">他能够看到更远大的图景。</span><span class="english">He can see the bigger picture.</span></p>

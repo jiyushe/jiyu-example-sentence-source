@@ -1,5 +1,7 @@
 # gunther
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gunther.md)
+
 <p><span class="chinese">猜根特刚找到什么了？</span><span class="english">Guess what Gunther found?</span></p>
 
 <p><span class="chinese">德国医生冈瑟•冯•哈根斯公布了这一声明。</span><span class="english">The claim was made by German doctor Gunther von Hagens.</span></p>

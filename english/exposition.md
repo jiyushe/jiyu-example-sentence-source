@@ -1,5 +1,7 @@
 # exposition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exposition.md)
+
 <p><span class="chinese">花博会的展期将持续至明年4月25日。</span><span class="english">The exposition will last until April 25 next year.</span></p>
 
 <p><span class="chinese">那部电影的情节和故事阐述真是超级烂。</span><span class="english">The movie's exposition and plotting are mega-lame.</span></p>

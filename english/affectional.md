@@ -1,5 +1,7 @@
 # affectional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/affectional.md)
+
 <p><span class="chinese">我很喜欢她的爱情歌曲。</span><span class="english">I am fond of her affectional songs.</span></p>
 
 <p><span class="chinese">嘉莉立刻感觉到气氛的变化。</span><span class="english">Carrie realised the change of affectional atmosphere at once.</span></p>

@@ -1,5 +1,7 @@
 # plastering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plastering.md)
+
 <p><span class="chinese">末了，有空时在再涂上更多的灰泥。</span><span class="english">Then, when there is time more plastering.</span></p>
 
 <p><span class="chinese">当然你要注意别贪嘴涂抹过多的花生酱，毕竟它拥有较高的卡路里含量。</span><span class="english">Just don't gonutty plastering on the tasty spread, since it is high in calories.</span></p>

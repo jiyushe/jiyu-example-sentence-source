@@ -1,5 +1,7 @@
 # babi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/babi.md)
+
 <p><span class="chinese">“确实没错。”爸爸说。</span><span class="english">"Indeed it is, " said Babi.</span></p>
 
 <p><span class="chinese">娘子谷是乌克兰首都基辅的一条沟壑。</span><span class="english">Babi Yar is a ravine in Kiev, the capital of Ukraine.</span></p>

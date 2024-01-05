@@ -1,5 +1,7 @@
 # luminol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luminol.md)
+
 <p><span class="chinese">鲁米诺是一种化学发光物质。</span><span class="english">Luminol is a chemiluminescent compound.</span></p>
 
 <p><span class="chinese">将发光氨喷在这些痕迹上，就可以使他们可见了。</span><span class="english">Spraying luminol on the traces makes them visible.</span></p>

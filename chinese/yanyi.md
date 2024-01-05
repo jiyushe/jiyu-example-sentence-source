@@ -1,5 +1,7 @@
 # 演义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanyi.md)
+
 <p><span class="chinese">没有演义厅和迪吧！</span><span class="english">There are no historical novel hall and Di!</span></p>
 
 <p><span class="chinese">二月河先生是一位清史演义题材的著名小说家。</span><span class="english">Mr. Er Yuehe is a celebrated novelist on Qing Dynasty.</span></p>

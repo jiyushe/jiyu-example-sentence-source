@@ -1,5 +1,7 @@
 # comedic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comedic.md)
+
 <p><span class="chinese">她写些带有黑色喜剧主题的奇怪歌曲。</span><span class="english">She writes strange songs with dark comedic themes.</span></p>
 
 <p><span class="chinese">我喜欢他的具有喜剧风格的作品。</span><span class="english">I like his books,which were styled with comedic manner.</span></p>

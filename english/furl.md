@@ -1,5 +1,7 @@
 # furl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/furl.md)
+
 <p><span class="chinese">但我卷起来浸泡帆。</span><span class="english">But I furl the soak sails.</span></p>
 
 <p><span class="chinese">妈妈边说边卷起裤脚。</span><span class="english">Mom say while furl trouser.</span></p>

@@ -1,5 +1,7 @@
 # serviceman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/serviceman.md)
+
 <p><span class="chinese">我会马上安排一个维修人员过去的。</span><span class="english">I am going to send a serviceman out right away.</span></p>
 
 <p><span class="chinese">一个中国顶级特种兵的传奇经历，一部中国军人百炼成钢的全景记录。</span><span class="english">This book is a legend of a China's top special serviceman.</span></p>

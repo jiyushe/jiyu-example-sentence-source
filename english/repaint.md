@@ -1,5 +1,7 @@
 # repaint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repaint.md)
+
 <p><span class="chinese">好让我们可以粉刷。</span><span class="english">So that we can repaint it.</span></p>
 
 <p><span class="chinese">重新粉刷厨房？对啊。</span><span class="english">A. Repaint the kitchen?Yes.</span></p>

@@ -1,5 +1,7 @@
 # 献礼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianli_1.md)
+
 <p><span class="chinese">它也许是种族合作的一大献礼。</span><span class="english">It is perhaps a fitting tribute to racial co-operation.</span></p>
 
 <p><span class="chinese">不啊。我想去看一些国庆献礼片呢。</span><span class="english">No. I would like to some greeting films for the national day.</span></p>

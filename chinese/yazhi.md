@@ -1,5 +1,7 @@
 # 压制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yazhi.md)
+
 <p><span class="chinese">这种金属易于压制。</span><span class="english">This metal extrudes easily.</span></p>
 
 <p><span class="chinese">你没有压制多少。</span><span class="english">You aren't repressing much.</span></p>

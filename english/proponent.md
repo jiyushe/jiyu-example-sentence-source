@@ -1,5 +1,7 @@
 # proponent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proponent.md)
+
 <p><span class="chinese">我是一个目标设定法的倡导者。</span><span class="english">I am a proponent of setting goals.</span></p>
 
 <p><span class="chinese">你成为了某一目标的口头拥护者。</span><span class="english">You are a vocal proponent for a cause.</span></p>

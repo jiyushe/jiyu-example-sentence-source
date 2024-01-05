@@ -1,5 +1,7 @@
 # millimeter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/millimeter.md)
+
 <p><span class="chinese">玻璃盖片的厚度仅0.1毫米左右。</span><span class="english">The product is only 0.1 millimeter thick.</span></p>
 
 <p><span class="chinese">一毫米是一米的千分之一。</span><span class="english">A millimeter is one-thousandth of a meter.</span></p>

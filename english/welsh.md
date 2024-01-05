@@ -1,5 +1,7 @@
 # welsh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/welsh.md)
+
 <p><span class="chinese">这个威尔士语的地名可译成“兰兹角”。</span><span class="english">The Welsh names as 'Land's End'.</span></p>
 
 <p><span class="chinese">威尔士语是威尔士地区使用的母语。</span><span class="english">Welsh is spoken natively in Wales.</span></p>

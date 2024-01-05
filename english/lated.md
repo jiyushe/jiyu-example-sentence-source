@@ -1,5 +1,7 @@
 # lated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lated.md)
+
 <p><span class="chinese">今天至少有六个人迟到。</span><span class="english">At least six people lated today.</span></p>
 
 <p><span class="chinese">下过大雪后有几个村子与外界隔绝了。</span><span class="english">Several villages have been iso lated by heavy snow falls.</span></p>

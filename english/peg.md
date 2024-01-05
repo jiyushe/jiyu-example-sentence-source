@@ -1,5 +1,7 @@
 # peg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peg.md)
+
 <p><span class="chinese">木栓或木钉。</span><span class="english">A wooden peg or pin.</span></p>
 
 <p><span class="chinese">门背后有个衣帽钉。</span><span class="english">There is a peg behind the door.</span></p>

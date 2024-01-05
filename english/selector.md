@@ -1,5 +1,7 @@
 # selector
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/selector.md)
+
 <p><span class="chinese">一个1字节的选择符域。</span><span class="english">A 1-byte selector field.</span></p>
 
 <p><span class="chinese">通过全局选择器。</span><span class="english">Through the global selector.</span></p>

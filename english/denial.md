@@ -1,5 +1,7 @@
 # denial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/denial.md)
+
 <p><span class="chinese">那否认的瞳仁。</span><span class="english">The pupil in denial.</span></p>
 
 <p><span class="chinese">我认为这种想法就是在否认问题。</span><span class="english">I think this is simply denial.</span></p>

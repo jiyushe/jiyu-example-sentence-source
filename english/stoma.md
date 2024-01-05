@@ -1,5 +1,7 @@
 # stoma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stoma.md)
+
 <p><span class="chinese">旱地龙可有效地缩小叶面气孔开度。</span><span class="english">FA could decrease the opening degree of wheat stoma.</span></p>
 
 <p><span class="chinese">滙宝销售多个品牌的造口产品，满足您的不同需要！</span><span class="english">Various Brands of Stoma Products are available at Solutions!</span></p>

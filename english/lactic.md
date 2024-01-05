@@ -1,5 +1,7 @@
 # lactic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lactic.md)
+
 <p><span class="chinese">较少发生乳酸欣中衡。</span><span class="english">Little has the lactic acid joyful to weigh.</span></p>
 
 <p><span class="chinese">氨甲环酸丙二醇，甘油，乳酸等。</span><span class="english">Propylene glycol , Glycerine , Lactic acid and other.</span></p>

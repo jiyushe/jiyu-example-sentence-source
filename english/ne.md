@@ -1,5 +1,7 @@
 # ne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ne.md)
+
 <p><span class="chinese">炮泥的作用是什么？</span><span class="english">What is the role ne?</span></p>
 
 <p><span class="chinese">东北德克萨斯州的喀多族人。</span><span class="english">Caddo people of NE Texas.</span></p>

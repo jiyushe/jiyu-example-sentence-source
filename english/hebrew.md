@@ -1,5 +1,7 @@
 # Hebrew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hebrew.md)
+
 <p><span class="chinese">犹太教的希伯来圣经。</span><span class="english">It's the Hebrew Bible for Judaism.</span></p>
 
 <p><span class="chinese">我也在校外的希伯来语学校教书</span><span class="english">I also teach Hebrew school off campus</span></p>

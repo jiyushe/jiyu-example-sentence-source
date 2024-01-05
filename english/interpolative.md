@@ -1,5 +1,7 @@
 # interpolative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interpolative.md)
+
 <p><span class="chinese">而采用KH线性插值推理也存在着难以保证推理结果的凸性和正规性等问题。</span><span class="english">It is also difficult to keep convexity and normality using KH linear interpolative reasoning method.</span></p>
 
 <p><span class="chinese">目的模糊插值推理逐渐成为处理稀疏规则库的重要推理方法。</span><span class="english">Aim Fuzzy interpolative reasoning has become an important approach to solve the problem of sparse rules.</span></p>

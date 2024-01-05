@@ -1,5 +1,7 @@
 # saccharomyces
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saccharomyces.md)
+
 <p><span class="chinese">酿酒酵母被青霉菌固定。</span><span class="english">Saccharomyces cerevisiae was immobilized by Penicillium.</span></p>
 
 <p><span class="chinese">非致病的酿酒酵母不能形成生物膜。</span><span class="english">But nonpathogenic Saccharomyces cerevisiae couldn't produce biofilm.</span></p>

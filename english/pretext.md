@@ -1,5 +1,7 @@
 # pretext
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pretext.md)
+
 <p><span class="chinese">他以喉痛作为不去学校的借口。</span><span class="english">He used his sick as a pretext for not going to school.</span></p>
 
 <p><span class="chinese">这就让美英联军寻到了借口。</span><span class="english">This allows to find a pretext for the US-British coalition.</span></p>

@@ -1,5 +1,7 @@
 # enjoyable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enjoyable.md)
+
 <p><span class="chinese">这是一次令人愉快的讨论。</span><span class="english">It was an enjoyable discussion.</span></p>
 
 <p><span class="chinese">查理和我发现这是令人高兴的事情。</span><span class="english">Charlie and I find this enjoyable.</span></p>

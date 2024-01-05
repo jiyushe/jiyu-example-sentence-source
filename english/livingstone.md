@@ -1,5 +1,7 @@
 # livingstone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/livingstone.md)
+
 <p><span class="chinese">然而，利文斯通当选也有很多不足。</span><span class="english">Still, there are drawbacks to a Livingstone candidacy.</span></p>
 
 <p><span class="chinese">戴维‧李文斯顿是来自苏格兰的医生及探险家。</span><span class="english">David Livingstone was a doctor and explorer from Scotland.</span></p>

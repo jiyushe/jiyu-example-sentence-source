@@ -1,5 +1,7 @@
 # depressor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/depressor.md)
+
 <p><span class="chinese">减压神经切断组。</span><span class="english">Severing of depressor nerve.</span></p>
 
 <p><span class="chinese">向嘴角伸长你的舌头顶住压舌器。</span><span class="english">pressing against a tongue depressor.</span></p>

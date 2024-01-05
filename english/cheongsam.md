@@ -1,5 +1,7 @@
 # cheongsam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cheongsam.md)
+
 <p><span class="chinese">人们把它叫做旗袍。</span><span class="english">People call it a cheongsam.</span></p>
 
 <p><span class="chinese">玛莎拿出一件中国旗袍展示给我们看。</span><span class="english">Martha held out a cheongsam for us to look.</span></p>

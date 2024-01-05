@@ -1,5 +1,7 @@
 # cement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cement.md)
+
 <p><span class="chinese">我想是用水泥封住的。</span><span class="english">I think it's cement.</span></p>
 
 <p><span class="chinese">装水泥的搅拌罐可旋转！</span><span class="english">Cement drum really turns!</span></p>

@@ -1,5 +1,7 @@
 # impetuous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impetuous.md)
+
 <p><span class="chinese">我的精神！你就是我，鲁莽者！</span><span class="english">My spirit! Be thou me, impetuous one!</span></p>
 
 <p><span class="chinese">浮躁的欢喜或悲哀，不过是一些过眼烟云。</span><span class="english">The joy or sorrow, impetuous but some ephemeral.</span></p>

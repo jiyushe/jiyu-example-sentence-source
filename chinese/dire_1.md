@@ -1,5 +1,7 @@
 # 地热
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dire_1.md)
+
 <p><span class="chinese">这蕴藏着丰富的地热资源。</span><span class="english">It riches in geothermal resources.</span></p>
 
 <p><span class="chinese">Ormat在内华达州的地热发电厂</span><span class="english">An Ormat geothermal power plant in Nevada.</span></p>

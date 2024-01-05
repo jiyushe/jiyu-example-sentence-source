@@ -1,5 +1,7 @@
 # 精神焕发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingshenhuanfa.md)
+
 <p><span class="chinese">清新的空气使我再次精神焕发。</span><span class="english">All this fresh air reinvigorated me.</span></p>
 
 <p><span class="chinese">在晨曦中醒来精神焕发！</span><span class="english">Wake up bright in the morning light.</span></p>

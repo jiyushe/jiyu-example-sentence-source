@@ -1,5 +1,7 @@
 # supercontinent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supercontinent.md)
+
 <p><span class="chinese">一个超大陆的形成使地幔绝热。</span><span class="english">The formation of a supercontinent insulates the mantle.</span></p>
 
 <p><span class="chinese">这是一块形成于30亿年前的超级大陆。</span><span class="english">That was a supercontinent that formed 300 million years ago.</span></p>

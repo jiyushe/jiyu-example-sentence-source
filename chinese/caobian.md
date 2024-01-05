@@ -1,5 +1,7 @@
 # 草编
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caobian.md)
+
 <p><span class="chinese">牛仔帽！虽然是草编的，但还是很有型！</span><span class="english">The straw cowboy hat looks so cool on her!</span></p>
 
 <p><span class="chinese">这个草编花篮十分精致。</span><span class="english">This reed-woven flower basket is very refined.</span></p>

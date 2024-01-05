@@ -1,5 +1,7 @@
 # company 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/company.md)
+
 <p><span class="chinese">我们一起去的。</span><span class="english">We went in company.</span></p>
 
 <p><span class="chinese">那个公司在哪儿？</span><span class="english">Wheres the company?</span></p>

@@ -1,5 +1,7 @@
 # 势头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shitou.md)
+
 <p><span class="chinese">从未有任何势头。</span><span class="english">There never was any momentum.</span></p>
 
 <p><span class="chinese">如果mo，mo代表势头。</span><span class="english">If mo, mo stands for momentum.</span></p>

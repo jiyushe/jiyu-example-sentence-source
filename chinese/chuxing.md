@@ -1,5 +1,7 @@
 # 出行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuxing.md)
+
 <p><span class="chinese">无车出行。</span><span class="english">Go car-free.</span></p>
 
 <p><span class="chinese">猎户将出行。</span><span class="english">A-hunting we will go.</span></p>

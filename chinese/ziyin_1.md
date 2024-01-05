@@ -1,5 +1,7 @@
 # 滋阴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziyin_1.md)
+
 <p><span class="chinese">功效滋阴补血。</span><span class="english">Efficacy nourishing blood.</span></p>
 
 <p><span class="chinese">滋阴润肺好，煮粥加银耳。</span><span class="english">Yin lungs and good, porridge plus Tremella.</span></p>

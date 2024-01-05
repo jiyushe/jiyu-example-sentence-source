@@ -1,5 +1,7 @@
 # 唏嘘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xixu.md)
+
 <p><span class="chinese">生命竟是如此脆弱！你走了，徒留人间的一片唏嘘！</span><span class="english">Life is so weak! You had gone, only white space left!</span></p>
 
 <p><span class="chinese">全班人对我的建议报以一片唏嘘声。</span><span class="english">The class greeted my suggestion with boos and hisses.</span></p>

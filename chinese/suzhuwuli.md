@@ -1,5 +1,7 @@
 # 诉诸武力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suzhuwuli.md)
+
 <p><span class="chinese">你们不应该诉诸武力。</span><span class="english">You should not appeal to force.</span></p>
 
 <p><span class="chinese">决不准许诉诸武力。</span><span class="english">In no case must force be resorted to.</span></p>

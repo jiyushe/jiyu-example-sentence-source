@@ -1,5 +1,7 @@
 # 木床
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muchuang.md)
+
 <p><span class="chinese">那具未曾烧尽的尸体还蜷缩在木床的余烬里。</span><span class="english">She had to sift ashes from the cinders.</span></p>
 
 <p><span class="chinese">他正在一张手工雕刻的木床上睡觉。</span><span class="english">He was sleeping on a hand-carved wooden bed.</span></p>

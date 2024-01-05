@@ -1,5 +1,7 @@
 # 琳琅满目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linlangmanmu.md)
+
 <p><span class="chinese">商店的橱窗里陈列的商品琳琅满目，熠熠生辉。</span><span class="english">Shop windows display of goods dazzling, brilliant.</span></p>
 
 <p><span class="chinese">治疗的产品琳琅满目，但疗效因人而异，用假发套来掩饰常被人一眼看穿。</span><span class="english">Treatment products full of beautiful things in eyes, but with a.</span></p>

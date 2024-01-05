@@ -1,5 +1,7 @@
 # 迥异
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiongyi.md)
+
 <p><span class="chinese">实际上是由三个迥异的连接器组成。</span><span class="english">There are really three fundamentally different linkers.</span></p>
 
 <p><span class="chinese">斯托帕得笔下的人物迥异于今天的俄罗斯人。</span><span class="english">Mr Stoppard's characters are strangers in today's Russia.</span></p>

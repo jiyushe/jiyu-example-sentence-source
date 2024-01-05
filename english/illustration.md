@@ -1,5 +1,7 @@
 # illustration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illustration.md)
+
 <p><span class="chinese">她给我们例证。</span><span class="english">She gave us an illustration.</span></p>
 
 <p><span class="chinese">他用仿制品作插图。</span><span class="english">He dummied in an illustration.</span></p>

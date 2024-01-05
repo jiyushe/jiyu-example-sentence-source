@@ -1,5 +1,7 @@
 # 离休
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lixiu.md)
+
 <p><span class="chinese">本表不包括民政部门支付离休、退休、退职费的人数。</span><span class="english">Excluded retired and resigned staff and workers Paid by the civil adminstrtion organs.</span></p>
 
 <p><span class="chinese">本表不包括民政部门支付离休、退休、退职费的人数。</span><span class="english">Excluded retired and resigned staff and workers paid by the civil adminstration depts.</span></p>

@@ -1,5 +1,7 @@
 # irvine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irvine.md)
+
 <p><span class="chinese">这是加州大学欧文分校生物科学院的网站。</span><span class="english">This is a full-time position in Irvine , California.</span></p>
 
 <p><span class="chinese">只有奥德尔与欧文身体状况尚好，可以陪同他。</span><span class="english">Only Odell and Irvine were in a fit state to partner him.</span></p>

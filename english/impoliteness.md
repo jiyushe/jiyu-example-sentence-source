@@ -1,5 +1,7 @@
 # impoliteness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impoliteness.md)
+
 <p><span class="chinese">他的态度近乎不礼貌。</span><span class="english">His manner verges on impoliteness.</span></p>
 
 <p><span class="chinese">他的无礼举止受到了严厉的批评。</span><span class="english">He was scourged for his impoliteness.</span></p>

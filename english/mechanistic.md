@@ -1,5 +1,7 @@
 # mechanistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mechanistic.md)
+
 <p><span class="chinese">以机械论者的标准，基因-文化的协同进化是有道理的。</span><span class="english">At a mechanistic level, gene-culture co-evolution makes sense.</span></p>
 
 <p><span class="chinese">作为一个生命系统，它的无生气、机械的构成体也是它生命的一部。</span><span class="english">As a living system, its inert, mechanistic parts are part of its life.</span></p>

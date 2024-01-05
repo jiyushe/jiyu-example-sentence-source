@@ -1,5 +1,7 @@
 # limo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/limo.md)
+
 <p><span class="chinese">但是他有一辆豪华轿车。</span><span class="english">But he has a limo.</span></p>
 
 <p><span class="chinese">新娘搭礼车至婚礼现场。</span><span class="english">The bride rode in a limo to the wedding.</span></p>

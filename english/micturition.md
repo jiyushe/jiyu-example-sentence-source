@@ -1,5 +1,7 @@
 # micturition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/micturition.md)
+
 <p><span class="chinese">排尿或咳嗽也可诱发疼痛。</span><span class="english">Micturition or cough also can cause ache.</span></p>
 
 <p><span class="chinese">未成功者采用开塞露纳肛方法及行留置导尿术。</span><span class="english">To adopt suggestion way in her mind to induce micturition.</span></p>

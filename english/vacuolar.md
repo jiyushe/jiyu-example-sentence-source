@@ -1,5 +1,7 @@
 # vacuolar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vacuolar.md)
+
 <p><span class="chinese">空泡变的骨骼肌纤维强烈表达S100。</span><span class="english">S100 was strongest in skeletal muscle fibers with vacuolar change.</span></p>
 
 <p><span class="chinese">当出芽开始时，液泡的氨基酸库被利用。</span><span class="english">The vacuolar amino acid pool is utilized during initiation of budding.</span></p>

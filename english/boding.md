@@ -1,5 +1,7 @@
 # boding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boding.md)
+
 <p><span class="chinese">在每一个国家里都有经常预报国家即将毁灭的悲观主义者。</span><span class="english">There are croakers in every country, always boding its ruin.</span></p>
 
 <p><span class="chinese">到处窃窃私语，人人脸上露出不祥的焦虑。</span><span class="english">Whispers passed along, and a boding uneasiness took possession of every countenance.</span></p>

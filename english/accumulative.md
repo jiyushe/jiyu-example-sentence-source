@@ -1,5 +1,7 @@
 # accumulative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accumulative.md)
+
 <p><span class="chinese">那我就失去了累计帐户的优势，对吗？</span><span class="english">Then I lose the advantages of an accumulative account , don't I ?</span></p>
 
 <p><span class="chinese">采用高空拼装、逐榀累积滑移的施工方案进行钢屋盖的拼装。</span><span class="english">The steel roof was accumulative slipped and assembled at high altitude.</span></p>

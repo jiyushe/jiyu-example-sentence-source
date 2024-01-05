@@ -1,5 +1,7 @@
 # 失势
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishi_6.md)
+
 <p><span class="chinese">老布什和他的政党都已失势。</span><span class="english">The man is spent, and his party with him.</span></p>
 
 <p><span class="chinese">很明显当嘻哈失势的时候，黑人也将失势。</span><span class="english">And when hip hop loses, apparently black people lose.</span></p>

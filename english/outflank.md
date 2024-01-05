@@ -1,5 +1,7 @@
 # outflank
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outflank.md)
+
 <p><span class="chinese">一个大的战略上的侧翼包围…</span><span class="english">A vast, strategic maneuver to outflank.</span></p>
 
 <p><span class="chinese">适当的公平准确的说是为包庇这些权利扩大化而设计出来的。</span><span class="english">Proper justice is designed precisely to outflank such escalation.</span></p>

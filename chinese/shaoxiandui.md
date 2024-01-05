@@ -1,5 +1,7 @@
 # 少先队
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaoxiandui.md)
+
 <p><span class="chinese">少先队日快乐！</span><span class="english">Happy pioneer’s day!</span></p>
 
 <p><span class="chinese">你什么时候加入少先队的？</span><span class="english">When did you join the Leage Youth?</span></p>

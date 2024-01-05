@@ -1,5 +1,7 @@
 # 搪塞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tangse.md)
+
 <p><span class="chinese">他的搪塞之词是有根源的。</span><span class="english">He had good reason to prevaricate.</span></p>
 
 <p><span class="chinese">他试图用话把自己的错误搪塞过去。</span><span class="english">He tried to argue away his mistake.</span></p>

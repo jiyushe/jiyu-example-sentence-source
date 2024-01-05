@@ -1,5 +1,7 @@
 # goodnight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goodnight.md)
+
 <p><span class="chinese">我对他说，晚安。</span><span class="english">I say, goodnight.</span></p>
 
 <p><span class="chinese">晚安各位。</span><span class="english">Goodnight everyone.</span></p>

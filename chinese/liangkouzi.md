@@ -1,5 +1,7 @@
 # 两口子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangkouzi.md)
+
 <p><span class="chinese">这两口子常吵架。</span><span class="english">The couple often disagreed.</span></p>
 
 <p><span class="chinese">从那以后，两口子一直回避着新闻媒体。</span><span class="english">Since then, the pair have avoided the media.</span></p>

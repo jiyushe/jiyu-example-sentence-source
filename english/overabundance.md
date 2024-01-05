@@ -1,5 +1,7 @@
 # overabundance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overabundance.md)
+
 <p><span class="chinese">精力过于充沛的青少年。</span><span class="english">Teenagers with an overabundance of energy.</span></p>
 
 <p><span class="chinese">水资源的过多或过少都会导致危机。</span><span class="english">Water resources overabundance or shortage will result in crisis.</span></p>

@@ -1,5 +1,7 @@
 # eclosion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eclosion.md)
+
 <p><span class="chinese">处理的幼虫化蛹率，羽化而受阻。</span><span class="english">The pupation and eclosion were hindered by treatment of larvae.</span></p>
 
 <p><span class="chinese">芫菁雄虫羽化后0～30天无论在形态还是斑蝥素合成量方面都发生了显著变化。</span><span class="english">Male blister beetle undergo significant changes in morphology and cantharidin content during the 0-30 days after eclosion.</span></p>

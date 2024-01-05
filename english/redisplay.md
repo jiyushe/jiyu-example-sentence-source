@@ -1,5 +1,7 @@
 # redisplay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redisplay.md)
+
 <p><span class="chinese">再生当前线束并重新显示缆。</span><span class="english">Regenerate current harness and redisplay cables.</span></p>
 
 <p><span class="chinese">自由立体显示技术可以再现丢失的深度信息。</span><span class="english">Autostereoscopic display technology can redisplay the lost depth information.</span></p>

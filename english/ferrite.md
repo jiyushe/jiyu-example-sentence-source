@@ -1,5 +1,7 @@
 # ferrite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ferrite.md)
+
 <p><span class="chinese">单孔，双孔及多孔可供选择。</span><span class="english">Single and double ferrite beads.</span></p>
 
 <p><span class="chinese">铁素体和碳组成低碳钢。</span><span class="english">Ferrite and carbon constitute the mild steel.</span></p>

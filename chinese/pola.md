@@ -1,5 +1,7 @@
 # 泼辣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pola.md)
+
 <p><span class="chinese">我喜欢风格泼辣的文章。</span><span class="english">I like essays with an acrid flavour.</span></p>
 
 <p><span class="chinese">被认为是不名誉的或泼辣的女人。</span><span class="english">A woman regarded as disreputable or shrewish.</span></p>

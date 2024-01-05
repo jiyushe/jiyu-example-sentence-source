@@ -1,5 +1,7 @@
 # 重音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongyin_1.md)
+
 <p><span class="chinese">她的英语是无重音的。</span><span class="english">Her English is unaccented.</span></p>
 
 <p><span class="chinese">我们来看这句，重音在哪？</span><span class="english">Let's do that line. Accents here?</span></p>

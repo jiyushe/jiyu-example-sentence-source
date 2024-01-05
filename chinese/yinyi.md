@@ -1,5 +1,7 @@
 # 隐逸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinyi.md)
+
 <p><span class="chinese">第四章主要是隐逸传的文学价值的探讨。</span><span class="english">Chapter 4 mainly explored literal values of the biographies.</span></p>
 
 <p><span class="chinese">它和兰花一样，象征着隐逸的美。</span><span class="english">Like the orchid flower, it typifies the idea of charm in seclusion.</span></p>

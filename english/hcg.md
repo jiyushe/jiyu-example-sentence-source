@@ -1,5 +1,7 @@
 # hcg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hcg.md)
+
 <p><span class="chinese">所有5例患者都出现脑脊液和血清HCG水平升高。</span><span class="english">CSF and serum HCG levels were elevated in the all 5 patients.</span></p>
 
 <p><span class="chinese">HCG水平是否应该在怀孕前期每48小时翻倍？</span><span class="english">Should HCG levels double every 48 hours during early pregnancy?</span></p>

@@ -1,5 +1,7 @@
 # orient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orient.md)
+
 <p><span class="chinese">去东方广场怎么走？</span><span class="english">How can I go to the Orient Plaza?</span></p>
 
 <p><span class="chinese">香港是东方之珠吗？</span><span class="english">Hong Kong is the Pearl of the Orient?</span></p>

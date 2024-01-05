@@ -1,5 +1,7 @@
 # sickly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sickly.md)
+
 <p><span class="chinese">她是个多病的孩子。</span><span class="english">He is a sickly child.</span></p>
 
 <p><span class="chinese">我能问一下假期和病假的情况吗？</span><span class="english">Can I ask about the vocation and sickly?</span></p>

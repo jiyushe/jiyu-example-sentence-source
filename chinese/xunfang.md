@@ -1,5 +1,7 @@
 # 寻访
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xunfang.md)
+
 <p><span class="chinese">让我们去寻访神秘的喀纳斯湖吧。</span><span class="english">Let's take a trip to the mysterious Kanas Lake.</span></p>
 
 <p><span class="chinese">怀着哀痛的心情，他重新寻访了他所心爱的旧游地。</span><span class="english">With an aching heart, he had revisited his beloved haunts.</span></p>

@@ -1,5 +1,7 @@
 # airstrip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/airstrip.md)
+
 <p><span class="chinese">岛上甚至有私家飞机跑道。</span><span class="english">The island even has its own private airstrip.</span></p>
 
 <p><span class="chinese">一架喷气式飞机滑行并降落在一个偏僻的飞机跑道上。</span><span class="english">A jet plane lands and taxis onto a remote airstrip.</span></p>

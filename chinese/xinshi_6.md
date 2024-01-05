@@ -1,5 +1,7 @@
 # 新诗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinshi_6.md)
+
 <p><span class="chinese">第三章阿垅新诗创作对其诗论的体现。</span><span class="english">Chapter III A Long Poem Writing Poetry reflects its.</span></p>
 
 <p><span class="chinese">在音乐会上，歌唱家朗诵了一些新诗。</span><span class="english">The singer pontificated some new poems at the concert.</span></p>

@@ -1,5 +1,7 @@
 # cup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cup.md)
+
 <p><span class="chinese">夺杯荣耀！</span><span class="english">Cup glory!</span></p>
 
 <p><span class="chinese">茶杯把儿！</span><span class="english">Cup handles!</span></p>

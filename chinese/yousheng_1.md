@@ -1,5 +1,7 @@
 # 优胜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yousheng_1.md)
+
 <p><span class="chinese">这匹马已经繁殖了好几匹比赛优胜马。</span><span class="english">This horse has sired several race winners.</span></p>
 
 <p><span class="chinese">他们面临去年的优胜强手的严重威胁。</span><span class="english">They face a mauling by last year's winners.</span></p>

@@ -1,5 +1,7 @@
 # slobber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slobber.md)
+
 <p><span class="chinese">不过大狗太爱流口水了。</span><span class="english">Butt big dogs slobber way too much.</span></p>
 
 <p><span class="chinese">但是它们所产生的吸引力却是免费的。</span><span class="english">But the slobber and attention is free!</span></p>

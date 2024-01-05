@@ -1,5 +1,7 @@
 # cytometry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cytometry.md)
+
 <p><span class="chinese">采用四聚体技术，运用流式细胞仪检测病毒特异性CTL。</span><span class="english">Flow cytometry was used to exam viral specific CTL.</span></p>
 
 <p><span class="chinese">通过流式细胞仪检测转染细胞DAF的表达情况。</span><span class="english">The expression of DAF was assayed by flow cytometry.</span></p>

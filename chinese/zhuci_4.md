@@ -1,5 +1,7 @@
 # 祝辞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuci_4.md)
+
 <p><span class="chinese">是民间广为流传的吉祥祝辞。</span><span class="english">It is widely circulated on the auspicious message.</span></p>
 
 <p><span class="chinese">石头在吉姆和辛迪婚礼上的祝辞很富有幽默。</span><span class="english">Stone's speech at Jim and Cindy's wedding was full of humor.</span></p>

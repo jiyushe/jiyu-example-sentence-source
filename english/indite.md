@@ -1,5 +1,7 @@
 # indite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indite.md)
+
 <p><span class="chinese">创作圆舞曲我是一窍不通。</span><span class="english">I'm hopeless how to indite a waltz.</span></p>
 
 <p><span class="chinese">在我做完这些事情之后我怎么还可以给你写信呢？</span><span class="english">How could I indite to you after what Id done?</span></p>

@@ -1,5 +1,7 @@
 # hypochondriasis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypochondriasis.md)
+
 <p><span class="chinese">这类表现则不属于疑病性神经症。</span><span class="english">This kind of expression does not belong to hypochondriasis sex neurosis.</span></p>
 
 <p><span class="chinese">正如焦虑可以用药物治疗一样，疑病症也能。</span><span class="english">Just as anxiety can be treated with medication, hypochondriasis can, too.</span></p>

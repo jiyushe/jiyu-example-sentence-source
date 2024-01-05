@@ -1,5 +1,7 @@
 # sweepstakes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sweepstakes.md)
+
 <p><span class="chinese">谨防假冒的在线抽奖和有奖活动</span><span class="english">Beware of Fake Online Sweepstakes and Contests</span></p>
 
 <p><span class="chinese">就这点儿论，你得遵守你家乡所在的州有关抽奖的法律。</span><span class="english">As such, you are subject to the laws of your home state regarding sweepstakes.</span></p>

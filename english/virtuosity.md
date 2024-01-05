@@ -1,5 +1,7 @@
 # virtuosity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/virtuosity.md)
+
 <p><span class="chinese">有力协作和个人技能都是必不可少的。</span><span class="english">Strong collaboration and individual virtuosity are both required.</span></p>
 
 <p><span class="chinese">小提琴家的精湛技艺使全世界的观众惊诧不已。</span><span class="english">The violinist's virtuosity has amazed audiences all over the world.</span></p>

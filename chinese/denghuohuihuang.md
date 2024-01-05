@@ -1,5 +1,7 @@
 # 灯火辉煌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/denghuohuihuang.md)
+
 <p><span class="chinese">街上灯火辉煌。</span><span class="english">The street is aflame with lamps.</span></p>
 
 <p><span class="chinese">大厅灯火辉煌。</span><span class="english">The hall was ablazed with lights.</span></p>

@@ -1,5 +1,7 @@
 # 周缘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhouyuan.md)
+
 <p><span class="chinese">在欧亚大陆周缘地带将出现三大势力。</span><span class="english">Three powers are emerging on the periphery of Eurasia.</span></p>
 
 <p><span class="chinese">图7-17臼杯周缘以内部分的应变引起臼杯不稳。</span><span class="english">Figure 7-17 Destabilization of cup from strains medial to rim.</span></p>

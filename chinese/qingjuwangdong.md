@@ -1,5 +1,7 @@
 # 轻举妄动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingjuwangdong.md)
+
 <p><span class="chinese">如果你只是乐观而已，千万不要轻举妄动。</span><span class="english">Never make a move if you are merely optimistic.</span></p>
 
 <p><span class="chinese">没钱又没见识的我们自然小心翼翼不敢轻举妄动。</span><span class="english">No money and no wise naturally we carefully offend.</span></p>

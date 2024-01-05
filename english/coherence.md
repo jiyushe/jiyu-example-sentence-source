@@ -1,5 +1,7 @@
 # coherence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coherence.md)
+
 <p><span class="chinese">第二，激光具有相干性。</span><span class="english">Second, the laser has a coherence.</span></p>
 
 <p><span class="chinese">所思所想也融贯在这条长廊中。</span><span class="english">Coherence also are thinking in this gallery.</span></p>

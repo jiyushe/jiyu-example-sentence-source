@@ -1,5 +1,7 @@
 # 苦不堪言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kubukanyan.md)
+
 <p><span class="chinese">仅仅面对家里的杂乱不堪，你就可能会苦不堪言。</span><span class="english">Just facing the piles of clutter in your home can be overwhelming.</span></p>
 
 <p><span class="chinese">你可能会说，事实上“开放”使客户的生活苦不堪言。</span><span class="english">Truth is, you could argue that “open” makes the customer’s life miserable.</span></p>

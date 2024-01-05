@@ -1,5 +1,7 @@
 # infinitely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infinitely.md)
+
 <p><span class="chinese">天主是全善的么？</span><span class="english">Is God infinitely good?</span></p>
 
 <p><span class="chinese">或者宇宙又是无限的大。</span><span class="english">Or it might be infinitely big.</span></p>

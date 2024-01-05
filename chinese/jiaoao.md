@@ -1,5 +1,7 @@
 # 骄傲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoao.md)
+
 <p><span class="chinese">我为它感到骄傲</span><span class="english">I'm very proud of it.</span></p>
 
 <p><span class="chinese">他骄傲地笑了。</span><span class="english">And he smiled proudly.</span></p>

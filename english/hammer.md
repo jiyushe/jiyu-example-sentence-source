@@ -1,5 +1,7 @@
 # hammer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hammer.md)
+
 <p><span class="chinese">放下撞槌。</span><span class="english">Hammer down.</span></p>
 
 <p><span class="chinese">锤子与钉子？</span><span class="english">Hammer and nail?</span></p>

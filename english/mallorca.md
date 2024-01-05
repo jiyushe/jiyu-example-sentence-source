@@ -1,5 +1,7 @@
 # mallorca
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mallorca.md)
+
 <p><span class="chinese">我们在马洛卡玩得很开心，尼尔。</span><span class="english">Having a great time here in Mallorca. Neil.</span></p>
 
 <p><span class="chinese">在马略卡岛上的其他地方还可以找到更漂亮的海滩。</span><span class="english">There are nicer bays to be found on Mallorca.</span></p>

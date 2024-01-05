@@ -1,5 +1,7 @@
 # cooperate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cooperate.md)
+
 <p><span class="chinese">希望我们合作愉快。</span><span class="english">I hoped we can cooperate happily.</span></p>
 
 <p><span class="chinese">协助处理公司行政事务。</span><span class="english">Cooperate to handle clerical work.</span></p>

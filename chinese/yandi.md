@@ -1,5 +1,7 @@
 # 炎帝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yandi.md)
+
 <p><span class="chinese">他们知道了炎帝和黄帝。</span><span class="english">They knew Huang emperor and Yan emperor.</span></p>
 
 <p><span class="chinese">传说蚩尤部落为了扩大自己的地盘，同炎帝部落发生了战争。</span><span class="english">Legend has it that the Jiuli attacked Yandi's tribe.</span></p>

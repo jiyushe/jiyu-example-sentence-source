@@ -1,5 +1,7 @@
 # 改进
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaijin.md)
+
 <p><span class="chinese">我正在努力。我正在学习。我正在处理。我正在改进。</span><span class="english">I’m working on-it.</span></p>
 
 <p><span class="chinese">要么结束，要么改进。</span><span class="english">End dit or mend it.</span></p>

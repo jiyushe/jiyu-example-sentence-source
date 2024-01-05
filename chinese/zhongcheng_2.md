@@ -1,5 +1,7 @@
 # 忠诚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongcheng_2.md)
+
 <p><span class="chinese">他一向忠诚老实。</span><span class="english">He is always honest.</span></p>
 
 <p><span class="chinese">忠诚的人从不撒谎。</span><span class="english">Leal heart lied never.</span></p>

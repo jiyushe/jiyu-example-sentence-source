@@ -1,5 +1,7 @@
 # 侄儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhier.md)
+
 <p><span class="chinese">我是你的侄儿，麦罗斯叔叔。</span><span class="english">I'm your niece, Uncle Melrose.</span></p>
 
 <p><span class="chinese">夫人认为秦琼就是自己的侄儿。</span><span class="english">Lady think QinQiong is his nephew.</span></p>

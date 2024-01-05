@@ -1,5 +1,7 @@
 # incisively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incisively.md)
+
 <p><span class="chinese">所谓的粪，在今天的社会里表现得淋漓尽致。</span><span class="english">So-called muck, in today's society show incisively and vividly.</span></p>
 
 <p><span class="chinese">这一夜，我和妩媚，重获了久违的、淋漓尽致的快乐。</span><span class="english">This one night, I and charm, recovery long-unseen, the joy of incisively and vividly.</span></p>

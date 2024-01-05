@@ -1,5 +1,7 @@
 # milligram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/milligram.md)
+
 <p><span class="chinese">美国心脏协会建议不超过300毫克每天。</span><span class="english">The American Heart Association recommends no more than 300 milligram per day.</span></p>
 
 <p><span class="chinese">他们称成年人一次不能摄入超过650毫克的扑热息痛。</span><span class="english">They said adults should not take more than 650 milligram milligrams at a time.</span></p>

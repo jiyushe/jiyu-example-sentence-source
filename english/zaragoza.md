@@ -1,5 +1,7 @@
 # zaragoza
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zaragoza.md)
+
 <p><span class="chinese">于是我花了四个小时从萨拉戈萨赶往马德里。</span><span class="english">So I made the four-hour trip from Zaragoza to Madrid.</span></p>
 
 <p><span class="chinese">在对萨拉戈萨进了一球之后你觉得怎么样？</span><span class="english">How do you feel after scoring a goal against Zaragoza?</span></p>

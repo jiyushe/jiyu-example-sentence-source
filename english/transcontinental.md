@@ -1,5 +1,7 @@
 # transcontinental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transcontinental.md)
+
 <p><span class="chinese">北方森林是横贯大陆的。</span><span class="english">The boreal forest is transcontinental.</span></p>
 
 <p><span class="chinese">第一条横跨美国大陆的铁路于1869年建成。</span><span class="english">The first U. S. transcontinental railroad was completed in 1869.</span></p>

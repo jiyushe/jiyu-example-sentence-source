@@ -1,5 +1,7 @@
 # 无机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuji_4.md)
+
 <p><span class="chinese">填加无机耐热填料石英粉。</span><span class="english">Inorganic filler, such as quartz powder, was filled.</span></p>
 
 <p><span class="chinese">它还被漆上无机富锌底漆。</span><span class="english">It was also painted with inorganic zinc-rich primer.</span></p>

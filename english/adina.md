@@ -1,5 +1,7 @@
 # adina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adina.md)
+
 <p><span class="chinese">她刚刚在一个买一赠一的促销活动中为艾迪娜买了两件时髦衬衫。</span><span class="english">Mom just bought Adina two stylish shirts at a buy-one, get-one-free promotion.</span></p>
 
 <p><span class="chinese">流便人示撒的儿子亚第拿，他是流便支派中的一个族长，率领三十人。</span><span class="english">Adina son of Shiza the Reubenite, who was chief of the Reubenites, and the thirty with him</span></p>

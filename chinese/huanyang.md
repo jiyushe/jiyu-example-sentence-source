@@ -1,5 +1,7 @@
 # 豢养
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanyang.md)
+
 <p><span class="chinese">坎巴人为了农耕而豢养大象。</span><span class="english">Kamba people raise elephants for farming.</span></p>
 
 <p><span class="chinese">几年前，动物园在小笼子里豢养各种各样的动物。</span><span class="english">Years ago, zoos kept all kinds of animals in small cages.</span></p>

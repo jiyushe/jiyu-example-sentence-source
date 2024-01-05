@@ -1,5 +1,7 @@
 # 冤枉路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanwanglu.md)
+
 <p><span class="chinese">多走拉好多冤枉路。</span><span class="english">Go pull many wrongs.</span></p>
 
 <p><span class="chinese">怕问路，要迷路。嘴勤不走冤枉路。</span><span class="english">Afraid to ask, get lost. Mouth do not go astray.</span></p>

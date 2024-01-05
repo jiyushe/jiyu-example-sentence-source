@@ -1,5 +1,7 @@
 # crest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crest.md)
+
 <p><span class="chinese">那只公鸡竖起冠子。</span><span class="english">The cock bristled up his crest.</span></p>
 
 <p><span class="chinese">六盘山上高峰。</span><span class="english">Of Spiral Mountain at the crest.</span></p>

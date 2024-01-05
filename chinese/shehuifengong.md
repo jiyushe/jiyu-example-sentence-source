@@ -1,5 +1,7 @@
 # 社会分工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shehuifengong.md)
+
 <p><span class="chinese">其二，它的社会分工和分层的产物。</span><span class="english">It is products of social divisions and stratum.</span></p>
 
 <p><span class="chinese">那是社会分工中女性的角色。</span><span class="english">That would be the feminine contribution to the betterment of society.</span></p>

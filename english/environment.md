@@ -1,5 +1,7 @@
 # environment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/environment.md)
+
 <p><span class="chinese">这里定义了一个全局变量。</span><span class="english">in this global environment.</span></p>
 
 <p><span class="chinese">创造更平静的环境。</span><span class="english">Create a calmer environment.</span></p>

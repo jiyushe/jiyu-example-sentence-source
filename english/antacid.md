@@ -1,5 +1,7 @@
 # antacid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antacid.md)
+
 <p><span class="chinese">谁有抗酸剂或者重碳酸盐苏打水么?。</span><span class="english">Anybody got any antacid or bicarbonate of soda?</span></p>
 
 <p><span class="chinese">哦，这有些抗酸剂，你吃过这个么？</span><span class="english">Oh, here's some antacid. Have you ever tried this?</span></p>

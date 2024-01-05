@@ -1,5 +1,7 @@
 # 牙刷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yashua.md)
+
 <p><span class="chinese">我只卖出5把牙刷。</span><span class="english">I only sold 5 toothbrushes.</span></p>
 
 <p><span class="chinese">我可以借你的牙刷吗?。</span><span class="english">MayI borrow your toothbrush ?</span></p>

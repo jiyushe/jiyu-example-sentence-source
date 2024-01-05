@@ -1,5 +1,7 @@
 # reconfirmation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reconfirmation.md)
+
 <p><span class="chinese">我需要再确认一次么？</span><span class="english">Do I have to make reconfirmation.</span></p>
 
 <p><span class="chinese">我需要再确认吗？</span><span class="english">Do I have to make a reconfirmation?</span></p>

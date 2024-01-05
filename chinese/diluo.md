@@ -1,5 +1,7 @@
 # 低落
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diluo.md)
+
 <p><span class="chinese">今天上午她情绪有点低落。</span><span class="english">She's a bit down this morning.</span></p>
 
 <p><span class="chinese">跳跃，低落，生来受苦。</span><span class="english">Jumped, humped, born to suffer.</span></p>

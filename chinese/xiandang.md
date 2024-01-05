@@ -1,5 +1,7 @@
 # 闲荡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiandang.md)
+
 <p><span class="chinese">他们老是在闲荡。</span><span class="english">They are always dawdling.</span></p>
 
 <p><span class="chinese">独自沮丧地闲荡？</span><span class="english">Alone and palely loitering?</span></p>

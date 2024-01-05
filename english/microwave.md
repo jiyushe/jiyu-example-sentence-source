@@ -1,5 +1,7 @@
 # microwave
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microwave.md)
+
 <p><span class="chinese">微波炉发出叮铛的响声。</span><span class="english">The microwave dings.</span></p>
 
 <p><span class="chinese">看看我们的新微波炉。</span><span class="english">Look at our new microwave.</span></p>

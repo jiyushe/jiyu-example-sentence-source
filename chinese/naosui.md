@@ -1,5 +1,7 @@
 # 脑髓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naosui.md)
+
 <p><span class="chinese">我吃脑髓。</span><span class="english">Me eat brains!</span></p>
 
 <p><span class="chinese">还有比僵尸吃掉脑髓更恐怖的事情吗？</span><span class="english">What's worse than zombies who eat brains?</span></p>

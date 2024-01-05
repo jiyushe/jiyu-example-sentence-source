@@ -1,5 +1,7 @@
 # luff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luff.md)
+
 <p><span class="chinese">转舵背风！</span><span class="english">Luff the helm!</span></p>
 
 <p><span class="chinese">在一面主帆上，帆前缘被连接到桅杆上。</span><span class="english">On a mainsail, the luff attaches to the mast.</span></p>

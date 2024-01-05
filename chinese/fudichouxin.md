@@ -1,5 +1,7 @@
 # 釜底抽薪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fudichouxin.md)
+
 <p><span class="chinese">在阿富汗，塔利班的动力将被釜底抽薪。</span><span class="english">In Afghanistan, the Taliban's momentum will be broken.</span></p>
 
 <p><span class="chinese">为了扭转局势，唯有釜底抽薪炸掉威力最大的坦克。</span><span class="english">In order to turn things around, only the most powerful tank consulting blow up.</span></p>

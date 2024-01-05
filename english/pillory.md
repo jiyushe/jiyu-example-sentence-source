@@ -1,5 +1,7 @@
 # pillory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pillory.md)
+
 <p><span class="chinese">世人对它大加嘲笑，有时甚至因它把人送上断头台。</span><span class="english">The world mocks at it, and sometimes puts one in the pillory of it.</span></p>
 
 <p><span class="chinese">那些看起来有罪的人会从法庭上被直接拉出去示众吗？</span><span class="english">Will those found guilty be dragged straight from the court to the pillory?</span></p>

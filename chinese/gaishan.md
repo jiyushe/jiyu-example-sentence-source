@@ -1,5 +1,7 @@
 # 改善
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaishan.md)
+
 <p><span class="chinese">我们如何能够改善通勤之旅呢？</span><span class="english">How can we ease commutes?</span></p>
 
 <p><span class="chinese">它将改善机动性。</span><span class="english">It will improve mobility.</span></p>

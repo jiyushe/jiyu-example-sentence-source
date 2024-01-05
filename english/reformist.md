@@ -1,5 +1,7 @@
 # reformist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reformist.md)
+
 <p><span class="chinese">他投票支持革新派的候选人。</span><span class="english">He cast his vote for the reformist candidate.</span></p>
 
 <p><span class="chinese">作为主导面，郑观应是民族资本家和改良主义者。</span><span class="english">The dominant hand, Cheng view should be the national capitalists and reformist.</span></p>

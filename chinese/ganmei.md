@@ -1,5 +1,7 @@
 # 甘美
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganmei.md)
+
 <p><span class="chinese">热带地区出产甘美的水果。</span><span class="english">Tropical zones breed luscious fruits.</span></p>
 
 <p><span class="chinese">我用呼吸造成甘美的气候。</span><span class="english">Creating a sweet climate by my breath.</span></p>

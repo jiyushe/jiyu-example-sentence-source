@@ -1,5 +1,7 @@
 # beverly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beverly.md)
+
 <p><span class="chinese">我搬到比佛利山庄了。</span><span class="english">I've moved to Beverly Hills.</span></p>
 
 <p><span class="chinese">艾丽丝·库柏，比佛利山庄，1979年。</span><span class="english">Alice Cooper, Beverly Hills, 1979</span></p>

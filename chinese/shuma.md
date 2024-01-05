@@ -1,5 +1,7 @@
 # 数码
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuma.md)
+
 <p><span class="chinese">数码像机是什么时候发明的？</span><span class="english">It was invented in 1975.</span></p>
 
 <p><span class="chinese">我发誓，爱数码宝贝的生命。</span><span class="english">I swear, love Digimon life.</span></p>

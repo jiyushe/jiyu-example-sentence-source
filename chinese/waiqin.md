@@ -1,5 +1,7 @@
 # 外勤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waiqin.md)
+
 <p><span class="chinese">外勤兵提供重型火力支援。</span><span class="english">Field Ops provides more heavy fire power support.</span></p>
 
 <p><span class="chinese">是的，大部分是办公室工作，可有时跑外勤。</span><span class="english">Yes, mostly office work and sometimes running errands.</span></p>

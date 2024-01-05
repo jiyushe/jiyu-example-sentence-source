@@ -1,5 +1,7 @@
 # indoors
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indoors.md)
+
 <p><span class="chinese">我们都把鞋子穿进室内。</span><span class="english">We all keep our shoes on indoors.</span></p>
 
 <p><span class="chinese">在棚室内选育成功的。</span><span class="english">Breeding success indoors in the shed.</span></p>

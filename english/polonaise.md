@@ -1,5 +1,7 @@
 # polonaise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polonaise.md)
+
 <p><span class="chinese">肖邦一共创作了17首波兰舞曲。</span><span class="english">Chopin wrote a total of 17 Polonaise.</span></p>
 
 <p><span class="chinese">G小调波兰舞曲安娜莲娜笔记本。</span><span class="english">Polonaise In G Minor Anna Magdalena Notebook.</span></p>

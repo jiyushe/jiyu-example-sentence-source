@@ -1,5 +1,7 @@
 # punter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/punter.md)
+
 <p><span class="chinese">还是当船夫好呢？</span><span class="english">Or when the punter is good?</span></p>
 
 <p><span class="chinese">作为足球评论员，我一贯都是很冷静的。</span><span class="english">As a punter , I'm pretty cool.</span></p>

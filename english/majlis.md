@@ -1,5 +1,7 @@
 # majlis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/majlis.md)
+
 <p><span class="chinese">一位探险者绳降进入到阿曼的马吉里斯尔金洞穴。</span><span class="english">An explorer descends into the Majlis al Jinn cave in Oman.</span></p>
 
 <p><span class="chinese">在5月份的决选举行之前，伊朗议会的力量平衡还未见分晓。</span><span class="english">The final balance of power in the Majlis will not be known until a runoff election in May.</span></p>

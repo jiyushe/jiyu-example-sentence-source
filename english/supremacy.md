@@ -1,5 +1,7 @@
 # supremacy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supremacy.md)
+
 <p><span class="chinese">拜金主义，金钱至上。</span><span class="english">Money worship, money supremacy.</span></p>
 
 <p><span class="chinese">他们争雄天下。</span><span class="english">They strove for supremacy under heaven.</span></p>

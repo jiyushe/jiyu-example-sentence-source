@@ -1,5 +1,7 @@
 # 步骤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buzhou.md)
+
 <p><span class="chinese">但是请注意刚才我的步骤。</span><span class="english">But notice what I did.</span></p>
 
 <p><span class="chinese">仅执行这些步骤。</span><span class="english">Perform only these steps.</span></p>

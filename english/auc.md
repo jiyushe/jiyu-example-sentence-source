@@ -1,5 +1,7 @@
 # auc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/auc.md)
+
 <p><span class="chinese">结论AUC分析法可用于老年患者丙泊酚药代动力学模型的选择。</span><span class="english">Conclusion Analysis of AUC can be used for identification of pharmacokinetic models of propofol.</span></p>
 
 <p><span class="chinese">丙磺舒可显著地抑制吡哌酸的肾脏排泄，降低其体内清除率，提高血药水平。</span><span class="english">Probenicid could remarkably increase the half-life and AUC of pipemidic acid by reducing its clearance.</span></p>

@@ -1,5 +1,7 @@
 # appreciation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appreciation.md)
+
 <p><span class="chinese">欣赏你自己的身体。</span><span class="english">Appreciation of your body.</span></p>
 
 <p><span class="chinese">李肇星对此表示赞赏。</span><span class="english">Li expressed appreciation for this.</span></p>

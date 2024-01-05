@@ -1,5 +1,7 @@
 # car 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/car_1.md)
+
 <p><span class="chinese">汽车蜡？</span><span class="english">Car wax?</span></p>
 
 <p><span class="chinese">那是我的车。</span><span class="english">That'smy car.</span></p>

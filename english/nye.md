@@ -1,5 +1,7 @@
 # nye
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nye.md)
+
 <p><span class="chinese">您夫奈起头当你查抄到你的房间。</span><span class="english">Your NYE begins when you check into your room.</span></p>
 
 <p><span class="chinese">第四章研究小约瑟夫·奈的新自由主义权力理论。</span><span class="english">Chapter 4 is a study of Joseph S. Nye , Jr. 's neo-liberal notion of power.</span></p>

@@ -1,5 +1,7 @@
 # 河沟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hegou.md)
+
 <p><span class="chinese">这条小河沟几乎干涸了。</span><span class="english">The small brook nearly dried up.</span></p>
 
 <p><span class="chinese">我计划到河对岸最深的河沟，这样就可以把鱼放生。</span><span class="english">My plan is to reach the deep channel on the opposite bank so I can set it free.</span></p>

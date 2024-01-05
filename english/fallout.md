@@ -1,5 +1,7 @@
 # fallout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fallout.md)
+
 <p><span class="chinese">为什么有如此高的淘汰率？</span><span class="english">Why the high fallout rate?</span></p>
 
 <p><span class="chinese">在一段时间内是致命的影响。</span><span class="english">For a time the fallout was deadly.</span></p>

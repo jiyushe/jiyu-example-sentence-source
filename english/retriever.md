@@ -1,5 +1,7 @@
 # retriever
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retriever.md)
+
 <p><span class="chinese">我自己的狗狗，布卡，是一只两岁的黄金猎犬。</span><span class="english">Bucca is a 2 year old golden retriever.</span></p>
 
 <p><span class="chinese">对于一只3岁的金毛寻回犬来说，这实在很不错。</span><span class="english">Not bad, for a 3-year-old Golden Retriever.</span></p>

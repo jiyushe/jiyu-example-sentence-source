@@ -1,5 +1,7 @@
 # mullite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mullite.md)
+
 <p><span class="chinese">采用环缝磨制备了莫来石微粉。</span><span class="english">Micropowder of mullite is manufactured by gap mill.</span></p>
 
 <p><span class="chinese">介绍了多晶莫来石纤维在加热炉上的使用效果。</span><span class="english">Introduced the Mullite More fiber in the use of furnace effect.</span></p>

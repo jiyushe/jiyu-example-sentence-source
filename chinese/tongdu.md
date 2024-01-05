@@ -1,5 +1,7 @@
 # 通读
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongdu.md)
+
 <p><span class="chinese">再次通读你的论文，检查语法错误。</span><span class="english">Re-read your paper for grammatical errors.</span></p>
 
 <p><span class="chinese">建议大家通读一下这篇文章。</span><span class="english">A through reading of this article is commended.</span></p>

@@ -1,5 +1,7 @@
 # 无穷无尽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuqiongwujin.md)
+
 <p><span class="chinese">是无穷无尽的悲伤和叹息。</span><span class="english">If sorrowing and sighing evermore.</span></p>
 
 <p><span class="chinese">如此导致了无穷无尽的无端区分。</span><span class="english">This leads to endless hair-splitting.</span></p>

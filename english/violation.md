@@ -1,5 +1,7 @@
 # violation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/violation.md)
+
 <p><span class="chinese">哎呦，违反停车规则了。</span><span class="english">Oops, parking rules violation.</span></p>
 
 <p><span class="chinese">人权侵害数据库。</span><span class="english">Human rights violation database.</span></p>

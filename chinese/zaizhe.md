@@ -1,5 +1,7 @@
 # 再者
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaizhe.md)
+
 <p><span class="chinese">再者，我当服事谁呢。</span><span class="english">And again, whom should I serve?</span></p>
 
 <p><span class="chinese">再者，这些媒体跳到前线了。</span><span class="english">Moreover, these media leap frontiers.</span></p>

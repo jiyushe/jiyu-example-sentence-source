@@ -1,5 +1,7 @@
 # newfound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/newfound.md)
+
 <p><span class="chinese">这是相对较新的发现。</span><span class="english">This is relatively newfound respect.</span></p>
 
 <p><span class="chinese">让我们创建一个实用程序，以练习您新发现的诀窍。</span><span class="english">Let's create a utility to exercise your newfound mojo.</span></p>

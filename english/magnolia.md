@@ -1,5 +1,7 @@
 # magnolia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magnolia.md)
+
 <p><span class="chinese">我爱玉兰花。</span><span class="english">I love magnolia.</span></p>
 
 <p><span class="chinese">柔和的玫瑰及木兰花味道。</span><span class="english">Soft scents of rose & magnolia.</span></p>

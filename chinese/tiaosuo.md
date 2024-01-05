@@ -1,5 +1,7 @@
 # 挑唆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaosuo.md)
+
 <p><span class="chinese">他挑唆我跳。</span><span class="english">He dared me to jump.</span></p>
 
 <p><span class="chinese">他受了几个旁观者的挑唆。</span><span class="english">He was edged on by a couple of bystanders.</span></p>

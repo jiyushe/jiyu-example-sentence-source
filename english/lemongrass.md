@@ -1,5 +1,7 @@
 # lemongrass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lemongrass.md)
+
 <p><span class="chinese">去年我在那里喝到过柠檬草拿铁。</span><span class="english">Last year I had a lemongrass latte there.</span></p>
 
 <p><span class="chinese">拍松香茅以及南姜，切段。</span><span class="english">Crush the lemongrass and galanga. Cut into sections.</span></p>

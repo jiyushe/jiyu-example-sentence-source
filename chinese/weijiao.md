@@ -1,5 +1,7 @@
 # 围剿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weijiao.md)
+
 <p><span class="chinese">待四十个冬季把你围剿。</span><span class="english">When forty winters shall beseige thy brow.</span></p>
 
 <p><span class="chinese">我单枪匹马被围剿，但我打败了他们。</span><span class="english">I was alone and surrounded and I beat them.</span></p>

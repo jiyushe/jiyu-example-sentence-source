@@ -1,5 +1,7 @@
 # beetroot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beetroot.md)
+
 <p><span class="chinese">甜菜泡沫?</span><span class="english">Beetroot froth?</span></p>
 
 <p><span class="chinese">甜菜根切成4毫米的厚片。</span><span class="english">Slice the cooked beetroot into 4mm thick slices.</span></p>

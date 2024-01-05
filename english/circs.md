@@ -1,5 +1,7 @@
 # circs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/circs.md)
+
 <p><span class="chinese">两个广义圈的环和是一个广义圈。</span><span class="english">The ring sum of two circs is a circ.</span></p>
 
 <p><span class="chinese">您可否让我跟您面谈我的个人情况呢？</span><span class="english">Would you allow me _ to talk about my personal circs _?</span></p>

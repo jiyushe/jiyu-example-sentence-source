@@ -1,5 +1,7 @@
 # colleen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colleen.md)
+
 <p><span class="chinese">比尔和克琳。</span><span class="english">Bill and Colleen.</span></p>
 
 <p><span class="chinese">我和朋友们依旧交好如昔吗？</span><span class="english">Am I still friends with Colleen.</span></p>

@@ -1,5 +1,7 @@
 # cassegrain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cassegrain.md)
+
 <p><span class="chinese">载荷使卡塞格伦天线结构的每个部分发生变形。</span><span class="english">Loads distort every component of the structure of the Cassegrain antenna system.</span></p>
 
 <p><span class="chinese">参与了课题有关卡塞格伦光学天线的设计和测试工作。</span><span class="english">Participate in the design and test of the cassegrain antennas used in one subject.</span></p>

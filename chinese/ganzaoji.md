@@ -1,5 +1,7 @@
 # 干燥剂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganzaoji.md)
+
 <p><span class="chinese">如果包装内部有干燥剂，在包装外必须作出标记</span><span class="english">Package must be marked if desiccant inside</span></p>
 
 <p><span class="chinese">你可尝试使用干燥剂干燥它，并更换电池。</span><span class="english">Try drying it with a desiccant and replacing the battery.</span></p>

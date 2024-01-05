@@ -1,5 +1,7 @@
 # 第一性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diyixing.md)
+
 <p><span class="chinese">软件缺乏法则和第一性原则。</span><span class="english">Software lacks laws and first principles.</span></p>
 
 <p><span class="chinese">他挑战洛克关于物质第一性和第二性的理论。</span><span class="english">He challenges Locke's theory of primary and secondary qualities.</span></p>

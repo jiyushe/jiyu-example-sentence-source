@@ -1,5 +1,7 @@
 # bicolor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bicolor.md)
+
 <p><span class="chinese">它只是面对着几块大石头垂下枝子。</span><span class="english">It is the face of a few large boulders dropped bicolor.</span></p>
 
 <p><span class="chinese">它采用了双色的LED用于监测系统运行。</span><span class="english">It incorporates a bicolor LED for monitoring system operation.</span></p>

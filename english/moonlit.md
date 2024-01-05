@@ -1,5 +1,7 @@
 # moonlit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moonlit.md)
+
 <p><span class="chinese">明月夜，短松冈。</span><span class="english">Moonlit night, stubby pines.</span></p>
 
 <p><span class="chinese">那晚有月亮，周围全是树林。</span><span class="english">The moonlit woods all around.</span></p>

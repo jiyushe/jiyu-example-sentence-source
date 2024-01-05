@@ -1,5 +1,7 @@
 # 燃料油
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ranliaoyou.md)
+
 <p><span class="chinese">常用作聚酰胺树脂合成，热溶胶制造，燃料油，润滑油，压延油，液压油，切削油等的添加剂。</span><span class="english">Often used in polyamide resin synthesis and as a filler of fuel oil lube.</span></p>
 
 <p><span class="chinese">燃料油超深度脱硫已成为世界范围内急需解决的问题之一。</span><span class="english">Ultra-deep desulfurization of fuel oils has become an urgent subject worldwide.</span></p>

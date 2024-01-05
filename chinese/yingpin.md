@@ -1,5 +1,7 @@
 # 应聘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingpin.md)
+
 <p><span class="chinese">应聘者必须拥有令人赏心悦目的体型。</span><span class="english">Must have pleasant nature.</span></p>
 
 <p><span class="chinese">我应聘瑞士汽巴的原因有两个。</span><span class="english">I'm interested in Ciba for two reasons.</span></p>

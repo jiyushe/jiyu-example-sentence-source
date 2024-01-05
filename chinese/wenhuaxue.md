@@ -1,5 +1,7 @@
 # 文化学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenhuaxue.md)
+
 <p><span class="chinese">接受北京汇文语言文化学校对学习的安排。</span><span class="english">I shall accept the arrangement of the school regarding my study.</span></p>
 
 <p><span class="chinese">介绍了翻译的两个主要趋向-语言学趋向和文化学趋向。</span><span class="english">Two main trends in translation studies-linguistic and cultural are introduced.</span></p>

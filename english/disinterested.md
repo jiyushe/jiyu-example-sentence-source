@@ -1,5 +1,7 @@
 # disinterested
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disinterested.md)
+
 <p><span class="chinese">法官应该公平无私。</span><span class="english">A judge should be disinterested.</span></p>
 
 <p><span class="chinese">她对政治不感兴趣。</span><span class="english">She disinterested herself in politics.</span></p>

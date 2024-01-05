@@ -1,5 +1,7 @@
 # bug 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bug.md)
+
 <p><span class="chinese">虫子来播种。</span><span class="english">The bug plats seeds.</span></p>
 
 <p><span class="chinese">这是一个已知的缺陷。</span><span class="english">This is a known bug.</span></p>

@@ -1,5 +1,7 @@
 # promotional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/promotional.md)
+
 <p><span class="chinese">搜索促销资料。</span><span class="english">Look for promotional materials.</span></p>
 
 <p><span class="chinese">也可以做广告促销品！</span><span class="english">Can also advertise promotional items!</span></p>

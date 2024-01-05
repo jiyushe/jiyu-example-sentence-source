@@ -1,5 +1,7 @@
 # resultant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resultant.md)
+
 <p><span class="chinese">它是这两者相互结合的结果。</span><span class="english">It is the resultant from those two.</span></p>
 
 <p><span class="chinese">所有表达式的结果类型</span><span class="english">The resultant type of any expression.</span></p>

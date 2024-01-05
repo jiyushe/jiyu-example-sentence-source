@@ -1,5 +1,7 @@
 # 羊肠线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangchangxian.md)
+
 <p><span class="chinese">钓鱼线是羊肠线做的。</span><span class="english">He is a man with plenty of guts.</span></p>
 
 <p><span class="chinese">钓鱼线是羊肠线做的。</span><span class="english">The fishing line is made of gut.</span></p>

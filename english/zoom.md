@@ -1,5 +1,7 @@
 # zoom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zoom.md)
+
 <p><span class="chinese">虽然喜欢肉，但他不能吃太多，判断题。</span><span class="english">Zoom can eat a lot of beef.</span></p>
 
 <p><span class="chinese">变焦环转动或推拉不畅顺…</span><span class="english">Prime lens has no zoom ring.</span></p>

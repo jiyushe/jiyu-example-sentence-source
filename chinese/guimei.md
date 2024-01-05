@@ -1,5 +1,7 @@
 # 鬼魅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guimei.md)
+
 <p><span class="chinese">犹如巫师吓得鬼魅纷纷溃离。</span><span class="english">Are driven, like ghosts from an enchanter fleeing.</span></p>
 
 <p><span class="chinese">在如此一场被历史所萦绕的比赛中，出现了一个鬼魅般的进球。</span><span class="english">In a fixture haunted by history there was a ghost goal.</span></p>

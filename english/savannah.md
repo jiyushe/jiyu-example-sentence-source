@@ -1,5 +1,7 @@
 # savannah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/savannah.md)
+
 <p><span class="chinese">这是莎文娜。</span><span class="english">This is Savannah.</span></p>
 
 <p><span class="chinese">只对萨凡纳警方说过。</span><span class="english">Just the Savannah police.</span></p>

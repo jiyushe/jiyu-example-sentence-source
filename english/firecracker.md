@@ -1,5 +1,7 @@
 # firecracker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/firecracker.md)
+
 <p><span class="chinese">爆竹嘣地一响。</span><span class="english">The firecracker went bang.</span></p>
 
 <p><span class="chinese">爆竹没响。</span><span class="english">The firecracker didn't go off.</span></p>

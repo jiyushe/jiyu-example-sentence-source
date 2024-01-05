@@ -1,5 +1,7 @@
 # 亲疏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinshu_1.md)
+
 <p><span class="chinese">他们两个都是他的表亲，但在血统上亲疏不同。</span><span class="english">They are both cousins of his, but not of the same degree of propinquity.</span></p>
 
 <p><span class="chinese">他以与吴氏关系亲疏建立了一套等级制度。</span><span class="english">He has created a hierarchy largely determined by closeness to the Wu clan.</span></p>

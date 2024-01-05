@@ -1,5 +1,7 @@
 # 造山运动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaoshanyundong.md)
+
 <p><span class="chinese">这个时期是全面的上升和造山运动。</span><span class="english">The period was one of general emergence and orogeny.</span></p>
 
 <p><span class="chinese">前陆盆地是研究造山运动的关键地区之一。</span><span class="english">Foreland basins are the key areas for the study of orogeny.</span></p>

@@ -1,5 +1,7 @@
 # blur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blur.md)
+
 <p><span class="chinese">接下来的几个月混混沌沌地过去。</span><span class="english">The next few months passed in a blur.</span></p>
 
 <p><span class="chinese">潮纸因墨水弄上污渍。</span><span class="english">The damp paper caused the ink to blur.</span></p>

@@ -1,5 +1,7 @@
 # 心病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinbing.md)
+
 <p><span class="chinese">我的心病消除了。</span><span class="english">I was relieved from anxiety.</span></p>
 
 <p><span class="chinese">但是我必须得这么做，否则我的心病得不到治愈。</span><span class="english">But I had to, or I could not heal.</span></p>

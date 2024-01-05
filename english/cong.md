@@ -1,5 +1,7 @@
 # cong
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cong.md)
+
 <p><span class="chinese">谢谢你，洁聪。</span><span class="english">Thank you Cong.</span></p>
 
 <p><span class="chinese">阮公陶说道。</span><span class="english">Nguyen Cong Tao said.</span></p>

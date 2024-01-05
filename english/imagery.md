@@ -1,5 +1,7 @@
 # imagery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imagery.md)
+
 <p><span class="chinese">如何进行引导式景象刻画?。</span><span class="english">How do you do guided imagery?</span></p>
 
 <p><span class="chinese">用了同一意象。</span><span class="english">It uses the same kind of imagery.</span></p>

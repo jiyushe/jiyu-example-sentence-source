@@ -1,5 +1,7 @@
 # 坐立不安
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuolibuan.md)
+
 <p><span class="chinese">我有些坐立不安。</span><span class="english">I felt a little fidgeted.</span></p>
 
 <p><span class="chinese">简直让我坐立不安！</span><span class="english">She gives me the fidgets!</span></p>

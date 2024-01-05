@@ -1,5 +1,7 @@
 # orienteering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orienteering.md)
+
 <p><span class="chinese">万圣节黑夜定向赛及派对！</span><span class="english">Halloween Night Orienteering and party !</span></p>
 
 <p><span class="chinese">在我八岁的时候，我们才发现定向越野这项运动。</span><span class="english">Finally, at the age of eight, we found orienteering.</span></p>

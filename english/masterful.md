@@ -1,5 +1,7 @@
 # masterful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/masterful.md)
+
 <p><span class="chinese">这些都体现在他1658年创作的大师级自画像。</span><span class="english">This is evident in his masterful self-portrait from 1658.</span></p>
 
 <p><span class="chinese">这一个技巧就能把乏味的食物变得美味。</span><span class="english">This tip alone can transform bland food in to masterful food.</span></p>

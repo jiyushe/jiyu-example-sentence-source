@@ -1,5 +1,7 @@
 # 直译
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiyi_3.md)
+
 <p><span class="chinese">谚语，直译“不要根据书皮来判断书的内容”。</span><span class="english">Don't judge a book by its ver.</span></p>
 
 <p><span class="chinese">你帮我滚木头，我就帮你滚木头…直译真囧。</span><span class="english">You roll my log and I'll roll yours.</span></p>

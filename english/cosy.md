@@ -1,5 +1,7 @@
 # cosy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cosy.md)
+
 <p><span class="chinese">车厢里紧凑而舒适。</span><span class="english">It’s compact but cosy.</span></p>
 
 <p><span class="chinese">冬季必不可少的防寒宝贝，超级保暖。</span><span class="english">Cosy and irresistible to protect baby from winter chills!</span></p>

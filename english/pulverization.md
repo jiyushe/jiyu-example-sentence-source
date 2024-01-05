@@ -1,5 +1,7 @@
 # pulverization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pulverization.md)
+
 <p><span class="chinese">耐热钢在还原性气氛下工作时，常发生粉化剥落现象。</span><span class="english">Refractory steel often occurs pulverization and peeling phenomena.</span></p>
 
 <p><span class="chinese">低温粉碎系统应用它分离粉体并起集粉作用。</span><span class="english">Cryogenic pulverization system uses it to Seperate and collect powder.</span></p>

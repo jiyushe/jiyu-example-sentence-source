@@ -1,5 +1,7 @@
 # maceration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maceration.md)
+
 <p><span class="chinese">结果表明泽兰植株水提液对玉米幼苗根系具强烈的抑制作用。</span><span class="english">The results showed that the maceration extract inhibited the growth of maize seedlings.</span></p>
 
 <p><span class="chinese">完全去梗压榨的葡萄，经过8-10天的浸泡，发酵温度完全控制。</span><span class="english">Fully de-stemmed grapes. 8 to 10 days maceration. Fermentation is temperature controlled.</span></p>

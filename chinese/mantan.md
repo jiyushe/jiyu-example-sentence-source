@@ -1,5 +1,7 @@
 # 漫谈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mantan.md)
+
 <p><span class="chinese">她有个个人漫谈节目。</span><span class="english">She has her own chat show.</span></p>
 
 <p><span class="chinese">他们在漫谈中提供每人的意见。</span><span class="english">They anted up ideas in a general conversation.</span></p>

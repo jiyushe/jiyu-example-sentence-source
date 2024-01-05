@@ -1,5 +1,7 @@
 # 大逆不道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danibudao.md)
+
 <p><span class="chinese">吃了我，就是违抗天帝的命令，就是大逆不道！</span><span class="english">If you eat me, you'll be disobeying the god's order.</span></p>
 
 <p><span class="chinese">18岁没有做什么大逆不道的事情。</span><span class="english">What 18-year-old hasn't done something profoundly stupid?</span></p>

@@ -1,5 +1,7 @@
 # 无穷小
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuqiongxiao.md)
+
 <p><span class="chinese">不为零的无穷小时间间隔</span><span class="english">infinitesimal interval of time not yet 0.</span></p>
 
 <p><span class="chinese">负无穷小于包括其自身在内的任何数。</span><span class="english">Negative Infinity is less than everything including itself.</span></p>

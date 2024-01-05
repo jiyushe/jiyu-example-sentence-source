@@ -1,5 +1,7 @@
 # relentlessly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relentlessly.md)
+
 <p><span class="chinese">雨无情地泼下来。</span><span class="english">Rain started to pour down relentlessly.</span></p>
 
 <p><span class="chinese">那母亲无情地抽打她的孩子。</span><span class="english">The mother belabored her child relentlessly.</span></p>

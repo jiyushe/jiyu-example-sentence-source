@@ -1,5 +1,7 @@
 # 战机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanji.md)
+
 <p><span class="chinese">这是一架古巴的米格-29战机。</span><span class="english">This is A Cuban MiG-29.</span></p>
 
 <p><span class="chinese">苏-25战机翱翔在埃里温蔚蓝的天空。</span><span class="english">The Su-25 in Yerevan’s sky.</span></p>

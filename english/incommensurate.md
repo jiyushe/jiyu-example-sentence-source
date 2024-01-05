@@ -1,5 +1,7 @@
 # incommensurate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incommensurate.md)
+
 <p><span class="chinese">中国的两面性并不匹配。</span><span class="english">The two sides of China are incommensurate.</span></p>
 
 <p><span class="chinese">他的思想和已经变化了的情况不相适应。</span><span class="english">His thinking is incommensurate to the changed conditions.</span></p>

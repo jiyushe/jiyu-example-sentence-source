@@ -1,5 +1,7 @@
 # nephritis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nephritis.md)
+
 <p><span class="chinese">刘娟息有肾炎已经多年。</span><span class="english">Liu Juanxi had nephritis to be already many year.</span></p>
 
 <p><span class="chinese">肾的疾病包括肾功能衰竭、肾结石和肾炎。</span><span class="english">Disorders include kidney failure, kidney stones, and nephritis.</span></p>

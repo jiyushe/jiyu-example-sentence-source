@@ -1,5 +1,7 @@
 # proceeding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proceeding.md)
+
 <p><span class="chinese">工作正在慢慢地继续进行着。</span><span class="english">Work is proceeding slowly.</span></p>
 
 <p><span class="chinese">你船正以危险的速度开航。</span><span class="english">You are proceeding at dangerous speed.</span></p>

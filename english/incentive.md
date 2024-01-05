@@ -1,5 +1,7 @@
 # incentive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incentive.md)
+
 <p><span class="chinese">这是一种奖励。</span><span class="english">Just a little incentive.</span></p>
 
 <p><span class="chinese">然后，嘣，另一个动机。</span><span class="english">Then, boom, another incentive.</span></p>

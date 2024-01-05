@@ -1,5 +1,7 @@
 # 中校
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongxiao.md)
+
 <p><span class="chinese">中校军衔在少校军衔之上。</span><span class="english">A lieutenant-colonel is above a major.</span></p>
 
 <p><span class="chinese">在海军中，上校的军衔高于中校。</span><span class="english">A captain ranks a commander in the navy.</span></p>

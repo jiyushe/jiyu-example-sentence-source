@@ -1,5 +1,7 @@
 # alien
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alien.md)
+
 <p><span class="chinese">尝尝铅弹吧，外星机器人！</span><span class="english">Eat lead, alien robot!</span></p>
 
 <p><span class="chinese">杰克是一个机灵的外侨。</span><span class="english">Jack was an alert alien.</span></p>

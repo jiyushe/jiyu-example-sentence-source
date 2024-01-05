@@ -1,5 +1,7 @@
 # superimposition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superimposition.md)
+
 <p><span class="chinese">思想的形态，它的奇妙就在于莫测的叠印。</span><span class="english">The form of thought, the marvel exactly is the unpredictable superimposition.</span></p>
 
 <p><span class="chinese">这使复杂的调制要建立如噪声叠加。</span><span class="english">This permits complex modulations to be created such as noise superimposition.</span></p>

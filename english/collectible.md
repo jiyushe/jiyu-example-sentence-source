@@ -1,5 +1,7 @@
 # collectible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collectible.md)
+
 <p><span class="chinese">我收藏的钢铁侠公仔也会在我睡觉的时候看着我吗？</span><span class="english">Does my Iron Man collectible figurine watch me when I sleep?</span></p>
 
 <p><span class="chinese">你觉得古董车拍卖火热的原因是什么呢？</span><span class="english">What do you think is driving the strong sales of collectible cars?</span></p>

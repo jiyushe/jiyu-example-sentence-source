@@ -1,5 +1,7 @@
 # pharmacologist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pharmacologist.md)
+
 <p><span class="chinese">弗莱明是苏格兰生物学家，药学家。</span><span class="english">Fleming was a Scottish biologist and pharmacologist.</span></p>
 
 <p><span class="chinese">药理学家们正在认真研究这种药的过敏反应。</span><span class="english">The pharmacologist is studying up to the allergy of the medichine.</span></p>

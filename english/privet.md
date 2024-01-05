@@ -1,5 +1,7 @@
 # privet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/privet.md)
+
 <p><span class="chinese">水腊树也是一种实用且增长迅速的篱壁式植物。</span><span class="english">Privet was also a convenient and fast growing hedge.</span></p>
 
 <p><span class="chinese">长城公司和我答配得非常默契。</span><span class="english">The Great Wall Company and I have privet cooperation.</span></p>

@@ -1,5 +1,7 @@
 # chump
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chump.md)
+
 <p><span class="chinese">他没有像一个笨蛋了。</span><span class="english">He didn't go out like a chump.</span></p>
 
 <p><span class="chinese">对于玛丽巴赫来说，2分钱并非可有可无的零钱。</span><span class="english">For Mary Bach, 2 cents isn't chump change.</span></p>

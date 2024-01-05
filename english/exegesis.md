@@ -1,5 +1,7 @@
 # exegesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exegesis.md)
+
 <p><span class="chinese">那就是评注的工作。</span><span class="english">That's what exegesis does.</span></p>
 
 <p><span class="chinese">治训诂必须通篆籀。</span><span class="english">Governance Exegesis must pass Zhuanzhou.</span></p>

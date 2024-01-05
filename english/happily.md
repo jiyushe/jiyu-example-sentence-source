@@ -1,5 +1,7 @@
 # happily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/happily.md)
+
 <p><span class="chinese">之后幸福永远。</span><span class="english">Happily Ever After.</span></p>
 
 <p><span class="chinese">马修高兴地笑了。</span><span class="english">Matthew smiled happily.</span></p>

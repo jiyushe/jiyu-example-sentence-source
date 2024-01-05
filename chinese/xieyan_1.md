@@ -1,5 +1,7 @@
 # 泻盐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xieyan_1.md)
+
 <p><span class="chinese">泻盐是一种促使肠子运动的药物。</span><span class="english">Salts is a medicine that causes movements of the bowels.</span></p>
 
 <p><span class="chinese">第六天晚饭不吃，晚上六点喝一杯加入一茶匙泻盐的温水。</span><span class="english">At 6pm take one tea spoon of epsom salt in a glass of warm water.</span></p>

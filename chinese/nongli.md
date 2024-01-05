@@ -1,5 +1,7 @@
 # 农历
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongli.md)
+
 <p><span class="chinese">碰巧，泓泓也是农历今天生日。</span><span class="english">The next day will be my birthday.</span></p>
 
 <p><span class="chinese">交通工具设计系农历新年贺卡奉上！</span><span class="english">Merry Chritmas And Happy New Year!</span></p>

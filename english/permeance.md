@@ -1,5 +1,7 @@
 # permeance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/permeance.md)
+
 <p><span class="chinese">用户现在可以计算的渗入的水蒸汽。</span><span class="english">Users now can calculate the permeance of water vapour.</span></p>
 
 <p><span class="chinese">按照下式计算水蒸气透过率和水蒸气透过系数。</span><span class="english">Calculate the water vapor transmission, and permeance as follow.</span></p>

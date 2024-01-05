@@ -1,5 +1,7 @@
 # unfitted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unfitted.md)
+
 <p><span class="chinese">几年在非洲的工作使他不适宜在寒冷国家生活。</span><span class="english">Years of work in Africa unfitted him for life in a cold country.</span></p>
 
 <p><span class="chinese">多年在非洲工作使他难以适应在寒冷国家的生活。</span><span class="english">Years of work in Africa unfitted him for life in a cold country.</span></p>

@@ -1,5 +1,7 @@
 # multicentre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multicentre.md)
+
 <p><span class="chinese">方法随机、多中心临床研究。</span><span class="english">Methods Randomized comparative multicentre clinical study.</span></p>
 
 <p><span class="chinese">这是个前瞻、多中心随机对照试验。</span><span class="english">This was a prospective multicentre randomised controlled trial.</span></p>

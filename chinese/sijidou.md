@@ -1,5 +1,7 @@
 # 四季豆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sijidou.md)
+
 <p><span class="chinese">我们也种了四季豆和蕃茄。</span><span class="english">We planted green beans and tomatoes.</span></p>
 
 <p><span class="chinese">煮熟的红芸豆可以代替四季豆。</span><span class="english">Cooked kidney beans can be used in place of French beans.</span></p>

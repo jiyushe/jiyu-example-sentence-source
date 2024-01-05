@@ -1,5 +1,7 @@
 # pedophilia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pedophilia.md)
+
 <p><span class="chinese">尚不清楚娈童癖的形成原因。</span><span class="english">The causes of pedophilia are unknown.</span></p>
 
 <p><span class="chinese">今天，我知道我的叔叔是一个彻底的恋童癖和偷窥癖患者。</span><span class="english">Today , I know my uncle is totally a pedophilia and voyeurism.</span></p>

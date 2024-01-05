@@ -1,5 +1,7 @@
 # perfectness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perfectness.md)
+
 <p><span class="chinese">爱，须能容忍不完美。</span><span class="english">Love must tolerate un- perfectness.</span></p>
 
 <p><span class="chinese">我的不完美可能是你的完美。</span><span class="english">My imperfectness perhaps is your perfectness.</span></p>

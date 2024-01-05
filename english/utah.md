@@ -1,5 +1,7 @@
 # utah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/utah.md)
+
 <p><span class="chinese">相反，犹他最近13场却输了10场。</span><span class="english">Conversely, Utah has lost 10 of 13.</span></p>
 
 <p><span class="chinese">园坑池，中途，犹他州。</span><span class="english">Homestead Crater Pool, Midway, Utah.</span></p>

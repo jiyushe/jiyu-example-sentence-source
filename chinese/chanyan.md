@@ -1,5 +1,7 @@
 # 谗言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chanyan.md)
+
 <p><span class="chinese">敬畏神只原谅对你的谗言。</span><span class="english">Fear God only and forgive your false accusers.</span></p>
 
 <p><span class="chinese">为何那耳朵不能避听谗言？</span><span class="english">Why cannot the Ear be closed to its own destruction?</span></p>

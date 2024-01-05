@@ -1,5 +1,7 @@
 # ecliptic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ecliptic.md)
+
 <p><span class="chinese">单位长常常显示，拉特，偏差，黄道。</span><span class="english">Units Used to Display Long , Lat , Declination , Ecliptic.</span></p>
 
 <p><span class="chinese">我们主要关注地平线和黄道附近的星辰。</span><span class="english">Attention was concentrated on the horizon and the ecliptic.</span></p>

@@ -1,5 +1,7 @@
 # limbo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/limbo.md)
+
 <p><span class="chinese">雷耶斯现在觉得自己成了烫手的山芋。</span><span class="english">Reyes now finds himself in limbo.</span></p>
 
 <p><span class="chinese">会谈自2008年以来就不了了之。</span><span class="english">Talks have been in limbo since 2008.</span></p>

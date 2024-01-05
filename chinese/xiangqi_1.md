@@ -1,5 +1,7 @@
 # 象棋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangqi_1.md)
+
 <p><span class="chinese">你过去常玩象棋吗？</span><span class="english">Did you use to play chess?</span></p>
 
 <p><span class="chinese">欢迎光临合利金象棋世界！</span><span class="english">Welcome to the chess world!</span></p>

@@ -1,5 +1,7 @@
 # imputation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imputation.md)
+
 <p><span class="chinese">我完全接受你的指责。</span><span class="english">I'm quite willing to accept the imputation.</span></p>
 
 <p><span class="chinese">而客观归责理论即是一种全新的选择。</span><span class="english">The theory of the objective imputation will be a bran-new choice.</span></p>

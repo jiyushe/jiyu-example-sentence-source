@@ -1,5 +1,7 @@
 # 新郎官
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinlangguan.md)
+
 <p><span class="chinese">新郎官，交给我了。</span><span class="english">Groom, let me handle it.</span></p>
 
 <p><span class="chinese">气力以及自在就如同新娘以及新郎官的联合…</span><span class="english">Power and ease are united like bride and groom.</span></p>

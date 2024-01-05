@@ -1,5 +1,7 @@
 # 羽扇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yushan_1.md)
+
 <p><span class="chinese">吃羽扇豆种子做的面包。</span><span class="english">Eat bread with lupin seeds.</span></p>
 
 <p><span class="chinese">她的头低着，眼睛看着手中的威尼斯鹰羽扇。</span><span class="english">She looked down at her Viennese fan of eagle feathers.</span></p>

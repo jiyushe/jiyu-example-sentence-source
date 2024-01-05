@@ -1,5 +1,7 @@
 # 毛豆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maodou.md)
+
 <p><span class="chinese">我可能吃一些毛豆嘛?。</span><span class="english">May yI eat some beans?</span></p>
 
 <p><span class="chinese">毛豆洗乾净后，浸泡在水中备用。</span><span class="english">Wash and soak the green soy beans.</span></p>

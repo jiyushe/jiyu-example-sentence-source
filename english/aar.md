@@ -1,5 +1,7 @@
 # aar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aar.md)
+
 <p><span class="chinese">为AAR正确定调尤其重要。</span><span class="english">Setting the right tone for an AAR is extremely important.</span></p>
 
 <p><span class="chinese">结果表明，AAR的涡致疲劳损伤依赖于流动剖面的形状，且在不同位置处差别较大。</span><span class="english">VIV fatigue damages of AAR depend on flow profile shapes, and vary significantly with position.</span></p>

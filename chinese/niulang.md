@@ -1,5 +1,7 @@
 # 牛郎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niulang.md)
+
 <p><span class="chinese">工程师就像牛郎。</span><span class="english">Engineer is just like gigolo.</span></p>
 
 <p><span class="chinese">牛郎即使不来，银河依旧闪烁。</span><span class="english">Gigolo even not come, Milky Way still flicker.</span></p>

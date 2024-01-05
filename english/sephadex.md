@@ -1,5 +1,7 @@
 # sephadex
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sephadex.md)
+
 <p><span class="chinese">提取的粗提物经凝胶过滤后得到抗菌肽。</span><span class="english">AMP was obtained by sephadex gel filtration.</span></p>
 
 <p><span class="chinese">目的考察用葡聚糖凝胶法测定脂质体包封率的影响因素。</span><span class="english">OBJECTIVE To determine the trap efficiency of liposomes using Sephadex.</span></p>

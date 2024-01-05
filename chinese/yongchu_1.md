@@ -1,5 +1,7 @@
 # 用处
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongchu_1.md)
+
 <p><span class="chinese">我就是一无用处。</span><span class="english">I’m just useless.</span></p>
 
 <p><span class="chinese">这样做有什么用处呢？</span><span class="english">Why is this useful?</span></p>

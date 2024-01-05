@@ -1,5 +1,7 @@
 # 亲笔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinbi.md)
+
 <p><span class="chinese">我想要一张亲笔签名。</span><span class="english">I want an autograph.</span></p>
 
 <p><span class="chinese">蒂娜得到了詹克蒂恩的亲笔签名。</span><span class="english">Tina got Jake Dean's autograph.</span></p>

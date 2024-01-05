@@ -1,5 +1,7 @@
 # 温软
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenruan.md)
+
 <p><span class="chinese">躺在温软的床上。</span><span class="english">Lying in the bed soft.</span></p>
 
 <p><span class="chinese">用温软的空气去换凛冽的寒风?。</span><span class="english">Hot air for a cold breeze?</span></p>

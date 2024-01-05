@@ -1,5 +1,7 @@
 # intercellular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intercellular.md)
+
 <p><span class="chinese">在肠系膜腹膜间皮还发现了细胞间孔。</span><span class="english">Intercellular pores were observed on the mesenteric mesothelium.</span></p>
 
 <p><span class="chinese">缝隙连接是细胞间的直接通讯方式。</span><span class="english">Gap junction plays a significant role in intercellular direct communication.</span></p>

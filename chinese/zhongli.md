@@ -1,5 +1,7 @@
 # 中立
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongli.md)
+
 <p><span class="chinese">厂商中立。</span><span class="english">Vendor neutrality.</span></p>
 
 <p><span class="chinese">网络中立或不?</span><span class="english">Net neutrality, or not?</span></p>

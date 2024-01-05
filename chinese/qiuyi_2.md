@@ -1,5 +1,7 @@
 # 秋意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiuyi_2.md)
+
 <p><span class="chinese">简单，便宜，而且秋意浓浓！</span><span class="english">Easy, inexpensive, and oh-so-autumn!</span></p>
 
 <p><span class="chinese">九月悄然给我们捎来了一丝秋意。</span><span class="english">With September comes a sense of autumn.</span></p>

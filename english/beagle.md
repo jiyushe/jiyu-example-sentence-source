@@ -1,5 +1,7 @@
 # beagle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beagle.md)
+
 <p><span class="chinese">他的那只猎兔犬就这样的。</span><span class="english">That's what his beagle did.</span></p>
 
 <p><span class="chinese">他们试着使小猎犬和圣伯纳狗交配。</span><span class="english">They tried to cross a beagle with a Saint Bernard.</span></p>

@@ -1,5 +1,7 @@
 # qualification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/qualification.md)
+
 <p><span class="chinese">然而成功也要有资格限制。</span><span class="english">But the success needs qualification.</span></p>
 
 <p><span class="chinese">他获得了销售合格证。</span><span class="english">He has got a qualification for saling.</span></p>

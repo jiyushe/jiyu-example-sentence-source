@@ -1,5 +1,7 @@
 # 饥荒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jihuang.md)
+
 <p><span class="chinese">发生了饥荒。</span><span class="english">A famine broke forth.</span></p>
 
 <p><span class="chinese">数千人死于饥荒。</span><span class="english">Thousands died of famine.</span></p>

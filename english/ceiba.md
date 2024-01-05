@@ -1,5 +1,7 @@
 # ceiba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ceiba.md)
+
 <p><span class="chinese">我必须是你近旁的一株木棉</span><span class="english">I must be a ceiba stand by your side</span></p>
 
 <p><span class="chinese">站在我身旁的木棉，走入我心田的木棉。</span><span class="english">The ceiba beside me, the ceiba inside my heart.</span></p>

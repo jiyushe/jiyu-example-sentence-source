@@ -1,5 +1,7 @@
 # five
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/five.md)
+
 <p><span class="chinese">五胜都。</span><span class="english">Five win.</span></p>
 
 <p><span class="chinese">二五仔！</span><span class="english">Two five boy!</span></p>

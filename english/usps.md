@@ -1,5 +1,7 @@
 # usps
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/usps.md)
+
 <p><span class="chinese">大部分USP都很难得出。</span><span class="english">Most USPs are harder to come by.</span></p>
 
 <p><span class="chinese">总局发布紧急求援信号，国会会同意吗？</span><span class="english">USPS has issued an urgent appeal for help. Will Congress deliver?</span></p>

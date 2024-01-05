@@ -1,5 +1,7 @@
 # durability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/durability.md)
+
 <p><span class="chinese">耐久度的衡量单位是圆点数。</span><span class="english">Durability is measured in dots.</span></p>
 
 <p><span class="chinese">我们为什么要做耐久性测试?。</span><span class="english">Why do we have to do durability test?</span></p>

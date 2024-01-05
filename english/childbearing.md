@@ -1,5 +1,7 @@
 # childbearing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/childbearing.md)
+
 <p><span class="chinese">她们可能是育龄期女性。</span><span class="english">They might be women of childbearing age.</span></p>
 
 <p><span class="chinese">染色体异常与不良生育史有关系。</span><span class="english">Chromosomal anomaly are associated with abnormal childbearing.</span></p>

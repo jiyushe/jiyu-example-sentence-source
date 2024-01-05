@@ -1,5 +1,7 @@
 # scare
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scare.md)
+
 <p><span class="chinese">真的吓到我了。</span><span class="english">They really scare me.</span></p>
 
 <p><span class="chinese">他吓了我一大跳。</span><span class="english">He gave me a good scare.</span></p>

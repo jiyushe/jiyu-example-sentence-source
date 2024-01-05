@@ -1,5 +1,7 @@
 # impatiently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impatiently.md)
+
 <p><span class="chinese">太太不耐烦地嚷起来了。</span><span class="english">cried his wife impatiently.</span></p>
 
 <p><span class="chinese">他不耐烦地猝然甩掉外衣。</span><span class="english">He impatiently jerked his coat off.</span></p>

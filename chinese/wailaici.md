@@ -1,5 +1,7 @@
 # 外来词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wailaici.md)
+
 <p><span class="chinese">外来词源源不断地进入英语。</span><span class="english">Foreign words keep coming into English.</span></p>
 
 <p><span class="chinese">借用外来词，达到新颖的效果。</span><span class="english">Use of loanword so as to create novelty.</span></p>

@@ -1,5 +1,7 @@
 # smirnoff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smirnoff.md)
+
 <p><span class="chinese">谁才是真正的王牌特工，斯米诺与你共同期待！</span><span class="english">Who is the real Bondman?Jointly with Smirnoff to look forward!</span></p>
 
 <p><span class="chinese">帝亚吉欧酒业公司旗下品牌包括皇冠伏特加、尊尼获加苏格兰威士忌和健力士黑啤酒。</span><span class="english">Diageo's brands include Smirnoff vodka, Johnnie Walker scotch whisky, and Guinness stout.</span></p>

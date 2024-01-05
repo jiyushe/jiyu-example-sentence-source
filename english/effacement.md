@@ -1,5 +1,7 @@
 # effacement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/effacement.md)
+
 <p><span class="chinese">这个人并不谦逊，但他伪装出一副很谦卑的样子。</span><span class="english">This man does not self- effacement at all, but he pretend to be like this.</span></p>
 
 <p><span class="chinese">原发性FSGS的形态学标志是足突细胞的足突弥漫性融合。</span><span class="english">The morphological hallmark of primary FSGS is diffuse effacement of podocyte foot processes.</span></p>

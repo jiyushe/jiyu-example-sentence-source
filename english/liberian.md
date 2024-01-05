@@ -1,5 +1,7 @@
 # liberian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liberian.md)
+
 <p><span class="chinese">利比亚铁路工人们的待遇最终得到改善是一个小的标志。</span><span class="english">The gang of Liberian railway workers is a small sign things may finally be improving.</span></p>
 
 <p><span class="chinese">这次旅程大大加强了我与利比里亚妇女缝纫项目合作的决心。</span><span class="english">My trip only reinforced my commitment to partner with the Liberian Women's Sewing Project.</span></p>

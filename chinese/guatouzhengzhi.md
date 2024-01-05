@@ -1,5 +1,7 @@
 # 寡头政治
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guatouzhengzhi.md)
+
 <p><span class="chinese">而中国这样一个封闭的寡头政治国家，则缺乏这类机制。</span><span class="english">In a closed oligarchy like that of China, there is no such mechanism.</span></p>
 
 <p><span class="chinese">普京已经表示他无意于会见这位寡头政治支持者。</span><span class="english">Putin already signaled that he has no intention to meet with the oligarch.</span></p>

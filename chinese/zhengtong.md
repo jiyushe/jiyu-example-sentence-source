@@ -1,5 +1,7 @@
 # 正统
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengtong.md)
+
 <p><span class="chinese">因此正统基督教绝对是相信两元论的。</span><span class="english">So orthodoxy is definitively dualist.</span></p>
 
 <p><span class="chinese">我认为她有些反正统文化。</span><span class="english">But I guess she's a little counter-cultural.</span></p>

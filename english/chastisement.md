@@ -1,5 +1,7 @@
 # chastisement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chastisement.md)
+
 <p><span class="chinese">认为对他的惩罚太严厉了。</span><span class="english">I think the chastisement to him is too critical.</span></p>
 
 <p><span class="chinese">我做了什么以致该受如此严重的惩戒？</span><span class="english">What have I done to deserve such severe chastisement?</span></p>

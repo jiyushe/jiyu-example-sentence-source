@@ -1,5 +1,7 @@
 # economise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/economise.md)
+
 <p><span class="chinese">她给丈夫做了一顿美餐。</span><span class="english">She cooked her economise a delicious meal.</span></p>
 
 <p><span class="chinese">你可以在牛仔裤上省钱但是车子可不行。</span><span class="english">You can economise on jeans but not on cars.</span></p>

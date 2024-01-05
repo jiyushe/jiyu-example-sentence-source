@@ -1,5 +1,7 @@
 # woven
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/woven.md)
+
 <p><span class="chinese">她的外套是用羊毛编织成的。</span><span class="english">Her coat was woven from wool.</span></p>
 
 <p><span class="chinese">这个故事是那个小男孩编出来的。</span><span class="english">The story is woven by that boy.</span></p>

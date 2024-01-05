@@ -1,5 +1,7 @@
 # 因缘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinyuan.md)
+
 <p><span class="chinese">因缘果位神马的只是神话。</span><span class="english">Karma Bhumi is a myth.</span></p>
 
 <p><span class="chinese">我知我的因缘果报存活着。</span><span class="english">I know my redeemer liveth.</span></p>

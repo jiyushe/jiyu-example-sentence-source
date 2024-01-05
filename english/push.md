@@ -1,5 +1,7 @@
 # push 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/push.md)
+
 <p><span class="chinese">请不要推别人。</span><span class="english">Please don't push.</span></p>
 
 <p><span class="chinese">不要把孩子压得太狠。</span><span class="english">Don't push the child.</span></p>

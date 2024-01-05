@@ -1,5 +1,7 @@
 # 溪边
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xibian.md)
+
 <p><span class="chinese">他到溪边去，看见一只小母鸭。</span><span class="english">He went to the brook, and saw a little duck.</span></p>
 
 <p><span class="chinese">我们看见了一群狮子在溪边休息。</span><span class="english">We saw a pride of lions resting by the stream.</span></p>

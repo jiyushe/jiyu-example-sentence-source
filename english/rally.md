@@ -1,5 +1,7 @@
 # rally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rally.md)
+
 <p><span class="chinese">他主持了这个集会。</span><span class="english">He presided at the rally.</span></p>
 
 <p><span class="chinese">大会在一片喧腾声中开始了。</span><span class="english">The rally began in an uproar.</span></p>

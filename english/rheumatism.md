@@ -1,5 +1,7 @@
 # rheumatism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rheumatism.md)
+
 <p><span class="chinese">他的风湿病已治好。</span><span class="english">He is cured of rheumatism.</span></p>
 
 <p><span class="chinese">请问这是风湿痛遗传吗？</span><span class="english">Is it genetic rheumatism it?</span></p>

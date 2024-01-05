@@ -1,5 +1,7 @@
 # labouring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/labouring.md)
+
 <p><span class="chinese">她一直在努力地唱好。</span><span class="english">She has been labouring to sing well.</span></p>
 
 <p><span class="chinese">那个职员在为提升而努力。</span><span class="english">That clerk is labouring for a promotion.</span></p>

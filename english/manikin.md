@@ -1,5 +1,7 @@
 # manikin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manikin.md)
+
 <p><span class="chinese">我是言语的巨人，行动的矮子。</span><span class="english">I am a giant of speech and manikin of behavior.</span></p>
 
 <p><span class="chinese">模特身上展示的这条迷你裙在哪儿？</span><span class="english">Where is the miniskirt displayed on the manikin?</span></p>

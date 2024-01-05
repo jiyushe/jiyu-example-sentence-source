@@ -1,5 +1,7 @@
 # 起誓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qishi_8.md)
+
 <p><span class="chinese">现在，我起誓！</span><span class="english">Now, I swanny!</span></p>
 
 <p><span class="chinese">但我凭着圣十字架起誓！</span><span class="english">And, by the holy rood!</span></p>

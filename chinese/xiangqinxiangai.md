@@ -1,5 +1,7 @@
 # 相亲相爱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangqinxiangai.md)
+
 <p><span class="chinese">你们相亲相爱吧。</span><span class="english">Love each other.</span></p>
 
 <p><span class="chinese">只想与我相亲相爱甜甜蜜蜜。</span><span class="english">Than to love and be loved by me.</span></p>

@@ -1,5 +1,7 @@
 # indefatigable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indefatigable.md)
+
 <p><span class="chinese">你遇到困难时会不知疲倦吗？</span><span class="english">Are you indefatigable?</span></p>
 
 <p><span class="chinese">精力充沛的沃尔特斯真是得其所哉。</span><span class="english">The indefatigable Walters was in his element.</span></p>

@@ -1,5 +1,7 @@
 # 瞎话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiahua.md)
+
 <p><span class="chinese">能说的，全是瞎话。</span><span class="english">That can be said is all lies.</span></p>
 
 <p><span class="chinese">说出瞎话，使坏人惭愧。</span><span class="english">Tell the truth and shame the devil.</span></p>

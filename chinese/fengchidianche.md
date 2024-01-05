@@ -1,5 +1,7 @@
 # 风驰电掣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengchidianche.md)
+
 <p><span class="chinese">来赌一把吧让你在混乱中风驰电掣！</span><span class="english">Gamble, you gotta dive in to a scramble!</span></p>
 
 <p><span class="chinese">救护车风驰电掣把我送到了医院。</span><span class="english">I was rushed to the hospital by ambulance.</span></p>

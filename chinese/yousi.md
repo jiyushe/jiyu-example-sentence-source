@@ -1,5 +1,7 @@
 # 忧思
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yousi.md)
+
 <p><span class="chinese">忧思平静，漫步人生。</span><span class="english">Worries about calm, walk of life.</span></p>
 
 <p><span class="chinese">这生活真可怜，倘若充满忧思。</span><span class="english">A poor life this is, if full of care.</span></p>

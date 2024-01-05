@@ -1,5 +1,7 @@
 # touchdown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/touchdown.md)
+
 <p><span class="chinese">运动员的足掌触地角较小。</span><span class="english">Foot touchdown angle is smaller.</span></p>
 
 <p><span class="chinese">你不能放弃那个触地得分。</span><span class="english">You cannot give up that touchdown.</span></p>

@@ -1,5 +1,7 @@
 # vinegar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vinegar.md)
+
 <p><span class="chinese">或可乐加醋？</span><span class="english">Cola and vinegar?</span></p>
 
 <p><span class="chinese">酱，米饭和米醋。</span><span class="english">Sauce, rice and rice vinegar.</span></p>

@@ -1,5 +1,7 @@
 # 挑衅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaoxin.md)
+
 <p><span class="chinese">它是一种挑衅。</span><span class="english">It was a provocation.</span></p>
 
 <p><span class="chinese">这至少来说是一种挑衅。</span><span class="english">It is at minimum a provocation.</span></p>

@@ -1,5 +1,7 @@
 # rishi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rishi.md)
+
 <p><span class="chinese">“五号”和“回声”盔甲上的印花是为了纪念“重担”在里希卫星上的牺牲。</span><span class="english">Fives and Echo have decals on their armor commemorating Hevy's sacrifice on the Rishi Moon.</span></p>
 
 <p><span class="chinese">阿斯汤加瑜伽是一种古老的瑜伽体系，是仙人传授Vamana在瑜伽Korunta。</span><span class="english">Ashtanga Yoga is an ancient system of Yoga that was taught by Vamana Rishi in the Yoga Korunta.</span></p>

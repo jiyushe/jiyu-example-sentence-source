@@ -1,5 +1,7 @@
 # shiah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shiah.md)
+
 <p><span class="chinese">可以说，他改变了黎巴嫩什叶派，也改变了黎巴嫩。</span><span class="english">So we can say that he changed shiah sect in lebanon and lebanon.</span></p>
 
 <p><span class="chinese">什叶派和逊尼派搁置了他们之间的争议共同抗击占领军。</span><span class="english">The Shiah and the Sunni place their differences aside and fight the occupation army together.</span></p>

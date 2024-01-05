@@ -1,5 +1,7 @@
 # 抱头痛哭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baotoutongku.md)
+
 <p><span class="chinese">此时的我，正坐在地上抱头痛哭呢！</span><span class="english">At this time I was sitting on the ground do cry!</span></p>
 
 <p><span class="chinese">在首都机场，两个人抱头痛哭。</span><span class="english">They both cried on each other's shoulder at capital airport.</span></p>

@@ -1,5 +1,7 @@
 # poisoning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poisoning.md)
+
 <p><span class="chinese">我食物中毒了。</span><span class="english">I have food poisoning.</span></p>
 
 <p><span class="chinese">什么是缓存中毒？</span><span class="english">What is cache poisoning?</span></p>

@@ -1,5 +1,7 @@
 # 分为
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenwei.md)
+
 <p><span class="chinese">这个文件分为两部分。</span><span class="english">The file has two segments.</span></p>
 
 <p><span class="chinese">道路在这儿分为两叉了。</span><span class="english">The road divaricates here.</span></p>

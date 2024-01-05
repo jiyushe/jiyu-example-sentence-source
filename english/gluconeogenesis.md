@@ -1,5 +1,7 @@
 # gluconeogenesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gluconeogenesis.md)
+
 <p><span class="chinese">最后，糖异生水平也增加。</span><span class="english">Finally, they have an increased need for gluconeogenesis.</span></p>
 
 <p><span class="chinese">醣酵解与动物淀粉新生有何不同？</span><span class="english">How do glycolysis and gluconeogenesis differ?How are they similar?</span></p>

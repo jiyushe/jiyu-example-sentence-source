@@ -1,5 +1,7 @@
 # 群体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qunti.md)
+
 <p><span class="chinese">“群体免疫性”低。</span><span class="english">Low 'herd immunity'.</span></p>
 
 <p><span class="chinese">谁是你的同龄群体？</span><span class="english">Who is your peer group?</span></p>

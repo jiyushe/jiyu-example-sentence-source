@@ -1,5 +1,7 @@
 # tidewater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tidewater.md)
+
 <p><span class="chinese">我看了一下潮水的路线。</span><span class="english">I look the way of tidewater.</span></p>
 
 <p><span class="chinese">风儿叩开我们的心扉，让爱如潮水般涌来。</span><span class="english">And open our hearts, let love emerge like tidewater.</span></p>

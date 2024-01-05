@@ -1,5 +1,7 @@
 # 途径
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tujing_2.md)
+
 <p><span class="chinese">我通过什么途径改名字？</span><span class="english">How do I change my name?</span></p>
 
 <p><span class="chinese">这是蒙福和得享平安的途径。</span><span class="english">That is the way of peace.</span></p>

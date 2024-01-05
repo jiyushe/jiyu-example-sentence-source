@@ -1,5 +1,7 @@
 # 凑巧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/couqiao.md)
+
 <p><span class="chinese">我凑巧知道这个名字。</span><span class="english">It chanced that I knew the name.</span></p>
 
 <p><span class="chinese">凑巧恶男听到秦琼的言语。</span><span class="english">ENan happened to hear the words of the QinQiong.</span></p>

@@ -1,5 +1,7 @@
 # 干菜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gancai_1.md)
+
 <p><span class="chinese">把火关小并慢慢搅拌干菜与玉米淀粉混合物。</span><span class="english">Reduce heat to a simmer and slowly whisk in stock-cornstarch mixture.</span></p>
 
 <p><span class="chinese">使用混合干菜，你自己不要把各种食材混乱的混合到一起煮。</span><span class="english">Use dry mixes instead of trying to toss together all the spices by yourself.</span></p>

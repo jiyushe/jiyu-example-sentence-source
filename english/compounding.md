@@ -1,5 +1,7 @@
 # compounding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compounding.md)
+
 <p><span class="chinese">永远不要忘记复利的作用。</span><span class="english">Never forget the power of compounding.</span></p>
 
 <p><span class="chinese">国会做的只是在激化这个问题。</span><span class="english">Congress is only compounding the problem.</span></p>

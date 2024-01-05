@@ -1,5 +1,7 @@
 # slimline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slimline.md)
+
 <p><span class="chinese">话虽如此，我感到非常嫉妒的超薄硬件。</span><span class="english">That being said, I am extremely jealous of the slimline hardware.</span></p>
 
 <p><span class="chinese">中国的政策制定者们不会因为他们的新数据缩水而不高兴。</span><span class="english">China's policymakers will not be unhappy with their new, slimline figure.</span></p>

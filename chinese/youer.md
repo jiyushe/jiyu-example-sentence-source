@@ -1,5 +1,7 @@
 # 右耳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youer.md)
+
 <p><span class="chinese">他的右耳被割除了。</span><span class="english">His right ear was taken off.</span></p>
 
 <p><span class="chinese">右耳触右肩的颈部伸展动作</span><span class="english">Right Ear to Right Shoulder Neck Stretch</span></p>

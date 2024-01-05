@@ -1,5 +1,7 @@
 # gimmicky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gimmicky.md)
+
 <p><span class="chinese">乍一看绿鹅没什么用处。</span><span class="english">At first Green Goose sounded a little gimmicky.</span></p>
 
 <p><span class="chinese">很多花样百出的俱乐部的项目都不会为我们设身处地的着想。</span><span class="english">Most gimmicky club things just don't do it for me.</span></p>

@@ -1,5 +1,7 @@
 # excitant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/excitant.md)
+
 <p><span class="chinese">辣椒等刺激性食物应尽可能少吃。</span><span class="english">The excitant food such as chili should eat less as far as possible.</span></p>
 
 <p><span class="chinese">化妆品中的刺激性物质是美容的大敌。</span><span class="english">The excitant material in cosmetic is the archenemy of hairdressing.</span></p>

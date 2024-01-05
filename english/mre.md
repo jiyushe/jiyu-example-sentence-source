@@ -1,5 +1,7 @@
 # mre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mre.md)
+
 <p><span class="chinese">我不能只是约翰。</span><span class="english">I can't just be Mre.</span></p>
 
 <p><span class="chinese">一天食用不要超过6次。</span><span class="english">Use no mre than 6 times per day.</span></p>

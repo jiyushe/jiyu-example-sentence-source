@@ -1,5 +1,7 @@
 # crude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crude.md)
+
 <p><span class="chinese">中国出口生铁。</span><span class="english">China exported crude iron.</span></p>
 
 <p><span class="chinese">它脖子上戴着一个破项圈。</span><span class="english">Around his neck was a crude collar.</span></p>

@@ -1,5 +1,7 @@
 # 天启
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianqi.md)
+
 <p><span class="chinese">从今天启初，从天天做止。</span><span class="english">Beginning today . And every day!</span></p>
 
 <p><span class="chinese">他也有天启论，你可以看到。</span><span class="english">He still has it.You can see places.</span></p>

@@ -1,5 +1,7 @@
 # humanity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humanity.md)
+
 <p><span class="chinese">是您给人类的赠礼。</span><span class="english">Your gift to humanity.</span></p>
 
 <p><span class="chinese">他们奢谈人性。</span><span class="english">They speak of humanity.</span></p>

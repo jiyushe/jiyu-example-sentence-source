@@ -1,5 +1,7 @@
 # eraser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eraser.md)
+
 <p><span class="chinese">我有一块橡皮。</span><span class="english">I have an eraser.</span></p>
 
 <p><span class="chinese">哪块橡皮你喜欢？</span><span class="english">Which eraser do you like?</span></p>

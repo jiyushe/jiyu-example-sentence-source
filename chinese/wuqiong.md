@@ -1,5 +1,7 @@
 # 无穷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuqiong.md)
+
 <p><span class="chinese">这是无穷的原因。</span><span class="english">That's why the infinity.</span></p>
 
 <p><span class="chinese">弹夹内无穷弹药。</span><span class="english">Infinite a. mmo. in clip.</span></p>

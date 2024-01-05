@@ -1,5 +1,7 @@
 # laminated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laminated.md)
+
 <p><span class="chinese">千层石，也称积层岩。</span><span class="english">Melaleuca stone, also known as laminated rock.</span></p>
 
 <p><span class="chinese">他们拿着许多纸，有时候是薄板状的。</span><span class="english">They hold pieces of paper, sometimes laminated.</span></p>

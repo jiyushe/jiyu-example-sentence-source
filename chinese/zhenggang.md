@@ -1,5 +1,7 @@
 # 政纲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenggang.md)
+
 <p><span class="chinese">人民党的政纲要求放松信贷和货币政策以帮助农民。</span><span class="english">The Populist platform demanded easier credit and currency policies to help farmers.</span></p>
 
 <p><span class="chinese">然而，目光短浅的州政纲将会导致长远来看的不良后果。</span><span class="english">However, short-sighted state politics like this will lead to long-term consequences.</span></p>

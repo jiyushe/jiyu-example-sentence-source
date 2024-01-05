@@ -1,5 +1,7 @@
 # 善恶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shane.md)
+
 <p><span class="chinese">所有生灵，不分善恶。</span><span class="english">Every being, good or evil.</span></p>
 
 <p><span class="chinese">他能识别善恶，辨别是非。</span><span class="english">Can' t you tell vice from virtue ?</span></p>

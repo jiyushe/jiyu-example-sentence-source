@@ -1,5 +1,7 @@
 # flatbed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flatbed.md)
+
 <p><span class="chinese">两种最常见的绘图仪是平板式绘图仪和滚筒式绘图仪。</span><span class="english">Two common types of plotters are flatbed and drum.</span></p>
 
 <p><span class="chinese">他用平板车拉走了我家的大彩电。</span><span class="english">He took away our big color television on a flatbed tricycle.</span></p>

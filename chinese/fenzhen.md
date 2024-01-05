@@ -1,5 +1,7 @@
 # 分针
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenzhen.md)
+
 <p><span class="chinese">那根巨大的分针不动了。</span><span class="english">The big minute hand did not move.</span></p>
 
 <p><span class="chinese">这个长针我们称之为分针。</span><span class="english">The longer hand is called the minute hand.</span></p>

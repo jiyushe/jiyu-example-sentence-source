@@ -1,5 +1,7 @@
 # syllabic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/syllabic.md)
+
 <p><span class="chinese">汉语是音节声调语言。</span><span class="english">Chinese is a language with syllabic tone.</span></p>
 
 <p><span class="chinese">每个音符代表一个音节。</span><span class="english">Syllabic characters each represent a syllable.</span></p>

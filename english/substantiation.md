@@ -1,5 +1,7 @@
 # substantiation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/substantiation.md)
+
 <p><span class="chinese">如果得到证实，这一结论将代表第一个此类证据。</span><span class="english">If confirmed, this finding would represent the first such substantiation.</span></p>
 
 <p><span class="chinese">没有大样本的人群研究结果作为支持，研究本身就会产生一些问题。</span><span class="english">I would think that it's a problem without substantiation in large population studies.</span></p>

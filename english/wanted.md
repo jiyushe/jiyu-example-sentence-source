@@ -1,5 +1,7 @@
 # wanted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wanted.md)
+
 <p><span class="chinese">我想得那个奖。</span><span class="english">I wanted that award.</span></p>
 
 <p><span class="chinese">我想看它们。</span><span class="english">I wanted to see them.</span></p>

@@ -1,5 +1,7 @@
 # scribe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scribe.md)
+
 <p><span class="chinese">耶利米用书记员来为他记录。</span><span class="english">Jeremiah used a scribe to write for him.</span></p>
 
 <p><span class="chinese">我可以你和你的忏悔神父是抄写员。</span><span class="english">Might I your scribe and your confessor be.</span></p>

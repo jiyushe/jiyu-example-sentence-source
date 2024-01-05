@@ -1,5 +1,7 @@
 # jake
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jake.md)
+
 <p><span class="chinese">你和杰克怎么样了？</span><span class="english">How are you and Jake?</span></p>
 
 <p><span class="chinese">杰克有一只黄猫。</span><span class="english">Jake has a yellow cat.</span></p>

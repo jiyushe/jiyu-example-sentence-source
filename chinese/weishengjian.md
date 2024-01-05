@@ -1,5 +1,7 @@
 # 卫生间
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weishengjian.md)
+
 <p><span class="chinese">我必须买些卫生间必需品。</span><span class="english">I must buy some toilet requisites.</span></p>
 
 <p><span class="chinese">直接抱我去卫生间。</span><span class="english">Carry me into the washroom directly.</span></p>

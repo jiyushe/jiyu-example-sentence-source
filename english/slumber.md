@@ -1,5 +1,7 @@
 # slumber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slumber.md)
+
 <p><span class="chinese">即使是你在平静的睡眠</span><span class="english">For even as you slumber</span></p>
 
 <p><span class="chinese">他从沈睡中醒来。</span><span class="english">He awoke from a deep slumber.</span></p>

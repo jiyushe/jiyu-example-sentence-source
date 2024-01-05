@@ -1,5 +1,7 @@
 # taxus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taxus.md)
+
 <p><span class="chinese">对南方红豆杉种子休眠原因进行研究。</span><span class="english">The dormancy mechanism of Taxus chinensis var. mairei seeds wad studied.</span></p>
 
 <p><span class="chinese">目前，国内的许多红豆杉种植企业正在开发红豆杉的系列产品。</span><span class="english">At present, many domestic enterprises are planted yew Taxus product development.</span></p>

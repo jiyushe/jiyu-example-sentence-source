@@ -1,5 +1,7 @@
 # 同辈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongbei.md)
+
 <p><span class="chinese">这使他远远领先于他的同辈设计师。</span><span class="english">It’s what sets him far ahead of his peers.</span></p>
 
 <p><span class="chinese">这里有一些简单的事情你可以做你的同辈人宠爱。</span><span class="english">Here are some simple things you can do to pamper your peepers.</span></p>

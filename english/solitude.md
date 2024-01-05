@@ -1,5 +1,7 @@
 # solitude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solitude.md)
+
 <p><span class="chinese">孤独是件妙事！？</span><span class="english">Solitude is a blessing!</span></p>
 
 <p><span class="chinese">你将它唤作孤独吗？</span><span class="english">Do you call it solitude?</span></p>

@@ -1,5 +1,7 @@
 # 地主阶级
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dizhujieji.md)
+
 <p><span class="chinese">那个时候，我们对于地主阶级的政策是没收土地的政策。</span><span class="english">At that time we pursued a policy of confiscating land from the landlord class.</span></p>
 
 <p><span class="chinese">第一种力量是地主阶级和买办性的大资产阶级。</span><span class="english">The first force is the landlord class and the comprador big bourgeoisie in nature.</span></p>

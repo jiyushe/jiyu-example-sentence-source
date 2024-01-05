@@ -1,5 +1,7 @@
 # acclimatization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acclimatization.md)
+
 <p><span class="chinese">表面镀镍或锡，导电率高，环境适应性好。</span><span class="english">Surface nickel-plated or tinned, high conductivity and good acclimatization.</span></p>
 
 <p><span class="chinese">如果那是海拔很高的度假胜地，咨询你的医生关于环境适应的策略。</span><span class="english">If it's a very high altitude resort, ask your doctor about strategies for acclimatization.</span></p>

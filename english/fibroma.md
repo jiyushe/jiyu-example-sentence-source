@@ -1,5 +1,7 @@
 # fibroma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fibroma.md)
+
 <p><span class="chinese">如何根治纤维瘤？</span><span class="english">How to effect a radical cure fibroma?</span></p>
 
 <p><span class="chinese">另一卵巢被纤维瘤替代。</span><span class="english">The other ovary is replaced by a fibroma.</span></p>

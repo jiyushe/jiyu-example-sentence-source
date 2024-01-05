@@ -1,5 +1,7 @@
 # queasiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/queasiness.md)
+
 <p><span class="chinese">早饭还是让她感到要吐。</span><span class="english">The queasiness at breakfast had not left her.</span></p>
 
 <p><span class="chinese">恶心头痛和乏力整天折折磨着她。</span><span class="english">Queasiness , headaches and languor afflicted her all day.</span></p>

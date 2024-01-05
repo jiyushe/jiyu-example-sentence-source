@@ -1,5 +1,7 @@
 # 至高无上
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhigaowushang.md)
+
 <p><span class="chinese">该义务是至高无上的。</span><span class="english">This duty is paramount to all the others.</span></p>
 
 <p><span class="chinese">敬拜就是体认到上帝至高无上的价值。</span><span class="english">To worship is to realize the highest value of God.</span></p>

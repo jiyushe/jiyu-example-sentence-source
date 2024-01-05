@@ -1,5 +1,7 @@
 # 下巴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaba.md)
+
 <p><span class="chinese">恐惧下巴。</span><span class="english">Fear of chins.</span></p>
 
 <p><span class="chinese">下巴触须不存在。</span><span class="english">Chin barbel absent.</span></p>

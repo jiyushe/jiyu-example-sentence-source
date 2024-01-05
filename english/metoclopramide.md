@@ -1,5 +1,7 @@
 # metoclopramide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metoclopramide.md)
+
 <p><span class="chinese">西沙必利较胃复安药效更好、更安全。</span><span class="english">Cisapride is better and safe than metoclopramide.</span></p>
 
 <p><span class="chinese">象希望的一样，胃复安并没有同其它的负面效果联系起来。</span><span class="english">As expected, metoclopramide was not associated with other serious side effects.</span></p>

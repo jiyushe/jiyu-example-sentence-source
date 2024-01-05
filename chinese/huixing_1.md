@@ -1,5 +1,7 @@
 # 彗星
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huixing_1.md)
+
 <p><span class="chinese">彗星上的人造陨坑。</span><span class="english">Man-Made Crater on Comet.</span></p>
 
 <p><span class="chinese">彗星样的行星普通吗?</span><span class="english">Comet-like Planets Common?</span></p>

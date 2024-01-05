@@ -1,5 +1,7 @@
 # infantryman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infantryman.md)
+
 <p><span class="chinese">我于是想成为一名步兵。</span><span class="english">I was supposed to become an infantryman.</span></p>
 
 <p><span class="chinese">她的长子是一名陆军步兵，所在部队将在本月晚些时候前往伊拉克。</span><span class="english">He is an Army infantryman whose unit is being shipped off to the war in Iraq later this month.</span></p>

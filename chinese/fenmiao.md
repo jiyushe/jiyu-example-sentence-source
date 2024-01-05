@@ -1,5 +1,7 @@
 # 分秒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenmiao.md)
+
 <p><span class="chinese">时间会分秒不差的过。</span><span class="english">Time never goes wrong.</span></p>
 
 <p><span class="chinese">多少个分秒。我在想你。</span><span class="english">How many minutes. I miss you.</span></p>

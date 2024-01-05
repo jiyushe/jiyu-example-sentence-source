@@ -1,5 +1,7 @@
 # 威仪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiyi_2.md)
+
 <p><span class="chinese">权威人士及威仪之人往往语速比较慢。</span><span class="english">A person in authority, with authority, speaks slowly.</span></p>
 
 <p><span class="chinese">巨大的花岗岩骏马为皇家宫殿平添几分威仪。</span><span class="english">A giant granite horse that graced an emperor's palace.</span></p>

@@ -1,5 +1,7 @@
 # practicability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/practicability.md)
+
 <p><span class="chinese">你认为这个方案的可行性如何？</span><span class="english">What do you think about the practicability of this plan?</span></p>
 
 <p><span class="chinese">最后讨论了该方法的有效性和实用性。</span><span class="english">The validity and practicability of the method are discussed.</span></p>

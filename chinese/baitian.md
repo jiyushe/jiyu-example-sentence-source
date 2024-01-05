@@ -1,5 +1,7 @@
 # 白天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baitian.md)
+
 <p><span class="chinese">白天还是晚上?。</span><span class="english">Night or day?- Night.</span></p>
 
 <p><span class="chinese">白天慢慢地成为黑夜了。</span><span class="english">Day passed into night.</span></p>

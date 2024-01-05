@@ -1,5 +1,7 @@
 # spirally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spirally.md)
+
 <p><span class="chinese">并具有螺旋式上升的特征。</span><span class="english">And they have the spirally rising character.</span></p>
 
 <p><span class="chinese">叶肉质，鳞片状，螺旋状排列，淡黄白色。</span><span class="english">Leaver fleshy, squamose, spirally arranged, yellowish-white.</span></p>

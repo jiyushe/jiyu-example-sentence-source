@@ -1,5 +1,7 @@
 # 文告
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wengao.md)
+
 <p><span class="chinese">宣战的文告是1687年8月公布的。</span><span class="english">The declaration was published in August 1687.</span></p>
 
 <p><span class="chinese">国王签署了逊位的文告。</span><span class="english">The king signed the instrument of abdication.</span></p>

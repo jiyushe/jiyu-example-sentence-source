@@ -1,5 +1,7 @@
 # 勤快
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinkuai.md)
+
 <p><span class="chinese">他非常勤快。</span><span class="english">He was ever so diligent.</span></p>
 
 <p><span class="chinese">科科现在十分勤快。</span><span class="english">Koko's very helpful now.</span></p>

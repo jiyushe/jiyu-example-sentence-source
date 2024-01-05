@@ -1,5 +1,7 @@
 # sultanate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sultanate.md)
+
 <p><span class="chinese">莱佛士来之前，新加坡属于柔佛王朝。</span><span class="english">Before Raffles came to Singapore, we belonged to the Johor Sultanate.</span></p>
 
 <p><span class="chinese">1965年从英国独立后，马尔代夫又以伊斯兰君主制统治了三年。</span><span class="english">After independence from Britain in 1965, the sultanate operated for another 3 years.</span></p>

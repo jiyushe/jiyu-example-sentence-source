@@ -1,5 +1,7 @@
 # vfw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vfw.md)
+
 <p><span class="chinese">一棵在VFW邮局里的圣诞树。</span><span class="english">Christmas tree from a VFW post.</span></p>
 
 <p><span class="chinese">该工具使用Windows的VFW库进行视频采集、压缩。</span><span class="english">The use of tools for Windows VFW video capture, compression.</span></p>

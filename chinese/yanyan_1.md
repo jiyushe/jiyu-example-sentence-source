@@ -1,5 +1,7 @@
 # 岩盐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanyan_1.md)
+
 <p><span class="chinese">问题是，岩盐会吸引牛羊。</span><span class="english">Problem was, the salt attracted cattle.</span></p>
 
 <p><span class="chinese">石英岩和岩盐的热导率最高。</span><span class="english">Quartzes and rock salt have the highest conductivities.</span></p>

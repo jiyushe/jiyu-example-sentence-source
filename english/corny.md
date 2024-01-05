@@ -1,5 +1,7 @@
 # corny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corny.md)
+
 <p><span class="chinese">弗雷德的笑话总是如此毫无新意。</span><span class="english">Freds jokes are always so corny.</span></p>
 
 <p><span class="chinese">福莱德的笑话总是了无新意。</span><span class="english">Fred's jokes are always so corny.</span></p>

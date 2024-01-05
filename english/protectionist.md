@@ -1,5 +1,7 @@
 # protectionist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/protectionist.md)
+
 <p><span class="chinese">若G20回避关键问题,保护主义风险会抬头吗?</span><span class="english">DO PROTECTIONIST RISKS GROW IF THE G20 SIDESTEPS BIG ISSUES</span></p>
 
 <p><span class="chinese">贸易保护关税和对农场的补助也说明了同样的问题。</span><span class="english">Protectionist tariffs and farm subsidies illustrate the same problem.</span></p>

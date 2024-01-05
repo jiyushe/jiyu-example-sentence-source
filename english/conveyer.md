@@ -1,5 +1,7 @@
 # conveyer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conveyer.md)
+
 <p><span class="chinese">地下输送机。</span><span class="english">The underground conveyer.</span></p>
 
 <p><span class="chinese">随着传送带向前移动，鲜血喷射出来了。</span><span class="english">Blood spurted as the conveyer belt moved on.</span></p>

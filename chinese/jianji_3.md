@@ -1,5 +1,7 @@
 # 煎剂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianji_3.md)
+
 <p><span class="chinese">目的探讨疖痈康煎剂对免疫功能的影响。</span><span class="english">ObjectiveTo explore the effect of Jieyongkang on immune function.</span></p>
 
 <p><span class="chinese">方法正常小鼠灌服疖痈康煎剂后，观察淋巴细胞转化试验。</span><span class="english">MethodsTo observe lymphocyte transformation test after normal mouse taken Jieyongkang.</span></p>

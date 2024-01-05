@@ -1,5 +1,7 @@
 # mycelium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mycelium.md)
+
 <p><span class="chinese">生长在培养基内部的菌丝。</span><span class="english">Substrate mycelium , grow in the substate.</span></p>
 
 <p><span class="chinese">在谷物上生长的菌丝体叫做发霉。</span><span class="english">Mycelium on cereal grain is termed mold growth.</span></p>

@@ -1,5 +1,7 @@
 # 野鼠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yeshu.md)
+
 <p><span class="chinese">耗子、老鼠和野鼠靠嗅觉区分彼此。</span><span class="english">Rats, mice and voles recognise each other by smell.</span></p>
 
 <p><span class="chinese">松鼠和野鼠在为我储藏的那些坚果争执不休。</span><span class="english">Squirrels and wild mice disputed for my store of nuts.</span></p>

@@ -1,5 +1,7 @@
 # ibuprofen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ibuprofen.md)
+
 <p><span class="chinese">还包括布洛芬和双氯芬酸。</span><span class="english">These include ibuprofen and diclofenac</span></p>
 
 <p><span class="chinese">现在他必须靠布洛芬和坚韧的意志来对抗它。</span><span class="english">Now he had to make do with ibuprofen and fortitude.</span></p>

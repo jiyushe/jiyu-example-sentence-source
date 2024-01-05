@@ -1,5 +1,7 @@
 # 气急败坏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qijibaihuai.md)
+
 <p><span class="chinese">他勃然大怒，气急败坏地说出事实的真相。</span><span class="english">He flared up and sputtered out the story.</span></p>
 
 <p><span class="chinese">“你没有证据。”那学生气急败坏地说。</span><span class="english">"You cann‘t prove that!" the student sputtered.</span></p>

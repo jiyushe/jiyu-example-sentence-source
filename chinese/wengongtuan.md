@@ -1,5 +1,7 @@
 # 文工团
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wengongtuan.md)
+
 <p><span class="chinese">文工团常年在边防部队流动。</span><span class="english">The art troupe is always on the move in frontier guards.</span></p>
 
 <p><span class="chinese">他们观看了延安的一个文工团表演民间舞蹈。</span><span class="english">They watched a Yan'an cultural troupe perform folk dances.</span></p>

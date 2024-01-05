@@ -1,5 +1,7 @@
 # practice 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/practice.md)
+
 <p><span class="chinese">练习提问。</span><span class="english">Practice asking.</span></p>
 
 <p><span class="chinese">练习耐性。</span><span class="english">Practice patience.</span></p>

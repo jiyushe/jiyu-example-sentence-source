@@ -1,5 +1,7 @@
 # overdrive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overdrive.md)
+
 <p><span class="chinese">使用定速控制和超速档。</span><span class="english">Use cruise control and overdrive gear.</span></p>
 
 <p><span class="chinese">不过这次，这台销售机器却是运转得过猛了。</span><span class="english">This time, though, the sales machine shifted into overdrive.</span></p>

@@ -1,5 +1,7 @@
 # 烈士
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lieshi_1.md)
+
 <p><span class="chinese">他发誓要为烈士报仇。</span><span class="english">He vowed to avenge martyrs.</span></p>
 
 <p><span class="chinese">烈士被葬在公墓。</span><span class="english">The martyr lies in the cemetery.</span></p>

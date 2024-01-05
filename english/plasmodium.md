@@ -1,5 +1,7 @@
 # plasmodium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plasmodium.md)
+
 <p><span class="chinese">成熟原质团棕色。</span><span class="english">The mature plasmodium is brown.</span></p>
 
 <p><span class="chinese">疟疾是由称为疟原虫的一种单细胞寄生虫造成的。</span><span class="english">Malaria is caused by a one-celled parasite called a Plasmodium.</span></p>

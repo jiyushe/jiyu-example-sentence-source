@@ -1,5 +1,7 @@
 # rapidity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rapidity.md)
+
 <p><span class="chinese">士兵们迅速装子弹发射。</span><span class="english">The soldiers loaded and discharged with great rapidity.</span></p>
 
 <p><span class="chinese">动物和植物病害极迅速传递。</span><span class="english">Aminal and vegetable pests propagate with extreme rapidity.</span></p>

@@ -1,5 +1,7 @@
 # fucking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fucking.md)
+
 <p><span class="chinese">多么操蛋的一天！</span><span class="english">What a fucking day !</span></p>
 
 <p><span class="chinese">他妈的功夫熊猫？…</span><span class="english">Fucking Kung-Fu pandas?</span></p>

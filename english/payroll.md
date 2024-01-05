@@ -1,5 +1,7 @@
 # payroll
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/payroll.md)
+
 <p><span class="chinese">准备工资表。</span><span class="english">Prepare the Payroll Sheet.</span></p>
 
 <p><span class="chinese">我们进行了全面的工资表审核。</span><span class="english">A full payroll audit was conducted.</span></p>

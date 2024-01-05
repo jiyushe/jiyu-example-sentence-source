@@ -1,5 +1,7 @@
 # 诗歌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shige.md)
+
 <p><span class="chinese">我们创作诗歌</span><span class="english">We write poems.</span></p>
 
 <p><span class="chinese">应该是诗歌吧？</span><span class="english">Should it be the poem?</span></p>

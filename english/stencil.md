@@ -1,5 +1,7 @@
 # stencil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stencil.md)
+
 <p><span class="chinese">这种方法需要用到一个模板。</span><span class="english">This method is based on the stencil.</span></p>
 
 <p><span class="chinese">请给我油印这张腊纸，好吗？</span><span class="english">Would you run this stencil off for me?</span></p>

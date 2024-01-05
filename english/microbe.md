@@ -1,5 +1,7 @@
 # microbe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microbe.md)
+
 <p><span class="chinese">猪只经屠宰解剖表明，发酵柑桔渣作猪饲料无任何毒副作用。</span><span class="english">The fermented citrus pulp by microbe was used as the pig feed.</span></p>
 
 <p><span class="chinese">植物内生菌作为一类特有的微生物资源已得到广泛的认同。</span><span class="english">It is a consent that endophytes are a special microbe resource.</span></p>

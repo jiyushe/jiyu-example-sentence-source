@@ -1,5 +1,7 @@
 # 原来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanlai.md)
+
 <p><span class="chinese">原来我已经在八楼说过了…</span><span class="english">I have got so much.</span></p>
 
 <p><span class="chinese">原来是一面黑旗。</span><span class="english">It was a black flag.</span></p>

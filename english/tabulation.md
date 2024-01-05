@@ -1,5 +1,7 @@
 # tabulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tabulation.md)
+
 <p><span class="chinese">这些数字已准备好，有待列表并核对。</span><span class="english">The figures are ready for tabulation and collation.</span></p>
 
 <p><span class="chinese">我也饶有兴致地读了那些投票组成的那个表格。</span><span class="english">And I read the tabulation of the votes with interest.</span></p>

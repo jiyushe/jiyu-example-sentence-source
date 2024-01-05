@@ -1,5 +1,7 @@
 # ontological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ontological.md)
+
 <p><span class="chinese">即使社会主义也无法改变这些本体论的事实。</span><span class="english">Socialism cannot alter these basic ontological facts.</span></p>
 
 <p><span class="chinese">现代混沌学为“本体非决定论”提供了科学证据吗?。</span><span class="english">Does Modern Chaos Furnish Evidence to Ontological Indeterminism?</span></p>

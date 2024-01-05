@@ -1,5 +1,7 @@
 # heterogeneous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heterogeneous.md)
+
 <p><span class="chinese">异构存储阵列。</span><span class="english">Heterogeneous storage arrays.</span></p>
 
 <p><span class="chinese">现在假设我们有不均匀的混合物。</span><span class="english">Now, suppose that I have a heterogeneous mixture.</span></p>

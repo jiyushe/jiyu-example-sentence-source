@@ -1,5 +1,7 @@
 # 坚如磐石
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianrupanshi.md)
+
 <p><span class="chinese">又或者你的性格坚如磐石，永不改变。</span><span class="english">Or you’re rock solid, no change ever happening.</span></p>
 
 <p><span class="chinese">在联盟里，他非常稳定，坚如磐石。</span><span class="english">He's been such a stable guy in the league, like a rock.</span></p>

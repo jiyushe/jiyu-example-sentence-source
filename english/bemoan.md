@@ -1,5 +1,7 @@
 # bemoan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bemoan.md)
+
 <p><span class="chinese">许多人都在抱怨，说这片区域在不断自降身价。</span><span class="english">Many bemoan what they see as the cheapening of the area.</span></p>
 
 <p><span class="chinese">他们和我一起吐槽他们可怕的数学作业。</span><span class="english">They and I bemoan their terrible math homework together.</span></p>

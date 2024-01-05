@@ -1,5 +1,7 @@
 # 遗忘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiwang_2.md)
+
 <p><span class="chinese">或许我早已遗忘。</span><span class="english">And haply may forget.</span></p>
 
 <p><span class="chinese">只凭听，是很容易遗忘的。</span><span class="english">When I hear, I forget.</span></p>

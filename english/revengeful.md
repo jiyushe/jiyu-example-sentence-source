@@ -1,5 +1,7 @@
 # revengeful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revengeful.md)
+
 <p><span class="chinese">最后，有复仇的愤怒。</span><span class="english">Finally, there is the revengeful anger.</span></p>
 
 <p><span class="chinese">她的自尊心被伤害了，她想报复。</span><span class="english">Her pride was hurt and she felt revengeful.</span></p>

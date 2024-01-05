@@ -1,5 +1,7 @@
 # 随手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suishou_1.md)
+
 <p><span class="chinese">剥开皮，把皮随手扔掉。</span><span class="english">Peel it. Throw the peel away.</span></p>
 
 <p><span class="chinese">请随手步步高音乐手机价格关门。</span><span class="english">Close the door after you, please.</span></p>

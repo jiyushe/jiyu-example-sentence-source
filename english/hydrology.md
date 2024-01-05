@@ -1,5 +1,7 @@
 # hydrology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrology.md)
+
 <p><span class="chinese">也是水文学中的一个重要问题。</span><span class="english">And it is also an important one in hydrology.</span></p>
 
 <p><span class="chinese">对福建茶秆竹的土壤水文效应进行了分析研究。</span><span class="english">The soil hydrology effect of Pseudosasa amabilis var.</span></p>

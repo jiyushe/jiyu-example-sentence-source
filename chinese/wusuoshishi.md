@@ -1,5 +1,7 @@
 # 无所事事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wusuoshishi.md)
+
 <p><span class="chinese">别整天吊儿郎当无所事事。</span><span class="english">Don't lie about all day.</span></p>
 
 <p><span class="chinese">我无所事事。</span><span class="english">So he makes fun of himself.</span></p>

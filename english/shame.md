@@ -1,5 +1,7 @@
 # shame 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shame.md)
+
 <p><span class="chinese">他没什么羞耻心。</span><span class="english">He has no shame.</span></p>
 
 <p><span class="chinese">这是件丢脸的事。</span><span class="english">This is a shame.</span></p>

@@ -1,5 +1,7 @@
 # diy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diy.md)
+
 <p><span class="chinese">如果旅行，您是喜欢自助游还是跟团游？</span><span class="english">Do you prefer DIY tour or package tour?</span></p>
 
 <p><span class="chinese">膳宿费一天要多少？</span><span class="english">How much is boarding and lodging a diy?</span></p>

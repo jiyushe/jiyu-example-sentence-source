@@ -1,5 +1,7 @@
 # 拉网
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lawang.md)
+
 <p><span class="chinese">他拉网，就把穷苦人掠去。</span><span class="english">He seizes the poor, drawing them up in his net.</span></p>
 
 <p><span class="chinese">尸罗的原型是新西兰隧道里的一种拉网蜘蛛。</span><span class="english">The model of Shelob was based on a New Zealand tunnel web spider.</span></p>

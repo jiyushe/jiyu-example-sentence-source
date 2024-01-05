@@ -1,5 +1,7 @@
 # 一了百了
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiliaobailiao.md)
+
 <p><span class="chinese">我真希望自己已经死了，好一了百了。</span><span class="english">Mostly I wished I was dead.</span></p>
 
 <p><span class="chinese">苦恼就一了百了了。</span><span class="english">With his death all his woes ended.</span></p>

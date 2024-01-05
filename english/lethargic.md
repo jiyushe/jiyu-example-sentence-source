@@ -1,5 +1,7 @@
 # lethargic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lethargic.md)
+
 <p><span class="chinese">湿乎乎的三明治会让你午后昏昏欲睡。</span><span class="english">Soggy sandwiches create lethargic afternoons.</span></p>
 
 <p><span class="chinese">糟糕的热天气使他们都昏昏欲睡。</span><span class="english">The miserably hot weather made them all lethargic.</span></p>

@@ -1,5 +1,7 @@
 # 一丝一毫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yisiyihao.md)
+
 <p><span class="chinese">也就是说，那些无边的爱一丝一毫都没有留下。</span><span class="english">Ergo, no trace of either of those great loves remains.</span></p>
 
 <p><span class="chinese">一丝一毫的夸大都可能导致严重的后果。</span><span class="english">A little exaggeration can lead to serious consequences.</span></p>

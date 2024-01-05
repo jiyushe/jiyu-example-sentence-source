@@ -1,5 +1,7 @@
 # 亡羊补牢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangyangbulao.md)
+
 <p><span class="chinese">好在，亡羊补牢，犹未晚也。</span><span class="english">But it is not too late.</span></p>
 
 <p><span class="chinese">亡羊补牢，永不为迟。</span><span class="english">It's not too late to mend.</span></p>

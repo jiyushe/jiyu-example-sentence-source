@@ -1,5 +1,7 @@
 # dustless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dustless.md)
+
 <p><span class="chinese">这批无尘粉笔的质量不错，再去买一些吧！</span><span class="english">The dustless chalk is of good quality, go and get some more.</span></p>
 
 <p><span class="chinese">她的眼神依旧清纯，仿佛水晶般纤尘不染。</span><span class="english">The look from her eye is still so pure, like a dustless crystal.</span></p>

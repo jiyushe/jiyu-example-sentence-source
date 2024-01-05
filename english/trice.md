@@ -1,5 +1,7 @@
 # trice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trice.md)
+
 <p><span class="chinese">一转眼他就不见了。</span><span class="english">He was gone in a trice.</span></p>
 
 <p><span class="chinese">我一会儿就可以把你打扮得整整齐齐的。</span><span class="english">I'll make you decent in a trice.</span></p>

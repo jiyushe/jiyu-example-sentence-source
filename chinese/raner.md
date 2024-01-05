@@ -1,5 +1,7 @@
 # 然而
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/raner.md)
+
 <p><span class="chinese">然而，他耸了耸肩。</span><span class="english">He shrugged.</span></p>
 
 <p><span class="chinese">然而你知道为什么吗？</span><span class="english">But do you know why?</span></p>

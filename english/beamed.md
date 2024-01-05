@@ -1,5 +1,7 @@
 # beamed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beamed.md)
+
 <p><span class="chinese">她对我微笑。</span><span class="english">She beamed at me.</span></p>
 
 <p><span class="chinese">她的眼睛流露出喜悦之情。</span><span class="english">Her eye beamed with joy.</span></p>

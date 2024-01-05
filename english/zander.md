@@ -1,5 +1,7 @@
 # zander
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zander.md)
+
 <p><span class="chinese">万般无奈，萨拉只好帮助X-23毁掉FACILITY并且杀掉桑德尔。</span><span class="english">With no other recourse, Sarah helped X-23 destroy the Facility and kill Zander.</span></p>
 
 <p><span class="chinese">就如我在2007年时候通过电话告诉Zander的，我感觉他正在致使公司走向大的失败。</span><span class="english">As I told Zander in a phone call in 2007, I felt that he was setting the company up for massive failure.</span></p>

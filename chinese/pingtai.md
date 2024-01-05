@@ -1,5 +1,7 @@
 # 平台
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingtai.md)
+
 <p><span class="chinese">采用什么平台呢？</span><span class="english">What about the platform?</span></p>
 
 <p><span class="chinese">它是平台独立的吗？</span><span class="english">Is it platform-independent?</span></p>

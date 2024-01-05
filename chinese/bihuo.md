@@ -1,5 +1,7 @@
 # 避祸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bihuo.md)
+
 <p><span class="chinese">预见祸患，避祸一半。</span><span class="english">A danger foresee is half avoided.</span></p>
 
 <p><span class="chinese">自远古以来，人类就不断的努力以寻求防灾避祸的有效措施。</span><span class="english">From ancient times, man began to find the effective measures for reliefing disasters.</span></p>

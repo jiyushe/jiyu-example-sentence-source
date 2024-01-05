@@ -1,5 +1,7 @@
 # gamely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gamely.md)
+
 <p><span class="chinese">下面我们尝试对它的功能进行一个总结。</span><span class="english">But we will gamely make an attempt to sum up the features, nonetheless.</span></p>
 
 <p><span class="chinese">本周，苹果公司的销售经理菲利普?希勒大胆地使赵博思先生露面。</span><span class="english">This weekPhilip Schiller, Apple 's marketing boss, gamely tookMrJobs's place.</span></p>

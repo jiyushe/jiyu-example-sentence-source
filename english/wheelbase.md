@@ -1,5 +1,7 @@
 # wheelbase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wheelbase.md)
+
 <p><span class="chinese">轴距结构。</span><span class="english">Wheelbase structure.</span></p>
 
 <p><span class="chinese">亦或宝马认为加长一款中级车是对市场的妥协？</span><span class="english">Or whether do you think the Long Wheelbase Versions are a compromise to the market?</span></p>

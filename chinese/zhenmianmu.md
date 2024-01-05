@@ -1,5 +1,7 @@
 # 真面目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenmianmu.md)
+
 <p><span class="chinese">隐藏我的真面目，就像多利安‧葛雷一样。</span><span class="english">Hides my true shape, like Dorian Gray.</span></p>
 
 <p><span class="chinese">所以我认为我应该画出卡卡西的真面目。</span><span class="english">So I figured I would draw Kakashi's face.</span></p>

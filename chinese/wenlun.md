@@ -1,5 +1,7 @@
 # 文论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenlun.md)
+
 <p><span class="chinese">这是雅氏对结构主义文论的直接贡献。</span><span class="english">This is his direct contribution to structuralist literary theory.</span></p>
 
 <p><span class="chinese">这是雅氏对结构主义文论的间接贡献。</span><span class="english">This is his indirect contribution to structuralist literary theory.</span></p>

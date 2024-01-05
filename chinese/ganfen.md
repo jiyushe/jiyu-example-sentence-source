@@ -1,5 +1,7 @@
 # 干粉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganfen.md)
+
 <p><span class="chinese">用干粉。</span><span class="english">Use powder.</span></p>
 
 <p><span class="chinese">用干粉喷剂的防止反印喷粉器。</span><span class="english">Dry spray An anti-set-off spray using dry powder.</span></p>

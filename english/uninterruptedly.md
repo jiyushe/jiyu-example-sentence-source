@@ -1,5 +1,7 @@
 # uninterruptedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uninterruptedly.md)
+
 <p><span class="chinese">命运不断朝他微笑。</span><span class="english">Fortune smiled upon him uninterruptedly.</span></p>
 
 <p><span class="chinese">我们已经习惯了这种不断改变日程的作风。</span><span class="english">We had been already used to the style of schedule altered uninterruptedly.</span></p>

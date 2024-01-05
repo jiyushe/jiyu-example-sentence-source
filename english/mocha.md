@@ -1,5 +1,7 @@
 # mocha
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mocha.md)
+
 <p><span class="chinese">请给我一个大号摩卡咖啡。</span><span class="english">Please give me a large Mocha.</span></p>
 
 <p><span class="chinese">摩卡咖啡——古老的香醇</span><span class="english">Mocha Coffee—An Ancient Flavor</span></p>

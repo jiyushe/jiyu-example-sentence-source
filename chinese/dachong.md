@@ -1,5 +1,7 @@
 # 大虫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dachong.md)
+
 <p><span class="chinese">“大虫”现在为中央情报局工作啦！好伪装啊！</span><span class="english">The "worm" is now working for the CIA! Great cover!</span></p>
 
 <p><span class="chinese">蚂蚁把大虫围困起来并展开进攻。</span><span class="english">The ants have cornered the rustler and are attacking it.</span></p>

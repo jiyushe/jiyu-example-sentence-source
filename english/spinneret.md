@@ -1,5 +1,7 @@
 # spinneret
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spinneret.md)
+
 <p><span class="chinese">许多极细小的导管把每个造丝腺体与吐丝器相连。</span><span class="english">Many tiny tubes connect each silk gland with a spinneret.</span></p>
 
 <p><span class="chinese">喷丝头是化纤纺织机上的关键部件。</span><span class="english">The tantalum spinneret is a key part in chemical fibre silk spinning_machine.</span></p>

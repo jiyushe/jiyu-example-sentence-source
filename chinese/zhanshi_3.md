@@ -1,5 +1,7 @@
 # 战士
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanshi_3.md)
+
 <p><span class="chinese">圣战士的玩法？</span><span class="english">A holy warrior play style?</span></p>
 
 <p><span class="chinese">战士挥动他的枪。</span><span class="english">The soldier waved his gun.</span></p>

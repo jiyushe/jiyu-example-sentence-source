@@ -1,5 +1,7 @@
 # 小脑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaonao.md)
+
 <p><span class="chinese">抑或是小脑中的一些额外的血管活性肽作用了？</span><span class="english">A little extra Vasoactive Peptide in the Cerebellum?</span></p>
 
 <p><span class="chinese">小脑梗阻手术后，后遗症有哪些？</span><span class="english">After cerebella block operation, what does sequela have?</span></p>

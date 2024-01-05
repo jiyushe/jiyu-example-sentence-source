@@ -1,5 +1,7 @@
 # 外婆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waipo.md)
+
 <p><span class="chinese">“外婆”规则。</span><span class="english">The “Grandma” rule.</span></p>
 
 <p><span class="chinese">外婆边看边笑。</span><span class="english">Nanny watches, laughs.</span></p>

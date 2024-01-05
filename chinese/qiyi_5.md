@@ -1,5 +1,7 @@
 # 起疑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiyi_5.md)
+
 <p><span class="chinese">太阳月亮若起疑。</span><span class="english">If the sun and moon should doubt.</span></p>
 
 <p><span class="chinese">然而，相反的情况却更让人起疑。</span><span class="english">However, the opposite is a greater cause for suspicion.</span></p>

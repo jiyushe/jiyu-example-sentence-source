@@ -1,5 +1,7 @@
 # conductor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conductor.md)
+
 <p><span class="chinese">导线要接地。</span><span class="english">Conductor earthing.</span></p>
 
 <p><span class="chinese">它们是热的不良导体。</span><span class="english">They are bad conductor.</span></p>

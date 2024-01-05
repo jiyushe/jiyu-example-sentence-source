@@ -1,5 +1,7 @@
 # 无影无踪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuyingwuzong.md)
+
 <p><span class="chinese">那人逃得无影无踪。</span><span class="english">The man got clean away.</span></p>
 
 <p><span class="chinese">囚犯逃得无影无踪。</span><span class="english">The prisoner escaped clear away.</span></p>

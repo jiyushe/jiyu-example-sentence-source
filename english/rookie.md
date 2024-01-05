@@ -1,5 +1,7 @@
 # rookie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rookie.md)
+
 <p><span class="chinese">我知道，新手错误。</span><span class="english">Yeah, I know. Rookie mistake.</span></p>
 
 <p><span class="chinese">更让人难以置信的是，那时他竟然是一个只有20岁的菜鸟。</span><span class="english">And he did it all as a 20-year-old rookie.</span></p>

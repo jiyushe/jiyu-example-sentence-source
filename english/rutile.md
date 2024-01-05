@@ -1,5 +1,7 @@
 # rutile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rutile.md)
+
 <p><span class="chinese">有商业价值的主要矿石是钛铁矿和金红石。</span><span class="english">Its chief commercial ores are ilmenite and rutile.</span></p>
 
 <p><span class="chinese">晶型有锐钛矿型、板钛矿型和金红石型。</span><span class="english">Its crystal type have anatase, brookite and rutile.</span></p>

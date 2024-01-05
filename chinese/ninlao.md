@@ -1,5 +1,7 @@
 # 您老
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ninlao.md)
+
 <p><span class="chinese">您老一直在我心中。</span><span class="english">You are as elegant as a cloud.</span></p>
 
 <p><span class="chinese">当我生病时，您老是陪同着我。</span><span class="english">When I was ailing, you invariably stood by me.</span></p>

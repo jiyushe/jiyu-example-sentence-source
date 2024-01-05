@@ -1,5 +1,7 @@
 # 牛车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niuche.md)
+
 <p><span class="chinese">再做一辆牛车。</span><span class="english">building the cart again.</span></p>
 
 <p><span class="chinese">我们必须要同红牛车队进行战斗。</span><span class="english">We need to beat the Red Bulls.</span></p>

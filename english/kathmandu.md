@@ -1,5 +1,7 @@
 # kathmandu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kathmandu.md)
+
 <p><span class="chinese">搭汽车或吉普车到加都。</span><span class="english">Take a bus or jeep on to Kathmandu.</span></p>
 
 <p><span class="chinese">从加都到博卡拉多少钱？</span><span class="english">How much is that from Kathmandu to Pokhara?</span></p>

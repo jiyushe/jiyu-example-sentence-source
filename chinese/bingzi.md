@@ -1,5 +1,7 @@
 # 饼子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingzi.md)
+
 <p><span class="chinese">这饼子我可吃出了辣椒的味。</span><span class="english">I can taste pepper in this cake.</span></p>
 
 <p><span class="chinese">我很想吃饼子。</span><span class="english">I feel love having some dumplings.</span></p>

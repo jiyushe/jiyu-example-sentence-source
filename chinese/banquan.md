@@ -1,5 +1,7 @@
 # 版权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banquan.md)
+
 <p><span class="chinese">版权所有，1963。</span><span class="english">Copyright ? 1963.</span></p>
 
 <p><span class="chinese">这将是版权。</span><span class="english">It will be copyrighted.</span></p>

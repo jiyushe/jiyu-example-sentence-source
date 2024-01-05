@@ -1,5 +1,7 @@
 # oscillate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oscillate.md)
+
 <p><span class="chinese">这个物体,将会在势阱内震荡。</span><span class="english">The object is going to oscillate in a potential well.</span></p>
 
 <p><span class="chinese">他似乎是在酩酊大醉和完全清醒之间摆来摆去。</span><span class="english">He seemed to oscillate between very drunk and icy sober.</span></p>

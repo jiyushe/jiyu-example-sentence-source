@@ -1,5 +1,7 @@
 # itemize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/itemize.md)
+
 <p><span class="chinese">你能列个费用清单吗？</span><span class="english">Can you itemize a list of the charges?</span></p>
 
 <p><span class="chinese">分条缕述计画的每种元素哪一你已经惊吓。</span><span class="english">Itemize every element of a project that has you scared.</span></p>

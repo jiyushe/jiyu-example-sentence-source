@@ -1,5 +1,7 @@
 # livid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/livid.md)
+
 <p><span class="chinese">那个人总是脸色发青。</span><span class="english">That man is always livid.</span></p>
 
 <p><span class="chinese">那张铁青的长脸上神色缓和了。</span><span class="english">The long livid face relaxed.</span></p>

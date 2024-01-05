@@ -1,5 +1,7 @@
 # 知县
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhixian_2.md)
+
 <p><span class="chinese">同时，知县在他们摸完后也查看了他们的手。</span><span class="english">As they withdrew their hands Chen would examine them.</span></p>
 
 <p><span class="chinese">曾任登封县知县。崇祯中历台州知府，解职归。</span><span class="english">He had been the magistrate of Dengfeng County in Henan Province.</span></p>

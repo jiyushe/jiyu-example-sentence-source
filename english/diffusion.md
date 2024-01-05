@@ -1,5 +1,7 @@
 # diffusion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diffusion.md)
+
 <p><span class="chinese">扩散是释放能量的过程。</span><span class="english">Diffusion is an exergonic process.</span></p>
 
 <p><span class="chinese">这就是得到扩散方程的过程。</span><span class="english">So, that is how we got the diffusion equation.</span></p>

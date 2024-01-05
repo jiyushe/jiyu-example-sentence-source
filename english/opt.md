@@ -1,5 +1,7 @@
 # opt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/opt.md)
+
 <p><span class="chinese">那就选择沙拉三明治烤肉吧。</span><span class="english">Opt for the falafel kebab.</span></p>
 
 <p><span class="chinese">电子邮件列表中选择也是至关重要的。</span><span class="english">Thee-mail opt in list is also crucial.</span></p>

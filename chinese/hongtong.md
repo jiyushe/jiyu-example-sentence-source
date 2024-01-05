@@ -1,5 +1,7 @@
 # 红铜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongtong.md)
+
 <p><span class="chinese">她的红铜色头发飞扬着。</span><span class="english">Her coppery hair danced about her head.</span></p>
 
 <p><span class="chinese">红铜色的天空，阴影出现，叹息桥。</span><span class="english">Copper sky, shadows rise, bridge of sighs.</span></p>

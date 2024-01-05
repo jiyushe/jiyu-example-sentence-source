@@ -1,5 +1,7 @@
 # 和平共处
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hepinggongchu.md)
+
 <p><span class="chinese">两国和平共处。</span><span class="english">Two countries coexist in peace.</span></p>
 
 <p><span class="chinese">我和我的税务官和平共处很久了。</span><span class="english">I had long ago made my peace with the tax man.</span></p>

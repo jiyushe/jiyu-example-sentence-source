@@ -1,5 +1,7 @@
 # 座次
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoci.md)
+
 <p><span class="chinese">还有，要懂得学会利用玩牌时的座次！</span><span class="english">Also, to know how to learn to use the order of seats!</span></p>
 
 <p><span class="chinese">然而，今年你会看到一个不同的座次安排。</span><span class="english">This year, though, you might see a different seating arrangement.</span></p>

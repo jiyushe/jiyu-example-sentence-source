@@ -1,5 +1,7 @@
 # 爱抚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aifu.md)
+
 <p><span class="chinese">爱抚她的头发。</span><span class="english">Pet her hair.</span></p>
 
 <p><span class="chinese">她用鼻子爱抚了一下它的脸颊。</span><span class="english">She nuzzled its cheek.</span></p>

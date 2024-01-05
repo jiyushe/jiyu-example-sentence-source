@@ -1,5 +1,7 @@
 # dispassion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dispassion.md)
+
 <p><span class="chinese">但它以科学的冷静来研究这个主题。</span><span class="english">It approaches its subject with the dispassion of a science.</span></p>
 
 <p><span class="chinese">我会用冷静的鲜花在神的脚下敬拜。</span><span class="english">I shall worship the feet of God with the flower of Dispassion.</span></p>

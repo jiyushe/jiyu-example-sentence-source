@@ -1,5 +1,7 @@
 # lossy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lossy.md)
+
 <p><span class="chinese">用于转换为有损语音质量的音频。</span><span class="english">Used for converting to lossy voice-quality audio.</span></p>
 
 <p><span class="chinese">还值得注意的是，适配可能是有损耗的。</span><span class="english">It is also worth noting that adaptation might be lossy.</span></p>

@@ -1,5 +1,7 @@
 # augusta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/augusta.md)
+
 <p><span class="chinese">今天他在奥古斯塔国家高尔夫球场一杆进洞。</span><span class="english">He got a hole in one today at Augusta National.</span></p>
 
 <p><span class="chinese">Bracara是一个专门为皇帝，因此它的名字奥古斯塔。</span><span class="english">Bracara was dedicated to the Emperor, hence its name Augusta.</span></p>

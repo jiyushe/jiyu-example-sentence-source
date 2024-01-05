@@ -1,5 +1,7 @@
 # stereophonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stereophonic.md)
+
 <p><span class="chinese">机器人的立体声听觉转达答案。</span><span class="english">The robot’s stereophonic hearing conveyed the answers.</span></p>
 
 <p><span class="chinese">明星立体声影院是在旧影院基础上改建的。</span><span class="english">Mingxing stereophonic cinema is rebuilt on the basis of the old one.</span></p>

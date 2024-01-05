@@ -1,5 +1,7 @@
 # block
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/block.md)
+
 <p><span class="chinese">汝等，可敢挡我！</span><span class="english">Dare you block me!</span></p>
 
 <p><span class="chinese">这是一种心理障碍，一种恐惧症。</span><span class="english">It’s a mental block.</span></p>

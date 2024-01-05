@@ -1,5 +1,7 @@
 # 周折
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhouzhe.md)
+
 <p><span class="chinese">哦，那并没有费多大的周折。</span><span class="english">Oh, that! Not much trouble.</span></p>
 
 <p><span class="chinese">我没费周折就找到了他的小房子。</span><span class="english">I found his little house with no trouble.</span></p>

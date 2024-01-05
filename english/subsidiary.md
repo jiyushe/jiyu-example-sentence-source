@@ -1,5 +1,7 @@
 # subsidiary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subsidiary.md)
+
 <p><span class="chinese">美国现在是一个全球附属公司。</span><span class="english">The US is now a wholly-owned subsidiary.</span></p>
 
 <p><span class="chinese">我们开设会计课，作为副修课程。</span><span class="english">We offer accounting as a subsidiary course.</span></p>

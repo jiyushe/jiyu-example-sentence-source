@@ -1,5 +1,7 @@
 # 心烦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinfan.md)
+
 <p><span class="chinese">她只是有点心烦。</span><span class="english">She's just upset.</span></p>
 
 <p><span class="chinese">那个人真让我心烦。</span><span class="english">That man really bugs me.</span></p>

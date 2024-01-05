@@ -1,5 +1,7 @@
 # tempeh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tempeh.md)
+
 <p><span class="chinese">我正在努力成为这个地方的市长——城里最好的松脆的印尼豆豉色拉加大白萝卜。</span><span class="english">I’m trying to become mayor of this place—best crunchy tempeh salad with daikon in town.</span></p>
 
 <p><span class="chinese">素食者们以后将会认可豆豉，这是一种经常用来代替肉类的发酵豆粕。</span><span class="english">Vegetarians will recognize tempeh , a fermented soybean cake that is often used in place of meat.</span></p>

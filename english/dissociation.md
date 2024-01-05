@@ -1,5 +1,7 @@
 # dissociation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissociation.md)
+
 <p><span class="chinese">这个过程称为分离。</span><span class="english">This is called dissociation.</span></p>
 
 <p><span class="chinese">第二项是离解能。</span><span class="english">Number two is dissociation energy.</span></p>

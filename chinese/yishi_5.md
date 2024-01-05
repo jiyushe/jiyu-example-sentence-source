@@ -1,5 +1,7 @@
 # 医师
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yishi_5.md)
+
 <p><span class="chinese">你这么干的眼泪，我医师。</span><span class="english">So dry your tears, I seh.</span></p>
 
 <p><span class="chinese">那医师是我们的朋友。</span><span class="english">The healer is our friend.</span></p>

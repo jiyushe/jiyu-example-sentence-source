@@ -1,5 +1,7 @@
 # viviparous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/viviparous.md)
+
 <p><span class="chinese">人和其他大多数哺乳动物都是胎生的。</span><span class="english">Man and most other mammals are viviparous.</span></p>
 
 <p><span class="chinese">然而，所有有体毛的动物是胎生的。</span><span class="english">All animals, however, that are hair-coated are viviparous.</span></p>

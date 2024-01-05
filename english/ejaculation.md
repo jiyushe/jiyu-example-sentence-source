@@ -1,5 +1,7 @@
 # ejaculation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ejaculation.md)
+
 <p><span class="chinese">为什么中提琴独奏和早泄一样？</span><span class="english">Why is a viola solo like premature ejaculation?</span></p>
 
 <p><span class="chinese">也许女性“射精”也有相同的解释吧。</span><span class="english">Perhaps female ejaculation has a similar explanation.</span></p>

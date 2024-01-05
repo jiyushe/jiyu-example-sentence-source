@@ -1,5 +1,7 @@
 # reconcile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reconcile.md)
+
 <p><span class="chinese">我们如何协调这些？</span><span class="english">How do we reconcile that?</span></p>
 
 <p><span class="chinese">如何解释这种矛盾？</span><span class="english">How to reconcile this paradox?</span></p>

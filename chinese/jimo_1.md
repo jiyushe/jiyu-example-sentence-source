@@ -1,5 +1,7 @@
 # 寂寞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jimo_1.md)
+
 <p><span class="chinese">秋，是一个寂寞的季节。</span><span class="english">Autumn, is a lonely season.</span></p>
 
 <p><span class="chinese">写意出一首首寂寞的歌。</span><span class="english">Freehand out a lonely song.</span></p>

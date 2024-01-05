@@ -1,5 +1,7 @@
 # 公报
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongbao.md)
+
 <p><span class="chinese">我们对公报持异议。</span><span class="english">We disagree to the communique.</span></p>
 
 <p><span class="chinese">事情还是上了太平洋战区公报。</span><span class="english">The pacific communiques included it.</span></p>

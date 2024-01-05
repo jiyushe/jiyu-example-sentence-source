@@ -1,5 +1,7 @@
 # clonal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clonal.md)
+
 <p><span class="chinese">克隆不应答和抑制细胞是耐受的主要机制。</span><span class="english">Clonal anergy and suppressor cells are main mechanisms of the tolerance.</span></p>
 
 <p><span class="chinese">细胞克隆实验证实细胞有自我更新能力。</span><span class="english">Clonal and population analyses showed their extensive self-renew capacity.</span></p>

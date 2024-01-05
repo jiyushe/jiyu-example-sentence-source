@@ -1,5 +1,7 @@
 # 要道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaodao.md)
+
 <p><span class="chinese">这是一条交通要道。</span><span class="english">This is an important line of communication.</span></p>
 
 <p><span class="chinese">直布罗陀海峡是地中海的咽喉要道。</span><span class="english">Gibraltar is the key to the Mediterranean Sea.</span></p>

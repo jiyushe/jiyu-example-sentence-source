@@ -1,5 +1,7 @@
 # acetyl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acetyl.md)
+
 <p><span class="chinese">“一”来自于它。</span><span class="english">The "a" came from acetyl.</span></p>
 
 <p><span class="chinese">将一个乙酰基加到某个分子上的过程。</span><span class="english">The addition of an acetyl group to a molecule.</span></p>

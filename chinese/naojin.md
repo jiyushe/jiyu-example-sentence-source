@@ -1,5 +1,7 @@
 # 脑筋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naojin.md)
+
 <p><span class="chinese">我伤透了脑筋。</span><span class="english">I beat my brains.</span></p>
 
 <p><span class="chinese">我知道你在动什么歪脑筋。</span><span class="english">I see what you are up to.</span></p>

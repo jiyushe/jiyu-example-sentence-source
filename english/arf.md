@@ -1,5 +1,7 @@
 # arf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arf.md)
+
 <p><span class="chinese">唔…老黄开始在厨房的桌子边闻味道。</span><span class="english">Arf ! Old Yellow starts barking and running around the table.</span></p>
 
 <p><span class="chinese">方法对18例心脏换瓣术后早期ARF患者的临床资料进行分析。</span><span class="english">Methods Clinical data of 18 cases with ARF after CVR were analyzed.</span></p>

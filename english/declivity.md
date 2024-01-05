@@ -1,5 +1,7 @@
 # declivity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/declivity.md)
+
 <p><span class="chinese">悬岸是非常、非常徒的斜面。</span><span class="english">A precipice is a very, very steep declivity.</span></p>
 
 <p><span class="chinese">他是从十二尺或十五尺高的地方滚下来的。</span><span class="english">He had rolled down a declivity of twelve or fifteen feet.</span></p>

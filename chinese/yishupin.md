@@ -1,5 +1,7 @@
 # 艺术品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yishupin.md)
+
 <p><span class="chinese">而你的艺术品仅属于你。</span><span class="english">But your art is for you.</span></p>
 
 <p><span class="chinese">这座钟是一件艺术品。</span><span class="english">The clock is a work of art.</span></p>

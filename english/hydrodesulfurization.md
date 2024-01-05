@@ -1,5 +1,7 @@
 # hydrodesulfurization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrodesulfurization.md)
+
 <p><span class="chinese">用噻吩加氢脱硫反应评定了催化剂的性能。</span><span class="english">The thiophene hydrodesulfurization was adopted to evaluate the activity of the nitride catalysts.</span></p>
 
 <p><span class="chinese">该联合装置采用高含硫渣油为原料，并由延迟焦化、加氢脱硫等工艺生产精制油品。</span><span class="english">This complex uses high-sulfur residuum as raw material with processes of delayed coking, and hydrodesulfurization.</span></p>

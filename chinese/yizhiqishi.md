@@ -1,5 +1,7 @@
 # 颐指气使
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizhiqishi.md)
+
 <p><span class="chinese">她老是颐指气使的。</span><span class="english">And she's so bossy.</span></p>
 
 <p><span class="chinese">你不能总是对人颐指气使的。</span><span class="english">You can't ride the tiger forever.</span></p>

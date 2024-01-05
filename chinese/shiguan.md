@@ -1,5 +1,7 @@
 # 使馆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiguan.md)
+
 <p><span class="chinese">中国驻法使馆捐献了帐篷。</span><span class="english">China?s embassy in France donates tents.</span></p>
 
 <p><span class="chinese">很多人会在使馆工作。</span><span class="english">They going to be locked up in the ambassy.</span></p>

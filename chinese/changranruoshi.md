@@ -1,5 +1,7 @@
 # 怅然若失
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/changranruoshi.md)
+
 <p><span class="chinese">他看上去怅然若失。</span><span class="english">He has a wistful look.</span></p>
 
 <p><span class="chinese">发现这一点后，他不免有些怅然若失。</span><span class="english">Then he noticed a single white feather had fallen from it.</span></p>

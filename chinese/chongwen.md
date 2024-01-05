@@ -1,5 +1,7 @@
 # 重温
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongwen.md)
+
 <p><span class="chinese">我必须把拉丁语重温一下。</span><span class="english">I must brush up on my Latin.</span></p>
 
 <p><span class="chinese">重温小游戏和谜题！</span><span class="english">Replay mini-games and puzzles!</span></p>

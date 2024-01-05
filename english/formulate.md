@@ -1,5 +1,7 @@
 # formulate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/formulate.md)
+
 <p><span class="chinese">其它问题也可以这么做</span><span class="english">You can formulate another problem.</span></p>
 
 <p><span class="chinese">这就是公式化解题的方法</span><span class="english">This is how you formulate problems.</span></p>

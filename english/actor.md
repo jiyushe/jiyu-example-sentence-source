@@ -1,5 +1,7 @@
 # actor 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/actor.md)
+
 <p><span class="chinese">他是个滥竽充数的演员。</span><span class="english">He is a an actor.</span></p>
 
 <p><span class="chinese">他是个很糟糕的演员。</span><span class="english">He is an awfuly actor.</span></p>

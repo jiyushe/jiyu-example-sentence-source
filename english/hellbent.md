@@ -1,5 +1,7 @@
 # hellbent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hellbent.md)
+
 <p><span class="chinese">那些驾驶快艇的人决意要为英国赢得美国杯标锦标赛的冠军。</span><span class="english">The yachtsmen were hellbent on winning the America's Cup for Britain.</span></p>
 
 <p><span class="chinese">卢克·哈丁关于俄罗斯为何要坚定回归苏联模式的报道</span><span class="english">Luke Harding reports on why Russia seems hellbent on reverting to its Soviet past</span></p>

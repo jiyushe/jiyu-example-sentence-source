@@ -1,5 +1,7 @@
 # dubiously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dubiously.md)
+
 <p><span class="chinese">这位信差疑惑地摇摇头。</span><span class="english">The courier shook his head dubiously.</span></p>
 
 <p><span class="chinese">魔主拿住了礼物，又半信半疑地看了看它。</span><span class="english">The demon master caught the gift and studied it dubiously.</span></p>

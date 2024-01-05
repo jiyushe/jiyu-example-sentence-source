@@ -1,5 +1,7 @@
 # telex
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/telex.md)
+
 <p><span class="chinese">用信还是电传?。</span><span class="english">Ah, by letter orby telex ?</span></p>
 
 <p><span class="chinese">我可以在这里挂发用户电报吗？</span><span class="english">May I take a telex call here?</span></p>

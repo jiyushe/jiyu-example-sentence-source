@@ -1,5 +1,7 @@
 # 骨架
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gujia_1.md)
+
 <p><span class="chinese">创建只有骨架的应用程序。</span><span class="english">Create a bare-bones application.</span></p>
 
 <p><span class="chinese">大楼被烧得只剩下空骨架。</span><span class="english">The building was burned to a shell.</span></p>

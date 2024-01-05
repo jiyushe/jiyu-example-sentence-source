@@ -1,5 +1,7 @@
 # arian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arian.md)
+
 <p><span class="chinese">这是为了创造一种“完美”的亚特兰蒂斯文明。</span><span class="english">This was to create a "perfect" Arian civilization.</span></p>
 
 <p><span class="chinese">我的名字叫阿里安，毕业于计算机工程专业。</span><span class="english">My name is Arian. My major was computer engineering.</span></p>

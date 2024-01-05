@@ -1,5 +1,7 @@
 # mabe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mabe.md)
+
 <p><span class="chinese">或许在将来的某一天。</span><span class="english">Mabe someday in the future.</span></p>
 
 <p><span class="chinese">谁知道，谁知道我哪天挂了。</span><span class="english">Who knows? Mabe I'm next in line.</span></p>

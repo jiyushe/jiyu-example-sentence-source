@@ -1,5 +1,7 @@
 # 无懈可击
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuxiekeji.md)
+
 <p><span class="chinese">这是个无懈可击的观点。</span><span class="english">This is an unexceptionable comment.</span></p>
 
 <p><span class="chinese">我们的记录无懈可击。</span><span class="english">We enjoyed a spotlessly clean record.</span></p>

@@ -1,5 +1,7 @@
 # belgian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/belgian.md)
+
 <p><span class="chinese">而33年后，这位比利时人收到了回信。</span><span class="english">And 33 years later, the Belgian has had a reply.</span></p>
 
 <p><span class="chinese">此外，英国皇家空军有一个比利时人，叫让。德塞利兹。</span><span class="english">Also in the RAF was a Belgian named Jean de Selys.</span></p>

@@ -1,5 +1,7 @@
 # erasmus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/erasmus.md)
+
 <p><span class="chinese">他是严重的抨击，为这一点，但伊拉斯谟捍卫他。</span><span class="english">He was severely castigated for this , but Erasmus defended him.</span></p>
 
 <p><span class="chinese">你是否曾经对一个研究伊拉兹马斯的学生的生活好奇过？</span><span class="english">Have you ever wondered what life is like for an Erasmus student?</span></p>

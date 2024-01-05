@@ -1,5 +1,7 @@
 # 水雷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuilei.md)
+
 <p><span class="chinese">又像一枚水雷！</span><span class="english">It's a torpedo!</span></p>
 
 <p><span class="chinese">他们的船被水雷炸毁了。</span><span class="english">Their ship was mined.</span></p>

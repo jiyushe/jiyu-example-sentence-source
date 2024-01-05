@@ -1,5 +1,7 @@
 # catastrophe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catastrophe.md)
+
 <p><span class="chinese">那是场大灾难。</span><span class="english">It was a catastrophe.</span></p>
 
 <p><span class="chinese">一场灾祸正在酿成。</span><span class="english">A catastrophe is brewing.</span></p>

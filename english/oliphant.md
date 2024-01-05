@@ -1,5 +1,7 @@
 # oliphant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oliphant.md)
+
 <p><span class="chinese">以上便是今天帕特-奥列芬特所画漫画的背景。</span><span class="english">This is the background to pat oliphant 's cartoon.</span></p>
 
 <p><span class="chinese">在今天的漫画中，漫画家帕特·奥列芬特所画的布什总统正在做巡回政治演说，他头戴一顶大大的得州牛仔帽。</span><span class="english">In today's cartoon, Pat Oliphant shows us George Bush on the stump.</span></p>

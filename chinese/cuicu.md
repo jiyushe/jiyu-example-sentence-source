@@ -1,5 +1,7 @@
 # 催促
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuicu.md)
+
 <p><span class="chinese">我催促说。</span><span class="english">I said encouragingly.</span></p>
 
 <p><span class="chinese">约翰催促简去慢跑。</span><span class="english">John urged Jane to jog.</span></p>

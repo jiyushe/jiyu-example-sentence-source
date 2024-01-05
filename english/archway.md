@@ -1,5 +1,7 @@
 # archway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/archway.md)
+
 <p><span class="chinese">老人在拱形楼附近趔趄了一下。</span><span class="english">The old man stumbled near the archway.</span></p>
 
 <p><span class="chinese">栎树形成一条林荫拱道。</span><span class="english">Venerable oaks forms a sylvan archway.</span></p>

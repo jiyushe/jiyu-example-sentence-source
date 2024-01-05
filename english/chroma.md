@@ -1,5 +1,7 @@
 # chroma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chroma.md)
+
 <p><span class="chinese">hroma在希腊语表示颜色</span><span class="english">Chroma is the Greek word for color.</span></p>
 
 <p><span class="chinese">色度预测模式也几乎相同。</span><span class="english">Chroma prediction modes are practically identical as well.</span></p>

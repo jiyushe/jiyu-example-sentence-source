@@ -1,5 +1,7 @@
 # 红灯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongdeng.md)
+
 <p><span class="chinese">现在是红灯。</span><span class="english">It is a reb light.</span></p>
 
 <p><span class="chinese">红灯意味着蓦“停”。</span><span class="english">Thee red light means"Stop".</span></p>

@@ -1,5 +1,7 @@
 # orthopedic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orthopedic.md)
+
 <p><span class="chinese">在古巴，Mestas是一个骨科医生。</span><span class="english">Mestas was an orthopedic surgeon in Cuba.</span></p>
 
 <p><span class="chinese">大多数骨科医生对此是欢迎的。</span><span class="english">Most orthopedic surgeons are open to this.</span></p>

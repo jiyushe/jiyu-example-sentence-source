@@ -1,5 +1,7 @@
 # stitches
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stitches.md)
+
 <p><span class="chinese">针脚很匀。</span><span class="english">The stitches are neat.</span></p>
 
 <p><span class="chinese">他一共缝了不下四十针。</span><span class="english">He needed over forty stitches.</span></p>

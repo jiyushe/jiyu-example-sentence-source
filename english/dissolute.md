@@ -1,5 +1,7 @@
 # dissolute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissolute.md)
+
 <p><span class="chinese">就这样过着悠游放荡的生活。</span><span class="english">In this way live swimming dissolute life.</span></p>
 
 <p><span class="chinese">桀是个极端残暴，放荡的人。</span><span class="english">Jie was extremely tyrannical and dissolute.</span></p>

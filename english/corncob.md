@@ -1,5 +1,7 @@
 # corncob
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corncob.md)
+
 <p><span class="chinese">他把玉米棒子弄得象口琴一样。</span><span class="english">He made a harmonica out of the corncob.</span></p>
 
 <p><span class="chinese">别管我了，你们聊吧，嘿我去告诉那个小家伙你过来了。</span><span class="english">Hey, why don't I go tell the little corncob you're here.</span></p>

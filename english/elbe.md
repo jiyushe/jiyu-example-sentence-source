@@ -1,5 +1,7 @@
 # elbe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elbe.md)
+
 <p><span class="chinese">德国中东部的城市，位于德绍东部的易北河上。</span><span class="english">A city of east-central Germany on the Elbe River east of Dessau.</span></p>
 
 <p><span class="chinese">而剩下的可能会花费她一生的时间。</span><span class="english">One of the later procedures would eventually cost Elbe her life.</span></p>

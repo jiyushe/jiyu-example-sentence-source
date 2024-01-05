@@ -1,5 +1,7 @@
 # 活动分子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huodongfenzi.md)
+
 <p><span class="chinese">我是信息活动分子。</span><span class="english">I am an information activist.</span></p>
 
 <p><span class="chinese">他们还袭击了一名英国活动分子。</span><span class="english">They also assaulted a British activist.</span></p>

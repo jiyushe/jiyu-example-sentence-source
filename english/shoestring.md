@@ -1,5 +1,7 @@
 # shoestring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shoestring.md)
+
 <p><span class="chinese">我们仍得小本经营。</span><span class="english">We were living on a shoestring.</span></p>
 
 <p><span class="chinese">我们仍得小本经营。</span><span class="english">We still had to operate on a shoestring.</span></p>

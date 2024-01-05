@@ -1,5 +1,7 @@
 # 挤眉弄眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jimeinongyan.md)
+
 <p><span class="chinese">不要再向那金发女郎挤眉弄眼！</span><span class="english">Stop making eyes at that blonde!</span></p>
 
 <p><span class="chinese">我臊眉耷眼的走了，正如我挤眉弄眼地来。</span><span class="english">Da eyebrow eye of SAO walk, as I make faces.</span></p>

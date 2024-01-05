@@ -1,5 +1,7 @@
 # 开闸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaizha.md)
+
 <p><span class="chinese">请打开闸板防喷器。</span><span class="english">Open the pipe ram, please.</span></p>
 
 <p><span class="chinese">在开闸放水的那一天，好些人来到了堤坝上。</span><span class="english">On the day the sluice gate was to be opened, a huge crowd gathered on the banks.</span></p>

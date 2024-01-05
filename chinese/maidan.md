@@ -1,5 +1,7 @@
 # 买单
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maidan.md)
+
 <p><span class="chinese">谁会为这些买单？</span><span class="english">Who foots the bill?</span></p>
 
 <p><span class="chinese">谁将为保护节约买单？</span><span class="english">Who will pay for conservation?</span></p>

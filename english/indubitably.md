@@ -1,5 +1,7 @@
 # indubitably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indubitably.md)
+
 <p><span class="chinese">他的行为明显是欠思量。</span><span class="english">His behaviour was indubitably ill-judged.</span></p>
 
 <p><span class="chinese">这种行为无疑就是一种权限的行为。</span><span class="english">This act is indubitably an act of authority.</span></p>

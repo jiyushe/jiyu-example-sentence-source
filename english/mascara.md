@@ -1,5 +1,7 @@
 # mascara
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mascara.md)
+
 <p><span class="chinese">我的睫毛膏哪儿去了。</span><span class="english">Where do I put my mascara?</span></p>
 
 <p><span class="chinese">在地铁上，我涂上了睫毛膏。</span><span class="english">On the train, I applied mascara.</span></p>

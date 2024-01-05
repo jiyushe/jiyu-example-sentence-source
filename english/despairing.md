@@ -1,5 +1,7 @@
 # despairing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/despairing.md)
+
 <p><span class="chinese">被剥夺了希望并不就是绝望。</span><span class="english">Being deprived of hope is not despairing.</span></p>
 
 <p><span class="chinese">患者讲更直白、绝望的语言。</span><span class="english">Consumers speak a more frank, despairing language.</span></p>

@@ -1,5 +1,7 @@
 # misled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misled.md)
+
 <p><span class="chinese">你使我误解了你的意图。</span><span class="english">I was misled about your intentions.</span></p>
 
 <p><span class="chinese">但女巫用薄雾把他们带错路。</span><span class="english">But the witch misled them in the mist.</span></p>

@@ -1,5 +1,7 @@
 # vibratory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vibratory.md)
+
 <p><span class="chinese">震动电机驱动送纸，输纸平稳。</span><span class="english">Feeding paper stable by Vibratory Motor.</span></p>
 
 <p><span class="chinese">至关重要的是保护你们的振动精髓。</span><span class="english">Protection of your vibratory essence is vital.</span></p>

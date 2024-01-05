@@ -1,5 +1,7 @@
 # 蛰伏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhefu_1.md)
+
 <p><span class="chinese">一些昆虫在冬季蛰伏。</span><span class="english">Some insects slumber in the winter.</span></p>
 
 <p><span class="chinese">蛰伏在房间里，门关闭着，灯熄灭了。</span><span class="english">We stay in the room, door closed, lights out.</span></p>

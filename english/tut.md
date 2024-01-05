@@ -1,5 +1,7 @@
 # tut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tut.md)
+
 <p><span class="chinese">四月天自行其是。</span><span class="english">April tut was er will.</span></p>
 
 <p><span class="chinese">我心里暗暗地啧啧称赞。</span><span class="english">I heart secretly tut praise.</span></p>

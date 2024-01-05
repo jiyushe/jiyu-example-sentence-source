@@ -1,5 +1,7 @@
 # epistaxis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epistaxis.md)
+
 <p><span class="chinese">外伤是家畜衄血的最常见原因。</span><span class="english">Trauma is the most common cause of epistaxis in domestic animals.</span></p>
 
 <p><span class="chinese">迟发，反复发生的严重鼻衄为其主要临床特征。</span><span class="english">Delayed and repeated epistaxis was its most common clinical feature.</span></p>

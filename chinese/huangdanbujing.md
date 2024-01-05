@@ -1,5 +1,7 @@
 # 荒诞不经
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huangdanbujing.md)
+
 <p><span class="chinese">他们的要求是荒诞不经的。</span><span class="english">Their demands are ridiculous, absurd.</span></p>
 
 <p><span class="chinese">帕金森对于荒诞不经的事一眼即明。</span><span class="english">Parkinson had a sharp eye for the absurd.</span></p>

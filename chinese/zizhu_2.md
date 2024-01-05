@@ -1,5 +1,7 @@
 # 自助
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zizhu_2.md)
+
 <p><span class="chinese">自助者，天助矣。</span><span class="english">Self-help, the day help Yi.</span></p>
 
 <p><span class="chinese">那里有自助的咖啡机。</span><span class="english">There is self-help coffee maker.</span></p>

@@ -1,5 +1,7 @@
 # sunset
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sunset.md)
+
 <p><span class="chinese">我爱日落。</span><span class="english">I love sunset.</span></p>
 
 <p><span class="chinese">圣托里尼的黄昏。</span><span class="english">Sunset over Santorini.</span></p>

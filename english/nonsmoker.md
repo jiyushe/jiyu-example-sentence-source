@@ -1,5 +1,7 @@
 # nonsmoker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonsmoker.md)
+
 <p><span class="chinese">现在，不吸烟可能反而是件新鲜事了。</span><span class="english">Perhaps now the novelty should be the nonsmoker?</span></p>
 
 <p><span class="chinese">这也许一半是由于他不吸烟、也不喝酒的缘故。</span><span class="english">Perhaps this was partly because he was a nonsmoker and a teetotaler.</span></p>

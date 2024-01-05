@@ -1,5 +1,7 @@
 # meanness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meanness.md)
+
 <p><span class="chinese">他不致于做出卑劣和欺骗的事情来。</span><span class="english">He is above meanness and deceit.</span></p>
 
 <p><span class="chinese">我决不干这种卑鄙的事情。</span><span class="english">I never descend to such meanness.</span></p>

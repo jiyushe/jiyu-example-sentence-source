@@ -1,5 +1,7 @@
 # munition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/munition.md)
+
 <p><span class="chinese">反叛分子用炸弹炸毁兵工厂。</span><span class="english">The rebels bombed the munition factory.</span></p>
 
 <p><span class="chinese">血液和血液衍生品被认为是日用品或军需品。</span><span class="english">Blood and blood derivatives are considered a supply commodity or munition.</span></p>

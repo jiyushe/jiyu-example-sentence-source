@@ -1,5 +1,7 @@
 # 脑际
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naoji.md)
+
 <p><span class="chinese">那回忆仍然萦回在我的脑际。</span><span class="english">The memory still haunts me.</span></p>
 
 <p><span class="chinese">那音乐一直萦绕在我的脑际。</span><span class="english">That music dwells in my mind.</span></p>

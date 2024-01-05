@@ -1,5 +1,7 @@
 # 逆水行舟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nishuixingzhou.md)
+
 <p><span class="chinese">生活是逆水行舟，不进则退。</span><span class="english">Life is boating against the current.</span></p>
 
 <p><span class="chinese">逆水行舟用力撑，一篙松劲退千寻。</span><span class="english">You felt the floor, a pole slacken qianhe back.</span></p>

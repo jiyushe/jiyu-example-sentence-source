@@ -1,5 +1,7 @@
 # cad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cad.md)
+
 <p><span class="chinese">他领导了这项称为康丽斯CAD的测试研究。</span><span class="english">He led the study of the test, called Corus CAD.</span></p>
 
 <p><span class="chinese">零件库是CAD软件的重要组成部分。</span><span class="english">Part library is an important part of CAD software.</span></p>

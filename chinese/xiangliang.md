@@ -1,5 +1,7 @@
 # 响亮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangliang.md)
+
 <p><span class="chinese">响亮地送出一只欢乐的歌。</span><span class="english">Peals out a cheerful song.</span></p>
 
 <p><span class="chinese">她用响亮而深沉的声音答话。</span><span class="english">She boomed out her answer.</span></p>

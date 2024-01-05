@@ -1,5 +1,7 @@
 # rheological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rheological.md)
+
 <p><span class="chinese">TLA对沥青的流变性能有显著影响。</span><span class="english">The rheological properties of asphalt were remarkably affected by TLA.</span></p>
 
 <p><span class="chinese">这些参数均为熔体的流变性能所控制。</span><span class="english">Those parameters are all controlled by rheological behaviour of fluid.</span></p>

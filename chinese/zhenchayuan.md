@@ -1,5 +1,7 @@
 # 侦察员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenchayuan.md)
+
 <p><span class="chinese">共八十法郎，侦察员先生。</span><span class="english">Eighty francs, Mr. Inspector.</span></p>
 
 <p><span class="chinese">他又看了侦察员一眼。</span><span class="english">He glanced at his Spotter again.</span></p>

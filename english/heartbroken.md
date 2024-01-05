@@ -1,5 +1,7 @@
 # heartbroken
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heartbroken.md)
+
 <p><span class="chinese">悲伤的往事令人断肠。</span><span class="english">The sad past is heartbroken.</span></p>
 
 <p><span class="chinese">也不过是断肠二字。</span><span class="english">Is nothing but the word heartbroken.</span></p>

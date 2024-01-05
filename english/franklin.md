@@ -1,5 +1,7 @@
 # franklin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/franklin.md)
+
 <p><span class="chinese">富兰克林，试得好。</span><span class="english">Good try, Franklin.</span></p>
 
 <p><span class="chinese">富兰克林，把钻子递给我。</span><span class="english">Pass me the drill, Franklin.</span></p>

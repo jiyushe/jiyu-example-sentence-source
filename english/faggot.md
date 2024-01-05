@@ -1,5 +1,7 @@
 # faggot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faggot.md)
+
 <p><span class="chinese">你是一捆柴火？</span><span class="english">Are you a faggot?</span></p>
 
 <p><span class="chinese">什么是英国猪肉球？</span><span class="english">What is a British faggot?</span></p>

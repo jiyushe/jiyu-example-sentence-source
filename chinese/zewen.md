@@ -1,5 +1,7 @@
 # 责问
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zewen.md)
+
 <p><span class="chinese">她的责问和怒容，好象布满了整个房子。</span><span class="english">Her rebukes and angries are seemly full of all room.</span></p>
 
 <p><span class="chinese">他们承受着良心的责问，而这正是终结的开始。</span><span class="english">They have qualms of conscience and that is the beginning of the end.</span></p>

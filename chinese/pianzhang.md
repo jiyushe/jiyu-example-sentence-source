@@ -1,5 +1,7 @@
 # 篇章
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianzhang.md)
+
 <p><span class="chinese">爱是一起写下我们自己的篇章。</span><span class="english">Love is writing a new chapter,together.</span></p>
 
 <p><span class="chinese">选举日来临之时，新的篇章即将翻开。</span><span class="english">On Election Day, the next chapter will begin.</span></p>

@@ -1,5 +1,7 @@
 # federation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/federation.md)
+
 <p><span class="chinese">数据联合就是其中的一个。</span><span class="english">Data federation is one of them.</span></p>
 
 <p><span class="chinese">这是联盟的一个关键问题。</span><span class="english">This is a key issue for Federation.</span></p>

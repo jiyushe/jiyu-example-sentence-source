@@ -1,5 +1,7 @@
 # 不切实际
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buqieshiji.md)
+
 <p><span class="chinese">他想要成为第一的渴望是不切实际的。</span><span class="english">His desire to be No. 1 is unpractical.</span></p>
 
 <p><span class="chinese">但这是不切实际的期望。</span><span class="english">But this is an unrealistic expectation.</span></p>

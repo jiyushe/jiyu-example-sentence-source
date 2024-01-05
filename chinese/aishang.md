@@ -1,5 +1,7 @@
 # 哀伤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aishang.md)
+
 <p><span class="chinese">这种死，是一种哀伤。</span><span class="english">This death was an affliction.</span></p>
 
 <p><span class="chinese">哀伤与苦闷充满我的心。</span><span class="english">Grief and despair fill my heart.</span></p>

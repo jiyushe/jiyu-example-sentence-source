@@ -1,5 +1,7 @@
 # 公厘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongli_1.md)
+
 <p><span class="chinese">基本设计为9公厘口径半自动手枪，12发，长射程。</span><span class="english">Basic design 9mm semi-automatic gun. 12 shot clip. Long-range weapon.</span></p>
 
 <p><span class="chinese">其它精炼铜箔，有衬者，其厚度在0．07公厘及以下者。</span><span class="english">Other refined copper foil, backed, of a thickness not exceeding 0.07 mm.</span></p>

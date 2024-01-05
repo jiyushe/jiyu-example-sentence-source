@@ -1,5 +1,7 @@
 # lobbyist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lobbyist.md)
+
 <p><span class="chinese">其实，早在成为金融事务委员会办事员之前，罗伯逊就已经当了很多年的游说家。</span><span class="english">Roberson previously worked as a lobbyist for the financial services industry.</span></p>
 
 <p><span class="chinese">在一个小时的漫骂演说中，立法者猛烈抨击议案通过者反对他的议案。</span><span class="english">In an hour long philippic , the legislator denounced the lobbyist opposing his bill.</span></p>

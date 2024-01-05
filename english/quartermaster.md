@@ -1,5 +1,7 @@
 # quartermaster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quartermaster.md)
+
 <p><span class="chinese">他在军需部门。</span><span class="english">He's in the quartermaster corps.</span></p>
 
 <p><span class="chinese">军需官负责补给物资。</span><span class="english">The quartermaster is in charge of stores.</span></p>

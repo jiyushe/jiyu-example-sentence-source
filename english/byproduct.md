@@ -1,5 +1,7 @@
 # byproduct
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/byproduct.md)
+
 <p><span class="chinese">三聚氰酸是三聚氰胺的副产品。</span><span class="english">Cyanuric acid is a melamine byproduct.</span></p>
 
 <p><span class="chinese">它是一个伟大的附属品。</span><span class="english">It is a byproduct of great, simple living.</span></p>

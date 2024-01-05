@@ -1,5 +1,7 @@
 # bangle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bangle.md)
+
 <p><span class="chinese">我猜您可能喜欢翡翠手镯。</span><span class="english">I guess you might enjoy jade bangle.</span></p>
 
 <p><span class="chinese">给卡丽买了一点小银手镯。</span><span class="english">Bought a little silver bangle for Carrie.</span></p>

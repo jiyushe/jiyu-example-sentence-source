@@ -1,5 +1,7 @@
 # annoyingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/annoyingly.md)
+
 <p><span class="chinese">命令简直太长了！</span><span class="english">The command is annoyingly long!</span></p>
 
 <p><span class="chinese">我没有钢琴会感到烦闷。</span><span class="english">I don't have a piano anymore, annoyingly.</span></p>

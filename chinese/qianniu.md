@@ -1,5 +1,7 @@
 # 牵牛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianniu.md)
+
 <p><span class="chinese">坐看牵牛织女星。</span><span class="english">Thunbergia take look at Vega.</span></p>
 
 <p><span class="chinese">牵牛要牵牛鼻子。</span><span class="english">We must lead an ox by the halter.</span></p>

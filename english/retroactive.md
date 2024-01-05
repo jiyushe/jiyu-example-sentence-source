@@ -1,5 +1,7 @@
 # retroactive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retroactive.md)
+
 <p><span class="chinese">但是这项法规并无追溯效力。</span><span class="english">This is not retroactive.</span></p>
 
 <p><span class="chinese">此法不溯及既往。</span><span class="english">This law is not retroactive.</span></p>

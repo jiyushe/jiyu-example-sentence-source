@@ -1,5 +1,7 @@
 # 制备
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhibei.md)
+
 <p><span class="chinese">纳米线有序阵列的制备。</span><span class="english">Fabrication of nano-wire arrays.</span></p>
 
 <p><span class="chinese">制备了纳米级固体超强酸SO42?。</span><span class="english">Nano-sized solid superacids SO42?</span></p>

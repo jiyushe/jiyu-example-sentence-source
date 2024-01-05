@@ -1,5 +1,7 @@
 # 谴责
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianze.md)
+
 <p><span class="chinese">他在谴责那个。</span><span class="english">He's condemning that.</span></p>
 
 <p><span class="chinese">但是没有人谴责她。</span><span class="english">But nobody gave a damn.</span></p>

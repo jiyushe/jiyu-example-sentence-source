@@ -1,5 +1,7 @@
 # 老师傅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laoshifu.md)
+
 <p><span class="chinese">一个老师傅裱画，最少要两天时间。</span><span class="english">It takes at least two days for a mounting master to do the job.</span></p>
 
 <p><span class="chinese">我相信，我们是辅助的工具而上帝是最终的老师傅。</span><span class="english">I believe that we are tools and that God is ultimately the master Craftsman.</span></p>

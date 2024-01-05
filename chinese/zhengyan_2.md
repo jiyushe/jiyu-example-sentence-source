@@ -1,5 +1,7 @@
 # 证言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengyan_2.md)
+
 <p><span class="chinese">沉默者不会作出不利于自己的证言。</span><span class="english">The silent bear no witness against themselves.</span></p>
 
 <p><span class="chinese">什么使专家证言让陪审员感到可靠？</span><span class="english">What makes expert witnesses credible with jurors?</span></p>

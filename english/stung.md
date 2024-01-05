@@ -1,5 +1,7 @@
 # stung
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stung.md)
+
 <p><span class="chinese">他被蜜蜂螫了。</span><span class="english">He was stung by a bee.</span></p>
 
 <p><span class="chinese">他被黄蜂叮了一下。</span><span class="english">He was stung by a wasp.</span></p>

@@ -1,5 +1,7 @@
 # libel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/libel.md)
+
 <p><span class="chinese">博客上的内容也会构成诽谤罪。</span><span class="english">The laws of libel apply to blogs too.</span></p>
 
 <p><span class="chinese">如果那全是真的，有什么诽谤可言？</span><span class="english">If all that is true, what libel is there?</span></p>

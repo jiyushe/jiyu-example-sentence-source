@@ -1,5 +1,7 @@
 # eruption
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eruption.md)
+
 <p><span class="chinese">它是爆炸式的喷发。</span><span class="english">It’s an explosive eruption.</span></p>
 
 <p><span class="chinese">喷发后的圣海伦斯火山</span><span class="english">Mount St. Helens After Eruption</span></p>

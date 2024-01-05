@@ -1,5 +1,7 @@
 # 耐磨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naimo.md)
+
 <p><span class="chinese">简便的防滑耐磨。</span><span class="english">Easy slip-on wear.</span></p>
 
 <p><span class="chinese">耐磨损，使用寿命长。</span><span class="english">Wear-proof, long service life.</span></p>

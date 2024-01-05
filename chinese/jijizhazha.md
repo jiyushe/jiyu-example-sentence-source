@@ -1,5 +1,7 @@
 # 叽叽喳喳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jijizhazha.md)
+
 <p><span class="chinese">麻雀在外边叽叽喳喳地叫。</span><span class="english">Sparrows are twittering outside.</span></p>
 
 <p><span class="chinese">将不提供叽叽喳喳密码。</span><span class="english">Will not provide twitter passcode.</span></p>

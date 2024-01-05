@@ -1,5 +1,7 @@
 # 求索
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiusuo.md)
+
 <p><span class="chinese">这个答案，我依旧在求索。</span><span class="english">I'm still searching for answers.</span></p>
 
 <p><span class="chinese">法国以及加拿大都正在类似的路途中求索。</span><span class="english">France is pursuing the same path, as is Canada.</span></p>

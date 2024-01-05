@@ -1,5 +1,7 @@
 # 蠢人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chunren.md)
+
 <p><span class="chinese">蠢人定约早。</span><span class="english">Fools set far trysts.</span></p>
 
 <p><span class="chinese">傻子的箭放得快。/蠢人的东西消耗得快。</span><span class="english">A fool's bolt is soon shot.</span></p>

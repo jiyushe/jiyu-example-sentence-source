@@ -1,5 +1,7 @@
 # pyjamas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pyjamas.md)
+
 <p><span class="chinese">爱情看起来像一条睡裤</span><span class="english">Does it look like a pair of pyjamas</span></p>
 
 <p><span class="chinese">我的兄弟还穿着睡衣裤。</span><span class="english">My brother was still in his pyjamas.</span></p>

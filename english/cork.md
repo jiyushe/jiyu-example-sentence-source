@@ -1,5 +1,7 @@
 # cork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cork.md)
+
 <p><span class="chinese">瓶塞扑通一声地拔了出来。</span><span class="english">The cork came out plop.</span></p>
 
 <p><span class="chinese">软木塞砰的一声拔开。</span><span class="english">I stopped it with a cork.</span></p>

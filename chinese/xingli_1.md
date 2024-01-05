@@ -1,5 +1,7 @@
 # 行李
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingli_1.md)
+
 <p><span class="chinese">我讨厌行李。</span><span class="english">I hate luggage.</span></p>
 
 <p><span class="chinese">什么样子的行李？</span><span class="english">What kind of baggage?</span></p>

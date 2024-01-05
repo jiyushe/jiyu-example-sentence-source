@@ -1,5 +1,7 @@
 # boob
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boob.md)
+
 <p><span class="chinese">不对，是你呆。</span><span class="english">No, you’re a boob.</span></p>
 
 <p><span class="chinese">我绝不会叫人蠢材。</span><span class="english">I would never call somebody a boob.</span></p>

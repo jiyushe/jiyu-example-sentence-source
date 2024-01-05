@@ -1,5 +1,7 @@
 # phytochemical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phytochemical.md)
+
 <p><span class="chinese">本研究为开发防治稻曲病的植物源农药奠定了基础。</span><span class="english">These results would be a base for protection of the rice culture with the phytochemical pesticides.</span></p>
 
 <p><span class="chinese">含有丰富的白藜芦醇，那是一种植物化学因子，是一种外界正在研究的抗癌药物。</span><span class="english">They are plentiful in the phytochemical resveratrol, which is being studied as an anti-cancer drug.</span></p>

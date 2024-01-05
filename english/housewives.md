@@ -1,5 +1,7 @@
 # housewives
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/housewives.md)
+
 <p><span class="chinese">主妇用传统锅灶烧饭。</span><span class="english">Housewives cook with the traditional wok.</span></p>
 
 <p><span class="chinese">主妇们常常抱怨生活费用昂贵。</span><span class="english">Housewives often holler about high cost of living.</span></p>

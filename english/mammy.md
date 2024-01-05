@@ -1,5 +1,7 @@
 # mammy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mammy.md)
+
 <p><span class="chinese">——可怜的妈咪。</span><span class="english">Poor Mammy.</span></p>
 
 <p><span class="chinese">——妈咪在哪里？</span><span class="english">Where’s Mammy?</span></p>

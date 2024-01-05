@@ -1,5 +1,7 @@
 # 临行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linxing_1.md)
+
 <p><span class="chinese">她临行前拥抱了儿子。</span><span class="english">She embraced her son before leaving.</span></p>
 
 <p><span class="chinese">他临行前给我写了一封字迹潦草的短信。</span><span class="english">He wrote me a scribbled letter before leaving.</span></p>

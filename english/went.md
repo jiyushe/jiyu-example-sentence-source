@@ -1,5 +1,7 @@
 # went
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/went.md)
+
 <p><span class="chinese">我们就去”。</span><span class="english">We went.</span></p>
 
 <p><span class="chinese">她去了。</span><span class="english">She went.</span></p>

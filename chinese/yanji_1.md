@@ -1,5 +1,7 @@
 # 眼疾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanji_1.md)
+
 <p><span class="chinese">你以前患过眼疾吗？</span><span class="english">Have you had any problems with your eyes before?</span></p>
 
 <p><span class="chinese">第八十课保护视力，预防眼疾！</span><span class="english">Lesson 80 Protect eyesight and prevent eye diseases!</span></p>

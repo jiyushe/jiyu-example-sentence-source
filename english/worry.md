@@ -1,5 +1,7 @@
 # worry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/worry.md)
+
 <p><span class="chinese">不要盲目担心。</span><span class="english">Do not worry.</span></p>
 
 <p><span class="chinese">我该担心什么？</span><span class="english">What, me worry?</span></p>

@@ -1,5 +1,7 @@
 # betrayal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/betrayal.md)
+
 <p><span class="chinese">这感觉就像是背叛。</span><span class="english">That feels like a betrayal.</span></p>
 
 <p><span class="chinese">他的行动近于背叛。</span><span class="english">His action touched on betrayal.</span></p>

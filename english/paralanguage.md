@@ -1,5 +1,7 @@
 # paralanguage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paralanguage.md)
+
 <p><span class="chinese">即副语言和沉默。</span><span class="english">They are paralanguage and silence.</span></p>
 
 <p><span class="chinese">副语言的声音正好同文字本身相反。</span><span class="english">Paralanguage sounds just the opposite from the words themselves.</span></p>

@@ -1,5 +1,7 @@
 # macedonian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/macedonian.md)
+
 <p><span class="chinese">最有名的马其顿人是亚历山大大帝。</span><span class="english">The most famous Macedonian was Alexander the Great.</span></p>
 
 <p><span class="chinese">至少是马其顿名字，原子马其顿王。</span><span class="english">At least it's a Macedonian name,named after the king of Macedon.</span></p>

@@ -1,5 +1,7 @@
 # poem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poem.md)
+
 <p><span class="chinese">那么诗呢？</span><span class="english">And the poem?</span></p>
 
 <p><span class="chinese">这首诗读起来琅琅上口。</span><span class="english">This poem read well.</span></p>

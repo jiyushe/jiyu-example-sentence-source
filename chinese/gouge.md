@@ -1,5 +1,7 @@
 # 够格
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gouge.md)
+
 <p><span class="chinese">我认为他不够格。</span><span class="english">I do not think he is qualified.</span></p>
 
 <p><span class="chinese">你还不够格来打熔火之心！</span><span class="english">You're not leet enough for molten core.</span></p>

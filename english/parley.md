@@ -1,5 +1,7 @@
 # parley
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parley.md)
+
 <p><span class="chinese">然后他开始跟我谈判。</span><span class="english">Then be began to parley with me.</span></p>
 
 <p><span class="chinese">然后他开始跟我谈判。</span><span class="english">Then he began to parley with me.</span></p>

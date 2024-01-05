@@ -1,5 +1,7 @@
 # keep
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/keep.md)
+
 <p><span class="chinese">记日记。</span><span class="english">Keep a diary.</span></p>
 
 <p><span class="chinese">再接再厉哦！</span><span class="english">Keep studying!</span></p>

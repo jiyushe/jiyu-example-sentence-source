@@ -1,5 +1,7 @@
 # platinum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/platinum.md)
+
 <p><span class="chinese">白金长矗悦来做珠宝饰物。</span><span class="english">Platinum is used to jewelry.</span></p>
 
 <p><span class="chinese">铂是美洲的金属。</span><span class="english">Platinum is an American metal.</span></p>

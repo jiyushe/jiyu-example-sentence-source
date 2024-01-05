@@ -1,5 +1,7 @@
 # climb 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/climb.md)
+
 <p><span class="chinese">像狗熊一样爬。</span><span class="english">Climb like a bear.</span></p>
 
 <p><span class="chinese">我的事业是登山。</span><span class="english">What I do is climb.</span></p>

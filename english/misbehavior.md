@@ -1,5 +1,7 @@
 # misbehavior
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misbehavior.md)
+
 <p><span class="chinese">对他的不良行为，似乎没有完完全全的根治方法。</span><span class="english">There seems no be-all-end-all cure for his misbehavior.</span></p>
 
 <p><span class="chinese">因为调皮，母亲把他关在房里两个小时。</span><span class="english">His mother confined him to his room for two hours for his misbehavior.</span></p>

@@ -1,5 +1,7 @@
 # 戴帽子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daimaozi.md)
+
 <p><span class="chinese">厨师戴帽子和穿围裙。</span><span class="english">Cooks wear hats and aprons.</span></p>
 
 <p><span class="chinese">在格林希尔我们都喜欢戴帽子。</span><span class="english">Everyone likes to wear hats at Greenhill.</span></p>

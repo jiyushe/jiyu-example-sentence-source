@@ -1,5 +1,7 @@
 # asturias
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asturias.md)
+
 <p><span class="chinese">这些遗骸是在西班牙北部阿斯图利亚地区被发现的。</span><span class="english">The remains were found in a cave in the Asturias region of Northern Spain.</span></p>
 
 <p><span class="chinese">阿斯图里亚斯吉他起源于东北的伊比利亚半岛的西班牙东部。</span><span class="english">The Asturias guitars originated from the north-east of Iberian Peninsula Spain.</span></p>

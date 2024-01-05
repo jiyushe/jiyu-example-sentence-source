@@ -1,5 +1,7 @@
 # petrology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/petrology.md)
+
 <p><span class="chinese">地震岩石学研究分为微观和宏观两个层面。</span><span class="english">Seismic petrology research includes micro-level and macro-level.</span></p>
 
 <p><span class="chinese">有机岩石学方法是研究煤成油的重要方法之一。</span><span class="english">Organic petrology is an important method for studying coal formed oil.</span></p>

@@ -1,5 +1,7 @@
 # weak
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weak.md)
+
 <p><span class="chinese">弱者死亡。</span><span class="english">The weak die.</span></p>
 
 <p><span class="chinese">她身体很弱。</span><span class="english">She is very weak.</span></p>

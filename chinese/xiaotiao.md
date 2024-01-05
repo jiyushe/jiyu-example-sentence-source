@@ -1,5 +1,7 @@
 # 萧条
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaotiao.md)
+
 <p><span class="chinese">目前生意萧条不振。</span><span class="english">Business is slack just now.</span></p>
 
 <p><span class="chinese">萧条的经济使他破产了。</span><span class="english">The depression smashed him.</span></p>

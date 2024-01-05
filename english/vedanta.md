@@ -1,5 +1,7 @@
 # vedanta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vedanta.md)
+
 <p><span class="chinese">我们问他吠檀多是什么意思。</span><span class="english">We asked him what he meant by Vedanta.</span></p>
 
 <p><span class="chinese">这是我在吠檀多寺里的证悟。</span><span class="english">This was My Realization, in the Vedanta Temple.</span></p>

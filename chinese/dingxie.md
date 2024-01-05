@@ -1,5 +1,7 @@
 # 钉鞋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingxie.md)
+
 <p><span class="chinese">我需要踢足球用的钉鞋。</span><span class="english">I need a spike shoe for playing football.</span></p>
 
 <p><span class="chinese">请不要让您的钉鞋划坏了果岭。</span><span class="english">Please don't let your spikes scratch the green.</span></p>

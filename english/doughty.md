@@ -1,5 +1,7 @@
 # doughty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doughty.md)
+
 <p><span class="chinese">我是鲍勃道蒂。</span><span class="english">I'm Bob Doughty.</span></p>
 
 <p><span class="chinese">我和鲍勃•道蒂。</span><span class="english">And I'm Bob Doughty.</span></p>

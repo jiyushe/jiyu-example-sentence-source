@@ -1,5 +1,7 @@
 # oesophagus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oesophagus.md)
+
 <p><span class="chinese">事实上，喜欢吃烫食的人更容易患上食道癌。</span><span class="english">The truth is, doing so increases the risk of oesophagus cancer.</span></p>
 
 <p><span class="chinese">食道仅为咽和肠间的一段简单管。</span><span class="english">The oesophagus is only a brief pipe between pharynx and intestine.</span></p>

@@ -1,5 +1,7 @@
 # ferula
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ferula.md)
+
 <p><span class="chinese">阜康阿魏种子质量分级标准初步研究。</span><span class="english">Study on standard of Ferula fukanensis K.</span></p>
 
 <p><span class="chinese">新疆阿魏属及其相近属间的分类学研究。</span><span class="english">The taxonomic studies on Xinjiang Ferula and its close genera.</span></p>

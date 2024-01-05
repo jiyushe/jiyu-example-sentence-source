@@ -1,5 +1,7 @@
 # tableland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tableland.md)
+
 <p><span class="chinese">夜，款款地来到高原上。</span><span class="english">Night slowly reached the tableland.</span></p>
 
 <p><span class="chinese">土壤主要由砾质台地和粘土组成。</span><span class="english">The landis composedofgravelly tableland and clay soil.</span></p>

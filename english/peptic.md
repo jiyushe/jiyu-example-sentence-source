@@ -1,5 +1,7 @@
 # peptic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peptic.md)
+
 <p><span class="chinese">防止胃出血及消化道溃疡。</span><span class="english">Prevent gastrorrhagia and peptic ulcer.</span></p>
 
 <p><span class="chinese">淀粉最先由哪个消化器官消化？</span><span class="english">Amylaceous most first by which is peptic digested?</span></p>

@@ -1,5 +1,7 @@
 # 通讯网
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongxunwang.md)
+
 <p><span class="chinese">已经建成了具有世界先进水平的通讯网。</span><span class="english">China has a world-class telecommunications network.</span></p>
 
 <p><span class="chinese">这个地区还不在通讯网的覆盖范围之内。</span><span class="english">this area has not been covered by the communication net.</span></p>

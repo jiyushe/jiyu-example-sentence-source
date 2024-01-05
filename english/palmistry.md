@@ -1,5 +1,7 @@
 # palmistry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palmistry.md)
+
 <p><span class="chinese">你相信手相术吗?。</span><span class="english">Do you believe in palmistry?</span></p>
 
 <p><span class="chinese">是谁教会你看手相的？</span><span class="english">To Zoe Who taught you palmistry?</span></p>

@@ -1,5 +1,7 @@
 # tallyman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tallyman.md)
+
 <p><span class="chinese">理货员不在现场。</span><span class="english">Tallyman no in the spot.</span></p>
 
 <p><span class="chinese">劳驾，你是理货员吗？</span><span class="english">Excuse me, are you a tallyman?</span></p>

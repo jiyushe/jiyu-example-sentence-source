@@ -1,5 +1,7 @@
 # 小票
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaopiao.md)
+
 <p><span class="chinese">你有没有保留小票？</span><span class="english">Do you keep receipts?</span></p>
 
 <p><span class="chinese">这是您的小票，您请拿好。</span><span class="english">This is your receipt, please.</span></p>

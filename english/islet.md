@@ -1,5 +1,7 @@
 # islet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/islet.md)
+
 <p><span class="chinese">这个小岛是个好地方吗？</span><span class="english">Is the islet a nice place?</span></p>
 
 <p><span class="chinese">关关雎鸠、在河之洲。</span><span class="english">On the islet in the river.</span></p>

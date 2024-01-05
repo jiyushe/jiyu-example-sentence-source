@@ -1,5 +1,7 @@
 # northerner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/northerner.md)
+
 <p><span class="chinese">她是北方人。</span><span class="english">She is a northerner.</span></p>
 
 <p><span class="chinese">他的口音让人听出他是南方人。</span><span class="english">His accent gave him away as a northerner.</span></p>

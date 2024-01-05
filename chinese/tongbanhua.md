@@ -1,5 +1,7 @@
 # 铜版画
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongbanhua.md)
+
 <p><span class="chinese">我今天了解到了制作一幅铜版画的全过程。</span><span class="english">I got to knowthewhole process of making a etching today.</span></p>
 
 <p><span class="chinese">我今天了解到了制作一幅铜版画的全过程。</span><span class="english">I got to know the whole process of making a copperplate etching today.</span></p>

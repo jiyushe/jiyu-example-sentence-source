@@ -1,5 +1,7 @@
 # 直爽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhishuang.md)
+
 <p><span class="chinese">他是一个我欣赏的直爽的人。</span><span class="english">He is a blunt man who I admire.</span></p>
 
 <p><span class="chinese">约翰提建议很直爽。</span><span class="english">John is very free with his advice.</span></p>

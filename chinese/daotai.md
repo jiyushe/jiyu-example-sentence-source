@@ -1,5 +1,7 @@
 # 倒台
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daotai.md)
+
 <p><span class="chinese">我的座右铭是“为了邪恶的倒台”，</span><span class="english">My motto is "to the downfall of evil",</span></p>
 
 <p><span class="chinese">不到一年后，军政府即告倒台。</span><span class="english">The junta fell less than a year later.</span></p>

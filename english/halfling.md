@@ -1,5 +1,7 @@
 # halfling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/halfling.md)
+
 <p><span class="chinese">还有，瞄准那个半身人。</span><span class="english">And aim for the halfling.</span></p>
 
 <p><span class="chinese">你觉得他是个半身人吗？</span><span class="english">Do you think he's a halfling?</span></p>

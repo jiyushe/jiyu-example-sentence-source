@@ -1,5 +1,7 @@
 # beta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beta.md)
+
 <p><span class="chinese">新的测试版本。</span><span class="english">New beta Ver.</span></p>
 
 <p><span class="chinese">斜率用beta表示</span><span class="english">And the slope is called beta.</span></p>

@@ -1,5 +1,7 @@
 # kingcraft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kingcraft.md)
+
 <p><span class="chinese">网站，永远是内容为王道。</span><span class="english">Website, it is content is kingcraft forever.</span></p>
 
 <p><span class="chinese">在未来，数码发行才是王道。</span><span class="english">In future, the number distributes gift is kingcraft.</span></p>

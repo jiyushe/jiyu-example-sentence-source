@@ -1,5 +1,7 @@
 # manna
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manna.md)
+
 <p><span class="chinese">野蜜，甘露和仙果。</span><span class="english">And honey wild, and manna dew.</span></p>
 
 <p><span class="chinese">蛛网上的甘露光彩轻盈。</span><span class="english">Manna in cobweb lusters with lightness.</span></p>

@@ -1,5 +1,7 @@
 # 泰然处之
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tairanchuzhi.md)
+
 <p><span class="chinese">你必须学会遇事泰然处之。</span><span class="english">You must learn to play it cool.</span></p>
 
 <p><span class="chinese">但是我转念一想，就能泰然处之。</span><span class="english">But other days, I took it in stride.</span></p>

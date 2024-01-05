@@ -1,5 +1,7 @@
 # disclaim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disclaim.md)
+
 <p><span class="chinese">我没有搞过任何政治交易。</span><span class="english">I disclaim any dealing in politics.</span></p>
 
 <p><span class="chinese">他否认这只狗是他的。</span><span class="english">He disclaim the ownership of the dog.</span></p>

@@ -1,5 +1,7 @@
 # 常常
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/changchang.md)
+
 <p><span class="chinese">阿木常常这么说。</span><span class="english">Amu often say.</span></p>
 
 <p><span class="chinese">但也不常常如此。</span><span class="english">But not often.</span></p>

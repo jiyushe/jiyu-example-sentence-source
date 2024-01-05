@@ -1,5 +1,7 @@
 # syntactical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/syntactical.md)
+
 <p><span class="chinese">当概要文件被验证时，它只是做简单的语法验证。</span><span class="english">It is checked only for syntactical validity when the profile itself is validated.</span></p>
 
 <p><span class="chinese">该Toad扩展可以对数据库相关代码进行语义和语法上的验证。</span><span class="english">The Toad Extension does semantical and syntactical validation of the database related code.</span></p>

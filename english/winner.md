@@ -1,5 +1,7 @@
 # winner 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/winner.md)
+
 <p><span class="chinese">RJ才是做赢家的料。</span><span class="english">RJ is a winner.</span></p>
 
 <p><span class="chinese">赢得的便去，何如？</span><span class="english">The winner goes—agreed?</span></p>

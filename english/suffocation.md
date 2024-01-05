@@ -1,5 +1,7 @@
 # suffocation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suffocation.md)
+
 <p><span class="chinese">灵魂的窒息症！</span><span class="english">Suffocation of the soul.</span></p>
 
 <p><span class="chinese">中国认为美国对华“战略包围”</span><span class="english">CHINA SEES ENCIRCLEMENT, SUFFOCATION</span></p>

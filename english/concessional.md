@@ -1,5 +1,7 @@
 # concessional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concessional.md)
+
 <p><span class="chinese">那些底线是你们没有办法让步的？</span><span class="english">Are those bottom lines are you concessional without method?</span></p>
 
 <p><span class="chinese">若是碰上硬梆梆的卖家，一点也不让步，她就觉得“买得不爽”。</span><span class="english">If touch, go up of hard rat-tat rat-tat sell the home, concessional not at all, she feels " buy accurate ".</span></p>

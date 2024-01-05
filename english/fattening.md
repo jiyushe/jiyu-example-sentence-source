@@ -1,5 +1,7 @@
 # fattening
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fattening.md)
+
 <p><span class="chinese">吃洋芋片是很容易发胖的。</span><span class="english">Potato chips are really fattening.</span></p>
 
 <p><span class="chinese">家畜吃早春的苜蓿而上膘。</span><span class="english">Herds are fattening on the early clover.</span></p>

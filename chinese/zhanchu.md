@@ -1,5 +1,7 @@
 # 展出
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanchu.md)
+
 <p><span class="chinese">这只獚在狗展中展出。</span><span class="english">The spaniel is benched.</span></p>
 
 <p><span class="chinese">你一定要看这场展出。</span><span class="english">You must see this show.</span></p>

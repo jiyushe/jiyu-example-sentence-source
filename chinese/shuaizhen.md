@@ -1,5 +1,7 @@
 # 率真
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuaizhen.md)
+
 <p><span class="chinese">因为你的坦白率真。</span><span class="english">Because of your frankness.</span></p>
 
 <p><span class="chinese">纯爷们儿的生活自己做主，活得率真，死得洋盘！！！</span><span class="english">Life is what you make it, live fast, die young! ! !</span></p>

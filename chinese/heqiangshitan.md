@@ -1,5 +1,7 @@
 # 荷枪实弹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heqiangshitan.md)
+
 <p><span class="chinese">毕格罗公司位于拉斯维加斯的工厂不但被铁丝网层层包围了起来，而且还有荷枪实弹的守卫在巡逻。</span><span class="english">The Las Vegas site is hemmed by barbed wire and patrolled by armed guards.</span></p>
 
 <p><span class="chinese">当荷枪实弹触发替代爆炸射和一个射击技能3次在一排里。</span><span class="english">When L&L procs alternate Explosive Shots and a Specialshot 3 times in a row.</span></p>

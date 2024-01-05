@@ -1,5 +1,7 @@
 # sexily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sexily.md)
+
 <p><span class="chinese">不要穿得太性感。</span><span class="english">Do not wear too sexily.</span></p>
 
 <p><span class="chinese">舞者随着乐曲性感地扭动着。</span><span class="english">The dancer twisted sexily to the music.</span></p>

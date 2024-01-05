@@ -1,5 +1,7 @@
 # 金冠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinguan.md)
+
 <p><span class="chinese">金冠是一个非常丰产的品种。</span><span class="english">Golden delicious is a very fruitful cultivar.</span></p>
 
 <p><span class="chinese">国王戴着华丽的金冠。</span><span class="english">The king was wearing a magnificent gold crown.</span></p>

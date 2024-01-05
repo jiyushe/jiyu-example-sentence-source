@@ -1,5 +1,7 @@
 # banking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/banking.md)
+
 <p><span class="chinese">云层正在招集。</span><span class="english">Clouds are banking up.</span></p>
 
 <p><span class="chinese">这就是银行业的起源。</span><span class="english">And that's how banking got started.</span></p>

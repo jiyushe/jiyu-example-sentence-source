@@ -1,5 +1,7 @@
 # shamanism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shamanism.md)
+
 <p><span class="chinese">它被称为“苍鑫式萨满教”。</span><span class="english">It's called Cang-style Shamanism.</span></p>
 
 <p><span class="chinese">但是萨满是兽人才有的习俗！</span><span class="english">But shamanism is an orcish practice!</span></p>

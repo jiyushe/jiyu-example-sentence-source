@@ -1,5 +1,7 @@
 # shazam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shazam.md)
+
 <p><span class="chinese">此外，沙札姆并不孤单。</span><span class="english">And Shazam is not alone.</span></p>
 
 <p><span class="chinese">沙札姆的资料库以较新的音乐为主。</span><span class="english">Shazam 's database focuses on newer music.</span></p>

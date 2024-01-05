@@ -1,5 +1,7 @@
 # haphazard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haphazard.md)
+
 <p><span class="chinese">任意的、随便的方法是不行的。</span><span class="english">No haphazard hit-or-miss methods will do.</span></p>
 
 <p><span class="chinese">采用测试策略和标准非常随意。</span><span class="english">Adoption test strategies and standards are haphazard.</span></p>

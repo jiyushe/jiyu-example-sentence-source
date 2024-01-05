@@ -1,5 +1,7 @@
 # netlike
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/netlike.md)
+
 <p><span class="chinese">髓磷脂在此标本中呈网状外观。</span><span class="english">The myelin has a netlike appearance in such preparations.</span></p>
 
 <p><span class="chinese">组网雷达是目前雷达发展的趋势。</span><span class="english">Netlike Radar System is the trend of radar development at present.</span></p>

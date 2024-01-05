@@ -1,5 +1,7 @@
 # carambola
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carambola.md)
+
 <p><span class="chinese">具有补血生津作用。</span><span class="english">Carambola role with blood.</span></p>
 
 <p><span class="chinese">我第一次见到杨桃树。</span><span class="english">I see carambola tree for the 1st time.</span></p>

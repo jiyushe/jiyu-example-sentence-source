@@ -1,5 +1,7 @@
 # haughty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haughty.md)
+
 <p><span class="chinese">他对我们很傲慢。</span><span class="english">He is haughty to us.</span></p>
 
 <p><span class="chinese">或者他们还态度傲慢地评论一番。</span><span class="english">Or they uttered haughty comments.</span></p>

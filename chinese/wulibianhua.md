@@ -1,5 +1,7 @@
 # 物理变化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wulibianhua.md)
+
 <p><span class="chinese">另一个物理变化也会发生。</span><span class="english">Another physical change would happen.</span></p>
 
 <p><span class="chinese">当冰淇凌融化了，一个物理变化也发生了。</span><span class="english">When ice cream melts, a physical change happens.</span></p>

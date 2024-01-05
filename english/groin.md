@@ -1,5 +1,7 @@
 # groin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/groin.md)
+
 <p><span class="chinese">我是乔正在抽筋的腹股沟。</span><span class="english">I am Joe's Shrinking Groin.</span></p>
 
 <p><span class="chinese">他用膝盖猛撞攻击者的下身。</span><span class="english">He kneed his attacker in the groin.</span></p>

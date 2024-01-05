@@ -1,5 +1,7 @@
 # deccan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deccan.md)
+
 <p><span class="chinese">来自德干河的印度半岛向上到克里希纳河河流域。</span><span class="english">India from Deccan rivers up to Krishna river system.</span></p>
 
 <p><span class="chinese">在豪华旅游列车的车轮宫，德干奥德赛，黄金战车。</span><span class="english">Travel in Luxury Trains Palace on Wheels, Deccan Odyssey, Golden Chariot.</span></p>

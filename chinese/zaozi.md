@@ -1,5 +1,7 @@
 # 凿子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaozi.md)
+
 <p><span class="chinese">他用凿子把胶合板拆开。</span><span class="english">He broke away the veneer with a chisel.</span></p>
 
 <p><span class="chinese">刀具、凿子和剪刀必须锋利尖锐。</span><span class="english">Knives, chisels and scissors must be sharp.</span></p>

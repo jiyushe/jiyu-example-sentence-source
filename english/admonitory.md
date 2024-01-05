@@ -1,5 +1,7 @@
 # admonitory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/admonitory.md)
+
 <p><span class="chinese">这是告诫性的。</span><span class="english">This is of an admonitory nature.</span></p>
 
 <p><span class="chinese">她向儿子投去责备的目光。</span><span class="english">She shot an admonitory glance at her son.</span></p>

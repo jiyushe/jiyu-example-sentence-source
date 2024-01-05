@@ -1,5 +1,7 @@
 # 众叛亲离
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongpanqinli.md)
+
 <p><span class="chinese">他的行为将导致众叛亲离。</span><span class="english">His behavior will make him utterly isolated.</span></p>
 
 <p><span class="chinese">这种人最后只能是众叛亲离。</span><span class="english">Such people can only end up being left alone.</span></p>

@@ -1,5 +1,7 @@
 # epoxide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epoxide.md)
+
 <p><span class="chinese">环氧树脂浸涂包封，单向引出。</span><span class="english">Coated and encapsulated with epoxide resin, and unilateral lead-out.</span></p>
 
 <p><span class="chinese">简要介绍环氧化物水解酶的研究进展。</span><span class="english">Progresses in research work of epoxide hydrolase were briefly introduced.</span></p>

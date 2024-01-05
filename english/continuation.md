@@ -1,5 +1,7 @@
 # continuation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/continuation.md)
+
 <p><span class="chinese">它只是你的交割日。</span><span class="english">It is simply your Continuation Day.</span></p>
 
 <p><span class="chinese">每个标记都只是个延续。</span><span class="english">But every badging is only a continuation.</span></p>

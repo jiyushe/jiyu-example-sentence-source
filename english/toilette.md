@@ -1,5 +1,7 @@
 # toilette
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toilette.md)
+
 <p><span class="chinese">请自带洗浴用品。</span><span class="english">Please use your own toilette.</span></p>
 
 <p><span class="chinese">我可是用了“三宅一生”的淡香水呢！</span><span class="english">I use the eau de toilette from Issey Miyake!</span></p>

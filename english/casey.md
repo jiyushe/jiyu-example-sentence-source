@@ -1,5 +1,7 @@
 # casey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/casey.md)
+
 <p><span class="chinese">没错，她是美国职棒大联盟的凯西戴格勒结婚！</span><span class="english">Yep she is married to MLBs Casey Daigle!</span></p>
 
 <p><span class="chinese">凯希从头到脚都有湿。</span><span class="english">Casey has eczema from her head to her feet.</span></p>

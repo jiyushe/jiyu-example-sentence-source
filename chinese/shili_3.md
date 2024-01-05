@@ -1,5 +1,7 @@
 # 失利
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shili_3.md)
+
 <p><span class="chinese">我太紧张了。我害怕我会失利。</span><span class="english">I'm too nervous. I'm afraid I'll fail.</span></p>
 
 <p><span class="chinese">球队为他们的失利而哀叹。</span><span class="english">The team were wailing over their defeat.</span></p>

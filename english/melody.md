@@ -1,5 +1,7 @@
 # melody
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/melody.md)
+
 <p><span class="chinese">旋律，旋律？</span><span class="english">A melody. A melody?</span></p>
 
 <p><span class="chinese">她哼哼着悦耳的乐调。</span><span class="english">She hummed a melody.</span></p>

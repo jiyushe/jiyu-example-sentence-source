@@ -1,5 +1,7 @@
 # 奋笔疾书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenbijishu.md)
+
 <p><span class="chinese">他奋笔疾书来完成他的小说。</span><span class="english">He sped his pen to complete his novel.</span></p>
 
 <p><span class="chinese">他奋笔疾书已经好几年了。</span><span class="english">He's been pegging away at his work for many years.</span></p>

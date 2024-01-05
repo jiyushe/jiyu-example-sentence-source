@@ -1,5 +1,7 @@
 # matriculation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/matriculation.md)
+
 <p><span class="chinese">如果我通过了升学考试我将去上大学。</span><span class="english">I'll go to college if I pass the Matriculation Exam.</span></p>
 
 <p><span class="chinese">今天是全国高考的第一天，全国数百万…</span><span class="english">Today is the first day of National Matriculation Test.</span></p>

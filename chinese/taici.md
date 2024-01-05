@@ -1,5 +1,7 @@
 # 台词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taici.md)
+
 <p><span class="chinese">标题让我想起一部经典电影的台词！</span><span class="english">I want to play a game.</span></p>
 
 <p><span class="chinese">他把最后一句台词轻声带过。</span><span class="english">He threw away the last line.</span></p>

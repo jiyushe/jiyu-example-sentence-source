@@ -1,5 +1,7 @@
 # timekeeper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/timekeeper.md)
+
 <p><span class="chinese">计时员由劳力士。</span><span class="english">Timekeeper by Rolex.</span></p>
 
 <p><span class="chinese">这钟是一个很好的定时器。</span><span class="english">This clock is a good timekeeper.</span></p>

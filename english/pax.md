@@ -1,5 +1,7 @@
 # pax
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pax.md)
+
 <p><span class="chinese">我要独自去帕克塔卡斯。</span><span class="english">I'm going to Pax Tharkas alone.</span></p>
 
 <p><span class="chinese">中东的“美式和平”主义者</span><span class="english">The "Pax Americana" in the Middle East</span></p>

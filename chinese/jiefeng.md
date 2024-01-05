@@ -1,5 +1,7 @@
 # 接风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiefeng.md)
+
 <p><span class="chinese">我们设宴为他归来接风。</span><span class="english">We gave a dinner to welcome him home.</span></p>
 
 <p><span class="chinese">是的。明晚将有一个接风宴。</span><span class="english">Yes, there is a welcoming dinner tomorrow night.</span></p>

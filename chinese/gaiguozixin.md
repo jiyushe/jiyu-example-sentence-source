@@ -1,5 +1,7 @@
 # 改过自新
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaiguozixin.md)
+
 <p><span class="chinese">他逐日改过自新。</span><span class="english">He amends day by day.</span></p>
 
 <p><span class="chinese">是你改过自新的时候了。</span><span class="english">It's time you amended your ways.</span></p>

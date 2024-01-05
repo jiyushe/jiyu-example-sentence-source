@@ -1,5 +1,7 @@
 # gastronomic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gastronomic.md)
+
 <p><span class="chinese">回过头再来想想关于美食的例子。</span><span class="english">Think back to the gastronomic example.</span></p>
 
 <p><span class="chinese">是这样，吉尔只是半个美食专家。</span><span class="english">Well, A.A. Gill is only half gastronomic.</span></p>

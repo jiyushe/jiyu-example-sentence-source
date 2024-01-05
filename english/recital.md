@@ -1,5 +1,7 @@
 # recital
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recital.md)
+
 <p><span class="chinese">在这种变幻中，请听虹云的朗诵。</span><span class="english">Please listen to Hong Yun's recital.</span></p>
 
 <p><span class="chinese">他的小提琴演奏会不受欢迎。</span><span class="english">His violin recital wasn't box-office.</span></p>

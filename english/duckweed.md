@@ -1,5 +1,7 @@
 # duckweed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duckweed.md)
+
 <p><span class="chinese">太多的水草可能会使鱼窒息。</span><span class="english">Too much duckweed is likely to choke the fish.</span></p>
 
 <p><span class="chinese">您一定在水箱内放了过多的水草。</span><span class="english">You must have put too much duckweed in the tank.</span></p>

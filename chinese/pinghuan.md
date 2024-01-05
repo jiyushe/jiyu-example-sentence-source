@@ -1,5 +1,7 @@
 # 平缓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinghuan.md)
+
 <p><span class="chinese">水流平缓。</span><span class="english">The water flows gently.</span></p>
 
 <p><span class="chinese">地势平缓。</span><span class="english">The terrain slopes gently.</span></p>

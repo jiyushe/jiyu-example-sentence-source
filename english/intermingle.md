@@ -1,5 +1,7 @@
 # intermingle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intermingle.md)
+
 <p><span class="chinese">油和水不相融。</span><span class="english">Oil and water will not intermingle.</span></p>
 
 <p><span class="chinese">斑点没有混合比较好。</span><span class="english">The less the spots intermingle the better.</span></p>

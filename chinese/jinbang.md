@@ -1,5 +1,7 @@
 # 金榜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinbang.md)
+
 <p><span class="chinese">一朝题名金榜，犹如鲤鱼跃上龙门。</span><span class="english">Jinbang title once, like a carp to leap onto the goal.</span></p>
 
 <p><span class="chinese">林语慧曾经叮嘱高金榜提防程碧剑。</span><span class="english">Lin Yuhui once told Cheng Bijian to beware of high gold.</span></p>

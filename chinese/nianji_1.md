@@ -1,5 +1,7 @@
 # 年纪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianji_1.md)
+
 <p><span class="chinese">她多大年纪了?</span><span class="english">How old is she?</span></p>
 
 <p><span class="chinese">我在你那个年纪的时候是在1975年。</span><span class="english">I was your age in 1975.</span></p>

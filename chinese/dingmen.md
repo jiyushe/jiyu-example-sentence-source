@@ -1,5 +1,7 @@
 # 顶门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingmen.md)
+
 <p><span class="chinese">顶门须更下金槌。</span><span class="english">Ding Men should be more golden hammer.</span></p>
 
 <p><span class="chinese">当地人又把“裹卷”叫“顶门棍”。</span><span class="english">Then the local people "Vol wrap" called "ding men stick.</span></p>

@@ -1,5 +1,7 @@
 # deodorant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deodorant.md)
+
 <p><span class="chinese">我使用的是无香型走珠除臭剂。</span><span class="english">I use unperfumed roll-on deodorant.</span></p>
 
 <p><span class="chinese">也许他应该不用除臭剂？</span><span class="english">Maybe he should go without deodorant?</span></p>

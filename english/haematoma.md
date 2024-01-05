@@ -1,5 +1,7 @@
 # haematoma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haematoma.md)
+
 <p><span class="chinese">慢性血肿是由什么引起的？怎么治疗？</span><span class="english">By what is chronic haematoma caused? How to treat?</span></p>
 
 <p><span class="chinese">恶性前列腺肿瘤可能并发自发颅内血肿。</span><span class="english">Prostate cancer can be complicated by spontaneous intracranial haematoma.</span></p>

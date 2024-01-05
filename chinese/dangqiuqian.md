@@ -1,5 +1,7 @@
 # 荡秋千
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangqiuqian.md)
+
 <p><span class="chinese">荡秋千.</span><span class="english">Swinging on swings.</span></p>
 
 <p><span class="chinese">荡秋千是我的最爱。</span><span class="english">Swing is my favorite.</span></p>

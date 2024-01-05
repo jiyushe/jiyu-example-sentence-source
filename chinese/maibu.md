@@ -1,5 +1,7 @@
 # 迈步
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maibu.md)
+
 <p><span class="chinese">托伊迈步向前，用口哨吹了一个双音。</span><span class="english">Troy stepped forward and whistled a double note.</span></p>
 
 <p><span class="chinese">在你迈步前进时把你挽回来。</span><span class="english">As thou goest onwards still will pluck thee back.</span></p>

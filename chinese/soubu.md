@@ -1,5 +1,7 @@
 # 搜捕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/soubu.md)
+
 <p><span class="chinese">搜捕工作变得更加紧张。</span><span class="english">The manhunt has become more intense.</span></p>
 
 <p><span class="chinese">警方正在镇上搜捕那个逃犯。</span><span class="english">The police are beating the town for the escapee.</span></p>

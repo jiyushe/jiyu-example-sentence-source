@@ -1,5 +1,7 @@
 # experimentally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/experimentally.md)
+
 <p><span class="chinese">这些机器正在被实验地使用着。</span><span class="english">The machine is being experimentally used.</span></p>
 
 <p><span class="chinese">这些机器正在被实验地使用着。</span><span class="english">We are using the substance experimentally at first.</span></p>

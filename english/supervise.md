@@ -1,5 +1,7 @@
 # supervise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supervise.md)
+
 <p><span class="chinese">让股东监督？</span><span class="english">Let shareholders supervise?</span></p>
 
 <p><span class="chinese">但你怎样监督呢？</span><span class="english">But how do you supervise this?</span></p>

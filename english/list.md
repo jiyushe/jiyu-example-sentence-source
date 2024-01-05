@@ -1,5 +1,7 @@
 # list 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/list.md)
+
 <p><span class="chinese">把它们都列出来。</span><span class="english">List them all.</span></p>
 
 <p><span class="chinese">你的任务列表呢？</span><span class="english">Your to do list?</span></p>

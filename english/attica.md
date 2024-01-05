@@ -1,5 +1,7 @@
 # attica
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attica.md)
+
 <p><span class="chinese">知道阿提卡的鲁比吗？</span><span class="english">You know Ruby's in Attica?</span></p>
 
 <p><span class="chinese">公元前525年出生于希腊阿提卡的埃琉西斯。</span><span class="english">Was born in 525 BC Greece Attica Aye sulfur Francis.</span></p>

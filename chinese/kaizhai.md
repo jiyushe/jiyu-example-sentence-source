@@ -1,5 +1,7 @@
 # 开斋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaizhai.md)
+
 <p><span class="chinese">在过去10年中，白宫每年都举办开斋晚宴。</span><span class="english">White House iftars have been held annually for the past 10 years.</span></p>
 
 <p><span class="chinese">餐桌的彩色碟盘上摆有各式各样美味的开斋饭。</span><span class="english">Tables were spread featuring colorful plates of appetizing treats.</span></p>

@@ -1,5 +1,7 @@
 # leaves
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leaves.md)
+
 <p><span class="chinese">苏克雷随即离开了。</span><span class="english">Sucre leaves.</span></p>
 
 <p><span class="chinese">在叶子上？</span><span class="english">On the leaves?</span></p>

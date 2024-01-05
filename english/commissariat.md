@@ -1,5 +1,7 @@
 # commissariat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commissariat.md)
+
 <p><span class="chinese">粮食是国民经济基础的基础。</span><span class="english">Commissariat is the foundation of national economy base.</span></p>
 
 <p><span class="chinese">很幸运，这个人说他是粮食局的头头。</span><span class="english">Very lucky, this person says he is the head of commissariat bureau.</span></p>

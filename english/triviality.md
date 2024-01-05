@@ -1,5 +1,7 @@
 # triviality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/triviality.md)
+
 <p><span class="chinese">记忆中的琐事。</span><span class="english">The triviality of my memory.</span></p>
 
 <p><span class="chinese">不要把妳的时间浪费在这些琐事上。</span><span class="english">Don't waste your time on such triviality.</span></p>

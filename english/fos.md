@@ -1,5 +1,7 @@
 # fos
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fos.md)
+
 <p><span class="chinese">全军都开始叫嚷着要将壕堑填平。</span><span class="english">The whole army begins to clamour for the fos se to be filled up.</span></p>
 
 <p><span class="chinese">得到低聚果糖生产的优化工艺条件。</span><span class="english">The optimized process conditions for producing FOS were obtained.</span></p>

@@ -1,5 +1,7 @@
 # yew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yew.md)
+
 <p><span class="chinese">我已经来到耀华是为了学习。</span><span class="english">I have come to Yew Wah to learn.</span></p>
 
 <p><span class="chinese">李光耀的出现是个异数。</span><span class="english">Kuan Yew is something of an oddity.</span></p>

@@ -1,5 +1,7 @@
 # muffle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/muffle.md)
+
 <p><span class="chinese">她停下来抑制她的抽泣。</span><span class="english">She paused to muffle her sobs.</span></p>
 
 <p><span class="chinese">他竭力抑制自己的感情。</span><span class="english">He did his utmost to  muffle his feelings.</span></p>

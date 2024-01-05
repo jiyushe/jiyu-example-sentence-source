@@ -1,5 +1,7 @@
 # 引用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinyong_1.md)
+
 <p><span class="chinese">不要错误地引用。</span><span class="english">Do not misquote.</span></p>
 
 <p><span class="chinese">大多数中文论文从未被人引用过。</span><span class="english">Most are never cited.</span></p>

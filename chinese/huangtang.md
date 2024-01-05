@@ -1,5 +1,7 @@
 # 荒唐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huangtang.md)
+
 <p><span class="chinese">这简直荒唐。</span><span class="english">This was ludicrous.</span></p>
 
 <p><span class="chinese">多么荒唐的念头!</span><span class="english">What an absurd idea!</span></p>

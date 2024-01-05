@@ -1,5 +1,7 @@
 # deserving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deserving.md)
+
 <p><span class="chinese">我们所应得的东西也不会比现在少。</span><span class="english">No less deserving than we are now.</span></p>
 
 <p><span class="chinese">你值得拥有幸福安康。</span><span class="english">You are deserving of this Well-being.</span></p>

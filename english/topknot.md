@@ -1,5 +1,7 @@
 # topknot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/topknot.md)
+
 <p><span class="chinese">头部被长而光滑的顶髻所覆盖。</span><span class="english">The head is surmounted by a topknot of long silky hair.</span></p>
 
 <p><span class="chinese">口吻部的毛发的颜色比头髻的颜色深。</span><span class="english">The hair on the muzzle is a little darker shade than the topknot.</span></p>

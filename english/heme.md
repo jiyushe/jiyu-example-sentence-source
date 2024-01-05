@@ -1,5 +1,7 @@
 # heme
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heme.md)
+
 <p><span class="chinese">这一结构叫做血红素基因。</span><span class="english">This structure is called the heme group.</span></p>
 
 <p><span class="chinese">食物中的铁分为血红素铁和非血红素铁两种。</span><span class="english">Heme iron in food is divided into two kinds of iron and non-heme iron.</span></p>

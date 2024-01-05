@@ -1,5 +1,7 @@
 # fortissimo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fortissimo.md)
+
 <p><span class="chinese">音量从极弱到最强的分级。</span><span class="english">Graduate the volume from pianissimo to fortissimo.</span></p>
 
 <p><span class="chinese">绝望的决斗！机动要塞超强音！</span><span class="english">The Duel of Despair! Fortissimo the Moving Fortress!</span></p>

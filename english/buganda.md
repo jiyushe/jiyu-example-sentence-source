@@ -1,5 +1,7 @@
 # buganda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buganda.md)
+
 <p><span class="chinese">去年的暴动发生之后，乌干达民众和政府之间的关系变得非常紧张。</span><span class="english">Relations between the Buganda people and the government have been tense since riots last year.</span></p>
 
 <p><span class="chinese">卡苏比王陵位于首都坎帕拉的市郊，受到乌干达人数最多的部族布甘达人民的敬仰。</span><span class="english">Kasubi tombs just outside the capital Kampala are revered by Uganda's most populous tribe, the Buganda.</span></p>

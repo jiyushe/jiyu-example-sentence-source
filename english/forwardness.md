@@ -1,5 +1,7 @@
 # forwardness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forwardness.md)
+
 <p><span class="chinese">他不由地轻笑，为她那大胆而直接的眼神。</span><span class="english">He stared back, with a slight smile at her forwardness.</span></p>
 
 <p><span class="chinese">高弹性、速度快，前冲性快攻反胶，既有速度，又有旋转。</span><span class="english">It has characteristics of high elasticity, fast speed, forwardness and high spinning.</span></p>

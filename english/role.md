@@ -1,5 +1,7 @@
 # role 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/role.md)
+
 <p><span class="chinese">我们的角色是什么？</span><span class="english">What is our role?</span></p>
 
 <p><span class="chinese">炮泥的作用是什么？</span><span class="english">What is the role ne?</span></p>

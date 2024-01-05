@@ -1,5 +1,7 @@
 # 京剧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingju.md)
+
 <p><span class="chinese">你喜欢京剧吗？</span><span class="english">Do you like Beijing Opera?</span></p>
 
 <p><span class="chinese">她不喜欢看京剧。</span><span class="english">She abominates Beijing Opera.</span></p>

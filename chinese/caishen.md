@@ -1,5 +1,7 @@
 # 财神
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caishen.md)
+
 <p><span class="chinese">民间传说，财神即五路神。</span><span class="english">Folklore, wealth five fields.</span></p>
 
 <p><span class="chinese">若冰来了，财神来了，七姑来了。</span><span class="english">If the ice comes, God came to seven gu.</span></p>

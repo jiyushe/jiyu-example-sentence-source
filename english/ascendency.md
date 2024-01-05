@@ -1,5 +1,7 @@
 # ascendency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ascendency.md)
+
 <p><span class="chinese">该轮到我处于支配地位了。</span><span class="english">It was MY time to assume ascendency.</span></p>
 
 <p><span class="chinese">目前束缚着我们，并不只是他的支配地位。</span><span class="english">Not his ascendency alone, however, held me in thrall at present.</span></p>

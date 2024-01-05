@@ -1,5 +1,7 @@
 # 笑盈盈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoyingying.md)
+
 <p><span class="chinese">百花见了笑盈盈哟。</span><span class="english">Flowers see them smiling.</span></p>
 
 <p><span class="chinese">这个孩子笑盈盈的。</span><span class="english">The child rattled away merrily.</span></p>
